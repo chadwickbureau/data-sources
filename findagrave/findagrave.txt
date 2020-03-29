@@ -306,7 +306,7 @@ burial Holy Sepulchre Cemetery @ US/NY/Rochester
 
 !citation findagrave.com @ 2019-05-12
 !url https://www.findagrave.com/memorial/127375122
-!contributor Jack Morris <jackmo77@comcast.net> @ 2019-0205-12
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-05-12
  
 #profile Russo, Elio B.
 key Russo_Elio

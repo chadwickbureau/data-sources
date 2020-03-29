@@ -99,7 +99,7 @@ playing 1929 Denver; P_G=38; P_W=17; P_L=10
 #profile Strong, Leslie
 key 201901_020
 player 1930 Denver (Western); @P BL TL; age=23
-playing 1929 Springfield; location=US/MO/Springfield; caliber=semipro
+player 1929 Springfield; location=US/MO/Springfield; caliber=semipro
 
 #profile Greer, Ed
 key 201901_021
@@ -191,7 +191,7 @@ playing 1929 Coleman; B_G=116; B_AVG=.253; F_PCT=.916
 #profile Crumpton, Hal
 key 201901_038
 player 1930 Pueblo (Western); @SS BR TR; age=24
-playing 1929 Coleman; B_G=107; B_AVG. 240; F_PCT=.913
+playing 1929 Coleman; B_G=107; B_AVG=.240; F_PCT=.913
 
 #profile McIsaac, Gus
 key 201901_039
@@ -248,12 +248,12 @@ playing 1929 Joplin/Shawnee; B_G=136; B_AVG=.323; F_PCT=.976
 #profile Keller, Charles
 key 201901_049
 player 1930 Pueblo (Western); @C BR TR; age=21
-playing 1929 Independence; location=US/KS/Independence; caliber=semipro
+player 1929 Independence; location=US/KS/Independence; caliber=semipro
 
 #profile Rice, Roderick
 key 201901_050
 player 1930 Pueblo (Western); @C BL TR; age=25
-playing 1929 El Reno; location=US/OK/El Reno; caliber=semipro
+player 1929 El Reno; location=US/OK/El Reno; caliber=semipro
 
 #profile Naylor, Roderick
 key 201901_051
@@ -288,7 +288,7 @@ player 1929 Kansas City; location=US/MO/Kansas City; caliber=semipro
 #profile Nadeau, Joseph
 key 201901_057
 player 1930 Pueblo (Western); @P BL TL; age=20
-playing 1929 St. Mary's; caliber=semipro
+player 1929 St. Mary's; caliber=semipro
 
 #profile Spaulding, Michael
 key 201901_058
@@ -358,7 +358,7 @@ playing 1929 Oklahoma City; B_G=147; B_AVG=.250; F_PCT=.985
 #profile Newman, R. F.
 key 201901_070
 player 1930 Oklahoma City (Western); @1B BR TR; age=20
-playing 1929 Wellington [state=TX] [caliber=semipro]
+player 1929 Wellington; location=US/TX/Wellington; caliber=semipro
 
 #profile Lowell, Edwin
 key 201901_071
@@ -535,12 +535,12 @@ playing 1929 St. Louis (American); B_G=16; B_AVG=.244
 #profile Silva, Manuel
 key 201901_105
 player 1930 Topeka (Western); @2B BR TR; age=20
-playing 1929 Novata [state=CA] [caliber=semipro]
+player 1929 Novata; location=US/CA/Novata; caliber=semipro
 
 #profile Page, Ray
 key 201901_106
 player 1930 Topeka (Western); @1B BL TL; age=21
-playing 1929 Roxbury; location=US/MA/Roxbury; caliber=semipro
+player 1929 Roxbury; location=US/MA/Roxbury; caliber=semipro
 
 #profile Labetich, John
 key 201901_107
@@ -565,7 +565,7 @@ playing 1929 Tulsa; B_G=161; B_AVG=.283; F_PCT=.953
 #profile Trowbridge, C.
 key 201901_111
 player 1930 Topeka (Western); @CF BR TR; age=21
-playing 1929 Columbia; location=US/MO/Columbia; caliber=semipro
+player 1929 Columbia; location=US/MO/Columbia; caliber=semipro
 
 #profile Rauding, Herb
 key 201901_112
@@ -625,7 +625,7 @@ player 1929 Los Angeles; location=US/CA/Los Angeles; caliber=semipro
 #profile Borgman, Kenneth
 key 201901_123
 player 1930 Topeka (Western); @P BL TL; age=21
-playing 1929 Springfield [state=MO]; P_G=27; P_W=8; P_L=6
+playing 1929 Springfield; P_G=27; P_W=8; P_L=6; location=US/MO/Springfield
 
 #profile Cooney, Robert
 key 201901_124
@@ -690,7 +690,7 @@ playing 1929 Wichita Falls; P_G=23; P_W=6; P_L=3
 #profile Ellis, Edwin
 key 201901_136
 player 1930 Topeka (Western); @P BL TL; age=26
-playing 1929 Springfield [state=MO]; P_G=32; P_W=12; P_L=7
+playing 1929 Springfield; P_G=32; P_W=12; P_L=7; location=US/MO/Springfield
 
 ---
 

@@ -29,7 +29,7 @@ birth 1861-05
 #profile Cameron, John S.
 key 199110_Cameron
 describe ; mlbfirst=1906
-birth 184-09 @ CA/NS
+birth 1884-09 @ CA/NS
 
 #profile Carter, Arnold Lee
 key 199110_Carter
