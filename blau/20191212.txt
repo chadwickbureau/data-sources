@@ -1,0 +1,81 @@
+!citation Knoxville Sentinel @ 1912-04-26; page 12
+
+#profile Silvers, S. E.
+key 20191212_001
+player 1912 Knoxville (Appalachian); H74 W172
+resides 1912 @ US/TN/Knoxville
+
+#profile Knox, William
+key 20191212_002
+player 1912 Knoxville (Appalachian); H68 W155
+resides 1912 @ US/TN/Knoxville
+
+#profile Wynne, William
+key 20191212_003
+player 1912 Knoxville (Appalachian); H71 W168
+resides 1912 @ US/NC/Raleigh
+
+#profile Winston, George
+key 20191212_004
+player 1912 Knoxville (Appalachian); H71 W172
+resides 1912 @ US/NC/Oak Ridge
+
+#profile Judd, R. D.
+key 20191212_005
+player 1912 Knoxville (Appalachian); H71 W176
+resides 1912 @ US/KY/Columbia
+
+#profile Frye, L. H.
+key 20191212_006
+player 1912 Knoxville (Appalachian); H70 W168
+resides 1912 @ US/KY/Leesburg
+
+#profile Martin, P. L.
+key 20191212_007
+player 1912 Knoxville (Appalachian); H74 W174
+resides 1912 @ US/SC/Spartanburg
+
+---
+
+!citation Tuscaloosa News @ 1913-07-11; page 3
+
+#profile Moody, Farley
+key 20191212_008
+player 1913 Talladega (Georgia-Alabama)
+resides 1913 @ US/AL/Tuscaloosa
+
+---
+
+!citation Tuscaloosa News @ 1913-08-24; page 3
+
+#profile Van de Graaf
+key 20191212_009
+player 1913 Talladega (Georgia-Alabama)
+resides 1913 @ US/AL/Tuscaloosa
+
+---
+
+!citation Atlanta Constitution @ 1915-04-18; page 5
+
+#profile Bowden
+key 20191212_010
+player 1915 Gainesville (Florida-Alabama-Georgia); TR
+resides 1915 @ US/FL/Dade City
+
+---
+
+!citation Winston-Salem Twin-City Daily Sentinel @ 1915-03-27; page 10
+
+#profile Spaugh
+key 20191212_011
+player 1914 Macon (South Atlantic); TL
+player 1915 Winston-Salem (North Carolina State)
+resides 1915 @ US/NC/Winston-Salem
+
+---
+
+!citation Winston-Salem Twin-City Daily Sentinel @ 1915-04-06; page 8
+
+#profile Spaugh, Tom
+key 20191212_012
+player 1915 Winston-Salem (North Carolina State)

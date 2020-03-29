@@ -1,0 +1,7 @@
+!citation St. Louis Post-Dispatch @ 1939-08-20
+!file Elwert_William.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-03-13
+
+#profile Elwert, William, Sr.
+key 193908_Elwert
+death 1939-08-19 @ US/OH/Toledo

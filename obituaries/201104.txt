@@ -1,0 +1,9 @@
+!citation Oakdale Mortuary & Oakdale Memorial Park @ 2019-10-07
+!url https://www.dignitymemorial.com/obituaries/glendora-ca/craig-barnes-4656553
+!file Barens_Craig.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-07
+
+#profile Barnes, Craig Kevin
+key 201104_Barnes
+birth 1951-10-26
+death 2011-04-25

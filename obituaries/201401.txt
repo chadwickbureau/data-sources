@@ -1,0 +1,11 @@
+!citation Harris Funeral Home @ 2018-07-20
+!url http://www.harrisfuneralhomeinc.net/obituary/2386584
+!file Flythe_Matt.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-07-20
+
+#profile Flythe, Matt F.
+key 201401_Flythe
+birth 1929-06-10
+death 2014-01-19 @ US/FL/Lake City
+military US Air Force 
+burial Live Oak Cemetery @ US/FL/Live Oak

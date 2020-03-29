@@ -1,0 +1,7 @@
+!citation Gastonia Gazette @ 1971-12-25
+!file Jack_Zelman.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-11-30
+
+#profile Jack, Zelman
+key 197112_Jack
+death 1971-12-23 @ MX/Sinaloa/Guasave

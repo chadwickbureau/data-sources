@@ -1,0 +1,40 @@
+!citation Portland Tribune @ 2018-05-29
+!url https://portlandtribune.com/obits/187-cby-obituaries/396801-290960-robert-lee-christiansen
+!file Christiansen_Bob.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-10-04
+
+#profile Christiansen, Robert Lee [Bob]
+key 201804_Christiansen
+birth 1940-04-01 @ US/NE/Hardy
+death 2018-04-18 @ US/AZ/Phoenix
+highschool Benson Polytechnic HS @ US/OR/Portland
+college University of Oregon
+
+---
+
+!citation DignityMemorial.com @ 2018-06-24
+!url https://www.dignitymemorial.com/obituaries/rochester-mi/kenneth-campbell-7823007
+!file Campbell_Ken.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-06-24
+
+#profile Campbell, Kenneth J. [Ken]
+key 201804_Campbell
+birth 1927-10-26 @ US/MI/Pontiac
+death 2018-04-15
+highschool Lake Orion HS @ US/MI/Lake Orion
+military US Army @ World War II
+burial Van Hoosen Jones Stoney Creek Cemetery @ US/MI/Rochester
+
+---
+
+!citation Shoshone Funeral Home @ 2018-06-24
+!url https://www.shoshonefuneralservice.com/notices/Roger-Fulton/
+!file Fulton_Roger.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-06-24
+
+#profile Fulton, Roger Lloyd
+key 201804_Fulton
+birth 1931-08-28 @ US/SD/Lead
+death 2018-04-23 @ US/ID/Kellogg
+highschool Rose Lake HS @ US/ID/Rose Lake
+college Lewis-Clark State College

@@ -1,0 +1,339 @@
+!citation James Funeral Home @ 2018-07-20
+!url http://jamesfuneralhomelkn.com/daniel-arendas
+!file Arendas_Dan.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-07-20
+
+#profile Arendas, Daniel Paul [Dan]
+key 201712_Arendas
+death 2017-12-11
+highschool West Windsor-Plainsboro HS @ US/NJ/Princeton Junction
+college Princeton University
+
+---
+
+!citation Wages & Sons Funeral Home @ 2018-07-17
+!url https://www.wagesandsons.com/obit/joe-miller-mckelvey-jr/
+!file McKelvey_Joe.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-07-17
+
+#profile McKelvey, Joe Miller, Jr.
+key 201712_McKelvey
+birth 1932-03-16 @ US/GA/Duluth
+death 2017-12-23
+highschool Duluth HS @ US/GA/Duluth
+burial White Chapel Memorial Gardens @ US/GA/Duluth
+
+---
+
+!citation Gregory Funeral Service @ 2018-06-16
+!url http://216.119.69.91/ArticObits/Obitsnew/Landing_Obituary.aspx?oid=127802&view=
+!file Forney_Carl_2.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-06-16
+
+#profile Forney, Carl Edward "Satch"
+key 201712_Forney_2
+birth 1937-05-15
+death 2017-12-16 @ US/NC/Gastonia
+highschool Reid HS @ US/NC/Belmont
+burial Rose Hill Cemetery @ US/NC/Gastonia
+
+---
+
+!citation Gaston Gazette @ 2017-12-23
+!url http://www.gastongazette.com/sports/20171223/gaston-countys-last-homegrown-negro-league-alumnus-dies
+!file Forney_Carl_1.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-06-16
+
+#profile Forney, Carl "Satch"
+key 201712_Forney_1
+death 2017-12-16 @ US/NC/Gastonia
+
+---
+
+!citation Seattle Times @ 2017-12-31
+!url http://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=nick-a-castas&pid=187690837&fhid=19677&eid=sp_ommatch
+!file Castas_Nick.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-12-31
+
+#profile Castas, Nickolas Alexander [Nick]
+key 201712_Castas
+birth @ US/WA/Seattle
+death 2017-12-23 @ US/WA/Issaquah
+describe ; TL
+highschool Lincoln HS @ US/WA/Seattle
+military US Army 
+burial Evergreen Washelli Memorial Park @ US/WA/Seattle
+
+---
+
+!citation Sacramento Bee @ 2017-12-31
+!url http://www.legacy.com/obituaries/sacbee/obituary.aspx?n=thomas-p-torchia-tommy&pid=187687418
+!file Torchia_Tommy.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-12-31
+
+#profile Torchia, Thomas P. [Tommy]
+key 201712_Torchia
+birth 1924-01-20 @ US/NY/Ithaca
+death 2017-12-18
+highschool Sacramento HS @ US/CA/Sacramento
+military US Navy @ World War II
+
+---
+
+!citation Shives Funeral Home @ 2017-12-30
+!url http://www.shivesfuneralhome.com/obituaries/Jerome-Baughman/#!/Obituary
+!file Baughman_Jerome.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-12-30
+
+#profile Baughman, Jerome
+key 201712_Baughman
+birth 1928-10-11 @ US/SC/North
+death 2017-12-29 @ US/SC/Columbia
+burial Greenlawn Memorial Park @ US/SC/Columbia
+
+---
+
+!citation Victoria Times Colonist @ 2017-12-30
+!url http://www.legacy.com/obituaries/timescolonist/obituary.aspx?n=arthur-worth&pid=187676892
+!file Worth_Art.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-12-30
+
+#profile Worth, Arthur James [Art]
+key 201712_Worth
+birth 1929-02-23 @ CA/BC/Victoria
+death 2017-12-20
+
+---
+
+!citation Deisler Funeral Home @ 2017-12-29
+!url http://www.deislerfuneralhome.com/obituaries/Alvin-Al-Luplow/#!/Obituary
+!file Luplow_Al.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-12-29
+
+#profile Luplow, Alvin D. [Al]
+key 201712_Luplow
+birth 1939-03-13 @ US/MI/Saginaw
+death 2017-12-28
+highschool St. Andrew HS @ US/MI/Saginaw
+college Michigan State University
+burial St. Andrew Cemetery @ US/MI/Saginaw
+
+---
+
+!citation Greenwood Commonwealth @ 2017-12-21
+!url http://www.gwcommonwealth.com/obituaries/article_5f36b456-e676-11e7-b3f6-b75c6f6daf83.html
+!file Sanders_Willie.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-12-28
+
+#profile Sanders, Willie Leon
+key 201712_Sanders
+death 2017-12-16 @ US/MS/Jackson
+military US Army 
+burial St. Peter Rock Cemetery @ US/MS/Beauregard
+
+---
+
+!citation Forbis & Dick Funeral Home @ 2017-12-27
+!url http://www.forbisanddick.com/obituaries/Jack-Ward-6/#!/Obituary
+!file Ward_Jack_2.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-12-28
+
+#profile Ward, Jack Stewart
+key 201712_Ward
+birth 1927-09-12 @ US/NC/Davidson County
+death 2017-12-22 @ US/NC/Salisbury
+college Catawba College
+military US Army 
+burial Rose Cemetery @ US/NC/Mocksville
+
+---
+
+!citation Calgary Herald @ 2017-12-27
+!url http://www.legacy.com/obituaries/calgaryherald/obituary.aspx?n=john-francis-cozens&pid=187646137&eid=sp_ommatch
+!file Cozens_John.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-12-27
+
+#profile Cozens, John Francis
+key 201712_Cozens
+birth 1931-10-19 @ CA/ON/Toronto
+death 2017-12-23 @ CA/AB/Calgary
+
+---
+
+!citation Centruies Memorial Park & Funeral Home @ 2017-12-27
+!url http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Everett-Joyner&lc=4040&pid=187633416&mid=7692757
+!file Joyner_Ev.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-12-27
+
+#profile Joyner, Everett, Jr. [Ev]
+key 201712_Joyner
+birth 1926-09-09
+death 2017-12-23
+military US Marines 
+burial Forest Park Cemetery West @ US/LA/Shreveport
+
+---
+
+!citation Montville Funeral Home @ 2017-12-26
+!url http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=MARCUS-JOB&lc=2080&pid=187549927&mid=7681617
+!file Job_Marcus.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-12-26
+
+#profile Job, Marcus P.
+key 201712_Job
+birth 1929-03-09 @ US/NY/Bronx
+death 2017-12-16
+military US Marines 
+burial St. Patrick Cemetery @ US/CT/Uncasville
+
+---
+
+!citation Yakima Herald @ 2017-12-22
+!url http://www.yakimaherald.com/obituaries/lyman-leon-akers/article_d70d7380-e765-11e7-9215-07a8dd1f3ebd.html
+!file Akers_Leon.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-12-26
+
+#profile Akers, Lyman Leon [Leon]
+key 201712_Akers
+birth 1928-02-22 @ US/IN/Rockville
+death 2017-12-15
+highschool Yakima HS @ US/WA/Yakima
+college Yakima Valley College
+college Oregon State University
+military US Army @ Korean War
+
+---
+
+!citation Reed Funeral Home @ 2017-12-24
+!url http://www.reedfuneralhome.com/obituary/Robert-D.-Nichols/Canton-Ohio/1770740
+!file Nichols_Robert.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-12-24
+
+#profile Nichols, Robert D.
+key 201712_Nichols
+birth 1925-07-18 @ US/OH/Canton
+death 2017-12-18 @ US/OH/Canton
+
+---
+
+!citation Star Advertiser @ 2017-12-22
+!url http://www.staradvertiser.com/2017/12/22/sports/lew-matlin-96-dies/
+!file Matlin_Lew.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-12-22
+
+#profile Matlin, Lew
+key 201712_Matlin
+death 2017-12-21 @ US/MI
+
+---
+
+!citation Herr Funeral Home @ 2017-12-22
+!url http://www.herrfuneral.com/book-of-memories/3378800/Basarich-John/obituary.php
+!file Basarich_John.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-12-22
+
+#profile Basarich, John "Yonko"
+key 201712_Basarich
+birth 1939-08-01 @ US/IL/East St. Louis
+death 2017-12-19 @ US/IL/Maryville
+highschool East Side HS @ US/IL/East St. Louis
+college Huron University @ US/SD/Huron
+
+---
+
+!citation NorthJersey.com @ 2017-12-22
+!url http://www.legacy.com/obituaries/northjersey/obituary.aspx?n=eric-katzman&pid=187599895&fhid=17105
+!file Katzman_Eric.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-12-22
+
+#profile Katzman, Eric
+key 201712_Katzman
+death 2017-12-20
+highschool Northern Valley Regional HS at Old Tappan @ US/NJ/Old Tappan
+college University of Michigan
+
+---
+
+!citation San Francisco Chronicle @ 2017-12-24
+!url http://www.legacy.com/obituaries/sfgate/obituary.aspx?n=attilio-bazzani&pid=187590268&fhid=11431&eid=sp_ommatch
+!file Bazzani_Til.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-12-21
+
+#profile Bazzani, Attilio [Til]
+key 201712_Bazzani
+birth 1926-07-21 @ IT/Brescia/Bagolino
+death 2017-12-16 @ US/CA/Grass Valley
+military US Coast Guard 
+burial Mohawk Cemetery @ US/CA/Mohawk
+
+---
+
+!citation Oak Grove Funeral Home @ 2017-12-21
+!url http://www.oakgrovefh.com/book-of-memories/3379174/Beckman-Rod/obituary.php
+!file Beckman_Rod.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-12-21
+
+#profile Beckman, Rod
+key 201712_Beckman
+birth 1948 @ US/MI/Shelby
+death 2017-12-20
+highschool Shelby HS @ US/MI/Shelby
+college Oklahoma State University
+college Muskegon Community College
+
+---
+
+!citation Messinger Mortuary @ 2017-12-20
+!url https://www.messingermortuary.com/notices/BoyceJack-Keys
+!file Keys_Jack.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-12-20
+
+#profile Keys, Boyce Lee, Jr. [Jack]
+key 201712_Keys
+birth 1939-01-20 @ US/OK/Tahlequah
+death 2017-12-11 @ US/AZ/Scottsdale
+highschool Tahlequah HS @ US/OK/Tahlequah
+military US Army 
+
+---
+
+!citation Herman Funeral Home @ 2017-12-19
+!url http://www.hermanfh.com/memsol.cgi?user_id=2049271
+!file Gallagher_Doug.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-12-19
+
+#profile Gallagher, Douglas Eugene [Doug]
+key 201712_Gallagher
+birth 1940-02-21 @ US/OH/Fremont
+death 2017-12-17 @ US/OH/Fremont
+highschool Fremont Ross HS @ US/OH/Fremont
+military US Air Force 
+burial Greenlawn Memory Gardens @ US/OH/Clyde
+
+---
+
+!citation Sacramento Bee @ 2017-12-19
+!url http://www.legacy.com/obituaries/sacbee/obituary.aspx?n=ray-lee-sisler&pid=187569812
+!file Sisler_Ray.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-12-19
+
+#profile Sisler, Ray Lee, Jr.
+key 201712_Sisler
+birth 1930-02-01 @ US/CA/Sacramento
+death 2017-12-13 @ US/CA/Elverta
+highschool Grant Union HS @ US/CA/Sacramento
+
+---
+
+!citation Schermesser Funeral Home @ 2017-12-19
+!url http://www.schermesserfh.com/notices/Edwin-Finical
+!file Finical_Ed.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-12-19
+
+#profile Finical, Edwin R. [Ed]
+key 201712_Finical
+birth 1926-08-06 @ US/OH/Cadiz
+death 2017-12-15
+highschool Cadiz HS @ US/OH/Cadiz
+college Wittenberg University
+military US Navy @ World War II

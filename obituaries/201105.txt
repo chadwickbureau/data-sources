@@ -1,0 +1,26 @@
+!citation Burnside Funeral Home @ 2019-10-24
+!url https://burnsidefuneralhome.com/book-of-memories/1458942/Hathaway-Robert/obituary.php
+!file Hathaway_Robert.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-24
+
+#profile Hathaway, Robert B.
+key 201105_Hathaway
+birth 1932-04-21 @ US/WV/Anmoore
+death 2011-05-23 @ US/WV/Bridgeport
+highschool Bridgeport HS @ US/WV/Bridgeport
+military US Army @ Korean War
+burial Bridgeport Cemetery @ US/WV/Bridgeport
+
+---
+
+!citation McNett Funeral Home @ 2018-07-20
+!url http://mcnettfuneralhome.com/book-of-memories/2344768/Black-Gerome22Judge22/obituary.php
+!file Black_GC.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-07-20
+
+#profile Black, Gerome Cloyd [G. C.]
+key 201105_Black
+birth 1931-06-29 @ US/TX/Merkel
+death 2011-05-21 @ US/TX/Nolan County
+military US Army @ Korean War
+burial Andrews West Cemetery @ US/TX/Andrews

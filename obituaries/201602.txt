@@ -1,0 +1,9 @@
+!citation Sylvan Abbey Funeral Home @ 2019-10-24
+!url https://www.dignitymemorial.com/obituaries/clearwater-fl/john-scargle-6790997
+!file Scargle_John.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-24
+
+#profile Scargle, John Gordon
+key 201602_Scargle
+birth 1932-10-02
+death 2016-02-05

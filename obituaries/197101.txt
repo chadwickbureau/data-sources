@@ -1,0 +1,7 @@
+!citation Cleveland Plain Dealer 1971-01-08
+!file Roth_Vincent.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-02-26
+ 
+#profile Roth, Vincent T.
+key 197106_Roth
+death 1971-01-06 @ US/TX/Houston

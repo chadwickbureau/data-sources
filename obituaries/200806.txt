@@ -1,0 +1,12 @@
+!citation Tributes.com @ 2019-03-10
+!url http://www.tributes.com/obituary/show/Raymond-Carl-Anderson-83463756
+!file Anderson_Raymond.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-03-10
+
+#profile Anderson, Raymond Carl, Jr. 
+key 200806_Anderson
+birth 1928-09-23 @ US/NJ/Bordentown
+death 2008-06-07 @ US/MI/Grand Blanc
+highschool Trenton Catholic HS @ US/NJ/Trenton
+military US Army @ Korean War
+burial St. John Cemetery @ US/MI/Fenton

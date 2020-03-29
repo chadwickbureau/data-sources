@@ -1,0 +1,11 @@
+!citation San Diego Union Tribune @ 2018-08-19
+!url https://www.legacy.com/obituaries/sandiegouniontribune/obituary.aspx?n=jewell-ann-hill&pid=189986889
+!file Hill_David.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-08-19
+
+#profile Hill, David W. [Dave]
+key 199500_Hill
+death 1995
+highschool Southwest HS @ US/MO/St. Louis
+college Washington University
+military US @ Korean War

@@ -1,0 +1,9 @@
+!citation Lima News @ 2015-12-30
+!url http://www.legacy.com/obituaries/limaohio/obituary.aspx?n=glenn-taylor&pid=177093148&fhid=27800
+!file Taylor_Fred.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-12-12
+
+#profile Taylor, Glenn Fred [Fred]
+key 201512_Taylor
+death 2015-12-29 @ US/OH/Lima
+burial Walnut Hill Cemetery @ US/OH/New Hampshire

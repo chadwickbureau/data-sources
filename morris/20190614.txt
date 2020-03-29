@@ -1,0 +1,68 @@
+!citation  El Paso Times 1916-07-22; page 8
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#profile Bieloper, Hap
+key 20190614_001
+player 1915 (California Winter)
+
+---
+
+!citation  San Diego Tribune 1917-04-14; page 10
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#profile Bieloper, Hap
+key 20190614_002
+player 1917 Sherman (Western Association)
+player 1917 Dallas (Texas)
+
+---
+
+!citation  Los Angeles Times 1915-12-18; page 6
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#profile Leake, Hollis
+key 20190614_003
+player 1915 Cline-Cline (California Winter)
+player 1915 (Imperial Valley) 
+
+---
+
+!citation  San Bernardino County Sun 1915-12-21; page 9
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#profile Dorsch, Bill 
+key 20190614_004
+player 1915 San Bernardino (California Winter)
+
+#profile Poole, Roy
+key 20190614_005
+player 1915 San Bernardino (California Winter)
+
+---
+
+!citation  San Bernardino County Sun 1911-09-07; page 9
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#profile Dorsch, Bill 
+key 20190614_006
+player 1911 Superior (Nebraska State)
+
+---
+
+!citation  Munster Times 1915-11-16; page 6
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#profile Williams, Stringbean
+key 20190614_007
+player 1915 Chicago (California Winter)
+
+---
+
+!citation  San Diego Tribune 1915-12-23; page 10
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#profile Defty, Harry
+key 20190614_008
+player 1915 Cline-Cline (California Winter)
+player 1915 San Pedro Merchants [caliber=semi-pro]
+

@@ -1,0 +1,114 @@
+!citation Golden Gate Funeral Home @ 2019-01-07
+!url https://www.goldengatefuneralhome.com/notices/GLEN-CLARK?fbclid=IwAR2JJ66htrDsgJ0fXhH5SQD8sCM5eyHzTGTqq9EConEjPbZsKCk4w9NRkDk
+!file Clark_Glen.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-01-07
+
+#profile Clark, Glen
+key 201801_Clark
+birth 1940-03-10
+death 2018-01-25
+
+---
+
+!citation LaPrensaDeMonclova.com @ 2018-01-15
+!url http://laprensademonclova.com/2018/01/15/fanaticos-del-deporte-81/
+!file Gonzalez_Wenceslao.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-10-05
+
+#profile Gonzalez (Limon), Wenceslao "Chalayo"
+key 201801_Gonzalez
+death 2018-01-12 @ MX/Coahuila/Sabinas
+
+---
+
+!citation Mission Park Funeral Home @ 2018-10-04
+!url https://www.missionparks.com/obituaries/Robert-Betz-3/#!/Obituary
+!file Betz_Robert.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-10-04
+
+#profile Betz, Robert Joseph
+key 201801_Betz
+birth 1924-09-18 @ US/IA/Sioux City
+death 2018-01-11
+highschool Trinity HS @ US/IA/Sioux City
+military US Marines @ World War II
+burial Arlington National Cemetery @ US/VA/Arlington
+
+---
+
+!citation Moody Funeral Home @ 2018-10-03
+!url http://www.moodyfuneralhome.com/obituary/4509768
+!file Savage_Hank.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-10-03
+
+#profile Savage, William Henry [Hank]
+key 201801_Savage
+birth 1926-10-12
+death 2018-01-03
+
+---
+
+!citation DignityMemorial.com @ 2018-09-11
+!url https://www.dignitymemorial.com/obituaries/texarkana-tx/william-avant-7746848
+!file Avant_Willie.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-09-11
+
+#profile Avant, William Ray [Willie]
+key 201801_Avant
+birth 1932-09-22 @ US/AR/Hampton
+death 2018-01-31
+describe ; TL
+
+---
+
+!citation Graveyard Baseball @ 2018-09-11
+!url https://graveyardbaseball.blogspot.com/2018/01/former-lions-player-and-coach-shinsaku.html
+!file Katahira_Shinsaku.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-09-11
+
+#profile Katahira, Shinsaku
+key 201801_Katahira
+death 2018-01-22
+
+---
+
+!citation Becker & Son Funeral Home @ 2018-07-20
+!url https://www.beckerandson.com/notices/Thomas-Dobrino
+!file Dobrino_Thomas.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-07-20
+
+#profile Dobrino, Thomas Michael
+key 201801_Dobrino
+birth 1931-05-12 @ US/IL/Mount Olive
+death 2018-01-16 @ US/CA/Escondido
+highschool Mount Olive HS @ US/IL/Mount Olive
+military US Air Force @ Korean War
+burial Calvary Cemetery @ US/IL/Mount Olive
+
+---
+
+!citation Clayton & McGirr Funeral Home @ 2018-07-17
+!url https://claytonfuneralhome.com/tribute/details/2968/Raymond-Bellino/obituary.html
+!file Bellino_Raymond.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-07-17
+
+#profile Bellino, Raymond A.
+key 201801_Bellino
+birth 1932 @ US/NJ/Jersey City
+death 2018-01-14 @ US/NJ/Edison
+military US Army 
+burial Brigadier General William C. Doyle Memorial Cemetery @ US/NJ/Wrightstown
+
+---
+
+!citation Brooks Funeral Home @ 2018-07-17
+!url http://www.brooksfuneralhomeandcrematory.com/obitlink?obit_id=2066412
+!file Venditto_Al.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-07-17
+
+#profile Venditto, Alfred Stephen [Al]
+key 201801_Venditto
+birth 1925-12-26 @ US/RI/Cranston
+death 2018-01-28 @ US/NC/Newport
+highschool La Salle Academy @ US/RI/Providence
+military US Navy @ World War II

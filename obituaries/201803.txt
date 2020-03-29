@@ -1,0 +1,25 @@
+!citation Dodo Mortuary @ 2019-03-17
+!url http://www.dodomortuary.com/obituary/rodolfo-figueroa
+!file Figueroa_Rudy.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-03-17
+
+#profile Figueroa, Rodolfo Frank [Rudy] 
+key 201803_Figueroa
+birth 1935-09-20 @ US/AZ
+death 2018-03-17 @ US/HI/Hilo
+college Stanford University
+military US Army
+burial Alae Cemetery @ US/HI/Hilo
+
+---
+
+!citation Greenwood Funeral Home @ 2018-07-17
+!url http://www.greenwoodfuneralhomes.com/obituaries/Michael-Napoli/#!/Obituary
+!file Napoli_Mike.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-07-17
+
+#profile Napoli, Michael Angelo [Mike]
+key 201803_Napoli
+birth 1932-03-06
+death 2018-03-25 @ US/TX/Fort Worth
+military US Army 

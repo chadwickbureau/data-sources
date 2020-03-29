@@ -1,0 +1,11 @@
+!citation Buffalo News @ 2005-10-12
+!url http://files.usgwarchives.net/ny/erie/obits/bn-dn/2005/oct/bn-dn12oct2005.txt
+!file Stromecki_Eugene.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-11-30
+
+#profile Stromecki, Eugene R.
+key 200510_Stromecki
+death 2005-10-10
+highschool Bishop Ryan HS @ US/NY/Buffalo
+military US Army @ Korean War
+burial Hillcrest Cemetery and Mausoleum @ US/NY/Hamburg

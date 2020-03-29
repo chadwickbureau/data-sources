@@ -1,0 +1,705 @@
+!citation findagrave.com @ 2018-12-17
+!url https://www.findagrave.com/memorial/173933277
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#profile Goff, Robert E Lee
+key Goff_Robert
+sameas findagrave:173933277
+birth 1902-03-08 @ US/TX
+death 1981-01-13 @ US/TX/Sulphur Springs
+burial Calvary Hill Cemetery and Mausoleum @ US/TX/Dallas
+
+---
+
+!citation findagrave.com @ 2018-12-15
+!url https://www.findagrave.com/memorial/74024612/bobby-floyd-ellison
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#profile Ellison, Bobby Floyd
+key Ellison_Bobby
+sameas findagrave:74024612
+birth 1929-08-25 @ US/TX/Winters
+death 1991-01-17 @ US/TX/Austin
+military US Army @ Korean War
+burial Manda Methodist Cemetery @ US/TX/Austin
+
+---
+
+!citation findagrave.com @ 2018-12-12
+!url https://www.findagrave.com/memorial/40834276
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#profile Shestak, George W.
+key Shestak_George
+sameas findagrave:40834276
+birth 1888-11-09
+death 1967-07-29 @ US/NE
+burial Lincoln Memorial Park @ US/NE/Lincoln
+
+---
+
+!citation findagrave.com @ 2018-12-11
+!url https://www.findagrave.com/memorial/129490833/james-w_-hechler
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#profile Hechler, James W.
+key Hechler_James
+sameas findagrave:129490833
+birth 1926-12-21 @ US/PA/Paint
+death 2002-02-09 @ US/PA/York
+military US Army @ World War II
+burial Richland Cemetery @ US/PA/Geistown
+
+---
+
+!citation findagrave.com @ 2018-12-11
+!url https://www.findagrave.com/memorial/82213946/clement-hill-beaven
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#profile Beaven, Clement Hill [Hill]
+key Beaven_Hill
+sameas findagrave:82213946
+birth 1925-11-10 @ US/KY/Marion County
+death 2011-12-16 @ US/KY/Lexington
+burial St. Augustine Church Cemetery @ US/KY/Lebanon
+
+---
+
+!citation findagrave.com @ 2018-12-11
+!url https://www.findagrave.com/memorial/7212243/willis-ira-chamness
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#profile Chamness, Willis Ira
+key Chamness_Willis
+sameas findagrave:7212243
+birth 1923-05-07
+death 1959-09-16
+burial Harmony Hill Cemetery @ US/TX/Henderson
+
+---
+
+!citation findagrave.com @ 2018-11-30
+!url https://www.findagrave.com/memorial/103127500
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#profile Jack, Zelman Lee
+key Jack_Zelman
+sameas findagrave:103127500
+birth 1946
+death 1971
+burial Memory Gardens Cemetery @ US/CA/Concord
+
+---
+
+!citation findagrave.com @ 2018-09-03
+!url https://www.findagrave.com/memorial/163427450/james-edward-harp
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#profile Harp, James Edward [Jim]
+key Harp_James
+sameas findagrave:163427450
+birth 1923-06-04 @ US/GA/Thomaston
+death 2016-05-28 @ US/GA/Macon
+highschool R. E. Lee Institute @ US/GA/Thomaston
+military US Army @ World War II
+burial Orphans Cemetery @ US/GA/Macon
+
+---
+
+!citation findagrave.com @ 2018-08-24
+!url https://www.findagrave.com/memorial/76385070
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#profile Cronin, Charles L.
+key Cronin_Charles
+sameas findagrave:76385070
+birth 1914-01-27
+death 1979-11-14
+military US Army
+burial Pleasant Union Cemetery @ US/OH/Old Fort
+
+---
+
+!citation findagrave.com @ 2018-08-21
+!url https://www.findagrave.com/memorial/82806454
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#profile Caporal, Frank Joseph
+key Caporal_Frank
+sameas findagrave:82806454
+birth 1896-01-08 @ US/NY/Elmira
+death 1975-06-01
+burial Harlan Cemetery @ US/IA/Harlan
+
+---
+
+!citation findagrave.com @ 2018-08-20
+!url https://www.findagrave.com/memorial/129840014
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#profile Griffin, Joseph Carroll, Sr.
+key Griffin_Joseph
+sameas findagrave:129840014
+birth 1925-08-22 @ US/NC/Chowan County
+death 1994-11-22 @ US/NC/Greenville
+burial Hollywood Cemetery @ US/NC/Farmville
+
+---
+
+!citation findagrave.com @ 2018-07-20
+!url https://www.findagrave.com/memorial/142410623/buster-lynn-chronister
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#profile Chronister, Buster Lynn "Buck"
+key Chronister_Buster
+sameas findagrave:142410623
+birth 1923-02-11 @ US/AR/Dover
+death 2015-02-09 @ US/OK/El Reno
+military US Coast Guard @ World War II
+burial El Reno Cemetery @ US/OK/El Reno
+
+---
+
+!citation findagrave.com @ 2018-06-18
+!url https://www.findagrave.com/memorial/21312806
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#profile Sowa, Stanley
+key Sowa_Stanley
+sameas findagrave:21312806
+birth 1916-11-09
+death 1990-03-18
+burial Our Lady of Mount Carmel Cemetery @ US/CA/Big Oak Flat
+
+---
+
+!citation findagrave.com @ 2018-05-31
+!url https://www.findagrave.com/memorial/92022664
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#profile Downing, E. Leo [Leo]
+key Downing_Leo
+sameas findagrave:92022664
+birth 1925
+death 1967
+burial Boulder City Cemetery @ US/NV/Boulder City
+
+---
+
+!citation findagrave.com @ 2018-05-07
+!url https://www.findagrave.com/memorial/100397798
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#profile Baillies, Frank King
+key Baillies_Frank
+sameas findagrave:100397798
+birth 1882-08-09
+death 1982-12-06
+burial Rosedale Cemetery @ US/WI/Pardeeville
+
+---
+
+!citation findagrave.com @ 2018-04-28
+!url https://www.findagrave.com/memorial/183790907
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#profile Claycomb, Gerald Thomas
+key Claycomb_Gerald
+sameas findagrave:183790907
+birth 1931-02-27 @ US/PA/Norristown
+death 1979-01-28 @ US/PA/Collegeville
+burial Providence Mennonite Church Cemetery @ US/PA/Collegeville
+
+---
+
+!citation findagrave.com @ 2019-01-20
+!url https://www.findagrave.com/memorial/40923046
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-01-20
+ 
+#profile Sweigart, Galen R.
+key Sweigart_Galen
+sameas findagrave:40923046
+birth 1923-06-03 @ US/PA/Akron
+death 2009-08-20 @ US/PA/Mount Joy
+highschool Ephrata HS @ US/PA/Ephrata
+military US Army @ World War II
+burial Fairview Cemetery Annex @ US/PA/Denver
+
+---
+
+!citation findagrave.com @ 2019-02-18
+!url https://www.findagrave.com/memorial/75021970
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-02-18
+ 
+#profile Shipp, Frank Sterling "Skinny"
+key Shipp_Frank
+sameas findagrave:75021970
+birth 1884-07-23 @ US/TN/Chattanooga
+death 1934-12-10 @ US/TN/Chattanooga
+burial Forest Hills Cemetery @ US/TN/Chattanooga
+
+---
+
+!citation findagrave.com @ 2019-02-23
+!url https://www.findagrave.com/memorial/25885221
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-02-23
+ 
+#profile Hodgin, William Herbert, Sr.
+key Hodgin_William
+sameas findagrave:25885221
+birth 1894-09-06
+death 1990-12-13
+burial Springfield Friends Meeting House Cemetery @ US/NC/High Point
+
+---
+
+!citation findagrave.com @ 2019-02-26
+!url https://www.findagrave.com/memorial/52704858
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-02-26
+ 
+#profile Roth, Vincent T.
+key Roth_Vincent
+sameas findagrave:52704858
+birth 1892-01-18 @ US/OH/Cleveland
+death 1971-01-06 @ US/TX/Houston
+burial Brooklyn Heights Cemetery @ US/OH/Cleveland
+
+---
+
+!citation findagrave.com @ 2019-02-26
+!url https://www.findagrave.com/memorial/66476033
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-02-26
+ 
+#profile Champlin, Harry J.
+key Champlin_Harry
+sameas findagrave:66476033
+birth 1891-08-24
+death 1949-09-11
+burial Vine Street Hill Cemetery @ US/OH/Cincinnati
+
+---
+
+!citation findagrave.com @ 2019-04-17
+!url https://www.findagrave.com/memorial/28210629
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-04-17
+ 
+#profile Appleton, Roy
+key Appleton_Roy
+sameas findagrave:28210629
+birth 1894-11-25 @ US/TX/Arlington
+death 1982-12-07 @ US/TX/Mount Pleasant
+burial Oakland Cemetery @ US/TX/Weatherford
+
+---
+
+!citation findagrave.com @ 2019-05-12
+!url https://www.findagrave.com/memorial/174169559
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-05-12
+ 
+#profile Sisler, William Frederick
+key Sisler_William
+sameas findagrave:174169559
+death 1988-07-06
+burial Holy Sepulchre Cemetery @ US/NY/Rochester
+
+---
+
+!citation findagrave.com @ 2019-05-12
+!url https://www.findagrave.com/memorial/127375122
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-0205-12
+ 
+#profile Russo, Elio B.
+key Russo_Elio
+sameas findagrave:127375122
+birth 1925-10-20
+death 1998-07-16
+burial Brigadier General William C. Doyle Veterans Memorial Cemetery @ US/NJ/Arneytown
+
+---
+
+!citation findagrave.com @ 2019-07-10
+!url https://www.findagrave.com/memorial/110811418
+!contributor Alex Bonilla <ab@sports-reference.com> @ 2019-07-10
+
+#profile Lambert, Grantham O. "Dully"
+key Lambert_Grantham
+sameas findagrave:110811418
+birth 1912-08-09
+death 1981-09-07
+burial Woodlawn Memorial Gardens @ US/AL/Ozark
+
+---
+
+!citation findagrave.com @ 2019-08-05
+!url https://www.findagrave.com/memorial/93405814/elbert-dean-jarvis
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-08-05
+ 
+#profile Jarvis, Elbert Dean
+key Jarvis_Elbert
+sameas findagrave:93405814
+birth 1932-06-04 @ US/KS/Wichita
+death 1958-05-30 @ US/OK/Ponca City
+highschool North HS @ US/KS/Wichita
+burial Odd Fellows Cemetery @ US/OK/Ponca City
+
+---
+
+!citation findagrave.com @ 2019-09-26
+!url https://www.findagrave.com/memorial/51847707/russell-edward-ennis
+!contributor Ted Turocy <ted.turocy@gmail.com> @ 2019-09-26
+
+#profile Ennis, Russell Edward [Russ]
+key Ennis_Russell
+sameas findagrave:51847707
+birth 1897-03-10 @ US/WI/Superior
+death 1949-01-21 @ US/WI/Superior
+burial Calvary Cemetery @ US/WI/Superior
+
+---
+
+!citation findagrave.com @ 2019-10-07
+!url https://www.findagrave.com/memorial/84171453/arthur-yancey-ball
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-07
+ 
+#profile Ball, Arthur Yancey
+key Ball_Arthur
+sameas findagrave:84171453
+birth 1928-08-05
+death 2012-01-27
+burial Parklawn Memorial Park @ US/NC/Winston-Salem
+
+---
+
+!citation findagrave.com @ 2019-10-07
+!url https://www.findagrave.com/memorial/6301448/james-f_-betts
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-07
+ 
+#profile Betts, James F.
+key Betts_James
+sameas findagrave:6301448
+birth 1932-04-06 @ US/OH/Cleveland
+death 2002-03-23 @ US/VA/Richmond
+burial Mount Calvary Cemetery @ US/VA/Richmond
+
+---
+
+!citation findagrave.com @ 2019-10-16
+!url https://www.findagrave.com/memorial/72788672/walter-lee-leftridge
+!contributor Ted Turocy <ted.turocy@gmail.com> @ 2019-10-16
+
+#profile Leftridge, Walter Lee [Lee]
+key Leftridge_Walter
+sameas findagrave:72788672
+birth 1926-02-14
+death 2006-07-04
+burial Southern Nevada Veterans Memorial Cemetery @ US/NV/Boulder City
+military US Marines @ World War II
+
+---
+
+!citation findagrave.com @ 2019-10-16
+!url https://www.findagrave.com/memorial/58288744/paul-francis-dair
+!contributor Ted Turocy <ted.turocy@gmail.com> @ 2019-10-16
+
+#profile Dair, Paul Francis "Bud"
+key Dair_Paul
+sameas findagrave:58288744
+birth 1918-12-13 @ US/NY/Manhattan
+death 2009-10-22 @ US/VA/Fairfax County
+college Catholic University
+military US @ World War II
+
+---
+
+!citation findagrave.com @ 2019-10-16
+!url https://www.findagrave.com/memorial/191548552/theodore-baldock-garbee
+!contributor Ted Turocy <ted.turocy@gmail.com> @ 2019-10-16
+
+#profile Garbee, Theodore Baldock "Specs"
+key Garbee_Theodore
+sameas findagrave:191548552
+birth 1908-03-11 @ US/VA/Amherst County
+death 1991-12-11 @ US/VA/Lynchburg
+burial Presbyterian Cemetery @ US/VA/Lynchburg
+
+---
+
+!citation findagrave.com @ 2019-10-16
+!url https://www.findagrave.com/memorial/170756473/george-j_-gasdaska
+!contributor Ted Turocy <ted.turocy@gmail.com> @ 2019-10-16
+
+#profile Gasdaska, George J.
+key Gadaska_George
+sameas findagrave:170756473
+birth 1925-12-14 @ US/PA
+death 1983-12
+burial Holy Saviour Cemetery @ US/PA/Bethlehem
+
+---
+
+!citation findagrave.com @ 2019-10-16
+!url https://www.findagrave.com/memorial/156843066/john-griffiths
+!contributor Ted Turocy <ted.turocy@gmail.com> @ 2019-10-16
+
+#profile Griffiths, John
+key Griffiths_John
+sameas findagrave:156843066
+birth 1901-12-02
+death 1981-02-21
+burial Bethel Memorial Park @ US/NJ/Pennsauken
+
+---
+
+!citation findagrave.com @ 2019-10-16
+!url https://www.findagrave.com/memorial/8671223/joseph-paul-karakul
+!contributor Ted Turocy <ted.turocy@gmail.com> @ 2019-10-16
+
+#profile Karakul, Joseph Paul, Sr.
+key Karakul_Joseph
+sameas findagrave:8671223
+birth 1924-12-03
+death 1999-06-07
+burial Oak Hill United Methodist Church Cemetery @ US/SC/Greenville County
+
+---
+
+!citation findagrave.com @ 2019-10-16
+!url https://www.findagrave.com/memorial/78507556/aristotle-h-lazarou
+!contributor Ted Turocy <ted.turocy@gmail.com> @ 2019-10-16
+
+#profile Lazarou, Aristotle H.
+key Lazarou_Aristotle
+sameas findagrave:78507556
+birth 1925-07-07
+death 2005-10-21
+burial Fairview Cemetery @ US/NY/Amsterdam
+military US Navy @ World War II
+
+---
+
+!citation findagrave.com @ 2019-10-16
+!url https://www.findagrave.com/memorial/70853428/frank-t-lugos
+!contributor Ted Turocy <ted.turocy@gmail.com> @ 2019-10-16
+
+#profile Lugos, Frank T.
+key Lugos_Frank
+sameas findagrave:70853428
+birth 1923-04-17
+death 2004-06-24
+burial St. Joseph Cemetery @ US/NJ/Swedesboro
+
+---
+
+!citation findagrave.com @ 2019-10-16
+!url https://www.findagrave.com/memorial/17009977/raymond-p-maloney
+!contributor Ted Turocy <ted.turocy@gmail.com> @ 2019-10-16
+
+#profile Maloney, Raymond P.
+key Maloney_Raymond
+sameas findagrave:17009977
+death 2006-12-11
+burial St. Anne's Cemetery US/NJ/Wall Township
+highschool St. Peter's Prep @ US/NJ
+military US Marines @ World War II
+
+---
+
+!citation findagrave.com @ 2019-10-16
+!url https://www.findagrave.com/memorial/142061615/ralph-roger-matzer
+!contributor Ted Turocy <ted.turocy@gmail.com> @ 2019-10-16
+
+#profile Matzer, Ralph Roger
+key Matzer_Ralph
+sameas findagrave:142061615
+birth 1918-12-10 @ US/PA
+death 2013-09-08
+burial Sacramento Valley National Cemetery @ US/CA/Dixon
+military US Army @ World War II
+
+---
+
+!citation findagrave.com @ 2019-10-16
+!url https://www.findagrave.com/memorial/147326836/henry-a_-miesle
+!contributor Ted Turocy <ted.turocy@gmail.com> @ 2019-10-16
+
+#profile Miesle, Henry A.
+key Miesle_Henry
+sameas findagrave:147326836
+birth 1918-07-17 @ US/OH/Fremont
+death 1999-10-16 @ US/OH/Wood County
+burial St. Joseph's Catholic Cemetery @ US/OH/Fremont
+
+---
+
+!citation findagrave.com @ 2019-10-16
+!url https://www.findagrave.com/memorial/161457386/george-mitrus
+!contributor Ted Turocy <ted.turocy@gmail.com> @ 2019-10-16
+
+#profile Mitrus, George
+key Mitrus_George
+sameas findagrave:161457386
+birth 1916
+death 1982
+burial St. Peter and Paul Cemetery @ US/NY/Elmira
+
+---
+
+!citation findagrave.com @ 2019-10-16
+!url https://www.findagrave.com/memorial/95167765/kenneth-earl-vangilder
+!contributor Ted Turocy <ted.turocy@gmail.com> @ 2019-10-16
+
+#profile Vangilder, Kenneth Earl
+key Vangilder_Kenneth
+sameas findagrave:95167765
+birth 1923-06-22 @ US/MO/St. Louis
+death 2006-07-25
+burial Cape County Memorial Park Cemetery @ US/MO/Cape Girardeau
+military US Army @ World War II
+
+---
+
+!citation findagrave.com @ 2019-11-05
+!url https://www.findagrave.com/memorial/138539587
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-11-05
+ 
+#profile Adams, Marvin Roe [Buck]
+key Adams_Marvin
+sameas findagrave:138539587
+birth 1910-09-07 @ US/TN/Harriman
+death 2003-06-13 @ US/TN/Chattanooga
+military US Army @ World War II
+burial Greenwood Cemetery @ US/TN/Chattanooga
+
+---
+
+!citation findagrave.com @ 2019-11-06
+!url https://www.findagrave.com/memorial/47374694
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-11-06
+ 
+#profile Enloe, Clement E.
+key Enloe_Clement
+sameas findagrave:47374694
+birth 1889-06-22
+death 1962-09-17
+burial Willow Wild Cemetery @ US/TX/Bonham
+
+---
+
+!citation findagrave.com @ 2019-11-09
+!url https://www.findagrave.com/memorial/77030218/max-joseph-rachac
+!contributor Ted Turocy <ted.turocy@gmail.com> @ 2019-11-09
+
+#profile Rachac, Max Joseph
+key Rachac_Max
+sameas findagrave:77030218
+birth 1895-10-08
+death 1975-10-22 @ US/MT/Lewis and Clark County
+burial Resurrection Cemetery @ US/MT/Helena
+
+---
+
+!citation findagrave.com @ 2019-11-24
+!url https://www.findagrave.com/memorial/151258071/george-anthony-bope
+!contributor Ted Turocy <ted.turocy@gmail.com> @ 2019-11-24
+
+#profile Bope, George Anthony
+key Bope_George
+sameas findagrave:151258071
+birth 1892-03-21 @ US/PA/Pittsburgh
+death 1963-07-08 @ US/PA/Bellevue
+burial Christ Our Redeemer Catholic Cemetery @ US/PA/Pittsburgh
+
+---
+
+!citation findagrave.com @ 2019-12-14
+!url https://www.findagrave.com/memorial/120962152
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-12-14
+
+#profile Fitzsimmons, Richard Burle [Burle]
+key Fitzsimmons_Richard
+sameas findagrave:120962152
+birth 1928-12-07 @ US/CO/Pueblo
+death 2013-11-21 @ US/CO/Wheat Ridge
+burial Cremated
+
+---
+
+!citation findagrave.com @ 2019-12-17
+!url https://www.findagrave.com/memorial/198575492
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-12-17
+ 
+#profile Mertz, Lowell John [Bud]
+key Mertz_Lowell
+sameas findagrave:198575492
+birth 1923-03-04 @ US/IL/Elgin
+death 2019-04-22 @ US/IL/Quincy
+highschool Sterling HS @ US/IL/Sterling
+military US Army @ World War II
+burial Chadwick Cemetery @ US/IL/Chadwick
+
+---
+
+!citation findagrave.com @ 2019-12-17
+!url https://www.findagrave.com/memorial/25313858/charles-ted-turney
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-12-17
+ 
+#profile Turney, Charles Ted
+key Turney_Charles
+sameas findagrave:25313858
+birth 1936-01-11 @ US/NC/Gastonia
+death 1987-04-28 @ US/NC/Gastonia
+burial Gaston Memorial Park @ US/NC/Gastonia
+
+---
+
+!citation Find A Grave @ 2020-01-12
+!url https://www.findagrave.com/memorial/12129621
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-01-12
+
+#profile Ammons, Winfred [Wally]
+key Ammons_Winfred
+sameas findagrave:12129621
+birth 1929-09-04 @ US/NC/Laurinburg
+death 1998-02-20 @ US/FL
+military US Air Force @ Korean War
+military US Air Force @ Vietnam War
+burial Jesse Rogers Memorial Cemetery @ US/FL/Mary Esther
+
+---
+
+!citation findagrave.com @ 2020-01-15
+!url https://www.findagrave.com/memorial/141874866/rufus-lafayette-nolley
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-01-15
+ 
+#profile Nolley, Rufus LaFayette
+key Nolley_Rufus
+sameas findagrave:141874866
+birth 1880-10 @ US/TN
+death 1937-11-13 @ US/AL/Montgomery County
+burial McGehee Cemetery @ US/AL/Hope Hull
+
+---
+
+!citation findagrave.com @ 2020-01-29
+!url https://www.findagrave.com/memorial/157869055
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-01-29
+ 
+#profile Manlove, Abraham Lincoln
+key Manlove_Abraham
+sameas findagrave:157869055
+birth 1865-09-26
+death 1949-02-28
+burial Hillcrest Memorial Park @ US/MD/Cumberland
+
+---
+
+!citation findagrave.com @ 2020-01-29
+!url https://www.findagrave.com/memorial/51422350/james-lyman-mcdowell
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-01-29
+ 
+#profile McDowell, James Lyman, Sr.
+key McDowell_James
+sameas findagrave:51422350
+birth 1899-09-16 @ US/TN/Tullahoma
+death 1981-12-25
+burial Rose Hill Cemetery @ US/MS/Brookhaven

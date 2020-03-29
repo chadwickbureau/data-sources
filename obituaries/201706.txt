@@ -1,0 +1,11 @@
+!citation Ford & Sons Funeral Home @ 2020-03-10
+!url https://www.fordandsonsfuneralhome.com/obituaries/Jack-Litzelfelner/#!/Obituary
+!file Litzelfelner_Jack.pdf 
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-03-10
+
+#profile Litzelfelner, Jack Madison
+key 201706_Litzelfelner
+birth 1928-08-25 @ US/MO/Elvins
+death 2017-06-05 @ US/MO/Jackson
+highschool Jackson HS @ US/MO/Jackson
+military US Army @ Korean War

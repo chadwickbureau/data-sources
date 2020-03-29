@@ -1,0 +1,12 @@
+!citation La Crosse Tribune @ 2018-11-30
+!url https://lacrossetribune.com/lifestyles/announcements/obituaries/jeremiah-james-h-c-gowey/article_4045a750-8611-11df-9c9f-001cc4c03286.html
+!file Gowey_Jeremiah.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-11-30
+
+#profile Gowey, Jeremiah James H. C.
+key 201006_Gowey
+birth 1982-08-20 @ US/WI/Madison
+death 2010-06-28
+highschool Logan HS @ US/WI/La Crosse
+college University of Wisconsin-Oshkosh
+military US Army 

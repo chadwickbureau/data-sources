@@ -1,0 +1,51 @@
+!citation Newcomer Funeral Home @ 2014-10-07
+!url http://www.newcomercasper.com/obituary.aspx?src=value&obitid=88785&fname=Harold+Edward&lname=Tuma&city=Casper&st=WY
+!file Tuma_Hal.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-10-07
+
+#profile Tuma, Harold Edward [Hal]
+key 201400_Tuma
+birth 1923-03-15 @ US/NE/Cotesfield
+death 2014 @ US/WY/Casper
+highschool Glenrock HS @ US/WY/Glenrock
+military US Marines @ World War II
+
+---
+
+!citation Butherus, Maser & Love Funeral Home @ 2014-08-03
+!url http://www.bmlfh.com/obituary.php?id=2418
+!file Berka_Mel.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-08-03
+
+#profile Berka, Melvin A. [Mel]
+key 201400_Berka
+birth 1931-02-18 @ US/IA/Charter Oak
+death 2014
+burial Fairview Cemetery @ US/NE/Lincoln
+
+---
+
+!citation Boston Globe @ 2014-04-29
+!url http://www.legacy.com/obituaries/bostonglobe/obituary.aspx?n=HARRY-THEODORE&pid=170834052
+!file Theodore_Harry.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-04-30
+
+#profile Theodore, Harry G.
+key 201400_Theodore
+birth 1920-11-10 @ US/MA/Boston
+death 2014
+burial Forest Hills Cemetery @ US/MA/Boston
+
+---
+
+!citation OregonLive.com @ 2014-03-04
+!url http://blog.oregonlive.com/my-portland/2014/03/my_friend_dick.html
+!file Sinovic_Dick.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-12-11
+
+#profile Sinovic, Richard [Dick]
+key 201400_Sinovic
+birth @ US/OR/Portland
+death 2014
+highschool Commerce HS @ US/OR/Portland
+military US Navy @ World War II

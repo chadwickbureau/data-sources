@@ -1,0 +1,184 @@
+!citation Shreveport Journal @ 1924-04-14; page 8
+
+
+#profile Freeman, Buck
+key 20191201_001
+player 1920 Beaumont (Texas)
+player 1921 Chicago (National)
+player 1922 Chicago (National)
+player 1924 Wichita Falls (Texas)
+note didn't play in 1923
+
+---
+
+!citation Decatur Herald @ 1923-12-29; page 1
+
+
+#profile Freeman, Buck
+key 20191201_002
+player 1922 Wichita Falls (Texas)
+note didn't report after Cubs traded him to Wichita Falls, just reinstated by Cubs
+
+---
+
+!citation Lincoln State Journal @ 1924-05-26; page 9
+
+#profile Freeman, Buck
+key 20191201_003
+player 1924 Denver (Western)
+acquired <=1924-05-26; join=Denver (Western); leave=Chicago (National)
+
+---
+
+!citation San Francisco Examiner @ 1926-01-15; page 31
+
+
+#profile Freeman, Buck
+key 20191201_004
+player 1925 Denver (Western)
+player 1926 Oakland (Pacific Coast); TR
+acquired 1926-01-14; join=Oakland (Pacific Coast); leave=Denver (Western); forconsideration=cash
+
+---
+
+!citation Shreveport Times @ 1927-04-19; page 18
+
+
+#profile Freeman, Buck
+key 20191201_005
+player 1926 Oakland (Pacific Coast)
+player 1927 Shreveport (Texas)
+
+---
+
+!citation Amarillo Globe @ 1928-04-23; page 13
+
+
+#profile Freeman, Buck
+key 20191201_006
+player 1928 Amarillo (Western)
+player 1927 Beaumont (Texas)
+player 1927 Quincy (Illinois-Indiana-Iowa)
+player <1927 Denver (Western)
+
+---
+
+!citation Fort Collins Colorodoan @ 1929-03-29; page 10
+
+
+#profile Freeman, Buck
+key 20191201_007
+player 1928 Amarillo (Western)
+player 1929 Topeka (Western); TR
+
+
+---
+
+!citation Decatur Daily Review @ 1922-07-19; page 10
+
+
+#profile Freeman, Buck
+key 20191201_008
+player 1922 (Pacific Coast)
+player 1922 Decatur (Illinois-Indiana-Iowa)
+
+#profile Williams
+key 20191201_009
+player 1922 Salt Lake City (Pacific Coast)
+player 1922 Terre Haute (Illinois-Indiana-Iowa)
+
+---
+
+!citation Decatur Herald @ 1922-07-21; page 4
+
+
+#profile Freeman, Buck
+key 20191201_010
+player 1922 Portland (Pacific Coast)
+player 1922 Decatur (Illinois-Indiana-Iowa)
+
+---
+
+!citation Decatur Herald @ 1923-07-04; page 12
+
+
+#profile Freeman, Buck
+key 20191201_011
+player 1923 Peoria (Illinois-Indiana-Iowa)
+player 1922 Decatur (Illinois-Indiana-Iowa)
+
+---
+
+!citation Taylor (TX) Daily Press @ 1923-03-24; page 4
+
+
+#profile Freeman, Buck
+key 20191201_012
+player 1922 Denver (Western)
+player 1923 Dallas (Texas)
+
+---
+
+!citation Des Moines Register @ 1923-07-01; page 20
+
+
+#profile Freeman, Buck
+key 20191201_013
+player 1923 Des Moines (Western)
+player 1923 Dallas (Texas)
+
+---
+
+
+!citation Waterloo Courier @ 1925-04-28; page 12
+
+
+#profile Freeman, Buck
+key 20191201_014
+player 1924 Sioux Falls (Tri-State)
+player 1924 Waterloo (Mississippi Valley)
+acquired 1924-07; join=Waterloo (Mississippi Valley); leave=Sioux Falls (Tri-State); forconsideration=cash
+
+---
+
+!citation Waterloo Courier @ 1925-07-30; page 10
+
+
+#profile Freeman, Buck
+key 20191201_015
+player 1925 Waterloo (Mississippi Valley)
+player 1925 Marshalltown (Mississippi Valley)
+released 1925-05; leave=Waterloo (Mississippi Valley)
+
+---
+
+!citation Alma (MI) Record @ 1920-08-12; page 3
+
+
+#profile Freeman, Buck
+key 20191201_016
+player 1920 Saginaw (Michigan-Ontario)
+acquired 1920-08; join=Boston (American); leave=Saginaw (Michigan-Ontario); forconsideration=cash
+
+---
+
+!citation Minneapolis Star @ 1920-08-25; page 5
+
+
+#profile Freeman, Joe
+key 20191201_017
+player 1920 Saginaw (Michigan-Ontario); TR
+note reported to Boston (American)
+
+---
+
+!citation Tulsa Tribune @ 1923-07-12; page 10
+
+#profile Freeman
+key 20191201_018
+player 1923 Tulsa (Western)
+player 1923 Guthrie (Oklahoma State)
+acquired <1923-07-12; join=Tulsa (Western); leave=St. Louis (American)
+
+
+

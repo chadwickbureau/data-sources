@@ -1,0 +1,12 @@
+!citation Obitsforlife.com @ 2013-12-17
+!url http://www.obitsforlife.com/obituary/742163/Byrne-John.php
+!file Byrne_Jack.pdf
+!contributor Ray Nemec <basebalray@aol.com> @ 2013-12-17
+
+#profile Byrne, John H. [Jack]
+key 201307_Byrne
+birth 1928-06-07 @ US/OH/Cleveland
+death 2013-07-21 @ US/NY/Batavia
+highschool Ashtabula HS @ US/OH/Ashtabula
+military US Army @ Korean War
+burial Arlington National Cemetery @ US/VA/Arlington

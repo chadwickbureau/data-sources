@@ -1,0 +1,9 @@
+!citation Houma Today @ 2000-12-03
+!url https://www.houmatoday.com/news/20001203/irvin-tassin
+!file Tassin_Irvin.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-11-30
+
+#profile Tassin, Irvin William
+key 200012_Tassin
+death 2000-12-01
+burial St. Francis de Sales Cemetery No. 2 @ US/LA/Houma

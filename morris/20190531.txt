@@ -1,0 +1,435 @@
+!citation  Wilkes-Barre Times Leader 1915-06-23; page 14
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#profile Kelly, Eddie
+key 20190531_001
+player 1915 Wilkes-Barre (New York State); @1B
+player <=1915 New York (American)
+
+---
+
+!citation  Wilkes-Barre Times Leader 1915-03-31; page 9
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#profile Ginn
+key 20190531_002
+player 1915 Wilkes-Barre (New York State); @OF
+player 1914 Waterbury (Eastern Association)
+
+---
+
+!citation  Elmira Star-Gazette 1915-05-27; page 8
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#profile Schuler, Albert
+key 20190531_003
+player 1915 Utica (New York State)
+
+---
+
+!citation Binghamton Press & Sun-Bulletin 1915-06-28; page 15
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#profile Andrews
+key 20190531_004
+player 1915 Binghamton (New York State); @P
+player 1915 Richmond (International)
+
+---
+
+!citation Binghamton Press & Sun-Bulletin 1915-08-14; page 10
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#profile Ash, Pete
+key 20190531_005
+player 1915 Troy (New York State); @1B
+resides 1915 @ US/NY/Binghamton
+
+---
+
+!citation Wilkes-Barre Evening News 1915-09-03; page 2
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#profile Bender, Joseph
+key 20190531_006
+player 1915 Wilkes-Barre (New York State); @RF
+resides 1915 @ US/PA/Glen Lyon
+
+---
+
+!citation  Scranton Republican 1915-06-08; page 13
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#profile Brady, Frank
+key 20190531_007
+player 1915 Albany (New York State); @C
+player <1915 Albany (New York State) 
+
+---
+
+!citation Binghamton Press & Sun-Bulletin 1915-05-29; page 15
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#profile Jarosick, Otto
+key 20190531_008
+player 1915 Syracuse (New York State); @C
+player 1915 Gettysburg (Blue Ridge)
+
+#profile Wilcox
+key 20190531_009
+player 1915 Albany (New York State) 
+player 1915 Springfield (Colonial)
+
+---
+
+!citation Scranton Times-Tribune 1915-05-07; page 19
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#profile Hill
+key 20190531_010
+player 1915 Scranton (New York State); @P
+player 1914 Waco (Texas)
+
+---
+
+!citation Waco Morning News 1915-05-18; page 16
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#profile Hill, Cliff
+key 20190531_011
+player 1915 Scranton (New York State); @P
+player 1915 Waco (Texas)
+
+---
+
+!citation Buffalo Courier 1915-05-14; page 13
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#profile Hilly
+key 20190531_012
+player 1915 Troy (New York State); @OF
+player <=1915 Philadelphia (National)
+
+---
+
+!citation Scranton Republican 1915-06-28; page 10
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#profile Kelleher
+key 20190531_013
+player 1915 Troy (New York State); @1B
+player 1915 Hartford (Colonial)
+
+---
+
+!citation Binghamton Press & Sun-Bulletin 1915-05-04; page 13
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#profile Kuhn, W. C.
+key 20190531_014
+umpire 1915 New York State 
+umpire 1914 Ohio State
+umpire 1913 Ohio State
+
+#profile Johnson, Harry G.
+key 20190531_015
+umpire 1915 New York State 
+resides 1915 @ US/IL/Chicago
+
+#profile O'Connor, Arthur
+key 20190531_016
+umpire 1915 New York State 
+resides 1915 @ US/NY/Auburn
+
+#profile Dougherty, J. A.
+key 20190531_017
+umpire 1915 New York State 
+resides 1915 @ US/NJ/Paterson
+
+#profile McBride, J. A.
+key 20190531_018
+umpire 1915 New York State 
+resides 1915 @ US/PA/Philadelphia
+
+#profile Pender, Bob
+key 20190531_019
+umpire 1915 New York State 
+resides 1915 @ US/NY/Albany
+
+---
+
+!citation Binghamton Press & Sun-Bulletin 1915-05-19; page 13
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#profile Kennedy
+key 20190531_020
+player 1915 Binghamton (New York State); @CF BR
+
+#profile Becker
+key 20190531_021
+player 1915 Binghamton (New York State); @OF BL
+
+---
+
+!citation  Elmira Star-Gazette 1915-06-16; page 8
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#profile Kibler, Jack
+key 20190531_022
+player 1915 Albany (New York State); @IF
+player 1914 San Antonio (Texas) 
+
+---
+
+!citation  Wilkes-Barre Record 1915-05-14; page 9
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#profile McVaugh
+key 20190531_023
+player 1915 Wilkes-Barre (New York State); @P TL
+
+---
+
+!citation  Wilkes-Barre Record 1915-04-23; page 9
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#profile McVaugh
+key 20190531_024
+player 1915 Wilkes-Barre (New York State); @P TL
+player 1914 Columbus (American Association) 
+resides 1915 @ US/PA/Williamsport
+
+---
+
+!citation Binghamton Press & Sun-Bulletin 1915-06-30; page 4
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#profile Millman, Guy
+key 20190531_025
+player 1915 Binghamton (New York State); @P TR
+player <1915 York (Tri-State)
+player 1913 Binghamton (New York State)
+
+---
+
+!citation Binghamton Press & Sun-Bulletin 1915-05-11; page 13
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#profile Murphy
+key 20190531_026
+player 1915 Binghamton (New York State); @C
+player 1915 Montreal (International)
+player 1914 Lynn (New England)
+
+---
+
+!citation Scranton Times-Tribune 1915-08-26; page 1
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#profile Neher
+key 20190531_027
+player 1915 Albany (New York State); @3B
+player 1915 South Scranton Sunsets; caliber=semipro
+resides 1915 @ US/PA/Scranton
+
+---
+
+!citation Scranton Times-Tribune 1915-08-27; page 19
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#profile Neher
+key 20190531_028
+player 1915 Albany (New York State); @3b
+player 1915 South Scranton Sunsets; caliber=semipro
+highschool Scranton Technical HS @ US/PA/Scranton
+
+---
+
+!citation Scranton Republican 1916-09-30; page 64
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#profile Neher, Phil
+key 20190531_029
+player 1916 South Scranton Sunsets; caliber=semipro; @3B
+
+---
+
+!citation Binghamton Press & Sun-Bulletin 1915-04-16; page 20
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#profile O'Connor, Edward
+key 20190531_030
+player 1915 Binghamton (New York State); @P
+player <1915 Harrisburg (Tri-State)
+resides 1915 @ US/NY/Peekskill
+
+---
+
+!citation Brooklyn Eagle 1915-04-06; page 14
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#profile Owens, Andy
+key 20190531_031
+player 1915 Troy (New York State); @P
+
+---
+
+!citation Rochester Democrat & Chronicle 1915-06-23; page 18
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#profile Winters, George
+key 20190531_032
+player 1915 Troy (New York State); @P
+
+---
+
+!citation Elmira Star-Gazette 1915-06-24; page 9
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#profile Winters, George
+key 20190531_033
+player 1915 Troy (New York State); @P
+player 1915 Albany (New York State)
+
+---
+
+!citation Scranton Republican 1915-04-28; page 13
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#profile Powers
+key 20190531_034
+player 1915 Binghamton (New York State); @P
+player 1914 (Eastern Association)
+
+---
+
+!citation Wilkes-Barre Evening News 1915-08-11; page 9
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#profile Robbins, "Lefty"
+key 20190531_035
+player 1915 Troy (New York State); @P TL
+resides 1915 @ US/NY/Albany
+
+---
+
+!citation Elmira Star-Gazette 1915-05-27; page 8
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#profile Schuler, Albert
+key 20190531_036
+player 1915 Utica (New York State) 
+
+---
+
+!citation Albany Evening Journal 1915-08-30; page 14
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#profile Herman, Joey
+key 20190531_037
+player 1915 Albany (New York State); @RF
+
+#profile Shick
+key 20190531_038
+player 1915 Albany (New York State); @P TL
+
+#profile Robbins
+key 20190531_039
+player 1915 Troy (New York State); @P TL
+
+#profile Jordan, Cliff
+key 20190531_040
+player 1915 Albany (New York State); @OF
+
+#profile Dollard, Bill
+key 20190531_041
+player 1915 Albany (New York State); @P
+
+
+---
+
+!citation Allentown Morning Call 1915-04-26; page 10
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#profile Snell, Charles
+key 20190531_042
+player 1915 Syracuse (New York State); @C
+resides 1915 @ US/PA/Reading
+
+---
+
+!citation Reading Times 1915-06-12; page 12
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#profile Snell, Charlie
+key 20190531_043
+player 1915 Syracuse (New York State); @C
+highschool Reading HS @ US/PA/Reading
+
+---
+
+!citation Elmira Star-Gazette 1915-10-25; page 8
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#profile Towsley, David
+key 20190531_044
+player 1915 Troy (New York State)
+
+#profile Robbins, Julian
+key 20190531_045
+player 1915 Troy (New York State)
+
+#profile Troy, Robert
+key 20190531_046
+player 1915 Troy (New York State)
+
+#profile Wilkinson, Roy
+key 20190531_047
+player 1915 Syracuse (New York State)
+
+---
+
+!citation Monongahela Daily Republican 1915-06-07; page 4
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#profile Troy, Bun
+key 20190531_048
+player 1915 (New York State)
+
+---
+
+!citation Elmira Star-Gazette 1915-08-07; page 9
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#profile Wilkinson, Roy
+key 20190531_049
+player 1913 (Canadian)
+player 1914 (Canadian)
+player 1915 (Canadian)
+player 1915 Syracuse (New York State)
+resides 1915 @ US/NY/Canandaigua
+
+---
+
+!citation Wilkes-Barre Record 1915-08-09; page 9
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#profile Wahle, Clarence
+key 20190531_050
+player 1915 Utica (New York State); @P TL
+
+---
+
+!citation Buffalo Times 1915-07-03; page 3
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#profile Turner, Thomas
+key 20190531_051
+player 1915 Troy (New York State); @P 
+player 1914 Philadelphia (American)
+
+#profile Kelliher, Maurice
+key 20190531_052
+player 1915 Troy (New York State); @1B 
+
+

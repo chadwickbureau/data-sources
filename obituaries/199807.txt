@@ -1,0 +1,10 @@
+!citation Manasquan Coast Star @ 1998-07-23
+!file Russo_Elio.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-05-12
+
+#profile Russo, Elio B.
+key 199807_Russo
+birth @ US/NY/Queens
+death 1998-07-16 @ US/NJ/Point Pleasant
+military US Marines @ World War II
+burial Brigadier General William C. Doyle Memorial Cemetery @ US/NJ/Arneytown

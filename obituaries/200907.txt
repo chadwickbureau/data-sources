@@ -1,0 +1,25 @@
+!citation Tributes.com @ 2019-03-10
+!url http://www.tributes.com/obituary/show/Fred-Crnkovich-86394909
+!file Crnkovich_Fred.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-03-10
+
+#profile Crnkovich, Fred 
+key 200907_Crnkovich
+birth 1919-04-22 @ US/IA/Zook Spur
+death 2009-07-23
+highschool Slater HS @ US/IA/Slater
+military US Coast Guard @ World War II
+
+---
+
+!citation Oberlin-Turnball Funeral Home @ 2019-10-24
+!url https://www.oberlinturnbull.com/notices/Irvin-Renollet
+!file Renollet_Irv.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-24
+
+#profile Renollet, Irvin D. [Irv]
+key 200907_Renollet
+birth 1926-07-26 @ US/OH/Paulding County
+death 2009-07-21 @ US/OH/Defiance
+highschool Paulding HS @ US/OH/Paulding
+burial Sherwood Cemetery @ US/OH/Sherwood

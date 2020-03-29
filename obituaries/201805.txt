@@ -1,0 +1,200 @@
+!citation Norman Transcript @ 2018-05-31
+!url http://obituaries.normantranscript.com/obituary/russell-buhite-1938-2018-1064140939
+!file Buhite_Russell.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-02-16
+
+#profile Buhite, Russell Devere 
+key 201805_Buhite
+birth 1938-07-19 
+death 2018-05-27
+
+---
+
+!citation Sandifer Funeral Home @ 2019-02-16
+!url https://www.sandiferfuneralhome.com/obituaries/obituary-listings?obId=3082137#/obituaryInfo
+!file Stutts_Lewis.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-02-16
+
+#profile Stutts, Lewis Calhoun
+key 201805_Stutts
+birth 1931-08-25 @ US/SC/Union
+death 2018-05-06 @ US/SC/Seneca
+highschool Newberry HS @ US/SC/Newberry
+burial Oconee Memorial Park & Mausoleum @ US/SC/Seneca
+
+---
+
+!citation Douglas A. Fiery Funeral Home @ 2019-02-16
+!url http://www.douglasfiery.com/obituaries/dwight-guyton
+!file Guyton_Dwight.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-02-16
+
+#profile Guyton, Dwight William
+key 201805_Guyton
+birth 1945-09-20 @ US/MD/Boonsboro 
+death 2018-05-24 @ US/WV/Morgantown
+highschool South Hagerstown HS @ US/MD/Hagerstown
+
+---
+
+!citation Summers Funeral Home @ 2019-05-27
+!url https://summersfuneral.com/tribute/details/90801/Jeremiah-Quane/obituary.html
+!file Quane_Jerry.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-05-27
+
+#profile Quane, Jeremiah Arthur [Jerry]
+key 201805_Quane
+birth 1934-08-07 @ US/ID/American Falls
+death 2018-05-12 @ US/ID/Boise
+college University of Idaho
+burial Cloverdale Memorial Park @ US/ID/Boise
+
+---
+
+!citation Diario. MX @ 2018-05-22
+!url http://diario.mx/Deportes/2018-05-21_32ee6ad3/muere-expelotero-victor-faudoa/
+!file Faudoa_Victor.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-08-05
+
+#profile Faudoa (Terrazas), Victor Manuel
+key 201805_Faudoa
+birth 1952-12-23 @ MX/Chihuahua/Santa Barbara
+death 2018-05-21 @ MX/Chihuahua/Ciudad Juarez
+
+---
+
+!citation Daily Journal @ 2018-06-27
+!url https://www.smdailyjournal.com/obituaries/thomas-richardson/article_d3b1c826-78e7-11e8-af80-7720862d2aed.html
+!file Richardson_Tom.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-06-27
+
+#profile Richardson, Thomas G. [Tom]
+key 201805_Richardson
+birth 1937 @ US/IL/Chicago
+death 2018-05-28
+
+---
+
+!citation Mehl's Colonial Chapel @ 2018-06-26
+!url https://www.mehlschapel.com/notices/Herbert-Moreno
+!file Moreno_Herb.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-06-26
+
+#profile Moreno, Herbert [Herb]
+key 201805_Moreno
+birth 1930-01-26 @ US/CA/Montebello
+death 2018-05-01 @ US/CA/Soquel
+military US Navy 
+
+---
+
+!citation Summersett Funeral Home @ 2018-06-24
+!url http://www.summersettfuneralhome.com/obituaries/George-Timmerman/#!/Obituary
+!file Timmerman_Ralph.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-06-24
+
+#profile Timmerman, George Ralph [Ralph]
+key 201805_Timmerman
+birth 1940-09-02 @ US/SC/Saluda
+death 2018-05-13 @ US/TX/Kingwood
+military US Army 
+burial Salisbury National Cemetery @ US/NC/Salisbury
+
+---
+
+!citation Qualls Funeral Home @ 2018-06-19
+!url http://www.quallsfh.com/obituary/dizzy-higginbottom
+!file Higginbottom_Dizzy.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-06-19
+
+#profile Higginbottom, Dizzy Dean
+key 201805_Higginbottom
+birth 1935-10-19 @ US/AR/Poughkeepsie
+death 2018-05-07
+burial Evening Shade Cemetery @ US/AR/Evening Shade
+
+---
+
+!citation Reichmuth Funeral Home @ 2018-06-18
+!url http://www.reichmuthfuneralhomes.com/obituaries/Mitchell-Quandt/#!/Obituary
+!file Quandt_Mitch.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-06-18
+
+#profile Quandt, Mitchell Dean [Mitch]
+key 201805_Quandt
+birth 1987-10-13 @ US/NE/Omaha
+death 2018-05-30 @ US/NE/Utica
+highschool Shawnee Mission West HS @ US/KS/Overland Park
+college Iowa Western Community College
+college Labette Community College
+
+---
+
+!citation Amico Funeral Home @ 2018-06-04
+!url http://www.amicofuneralhome.com/obituaries/Donald-Shoblom/#!/Obituary
+!file Shoblom_Donald.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-06-04
+
+#profile Shoblom, Donald E.
+key 201805_Shoblom
+birth 1932-05-25 @ US/NY/Gloversville
+death 2018-05-24 @ US/NY/Amsterdam
+highschool Gloversville HS @ US/NY/Gloversville
+military US Navy 
+burial Mount Carmel Cemetery @ US/NY/Johnstown
+
+---
+
+!citation Sacramento Bee @ 2018-06-03
+!url http://www.legacy.com/obituaries/sacbee/obituary.aspx?n=gene-b-sackett&pid=189181353
+!file Sackett_Gene.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-06-03
+
+#profile Sackett, Gene B.
+key 201805_Sackett
+death 2018-05-31
+highschool McClatchy HS @ US/CA/Sacramento
+college Sacramento City College
+
+---
+
+!citation Los Angeles Times @ 2018-06-02
+!url https://www.legacy.com/obituaries/latimes/obituary.aspx?n=charles-stevens-chuck&pid=189173688
+!file Stevens_Chuck_2.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-06-02
+
+#profile Stevens, Charles [Chuck]
+key 201805_Stevens
+birth 1918-07-10 @ US/NM/Van Houten
+death 2018-05-28
+highschool Polytechnic HS @ US/CA/Long Beach
+military US Army @ World War II
+
+---
+
+!citation Herald Tribune @ 2018-06-01
+!url http://www.legacy.com/obituaries/heraldtribune/obituary.aspx?n=paul-truman-eskew&pid=189158798
+!file Eskew_Paul.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-06-01
+
+#profile Eskew, Paul Truman, Jr.
+key 201805_Eskew
+birth 1928-08-21
+death 2018-05-27 @ US/FL/Sebring
+highschool Sarasota HS @ US/FL/Sarasota
+college University of Georgia
+
+---
+
+!citation Kubaska Funeral Home @ 2018-06-01
+!url https://www.kubaskafuneralhome.com/notices/John-Swiech
+!file Swiech_John.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-06-01
+
+#profile Swiech, John
+key 201805_Swiech
+birth 1934-09 @ US/RI/Woonsocket
+death 2018-05-29
+highschool Woonsocket HS @ US/RI/Woonsocket
+military US Army 
+burial St. Stanislaus Cemetery @ US/MA/Blackstone

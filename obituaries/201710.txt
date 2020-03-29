@@ -1,0 +1,42 @@
+!citation Moultrie Observer @ 2017-10-20
+!url http://obituaries.moultrieobserver.com/obituary/edsel-f-ed-griffin-1925-2017-991169721
+!file Griffin_Ed.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-08-24
+
+#profile Griffin, Edsel Ford [Ed]
+key 201710_Griffin
+birth 1925-12-29 @ US/GA/Norman Park
+death 2017-10-19 @ US/GA/Moultrie
+military US Army 
+burial Camp Ground Cemetery Mount Zion Church @ US/GA/Morven
+
+---
+
+!citation Louisiana Funeral Services @ 2018-07-16
+!url http://www.lafuneralservices.com/obituary/4419185
+!file Oldenburg_George.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-07-16
+
+#profile Oldenburg, George Edward
+key 201710_Oldenburg
+birth 1916-03-21 @ US/MO/St. Louis
+death 2017-10-19
+highschool McBride HS @ US/MO/St. Louis
+military US Navy @ World War II
+burial Lafayette Memorial Park @ US/LA/Lafayette
+
+---
+
+!citation Commerical News @ 2017-10-09
+!url http://obituaries.commercial-news.com/obituary/john-sabalaskey-1933-2017-987722681
+!file Sabalaskey_John.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-10-03
+
+#profile Sabalaskey, John E.
+key 201710_Sabalaskey
+birth 1933-03-12 @ US/IL/Westville
+death 2017-10-06 @ US/IL/Danville
+highschool Westville HS @ US/IL/Westville
+college University of Illinois
+military US Army 
+burial Sts. Peter & Paul Cemetery @ US/IL/Westville

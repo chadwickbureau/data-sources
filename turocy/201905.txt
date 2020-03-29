@@ -1,0 +1,7 @@
+!citation ottawachampions.com @ 2019-05-20
+!file Bosco_Chris.pdf
+
+#profile Bosco, Chris
+key 201905_001
+player 2019 Ottawa (Canadian-American Association)
+college Roger Williams University

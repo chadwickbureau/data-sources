@@ -1,0 +1,11 @@
+!citation Sacramento Bee @ 1976-01-17
+!url https://www.dignitymemorial.com/obituaries/tampa-fl/louis-marcano-8085458
+!file Flynn_Tom.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-04-04
+
+#profile Flynn, Thomas B. 
+key 197601_Flynn
+birth 1906-04-23 @ US/CA/San Francisco 
+death 1976-01-15
+describe ; TL
+college Sacramento City College

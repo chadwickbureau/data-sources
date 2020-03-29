@@ -1,0 +1,11 @@
+!citation Lunn's Funeral Home @ 2018-12-11
+!url https://www.lunnscolonial.com/services.asp?locid=1&page=odetail&id=1122
+!file Cluley_Ken.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-12-11
+
+#profile Cluley, Kenneth Riebel [Ken]
+key 201204_Cluley
+birth 1928-07-22 @ US/MI/Rosebush
+death 2012-04-04
+highschool Mount Pleasant HS @ US/MI/Mount Pleasant
+burial Sacred Heart Cemetery @ US/TX/Hallettsville

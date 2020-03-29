@@ -1,0 +1,92 @@
+!citation Lawn Funeral Home @ 2019-05-27
+!url http://lawnfh.com/vis_detail.asp?ID=3252
+!file Altobelli_Mike_2.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-05-27
+
+#profile Altobelli, Michael Adam
+key 201800_Altobelli
+death 2018
+
+---
+
+!citation Donovan Funeral Home @ 2018-12-09
+!url https://donovanfunerals.com/tribute/details/1293/Joseph-Bayno/obituary.html#tribute-start
+!file Bayno_Joe.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-12-09
+
+#profile Bayno, Joseph F. [Joe]
+key 201800_Bayno
+birth 1934-10-10 @ US/NY/Florida
+death 2018 @ US/NY/Middletown
+describe ; TL
+highschool S. S. Seward Institute @ US/NY/Florida
+burial St. Joseph's Cemetery @ US/NY/Florida
+
+---
+
+!citation Sacramento Bee @ 2018-11-04 
+!url https://www.legacy.com/obituaries/sacbee/obituary.aspx?n=david-w-thornton&pid=190628436
+!file Thornton_David.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-11-04
+
+#profile Thornton, David W., Jr.
+key 201800_Thornton
+birth 1949-11-27 @ US/CA/Los Angeles
+death 2018
+highschool Grant Union HS @ US/CA/Sacramento
+military US Army
+
+---
+
+!citation Fresno Bee @ 2018-10-21
+!url https://www.legacy.com/obituaries/fresnobee/obituary.aspx?n=frank-h-finley&pid=190522204&fhid=20267
+!file Finley_Frank_1.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-10-21
+
+#profile Finley, Frank H., II
+key 201800_Finley
+birth 1945-03-28 @ US/CA/Fresno
+death 2018
+highschool Rooseevelt HS @ US/CA/Fresno
+
+---
+
+!citation Ahern Funeral Home @ 2018-09-20
+!url http://www.ahernfuneralhome.com/condolences/?p=6536
+!file Perrotta_Joe.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-09-20
+
+#profile Perrotta, Joseph [Joe]
+key 201800_Perrotta
+birth 1930
+death 2018
+describe ; TL
+highschool New Britain HS @ US/CT/New Britain
+military US Army
+
+---
+
+!citation Houston Chronicle @ 2018-07-20
+!url https://www.legacy.com/obituaries/houstonchronicle/obituary.aspx?n=thomas-stepp&pid=189623703
+!file Stepp_Tom.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-07-20
+
+#profile Stepp, Thomas E. [Tom]
+key 201800_Stepp
+birth 1940-08-15 @ US/WV/Welch
+death 2018 @ US/CA/San Ramon
+college West Virginia University
+
+---
+
+!citation Union Times @ 2018-07-13
+!url http://www.legacy.com/obituaries/uniondailytimes/obituary.aspx?n=larry-jeffcoat&pid=189586428&fhid=8957&eid=sp_ommatch
+!file Jeffcoat_Larry.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-07-15
+
+#profile Jeffcoat, Larry Leroy
+key 201800_Jeffcoat
+birth 1952-09-15 @ US/SC/Union
+death 2018
+highschool Union HS @ US/SC/Union
+college Spartanburg Methodist College

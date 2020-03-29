@@ -1,0 +1,8 @@
+!citation Altoona Tribune @ 1949-03-01
+!file Manlove_Abraham.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-01-29
+
+#profile Manlove, Abraham L.
+key 194900_Manlove
+birth 1865-09-26 @ US/PA/Philadelphia
+death 1949

@@ -1,0 +1,12 @@
+!citation Seattle Times @ 2013-12-05
+!url http://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=Perry-Stangvik&pid=168360247
+!file Stangvik_Perry.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2013-12-10
+
+#profile Stangvik, Perry Grendahl
+key 201300_Stangvik
+birth 1930-02-05 @ US/WA/Seattle
+death 2013
+highschool Ballard HS @ US/WA/Seattle
+college Seattle Pacific
+military US Army @ Korean War

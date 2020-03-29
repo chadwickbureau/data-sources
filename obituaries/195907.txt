@@ -1,0 +1,9 @@
+!citation Waco News-Tribune @ 1959-07-08
+!file Query_Wray.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-03
+
+#profile Query, Wray
+key 195907_Query
+death 1959-07-07 @ US/TX/Temple
+military US @ World War I
+burial Waco Memorial Park @ US/TX/Waco

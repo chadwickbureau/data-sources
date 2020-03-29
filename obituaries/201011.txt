@@ -1,0 +1,9 @@
+!citation Cincinnati Enquirer @ 2010-11-02
+!url https://www.legacy.com/obituaries/cincinnati/obituary.aspx?page=lifestory&pid=148067138
+!file Castleberry_Gael.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-12-11
+
+#profile Castleberry, Gael B.
+key 201011_Castleberry
+birth 1919
+death 2010-11-01

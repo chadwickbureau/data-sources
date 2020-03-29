@@ -1,0 +1,23 @@
+!citation Grand View Funeral Home @ 2017-12-29
+!url http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Chester-Morgan&lc=4608&pid=183569718&mid=7247613
+!file Morgan_Chester.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-12-29
+
+#profile Morgan, Chester Collins, Jr.
+key 201701_Morgan
+birth 1932-03-26
+death 2017-01-08
+
+---
+
+!citation Merlin Funeral Home @ 2018-07-20
+!url https://www.merlinfuneralhome.com/notices/Joseph-Barberich
+!file Barberich_Joseph.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-07-20
+
+#profile Barberich, Joseph P.
+key 201701_Barberich
+birth 1935-10-22 @ US/PA/Brenizer
+death 2017-01-15 @ US/PA/Latrobe
+military US Army 
+burial Unity Cemetery @ US/PA/Latrobe

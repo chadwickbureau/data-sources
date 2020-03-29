@@ -1,0 +1,67 @@
+
+---
+
+#profile Zarilla, Allen Lee
+key Zarilla_Allen_Lee
+birth 1919-05-01 @ US/CA/Los Angeles
+death 1996-08-28 @ US/HI/Honolulu
+describe ; BL TR H71 W180
+military US; dates=1945
+
+---
+
+#profile Zauchin, Norbert Henry [Norm]
+key Zauchin_Norbert_Henry
+birth 1929-11-17 @ US/MI/Royal Oak
+death 1999-01-31 @ US/AL/Birmingham
+describe ; BR TR H76.5 W220
+military US; dates=1952/1953
+
+---
+
+#profile Zeider, Rollie Hubert
+key Zeider_Rollie_Hubert
+birth 1883-11-16 @ US/IN/Auburn
+death 1967-09-12 @ US/IN/Garrett
+describe ; BR TR H70 W162
+
+
+---
+
+#profile Zimmer, Donald William
+key Zimmer_Donald_William
+birth 1931-01-17 @ US/OH/Cincinnati
+describe ; BR TR H69 W177
+
+---
+
+#profile Zipay, Edward John
+key Zipay_Edward_John
+birth 1915-08-03 @ US/PA/Sturges
+death 1989-05-25 @ US/PA/Scranton
+describe ; BL TL H73 W195
+military US; dates=1944/1944
+
+---
+
+#profile Zipfel, Marion Sylvester "Bud"
+key Zipfel_Marion_Sylvester
+birth 1938-11-18 @ US/IL/Belleville
+describe ; BL TR H75 W200
+
+---
+
+#profile Zontini, John M.
+key Zontini_John_M
+birth 1909-01-28 @ US/CO/Canyon City
+death 1918-06-19 @ US/VA/Norfolk
+describe ; BR TR H70 W190
+
+---
+
+#profile Zwilling, Edward Harrison [Dutch]
+key Zwilling_Edward_Harrison
+birth 1888-11-02 @ US/MO/St. Louis
+death 1978-03-27 @ US/CA/La Crescenta
+describe ; BL TL H67 W160
+coach 1924 Kansas City (American Association)

@@ -1,0 +1,8 @@
+!citation Tampa Tribune @ 1978-06-07
+!file Tanner_Buck.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-11-18
+
+#profile Tanner, William [Buck]
+key 197806_Tanner
+death 1978-06-06
+highschool Jefferson HS @ US/FL/Tampa

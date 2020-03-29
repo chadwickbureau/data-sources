@@ -1,0 +1,282 @@
+#profile Zabielski, Donald John [Don] "Zeke"
+key Zabielski_Donald_John
+birth 1938-02-07 @ US/DE/Wilmington
+death 2012-09-17 @ US/DE/Milford
+describe ; BL TL H73 W170
+sameas ssn:221-24-8949
+highschool Salesianum High School; dates=/1956; degree=graduated
+resides 1958 @ US/DE/Wilmington; address=202 S. Broom St.
+
+---
+
+#profile Zaby, Paul T.
+key Zaby_Paul_T
+birth 1916-06-05 @ US/TX/Dallas
+death 2009-02-12 @ US/CA/Stockton
+describe ; BL TL H70 W165
+sameas ssn:571-12-2265
+highschool Huntington Park High School @ US/CA/Huntington Park; dates=/1939; degree=graduated
+resides 1952 @ US/CA/Huntington Park; address=6244 Plaska Ave.
+brother of Zaby, Charles Vincent
+
+---
+
+#profile Zacher, Todd Sylvester
+key Zacher_Todd_Sylvester
+birth 1959-08-18 @ US/ND/Bowman
+death 2013-09-02
+describe ; BL TR H71 W150
+sameas ssn:502-88-5926
+highschool Century High School @ US/ND/Bismarck; dates=/1977; degree=graduated
+college University of Arkansas
+resides 1983 @ US/ND/Bismarck; address=916 W. Owens; zip=58501
+drafted 1981-06; join=San Francisco (National); round=23
+signed 1981-06-16; join=San Francisco (National)
+
+---
+
+#profile Zack, Joseph P. [Joe]
+key Zack_Joseph_P
+alias Zaklukiewicz, Joseph P.; type=birth
+birth 1922-03-18 @ US/PA/Jenners
+death 2009-07-10 @ US/OH/Youngstown
+describe ; BR TR H72 W185
+sameas ssn:288-16-9009
+highschool South High School @ US/OH/Youngstown
+resides 1949 @ US/OH/Youngstown; address=1002 Franklin Ave.
+military US @ World War II
+
+---
+
+#profile Zajac, Henry Joseph
+key Zajac_Henry_Joseph
+birth 1916-06-07 @ US/CT/Meriden
+death 2011-02-20 @ US/CT/Meriden
+describe ; BR TR H73.5 W178
+resides 1935 @ US/CT/Meriden; address=30 Oak Street
+player 1934 Meriden; location=US/CT; caliber=semipro
+
+---
+
+#profile Zander, Joseph Hugh [Joe]
+key Zander_Joseph_Hugh
+birth 1923-01-10 @ US/OR/Salem
+death 2012-10-15 @ US/CA/El Segundo
+describe ; BL TL
+
+---
+
+#profile Zar, John Andrew "Red"
+key Zar_John_Andrew
+birth 1920-11-25 @ US/CA/San Pedro
+death 2008-10-03 @ US/CA/Palm Springs
+describe ; BR TR H76 W205; ancestry=Croatian
+highschool San Pedro High School; dates=/1938; degree=graduated
+resides 1940 @ US/CA/San Pedro; address=721 26th Street
+military US; dates=1943/1945
+
+---
+
+#profile Zaspel, Donald Fred [Don]
+key Zaspel_Donald_Fred
+birth 1921-10-30 @ US/MN/North St. Paul
+death 2007-07-21 @ US/WI/Rice Lake
+describe ; BR TR H70 W185
+sameas ssn:472-181-5695
+highschool North St. Paul High School
+college University of Miami
+resides 1942 @ US/MN/North St. Paul; address=30 14th Ave.
+brother of Zaspel, Norman M.
+military US; dates=1944/1945
+
+---
+
+#profile Zaspel, Norman M. [Norm]
+key Zaspel_Norman_M
+birth 1923-05-10 @ US/MN/North St. Paul
+death 2009-12-11 @ US/WI/Green Bay
+describe ; BR TR
+highschool North St. Paul High School
+resides 1942 @ US/MN/North St. Paul; address=30 14th Ave.
+brother of Zaspel, Donald Fred
+
+---
+
+#profile Zaug, Kevin M.
+key Zaug_Kevin_M
+birth 1978-12-15 @ US/NY/Bronx
+death 2012-12-18 @ US/NY/Carmel
+describe ; BR TR H75 W190
+signed 2012-06-14; join=Chicago (American)
+
+---
+
+#profile Zawatski, Eugene Paul [Gene]
+key Zawatski_Eugene_Paul
+birth 1947-01-15 @ US/MA/Boston
+death 2011-01-12 @ US/MA/Hopkinton
+describe ; BL TL H72 W185
+sameas ssn:034-36-9732
+highschool Braintree High School @ US/MA
+college Boston State University
+resides 1968 @ US/MA/Braintree; address=14 Faulkner Place; zip=02184
+drafted 1968-06; join=New York (National); round=37
+signed 1968-06-13; join=New York (National); signer=Fazio, Tom
+
+---
+
+#profile Zawlocki, Anthony John
+key Zawlocki_Anthony_John
+birth 1916-09-18 @ US/IL/Rockford
+death 2011-10-18 @ US/IL/Rockford
+describe ; BR TR H75 W185; ancestry=Polish
+highschool St. Thomas High School; dates=/1935; degree=graduated
+resides 1939 @ US/IL/Rockford; address=1511 So. Main Street
+player 1938 Polish National Alliance; caliber=amateur
+
+---
+
+#profile Zedalis, Stanley M. [Stan]
+key Zedalis_Stanley_M
+birth 1925-08-19 @ US/PA/Freeland
+death 2013-10-06 @ US/HI/Pahoa
+describe ; BR TR H72 W170
+sameas ssn:202-16-1171
+highschool Freeland High School
+resides 1952 @ US/FL/Orlando
+
+---
+
+#profile Zeigler, William Parson [Bill]
+key Zeigler_William_Parson
+birth 1920-10-17
+death 2013-07-18 @ US/LA/Shreveport
+describe ; BR TL
+
+---
+
+#profile Zeitler, Richard
+key Zeitler_Richard
+birth 1940-03-18 @ US/NY/New York
+death 2013-07-29
+describe ; BR TR H75 W187
+sameas ssn:057-32-8012
+college Amherst College; dates=/1961; degree=graduated
+resides 1962 @ US/NY/Rockaway Park; address=224 Beach 146th Street
+
+---
+
+#profile Zelenak, Nicholas Steven
+key Zelenak_Nicholas_Steven
+birth 1940-01-18 @ US/MI/Detroit
+death 2013-05-08 @ US/MT/Libby
+describe ; BL TR H70 W180
+sameas ssn:363-40-9314
+highschool Lincoln Park High School @ US/MI
+college Western Michigan University
+resides 1961 @ US/MI/Lincoln Park; address=669 Riverbank
+
+---
+
+#profile Zepke, Eric Walter
+key Zepke_Eric_Walter
+birth 1933 @ US/MA/Springfield
+death 2010-01-05 @ US/MA/Wilbraham
+describe ; BR TR
+resides 1952 @ US/MA/E. Longmeadow; address=229 Shaker Road
+
+---
+
+#profile Zernial, Gus Edward
+key Zernial_Gus_Edward
+birth 1923-06-27 @ US/TX/Beaumont
+death 2011-01-20 @ US/CA/Fresno
+describe ; BR TR H74 W200
+sameas ssn:456-12-7488
+highschool Beaumont High School @ US/TX; dates=/1942; degree=graduated
+resides 2003 @ US/CA/Clovis; address=687 Coventry Ave.; zip=93611
+military US; dates=1943/1945
+
+---
+
+#profile Ziemba, Chester J. [Chet]
+key Ziemba_Chester_J
+birth 1919-11-18 @ US/IL/Chicago
+death 2002-08-27 @ US/FL/Pensacola
+describe ; BR TR H71.5 W195
+sameas ssn:357-07-5317
+highschool Crane Tech High School
+college University of Illinois
+resides 1941 @ US/IL/Chicago; address=1700 W. 14th Street
+military US; dates=1943/1945
+
+---
+
+#profile Zieser, Clarence Dwight "Buzz"
+key Zieser_Clarence_Dwight
+birth 1929-08-21 @ US/IA/Belle Plaine
+death 2012-07-28 @ US/IA/Cedar Rapids
+describe ; BR TR H74 W200
+sameas ssn:479-24-7357
+highschool Center Point High School @ US/IA/Center Point; dates=/1947; degree=graduated
+resides 1956 @ US/IA/Center Point
+
+---
+
+#profile Zimmerman, Seibert L. "Putter"
+key Zimmerman_Seibert_L
+birth 1927-04-11 @ US/PA/Greencastle
+death 2010-05-12 @ US/PA/Chambersburg
+describe ; BR TR
+military US Navy
+signed 1947-01-22; join=Dover (Eastern Shore)
+released 1947-06-03; leave=Dover (Eastern Shore)
+
+---
+
+#profile Zimmerman, Tiffin A.
+key Zimmerman_Tiffin_A
+birth 1923-03-28 @ US/OH/Waterford
+death 2011-10-19 @ US/IN/Indianapolis
+signed 1946; join=Richmond (Ohio State)
+signed 1949-03-31; join=Thibodaux
+optioned 1949-04-08; leave=Thibodaux; join=El Dorado
+returned 1949-04-17; leave=El Dorado; join=Thibodaux
+optioned 1949-04-19; leave=Thibodaux; join=Clarksdale (Cotton States)
+released 1949-04-21; leave=Clarksdale (Cotton States)
+
+---
+
+#profile Zuber, Robert Howard [Bob]
+key Zuber_Robert_Howard
+birth 1928-11-03 @ US/CA/Stockton
+death 2008-07-10 @ US/CA/Encino
+describe ; BR TR H70.5 W173
+sameas ssn:567-32-1131
+highschool Washington High School @ US/CA/Los Angeles
+college University of Southern California
+resides 1954 @ US/CA/Los Angeles; address=101415 So. Hoover
+resides 2008 @ US/CA/Encino
+military US; dates=1952/1953
+
+---
+
+#profile Zuchnik, John Alvin
+key Zuchnik_John_Alvin
+birth 1928-06-01 @ US/MI/Pinconning
+death 2013-11-29 @ US/MI/Sterling
+describe ; BR TR H70 W185
+sameas ssn:371-28-4538
+highschool Pinconning High School; dates=/1947; degree=graduated
+resides 1950 @ US/MI/Bay City; address=1211 N. Jackson
+military US; dates=1951/1952
+
+---
+
+#profile Zwirek, Louis C.
+key Zwirek_Louis_C
+birth 1919-12-28
+death 2011-03-16 @ US/NJ/Ridgewood
+describe ; BR TR
+sameas ssn:203-05-2564
+

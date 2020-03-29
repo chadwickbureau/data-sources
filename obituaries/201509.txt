@@ -1,0 +1,11 @@
+!citation Vaschak-Kirila Funeral Home @ 2019-11-18
+!url https://www.vaschak-kirilafh.com/notices/Norman-Manning
+!file Manning_Norm.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-11-18
+
+#profile Manning, Norman S. [Norm]
+key 201509_Manning
+birth 1937-11-13 @ US/OH/Youngstown
+death 2015-09-12 
+highschool South HS @ US/OH/Youngstown
+burial Calvary Cemetery @ US/OH/Youngstown

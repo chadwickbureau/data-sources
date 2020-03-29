@@ -1,0 +1,159 @@
+!citation Schulenberg Sticker @ 1915-04-16; page 1
+
+
+#profile Dailey, Joe
+key 20200326_001
+player 1915 Schulenberg (Middle Texas)
+
+#profile Boykin, Ray
+key 20200326_002
+player 1915 Schulenberg (Middle Texas)
+
+---
+
+!citation Temple Daily Telegram @ 1915-04-15; page 5
+
+
+#profile Dennis, Hubert
+key 20200326_003
+player 1915 Belton (Middle Texas)
+
+#profile Anderson, Wingo
+key 20200326_004
+player 1915 Temple (Middle Texas); TL
+player <1915 Cincinnati (National)
+
+---
+
+!citation Temple Daily Telegram @ 1915-06-20; page 5
+
+
+#profile Gaines, "Smokestack"
+key 20200326_005
+player 1915 Belton (Middle Texas); TR
+
+---
+
+!citation Temple Daily Telegram @ 1915-06-19; page 8
+
+
+#profile Gaines, Joe
+key 20200326_006
+player 1915 Belton (Middle Texas)
+
+---
+
+!citation Temple Daily Telegram @ 1915-06-11; page 5
+
+
+#profile Showers, Dan
+key 20200326_007
+player 1915 Temple (Middle Texas)
+
+#profile Lewis
+key 20200326_008
+player 1915 Belton (Middle Texas); TL
+
+---
+
+!citation Temple Daily Telegram @ 1915-06-08; page 5
+
+
+#profile Showers, Tommy
+key 20200326_009
+player 1915 Temple (Middle Texas)
+
+---
+
+!citation Temple Daily Telegram @ 1915-06-03; page 5
+
+
+#profile Young, Bugs
+key 20200326_010
+player 1915 Bartlett (Middle Texas)
+
+---
+
+!citation Temple Daily Telegram @ 1915-04-19; page 5
+
+
+#profile Bossler, Charlie
+key 20200326_011
+player 1915 Temple (Middle Texas)
+
+---
+
+!citation Richmond Times Dispatch @ 1915-07-04; page 13
+
+
+#profile Johnson, Robert
+key 20200326_012
+player 1915 Norfolk (Virginia)
+option-returned <=1915-07-04; join=Philadelphia (American); leave=Norfolk (Virginia)
+
+
+---
+
+!citation Fall River Globe @ 1915-06-21; page 7
+
+
+#profile Van Houten
+key 20200326_013
+player 1915 Portland (New England)
+death 1915-06-19
+
+---
+
+!citation Boston Globe @ 1915-08-11; page 4
+
+
+#profile Fraher
+key 20200326_014
+player 1915 Lewiston (New England); @RF
+
+---
+
+!citation Fitchburg Sentinel @ 1915-10-25; page 6
+
+
+#profile Herndon, H. T.
+key 20200326_015
+player 1915 Portland (New England)
+
+#profile Wright, Edward
+key 20200326_016
+player 1915 Portland (New England)
+
+---
+
+!citation Berkshire Eagle @ 1915-05-18; page 2
+
+
+#profile Phillips, Joseph
+key 20200326_017
+player 1915 Lewiston (New England)
+player 1914 Pittsfield (Eastern Association)
+
+---
+
+!citation Boston Globe @ 1915-04-27; page 7
+
+
+#profile Myers, Tax
+key 20200326_018
+player 1915 Lowell (New England)
+resides 1915 @ US/KY/Louisville
+
+---
+
+!citation Boston Globe @ 1915-09-04; page 5
+
+
+#profile Herndon, Hardin
+key 20200326_019
+player 1915 Portland (New England)
+
+#profile Voss, John
+key 20200326_020
+player 1915 Portland (New England)
+

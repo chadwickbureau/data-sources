@@ -1,0 +1,13 @@
+!citation Ramsey Funeral Home @ 2018-07-20
+!url http://www.ramseyfuneral.com/memsol.cgi?user_id=1896699
+!file Shell_George.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-07-20
+
+#profile Shell, George Marion
+key 201612_Shell
+describe ; TL
+birth 1921-08-22 @ US/TX/DeBerry
+death 2016-12-27 @ US/TX/Austin
+highschool Carthage HS @ US/TX/Carthage
+military US Navy @ World War II
+military US Navy @ Korean War

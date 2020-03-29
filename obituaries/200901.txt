@@ -1,0 +1,10 @@
+!citation Biloxi Sun Herald @ 2009-01-09
+!file Allen_Gene.docx
+!contributor Alain Usereau <althetiger@hotmail.com> @ 2014-06-04
+
+#profile Allen, Herman Eugene [Gene]
+key 200901_Allen
+birth 1951-08-26 @ US/MS/Biloxi
+death 2009-01-07 @ US/MS/Southaven
+highschool Biloxi HS @ US/MS/Biloxi
+college University of Mississippi

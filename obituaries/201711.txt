@@ -1,0 +1,39 @@
+!citation Greenwood Funeral Home @ 2018-08-24
+!url https://www.greenwoodmemorial.com/obits/cecil-edward-espy/
+!file Espy_Cecil.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-08-24
+
+#profile Espy, Cecil Edward, Sr.
+key 201711_Espy
+birth 1935-09-06 @ US/CA/San Diego
+death 2017-11-16
+highschool San Diego HS @ US/CA/San Diego
+military US Army 
+father of Espy, Cecil, Jr.
+
+---
+
+!citation Kopicki's Funeral Home @ 2018-08-17
+!url https://www.heritageberwyn.com/notices/Donald-Stange
+!file Stange_Donald.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-08-17
+
+#profile Stange, Donald C.
+key 201711_Stange
+birth 1930-11-27
+death 2017-11-15
+burial Queen of Heaven Catholic Cemetery @ US/IL/Hillside
+
+---
+
+!citation Philadelphia Tribune @ 2017-11-17
+!url https://hiers-baxley.com/tribute-ajax/print-obituary.html?id=32002
+!file Jones_Lew.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-03-10
+
+#profile Jones, Lewis A., Sr. [Lew]
+key 201711_Jones
+death 2017-11-12 @ US/FL/The Villages 
+highschool Crooms Academy @ US/FL/Sanford
+college Florida A&M University
+military US Air Force

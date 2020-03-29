@@ -1,0 +1,9 @@
+!citation St. Louis Post-Dispatch @ 2018-09-30
+!url https://www.legacy.com/obituaries/stltoday/obituary.aspx?n=gary-dunahue&pid=190355196
+!file Dunahue_Gary.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-10-03
+
+#profile Dunahue, Gary
+key 200309_Dunahue
+birth 1956-02-07
+death 2003-09-30

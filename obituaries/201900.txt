@@ -1,0 +1,155 @@
+!citation Cleveland Plain Dealer @ 2019-01-12
+!url http://obits.cleveland.com/obituaries/cleveland/obituary.aspx?n=john-e-hetki&pid=191234764&fhid=17569&fbclid=IwAR2zysQqB2-w_6VlmCgc82VGqzZs0W8v9TI1XXhCTo_NRnRvrpYetFrqckE
+!file Hetki_John.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-01-12
+
+#profile Hetki, John E. 
+key 201900_Hetki
+death 2019
+military US Army @ World War II
+burial Holy Cross Cemetery @ US/OH/Brook Park
+
+---
+
+!citation StarTribune @ 2019-01-21
+!url http://www.startribune.com/obituaries/detail/0000293954/
+!file Carlson_Marty.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-01-21
+
+#profile Carlson, Marshall Vernon [Marty] 
+key 201900_Carlson
+birth @ US/IL/Chicago
+death 2019
+highschool East HS @ US/IA/Des Moines
+college Drake University
+
+---
+
+!citation Wichita Eagle @ 2019-02-16
+!url https://www.legacy.com/obituaries/kansas/obituary.aspx?n=rocky-krsnich&pid=191569154
+!file Krsnich_Rocky.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-02-16
+
+#profile Krsnich, Rocky 
+key 201900_Krsnich
+birth 1927-08-05 @ US/WI/Milwaukee
+death 2019
+
+---
+
+!citation Sacramento Bee @ 2019-03-13
+!url https://www.legacy.com/obituaries/sacbee/obituary.aspx?n=wallace-r-turpen&pid=191812861
+!file Turpen_Wally.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-03-13
+
+#profile Turpen, Wallace R. [Wally] 
+key 201900_Turpen
+death 2019
+military US Army @ World War II
+
+---
+
+!citation Cleveland.com @ 2019-03-04
+!url https://www.cleveland.com/tribe/2019/03/john-romano-cleveland-indians-all-star-catcher-in-the-1960s-dies-at-age-84.html
+!file Romano_John.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-03-06
+
+#profile Romano, John 
+key 201900_Romano
+birth @ US/NJ/Hoboken
+death 2019
+
+---
+
+!citation The Reporter @ 2019-02-24
+!url https://www.legacy.com/obituaries/thereporter/obituary.aspx?n=william-patrick-martin-tiedemann-pat&pid=191644680
+!file Tiedemann_Pat.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-02-24
+
+#profile Tiedemann, William Patrick Martin [Pat] 
+key 201900_Tiedemann
+birth 1954-05-02 @ US/CA/Fresno 
+death 2019
+highschool Vacaville HS @ US/CA/Vacaville
+college University of Nevada, Las Vegas
+
+---
+
+!citation Cincinnati Enquirer @ 2019-05-01
+!url https://www.legacy.com/obituaries/cincinnati/obituary.aspx?n=eugene-roley&pid=192747911&fhid=15497
+!file Roley_Eugene.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-04-30
+
+#profile Roley, Eugene, Jr.
+key 201900_Roley
+birth 1929-01-16
+death 2019
+
+---
+
+!citation Chicago Tribune @ 2019-06-03
+!url https://www.legacy.com/obituaries/chicagotribune/obituary.aspx?n=james-henry-neufeldt&pid=193041610
+!file Neufeldt_Jim.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-06-03
+
+#profile Neufeldt, James Henry [Jim]
+key 201900_Neufeldt
+death 2019 @ US/FL/Fort Myers
+highschool Marshall Metropolitan HS @ US/IL/Chicago
+college University of Illinois at Urbana-Champaign
+military US Army
+
+---
+
+!citation Chicago Tribune @ 2019-08-04
+!url https://www.legacy.com/obituaries/chicagotribune/obituary.aspx?n=marvin-hecht&pid=193550647&fhid=2000
+!file Hecht_Marvin.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-08-04
+
+#profile Hecht, Marvin
+key 201900_Hecht
+death 2019
+college Northwestern University
+college Northern Illinois University
+military US Navy @ World War II
+burial Memorial Park Cemetery @ US/IL/Skokie
+
+---
+
+!citation Matthews Funeral Home @ 2019-10-14
+!url https://matthewsfuneralhome.com/mike-hensley/
+!file Hensley_Mike.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-14
+
+#profile Hensley, William Michael [Mike]
+key 201900_Hensley
+birth 1946-12-09 @ US/OK/Oklahoma City
+death 2019
+highschool Del City HS @ US/OK/Del City
+
+---
+
+!citation Hansen Mortuaries & Cemetery @ 2019-11-06
+!url https://www.hansenmortuary.com/william-robert-lindner/
+!file Lindner_Bill.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-11-06
+
+#profile Lindner, William Robert [Bill]
+key 201900_Lindner
+birth 1941-03-20 @ US/AZ/Phoenix
+death 2019
+highschool West Phoenix HS @ US/AZ/Phoenix
+
+---
+
+!citation  Porterville Recorder @ 2019-03-20
+!url https://www.legacy.com/obituaries/recorderonline/obituary.aspx?n=glenn-arthur-edwards&pid=191875061
+!file Edwards_Glenn.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-12-10
+
+#profile Edwards, Glenn Arthur
+key 201900_Edwards
+birth 1923-11-22 @ US/CA/Tulare
+death 2019
+college University of Southern California
+military US Army @ World War II

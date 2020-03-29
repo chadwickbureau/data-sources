@@ -1,0 +1,12 @@
+!citation Temple & Sons Funeral Directors @ 2014-06-04
+!url http://www.templeandsons.com/visitations.php?id=1063
+!file Pendarvis_Embry.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-06-04
+
+#profile Pendarvis, Embry "T-Won"
+key 201304_Pendarvis
+birth 1952-04-24 @ US/OK/Anadarko
+death 2013-04-18
+highschool Northeast HS @ US/OK/Oklahoma City
+college Langston University @ US/OK/Langston
+burial Memory Lane Cemetery @ US/OK/Anadarko

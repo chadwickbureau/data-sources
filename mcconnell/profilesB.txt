@@ -1,0 +1,938 @@
+#profile Babe, Loren Rolland
+key Babe_Loren_Rolland
+birth 1928-01-11 @ US/IA/Pisgah
+death 1984-02-14 @ US/NE/Omaha
+describe ; BL TR H70 W180
+military US; dates=1946/1946
+
+---
+
+#profile Badgro, Morris Hiram [Red]
+key Badgro_Morris_Hiram
+birth 1902-12-01 @ US/WA/Orillia
+death 1998-07-13 @ US/WA/Kent
+describe ; BL TR H72 W190
+note Member of Pro Football Hall of Fame
+
+---
+
+#profile Bailey, Lonas Edgar [Ed]
+key Bailey_Lonas_Edgar
+birth 1931-04-15 @ US/TN/Strawberry Plains
+death 2007-03-23 @ US/TN/Knoxville
+describe ; BL TR H74 W205
+military US; dates=1951/1952
+college University of Tennessee
+brother of Bailey, Jim
+
+---
+
+#profile Bailey, Robert Sherwood
+key Bailey_Robert_Sherwood
+birth 1942-10-13 @ US/CA/Long Beach
+describe ; BR TR H72 W188
+
+---
+
+#profile Baker, Johnnie B. [Dusty]
+key Baker_Johnnie_B
+birth 1949-06-15 @ US/CA/Riverside
+describe ; BR TR H74 W187
+
+---
+
+#profile Balaz, John Lawrence
+key Balaz_John_Lawrence
+birth 1950-11-24 @ CA/ON/Toronto
+describe ; BR TR H75 W180
+
+---
+
+#profile Balcena, Robert Rudolph
+key Balcena_Robert_Rudolph
+birth 1925-08-01 @ US/CA/San Pedro
+death 1990-01-05 @ US/CA/San Pedro
+describe ; BR TL H67 W160
+
+---
+
+#profile Banks, George Edward
+key Banks_George_Edward
+birth 1938-09-24 @ US/SC/Pacolet Mills
+death 1985-03-01 @ US/SC/Spartanburg
+describe ; BR TR H71 W185
+
+---
+
+#profile Bannon, George
+key Bannon_George
+birth 1879-06-09 @ US/MA/Groveland
+death 1936-10-12 @ US/MA/Ipswich
+describe ; TR
+brother of Bannon, Jim
+brother of Bannon, Tom
+brother of Bannon, William
+
+---
+
+#profile Bannon, William
+key Bannon_William
+birth 1875-12-20 @ US/MA/Amesbury
+death 1938-09-26 @ US/MA/Lynn
+describe ; TR
+brother of Bannon, Jim
+brother of Bannon, Tom
+brother of Bannon, George
+
+---
+
+#profile Barber, Tyrus Tyrone
+key Barber_Tyrus_Tyrone
+birth 1893-07-09 @ US/TN/Lavinia
+death 1968-10-20 @ US/TN/Milan
+describe ; BL TR H71 W170
+
+---
+
+#profile Barisoff, William
+key Barisoff_William
+birth 1921-12-22 @ US/CA/Los Angeles
+death 1992-10-21 @ US/CA/Los Angeles
+describe ; BR TR H72 W175
+military US; dates=1943/1945
+alias Berrisoff, William; type=legal
+
+---
+
+#profile Barker, Raymond Herrell
+key Barker_Raymond_Herrell
+birth 1936-03-12 @ US/WV/Martinsburg
+describe ; BL TR H72 W192
+
+---
+
+#profile Barnes, Emile Deering [Red]
+key Barnes_Emile_Deering
+birth 1903-12-25 @ US/AL/Suggsville
+death 1959-07-03 @ US/AL/Mobile
+describe ; BL TR H70.5 W158
+college University of Alabama
+
+---
+
+#profile Barnes, Roscoe Charles [Ross]
+key Barnes_Roscoe_Charles
+birth 1850-05-08 @ US/NY/Mount Morris
+death 1915-02-15 @ US/IL/Chicago
+describe ; BR TR H68.5 W145
+note Missed part of 1877 season due to serious illness
+
+---
+
+#profile Barnhart, Clyde Lee
+key Barnhart_Clyde_Lee
+birth 1895-12-29 @ US/PA/Buck Valley
+death 1980-01-21 @ US/MD/Hagerstown
+describe ; BR TR H70 W155
+
+---
+
+#profile Barrera (Romellon), Nelson Enrique
+key Barrera_Nelson_Enrique
+birth 1957-10-17 @ MX/Campeche/Ciudad del Carmen
+death 2002-07-14 @ MX/Campeche/Campeche
+describe ; BR TR H72 W185
+
+---
+
+#profile Barrett, John Joseph
+key Barrett_John_Joseph
+birth 1915-12-18 @ US/MA/Lowell
+death 1974-08-17 @ US/NH/Seabrook
+describe ; BL TL H70.5 W170
+
+---
+
+#profile Barrett, William Virgil [Jumbo]
+key Barrett_William_Virgil
+birth 1897-07-21 @ US/GA/Rockmart
+death 1977-10 @ US/GA/Savannah
+describe ; BR TR H71.5 W190
+note On New York Giants spring training roster in 1928
+note Broke leg on August 2, 1928 and finished for the season
+
+---
+
+#profile Barry, Malcolm F. [Mal]
+key Barry_Malcolm_F
+birth 1893-06-15 @ US/MA/Brockton
+death 1960-04-06 @ US/MA/Brockton
+describe ; BL TL H72 W162
+military US; dates=1918/1918
+note Went to spring training with New York (AL) in 1913
+
+---
+
+#profile Bartelli, Arthur Raymond
+key Bartelli_Arthur_Raymond
+birth 1914-08-24 @ US/KS/Frontenac
+death 1992-12-05 @ US/TX/Harlingen
+describe ; BR TR H72 W185
+
+---
+
+#profile Barton, Vincent David
+key Barton_Vincent_David
+birth 1908-02-01 @ CA/AB/Edmonton
+death 1973-09-13 @ CA/ON/Toronto
+describe ; BL TR H72 W180
+note Hit 5 home runs in a game on August 26, 1938 against Kannapolis, Carolina League
+
+---
+
+#profile Bass, Kevin Charles
+key Bass_Kevin_Charles
+birth 1959-05-12 @ US/CA/Redwood City
+describe ; BS TR H72 W183
+
+---
+
+#profile Basso, Sebastian James [Jim]
+key Basso_Sebastian_James
+birth 1921-10-05 @ US/NE/Omaha
+death 1999-05-21 @ US/TX/Houston
+describe ; BR TR H72 W185
+military US; dates=1942/1945
+
+---
+
+#profile Batch, William G.
+key Batch_William_G
+describe ; BR TR
+
+---
+
+#profile Bateman, Henry Quaite [Clyde] "Sis"
+key Bateman_Henry_Quaite
+birth 1875-12-25 @ US/TX/Melissa
+death 1937-01-18 @ US/WI/Milwaukee
+describe ; BR
+note Hit 4 home runs in a game on May 14, 1903 for Paris at Corsicana. Also hit a triple in the game.
+note Pitched a no-hitter in game on July 11, 1903 for Waco against Fort Worth.
+
+---
+
+#profile Battey, Earl Jesse
+key Battey_Earl_Jesse
+birth 1935-01-05 @ US/CA/Los Angeles
+death 2003-11-15 @ US/FL/Gainesville
+describe ; BR TR H73 W205
+
+---
+
+#profile Bauer, Henry Albert [Hank]
+key Bauer_Henry_Albert
+birth 1922-07-31 @ US/IL/East St. Louis
+death 2007-02-09 @ US/KS/Lenexa
+describe ; BR TR H72 W192
+military US; dates=1942/1945
+
+---
+
+#profile Baumholtz, Frank Conrad
+key Baumholtz_Frank_Conrad
+birth 1918-10-07 @ US/OH/Midvale
+death 1997-12-14 @ US/FL/Winter Springs
+describe ; BL TL H70.5 W175
+military US; dates=1942/1945
+college Ohio University; dates=/1941; degree=graduated
+note Played basketball in Basketball Association of America
+
+---
+
+#profile Baxes, Dimitrios Speros [Jim]
+key Baxes_Dimitrios_Speros
+birth 1928-07-05 @ US/CA/San Francisco
+death 1996-11-14 @ US/CA/Garden Grove
+describe ; BR TR H73 W190
+military US; dates=1951/1952
+brother of Baxes, Mike
+
+---
+
+#profile Baxes, Michael
+key Baxes_Michael
+birth 1930-12-18 @ US/CA/San Francisco
+describe ; BR TR H70 W175
+military US; dates=1952/1953
+brother of Baxes, Jim
+
+---
+
+#profile Beall, John Woolf
+key Beall_John_Woolf
+birth 1882-03-12 @ US/MD/Beltsville
+death 1926-06-13 @ US/MD/Beltsville
+describe ; BL TR H72 W180
+
+---
+
+#profile Beck, Frederick Thomas
+key Beck_Frederick_Thomas
+birth 1886-11-17 @ US/IL/Havana
+death 1962-03-12 @ US/IL/Havana
+describe ; BL TL H73 W180
+military US; dates=1918/1918
+
+---
+
+#profile Beckendorf, Henry Ward "Heine"
+key Beckendorf_Henry_Ward
+birth 1884-06-15 @ US/NY/New York
+death 1949-09-15 @ US/NY/Jackson Heights
+describe ; BR TR H69 W174
+
+---
+
+#profile Beckert, Glenn Alfred
+key Beckert_Glenn_Alfred
+birth 1940-10-12 @ US/PA/Pittsburgh
+describe ; BR TR H73 W190
+college Allegheny College @ US/PA/Meadville; degree=graduated
+
+---
+
+#profile Bekeza, Lewis A.
+key Bekeza_Lewis_A
+birth 1917-08-14 @ US/IL/Chicago Heights
+describe ; BR TR H74.5 W190
+military US; dates=1942/1945
+
+---
+
+#profile Bell, Fernando Jerome [Fern]
+key Bell_Fernando_Jerome
+birth 1913-01-21 @ US/OK/Ada
+death 2000-08-21 @ US/CA/Rancho Mirage
+describe ; BR TR H72 W180
+
+---
+
+#profile Bell, Lester Rowland
+key Bell_Lester_Rowland
+birth 1901-12-14 @ US/PA/Harrisburg
+death 1985-12-26 @ US/PA/Hershey
+describe ; BR TR H71 W165
+
+---
+
+#profile Bell, Roy Chester "Beau"
+key Bell_Roy_Chester
+birth 1907-08-20 @ US/TX/Bellville
+death 1977-09-14 @ US/TX/College Station
+describe ; BR TR H74 W185
+military US; dates=1943/1945
+
+---
+
+#profile Bennett, Charles Wesley
+key Bennett_Charles_Wesley
+birth 1854-11-21 @ US/PA/New Castle
+death 1927-02-24 @ US/MI/Detroit
+describe ; BR TR H71 W180
+note Lost both legs in railroad accident in January, 1894
+
+---
+
+#profile Beran, Joseph William
+key Beran_Joseph_William
+birth 1928-08-16 @ US/KS/Larned
+death 2000-05-06 @ US/KS/Hoisington
+describe ; BR TR H70.5 W175
+
+---
+
+#profile Berardino, John
+key Berardino_John
+birth 1917-05-01 @ US/CA/Los Angeles
+death 1996-05-19 @ US/CA/Los Angeles
+describe ; BR TR H72 W180
+military US; dates=1943/1945
+college University of Southern California
+note Became well known TV actor after playing career
+
+---
+
+#profile Berg, Morris [Moe]
+key Berg_Morris
+birth 1900-03-02 @ US/NY/New York
+death 1972-05-29 @ US/NJ/Belleville
+describe ; BR TR H73 W185
+college Princeton University; degree=graduated
+college University of Paris
+college Columbia University; degree=Law
+
+---
+
+#profile Bernazard (Garcia), Antonio [Tony]
+key Bernazard_Antonio
+birth 1956-08-24 @ PR//Caguas
+describe ; BS TR H69 W160
+
+---
+
+#profile Berry, Charles Francis
+key Berry_Charles_Francis
+birth 1902-10-18 @ US/NJ/Phillipsburg
+death 1972-09-06 @ US/IL/Evanston
+describe ; BR TR H72 W185
+
+---
+
+#profile Besse, Otto A.
+key Besse_Otto_A
+birth 1877-08-29
+
+---
+
+#profile Bierbauer, Louis W.
+key Bierbauer_Louis_W
+birth 1865-09-28 @ US/PA/Erie
+death 1926-01-31 @ US/PA/Erie
+describe ; BL TR H68 W140
+
+---
+
+#profile Bigbee, Carson Lee
+key Bigbee_Carson_Lee
+birth 1895-03-31 @ US/OR/Lebanon
+death 1964-10-17 @ US/OR/Portland
+describe ; BL TR H69 W157
+
+---
+
+#profile Bissonette, Delphia Louis [Del]
+key Bissonette_Delphia_Louis
+birth 1899-09-06 @ US/ME/Winthrop
+death 1972-06-09 @ US/ME/Augusta
+describe ; BL TL H71 W180
+college New Hampshire State University
+college Georgetown University
+
+---
+
+#profile Bistrauf, Joseph E.
+key Bistrauf_Joseph_E
+birth 1913-10-09 @ US/OH/Cleveland
+describe ; BS TR H72 W185
+alias Murff, Joseph; type=alias; dates=1940/1942
+alias Bistrauff, Joseph E.; type=alternate spelling
+alias Bistruff, Joseph E.; type=alternate spelling
+
+---
+
+#profile Blair, Paul L. D.
+key Blair_Paul_L_D
+birth 1944-02-01 @ US/OK/Cushing
+describe ; BR TR H72 W171
+
+---
+
+#profile Blanchard, John Edwin
+key Blanchard_John_Edwin
+birth 1933-02-26 @ US/MN/Minneapolis
+describe ; BL TR H73 W198
+military US; dates=1953/1954
+note Hit home runs in four consecutive at bats on July 21, 22 and 26, 1961
+
+---
+
+#profile Blanco (Diaz), Oswaldo Carlos [Ossie]
+key Blanco_Oswaldo_Carlos
+birth 1945-09-09 @ VE//Caracas
+describe ; BR TR H72 W185
+
+---
+
+#profile Blasingame, Don Lee
+key Blasingame_Don_Lee
+birth 1932-03-16 @ US/MS/Corinth
+death 2005-04-13 @ US/AZ/Fountain Hills
+describe ; BL TR H70 W165
+son-in-law of Cooper, Walker
+
+---
+
+#profile Blatnik, John Louis
+key Blatnik_John_Louis
+birth 1921-03-10 @ US/OH/Bridgeport
+describe ; BR TR H72 W195
+military US; dates=1943/1945
+
+---
+
+#profile Blauser, Jeffrey Michael
+key Blauser_Jeffrey_Michael
+birth 1965-11-08 @ US/CA/Los Gatos
+describe ; BR TR H72 W170
+
+---
+
+#profile Blaylock, Marvin Edward
+key Blaylock_Marvin_Edward
+birth 1929-09-30 @ US/AR/Fort Smith
+death 1993-10-23 @ US/AR/Conway
+describe ; BL TL H73.5 W175
+
+---
+
+#profile Blefary, Curtis LeRoy
+key Blefary_Curtis_LeRoy
+birth 1943-07-05 @ US/NY/Brooklyn
+death 2001-01-28 @ US/FL/Pompano Beach
+describe ; BL TR H74 W195
+college Wagner College @ US/NY/Staten Island
+college Towson State College @ US/MD/Baltimore
+
+---
+
+#profile Blenkiron, Vernon Mathew
+key Blenkiron_Vernon_Mathew
+birth 1901-09-12 @ US/NE/Wausa
+death 1972-02-01 @ US/CA/South Gate
+describe ; BS TR H73 W180
+note Was a world class sprinter. Ran 100 yards in 9.8 seconds in baseball uniform while with Ionia in 1922.
+
+---
+
+#profile Bliss, George Roscoe "Red"
+key Bliss_George_Roscoe
+birth 1899-10-18 @ US/IA/Glidden
+death 1973-08 @ US/NE/Fairbury
+describe ; BR TR H70 W182
+note Broke leg in a game on May 12, 1926. Did not return to lineup until August 25.
+
+---
+
+#profile Bloxsom, Daniel Edgar
+key Bloxsom_Daniel_Edgar
+birth 1904-08-20 @ US/TX/Houston
+death 1994-05-12 @ US/TX/Houston
+describe ; BR TR H70 W150
+
+---
+
+#profile Bluege, Oswald Louis [Ossie]
+key Bluege_Oswald_Louis
+birth 1900-10-24 @ US/IL/Chicago
+death 1983-10-14 @ US/MN/Edina
+describe ; BR TR H71 W162
+
+---
+
+#profile Boardman, George A.
+key Boardman_George_A
+birth 1879 @ GB
+describe ; BR TR
+drafted 1909; join=Boston (American)
+optioned 1910; leave=Boston (American); join=Sacramento (Pacific Coast)
+resides 1911 @ US/ME/Lewiston
+
+---
+
+#profile Bochte, Bruce Anton
+key Bochte_Bruce_Anton
+birth 1950-11-12 @ US/CA/Pasadena
+describe ; BL TL H75 W200
+college University of Santa Clara; degree=graduated
+
+---
+
+#profile Boggs, Wade Anthony
+key Boggs_Wade_Anthony
+birth 1958-06-15 @ US/NE/Omaha
+describe ; BL TR H74 W197
+
+---
+
+#profile Boles, Carl Theodore
+key Boles_Carl_Theodore
+birth 1934-10-31 @ US/AR/Center Point
+describe ; BR TR H71 W185
+
+---
+
+#profile Boles, Howard Wesley
+key Boles_Howard_Wesley
+birth 1927-03-25 @ US/IL/Amboy
+describe ; BR TR H76 W202
+military US; dates=1946/1946
+
+---
+
+#profile Boley, John Peter [Joe]
+key Boley_John_Peter
+birth 1896-07-19 @ US/PA/Mahanoy City
+death 1962-10-30 @ US/PA/Mahanoy City
+describe ; BR TR H71 W170
+military US; dates=1918/1918
+alias Bolinsky, John Peter [Joe]; type=legal
+
+---
+
+#profile Bolick, Frank Charles
+key Bolick_Frank_Charles
+birth 1966-11-16 @ US/PA/Ashland
+describe ; BS TR H70 W180
+college Georgia Tech
+
+---
+
+#profile Bolling, Frank Elmore
+key Bolling_Frank_Elmore
+birth 1931-11-16 @ US/AL/Mobile
+describe ; BR TR H73 W175
+military US; dates=1955/1955
+college Spring Hill College @ US/AL/Mobile; degree=graduated
+brother of Bolling, Milt
+
+---
+
+#profile Bollweg, Donald Raymond
+key Bollweg_Donald_Raymond
+birth 1921-11-12 @ US/IL/Wheaton
+death 1996-05-26 @ US/IL/Wheaton
+describe ; BL TL H73 W190
+military US; dates=1943/1945
+
+---
+
+#profile Boniar, Francis Theodore
+key Boniar_Francis_Theodore
+birth 1932-10-23 @ US/PA/Uniontown
+describe ; BR TR H73 W195
+military US
+
+---
+
+#profile Bonura, Henry John [Zeke]
+key Bonura_Henry_John
+birth 1908-09-20 @ US/LA/New Orleans
+death 1987-03-09 @ US/LA/New Orleans
+describe ; BR TR H72 W210
+military US; dates=1942/1945
+
+---
+
+#profile Bool, Albert
+key Bool_Albert
+birth 1897-08-24 @ US/NE/Lincoln
+death 1981-09-27 @ US/NE/Lincoln
+describe ; BR TR H71 W180
+
+---
+
+#profile Boons, Lute Joseph
+key Boons_Lute_Joseph
+birth 1890-05-06 @ US/PA/Pittsburgh
+death 1982-07-29 @ US/PA/Pittsburgh
+describe ; BR TR H69 W160
+
+---
+
+#profile Boone, Raymond Otis
+key Boone_Raymond_Otis
+birth 1923-07-27 @ US/CA/San Diego
+death 2004-10-17 @ US/CA/San Diego
+describe ; BR TR H73 W188
+military US; dates=1943/1945
+father of Boone, Bob
+grandfather of Boone, Aaron
+grandfather of Boone, Bret
+
+---
+
+#profile Boone, Robert Raymond
+key Boone_Robert_Raymond
+birth 1947-11-19 @ US/CA/San Diego
+describe ; BR TR H74 W202
+son of Boone, Ray
+father of Boone, Aaron
+father of Boone, Bret
+
+---
+
+#profile Boone, William R.
+key Boone_William_R
+brother of Boone, Ike
+brother of Boone, Dan
+
+---
+
+#profile Bosse, Henry Joseph [Hank]
+key Bosse_Henry_Joseph
+birth 1896-01-14 @ US/MA/Spencer
+death 1968-12-08 @ US/MA/Chelsea
+describe ; BR TR H68.5 W165
+
+---
+
+#profile Bostock, Lyman Wesley
+key Bostock_Lyman_Wesley
+birth 1950-11-22 @ US/AL/Birmingham
+death 1978-09-23 @ US/IN/Gary
+describe ; BL TR H73 W180
+
+---
+
+#profile Bottenus, William G.
+key Bottenus_William_G
+birth 1866
+death 1956-03-15 @ US/OH/Geneva
+describe ; BL TR H70 W160
+brother of Bottenus, Ralph
+
+---
+
+#profile Bowen, Ronald Clay
+key Bowen_Ronald_Clay
+birth 1925-11-16 @ US/WA/Centralia
+describe ; BR TR H74 W200
+
+---
+
+#profile Bowerman, Frank Eugene
+key Bowerman_Frank_Eugene
+birth 1868-12-05 @ US/MI/Romeo
+death 1948-11-30 @ US/MI/Romeo
+describe ; BR TR H74 W190
+
+---
+
+#profile Boyer, Cletis Leroy
+key Boyer_Cletis_Leroy
+birth 1937-02-09 @ US/MO/Cassville
+death 2007-06-04 @ US/GA/Lawrenceville
+describe ; BR TR H72 W182
+brother of Boyer, Cloyd
+brother of Boyer, Ken
+
+---
+
+#profile Boyle, John Anthony
+key Boyle_John_Anthony
+birth 1866-03-22 @ US/OH/Cincinnati
+death 1913-01-06 @ US/OH/Cincinnati
+describe ; BR TR H74 W190
+
+---
+
+#profile Bozick, Emil
+key Bozick_Emil
+birth 1921
+death 2000-02-27 @ US/IA/Madrid
+describe ; BR TR H73 W185
+military US; dates=1943/1945
+
+---
+
+#profile Brain, David Leonard
+key Brain_David_Leonard
+birth 1879-01-24 @ GB//Hereford
+death 1959-05-25 @ US/CA/Los Angeles
+describe ; BR TR H70 W170
+note Hit 3 triples in a game twice during one season to set a major league record, May 29 for St. Louis vs Pittsburgh and August 8 for Pittsburgh vs Boston in the 1905 season
+note Missed most of the 1908 season due to illness.
+
+---
+
+#profile Brandt, John George [Jackie]
+key Brandt_John_George
+birth 1934-04-28 @ US/NE/Omaha
+military US; dates=1957/1957
+college Omaha University
+
+---
+
+#profile Bratschi, Frederick Oscar
+key Bratschi_Frederick_Oscar
+birth 1892-01-16 @ US/OH/Alliance
+death 1962-01-10 @ US/OH/Massillon
+describe ; BR TR H70 W170
+alias Bratche, Frederick Oscar; type=alternate spelling
+alias Bratchi, Frederick Oscar; type=alternate spelling
+
+---
+
+#profile Bressoud, Edward Francis
+key Bressoud_Edward_Francis
+birth 1932-05-02 @ US/CA/Los Angeles
+describe ; BR TR H73 1W175
+military US; dates=1953/1954
+college Los Angeles City College; degree=graduated
+college San Jose State College; degree=masters
+
+---
+
+#profile Bridwell, Albert Henry
+key Bridwell_Albert_Henry
+birth 1884-01-04 @ US/OH/Friendship
+death 1969-01-24 @ US/OH/Portsmouth
+describe ; BL TR H69 W170
+note Suspended by Nashville, Southern Association for most of 1916 season
+
+---
+
+#profile Briggs, John Edward
+key Briggs_John_Edward
+birth 1944-03-10 @ US/NJ/Paterson
+describe ; BL TL H73 W195
+college Seton Hall University
+
+---
+
+#profile Bright, Harry James
+key Bright_Harry_James
+birth 1929-09-22 @ US/MO/Kansas City
+death 2000-03-13 @ US/CA/Sacramento
+describe ; BR TR H72 W190
+
+---
+
+#profile Brito, Bernardo
+key Brito_Bernardo
+birth 1963-12-04 @ DO//San Cristobal
+describe ; BR TR H73 W190
+
+---
+
+#profile Brock, Gregory Allen
+key Brock_Gregory_Allen
+birth 1957-06-14 @ US/OR/McMinnville
+describe ; BL TR H75 W205
+
+---
+
+#profile Brookins, Richard C.
+key Brookins_Richard_C
+birth 1879-07 @ US/MO/St. Louis
+death 1933-09-27 @ US/CA/San Francisco
+describe ; TR H69
+released 1907-06-19; leave=Green Bay (Wisconsin State)
+note Released twice because of reports he was a Negro
+
+---
+
+#profile Brooks, Hubert
+key Brooks_Hubert
+birth 1956-09-24 @ US/CA/Los Angeles
+describe ; BR TR H72 W200
+
+---
+
+#profile Brooks, Jonathan Joseph [Mandy]
+key Brooks_Jonathan_Joseph
+birth 1897-08-18 @ US/WI/Milwaukee
+death 1962-06-17 @ US/MO/Kirkwood
+describe ; BR TR H69 W165
+alias Brozek, Jonathan Joseph; type=legal
+
+---
+
+#profile Brouthers, Arthur Henry
+key Brouthers_Arthur_Henry
+birth 1882-11-25 @ US/AL/Montgomery
+death 1959-09-28 @ US/SC/Charleston
+describe ; BR TR H73
+jumped 1904-07; from=Toledo (American Association)
+
+---
+
+#profile Brower, Frank Willard
+key Brower_Frank_Willard
+birth 1893-03-26 @ US/VA/Gainesville
+death 1960-11-20 @ US/MD/Baltimore
+describe ; BL TR H72 W180
+military US; dates=1918/1918
+college University of Virginia
+
+---
+
+#profile Brown, Ollie Lee
+key Brown_Ollie_Lee
+birth 1944-02-11 @ US/AL/Tuscaloosa
+describe ; BR TR H75 W200
+
+---
+
+#profile Brown, Robert William
+key Brown_Robert_William
+birth 1924-10-25 @ US/WA/Seattle
+describe ; BL TR H73 W180
+military US; dates=1953/1953
+college Stanford University
+college UCLA
+college Tulane University
+
+---
+
+#profile Brown, Thomas Michael
+key Brown_Thomas_Michael
+birth 1927-12-06 @ US/NY/Brooklyn
+describe ; BR TR H73 W170
+military US; dates=1946/1946
+
+---
+
+#profile Brown, Thomas Tarlton
+key Brown_Thomas_Tarlton
+birth 1860-09-21 @ GB//Liverpool
+death 1927-10-25 @ US/DC/Washington
+describe ; BL TR H70 W168
+
+---
+
+#profile Brown, Willard Jessie
+key Brown_Willard_Jessie
+birth 1915-06-26 @ US/LA/Shreveport
+death 1996-08-08 @ US/TX/Houston
+describe ; BR TR H71.5 W200
+
+---
+
+#profile Browne, Prentice Almont [Pidge]
+key Browne_Prentice_Almont
+birth 1929-03-21 @ US/NY/Peekskill
+death 1997-06-03 @ US/TX/Houston
+describe ; BL TL H73 W190
+
+---
+
+#profile Brummitt, Richard Hobart [Hobe]
+key Brummitt_Richard_Hobart
+birth 1900-12-26 @ US/TN/Oliver Springs
+describe ; BR TR H70 W180
+
+---
+
+#profile Bruton, William Haron
+key Bruton_William_Haron
+birth 1925-11-09 @ US/AL/Panola
+death 1995-12-05 @ US/DE/Marshallton
+describe ; BL TR H72.5 W169
+son-in-law of Johnson, Judy
+
+---
+
+#profile Bryan, James Wesley
+key Bryan_James_Wesley
+birth 1904-02-04 @ US/TN/Dickson
+death 1972-09 @ US/TN/Clarksville
+describe ; BL TR H71 W180
+
+---
+
+#profile Bryant, Ralph Wendell
+key Bryant_Ralph_Wendell
+birth 1961-05-20 @ US/GA/Port Gaines
+describe ; BL TR H74 W200

@@ -1,0 +1,27 @@
+!citation Ippolito Funeral Homes @ 2019-12-10
+!url https://www.ippolitofuneralhomes.com/obituaries/John-Thomas-Sules?obId=3335592#/obituaryInfo
+!file Sules_John.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-12-10
+
+#profile Sules, John Thomas
+key 201708_Sules
+birth 1930-03-27 @ US/NJ/Newark
+death 2017-08-10
+military US Navy
+burial Gate of Heaven Cemetery @ US/NJ/East Hanover
+
+---
+
+!citation Edison Funeral Home @ 2018-07-17
+!url http://www.edisonfuneralhome.com/obituary/ralph-sobota
+!file Sobota_Ralph.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-07-17
+
+#profile Sobota, Ralph Albert
+key 201708_Sobota
+birth 1928-01-23 @ US/WI/Independence
+death 2017-08-05 @ US/WI/Alma Center
+highschool Independence HS @ US/WI/Independence
+college University of Wisconsin-La Crosse
+military US Army 
+burial Sts. Peter & Paul Catholic Church Cemetery @ US/WI/Independence

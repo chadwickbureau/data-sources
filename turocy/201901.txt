@@ -1,0 +1,1238 @@
+!citation Des Moines Register @ 1930-04-08; page 9
+!file Denver-1930.pdf
+
+#profile Anfenger, Milton L.
+key 201901_001
+executive 1930 Denver (Western); title=President
+
+#profile Anfenger, Fred
+key 201901_002
+executive 1930 Denver (Western); title=Secretary
+
+#profile Palmer, Eddie
+key 201901_003
+manager 1930 Denver (Western)
+player 1930 Denver; @2B BR TR; age=35
+playing 1929 Denver; B_G=145; B_AVG=.283; F_PCT=.974
+
+#profile Crowley, Dan
+key 201901_004
+player 1930 Denver (Western); @1B BR TR; age=21
+playing 1929 Phoenix; B_G=38; B_AVG=.277; F_PCT=.979
+
+#profile Sousa, Henry
+key 201901_005
+player 1930 Denver (Western); @2B BR TR; age=22
+playing 1929 Bisbee; B_G=31; B_AVG=.257; F_PCT=.815
+
+#profile Metz, Leonard
+key 201901_006
+player 1930 Denver (Western); @3B BR TR; age=27
+playing 1929 Indianapolis; B_G=101; B_AVG=.219; F_PCT=.951
+
+#profile Adair, James
+key 201901_007
+player 1930 Denver (Western); @SS BR TR; age=24
+playing 1929 El Dorado; B_G=122; B_AVG=.327; F_PCT=.917
+
+#profile Odom, Heinie
+key 201901_008
+player 1930 Denver (Western); @2B BR TR; age=26
+playing 1929 Denver; B_G=21; B_AVG=.324; F_PCT=.939
+
+#profile Parker, Ernie
+key 201901_009
+player 1930 Denver (Western); @OF BR TR; age=25
+playing 1929 Denver; B_G=154; B_AVG=.316; F_PCT=.977
+
+#profile O'Brien, Ray
+key 201901_010
+player 1930 Denver (Western); @RF BL TL; age=31
+playing 1929 Denver; B_G=154; B_AVG=.348; F_PCT=.957
+
+#profile Cheeves, Dave
+key 201901_011
+player 1930 Denver (Western); @LF BR TR; age=23
+playing 1929 Midland; B_G=120; B_AVG=.346; F_PCT=.966
+
+#profile Kadoza, Arnold
+key 201901_012
+player 1930 Denver (Western); @LF BR TR; age=22
+player 1929 St. Mary's College; caliber=college
+college St. Mary's College
+
+#profile White, Eddie
+key 201901_013
+player 1930 Denver (Western); @LF BR TR; age=22
+player 1929 Lamesa; location=US/TX/Lamesa; caliber=semipro
+
+#profile Granade, Joe
+key 201901_014
+player 1930 Denver (Western); @LF BR TR; age=25
+playing 1929 Monroe; B_G=118; B_AVG=.367; F_PCT=.977
+
+#profile Vargas, Andy
+key 201901_015
+player 1930 Denver (Western); @C BR TR; age=28
+playing 1929 Denver; B_G=103; B_AVG=.291; F_PCT=.972
+
+#profile Wilson, William
+key 201901_016
+player 1930 Denver (Western); @C BS TR; age=24
+playing 1929 Denver; B_G=35; B_AVG=.272; F_PCT=.993
+
+#profile Howard, Bob
+key 201901_017
+player 1930 Denver (Western); @C BR TR; age=22
+player 1929 San Francisco; location=US/CA/San Francisco; caliber=semipro
+
+#profile Boggess, Lynton
+key 201901_018
+player 1930 Denver (Western); @C BR TR; age=26
+playing 1929 Dallas/Beaumont; B_G=92; B_AVG=.238; F_PCT=.980
+
+#profile Jolley, James
+key 201901_019
+player 1930 Denver (Western); @P BS TL; age=30
+playing 1929 Denver; P_G=38; P_W=17; P_L=10
+
+#profile Strong, Leslie
+key 201901_020
+player 1930 Denver (Western); @P BL TL; age=23
+playing 1929 Springfield; location=US/MO/Springfield; caliber=semipro
+
+#profile Greer, Ed
+key 201901_021
+player 1930 Denver (Western); @P BR TR; age=30
+playing 1929 Denver; P_G=47; P_W=11; P_L=19
+
+#profile Martin, Sid
+key 201901_022
+player 1930 Denver (Western); @P BR TR; age=24
+playing 1929 Denver; P_G=40; P_W=13; P_L=13
+
+#profile Piercy, William
+key 201901_023
+player 1930 Denver (Western); @P BR TR; age=36
+playing 1929 Denver/Wichita; P_G=35; P_W=14; P_L=14
+
+#profile Powers, Lloyd
+key 201901_024
+player 1930 Denver (Western); @P BR TR; age=25
+playing 1929 Scranton; P_G=23; P_W=12; P_L=9
+
+#profile Bowler, Grant
+key 201901_025
+player 1930 Denver (Western); @P BR TR; age=20
+player 1929 Denver; location=US/CO/Denver; caliber=semipro
+
+#profile McCauley, Glen
+key 201901_026
+player 1930 Denver (Western); @P BR TR; age=21
+player 1929 Denver; location=US/CO/Denver; caliber=semipro
+
+#profile Windsor, William
+key 201901_027
+player 1930 Denver (Western); @P BR TR; age=24
+playing 1929 Denver; P_G=11; P_W=3; P_L=1
+
+#profile McCoy, Paul
+key 201901_028
+player 1930 Denver (Western); @P BR TR; age=22
+playing 1929 Phoenix; P_G=2; P_W=1; P_L=1
+
+#profile Muns, Preacher
+key 201901_029
+player 1930 Denver (Western); @P BR TR; age=23
+player 1929 Denver; location=US/CO/Denver; caliber=semipro
+
+---
+
+!citation Des Moines Register @ 1930-04-10; page 18
+!file Pueblo-1930.pdf
+
+#profile Lee, Charles
+key 201901_030
+executive 1930 Pueblo (Western); title=President and Business Manager
+
+#profile Payton, Jimmy
+key 201901_031
+manager 1930 Pueblo (Western)
+
+#profile Cross, Mrs. W.
+key 201901_032
+executive 1930 Pueblo (Western); title=Secretary
+
+#profile Riley, James
+key 201901_033
+player 1930 Pueblo (Western); @1B BL TL; age=32
+playing 1929 San Antonio; B_G=162; B_AVG=.255; F_PCT=.988
+
+#profile Shiell, Victor
+key 201901_034
+player 1930 Pueblo (Western); @1B BR TR; age=22
+playing 1929 Peoria; B_G=126; B_AVG=.269; F_PCT=.986
+
+#profile Rogell, Ed
+key 201901_035
+player 1930 Pueblo (Western); @2B BR TR; age=20
+player 1929 Chicago; location=US/IL/Chicago; caliber=semipro
+
+#profile McDermott, C. J.
+key 201901_036
+player 1930 Pueblo (Western); @2B BR TR; age=20
+player 1929 Los Angeles; location=US/CA/Los Angeles; caliber=semipro
+
+#profile Carpenter, S. T.
+key 201901_037
+player 1930 Pueblo (Western); @2B BR TR; age=23
+playing 1929 Coleman; B_G=116; B_AVG=.253; F_PCT=.916
+
+#profile Crumpton, Hal
+key 201901_038
+player 1930 Pueblo (Western); @SS BR TR; age=24
+playing 1929 Coleman; B_G=107; B_AVG. 240; F_PCT=.913
+
+#profile McIsaac, Gus
+key 201901_039
+player 1930 Pueblo (Western); @SS BR TR; age=23
+playing 1929 Oakland; B_G=31; B_AVG=.250; F_PCT=.886
+playing 1929 Pueblo; B_G=42; B_AVG=.253; F_PCT=.903
+
+#profile Hinson, Paul
+key 201901_040
+player 1930 Pueblo (Western); @3B BR TR; age=24
+playing 1929 Joplin; B_G=131; B_AVG=.306; F_PCT=.930
+
+#profile Graham, Hugh
+key 201901_041
+player 1930 Pueblo (Western); @3B BS TR; age=22
+playing 1929 Norton; B_G=114; B_AVG=.313; F_PCT=.931
+
+#profile Goodwin, Myrl
+key 201901_042
+player 1930 Pueblo (Western); @1B BR TR; age=23
+player 1929 Raton; location=US/NM/Raton; caliber=semipro
+
+#profile Riley, Leon
+key 201901_043
+player 1930 Pueblo (Western); @LF BL TR; age=23
+playing 1929 Pueblo; B_G=159; B_AVG=.305; F_PCT=.979
+
+#profile Neitzke, Ernest
+key 201901_044
+player 1930 Pueblo (Western); @CF BR TR; age=27
+playing 1929 Pueblo; B_G=145; B_AVG=.316; F_PCT=.967
+
+#profile Frey, Carl
+key 201901_045
+player 1930 Pueblo (Western); @RF BL TL; age=24
+playing 1929 Portland; B_G=74; B_AVG=.284; F_PCT=.955
+playing 1929 Pueblo; B_G=69; B_AVG=.334; F_PCT=.985
+
+#profile Ryan, Joe
+key 201901_046
+player 1930 Pueblo (Western); @RF BR TR; age=21
+player 1929 St. Marys; location=US/KS/St. Marys; caliber=semipro
+
+#profile Clark, Keith
+key 201901_047
+player 1930 Pueblo (Western); @C BR TR; age=25
+playing 1929 Topeka; B_G=31; B_AVG=.253; F_PCT=.976
+
+#profile Mayes, Joe
+key 201901_048
+player 1930 Pueblo (Western); @C BR TR; age=21
+playing 1929 Joplin/Shawnee; B_G=136; B_AVG=.323; F_PCT=.976
+
+#profile Keller, Charles
+key 201901_049
+player 1930 Pueblo (Western); @C BR TR; age=21
+playing 1929 Independence; location=US/KS/Independence; caliber=semipro
+
+#profile Rice, Roderick
+key 201901_050
+player 1930 Pueblo (Western); @C BL TR; age=25
+playing 1929 El Reno; location=US/OK/El Reno; caliber=semipro
+
+#profile Naylor, Roderick
+key 201901_051
+player 1930 Pueblo (Western); @P BR TR; age=36
+playing 1929 Pueblo; P_G=21; P_W=9; P_L=9
+
+#profile Jennings, Al
+key 201901_052
+player 1930 Pueblo (Western); @P BR TR; age=26
+playing 1929 Pueblo; P_G=37; P_W=12; P_L=8
+
+#profile Smallwood, Walter
+key 201901_053
+player 1930 Pueblo (Western); @P BR TR; age=34
+playing 1929 Pueblo; P_G=44; P_W=14; P_L=15
+
+#profile Haven, Ollie
+key 201901_054
+player 1930 Pueblo (Western); @P BR TR; age=22
+playing 1929 Pueblo; P_G=38; P_W=13; P_L=16
+
+#profile Cottey, Cy
+key 201901_055
+player 1930 Pueblo (Western); @P BL TL; age=24
+playing 1929 Pueblo; P_G=36; P_W=11; P_L=19
+
+#profile Anderson, Bruno
+key 201901_056
+player 1930 Pueblo (Western); @P BL TL; age=20
+player 1929 Kansas City; location=US/MO/Kansas City; caliber=semipro
+
+#profile Nadeau, Joseph
+key 201901_057
+player 1930 Pueblo (Western); @P BL TL; age=20
+playing 1929 St. Mary's; caliber=semipro
+
+#profile Spaulding, Michael
+key 201901_058
+player 1930 Pueblo (Western); @P BL TL; age=20
+player 1929 Tipton; location=US/KS/Tipton; caliber=semipro
+
+#profile McKain, Archie
+key 201901_059
+player 1930 Pueblo (Western); @P BL TL; age=20
+player 1929 Delphos; location=US/KS/Delphos; caliber=semipro
+
+#profile Smith, Joseph
+key 201901_060
+player 1930 Pueblo (Western); @P BR TR; age=21
+playing 1929 Peoria; P_G=11; P_W=3; P_L=2
+
+#profile Rumsey, L. C.
+key 201901_061
+player 1930 Pueblo (Western); @P BR TR; age=22
+player 1929 Lansing; location=US/KS/Lansing; caliber=semipro
+
+#profile Peterson, J. C.
+key 201901_062
+player 1930 Pueblo (Western); @P BR TR; age=22
+player 1929 Ordway; location=US/CO/Ordway; caliber=semipro
+
+#profile Davis, Otto
+key 201901_063
+player 1930 Pueblo (Western); @P BR TR; age=22
+player 1929 Decatur; location=US/IL/Decatur; caliber=semipro
+
+#profile Brannan, Speck
+key 201901_064
+player 1930 Pueblo (Western); @P BR TR; age=21
+player 1929 Beaver City; location=US/NE/Beaver City; caliber=semipro
+
+#profile Rice, Frank
+key 201901_065
+player 1930 Pueblo (Western); @P BR TR; age=22
+player 1929 Lamar; location=US/CO/Lamar; caliber=semipro
+
+---
+
+!citation Des Moines Register @ 1930-04-11; page 21
+!file OklahomaCity-1930.pdf
+
+#profile Holland, John
+key 201901_066
+executive 1930 Oklahoma City (Western); title=President
+
+#profile Groft, Pete
+key 201901_067
+manager 1930 Oklahoma City (Western)
+player 1930 Oklahoma City (Western); @C BR TR; age=25
+playing 1929 Oklahoma City; B_G=93; B_AVG=.284; F_PCT=.976
+
+
+#profile Humphries, James
+key 201901_068
+executive 1930 Oklahoma City (Western); title=Business Manager and Secretary
+
+#profile Clift, Frank
+key 201901_069
+player 1930 Oklahoma City (Western); @1B BL TR; age=23
+playing 1929 Oklahoma City; B_G=147; B_AVG=.250; F_PCT=.985
+
+#profile Newman, R. F.
+key 201901_070
+player 1930 Oklahoma City (Western); @1B BR TR; age=20
+playing 1929 Wellington [state=TX] [caliber=semipro]
+
+#profile Lowell, Edwin
+key 201901_071
+player 1930 Oklahoma City (Western); @1B BR TR; age=21
+playing 1929 Wheeling; B_G=112; B_AVG=.302; F_PCT=.995
+
+#profile McMahan, Johnnie
+key 201901_072
+player 1930 Oklahoma City (Western); @2B BR TR; age=21
+player 1929 Wellington; location=US/TX/Wellington; caliber=semipro
+
+#profile Sedbrook, Lee
+key 201901_073
+player 1930 Oklahoma City (Western); @2B BR TR; age=22
+player 1929 Oklahoma City; location=US/OK/Oklahoma City; caliber=semipro
+
+#profile Brower, Louis
+key 201901_074
+player 1930 Oklahoma City (Western); @SS BR TR; age=23
+playing 1929 Oklahoma City; B_G=155; B_AVG=.314; F_PCT=.944
+
+#profile Lewis, J. T.
+key 201901_075
+player 1930 Oklahoma City (Western); @3B BR TR; age=25
+playing 1929 Oklahoma City; B_G=93; B_AVG=.259; F_PCT=.944
+
+#profile Kroner, John
+key 201901_076
+player 1930 Oklahoma City (Western); @3B BR TR; age=21
+playing 1929 Oklahoma City; B_G=120; B_AVG=.285; F_PCT=.942
+
+#profile Owen, Gordon
+key 201901_077
+player 1930 Oklahoma City (Western); @3B BR TR; age=23
+player 1929 Seminole; location=US/OK/Seminole; caliber=semipro
+
+#profile Guppy, Chester
+key 201901_078
+player 1930 Oklahoma City (Western); @LF BL TL; age=25
+playing 1929 Oklahoma City; B_G=152; B_AVG=.347; F_PCT=.974
+
+#profile Hall, Ermal
+key 201901_079
+player 1930 Oklahoma City (Western); @RF BL TR; age=21
+playing 1929 Oklahoma City; B_G=145; B_AVG=.309; F_PCT=.960
+
+#profile Brown, J. L.
+key 201901_080
+player 1930 Oklahoma City (Western); @CF BR TR; age=20
+player 1929 Wellington; location=US/TX/Wellington; caliber=semipro
+
+#profile Lester, Richard
+key 201901_081
+player 1930 Oklahoma City (Western); @CF BR TR; age=20
+player 1929 McAlester; location=US/OK/McAlester; caliber=semipro
+
+#profile Patton, Dallas
+key 201901_082
+player 1930 Oklahoma City (Western); @CF BL TR; age=21
+player 1929 Ada; location=US/OK/Ada; caliber=semipro
+
+#profile Dial, Buster
+key 201901_083
+player 1930 Oklahoma City (Western); @CF BR TR; age=21
+player 1929 Altus; location=US/OK/Altus; caliber=semipro
+
+#profile Fitzpatrick, John
+key 201901_084
+player 1930 Oklahoma City (Western); @C BR TR; age=24
+playing 1929 Oklahoma City; B_G=150; B_AVG=.262; F_PCT=.978
+
+#profile Holland, John, Jr.
+key 201901_085
+player 1930 Oklahoma City (Western); @C BR TR; age=20
+playing 1929 Oklahoma City
+
+#profile Brookey, Lee
+key 201901_086
+player 1930 Oklahoma City (Western); @C BR TR; age=22
+player 1929 Seminole; location=US/OK/Seminole; caliber=semipro
+
+#profile Tubbs, Frank
+key 201901_087
+player 1930 Oklahoma City (Western); @P BR TR; age=26
+playing 1929 Oklahoma City; P_G=49; P_W=15; P_L=13
+
+#profile Graf, Kenner
+key 201901_088
+player 1930 Oklahoma City (Western); @P BR TR; age=21
+playing 1929 Oklahoma City; P_G=41; P_W=12; P_L=8
+
+#profile Larson, Fred
+key 201901_089
+player 1930 Oklahoma City (Western); @P BR TR; age=23
+playing 1929 Oklahoma City; P_G=33; P_W=10; P_L=11
+
+#profile Hubbell, Merritt
+key 201901_090
+player 1930 Oklahoma City (Western); @P BL TL; age=22
+playing 1929 Oklahoma City
+
+#profile Jones, John
+key 201901_091
+player 1930 Oklahoma City (Western); @P BR TR; age=22
+playing 1929 Oklahoma City
+
+#profile Stegman, A. P.
+key 201901_092
+player 1930 Oklahoma City (Western); @P BR TR; age=23
+player 1929 Seminole; location=US/OK/Seminole; caliber=semipro
+
+#profile Bohanan, Will
+key 201901_093
+player 1930 Oklahoma City (Western); @P BR TL; age=22
+player 1929 St. Louis; location=US/OK/St. Louis; caliber=semipro
+
+#profile Benton, Al
+key 201901_094
+player 1930 Oklahoma City (Western); @P BR TR; age=21
+player 1929 Wayne; location=US/OK/Wayne; caliber=semipro
+
+#profile Preston, J. F.
+key 201901_095
+player 1930 Oklahoma City (Western); @P BL TL; age=22
+player 1929 St. Joseph; location=US/MO/St. Joseph; caliber=semipro
+
+#profile Brown, Walter
+key 201901_096
+player 1930 Oklahoma City (Western); @P BR TR; age=25
+playing 1929 Omaha; P_G=40; P_W=10; P_L=17
+
+#profile Lorentzen, Jake
+key 201901_097
+player 1930 Oklahoma City (Western); @P BR TR; age=22
+player 1929 Oklahoma City; location=US/OK/Oklahoma City; caliber=semipro
+
+---
+
+!citation Des Moines Register @ 1930-04-12; page 8
+!file Topeka-1930.pdf
+
+#profile McEvoy, L. C.
+key 201901_098
+executive 1930 Topeka (Western); title=President
+
+#profile Friel, P. R.
+key 201901_099
+executive 1930 Topeka (Western); title=Secretary
+
+#profile Betzel, Bruno
+key 201901_100
+manager 1930 Topeka (Western)
+
+#profile Bosse, Shirley
+key 201901_101
+player 1930 Topeka (Western); @1B BL TL; age=21
+playing 1929 Lewiston/Brockton; B_G=115; B_AVG=.341; F_PCT=.957
+
+#profile Scharein, Art
+key 201901_102
+player 1930 Topeka (Western); @2B BR TR; age=21
+playing 1929 Springfield; B_G=127; B_AVG=.301; F_PCT=.952; location=US/MO/Springfield
+
+#profile Sharkey, W.
+key 201901_103
+player 1930 Topeka (Western); @SS BR TR; age=23
+player 1929 Denver; location=US/CO/Denver; caliber=semipro
+
+#profile Roetz, Edward
+key 201901_104
+player 1930 Topeka (Western); @SS BR TR; age=24
+playing 1929 St. Louis (American); B_G=16; B_AVG=.244
+
+#profile Silva, Manuel
+key 201901_105
+player 1930 Topeka (Western); @2B BR TR; age=20
+playing 1929 Novata [state=CA] [caliber=semipro]
+
+#profile Page, Ray
+key 201901_106
+player 1930 Topeka (Western); @1B BL TL; age=21
+playing 1929 Roxbury; location=US/MA/Roxbury; caliber=semipro
+
+#profile Labetich, John
+key 201901_107
+player 1930 Topeka (Western); @3B BR TR; age=20
+playing 1929 Seattle; B_G=17; B_AVG=.204
+
+#profile Crippen, Gilb't
+key 201901_108
+player 1930 Topeka (Western); @LF BR TR; age=19
+player 1929 Coalinga; location=US/CA/Coalinga; caliber=semipro
+
+#profile Hostettler, C.
+key 201901_109
+player 1930 Topeka (Western); @CF BL TR; age=22
+playing 1929 Akron; B_G=104; B_AVG=.360; F_PCT=.958
+
+#profile Kelley, Herb't
+key 201901_110
+player 1930 Topeka (Western); @RF BR TR; age=23
+playing 1929 Tulsa; B_G=161; B_AVG=.283; F_PCT=.953
+
+#profile Trowbridge, C.
+key 201901_111
+player 1930 Topeka (Western); @CF BR TR; age=21
+playing 1929 Columbia; location=US/MO/Columbia; caliber=semipro
+
+#profile Rauding, Herb
+key 201901_112
+player 1930 Topeka (Western); @LF BR TR; age=22
+playing 1929 Lewiston; B_G=120; B_AVG=.359; F_PCT=.943
+
+#profile Kemp, Amos
+key 201901_113
+player 1930 Topeka (Western); @RF BL TL; age=22
+playing 1929 Coleman; B_G=19; B_AVG=.283; F_PCT=1.000
+
+#profile McNabb, H.
+key 201901_114
+player 1930 Topeka (Western); @RF BL TL; age=18
+player 1929 Aline; location=US/OK/Aline; caliber=semipro
+
+#profile Patterson, F.
+key 201901_115
+player 1930 Topeka (Western); @RF BL TR; age=23
+player 1929 Stroud; location=US/OK/Stroud; caliber=semipro
+
+#profile Alloway, John
+key 201901_116
+player 1930 Topeka (Western); @C BR TR; age=22
+playing 1929 Phoenix; B_G=52; B_AVG=.291; F_PCT=.966
+
+#profile Dunham, Walter
+key 201901_117
+player 1930 Topeka (Western); @C BR TR; age=22
+playing 1929 Tulsa; B_G=63; B_AVG=.227; F_PCT=.972
+
+#profile Plummer, Irving
+key 201901_118
+player 1930 Topeka (Western); @C BR TR; age=20
+playing 1929 Brockton; B_G=91; B_AVG=.299; F_PCT=.981
+
+#profile Zimmerman, Har'd
+key 201901_119
+player 1930 Topeka (Western); @C BR TR; age=22
+player 1929 Mayville; location=US/WI/Mayville; caliber=semipro
+
+#profile Wright, Rodney
+key 201901_120
+player 1930 Topeka (Western); @C BR TR; age=21
+player 1929 Milwaukee; location=US/WI/Milwaukee; caliber=semipro
+
+#profile Rogers, William
+key 201901_121
+player 1930 Topeka (Western); @C BR TR; age=22
+player 1929 Berkeley; location=US/CA/Berkeley; caliber=semipro
+
+#profile Spurgin, Clarence
+key 201901_122
+player 1930 Topeka (Western); @P BL TL; age=25
+player 1929 Los Angeles; location=US/CA/Los Angeles; caliber=semipro
+
+#profile Borgman, Kenneth
+key 201901_123
+player 1930 Topeka (Western); @P BL TL; age=21
+playing 1929 Springfield [state=MO]; P_G=27; P_W=8; P_L=6
+
+#profile Cooney, Robert
+key 201901_124
+player 1930 Topeka (Western); @P BR TR; age=22
+playing 1929 Tulsa; P_G=22; P_W=11; P_L=5
+
+#profile Douglas, Albert
+key 201901_125
+player 1930 Topeka (Western); @P BL TL; age=20
+playing 1929 Lynn; P_G=34; P_W=19; P_L=8
+
+#profile Osbern, Emery
+key 201901_126
+player 1930 Topeka (Western); @P BR TR; age=21
+player 1929 Kansas City; location=US/MO/Kansas City; caliber=semipro
+
+#profile Brooks, Gordon
+key 201901_127
+player 1930 Topeka (Western); @P BS TR; age=22
+player 1929 Dodge City; location=US/KS/Dodge City; caliber=semipro
+
+#profile Haizlip, Ralph
+key 201901_128
+player 1930 Topeka (Western); @P BR TR; age=23
+playing 1929 Tulsa; P_G=22; P_W=11; P_L=5
+
+#profile Pressnell, Forest
+key 201901_129
+player 1930 Topeka (Western); @P BR TR; age=23
+player 1929 Findlay; location=US/OH/Findlay; caliber=semipro
+
+#profile Friedlan, John
+key 201901_130
+player 1930 Topeka (Western); @P BR TR; age=21
+player 1929 Chickasha; location=US/OK/Chickasha; caliber=semipro
+
+#profile Hull, George
+key 201901_131
+player 1930 Topeka (Western); @P BL TL; age=22
+playing 1929 Moline; P_G=34; P_W=18; P_L=15
+
+#profile Cohen, Irving
+key 201901_132
+player 1930 Topeka (Western); @P BR TR; age=18
+player 1929 Chicago; location=US/IL/Chicago; caliber=semipro
+
+#profile Neisslie, Lester
+key 201901_133
+player 1930 Topeka (Western); @P BR TR; age=20
+playing 1929 Moline; P_G=31; P_W=14; P_L=9
+
+#profile O'Dowd, Joseph
+key 201901_134
+player 1930 Topeka (Western); @P BR TR; age=22
+playing 1929 Tulsa; P_G=35; P_W=15; P_L=5
+
+#profile Goff, William
+key 201901_135
+player 1930 Topeka (Western); @P BR TR; age=25
+playing 1929 Wichita Falls; P_G=23; P_W=6; P_L=3
+
+#profile Ellis, Edwin
+key 201901_136
+player 1930 Topeka (Western); @P BL TL; age=26
+playing 1929 Springfield [state=MO]; P_G=32; P_W=12; P_L=7
+
+---
+
+!citation Des Moines Register @ 1930-04-13; page 22
+!file DesMoines-1930.pdf
+
+#profile Keyser, E. Lee
+key 201901_137
+executive 1930 Des Moines (Western); title=President
+
+#profile Knight, Charles W.
+key 201901_138
+executive 1930 Des Moines (Western); title=Secretary
+
+#profile Davenport, Claude
+key 201901_139
+manager 1930 Des Moines (Western)
+player 1930 Des Moines (Western); @P BR TR; age=32
+playing 1929 Des Moines; P_G=35; P_W=10; P_L=11
+
+
+#profile Oglesby, J.
+key 201901_140
+player 1930 Des Moines (Western); @1B BL TL; age=26
+playing 1929 Des Moines; B_G=153; B_AVG=.312; F_PCT=.992
+
+#profile Atwell, R.
+key 201901_141
+player 1930 Des Moines (Western); @2B BR TR; age=22
+playing 1929 Des Moines; B_G=24; B_AVG=.280; F_PCT=.897
+playing 1929 Keokuk; B_G=90; B_AVG=.211; F_PCT=.897
+
+#profile Windham, Hill
+key 201901_142
+player 1930 Des Moines (Western); @2B BR TR; age=26
+playing 1929 Des Moines; B_G=111; B_AVG=.282; F_PCT=.980
+
+#profile Nielsen, Hugh
+key 201901_143
+player 1930 Des Moines (Western); @SS BR TR; age=25
+playing 1929 Des Moines; B_G=140; B_AVG=.256; F_PCT=.947
+
+#profile Lowrance, W.
+key 201901_144
+player 1930 Des Moines (Western); @2B BR TR; age=27
+playing 1929 Hazelton; B_G=133; B_AVG=.312; F_PCT=.956
+
+#profile Reinholz, Art
+key 201901_145
+player 1930 Des Moines (Western); @3B BR TR; age=26
+playing 1929 Terre Haute; B_G=75; B_AVG=.305; F_PCT=.950
+
+#profile Nebelung, Ray
+key 201901_146
+player 1930 Des Moines (Western); @LF BL TL; age=21
+player 1929 University of Michigan; caliber=college
+college University of Michigan
+
+#profile Hughes, T.
+key 201901_147
+player 1930 Des Moines (Western); @CF BL TL; age=22
+playing 1929 Des Moines; B_G=84; B_AVG=.281; F_PCT=.923
+
+#profile Van Camp, A.
+key 201901_148
+player 1930 Des Moines (Western); @RF BR TR; age=24
+playing 1929 Des Moines; B_G=136; B_AVG=.252; F_PCT=.916
+
+#profile Lingle, Cy
+key 201901_149
+player 1930 Des Moines (Western); @C BR TR; age=32
+playing 1929 Chattanooga; B_G=93; B_AVG=.281; F_PCT=.966
+
+#profile Becker, Joe
+key 201901_150
+player 1930 Des Moines (Western); @C BR TR; age=21
+player 1929 Des Moines; location=US/IA/Des Moines; caliber=semipro
+
+#profile Zahn, George
+key 201901_151
+player 1930 Des Moines (Western); @P BR TR; age=21
+playing 1929 Des Moines; P_G=9; P_W=2; P_L=5
+
+#profile Arvin, Fred
+key 201901_152
+player 1930 Des Moines (Western); @P BL TL; age=22
+playing 1929 Des Moines
+
+#profile Waner, Travea
+key 201901_153
+player 1930 Des Moines (Western); @P BR TR; age=20
+playing 1929 Keokuk; P_G=27; P_W=14; P_L=11
+
+#profile Lyons, Russell
+key 201901_154
+player 1930 Des Moines (Western); @P BR TR; age=22
+playing 1929 Tyler; P_G=5; P_W=5; P_L=0
+playing 1929 Omaha; P_G=14; P_W=4; P_L=1
+
+#profile Birkhofer, Ralph
+key 201901_155
+player 1930 Des Moines (Western); @P BL TL; age=22
+playing 1929 Cedar Rapids; P_G=30; P_W=8; P_L=13
+
+#profile Cox, Leslie
+key 201901_156
+player 1930 Des Moines (Western); @P BR TR; age=27
+playing 1929 Des Moines; P_G=19; P_W=8; P_L=8
+playing 1929 Springfield; P_G=8; P_W=1; P_L=4
+
+#profile Tinning, Lyle
+key 201901_157
+player 1930 Des Moines (Western); @P BR TR; age=23
+playing 1929 Omaha; P_G=35; P_W=9; P_L=12
+
+---
+
+!citation Des Moines Register @ 1930-04-14; page 6
+!file Omaha-1930.pdf
+
+#profile Burch, J. F.
+key 201901_158
+executive 1930 Omaha (Western); title=President
+
+#profile Mohr, R. G.
+key 201901_159
+executive 1930 Omaha (Western); title=Secretary
+
+#profile Abbott, Spencer
+key 201901_160
+manager 1930 Omaha (Western)
+
+#profile Senne, Bernard
+key 201901_161
+player 1930 Omaha (Western); @1B BL TL; age=26
+playing 1929 Bloomington; B_G=139; B_AVG=.280; F_PCT=.988
+
+#profile Faber, Joe
+key 201901_162
+player 1930 Omaha (Western); @2B BR TR; age=27
+playing 1929 Omaha; B_G=154; B_AVG=.303; F_PCT=.943
+
+#profile King, Pete
+key 201901_163
+player 1930 Omaha (Western); @2B BR TR; age=21
+player 1929 Creighton; location=US/NE/Creighton; caliber=semipro
+
+#profile Tierney, Martin
+key 201901_164
+player 1930 Omaha (Western); @SS BR TR; age=23
+playing 1929 Tulsa; B_G=76; B_AVG=.251; F_PCT=.935
+
+#profile Holt, Goldie
+key 201901_165
+player 1930 Omaha (Western); @SS BR TR; age=21
+playing 1929 Montgomery; B_G=136; B_AVG=.272; F_PCT=.916
+
+#profile Hetherly, Clarence
+key 201901_166
+player 1930 Omaha (Western); @3B BR TR; age=22
+playing 1929 Seattle; B_G=18; B_AVG=.096; F_PCT=.976
+
+#profile Taylor, C. L.
+key 201901_167
+player 1930 Omaha (Western); @LF BR TR; age=30
+playing 1929 Houston; B_G=96; B_AVG=.279; F_PCT=.991
+
+#profile Najo, Lee
+key 201901_168
+player 1930 Omaha (Western); @CF BR TR; age=28
+playing 1929 Omaha; B_G=120; B_AVG=.316; F_PCT=.979
+
+#profile Sperber, Eddie
+key 201901_169
+player 1930 Omaha (Western); @RF BR TR; age=33
+playing 1929 Allentown; B_G=64; B_AVG=.281; F_PCT=.953
+
+#profile Zaepfel, John
+key 201901_170
+player 1930 Omaha (Western); @RF BL TR; age=25
+playing 1929 Des Moines; B_G=84; B_AVG=.281; F_PCT=.923
+
+#profile Burns, Joe
+key 201901_171
+player 1930 Omaha (Western); @C BR TR; age=28
+playing 1929 Omaha/Des Moines; B_G=125; B_AVG=.273; F_PCT=.960
+
+#profile Anderson, Ted
+key 201901_172
+player 1930 Omaha (Western); @C BR TR; age=23
+playing 1929 Omaha; B_G=59; B_AVG=.241; F_PCT=.976
+
+#profile Dunsmore, Ed
+key 201901_173
+player 1930 Omaha (Western); @C BR TR; age=22
+player 1929 Mission; caliber=semipro
+
+#profile Tutwiler, Elmer
+key 201901_174
+player 1930 Omaha (Western); @P BR TR; age=26
+playing 1929 Omaha; P_G=40; P_W=16; P_L=14
+
+#profile Bartholomew, Lester
+key 201901_175
+player 1930 Omaha (Western); @P BL TL; age=26
+playing 1929 Omaha; P_G=40; P_W=12; P_L=12
+
+#profile Dunagan, Carl
+key 201901_176
+player 1930 Omaha (Western); @P BR TR; age=28
+playing 1929 Allentown; P_G=26; P_W=10; P_L=13
+
+#profile Smithson, John
+key 201901_177
+player 1930 Omaha (Western); @P BL TL; age=37
+playing 1929 Muskogee; P_G=39; P_W=15; P_L=17
+
+#profile Roth, Leissner
+key 201901_178
+player 1930 Omaha (Western); @P BR TR; age=22
+playing 1929 Coleman; P_G=8; P_W=1; P_L=4
+
+#profile Bornholdt, Harold
+key 201901_179
+player 1930 Omaha (Western); @P BR TR; age=24
+playing 1929 Oklahoma City; P_G=35; P_W=7; P_L=9
+
+#profile Railsback, Thomas
+key 201901_180
+player 1930 Omaha (Western); @P BR TR; age=21
+player 1929 Peru; location=US/NE/Peru; caliber=semipro
+
+#profile Shanahan, Thomas
+key 201901_181
+player 1930 Omaha (Western); @P BL TL; age=24
+player 1929 Omaha; location=US/NE/Omaha; caliber=semipro
+
+#profile Perry, Olin
+key 201901_182
+player 1930 Omaha (Western); @P BL TL; age=22
+playing 1929 Coleman; P_G=7; P_W=2; P_L=0
+
+#profile Carlson, Floyd
+key 201901_183
+player 1930 Omaha (Western); @P BR TR; age=21
+playing 1929 Omaha
+
+---
+
+!citation Des Moines Register @ 1930-04-15; page 9
+!file Wichita-1930.pdf
+
+#profile Griggs, Arthur
+key 201901_184
+executive 1930 Wichita (Western); title=President
+manager 1930 Wichita (Western)
+
+#profile Stewart, Don
+key 201901_185
+executive 1930 Wichita (Western); title=Secretary
+
+#profile Swansboro, W'bur
+key 201901_186
+player 1930 Wichita (Western); @1B BL TL; age=28
+playing 1929 Wichita; B_G=151; B_AVG=.321; F_PCT=.983
+
+#profile Lindi're, Howard
+key 201901_187
+player 1930 Wichita (Western); @2B BL TR; age=32
+playing 1929 Wichita; B_G=142; B_AVG=.288; F_PCT=.958
+
+#profile Berka, Tony
+key 201901_188
+player 1930 Wichita (Western); @SS BR TR; age=22
+playing 1929 Davenport; B_G=126; B_AVG=.337; F_PCT=.922
+
+#profile Blakeney, R.
+key 201901_189
+player 1930 Wichita (Western); @SS BR TR; age=17
+player 1929 San Antonio; location=US/TX/San Antonio; caliber=semipro
+
+#profile Vigare, Felix
+key 201901_190
+player 1930 Wichita (Western); @3B BR TR; age=28
+playing 1929 Waco; B_G=141; B_AVG=.313; F_PCT=.928
+
+#profile Jensen, Forest
+key 201901_191
+player 1930 Wichita (Western); @LF BL TR; age=22
+playing 1929 Wichita/Topeka; B_G=89; B_AVG=.302; F_PCT=.953
+
+#profile Johnson, Gordon
+key 201901_192
+player 1930 Wichita (Western); @CF BL TR; age=20
+playing 1929 Columbia; B_G=148; B_AVG=.325; F_PCT=.950; location=US/SC/Columbia
+
+#profile Bliss, George
+key 201901_193
+player 1930 Wichita (Western); @RF BR TR; age=30
+playing 1929 Wichita; B_G=154; B_AVG=.302; F_PCT=.967
+
+#profile Dugas, August
+key 201901_194
+player 1930 Wichita (Western); @LF BR TR; age=20
+player 1929 Taftville; location=US/CT/Taftville; caliber=semipro
+
+#profile Mealy, Jack
+key 201901_195
+player 1930 Wichita (Western); @C BR TR; age=23
+playing 1929 Dallas; B_G=72; B_AVG=.239; F_PCT=.983
+
+#profile Arzatti, Pete
+key 201901_196
+player 1930 Wichita (Western); @C BR TR; age=25
+playing 1929 San Antonio; B_G=59; B_AVG=.284; F_PCT=.970
+
+#profile Sypher, Clarence
+key 201901_197
+player 1930 Wichita (Western); @C BR TR; age=21
+playing 1929 Hollywood; B_G=51; B_AVG=.305; F_PCT=.975
+
+#profile Harris, Bucky
+key 201901_198
+player 1930 Wichita (Western); @C BR TR; age=21
+playing 1929 Sacramento; B_G=40; B_AVG=.288; F_PCT=.943
+
+#profile Wood, Charles
+key 201901_199
+player 1930 Wichita (Western); @P BR TL; age=20
+playing 1929 Salisbury; P_G=34; P_W=12; P_L=13
+
+#profile Sanders, Herbert
+key 201901_200
+player 1930 Wichita (Western); @P BL TR; age=26
+playing 1929 Wichita; P_G=37; P_W=16; P_L=16
+
+#profile Newbill, Charles
+key 201901_201
+player 1930 Wichita (Western); @P BR TR; age=25
+playing 1929 Wichita; P_G=35; P_W=6; P_L=7
+
+#profile Shipley, Frank
+key 201901_202
+player 1930 Wichita (Western); @P BR TR; age=22
+player 1929 Ada; location=US/OK/Ada; caliber=semipro
+
+#profile Meadows, Rufus
+key 201901_203
+player 1930 Wichita (Western); @P BR TR; age=23
+playing 1929 Fort Worth; P_G=33; P_W=7; P_L=9
+
+#profile Robinson, J. M.
+key 201901_204
+player 1930 Wichita (Western); @P BR TR; age=22
+player 1929 Oil Hill; location=US/KS/Oil Hill; caliber=semipro
+
+#profile Yocke, William
+key 201901_205
+player 1930 Wichita (Western); @P BR TL; age=20
+player 1929 Pacalet; location=US/SC/Pacalet; caliber=semipro
+
+#profile Ritter, Walter
+key 201901_206
+player 1930 Wichita (Western); @P BR TR; age=28
+playing 1929 Tuscon; P_G=25; P_W=8; P_L=8
+
+#profile Yove, Ruel
+key 201901_207
+player 1930 Wichita (Western); @P BR TR; age=28
+playing 1929 Chattanooga/Birmingham; P_G=27; P_W=6; P_L=6
+
+#profile McClung, Grady
+key 201901_208
+player 1930 Wichita (Western); @P BR TR; age=26
+playing 1929 Vicksburg; P_G=14; P_W=3; P_L=9
+
+#profile Gorcheck, Frank
+key 201901_209
+player 1930 Wichita (Western); @P BR TR; age=21
+player 1929 Wichita; location=US/KS/Wichita; caliber=semipro
+
+#profile Cano, John
+key 201901_210
+player 1930 Wichita (Western); @P BR TR; age=22
+playing 1929 Sacramento; P_G=35; P_W=5; P_L=9
+
+---
+
+!citation Des Moines Register @ 1930-04-16; page 21
+!file StJoseph-1930.pdf
+
+#profile Philley, C. U.
+key 201901_211
+executive 1930 St. Joseph (Western); title=President
+
+#profile Bailey, Gene
+key 201901_212
+player 1930 St. Joseph (Western); @UT BR TR; age=36
+manager 1930 St. Joseph (Western)
+playing 1929 Houston; B_G=85; B_AVG=.271; F_PCT=1.000
+
+#profile French, Oliver
+key 201901_213
+executive 1930 St. Joseph (Western); title=Business Manager and Secretary
+
+#profile Wano, William
+key 201901_214
+player 1930 St. Joseph (Western); @1B BL TL; age=34
+playing 1929 Pueblo/Des Moines; B_G=32; B_AVG=.216; F_PCT=.977
+playing 1929 Danville; B_G=52; B_AVG=.322; F_PCT=.977
+
+#profile Glasgow, Willis
+key 201901_215
+player 1930 St. Joseph (Western); @2B BR TR; age=25
+player 1929 University of Iowa; caliber=college
+college University of Iowa
+
+#profile Kunes, Blaine
+key 201901_216
+player 1930 St. Joseph (Western); @2B BR TR; age=23
+playing 1929 Fort Wayne; B_G=135; B_AVG=.297; F_PCT=.939
+
+#profile Richards, Robert
+key 201901_217
+player 1930 St. Joseph (Western); @SS BR TR; age=22
+playing 1929 Topeka; B_G=57; B_AVG=.295; F_PCT=.916
+
+#profile Benson, Lewis
+key 201901_218
+player 1930 St. Joseph (Western); @SS BR TR; age=25
+playing 1929 Scottdale; B_G=44; B_AVG=.277; F_PCT=.962
+
+#profile Ferguson, Harry
+key 201901_219
+player 1930 St. Joseph (Western); @3B BR TR; age=23
+playing 1929 Topeka; B_G=27; B_AVG=.328
+
+#profile Carroll, Charles
+key 201901_220
+player 1930 St. Joseph (Western); @3B BR TR; age=27
+playing 1929 Topeka; B_G=156; B_AVG=.270; F_PCT=.959
+
+#profile Madden, Paul
+key 201901_221
+player 1930 St. Joseph (Western); @SS BR TR; age=21
+player 1929 St. Joseph; location=US/MO/St. Joseph; caliber=semipro
+
+#profile Cotelle, Cosmo
+key 201901_222
+player 1930 St. Joseph (Western); @LF BR TR; age=25
+playing 1929 Houston; B_G=48; B_AVG=.294; F_PCT=.949
+playing 1929 Danville; B_G=46; B_AVG=.313; F_PCT=.940
+
+#profile Deck, Vernon
+key 201901_223
+player 1930 St. Joseph (Western); @LF BL TL; age=23
+playing 1929 Lake Charles; B_G=37; B_AVG=.318; F_PCT=.957
+playing 1929 Houston; B_G=12; B_AVG=.267
+
+#profile Honea, Carroll
+key 201901_224
+player 1930 St. Joseph (Western); @CF BR TR; age=25
+playing 1929 Topeka; B_G=161; B_AVG=.309; F_PCT=.984
+
+#profile Bruckman, Burton
+key 201901_225
+player 1930 St. Joseph (Western); @C BR TR; age=23
+player 1929 Purdue University; caliber=college
+college Purdue University
+
+#profile Abbott, Charles
+key 201901_226
+player 1930 St. Joseph (Western); @C BR TR; age=25
+playing 1929 Shawnee; B_G=41; B_AVG=.265; F_PCT=.978
+playing 1929 Danville; B_G=62; B_AVG=.307; F_PCT=.962; location=US/IL/Danville
+
+#profile Hord, Mansfield
+key 201901_227
+player 1930 St. Joseph (Western); @C BR TR; age=22
+player 1929 St. Joseph; location=US/MO/St. Joseph; caliber=semipro
+
+#profile Lee, William
+key 201901_228
+player 1930 St. Joseph (Western); @P BR TR; age=23
+player 1929 Louisiana State University; caliber=college
+college Lousiana State
+
+#profile Brown, Mace
+key 201901_229
+player 1930 St. Joseph (Western); @P BR TR; age=23
+player 1929 University of Iowa; caliber=college
+college University of Iowa
+
+#profile Larson, Glenn
+key 201901_230
+player 1930 St. Joseph (Western); @P BL TL; age=22
+playing 1929 Shawnee; P_G=32; P_W=12; P_L=13; location=US/OK/Shawnee
+
+#profile Davis, R. T.
+key 201901_231
+player 1930 St. Joseph (Western); @P BR TR; age=24
+playing 1929 Topeka/Denver; P_G=28; P_W=6; P_L=10
+
+#profile Winford, James
+key 201901_232
+player 1930 St. Joseph (Western); @P BR TR; age=25
+playing 1929 Scottdale; P_G=35; P_W=10; P_L=15
+
+#profile Myres, Gerald
+key 201901_233
+player 1930 St. Joseph (Western); @P BL TL; age=27
+playing 1929 Houston; P_G=16; P_W=4; P_L=8
+playing 1929 Danville; P_G=10; P_W=2; P_L=7; location=US/IL/Danville
+
+#profile Dean, D.
+key 201901_234
+player 1930 St. Joseph (Western); @P BR TR; age=21
+player 1929 San Antonio; location=US/TX/San Antonio; caliber=semipro
+
+---
+
+!citation Dallas Morning News @ 1912-05-07; page 10
+
+#profile Maples
+key 201901_235
+player 1912 New Orleans (Southern Association); @P TL
+player 1912 Fort Worth (Texas); @P TL
+released 1912-05-06; leave=New Orleans (Southern Association); join=Fort Worth (Texas)
+
+---
+
+!citation Dallas Morning News @ 1912-05-09; page 12
+
+#profile Corbin, Biff
+key 201901_236
+player 1911 Dallas (Texas)
+player 1912 Dallas (Texas)
+
+#profile Womack, Harry
+key 201901_237
+player 1912 Guthrie (Oklahoma State); @P
+purchased 1912-05-08; join=Guthrie (Oklahoma State); leave=Huntsville (Southeastern)
+
+
+

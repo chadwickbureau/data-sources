@@ -1,0 +1,26 @@
+!citation Daily Courier @ 2013-06-11
+!url http://www.legacy.com/obituaries/dailycourier/obituary.aspx?n=james-r-shubert&pid=176485079
+!file Shubert-20130610.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @
+
+#profile Shubert, James R.
+key 201306_Shubert
+birth 1927-10-20 @ US/PA/Monarch
+death 2013-06-10 @ US/PA/Connellsville
+military US Army @ World War II
+burial Green Ridge Memorial Park @ US/PA/Connellsville
+
+---
+
+!citation Chapman Funeral Home @ 2019-06-20
+!url https://www.chapmanfuneralhomes.com/obituaries/Zacharytyler-Kincaid1346561/#!/Obituary
+!file Kincaid_Tyler.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-06-20
+
+#profile Kincaid, Zachary Tyler [Tyler]
+key 201306_Kincaid
+birth 1992-09-25
+death 2013-06-23
+highschool Winfield HS @ US/WV/Winfield
+college West Virginia State University
+

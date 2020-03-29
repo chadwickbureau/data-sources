@@ -1,0 +1,149 @@
+!citation Delaney & Son Funeral Home @ 2019-12-12
+!url https://www.delaneyfuneral.com/notices/Edmund-Walukevich
+!file Walukevich_Edmund.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-12-12
+
+#profile Walukevich, Edmund Leo
+key 201311_Walukevich
+birth 1924-12-23 @ US/MA/East Walpole
+death 2013-11-01 @ US/MA/Brockton
+highschool Walpole HS @ US/MA/Walpole
+military US Army @ World War II
+burial Highland Cemetery @ US/MA/Norwood
+
+---
+
+!citation August Haas Funeral Home @ 2019-12-12
+!url https://www.augusthaasfuneralhome.com/2013.htm#hk
+!file Kull_Henry.docx
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-12-12
+
+#profile Kull, Henry E.
+key 201311_Kull
+birth 1926-03-06 @ US/PA/Minooka
+death 2013-11-11 @ US/PA/Dunmore
+highschool St. Mary Of The Assumption HS @ US/PA/Scranton
+military US Navy @ World War II
+burial St. Mary Magdalene Cemetery @ US/PA/Honesdale
+
+---
+
+!citation St. Louis Post-Dispatch @ 2013-11-17
+!url https://www.legacy.com/obituaries/stltoday/obituary.aspx?n=Robert-Kammien&pid=168025607
+!file Kammien_Bob.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-12-13
+
+#profile Kammien, Robert [Bob]
+key 201311_Kammien
+birth 1932-12-28
+death 2013-11-11
+military US Army
+
+---
+
+!citation Columbian @ 2013-11-17
+!url https://obits.columbian.com/obituaries/columbian/obituary.aspx?n=John-Geffe&pid=168024108
+!file Geffe_John.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-12-13
+
+#profile Geffe, John Henry
+key 201311_Geffe
+birth 1928-12-08 @ US/WA/Wapato
+death 2013-11-11 @ US/WA/Vancouver
+highschool Wapato HS @ US/WA/Wapato
+
+---
+
+!citation Stamford Advocate @ 2013-11-20
+!url https://www.legacy.com/obituaries/stamfordadvocate/obituary.aspx?n=Richard-HaggertyJr&pid=168087056
+!file Haggerty_Richard.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-12-13
+
+#profile Haggerty, Richard W., Jr.
+key 201311_Haggerty
+birth 1930-08-25 @ US/NY/Mount Vernon
+death 2013-11-18 @ US/CT/Stamford
+military US Air Force @ Korean War
+burial St. John Cemetery @ US/CT/Darien
+
+---
+
+!citation Great Falls Tribune @ 2013-11-21
+!url https://www.legacy.com/obituaries/greatfallstribune/obituary.aspx?n=Larry-Schulz&pid=168112844
+!file Schulz_Larry.pdf 
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-12-13
+
+#profile Schulz, Larry Allen "Shag"
+key 201311_Schulz
+birth 1936-09-30 @ US/MT/Sheridan
+death 2013-11-17 @ US/MT/Sheridan
+highschool Sheridan HS @ US/MT/Sheridan
+college University of Montana
+
+---
+
+!citation Pittsburgh Post-Gazette  @ 2013-11-23
+!url https://www.legacy.com/obituaries/postgazette/obituary.aspx?n=JOSEPH-LIPCHIK&pid=168140788
+!file Lipchik_Joe.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-12-13
+
+#profile Lipchik, Joseph [Joe]
+key 201311_Lipchik
+death 2013-11-22
+highschool Taylor Allerdice HS @ US/PA/Pittsburgh
+military US Army @ Korean War
+
+---
+
+!citation Record/Herald News @ 2019-12-14
+!url https://www.legacy.com/obituaries/northjersey/obituary.aspx?n=Albert-VAN-SYCKEL&pid=168288059
+!file Van Syckel_Al.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-12-14
+
+#profile Van Syckel, Albert L. [Al]
+key 201311_VanSyckel
+death 2013-11-13
+military US Army @ Korean War
+
+---
+
+!citation Inland Valley Daily Bulletin @ 2019-12-14
+!url https://www.legacy.com/obituaries/ivdailybulletin/obituary.aspx?n=Warren-Millsap&pid=168206948
+!file Millsap_Warren.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-12-14
+
+#profile Millsap, Warren H.
+key 201311_Millsap
+birth 1926-02-05 @ US/AR/Mulberry
+death 2013-11-07
+military US Marines @ World War II
+
+---
+
+!citation Lindsey Funeral Homes @ 2019-12-14
+!url https://www.dignitymemorial.com/obituaries/harrisonburg-va/d-wescott-5752557
+!file Wescott_Dean.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-12-14
+
+#profile Wescott, D. Dean [Dean]
+key 201311_Wescott
+birth 1937-10-30 @ US/VA/Singers Glen
+death 2013-11-25
+highschool Harrisonburg HS @ US/VA/Harrisonburg
+burial Singers Glen Cemetery @ US/VA/Singers Glen
+
+---
+
+!citation The State @ 2013-12-12
+!url http://www.legacy.com/obituaries/thestate/obituary.aspx?n=lawrence-rogers-carl&pid=168491373
+!file Rogers_Carl.pdf
+!contributor Rod Nelson <rodericnelson@gmail.com> @ 2013-12-12
+
+#profile Rogers, Lawrence Carl [Carl]
+key 201311_Rogers
+birth 1933-08-27 @ US/SC/Saluda County
+death 2013-11-30 @ US/FL/Jacksonville
+highschool Batesburg-Leesville High School @ US/SC/Batesburg-Leesville
+college Newberry
+military US Army 
+burial Chestnut Hill Baptist Church Cemtery @ US/SC/Chappells

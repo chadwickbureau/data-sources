@@ -1,0 +1,592 @@
+!citation Beaumont Enterprise @ 2014-07-03
+!url http://www.legacy.com/obituaries/beaumontenterprise/obituary.aspx?pid=171586084
+!file Hooper_John.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-08-23
+
+#profile Hooper, John
+key 201406_Hooper
+birth 1921-06-28 @ US/CA/Santa Cruz
+death 2014-06-29 @ US/TX/Baytown
+military US Marines @ World War II
+military US Marines @ Korean War
+burial Forest Lawn Memorial Park @ US/TX/Beaumont
+
+---
+
+!citation San Jose Mercury News/San Mateo County Times @ 2014-07-15
+!url http://www.legacy.com/obituaries/mercurynews/obituary.aspx?n=William-Renna&pid=171736198
+!file Renna_Bill.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-07-15
+
+#profile Renna, William Beneditto [Bill]
+key 201406_Renna
+birth 1924-10-14 @ US/CA/Hanford
+death 2014-06-19
+highschool Hanford Union HS @ US/CA/Hanford
+college University of San Francisco
+college Menlo College
+college Santa Clara University
+military US Marines @ World War II
+
+---
+
+!citation Daily Nonpareil @ 2014-06-30
+!url http://m.nonpareilonline.com/obituaries/robert-ray-knezevich/article_09eed513-a6a9-5f3f-a936-00d72ae6bcb4.html?mode=jqm
+!file Knezevich_Bob.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-07-06
+
+#profile Knezevich, Robert Ray [Bob]
+key 201406_Knezevich
+birth 1957-04-20
+death 2014-06-26 @ US/IA/Council Bluffs
+highschool Thomas Jefferson HS @ US/IA/Council Bluffs
+college Southern Illinois University, Carbondale
+
+---
+
+!citation Simkins Funeral Home @ 2014-07-02
+!url http://www.simkinsfh.com/obits/obituary.php?id=481797
+!file Brosnan_James.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-07-06
+
+#profile Brosnan, James P.
+key 201406_Brosnan
+birth 1929-10-24
+death 2014-06-28
+
+---
+
+!citation Rochester Democrat And Chronicle @ 2014-07-01
+!url http://www.legacy.com/obituaries/democratandchronicle/obituary.aspx?n=James-Duffus&pid=171557708
+!file Duffus_Jim.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-07-06
+
+#profile Duffus, James C. [Jim]
+key 201406_Duffus
+birth 1927-04-22 @ US/NY/Rochester
+death 2014-06-28 @ US/NY/Pittsford
+highschool West HS @ US/NY/Rochester
+college Yale University
+military US Navy @ World War II
+
+---
+
+!citation Sun Herald @ 2014-07-02
+!url http://www.legacy.com/obituaries/sunherald/obituary.aspx?n=Anthony-Taranto&pid=171574622
+!file Taranto_Chris.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-07-06
+
+#profile Taranto, Anthony Christopher, Sr. [Chris]
+key 201406_Taranto
+birth 1942 @ US/MS/Biloxi
+death 2014-06-21
+highschool Notre Dame HS @ US/MS/Biloxi
+
+---
+
+!citation AP obituary @ 2014-07-05
+!url http://www.legacy.com/ns/obituary.aspx?n=frank-cashen&pid=171557620
+!file Cashen_Frank.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-07-05
+
+#profile Cashen, Frank
+key 201406_Cashen
+birth 1925-09-13
+death 2014-06-30 @ US/MD/Easton
+
+---
+
+!citation Buffalo News @ 2014-06-26
+!url http://www.buffalonews.com/city-region/obituaries/henry-wlodarczyk-gm-engine-plant-retiree-20140626
+!file Wlodarczyk_Henry.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-06-25
+
+#profile Wlodarczyk, Henry
+key 201406_Wlodarczyk
+birth 1927-07-17 @ US/NY/Buffalo
+death 2014-06-22 @ US/NY/Williamsville
+highschool Seneca Vocational HS @ US/NY/Buffalo
+military US Army @ Korean War
+
+---
+
+!citation Frederick B. Welker Funeral Home @ 2014-07-05
+!url http://www.welkerfuneralhome.com/obits/obituary.php?id=480142
+!file Arduini_Sal.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-07-05
+
+#profile Arduini, Salvatore D. [Sal]
+key 201406_Arduini
+birth 1925-08-30 @ US/PA/Jersey Shore
+death 2014-06-23 @ US/PA/Jersey Shore
+highschool Jersey Shore HS @ US/PA/Jersey Shore
+college Bloomsburg University @ US/PA/Bloomsburg
+military US Navy @ World War II
+burial Jersey Shore Cemetery @ US/PA/Jersey Shore
+
+---
+
+!citation Patterson Funeral Home @ 2014-07-05
+!url http://www.pattersonfuneralhome.com/sitemaker/sites/PATTER2/obit.cgi?user=1346132Heximer
+!file Heximer_James.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-07-05
+
+#profile Heximer, James Leo "Bud"
+key 201406_Heximer
+birth 1923-12-07 @ CA/ON/Niagara Falls
+death 2014-06-27 @ CA/ON/Niagara Falls
+describe ; BL
+military CA Navy @ World War II
+burial Fairview Cemetery @ CA/ON/Niagara Falls
+
+---
+
+!citation St. Louis Post-Dispatch @ 2014-06-29
+!url http://www.legacy.com/obituaries/stltoday/obituary.aspx?n=Edward-Noto&pid=171537088
+!file Noto_Ed.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-07-05
+
+#profile Noto, Edward R. [Ed]
+key 201406_Noto
+birth 1934-03-16 @ US/CT/New Haven
+death 2014-06-18
+college University of Miami
+military US Navy 
+
+---
+
+!citation Dignity Memorial.com @ 2014-06-28
+!url http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Bernard-Plaia&lc=9785&pid=171515564&uuid=9820ad6c-e4d7-473f-9657-25affce0ab9d&locale=en_US
+!file Plaia_Benny.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-07-05
+
+#profile Plaia, Bernard Michael, Sr. [Benny]
+key 201406_Plaia
+birth 1922-08-24 @ US/LA/New Orleans
+death 2014-06-26
+highschool Jesuit HS @ US/LA/New Orleans
+military US Navy @ World War II
+burial Metairie Cemetery @ US/LA/New Orleans
+
+---
+
+!citation Buffalo News @ 2014-06-30
+!url http://www.legacy.com/obituaries/buffalonews/obituary.aspx?n=Raymond-BOROWICZ&pid=171524569
+!file Borowicz_Ray.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-07-05
+
+#profile Borowicz, Raymond S. [Ray]
+key 201406_Borowicz
+birth 1920-10-02 @ US/NY/Buffalo
+death 2014-06-26
+military US Navy @ World War II
+
+---
+
+!citation Monterey Herald @ 2014-06-27
+!url http://www.legacy.com/obituaries/montereyherald/obituary.aspx?n=kenneth-j-dekker&pid=171508189&eid=sp_ommatch
+!file Dekker_Ken.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-07-05
+
+#profile Dekker, Kenneth J. [Ken]
+key 201406_Dekker
+death 2014-06-08
+highschool Saint Ignatius College Preparatory @ US/CA/San Francisco
+college University of California, Berkeley
+
+---
+
+!citation St. Louis Post-Dispatch @ 2014-06-27
+!url http://www.legacy.com/obituaries/stltoday/obituary.aspx?n=Lucian-Paule&pid=171510552
+!file Paule_Babe.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-07-05
+
+#profile Paule, Lucian A., III [Babe]
+key 201406_Paule
+birth 1918
+death 2014-06-26
+military US @ World War II
+burial Calvary Cemetery @ US/MO/St. Louis
+
+---
+
+!citation Boston Globe @ 2014-06-25
+!url http://www.legacy.com/obituaries/bostonglobe/obituary.aspx?n=ARNOLD-FRIEDMAN&pid=171478032
+!file Friedman_Arnie.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-06-25
+
+#profile Friedman, Arnold I. [Arnie]
+key 201406_Friedman
+birth 1942-11-13
+death 2014-06-22 @ US/VT/Woodstock
+highschool Boston English HS @ US/MA/Boston
+college Northeastern University
+burial Riverside Cemetery @ US/VT/Woodstock
+
+---
+
+!citation The News Journal @ 2014-06-25
+!url http://www.legacy.com/obituaries/delawareonline/obituary.aspx?n=Frank-Bristow&pid=171475362
+!file Bristow_Frank.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-06-25
+
+#profile Bristow, Frank C., Jr.
+key 201406_Bristow
+birth 1931-02-19 @ US/DE/Wilmington
+death 2014-06-22
+highschool P.S. duPont HS @ US/DE/Wilmington
+military US Air Force @ Korean War
+burial Gracelawn Memorial Park @ US/DE/New Castle
+
+---
+
+!citation The Advocate @ 2014-06-21
+!url http://www.legacy.com/obituaries/theadvocate/obituary.aspx?n=Gerald-Marchand&pid=171442194
+!file Marchand_Jerry.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-06-23
+
+#profile Marchand, Gerald Huey [Jerry]
+key 201406_Marchand
+birth 1931
+death 2014-06-20
+highschool Catholic HS @ US/LA/Baton Rouge
+college Louisiana State University
+military US Army 
+
+---
+
+!citation Bucks County Courier Times @ 2014-06-19
+!url http://www.buckscountycouriertimes.com/obituaries/bcct/robert-c-pfeilsticker-sr/article_d7da5db0-8964-5f59-b2f0-6463c77d2a29.html
+!file Pfeilsticker_Robert.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-06-22
+
+#profile Pfeilsticker, Robert C., Sr.
+key 201406_Pfeilsticker
+birth 1923 @ US/NY/Buffalo
+death 2014-06-14 @ US/PA/Langhorne
+college Temple University @ US/PA/Philadelphia
+military US Army @ World War II
+burial Whitemarsh Memorial Park @ US/PA/Ambler
+grandfather of Morton, Charlie
+
+---
+
+!citation News & Record @ 2014-06-22
+!url http://www.news-record.com/obituaries/article_20499a75-cec0-52fa-80f9-643b966bb842.html
+!file Antle_Mike.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-06-22
+
+#profile Antle, Michael Eugene [Mike]
+key 201406_Antle
+birth 1960-12-08 @ US/NC/Pinehurst
+death 2014-06-13 @ US/MT/Billings
+highschool Pinecrest HS @ US/NC/Southern Pines
+college University of North Carolina-Wilmington
+
+---
+
+!citation Chicago Tribune @ 2014-06-20
+!url http://www.legacy.com/obituaries/chicagotribune/obituary.aspx?n=Dennis-Kissane&pid=171421946
+!file Kissane_Dennis.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-06-22
+
+#profile Kissane, Dennis J.
+key 201406_Kissane
+death 2014-06-17
+highschool Oak Park and River Forest HS @ US/IL/Oak Park
+
+---
+
+!citation Miami Herald @ 2014-06-22
+!url http://www.legacy.com/obituaries/herald/obituary.aspx?n=Robert-Horne&pid=171449494
+!file Horne_Bob.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-06-22
+
+#profile Horne, Robert A. [Bob]
+key 201406_Horne
+birth 1931-12-04 @ US/NC/Charlotte
+death 2014-06-19
+military US Navy 
+
+---
+
+!citation San Francisco Chronicle @ 2014-06-20
+!url http://www.legacy.com/obituaries/sfgate/obituary.aspx?n=john-buick&pid=171417164&fhid=2515
+!file Buick_John.pdf
+!contributor Rod Nelson <rodericnelson@gmail.com> @ 2014-06-20
+
+#profile Buick, John E., Jr. [Jack]
+key 201406_Buick
+birth 1926 @ US/CA/San Francisco
+death 2014-06-17
+highschool St. Ignatius High School @ US/CA/San Francisco
+college St. Mary's College of California @ US/CA/Moraga
+military US Navy @ World War II
+burial Holy Cross Cemetery @ US/CA/Colma
+
+---
+
+!citation Baier Family Funeral Services @ 2014-06-22
+!url http://www.meaningfulfunerals.net/fh/obituaries/obituary.cfm?o_id=2576924&fh_id=14520
+!file Scheiwe_Mark.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-06-22
+
+#profile Scheiwe, Mark D.
+key 201406_Scheiwe
+birth 1961-05-02 @ US/IL/Paxton
+death 2014-06-20 @ US/IL/Urbana
+highschool Buckley-Loda HS @ US/IL/Buckley
+burial St. John's Cemetery @ US/IL/Buckley
+
+---
+
+!citation Butler Eagle @ 2014-06-19
+!url http://www.legacy.com/obituaries/butlereagle/obituary.aspx?n=William-Thompson&pid=171413403
+!file Thompson_Bill.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-06-21
+
+#profile Thompson, William K. [Bill]
+key 201406_Thompson
+birth 1932-01-07 @ US/PA/Hooker
+death 2014-06-18 @ US/PA/Cabot
+
+---
+
+!citation Columbus Ledger-Enquirer @ 2014-06-19
+!url http://www.legacy.com/obituaries/ledger-enquirer/obituary.aspx?n=Joseph-Pittman&pid=171406486
+!file Pittman_Joe.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-06-19
+
+#profile Pittman, Joseph Wayne [Joe] "Shoes"
+key 201406_Pittman
+birth 1953-01-01 @ US/TX/Houston
+death 2014-06-13 @ US/TX/Lake Jackson
+highschool Kashmere HS @ US/TX/Houston
+college Southern University and A&M College
+
+---
+
+!citation John C. Bryant Funeral Home @ 2014-06-19
+!url http://www.johncbryantfuneralhome.com/johncbryantfuneralhome.com/Current_Funeral_Arrangements.html
+!file Catalanotto_Stephen.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-06-19
+
+#profile Catalanotto, Stephen J.
+key 201406_Catalanotto
+birth 1925-10-31 @ US/MA/Boston
+death 2014-06-18 @ US/MA/Wayland
+highschool Belmont HS @ US/MA/Belmont
+burial Lakeview Cemetery @ US/MA/Wayland
+
+---
+
+!citation Peoria Journal Star @ 2014-06-18
+!url http://www.legacy.com/obituaries/pjstar/obituary.aspx?n=richard-f-heihs&pid=171382632&fhid=17635&eid=sp_ommatch
+!file Heihs_Dick.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-06-19
+
+#profile Heihs, Richard F. [Dick]
+key 201406_Heihs
+birth 1933-02-02 @ US/IL/Pekin
+death 2014-06-13 @ US/IL/Peoria
+highschool Pekin Community HS @ US/IL/Pekin
+military US Army 
+
+---
+
+!citation Virginian Pilot @ 2014-06-18
+!url http://www.legacy.com/obituaries/pilotonline/obituary.aspx?n=Donald-Robertson&pid=171391995
+!file Robertson_Don.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-06-15
+
+#profile Robertson, Donald Elliott, Sr. [Don]
+key 201406_Robertson
+birth 1929-12-25 @ US/NC/Goldsboro
+death 2014-06-17 @ US/VA/Virginia Beach
+highschool Woodrow Wilson HS @ US/VA/Portsmouth
+military US Navy @ Korean War
+
+---
+
+!citation The Hartford Courant @ 2014-06-18
+!url http://www.legacy.com/obituaries/hartfordcourant/obituary.aspx?n=Rollin-Schuster&pid=171394605
+!file Schuster_Rollin.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-06-18
+
+#profile Schuster, Rollin Gilbert, Sr.
+key 201406_Schuster
+birth 1928-05-03 @ US/NJ/Woodcliff Lake
+death 2014-06-15
+highschool Teaneck HS @ US/NJ/Teaneck
+military US Army @ Korean War
+burial Simsbury Cemetery @ US/CT/Simsbury
+
+---
+
+!citation Arkansas Democrat Gazette @ 2014-06-12
+!file Gray_Charles.docx
+!contributor Fred Worth <worthf@hsu.edu> @ 2014-06-16
+
+#profile Gray, Charles S.
+key 201406_Gray
+birth 1932-02-01 @ US/AR/North Little Rock
+death 2014-06-10
+highschool North Little Rock @ US/AR/North Little Rock
+military US Air Force @ Korean War
+
+---
+
+!citation Grand Island Independent @ 2014-06-10
+!url http://www.theindependent.com/obituaries/leon-foulk/article_f828c1fc-f03b-11e3-9e49-0019bb2963f4.html
+!file Foulk_Leon.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-06-15
+
+#profile Foulk, Leon R.
+key 201406_Foulk
+birth 1926-02-14 @ US/PA/Williamsport
+death 2014-06-02 @ US/NE/Kearney
+highschool Grand Island HS @ US/NE/Grand Island
+military US Navy @ World War II
+burial Ord City Cemetery @ US/NE/Ord
+
+---
+
+!citation Hattiesburg American @ 2014-06-12
+!url http://www.hattiesburgamerican.com/story/news/2014/06/11/hattiesburg-police-department-rashod-henry-death-jon-traxler/10345565/
+!file Henry_Rashod.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-06-15
+
+#profile Henry, Rashod
+key 201406_Henry
+death 2014-06-11 @ US/MS/Hattiesburg
+highschool Lumberton HS @ US/MS/Lumberton
+
+---
+
+!citation Gaston Gazette @ 2014-06-15
+!url http://www.legacy.com/obituaries/gastongazette/obituary.aspx?n=Calvin-Harkey&pid=171357330
+!file Harkey_Calvin.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-06-15
+
+#profile Harkey, Calvin Leander
+key 201406_Harkey
+birth 1928-02-04
+death 2014-06-13
+highschool Gastonia HS @ US/NC/Gastonia
+military US Army 
+
+---
+
+!citation MeaningfulFunerals.net @ 2014-06-14
+!url http://www.meaningfulfunerals.net/fh/obituaries/obituary.cfm?o_id=2560234&fh_id=10647
+!file Ballinger_Mark.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-06-14
+
+#profile Ballinger, Mark Alan
+key 201406_Ballinger
+birth 1949-01-31 @ US/CA
+death 2014-06-13
+
+---
+
+!citation Los Angeles Times @ 2014-06-14
+!url http://www.legacy.com/obituaries/latimes/obituary.aspx?n=James-Barrett&pid=171331052
+!file Barrett_Jim.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-06-14
+
+#profile Barrett, James Michael [Jim]
+key 201406_Barrett
+birth 1933-08-20 @ US/IA/Sioux City
+death 2014-06-09
+highschool Notre Dame HS @ US/CA/Sherman Oaks
+military US Army 
+burial Forest Lawn Memorial Park @ US/CA/Los Angeles
+
+---
+
+!citation Dayton Daily News @ 2014-06-13
+!url http://www.legacy.com/obituaries/dayton/obituary.aspx?n=William-McCOOL&pid=171330336
+!file McCool_Billy.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-06-14
+
+#profile McCool, William John [Billy] "Cool Billy"
+key 201406_McCool
+birth 1944-07-14 @ US/IN/Batesville
+death 2014-06-08 @ US/FL/Summerfield
+highschool Lawrenceburg HS @ US/IN/Lawrenceburg
+
+---
+
+!citation Legacy.com @ 2014-06-11
+!url http://www.legacy.com/ns/obituary.aspx?n=bob-welch&pid=171291991
+!file Welch_Bob.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-06-11
+
+#profile Welch, Bob
+key 201406_Welch
+birth 1956-11-03
+death 2014-06-09 @ US/CA/Seal Beach
+college Eastern Michigan University
+
+---
+
+!citation The Kansan @ 2014-06-11
+!url http://www.legacy.com/obituaries/thekansan/obituary.aspx?n=Glenn-Davis&pid=171281888
+!file Davis_Glenn.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-06-11
+
+#profile Davis, Glenn E.
+key 201406_Davis
+birth 1940-08-26 @ US/AR/Springdale
+death 2014-06-05 @ US/KS/Wichita
+
+---
+
+!citation Herald Democrat @ 2014-06-11
+!url http://www.legacy.com/obituaries/heralddemocrat/obituary.aspx?n=Frank-Dugger&pid=171299699
+!file Dugger_Frank.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-06-11
+
+#profile Dugger, Frank Ervin
+key 201406_Dugger
+birth 1930-10-10 @ US/TX/Allen
+death 2014-06-09
+highschool Allen HS @ US/TX/Allen
+burial Van Alstyne Cemetery @ US/TX/Van Alstyne
+
+---
+
+!citation Wichita Eagle @ 2014-06-08
+!url http://www.legacy.com/obituaries/kansas/obituary.aspx?n=Glenn-Davis&pid=171265668
+!file Davis_Glenn_2.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-06-08
+
+#profile Davis, Glenn E.
+key 201406_Davis_2
+birth 1940
+death 2014-06-05
+
+---
+
+!citation Bellingham Herald @ 2014-06-06
+!url http://www.legacy.com/obituaries/bellinghamherald/obituary.aspx?n=Richard-Zender&pid=171239706
+!file Zender_Dick.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-06-08
+
+#profile Zender, Richard Anthony [Dick]
+key 201406_Zender
+birth 1922-11-27 @ US/WA/Bellingham
+death 2014-06-03 @ US/WA/Bellingham
+military US Navy @ World War II
+
+---
+
+!citation New York Times @ 2014-06-04
+!url http://www.nytimes.com/2014/06/05/sports/baseball/don-zimmer-dies-at-83-after-a-lifetime-in-baseball.html?_r=0
+!file Zimmer_Don.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-06-06
+
+#profile Zimmer, Donald William [Don]
+key 201406_Zimmer
+birth 1931-01-17
+death 2014-06-04 @ US/FL/Dunedin

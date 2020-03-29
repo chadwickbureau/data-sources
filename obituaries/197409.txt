@@ -1,0 +1,10 @@
+!citation Times-Leader @ 1974-09-20
+!file Wasco_Julian.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-11-28
+
+#profile Wasco, Julian
+key 197409_Wasco
+birth @ US/PA/Kingston
+death 1974-09-19 @ US/PA/Wilkes-Barre
+military US Army @ World War II
+burial St. Mary's Cemetery @ US/PA/Hanover Township

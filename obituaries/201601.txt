@@ -1,0 +1,12 @@
+!citation Anderson Stevenson Wilke Funeral Home @ 2018-07-20
+!url http://helenafuneralhome.com/obituaries/jack-sautter-age-85-of-townsend/
+!file Sautter_Jack.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-07-20
+
+#profile Sautter, Jack
+key 201601_Sautter
+birth 1930-04-06 @ US/MT/Piedmont
+death 2016-01-23
+highschool Broadwater HS @ US/MT/Townsend
+college Montana State University
+burial Deep Creek Cemetery @ US/MT/Townsend

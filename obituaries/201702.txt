@@ -1,0 +1,9 @@
+!citation Hutchens Funeral Home @ 2019-10-24
+!url https://hutchensfuneralhomes.com/obituary/john-grose/
+!file Grose_John.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-24
+
+#profile Grose, John
+key 201702_Grose
+death 2017-02-26
+military US Air Force

@@ -1,0 +1,8 @@
+!citation Lincoln Star-Journal @ 1967-07-30; page 32
+!file Shestak_George.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-12-12
+
+#profile Shestak, George W.
+key 196707_Shestak
+death 1967-07-29 @ US/NE/Lincoln
+military US Army @ World War I

@@ -1,0 +1,10 @@
+!citation MainStreetNews.com @ 2010-10-04
+!url https://www.mainstreetnews.com/obits/billy-ray-b-r-white/article_cba889e4-8ee3-5c2c-86b8-e7b5ed9af1af.html
+!file White_Billy.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-12-10
+
+#profile White, Billy Ray "B. R."
+key 201010_White
+death 2010-10-01
+highschool Winder-Barrow HS @ US/GA/Winder
+college Mercer University

@@ -1,0 +1,9 @@
+!citation Orlando Sentinel @ 1979-12-31
+!file Smith_Red.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-01-18
+
+#profile Smith, R. L. [Red]
+key 197912_Smith
+birth @ US/IL/Murphysboro
+death 1979-12-28
+military US @ World War II

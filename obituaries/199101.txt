@@ -1,0 +1,10 @@
+!citation Austin American-Statesman @ 1991-01-18; page 26
+!file Ellison-19910117.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @
+
+#profile Ellison, Bobby Floyd
+key 199101_Ellison
+death 1991-01-17
+highschool Austin HS @ US/TX/Austin
+military US @ Korean War
+burial Manda Methodist Cemetery @ US/TX/Austin

@@ -1,0 +1,9 @@
+!citation Ottawa Funeral Home @ 2019-12-10
+!url https://www.ottawafuneralhome.com/obituary/dorothy-vesely
+!file Vesely_Edwin_1.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-12-10
+
+#profile Vesely, Edwin
+key 200100_Vesely
+death 2001
+player 1948 Visalia (California)

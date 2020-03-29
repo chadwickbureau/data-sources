@@ -1,0 +1,8 @@
+!citation Burlington Free Press @ 1955-05-30; page 10
+!file Quinn_Bob.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-12-29
+
+#profile Quinn, Bob
+key 20191229_001
+player 1955 Burlington (Provincial); @P-OF BL TL H70 W170
+college West Chester State Teachers College

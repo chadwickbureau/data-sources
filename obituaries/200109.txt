@@ -1,0 +1,27 @@
+!citation 911 Living Memorial @ 2019-09-13
+!url https://livingmemorial.voicesofseptember11.org/mark-d-hindy
+!file Hindy_Mark.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-09-13
+
+#profile Hindy, Mark D.
+key 200109_Hindy
+birth 1973-07-20
+death 2001-09-11 @ US/NY/Manhattan
+highschool Xavier HS @ US/NY/Manhattan
+highschool Poly Prep Country Day School @ US/NY/Brooklyn
+college Vanderbilt University
+
+---
+
+!citation 911 Living Memorial @ 2019-09-13
+!url https://livingmemorial.voicesofseptember11.org/brent-james-woodall
+!file Woodall_Brent.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-09-13
+
+#profile Woodall, Brent James
+key 200109_Woodall
+sameas sr_cfb:brent-woodall-1
+birth 1970-07 @ US/TX/Dallas
+death 2001-09-11 @ US/NY/Manhattan
+highschool La Jolla HS @ US/CA/San Diego
+college University of California, Berkeley

@@ -1,0 +1,84 @@
+!citation Ventura County Star @ 2019-01-13
+!url https://www.legacy.com/obituaries/venturacountystar/obituary.aspx?n=donald-keith-kauppi&pid=191246195
+!file Kauppi_Donald.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-01-13
+
+#profile Kauppi, Donald Keith
+key 201802_Kauppi 
+birth @ US/MA/Gardner
+death 2018-02-26
+military US Navy @ World War II
+
+---
+
+!citation The House of Wright Funeral Home @ 2018-10-04
+!url https://houseofwrightmortuary.com/tribute/details/2926/Frederick-Mason/obituary.html
+!file Mason_Fred.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-10-04
+
+#profile Mason, Frederick A. [Fred]
+key 201802_Mason
+birth 1936-02-06 @ US/DE/Wilmington
+death 2018-02-20 @ US/DE/Wilmington
+highschool Howard HS @ US/DE/Wilmington
+military US Army
+
+---
+
+!citation Mainichi.jp @ 2018-03-13
+!url https://mainichi.jp/articles/20180214/k00/00m/050/063000c
+!file Taneda_Hiroshi.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-09-14
+
+#profile Taneda, Hiroshi
+key 201802_Taneda
+death 2018-02-12
+
+---
+
+!citation GraveyardBaseball @ 2018-09-14
+!url https://graveyardbaseball.blogspot.com/2018/02/report-nishitetsu-lion-teruyuki.html
+!file Takakura_Teruyuki.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-09-14
+
+#profile Takakura, Terayuki
+key 201802_Takakura
+death 2018-02-12 @ JP//Fukuoka
+
+---
+
+!citation Stanley's Funeral Home @ 2018-07-20
+!url http://www.stanleysfuneralhome.com/memsol.cgi?user_id=2072339
+!file Skrzypczak_Ray.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-07-20
+
+#profile Skrzypczak, Raymond Francis [Ray]
+key 201802_Skrzypczak
+birth 1929-10-13 @ US/NY/Buffalo
+death 2018-02-13 @ US/OK/Tulsa
+military US Army @ Korean War
+
+---
+
+!citation Adobe Creek Funeral Home @ 2018-07-17
+!url http://adobecreekfuneralhome.com/obituaries-2/ben-mitsuyoshi/995/
+!file Mitsuyoshi_Ben.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-07-17
+
+#profile Mitsuyoshi, Ben
+key 201802_Mitsuyoshi
+birth 1928-05-21 @ US/CA/Armona
+death 2018-02-01 @ US/CA/Santa Rosa
+military US Army @ Korean War
+burial Hanford Cemetery @ US/CA/Hanford
+
+---
+
+!citation El Cooperante @ 2018-02-23
+!url https://elcooperante.com/lo-que-no-se-sabias-de-la-muerte-del-exprospecto-ronald-jimenez-en-vargas-andaba-en-malos-pasos/
+!file Jimenez_Ronald.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-06-09
+
+#profile Jiménez (Martinez), Ronald Adrián "El Ronita"
+key 201802_Jimenez
+death 2018-02-21 @ VE/Vargas/Caracas

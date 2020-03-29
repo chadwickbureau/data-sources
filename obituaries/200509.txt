@@ -1,0 +1,11 @@
+!citation Tampa Bay Times @ 2005-09-16
+!url https://www.legacy.com/obituaries/tampabaytimes/obituary.aspx?n=mf-mick-bunny&pid=15096345
+!file Mick_Bunny.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-03-03
+
+#profile Mick, M. F. [Bunny]
+key 200509_Mick
+death 2005-09-14
+highschool Henry B. Plant HS @ US/FL/Tampa
+college University of Tampa
+military US Army @ World War II

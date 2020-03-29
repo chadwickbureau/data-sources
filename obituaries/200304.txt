@@ -1,0 +1,12 @@
+!citation Tributes.com @ 2019-03-10
+!url http://www.tributes.com/obituary/show/Joseph-E.-McCormick-89186622
+!file McCormick_Joe.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-03-10
+
+#profile McCormick, Joseph E. [Joe]
+key 200304_McCormick
+birth 1934-05-08 @ US/IL/Cairo
+death 2003-04-18 @ US/IL/Springfield
+military US Army
+describe ; TL
+burial Camp Butler National Cemetery @ US/IL/Springfield

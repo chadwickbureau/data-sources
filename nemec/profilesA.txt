@@ -1,0 +1,537 @@
+#profile Abadie, Bernard E. [Ben]
+key Abadie_Bernard_E
+birth 1921-11-18 @ US/LA/New Orleans
+death 2011-08-20
+describe ; BR TR H73.5 W187
+note Baseball coach at Tulane University for many years
+
+---
+
+#profile Abdella, James Alfred
+key Abdella_James_Alfred
+birth 1939-09-24 @ US/MA/Worcester
+death 2011-11-04 @ US/MA/Shrewsbury
+describe ; BL TL H70 W180
+sameas ssn:024-30-9260
+highschool Major Howard Beal High School; dates=/1957; degree=graduated
+college University of Massachusetts
+resides 1961 @ US/MA/Shrewsbury; address=28 North Street
+
+---
+
+#profile Abel, Edward Ronald [Ed]
+key Abel_Edward_Ronald
+birth 1939-06-27 @ US/PA/Pittsburgh
+death 2014-01-01 @ US/VA/Pearisburg
+describe ; BR TR H70.5 W175
+highschool West View High School; dates=/1957; degree=graduated
+college Colgate University; dates=/1961; degree=graduated
+resides 1962 @ US/NY/Cazenovia; address=112 Auburn St.
+brother of Abel, Glenn K.
+
+---
+
+#profile Abernethy, Joe Ray
+key Abernethy_Joe_Ray
+birth 1934-05-21 @ US/NC/Newton
+death 2011-07-18 @ US/NC/Newton
+describe ; BR TR H73.5 W185
+sameas ssn:241-50-3402
+highschool Newton-Conover High School
+resides 1959 @ US/NC/Newton; address=504 East Street
+military US; dates=1958/1958
+
+---
+
+#profile Accardo, Thomas Joseph [Tom]
+key Accardo_Thomas_Joseph
+birth 1922-08-17 @ US/IL/Chicago
+death 2009-02-28 @ US/MN/Bemidji
+describe ; BR TR H69 W175
+sameas ssn:336-12-7531
+highschool Washburne Trade School @ US/IL/Chicago
+resides @ US/IL/Chicago; address=727 N. Hamlin
+player 1942 Keeshin Motors; location=US/IL/Chicago; caliber=semipro
+
+---
+
+#profile Ackermann, Richard John
+key Ackermann_Richard_John
+birth 1929-05-29 @ US/IL/Chicago
+death 2014-01-09 @ US/NC/Wilmington
+describe ; BR TR H71 W165
+sameas ssn:351-20-7889
+highschool Lane Tech High School; dates=/1947; degree=graduated
+resides 1948 @ US/IL/Chicago; address=2729 Fullerton Ave.
+resides 1954 @ US/IL/Morton Grove; address=5405 Cleveland Ave.
+military US; dates=1951/1952
+
+---
+
+#profile Adair, John Leon
+key Adair_John_Leon
+birth 1931-08-19 @ US/AL/Gordo
+death 2012-12-01
+describe ; BR TR
+sameas ssn:420-34-8530
+
+---
+
+#profile Adair, Richard Charles [Dick]
+key Adair_Richard_Charles
+birth 1929-10-14 @ US/PA/Philadelphia
+death 2011-07-10
+describe ; BR TR H77 W215
+sameas ssn:199-16-4238
+highschool Northeast High School; dates=/1946; degree=graduated
+college La Salle College
+resides 1953 @ US/PA/Philadelphia; address=1838 E. Monmouth Street
+military US; dates=1951/1951
+
+---
+
+#profile Adam, Richard D. "Red"
+key Adam_Richard_D
+birth 1935-08-08 @ US/PA/Reading
+death 2013-05-21 @ US/PA/Cumpu Twp.
+describe ; BR TR H70 W155
+highschool Kutztown High School @ US/PA/Kutztown; dates=/1953; degree=graduated
+resides 1955 @ US/PA/Kutztown; address=College Hill
+
+---
+
+#profile Adams, Elton Eugene [Gene]
+key Adams_Elton_Eugene
+birth 1928-06-12 @ US/KY/Paducah
+death 2012-09-16 @ US/IL/Caseyville
+describe ; BR TR H71 W170
+sameas ssn:352-20-1409
+highschool East St. Louis High School; dates=/1947; degree=graduated
+resides 1948 @ US/IL/East St. Louis; address=1343 N. 37th Street
+player 1947 Rhodes-Burford; location=US/IL/East St. Louis; caliber=semipro
+
+---
+
+#profile Adams, Herbert Loren [Herb]
+key Adams_Herbert_Loren
+birth 1928-04-14 @ US/CA/Hollywood
+death 2012-02-01 @ US/OK/Tulsa
+describe ; BL TL H69 W165
+sameas ssn:329-22-4999
+college Northern Illinois State Teachers College @ US/IL/DeKalb
+resides 2003 @ US/IL/Wheaton; address=903 South Williston; zip=60167
+military US; dates=1951/1952
+
+---
+
+#profile Adams, James Byron [Jim]
+key Adams_James_Byron
+birth 1940-12-31 @ US/GA/Atlanta
+death 2013-11-09 @ US/NC/Greensboro
+describe ; BS TR H72 W180
+sameas ssn:259-64-3073
+highschool Druid Hills High School @ US/GA/Atlanta; dates=/1961; degree=graduated
+college Georgia Tech University
+resides 1965 @ US/GA/Decatur; address=484 Pensadale Road
+signed 1965-06-18; join=Chicago (National)
+
+---
+
+#profile Adams, Raymond Nathaniel [Ray]
+key Adams_Raymond_Nathaniel
+birth 1922-04-05 @ US/CA/Vallejo
+death 2012-01-29 @ US/CA/San Leandro
+describe ; BL TR H72.5 W172
+highschool Oakland Technical High School; dates=/1940; degree=graduated
+resides 1951 @ US/CA/Oakland; address=644 61st Street
+military US; dates=1943/1946
+
+---
+
+#profile Adams, Ricky Lee
+key Adams_Ricky_Lee
+birth 1959-01-21 @ US/CA/Upland
+death 2011-10-28 @ US/CA/Rancho Cucamonga
+describe ; BR TR H73 W180
+sameas ssn:555-27-2170
+highschool Montclair High School @ US/CA/Montclair; dates=/1977; degree=graduated
+resides 2003 @ US/CA/Alta Loma; address=6437 Garret St.; zip=91701
+drafted 1977-06; join=Houston (National); round=1; pick=14
+signed 1977-06-24; join=Houston (National); signer=Stalling, Lynwood
+
+---
+
+#profile Adams, Russell L. [Russ]
+key Adams_Russell_L
+birth 1922-09-23 @ US/IL/Chicago
+death 2011-10-19 @ US/IL/Elgin
+describe ; BL TL
+
+---
+
+#profile Aden, Dwight B.
+key Aden_Dwight_B
+birth 1915-03-01 @ US/OR/Wilsonville
+death 2008-07-13 @ US/WA/Spokane
+describe ; BL TL H71 W165
+highschool West Linn High School
+college Willamette University; dates=/1937; degree=graduated
+resides 1937 @ US/OR/Wilsonville
+military US; dates=1943/1945
+player 1936 Salem Senators; location=US/OR/Salem; caliber=semipro
+affiliation ; type=administrator; title=Business Manager; dates=1946; team=Spokane (Western International)
+note Aden was business manager of the Spokane club in 1946 when nine players lost their lives when the bus carrying the players careened off a narrow mountain road and plunged 350 feet down the side of a mountain on June 24, 1946. The three games Aden played that year were after the accident.
+
+---
+
+#profile Adenhart, Nicholas James [Nick]
+key Adenhart_Nicholas_James
+birth 1986-08-24 @ US/PA/Hagerstown
+death 2009-04-09 @ US/CA/Orange
+describe ; BR TR H76 W190
+highschool Williamsport High School @ US/MD/Williamsport
+resides 2005 @ US/MD/Williamsport
+drafted 2004-06; join=Anaheim (American); round=14
+signed 2004-07-28; join=Anaheim (American)
+
+---
+
+#profile Adkins, Donald W. [Dennis]
+key Adkins_Donald_W
+birth 1932-11-01 @ US/MO/Burlington Junction
+death 2008-08-08
+describe ; BS TR H74 W200
+highschool Elmo Consolidated High School; dates=/1950; degree=graduated
+resides 1955 @ US/MO/Burlington Junction
+military US
+signed 1954-09-15; join=Welch (Appalachian)
+released 1955-04-22; leave=Welch (Appalachian)
+signed 1957-01-16; join=Fort Walton Beach (Alabama-Florida)
+released 1959-01-19; leave=Fort Walton Beach (Alabama-Florida)
+
+---
+
+#profile Adkins, Teddy Wayne
+key Adkins_Teddy_Wayne
+birth 1958-10-15 @ US/WV/Logan
+death 2011-05-21
+describe ; BR TR H77 W205
+sameas ssn:265-35-9138
+highschool Twin Lakes High School @ US/FL/West Palm Beach; dates=/1976; degree=graduated
+college Palm Beach Junior College
+resides 1978 @ US/FL/West Palm Beach; address=1612 Georgia Ave.
+drafted 1978-01; join=Seattle (American)
+signed 1978-05-12; join=Seattle (American); signer=Pena, Orlando
+
+---
+
+#profile Adkins, Theo, Jr. [Ted]
+key Adkins_Theo
+birth 1928-02-19 @ US/MS/Greenville
+death 2014-01-03 @ US/CA/Petaluma
+describe ; BL TL H71 W175
+sameas ssn:572-30-5977
+college College of Pacific @ US/CA/Stockton
+resides 1955 @ US/CA/Tuolumne; address=Box 582
+military US; dates=1952/1953
+
+---
+
+#profile Adkison, Larry Wayne
+key Adkison_Larry_Wayne
+birth 1943-04-10 @ US/CA/Van Nuys
+death 2012-02-09 @ US/CA/Westminster
+describe ; BR TR H73.5 W185
+sameas ssn:548-56-7125
+highschool Compton HS @ US/CA/Compton; dates=/1961; degree=graduated
+college Compton Junior College
+resides 1964 @ US/CA/Compton; address=712 E. Cocoa
+signed 1963-11-04; join=Los Angeles (American); signer=Gilhousen, Ross
+
+---
+
+#profile Afanesko, Max
+key Afanesko_Max
+birth 1928-08-20 @ US/PA/Curtisville
+death 2012-03-16 @ US/PA/West Deer Township
+describe ; BR TR H66
+highschool Etna HS; dates=/1942; degree=graduated
+resides 1942 @ US/PA/Bairdford; address=Box 28
+player 1941 Curtisville; location=US/PA/Curtisville; caliber=semipro
+
+---
+
+#profile Agee, Joseph Ryan, Jr. [Joe]
+key Agee_Joseph_Ryan
+birth 1917-02-12 @ US/AL/Courtland
+death 2011-03-24 @ US/AL/Huntsville
+describe ; BR TR H72 W185
+sameas ssn:499-18-2021
+college Vanderbilt University; dates=/1939; degree=graduated
+resides 1939 @ US/AL/Courtland
+
+---
+
+#profile Ahlness, Kenneth Lee
+key Ahlness_Kenneth_Lee
+birth 1925-08-16 @ US/MN/St. James
+death 2013-03-06
+describe ; BR TR
+
+---
+
+#profile Akerfelds, Darrel Wayne
+key Akerfelds_Darrel_Wayne
+birth 1962-06-12 @ US/CO/Denver
+death 2012-06-24 @ US/AZ/Phoenix
+describe ; BR TR H74 W210
+sameas ssn:522-11-2035
+highschool Columbine High School @ US/CO/Littleton; dates=/1980; degree=graduated
+resides 2003 @ US/CO/Aurora; address=4136 So. Mobile Circle #D; zip=80013
+drafted 1983-06; join=Seattle (American)
+signed 1983-06-11; join=Seattle (American); signer=Malinoff, Jeff
+note Was a San Diego Padres coach at the time of his death
+
+---
+
+#profile Albertson, Roy Lawrence
+key Albertson_Roy_Lawrence
+birth 1930-06-28 @ US/NY/Buffalo
+death 2011-12-07 @ US/WA/Seattle
+describe ; BL TL H72 W168
+highschool Tuscon High School; dates=/1948; degree=graduated
+college University of Arizona
+resides 1951 @ US/AZ/Tuscon
+
+---
+
+#profile Albright, James Gray [Jim]
+key Albright_James_Gray
+birth 1928-09-10 @ US/AL/Newport
+death 2011-07-08
+describe ; BR TR
+resides 1951 @ US/AR/North Little Rock; address=1004 W. 41st Street
+
+---
+
+#profile Alex, Harvey Wayne
+key Alex_Harvey_Wayne
+birth 1949-12-19 @ US/TX/Yorktown
+death 2013-03-06
+describe ; BR TR H76 W220
+sameas ssn:463-68-8342
+highschool Yorktown High School; dates=/1959; degree=graduated
+college Victoria Junior College
+college Texas Lutheran College
+
+---
+
+#profile Alexander, Marvin Edward
+key Alexander_Marvin_Edward
+birth 1925-03-02 @ US/TX/Dallas
+death 2013-01-05 @ US/TX
+describe ; BR TR H74.5 W190
+sameas ssn:460-20-9057
+highschool Dallas Tech High School; dates=/1942; degree=graduated
+resides 1949 @ US/TX/Dallas; address=832 4th Ave.
+
+---
+
+#profile Alford, Donald Ray [Don]
+key Alford_Donald_Ray
+birth 1929-09-18 @ US/IL/Rockford
+death 2014-01-03 @ US/TX/The Woodlands
+describe ; BR TR
+military US; dates=1952/1953
+
+---
+
+#profile Allen, Steven Charles [Steve]
+key Allen_Steven_Charles
+birth 1946-06-05 @ US/NH/Nashua
+death 2013-08-21 @ US/VA/Sandston
+describe ; BR TR H74 W180
+sameas ssn:002-34-8467
+highschool Alvirine High School @ US/NH/Hudson; dates=/1964; degree=graduated
+resides 1964 @ US/NH/Hudson; address=163 Central
+signed 1964-06-14; join=Chicago (National); signer=Merullo, Len
+
+---
+
+#profile Alou, Mateo Rojas [Matty]
+key Alou_Mateo_Rojas
+birth 1938-12-22 @ DO//Ciudad Trujillo
+death 2011-11-03 @ US/FL/Miami
+describe ; BL TL H69 W158; ancestry=Dominican Negro
+sameas ssn:471-46-8044
+resides 2003 @ DO//Paraiso; address=P. O. Box 30063, M. D. J. Troncusco #16
+brother of Alou, Felipe
+brother of Alou, Jesus
+
+---
+
+#profile Altenburg, Willis Rudolph [Bill]
+key Altenburg_Willis_Rudolph
+birth 1915-05-29 @ US/IL/Lake Zurich
+death 2012-08-01 @ US/IL/Barrington
+describe ; BR TR H69.5 W167
+highschool Barrington High School
+resides 1940 @ US/IL/Barrington; address=208 Railroad Street
+
+---
+
+#profile Alvarez (Hernandez), Rogelio
+key Alvarez_Rogelio
+birth 1938-04-18 @ CU/Pinar del Rio/Santa Lucia
+death 2012-11-30 @ US/FL/Hialeah
+describe ; BR TR H71 W175; ancestry=Cuban Negro
+sameas ssn:535-38-2287
+college Priral College
+resides 2003 @ US/FL/Carol City; address=5010 N. W. 183rd Street; zip=33055
+
+---
+
+#profile Alworth, Frederick Joseph [Fred]
+key Alworth_Frederick_Joseph
+birth 1941-11-04 @ US/NJ/Montclair
+death 2010-11-29 @ US/NJ/Rockaway Township
+describe ; BR TR H71.5 W180
+sameas ssn:157-32-8744
+highschool Glen Ridge High School; dates=/1959; degree=graduated
+college Villanova University
+resides 1961 @ US/NJ/Glen Ridge; address=4 Midland Avenue
+player 1960 Montclair Orioles; caliber=semipro
+
+---
+
+#profile Ambrose, Philip D.
+key Ambrose_Philip_D
+birth 1927-08-14 @ US/NJ/Vineland
+death 2011-08-12 @ US/NJ/Vineland
+describe ; BR TR H71 W160
+sameas ssn:153-20-0461
+highschool Sacred Heart High School
+resides 1950 @ US/NJ/Vineland; address=595 N. East Ave.
+
+---
+
+#profile Amoriello, Clarence
+key Amoriello_Clarence
+birth 1924-11-25 @ US/PA/Tyler
+death 2013-01-04 @ US/NC/Reidsville
+describe ; BR TR H73 W190
+sameas ssn:200-16-9558
+highschool Penfield High School; dates=/1943; degree=graduated
+resides 1951 @ US/PA/Weedville; address=RFD #2
+
+---
+
+#profile Amrhein, Michael Kevin [Mike]
+key Amrhein_Michael_Kevin
+birth 1975-06-14 @ US/IL/Springfield
+death 2012-07-05
+describe ; BR RTR H74 W220
+highschool Oak Park-River Forest High School
+college University of Norte Dame
+resides 2002 @ US/IL/Oak Park
+drafted 1997-06; join=Chicago (National)
+signed 1997-06-04; join=Chicago (National)
+
+---
+
+#profile Anderman, George Nelson, Jr.
+key Anderman_George_Nelson
+birth 1928-06-16 @ US/PA/Philadelphia
+death 2011-09-25
+describe ; BR TL H72 W175
+sameas ssn:209-14-5055
+highschool Cheltenham High School; dates=/1946; degree=graduated
+college Lafayette College
+resides 1950 @ US/PA/Melrose Park; address=911 Melrose Avenue
+military US; dates=1951/1952
+
+---
+
+#profile Anderson, Clarence Eldon
+key Anderson_Clarence_Eldon
+birth 1923-04-29 @ US/PA/Ludlow
+death 2010-08-19 @ US/VA/Virginia Beach
+describe ; BR TL H76 W175
+sameas ssn:195-14-2193
+highschool Ludlow High School; dates=/1942; degree=graduated
+resides 1950 @ US/PA/Kane; address=Route 2, Box 292
+player 1946 Niagara Falls; location=US/NY/Niagara Falls; caliber=semipro
+player 1946 Ludlow; location=US/PA/Ludlow; caliber=semipro
+
+---
+
+#profile Anderson, Donald E. [Don]
+key Anderson_Donald_E
+birth 1918-10-22 @ US/IL/Chicago
+death 2010-11-22 @ US/CA/Hemet
+describe ; BR TR H71 W165
+sameas ssn:389-18-8160
+highschool Bowen High School @ US/IL/Chicago
+resides 1951 @ US/CA/San Francisco; address=436 Alexander
+player 1938 Chicago; location=US/IL/Chicago; caliber=semipro
+military US @ 1942/1945
+
+---
+
+#profile Anderson, George Lee [Sparky]
+key Anderson_George_Lee
+birth 1934-02-22 @ US/SD/Bridgewater
+death 2010-11-04 @ US/CA/Thousand Oaks
+describe ; BR TR H69 W164
+sameas ssn:572-42-2094
+highschool Dorsey High School; dates=/1952; degree=graduated
+resides 2001 @ US/CA/Thousand Oaks; address=P. O. Box 6415; zip=91360
+signed 1953-01-30; join=Brooklyn (National); signer=Phillips, Harold
+
+---
+
+#profile Anderson, Herbert Joseph [Herb]
+key Anderson_Herbert_Joseph
+birth 1936-07-15 @ US/WA/Everett
+death 2014-02-04 @ US/FL/Winter Haven
+describe ; BR TL H72 W180
+sameas ssn:536-34-6254
+highschool Everett High School; dates=/1954; degree=graduated
+college Everett Junior College
+resides @ US/WA/Everett; address=2602 Everett Ave.
+
+---
+
+#profile Anderson, James Robert
+key Anderson_James_Robert
+birth 1930 @ US/OK/Manetta
+death 2011-01-31 @ US/FL/Lakeland
+describe ; BR TR
+
+---
+
+#profile Andres, Ernest Henry [Ernie]
+key Andres_Ernest_Henry
+birth 1918-01-11 @ US/IN/Jeffersonville
+death 2008-09-19 @ US/FL/Bradenton
+describe ; BR TR H73 W200
+sameas ssn:406-05-2632
+highschool Jefferson High School; dates=/1935; degree=graduated
+college Indiana University; dates=/1930; degree=graduated
+resides 2003 @ US/FL/Bradenton; address=5714 Garden Lakes Drive; zip=34203
+military US; dates=1942/1945
+
+---
+
+#profile Andrews, Hubert Carl [Hub]
+key Andrews_Hubert_Carl
+alias Andrews, Hubert Henry; type=alias
+alias Andrews, Herbert Carl; type=alias
+birth 1922-08-31 @ US/OK/Burbank
+death 2012-03-11 @ US/OK/Dodge City
+describe ; BR TR H72 W170
+highschool Ponca City High School @ US/OK/Ponca City; degree=graduated
+college Independence College @ US/KS
+resides 2001 @ US/KS/Dodge City; address=2035 2nd Street; zip=67801
+player 1941 Independence (Ban Johnson); location=US/KS/Independence
+military US; dates=1943/1945

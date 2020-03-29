@@ -1,0 +1,157 @@
+#profile Allen, Robert
+key 199105_Allen
+describe ; mlbfirst=1919
+birth 1894-10-13
+
+#profile Blackerby, George Franklin
+key 199105_Blackerby
+describe ; mlbfirst=1928
+birth @ US/OK/Luther
+
+#profile Boyle, John Anthony
+key 199105_Boyle
+describe ; BR; mlbfirst=1886
+
+#profile Brown, Paul Percival
+key 199105_Brown
+describe ; BR TR H71 W172; mlbfirst=1909
+
+#profile Cullenbine, Roy Joseph
+key 199105_Cullenbine
+describe ; mlbfirst=1938
+death 1991-05-28 @ US/MI/Mt. Clemens
+
+#profile Donoso (y Galeta), Lino
+key 199105_Donoso
+describe ; mlbfirst=1955
+death 1990-10-13 @ MX//Veracruz
+
+#profile Flaherty, Martin J.
+key 199105_Flaherty
+describe ; mlbfirst=1881
+birth 1853-09-24
+death 1920-06-10 @ US/RI/Providence
+
+#profile Freeman, Julius Benjamin
+key 199105_Freeman
+describe ; BR; mlbfirst=1888
+
+#profile Gamble, Robert J.
+key 199105_Gamble
+describe ; TR; mlbfirst=1888
+
+#profile Garland, Louis Lyman
+key 199105_Garland
+death @ US/ID/Idaho Falls
+
+#profile Gruber, Henry John
+key 199105_Gruber
+describe ; TR; mlbfirst=1887
+
+#profile Hanson, Harry Francis
+key 199105_Hanson
+birth 1896-01-17 @ US/IL/Elgin
+death 1966-10-05 @ US/GA/Savannah
+
+#profile Hickey, John William
+key 199105_Hickey
+describe ; H70 W170; mlbfirst=1904
+
+#profile Hoover, Charles E.
+key 199105_Hoover
+describe ; BL; mlbfirst=1888
+
+#profile Jones, Kenneth Frederick
+key 199105_Jones_Kenneth
+describe ; mlbfirst=1924
+birth 1903-04-13
+death 1991-05-15 @ US/CT/Hartford
+
+#profile Jones, Sheldon Leslie
+key 199105_Jones_Leslie
+describe ; mlbfirst=1946
+death 1991-04-18 @ US/NC/Greenville
+
+#profile Ketter, Philip
+key 199105_Ketter
+describe ; mlbfirst=1912
+alias Ketterer, Philip; type=legal
+birth 1883-04 @ US/MO
+death 1964-04-09 @ US/MO/St. Louis
+
+#profile LaMaster, Noble Wayne
+key 199105_LaMaster
+describe ; mlbfirst=1937
+
+#profile Leja, Frank John
+key 199105_Leja
+describe ; mlbfirst=1954
+death 1991-05-03 @ US/MA/Boston
+
+#profile Leonard, Andrew Jackson
+key 199105_Leonard
+describe ; mlbfirst=1871
+death @ US/MA/Boston
+
+#profile Mallon, Leslie Clyde
+key 199105_Mallon
+describe ; mlbfirst=1931
+death 1991-04-17 @ US/TX/De Cordova Bend
+
+#profile McGuckin, Joseph W.
+key 199105_McGuckin
+describe ; mlbfirst=1890
+birth 1862-03-13
+
+#profile McVey, George W.
+key 199105_McVey
+describe ; BR TR; mlbfirst=1885
+
+#profile Murphy, Patrick J.
+key 199105_Murphy
+describe ; TR; mlbfirst=1887
+
+#profile Orr, David L.
+key 199105_Orr
+describe ; BR; mlbfirst=1883
+
+#profile Pennock, Herbert Jefferis
+key 199105_Pennock
+describe ; mlbfirst=1912
+birth 1894-02-10
+
+#profile Phebus, Raymond William
+key 199105_Phebus
+describe ; mlbfirst=1936
+
+#profile Price, James L.
+key 199105_Price
+describe ; mlb_managed_first=1884
+death 1931-10-06 @ US/IL/Chicago
+
+#profile Roach, John F.
+key 199105_Roach
+describe ; BR; mlbfirst=1887
+
+#profile Runnels, James Edward
+key 199105_Runnels
+describe ; mlbfirst=1951
+death 1991-05-20 @ US/TX/Pasadena
+
+#profile Sanders, Roy L.
+key 199105_Sanders
+describe ; mlbfirst=1918
+birth 1895-06 @ US/MO
+
+#profile Sommers, Joseph Andrews
+key 199105_Sommers
+describe ; TR; mlbfirst=1887
+
+#profile Visner, Joseph Paul
+key 199105_Visner
+describe ; mlbfirst=1885
+death 1945-06-17 @ US/MN/Fosston
+
+#profile Weaver, Samuel H.
+key 199105_Weaver
+describe ; H70 W175; mlbfirst=1875

@@ -1,0 +1,14 @@
+!citation Tributes.com @ 2019-03-10
+!url https://www.dignitymemorial.com/obituaries/tampa-fl/louis-marcano-8085458
+!file Davis_Hank.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-03-10
+
+#profile Davis, Henry Clark [Hank]
+key 200208_Davis
+birth 1924-02-20 @ US/NC/Greenville 
+death 2002-08-13
+highschool Charles L. Coon HS @ US/NC/Wilson
+college Barton College
+military US Marines @ World War II
+military US Marines @ Korean War
+burial Mount Pleasant Memorial Gardens @ US/SC/Mount Pleasant

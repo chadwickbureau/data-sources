@@ -1,0 +1,22 @@
+!citation Contra Costa Times @ 2014-05-16
+!url http://www.legacy.com/obituaries/contracostatimes/obituary.aspx?n=James-Huff&pid=171035244
+!file Huff_Jim.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-05-14
+
+#profile Huff, James R. [Jim]
+key 201403_Huff
+birth 1950-06-14 @ US/CA/Berkeley
+death 2014-03-28 @ US/CA/Stockton
+highschool Del Valle HS @ US/CA/Walnut Creek
+college University of California, Berkeley
+
+---
+
+!citation Michigan.com @ 2014-03-23
+!url http://deathnotices.michigan.com/view-single.php?id=339270
+!file McCabe_Don.pdf
+!contributor John Hall <j03.john@gmail.com> @ 2014-05-05
+
+#profile McCabe, Donald G. [Don]
+key 201403_McCabe
+death 2014-03-20

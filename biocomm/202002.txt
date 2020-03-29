@@ -1,0 +1,156 @@
+#profile Antonelli, John August
+key 202002_Antonelli
+describe ; mlbfirst=1948
+death 2020-02-28 @ US/NY/Rochester
+
+#profile Aviles (Miranda), Ramon Antonio
+key 202002_Aviles
+describe ; mlbfirst=1977
+death 2020-01-28 @ PR//Manati
+burial Cementerio Municipal Histórico de Vega Baja @ PR//Vega Baja
+
+#profile Beam, Ernest Joseph
+key 202002_Beam
+describe ; mlbfirst=1895
+death 1918-09-12
+
+#profile Bell, Ralph Albert
+key 202002_Bell
+describe ; mlbfirst=1912
+birth 1890-11-16 @ US/IA/Argyle
+
+#profile Blackburn, George W.
+key 202002_Blackburn
+describe ; mlbfirst=1897
+death 1938-12-29 @ US/OK/Oklahoma City
+burial ; note=Body donated to medical school
+
+#profile Brady, William Aloysius
+key 202002_Brady
+describe ; mlbfirst=1912
+burial Calvary Cemetery @ US/NY/Woodside
+
+#profile Cedeno (Encarnacion), Cesar Eugenio
+key 202002_Cedeno
+describe ; mlbfirst=1970
+
+#profile Chervinko, Paul
+key 202002_Chervinko
+describe ; mlbfirst=1937
+burial Santa Barbara Cemetery @ US/IL/Witt
+
+#profile Coan, Gilbert Fitzgerald
+key 202002_Coan
+describe ; mlbfirst=1946
+death 2020-02-04 @ US/NC/Hendersonville
+
+#profile Conde (Roman), Ramon Luis
+key 202002_Conde
+describe ; mlbfirst=1962
+death 2020-02-23 @ US/FL/West Palm Beach
+burial Cementerio Municipal de Juana Diaz, PR//Juana Diaz
+
+#profile Coughlin, Edward E.
+key 202002_Coughlin
+describe ; mlbfirst=1884
+burial Mt. St. Benedict Cemetery @ US/CT/Bloomfield
+
+#profile Echevarria, Angel Santos
+key 202002_Echevarria
+describe ; mlbfirst=1996
+death 2020-02-07 @ US/CT/Bridgeport
+burial St. Michael Cemetery @ US/CT/Stratford
+
+#profile Elvira (Delgado), Narciso Chicho
+key 202002_Elvira
+describe ; mlbfirst=1990
+death 2020-01-28 @ MX/Veracruz/Paso del Toro
+burial Panteon Municipal @ MX/Veracruz/Tlalixcoyan
+
+#profile Fernandez (Castro), Octavio Antonio
+key 202002_Fernandez
+describe ; mlbfirst=1983
+death 2020-02-16 @ US/FL/Weston
+burial Cementerio Municipal @ DO/San Pedro de Macoris/San Pedro de Macoris
+
+#profile Gilroy, John N.
+key 202002_Gilroy
+describe ; mlbfirst=1895
+birth 1875-10-26
+
+#profile Hankins, Jay Nelson
+key 202002_Hankins
+describe ; mlbfirst=1961
+death 2020-01-20 @ US/MO/Kansas City
+burial Green Lawn Cemetery @ US/MO/Kansas City
+
+#profile Hasenmayer, Donald Irvin
+key 202002_Hasenmayer
+describe ; mlbfirst=1945
+death 2020-01-28 @ US/PA/Warrington
+burial Forest Hills Cemetery @ US/PA/Philadelphia
+
+#profile Hinds, Samuel Russell
+key 202002_Hinds
+describe ; mlbfirst=1977
+death 2019-09-19 @ US/CA/Hanford
+
+#profile Holmes, Howard Elbert
+key 202002_Holmes
+describe ; mlbfirst=1906
+burial Calvary Cemetery @ US/OH/Dayton
+
+#profile Lehan, James Francis
+key 202002_Lehan
+describe ; mlbfirst=1884
+death 1946-07-16
+
+#profile Manning, James Benjamin
+key 202002_Manning
+describe ; mlbfirst=1962
+death 2020-01-01 @ US/NC/Asheville
+
+#profile McManus, Francis Edward
+key 202002_McManus
+describe ; BR H70 W180; mlbfirst=1899
+birth 1874-09-23
+
+#profile Meyer, Lee
+key 202002_Meyer
+describe ; BL; mlbfirst=1909
+
+#profile Monroe, Frank C.
+key 202002_Monroe
+describe ; mlbfirst=1884
+
+#profile Newcombe, Donald
+key 202002_Newcombe
+describe ; mlbfirst=1949
+burial Los Angeles National Cemetery @ US/CA/Los Angeles
+
+#profile O'Neil, Michael
+key 202002_ONeil
+describe ; mlbfirst=1874
+birth @ US/NY/Hudson
+burial Mt. St. Benedict Cemetery @ US/CT/Bloomfield
+
+#profile Scott, Richard Lewis
+key 202002_Scott
+describe ; mlbfirst=1963
+death 2020-02-10 @ US/GA/Carrollton
+
+#profile Smith, Harold Wayne
+key 202002_Smith
+describe ; mlbfirst=1955
+death 2020-01-09 @ US/TX/Columbus
+
+#profile Sprague, Edward Nelson, Sr.
+key 202002_Sprague
+describe ; mlbfirst=1968
+death 2020-01-10 @ US/CA/Lodi
+
+#profile Yankowski, George Edward
+key 202002_Yankowski
+describe ; mlbfirst=1942
+death 2020-02-25 @ US/FL/The Villages
+

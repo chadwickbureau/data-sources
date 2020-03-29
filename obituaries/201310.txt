@@ -1,0 +1,102 @@
+!citation  Doan & Mills Funeral Home @ 2019-12-12
+!url https://www.doanmillsfuneralhome.com/obituaries/Duane-Markley/#!/Obituary
+!file Markley_Duane.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-12-12
+
+#profile Markley, Duane
+key 201310_Markey
+birth 1929-05-01 @ US/IN/Richmond
+death 2013-10-11 @ US/IN/Richmond
+highschool Richmond HS @ US/IN/Richmond
+military US Navy @ Korean War
+
+---
+
+!citation Charleston Post & Courier @ 2013-10-27
+!url https://www.legacy.com/obituaries/charleston/obituary.aspx?n=David-Nolan&pid=167709737
+!file Nolan_David.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-12-12
+
+#profile Nolan, David Pinckney, III
+key 201310_Nolan
+birth 1915-06-02 @ US/GA/Savannah
+death 2013-10-25
+burial Live Oak Memorial Gardens @ US/SC/Charleston
+
+---
+
+!citation Toronto Star  @ 2019-12-12
+!url https://www.legacy.com/obituaries/thestar/obituary.aspx?n=alex-stremecki&pid=167768721&fhid=2881&eid=sp_ommatch&eid=sp_ommatch
+!file Stremecki_Alex.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-12-12
+
+#profile Stremecki, Alex
+key 201310_Stremecki
+death 2013-10-26
+
+---
+
+!citation Obits.Nola.com @ 2019-12-12
+!url https://obits.nola.com/obituaries/nola/obituary.aspx?n=henry-isadore-dirmann-puppy&pid=167803030&fhid=20653
+!file Dirmann_Henry.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-12-12
+
+#profile Dirmann, Henry Isadore, Jr. "Puppy"
+key 201310_Dirmann
+death 2013-10-30
+highschool Holy Cross School @ US/LA/New Orleans
+burial St. Bernard Memorial Gardens @ US/LA/Chalmette
+
+---
+
+!citation Mulhearn Funeral Homes @ 2019-12-13
+!url https://www.mulhearnfuneralhome.com/obituaries/Charles-Harry-Foster?obId=1050456#/celebrationWall
+!file Foster_Harry.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-12-13
+
+#profile Foster, Charles Harry
+key 201310_Foster
+birth 1927-07-01
+death 2013-10-30 @ US/LA/Downsville
+burial Mount Ararat Cemetery @ US/LA/Point
+
+---
+
+!citation Times Leader @ 2013-01-04
+!url http://www.legacy.com/obituaries/timesleader/obituary.aspx?n=michael-stelma-cactus&pid=167331502&fhid=22983
+!file Stelma_Mike.pdf
+!contributor John Hall <j03.john@gmail.com> @ 2013-12-10
+
+#profile Stelma, Michael [Mike] "Cactus"
+key 201310_Stelma
+birth  @ US/PA/Swoyersville
+death 2013-10-03 @ US/PA/Larksville
+highschool Swoyersville HS @ US/PA/Swoyersville
+military US Army @ World War II
+burial St. Mary's Cemetery @ US/PA/Swoyersville
+
+---
+
+!citation Houston Chronicle @ 2013-10-16
+!url http://www.legacy.com/obituaries/houstonchronicle/obituary.aspx?n=paul-perrin&pid=167555136
+!file Perrin_Paul.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2013-12-14
+
+#profile Perrin, Paul S.
+key 201310_Perrin
+birth 1925
+death 2013-10-14 @ US/OK/Tulsa
+highschool Wetumka HS @ US/OK/Wetumka
+military US Army @ World War II
+burial Wetumka Cemetery @ US/OK/Wetumka
+
+---
+
+!citation Consuelocity.com @ 2013-10-17
+!url http://www.consuelocity.com/noticias.aspx?index=2f7fb48f-9f65-472a-a3c4-1899b6cb2c5b
+!file Robles_Julio.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2013-12-14
+
+#profile Robles, Julio
+key 201310_Robles
+death 2013-10 @ US/MA/Boston

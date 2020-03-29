@@ -1,0 +1,9 @@
+!citation Corsicana Daily Sun @ 1956-04-23
+!file Edmondson_Roger.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-03-12
+
+#profile Edmondson, Roger
+key 195604_Edmondson
+death 1956-04-22 @ US/TX/Waxahachie
+college Trinity University @ US/TX/San Antonio
+burial Bethel Cemetery @ US/TX/Maypearl

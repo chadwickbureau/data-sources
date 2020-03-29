@@ -1,0 +1,164 @@
+!citation capitalesdequebec.com @ 2019-07-26
+!url https://capitalesdequebec.com/fr/equipe/alignement/francis-desilets
+!file Desilets_Francis.pdf
+
+#profile Desilets, Francis
+key 201907_001
+birth 1996-06-06
+player 2019 Quebec (Canadian-American Assocation); BL TR H74 W180 
+
+---
+
+!citation capitalesdequebec.com @ 2019-07-26
+!url https://capitalesdequebec.com/fr/equipe/alignement/jesse-hodges
+!file Hodges_Jesse.pdf
+
+#profile Hodges, Jesse
+key 201907_002
+birth 1994-03-29
+player 2019 Quebec (Canadian-American Assocation); BR TR H73 W212
+
+---
+
+!citation empireproleague.com @ 2019-07-26
+!url http://empireproleague.com/player/scott-hall/
+!file Hall_Scott.pdf
+
+#profile Hall, Scott
+key 201907_003
+birth 1994-05-31
+college Gordon College
+player 2019 Road City (Empire); BR TR H78 W225
+player 2019 Empire League (Canadian-American Assocation)
+player 2018 Plattsburgh (Empire)
+player 2017 Plattsburgh (Empire)
+
+---
+
+!citation empireproleague.com @ 2019-07-26
+!url http://empireproleague.com/player/danny-muller/
+!file Muller_Danny.pdf
+
+#profile Muller, Danny
+key 201907_004
+birth 1990-10-28
+college Queens College
+player 2019 Plattsburgh (Empire); BR TR H70 W195
+player 2019 Empire League (Canadian-American Assocation)
+
+---
+
+!citation empireproleague.com @ 2019-07-26
+!url http://empireproleague.com/player/johann-paniagua/
+!file Paniagua_Johann.pdf
+
+#profile Paniagua, Johann
+key 201907_005
+birth 1996-05-29
+college Keystone College
+player 2019 Plattsburgh (Empire); BR TR H74 W186
+player 2019 Empire League (Canadian-American Assocation)
+
+---
+
+!citation capitalesdequebec.com @ 2019-07-26
+!url https://capitalesdequebec.com/fr/equipe/alignement/vincent-ruel
+!file Ruel_Vincent.pdf
+
+#profile Ruel, Vincent
+key 201907_006
+birth 1997-08-27
+player 2019 Quebec (Canadian-American Assocation); BR TL H71 W171
+
+---
+
+!citation southernillinoisminers.com @ 2019-07-26
+!url https://southernillinoisminers.com/sports/bsb/2015-16/bios/schildt_c.j._ior5?view=bio
+!file Schildt_CJ.pdf
+
+#profile Schildt, C. J.
+key 201907_007
+birth 1994-09-20
+player 2019 Southern Illinois (Fronter); BL TL H72 W200
+college Molloy
+college Bowling Green
+college Kaskaskia CC @ US/IL
+college Stony Brook
+
+---
+
+!citation empireproleague.com @ 2019-07-26
+!url http://empireproleague.com/player/anthony-shkrelja/
+!file Shkrelja_Anthony.pdf
+
+#profile Shkrelja, Anthony
+key 201907_008
+birth 1995-08-18
+college St. Thomas Aquinas
+player 2019 New Hampshire (Empire); BR TR H73 W205
+player 2019 Empire League (Canadian-American Assocation)
+player 2018 New Hampshire (Empire)
+
+---
+
+!citation empireproleague.com @ 2019-07-26
+!url http://empireproleague.com/player/mark-shkrelja/
+!file Shkrelja_Mark.pdf
+
+#profile Shkrelja, Mark
+key 201907_009
+birth 1995-08-18
+college St. Thomas Aquinas
+player 2019 New Hampshire (Empire); BR TR H73 W200
+player 2019 Empire League (Canadian-American Assocation)
+player 2018 New Hampshire (Empire)
+
+---
+
+!citation empireproleague.com @ 2019-07-26
+!url http://empireproleague.com/player/john-tierney-jr/
+!file Tierney_John.pdf
+
+#profile Tierney, John, Jr.
+key 201907_010
+birth 1996-02-23
+college Centenary University
+player 2019 New York (Empire); BL TR H73 W185
+player 2018 Saranac Lake (Empire)
+
+---
+
+!citation ottawachampions.com @ 2019-07-26
+!url http://ottawachampions.com/en/team/roster/matt-valin
+!file Valin_Matt.pdf
+
+#profile Valin, Matt
+key 201907_011
+birth 1997-07-07
+player 2019 Ottawa (Canadian-American Assocation); BL TL H74 W200
+
+---
+
+!citation empireproleague.com @ 2019-07-26
+!url http://empireproleague.com/player/sean-washington/
+!file Washington_Sean.pdf
+
+#profile Washington, Sean
+key 201907_012
+birth 1992-03-15
+player 2019 New Hampshire (Empire); BR TR H70 W205
+player 2019 Empire League (Canadian-American Assocation)
+player 2018 New Hampshire (Empire)
+player 2016 Saranac Lake (Empire)
+
+---
+
+!citation wascotrib.com @ 2019-07-29
+!url https://www.wascotrib.com/home/cms_data/dfault/photos/stories/id/8/6/486/1140665.pdf#page=2
+!file Martinez_Scott.pdf
+
+#profile Martinez, Scott
+key 201907_013
+player 2019 Wasco (Pecos)
+birth @ US/NV/Las Vegas
+college Colorado-Colorado Springs

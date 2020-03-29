@@ -1,0 +1,920 @@
+!citation Paul C. Rogers Funeral Home @ 2019-10-07
+!url https://www.paulcrogers.com/obitdesigns/flag2.php?id=2954
+!file Dichard_Al.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-07
+
+#profile Dichard, Alfred Joseph [Al]
+key 201910_Dichard
+birth 1934-08-23 @ US/MA/Haverhill
+death 2019-10-02 @ US/MA/Merrimac
+military US Army
+burial Locust Grove Cemetery @ US/MA/Merrimac
+
+---
+
+!citation Kurrus Funeral Home @ 2019-10-07
+!url https://kurrusfh.com/obituaries/thomas-soucy-tiernan-sr/
+!file Tiernan_Tom.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-07
+
+#profile Tiernan, Thomas Soucy, Sr. [Tom]
+key 201910_Tiernan
+birth 1928-08-24 @ US/IL/East St. Louis
+death 2019-10-02
+highschool East St. Louis HS @ US/IL/East St. Louis
+military US Army @ Korean War
+burial Mount Carmel Cemetery @ US/IL/Belleville
+
+---
+
+!citation Dykstra Funeral Home @ 2019-10-07
+!url https://dykstrafuneralhome.com/obituaries/leland-gene-curtiss.128911
+!file Curtiss_Gene.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-07
+
+#profile Curtiss, Leland Eugene [Gene]
+key 201910_Curtiss
+birth 1936-05-13 @ US/MI/Mount Pleasant
+death 2019-10-02 @ US/MI/Holland
+highschool Traverse City HS @ US/MI/Traverse City
+military US Army @ Korean War
+burial Port Sheldon Township Cemetery @ US/MI/Port Sheldon
+
+---
+
+!citation Legacy.com @ 2019-10-07
+!url https://www.legacy.com/obituaries/northjersey/obituary.aspx?n=william-m-kay&pid=194084352&fhid=17136
+!file Kay_William.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-07
+
+#profile Kay, William M.
+key 201910_Kay
+birth @ US/NJ/Bergenfield
+death 2019-10-02
+college Fordham University
+military US Army @ World War II
+burial Brigadier General William C. Doyle Cemetery @ US/NJ/Arneytown
+
+---
+
+!citation Heritage Funeral Home @ 2019-10-07
+!url https://www.heritagebattlefield.com/tributes/Pete-Summers
+!file Summers_Pete.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-07
+
+#profile Summers, Pete
+key 201910_Summers
+birth 1952-12-31
+death 2019-10-02
+highschool Rossville HS @ US/GA/Rossville
+college Shorter College
+
+---
+
+!citation Pugh Funeral Home @ 2019-10-07
+!url https://pughfh.com/tribute/details/13122/Larry-Bulla/obituary.html
+!file Bulla_Larry.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-07
+
+#profile Bulla, Larry Lloyd
+key 201910_Bulla
+birth 1937 @ US/NC/Asheboro
+death 2019-10-04 @ US/NC/Asheboro
+highschool Asheboro HS @ US/NC/Asheboro
+college Elon University
+military US Army
+burial Randolph Memorial Park @ US/NC/Asheboro
+
+---
+
+!citation Japan Times @ 2019-10-06
+!url https://www.japantimes.co.jp/sports/2019/10/06/baseball/japanese-baseball/japans-time-wins-leader-masaichi-kaneda-dies-86/#.XZujbkZKhPY
+!file Kaneda_Masaichi.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-07
+
+#profile Kaneda, Masaichi
+key 201910_Kaneda
+death 2019-10-06 @ JP//Tokyo
+
+---
+
+!citation Baltimore Sun @ 2019-10-07
+!url https://www.baltimoresun.com/sports/orioles/bs-sp-etchebarren-obit-20191006-oej5d32drnbnxew7zhxdjl2an4-story.html
+!file Etchebarren_Andy.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-07
+
+#profile Etchebarren, Andy
+key 201910_Etchebarren
+death 2019-10-06
+
+---
+
+!citation Pittsburgh Post-Gazette @ 2019-10-08
+!url https://www.legacy.com/obituaries/postgazette/obituary.aspx?n=dean-joseph-moriarity-buzz&pid=194100511
+!file Moriarity_Buzz.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-09
+
+#profile Moriarity, Dean Joseph "Buzz"
+key 201910_Moriarity
+death 2019-10-05
+military US Army
+burial St. Mary of the Assumption Cemetery @ US/PA/Glenshaw
+
+---
+
+!citation Riverside Memorial Chapel @ 2019-10-09
+!url https://www.dignitymemorial.com/obituaries/new-york-ny/robert-tufts-8880002
+!file Tufts_Bob.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-09
+
+#profile Tufts, Robert Malcolm [Bob]
+key 201910_Tufts
+birth 1955-11-02 @ US/MA/Medford
+death 2019-10-04
+highschool Lynnfield HS @ US/MA/Lynnfield
+college Princeton University
+burial Beth Israel Cemetery @ US/NJ/Woodbridge Township
+
+---
+
+!citation Ridout's Valley Chapel @ 2019-10-09
+!url https://www.dignitymemorial.com/obituaries/homewood-al/george-bill-ash-8883952
+!file Ash_Bill.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-09
+
+#profile Ash, George William [Bill]
+key 201910_Ash
+birth 1929-12-25
+death 2019-10-07
+college Samford University
+military US Navy
+burial Elmwood Cemetery @ US/AL/Birmingham
+
+---
+
+!citation San Luis Obispo County Tribune @ 2019-10-09
+!url https://www.legacy.com/obituaries/sanluisobispo/obituary.aspx?n=jack-lee-landis&pid=194112157&fhid=20254
+!file Landis_Jack.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-09
+
+#profile Landis, Jack Lee
+key 201910_Landis
+birth 1930-01-13 @ US/IL/Macomb
+death 2019-10-05
+highschool Western HS @ US/IL/Macomb
+college Western Illinois University
+
+---
+
+!citation Marshfield News Herald @ 2019-10-11
+!url https://www.legacy.com/obituaries/marshfieldnewsherald/obituary.aspx?n=leonard-e-vandehey&pid=194118762&fhid=7574
+!file VanDeHey_Len.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-11
+
+#profile VanDeHey, Leonard E. [Len]
+key 201910_VanDeHey
+birth 1932-04-01 @ US/MI/Iron Mountain
+death 2019-10-04 @ US/OH/Ashtabula
+highschool Loyal HS @ US/WI/Loyal
+military US Army @ Korean War
+
+---
+
+!citation Lanford Gwinn Mortuary @ 2019-10-11
+!url https://www.lanfordgwinn.com/notices/Samuel-Taylor
+!file Taylor_Sammy.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-11
+
+#profile Taylor, Samuel Douglas [Sammy]
+key 201910_Taylor_Sammy
+birth 1933-02-27
+death 2019-10-08 @ US/SC/Woodruff
+highschool Woodruff HS @ US/SC/Woodruff
+military US Navy @ Korean War
+burial Chattanooga National Cemetery @ US/TN/Chattanooga
+
+---
+
+!citation Times-Picayune  @ 2019-10-11
+!url https://obits.nola.com/obituaries/nola/obituary.aspx?n=dominic-a-lanasa-mickey&pid=194118356
+!file LaNasa_Mickey.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-11
+
+#profile LaNasa, Dominic Alfred, Sr. [Mickey]
+key 201910_LaNasa
+birth 1936-04-18 @ US/LA/New Orleans
+death 2019-10-05
+highschool Jesuit HS @ US/LA/New Orleans
+
+---
+
+!citation John J. Lopatich Funeral Home @ 2019-10-11
+!url https://www.lopatich.com/obituary/john-nemchik
+!file Nemchik_John.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-11
+
+#profile Nemchik, John R.
+key 201910_Nemchik
+birth 1935-06-05 @ US/PA/Salemville
+death 2019-10-08 @ US/PA/Latrobe
+burial Calvary Hill Cemetery @ US/PA/Crabtree
+
+---
+
+!citation Michalik Funeral Home @ 2019-10-13
+!url https://www.michalikfuneralhome.com/obituary/james-marr
+!file Marr_Jim.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-13
+
+#profile Marr, James [Jim]
+key 201910_Marr
+death 2019-10-08
+burial Queen of Heaven Catholic Cemetery @ US/IL/Hillside
+
+---
+
+!citation Woodbridge Funeral Home @ 2019-10-14
+!url https://woodridgefuneralhome.com/tribute/details/23178/Francis-Taylor-Sr/obituary.html#content-start
+!file Taylor_Boogie.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-14
+
+#profile Taylor, Francis Alvin, Sr. "Boogie"
+key 201910_Taylor_Francis
+birth 1934-05-03 @ US/SC/Columbia
+death 2019-10-11
+military US Army
+burial Woodbridge Memorial Park @ US/SC/Lexington
+
+---
+
+!citation Betz, Rossi, Bellinger & Stewart Funeral Home @ 2019-10-14
+!url https://brbsfuneral.com/tribute/details/150518/Gabriel-Agosta/obituary.html
+!file Agosta_Gabe.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-14
+
+#profile Agosta, Gabriel A. [Gabe]
+key 201910_Agosta
+birth 1936-03-16 @ US/NY/Amsterdam
+death 2019-10-07 @ US/NY/Amsterdam
+highschool Wilbur H. Lynch HS @ US/NY/Amsterdam
+military US Army @ Vietnam War
+
+---
+
+!citation Funeral Alternatives of Washington @ 2019-10-14
+!url https://funeralalternatives.org/tribute/details/150413/Richard-Sovde/obituary.html
+!file Sovde_Dick.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-14
+
+#profile Sovde, Richard [Dick]
+key 201910_Sovde
+birth 1935-03 @ US/CA/Burbank
+death 2019-10-01
+college Occidental College
+
+---
+
+!citation Jeffries & Keates Funeral Home @ 2019-10-14
+!url http://hosting-21281.tributes.com/obituary/show/Rusty-E.-Cain-107625018
+!file Cain_Rusty.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-14
+
+#profile Cain, Rusty E., Jr.
+key 201910_Cain
+birth @ US/PA/Philadelphia
+death 2019-10-09
+
+---
+
+!citation Bohn Funeral Home @ 2019-10-14
+!url https://www.bohnfuneralhome.com/notices/Charles-BuckwheatSecrest
+!file Secrest_Charles.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-14
+
+#profile Secrest, Charles J. "Buckwheat"
+key 201910_Secrest
+birth 1935-01-09 @ US/PA/Mount Union
+death 2019-10-10
+highschool Captain Jack Joint HS @ US/PA/Mount Union
+
+---
+
+!citation McAndrew Funeral Home @ 2019-10-14
+!url https://www.mcandrewfuneralhomes.net/obituary/robert-radley
+!file Radley_Bob.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-14
+
+#profile Radley, Robert E. [Bob]
+key 201910_Radley
+birth 1931-01-29 @ US/NY/Batavia
+death 2019-10-06 @ US/NY/Buffalo
+highschool Batavia HS @ US/NY/Batavia
+burial St. Joseph Cemetery @ US/NY/Batavia
+
+---
+
+!citation Walters Funeral Home @ 2019-10-15
+!url https://www.waltersfh.com/notices/Billy-BarrettSr
+!file Barrett_Billy.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-15
+
+#profile Barrett, Billy Joe, Sr.
+key 201910_Barrett
+birth 1926-04-21 @ US/NC/Paw Creek
+death 2019-10-13 @ US/LA/Lafayette
+highschool Paw Creek HS @ US/NC/Paw Creek
+military US Navy
+burial Greenlawn Memorial Park @ US/LA/Lafayette
+
+---
+
+!citation DeBor Funeral Home @ 2019-10-16
+!url https://www.deborfuneralhome.com/notices/Robert-DelGreco
+!file Del_Greco_Bobby.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-16
+
+#profile Del Greco, Robert G.
+key 201910_DelGreco
+birth 1933-04-07
+death 2019-10-13
+burial Queen of Heaven Catholic Cemetery @ US/PA/McMurray
+
+---
+
+!citation TribLive.com @ 2019-10-16
+!url https://triblive.com/sports/ex-pirates-ss-jackie-hernandez-member-of-1971-world-series-champs-dies/
+!file Hernandez_Jackie.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-16
+
+#profile Hernandez, Jackie
+key 201910_Hernandez
+birth @ CU//Central Tinguaro
+death 2019-10-12 @ US/FL/Miami
+
+---
+
+!citation Lowell Sun @ 2019-10-17
+!url https://www.legacy.com/obituaries/lowellsun/obituary.aspx?n=charles-c-chronopoulos&pid=194186678&fhid=2434
+!file Chronopoulos_Charlie.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-20
+
+#profile Chronopoulos, Charles C. [Charlie]
+key 201910_Chronopoulos
+birth 1932-08-01 @ US/MA/Boston
+death 2019-10-12 @ US/FL/Brooksville
+military US Marines @ Korean War
+burial New Hampshire State Veterans Cemetery @ US/NH/Boscawen
+
+---
+
+!citation KenoshaNews.com @ 2019-10-18
+!url https://www.legacy.com/obituaries/kenoshanews/obituary.aspx?n=thomas-barndollar&pid=194187988
+!file Barndollar_Tom.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-20
+
+#profile Barndollar, Thomas [Tom]
+key 201910_Barndollar
+birth 1938-11-24 @ US/WI/Kenosha
+death 2019-10-05 @ US/FL/Winter Haven
+
+---
+
+!citation Bailey Funeral Home @ 2019-10-20
+!url https://www.baileyfuneralhome.net/obituaries/Wayne-Thrash/#!/Obituary
+!file Thrash_Wayne.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-20
+
+#profile Thrash, Wayne
+key 201910_Thrash
+birth 1933-01-11 @ US/LA/Jamestown
+death 2019-10-16
+highschool Jamestown HS @ US/LA/Jamestown
+college Centenary College of Louisiana
+burial Cotton Valley Cemetery @ US/LA/Cotton Valley
+
+---
+
+!citation Morgan Memorial Home @ 2019-10-20
+!url https://www.morganmemorialhome.com/obituary/r-bruce-carroll/
+!file Carroll_Bruce.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-20
+
+#profile Carroll, R. Bruce
+key 201910_Carroll
+birth 1927-04-12 @ US/IL/Garrett Township
+death 2019-10-14 @ US/IL/Urbana
+highschool Atwood Township HS @ US/IL/Atwood
+military US Navy
+
+---
+
+!citation Kraeer Funeral Home @ 2019-10-20
+!url https://www.dignitymemorial.com/obituaries/margate-fl/william-brown-8892852
+!file Brown_Bill.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-20
+
+#profile Brown, William Joseph [Bill]
+key 201910_Brown
+birth 1931-11-15 @ US/PA/Uniontown
+death 2019-10-17
+military US Army @ Korean War
+burial Our Lady Queen of Heaven Cemetery @ US/FL/Fort Lauderdale
+
+---
+
+!citation Greco-Hertnick Funeral Home @ 2019-10-20
+!url https://www.grecohertnick.com/obituaries/Robert-S-Cowden?obId=8263743#/obituaryInfo
+!file Cowden_Bob.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-20
+
+#profile Cowden, Robert S. [Bob]
+key 201910_Cowden
+birth 1933-12-17 @ US/PA/Burgettstown
+death 2019-10-19 @ US/WV/Weirton
+highschool Union HS @ US/PA/Burgettstown
+military US Army
+burial Grandview Cemetery @ US/PA/Florence
+
+---
+
+!citation Meredith Funeral Home @ 2019-10-20
+!url https://meredithfuneralhome.com/obituaries/frank-h-the-weed-marten.129052
+!file Marten_Frank.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-20
+
+#profile Marten, Frank Henry "The Weed"
+key 201910_Marten
+birth 1929-07-25 @ US/WI/Racine
+death 2019-10-08 @ US/WI/Racine
+burial West Lawn Memorial Park @ US/WI/Racine
+
+---
+
+!citation Langeland Family Funeral Home @ 2019-10-20
+!url https://www.langelands.com/notices/Alan-Lincoln
+!file Lincoln_Al.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-20
+
+#profile Lincoln, Alan Robert [Al]
+key 201910_Lincoln
+birth 1928-08-07 @ US/MI/Kalamazoo
+death 2019-10-15
+highschool Kalamazoo Central HS @ US/MI/Kalamazoo
+military US Marines @ Korean War
+burial Mount Ever-Rest Memorial Park South @ US/MI/Kalamazoo
+
+---
+
+!citation Short Funeral Home @ 2019-10-22
+!url https://www.shortfh.com/obituaries/Joseph-Pfister-2/#!/Obituary
+!file Pfister_Joe.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-22
+
+#profile Pfister, Joseph J. [Joe]
+key 201910_Pfister
+birth 1933-01-11 @ US/DE/Lewes
+death 2019-10-19
+military US Air Force
+
+---
+
+!citation Daily Progress @ 2019-10-22
+!url https://www.dailyprogress.com/obituaries/kite-james-jim-p/article_dad10b69-6ffb-50af-8359-e45951a6fbec.html
+!file Kite_Jim.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-22
+
+#profile Kite, James P. [Jim]
+key 201910_Kite
+birth 1931-07-12
+death 2019-10-20
+highschool Fork Union Military Academy @ US/VA/Fork Union
+military US Army
+
+---
+
+!citation Dudley Hoffman Funeral Home @ 2019-10-23
+!url https://www.dudleyhoffmanmortuary.com/obituaries/Rod-Rodenberger?obId=8325770#/celebrationWall
+!file Rodenberger_Rod.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-23
+
+#profile Rodenberger, Rod
+key 201910_Rodenberger
+birth 1929-01-17 @ US/CA/San Francisco 
+death 2019-10-18
+highschool Balboa HS @ US/CA/San Francisco
+military US Army @ Korean War
+
+---
+
+!citation Iles Funeral Home @ 2019-10-24
+!url https://www.ilesfuneralhomes.com/obituary/Eric-Cooper/Tampa-Florida/1860432
+!file Cooper_Eric.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-24
+
+#profile Cooper, Eric
+key 201910_Cooper
+birth 1966-12-18 @ US/IA/Des Moines
+death 2019-10-20
+highschool Hoover HS @ US/IA/Des Moines
+college Iowa State University
+
+---
+
+!citation Derfelt Funeral Home @ 2019-10-24
+!url https://www.derfeltfuneralhomes.com/obituaries/Wylie-Crawford-Pitts?obId=8286506#/obituaryInfo
+!file Pitts_Wylie.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-24
+
+#profile Pitts, Wylie Crawford
+key 201910_Pitts
+birth 1952-03-14 @ US/KS/Baxter Springs
+death 2019-10-18 @ US/MO/Joplin
+highschool Baxter Springs HS @ US/KS/Baxter Springs
+college Northeastern Oklahoma A&M College
+military US Air Force @ Korean War
+burial Quaker Valley Cemetery @ US/KS/Riverton
+
+---
+
+!citation Fischer Family Funeral Services @ 2019-10-25
+!url https://www.fischerfuneral.com/obituaries/Paul-Oakes-2/#!/Obituary
+!file Oakes_Paul.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-25
+
+#profile Oakes, Paul R.
+key 201910_Oakes
+birth 1929-08-12 @ US/IN/Anderson
+death 2019-10-07
+military US Army @ Korean War
+
+---
+
+!citation John P. Donohue @ 2019-10-25
+!url http://www.obits.org/memorials/6774-joseph-anthony-singley/life_story
+!file Singley_Joe.docx
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-25
+
+#profile Singley, Joseph Anthony [Joe]
+key 201910_Singley
+birth 1963-12-20 @ US/PA/Philadelphia
+death 2019-10-23 @ US/DE/Wilmington
+burial Lawn Croft Cemetery @ US/PA/Linwood
+
+---
+
+!citation Snyder Funeral Home @ 2019-10-27
+!url https://www.snyderfuneralhome.com/obituary/robert-l-nonnenmocher/
+!file Nonnenmocher_Bob.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-27
+
+#profile Nonnenmocher, Robert L. [Bob]
+key 201910_Nonnenmocher
+birth 1937-02-17
+death 2019-10-24
+highschool McCaskey HS @ US/PA/Lancaster
+military US Army
+burial Ruhls United Methodist Church Cemetery @ US/PA/Manheim
+
+---
+
+!citation ESPN.com @ 2019-10-27
+!url https://www.espn.com/mlb/story/_/id/27935459/former-major-league-umpire-chuck-meriwether-dies-63
+!file Meriwether_Chuck.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-27
+
+#profile Meriwether, Chuck
+key 201910_Meriwether
+death 2019-10-26 @ US/TN/Nashville
+
+---
+
+!citation The Island Funeral Home @ 2019-10-27
+!url https://theislandfuneralhome.com/tribute/details/154342/James-Bird/obituary.html#tribute-start
+!file Bird_Bill.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-27
+
+#profile Bird, James William [Bill]
+key 201910_Bird
+birth 1928-09-21 @ US/VA/Fredericksburg 
+death 2019-10-22
+college Davidson College
+
+---
+
+!citation The Gazette @ 2019-10-27
+!url https://obits.gazette.com/obituaries/gazette/obituary.aspx?n=wilfred-george-perkins&pid=194269480
+!file Perkins_Will.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-27
+
+#profile Perkins, Wilfred George [Will]
+key 201910_Perkins
+birth 1928-08-22 @ US/CO/Montrose
+death 2019-10-19
+highschool Colorado Springs HS @ US/CO/Colorado Springs 
+college Colorado College
+
+---
+
+!citation Poughkeepsie Journal @ 2019-10-27
+!url https://www.legacy.com/obituaries/poughkeepsiejournal/obituary.aspx?n=al-maggiacomo&pid=194270910&fhid=29053
+!file Maggiacomo_Al.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-27
+
+#profile Maggiacomo, Al
+key 201910_Maggiacomo_1
+death 2019-10-13 @ US/FL/Naples
+military US Air Force
+
+---
+
+!citation Legacy Options Funeral Home @ 2019-10-27
+!url https://memorials.legacyoptions.com/alfred-maggiacomo/3994485/index.php
+!file Maggiacomo_Al_2.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-27
+
+#profile Maggiacomo, Alfred John
+key 201910_Maggiacomo_2
+birth 1929-06-23
+death 2019-10-13
+
+---
+
+!citation Tillman Funeral Home @ 2019-10-27
+!url https://www.tillmanfuneralhome.com/obituary/louis-puma
+!file Puma_Lou.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-27
+
+#profile Puma, Louis J. [Lou]
+key 201910_Puma
+birth 1935-11-05 @ US/NJ/Newark
+death 2019-10-18
+highschool Barringer HS @ US/NJ/Newark 
+college Seton Hall University
+
+---
+
+!citation Roupp Funeral Home @ 2019-10-27
+!url https://www.rouppfuneralhome.com/notices/CharlesSkeet-Reidell
+!file Reidell_Skeet.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-27
+
+#profile Reidell, Charles W. [Skeet]
+key 201910_Reidell
+birth 1939-01-25 @ US/PA/Mifflinburg
+death 2019-10-23 @ US/PA/Mifflinburg
+highschool Mifflinburg HS @ US/PA/Mifflinburg
+burial Mifflinburg Cemetery @ US/PA/Mifflinburg
+
+---
+
+!citation Powles Station Funeral Home @ 2019-10-29
+!url http://www.powlesfuneralhome.com/obituary/Byron-Jack-Clay-Taylor/Rockwell-North-Carolina/1860885
+!file Taylor_Jack.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-29
+
+#profile Taylor, Byron Clay [Jack]
+key 201910_Taylor
+birth 1927-10-07
+death 2019-10-26
+highschool Oak Ridge Military Academy @ US/NC/Oak Ridge
+college Catawba College
+military US Army @ Korean War
+burial Ursinus United Church of Christ Cemetery @ US/NC/Rockwell
+
+---
+
+!citation Seattle Times @ 2019-10-28
+!url https://www.seattletimes.com/sports/uw-soccer-teams-pick-up-pac-12-road-wins/
+!file Snyder_Gary.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-29
+
+#profile Snyder, Gary
+key 201910_Snyder_1
+birth 1939
+death 2019-10-24
+highschool Queen Anne HS @ US/WA/Seattle
+college University of Washington
+
+---
+
+!citation Tennessean @ 2019-10-29
+!url https://obits.tennessean.com/obituaries/tennessean/obituary.aspx?n=julius-edward-meriwether&pid=194294922&fhid=14238#_ga=2.135204529.1046183394.1572355314-1850536735.1561646313
+!file Meriwether_Chuck_2.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-11-02
+
+#profile Meriwether, Julius Edward, Jr. [Chuck]
+key 201910_Meriwether_2
+birth 1956-06-30 @ US/TN/Nashville
+death 2019-10-26
+highschool Father Ryan HS @ US/TN/Nashville
+college Martin Methodist College
+college Athens State University
+burial Greenwood North Cemetery @ US/TN/Goodlettsville
+
+---
+
+!citation Herman H. Lohmeyer Funeral Home @ 2019-11-02
+!url https://www.hhlohmeyer.com/memorials/bernard-parrish/3698010/index.php
+!file Parrish_Bernie.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-11-02
+
+#profile Parrish, Bernard Paul, Sr. [Bernie]
+key 201910_Parrish
+birth 1936-04-29 @ US/CA/Long Beach
+death 2019-10-23 @ US/MO/Springfield
+highschool PK Yonge HS @ US/FL/Gainesville
+college University of Florida
+burial Resurrection Cemetery @ US/MO/Springfield
+
+---
+
+!citation Heritage Gardens Funeral Home @ 2019-11-02
+!url https://www.heritagegardensfuneralhome.com/notices/William-Colgan
+!file Colgan_Bill.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-11-02
+
+#profile Colgan, William B. [Bill]
+key 201910_Colgan
+birth 1920-12-01
+death 2019-10-25
+military US Army @ World War II
+military US Air Force @ Korean War
+military US Air Force @ Vietnam War
+
+---
+
+!citation Brown-Wynne Funeral Home @ 2019-11-02
+!url https://www.dignitymemorial.com/obituaries/cary-nc/charles-davis-8907820
+!file Davis_Vic.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-11-02
+
+#profile Davis, Charles Victor [Vic]
+key 201910_Davis
+birth 1936-01-26
+death 2019-10-29
+highschool Bladenboro HS @ US/NC/Bladenboro
+burial Raleigh Memorial Park @ US/NC/Raleigh
+
+---
+
+!citation Dusckas Funeral Home @ 2019-11-02
+!url http://dusckasfuneralhome.com/obits/2019/11/gan.html
+!file Gangemi_Paul.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-11-02
+
+#profile Gangemi, Paul L.
+key 201910_Gangemi
+birth 1925-04-15 @ US/PA/Kane
+death 2019-10-28 @ US/PA/Erie
+military US Army @ World War II
+burial Wintergreen Gorge Cemetery @ US/PA/Erie
+
+---
+
+!citation Wharton Funeral Home @ 2019-11-02
+!url https://www.whartonfuneralhome.com/obituary/carl-reynolds
+!file Reynolds_Carl.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-11-02
+
+#profile Reynolds, Carl Nettles, Jr.
+key 201910_Reynolds
+birth 1934-09-08 @ US/TX/Houston
+death 2019-10-31
+highschool Wharton HS @ US/TX/Wharton
+college Rice University
+
+---
+
+!citation Seattle Times @ 2019-11-03
+!url https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=gary-snyder&pid=194340698
+!file Snyder_Gary_2.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-11-05
+
+#profile Snyder, Gary Price
+key 201910_Snyder_2
+birth @ US/WA/Seattle
+death 2019-10-24
+highschool Queen Anne HS @ US/WA/Seattle
+college University of Washington
+
+---
+
+!citation Clark Funeral Home @ 2019-11-05
+!url https://www.samclarkfuneralhome.com/notices/Cecil-Butler?fbclid=IwAR0Ii4eTxZf61pLnZdqVUVu6hqfDfsEGgMEcR4sogFxXY4CPox2jWJYBvM0
+!file Butler_Cecil.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-11-05
+
+#profile Butler, Cecil Dean
+key 201910_Butler
+birth 1936-10-23
+death 2019-10-02
+burial Paulding Memorial Gardens @ US/GA/Hiram
+
+---
+
+!citation Los Angeles Times @ 2019-11-05
+!url https://www.latimes.com/sports/dodgers/story/2019-10-30/ron-fairly-usc-dodgers-world-series-angels-cancer-dead
+!file Fairly_Ron.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-11-05
+
+#profile Fairly, Ron
+key 201910_Fairly
+death 2019-10-30 @ US/CA/Indian Wells
+highschool David Starr Jordan HS @ US/CA/Long Beach
+college University of Southern California
+military US Army
+
+---
+
+!citation Sacramento Bee @ 2019-11-06
+!url https://www.legacy.com/obituaries/sacbee/obituary.aspx?n=george-anthony-ban&pid=194364337&fhid=8304
+!file Ban_George.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-11-06
+
+#profile Ban, George Anthony, Jr.
+key 201910_Ban
+birth 1955-07-25
+death 2019-10-22
+
+---
+
+!citation DignityMemorial.com @ 2019-11-10
+!url https://www.dignitymemorial.com/obituaries/fair-oaks-ca/joseph-chez-8906837
+!file Chez_Joe.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-11-10
+
+#profile Chez, Joseph McCorkle [Joe]
+key 201910_Chez
+birth 1930-11-20 @ US/MT/Kalispell
+death 2019-10-27
+highschool Medford HS @ US/OR/Medford
+college Stanford University
+military US Marines
+
+---
+
+!citation Naples Daily News @ 2019-11-12
+!url https://www.legacy.com/obituaries/naplesnews/obituary.aspx?n=gerret-gerretsen-john&pid=194421613
+!file Gerretsen_John.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-11-12
+
+#profile Gerretsen, Gerret John [John]
+key 201910_Gerretsen
+birth 1925-07-12 @ US/NY/Queens
+death 2019-10-31
+highschool John Adams HS @ US/NY/Queens
+college Wagner College
+military US Navy @ World War II
+
+---
+
+!citation Costantino-Primo Funeral Home @ 2019-12-11
+!url https://costantinoprimofh.com/tribute/details/2643/James-Winters/obituary.html#tribute-start
+!file Winters_James.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-12-11
+
+#profile Winters, James Frederick
+key 201910_Winters
+birth 1928-05-11 @ US/PA/Butler
+death 2019-10-16
+military US Army @ Korean War
+burial Harleigh Cemetery @ US/NJ/Camden
+
+---
+
+!citation Draeger-Langendorf Funeral Home @ 2019-12-23
+!url https://www.draeger-langendorf.com/obituaries/rudy-peter-haluska-jr/
+!file Haluska_Rudy.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-12-23
+
+#profile Haluska, Rudy Peter, Jr.
+key 201910_Haluska
+birth 1931-04-29
+death 2019-10-26
+
+---
+
+!citation Morning Journal @ 2019-10-10
+!url https://www.legacy.com/obituaries/morningjournal/obituary.aspx?n=robert-d-lesiecki&pid=194103349&fhid=3273
+!file Lesiecki_Bob.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-12-25
+
+#profile Lesiecki, Robert D. [Bob]
+key 201910_Lesiecki
+birth 1931-08-29 @ US/OH/Lorain
+death 2019-10-05 @ US/OH/Westlake
+highschool Lorain St. Mary's Academy @ US/OH/Lorain
+burial Calvary Cemetery @ US/OH/Lorain
+
+---
+
+!citation King Funeral Service @ 2020-02-03
+!url https://www.kingfuneralservice.com/obituary/Chester-DiEmidioSr
+!file DiEmidio_Chet.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-02-03
+
+#profile DiEmidio, Chester G., Sr. [Chet]
+key 201910_DiEmidio
+birth 1930-09-13
+death 2019-10-12
+burial Saints Peter & Paul Cemetery @ US/PA/Springfield

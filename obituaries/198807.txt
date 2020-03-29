@@ -1,0 +1,8 @@
+!citation Tampa Bay Times @ 1988-07-10
+!file Sisler_William.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-05-12
+
+#profile Sisler, William F.
+key 198807_Sisler
+birth @ US/NY/Rochester
+death 1988-07-06 @ US/FL/St. Petersburg

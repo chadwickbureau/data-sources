@@ -1,0 +1,411 @@
+!citation News & Observer @ 2013-12-03
+!url https://www.legacy.com/obituaries/newsobserver/obituary-preview.aspx?n=smith-byham&pid=168313909&referrer=1878
+!file Byham_Smith.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-12-14
+
+#profile Byham, Smith, Jr.
+key 201312_Byham
+death 2013-12-02
+military US Army @ Korean War
+
+---
+
+!citation Chicago Tribune  @ 2013-12-06
+!url https://www.legacy.com/obituaries/chicagotribune/obituary.aspx?n=Bernard-Rajkowski&pid=168360482
+!file Rajkowski_Bernard.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-12-14
+
+#profile Rajkowski, Bernard V.
+key 201312_Rajkowski
+birth 1915-09-16 @ US/IL/Chicago 
+death 2013-12-04 @ US/IL/Libertyville
+military US Army @ World War II
+burial St. Adalbert Catholic Cemetery @ US/IL/Niles
+
+---
+
+!citation The Chronicle @ 2014-05-15
+!url http://www.chronline.com/obituaries/article_36a3cc42-dbc4-11e3-a56f-0019bb2963f4.html
+!file Damme_Arlyn.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-05-18
+
+#profile Damme, Arlyn Earl
+key 201312_Damme
+birth 1926-05-23 @ US/WI/Remington
+death 2013-12-14 @ US/WA/Olympia
+military US Army @ World War II
+burial Claquato Cemetery @ US/WA/Chehalis
+
+---
+
+!citation MGoBlue.com @ 2013-12-10
+!url http://www.mgoblue.com/genrel/121013aab.html
+!file Lund_Don.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2013-12-10
+
+#profile Lund, Don
+key 201312_Lund
+birth 1923-05-18 @ US/MI/Detroit
+death 2013-12-10
+highschool Southeastern HS @ US/MI/Detroit
+college Michigan
+
+---
+
+!citation Boxwell Brothers Funeral Directors @ 2013-12-08
+!url http://www.boxwellbrothers.com/obit/?p=8711
+!file Luquette_AJ.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2013-12-10
+
+#profile Luquette, Aurelian Joseph, Jr. [A. J.]
+key 201312_Luquette
+birth 1926-04-29 @ US/TX/Beaumont
+death 2013-12-05
+highschool St. Anthony's HS @ US/TX/Beaumont
+college Stephen F. Austin
+college Lamar @ US/TX/Beaumont
+military US Army @ World War II
+
+---
+
+!citation Springfield News-Sun @ 2013-12-08
+!url http://www.legacy.com/obituaries/springfield/obituary.aspx?n=Greg-MURPHY&pid=168390722
+!file Murphy_Greg.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2013-12-10
+
+#profile Murphy, Greg J.
+key 201312_Murphy
+birth 1954-10-15 @ US/OH/Springfield
+death 2013-12-07 @ US/OH/Columbus
+highschool Springfield North HS @ US/OH/Springfield
+college Fairmont @ US/WV/Fairmont
+college Wittenberg @ US/OH/Springfield
+
+---
+
+!citation Laubenthal-Mercado Funeral Home @ 2013-12-10
+!url http://www.laubenthalmercado.com/webcast/17294
+!file Renninger_Bob.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2013-12-10
+
+#profile Renninger, Robert [Bob]
+key 201312_Renninger
+birth 1949-05-04 @ US/OH/Elyria
+death 2013-12-01 @ US/OH/Cleveland
+highschool Keystone HS @ US/OH/La Grange
+military US Army 
+
+---
+
+!citation GantDaily.com @ 2013-12-06
+!url http://gantdaily.com/2013/12/06/obituary-notice-jack-r-trude/
+!file Trude_Jack.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2013-12-10
+
+#profile Trude, Jack R.
+key 201312_Trude
+birth 1924-07-23 @ US/PA/Flinton
+death 2013-12-03 @ US/PA/Clearfield
+military US Army @ World War II
+
+---
+
+!citation Dignity Memorial.com @ 2013-12-10
+!url http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Bobby-Tucker&lc=4924&pid=168423928&mid=5766246
+!file Tucker_Bobby.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2013-12-10
+
+#profile Tucker, Bobby Lloyd
+key 201312_Tucker
+birth 1951-04-22
+death 2013-12-07 @ US/TN/Cordova
+college Tennessee
+
+---
+
+!citation Dignity Memorial.com @ 2013-12-10
+!url http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Darrell-Turner&lc=4847&pid=168450661&mid=5768291
+!file Turner_Darrell.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2013-12-10
+
+#profile Turner, Darrell
+key 201312_Turner
+birth 1955-03-30 @ US/FL/Winter Garden
+death 2013-12-06
+highschool Ocoee HS @ US/FL/Ocoee
+
+---
+
+!citation Rader Funeral Home @ 2013-12-13
+!url http://www.raderfh.com/obituaries/Maurice-Jones-2/#!/Obituary
+!file Jones_Maurice.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2013-12-13
+
+#profile Jones, Maurice Dempsey
+key 201312_Jones
+birth 1926-07-19 @ US/TX/White Oak
+death 2013-12-09
+highschool Hallsville HS @ US/TX/Hallsville
+military US Army @ World War II
+burial Hallsville Cemetery @ US/TX/Hallsville
+
+---
+
+!citation Greenwood Funeral Home @ 2013-12-10
+!url http://greenwood.tributes.com/our_obituaries/Alvin-Edwin-Lichtenstein-97340749
+!file Lichtenstein_Al.pdf
+!contributor Rod Nelson <rodericnelson@gmail.com> @ 2013-12-13
+
+#profile Lichtenstein, Alvin Edwin [Al]
+key 201312_Lichtenstein
+birth 1930-09-01
+death 2013-12-06
+highschool St. Aloysius HS @ US/LA/New Orleans
+
+---
+
+!citation Tyler Morning Telegraph @ 2013-12-12
+!url http://obituaries.tylerpaper.com/obituaries/tylerpaper/obituary.aspx?n=Lindsay-Cary&pid=168487414
+!file Cary_Lindsay.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2013-12-13
+
+#profile Cary, Lindsay E., Jr.
+key 201312_Cary
+birth 1923-08-31 @ US/TX/Houston
+death 2013-12-09 @ US/TX/Tyler
+military US Navy @ World War II
+burial New Harmony Cemetery @ US/TX/Tyler
+---
+
+!citation Daytona Beach News-Journal @ 2013-12-12
+!url http://www.legacy.com/obituaries/news-journalonline/obituary.aspx?n=Lloyd-Clifton&pid=168486944
+!file Clifton_Lloyd.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2013-12-14
+
+#profile Clifton, Lloyd M., Sr.
+key 201312_Clifton
+birth 1924-08-08
+death 2013-12-10
+college Stetson
+
+---
+
+!citation Syracuse Post Standard @ 2013-12-14
+!url http://obits.syracuse.com/obituaries/syracuse/obituary.aspx?n=peter-a-naton&pid=168537374
+!file Naton_Pete.pdf
+!contributor Rod Nelson <rodericnelson@gmail.com> @ 2013-12-15
+
+#profile Naton, Peter A. [Pete]
+key 201312_Naton
+birth  @ US/NY/Flushing
+death 2013-12-10 @ US/MA/Springfield
+highschool Bishop Loughlin HS @ US/NY/Brooklyn
+college Holy Cross
+
+---
+
+!citation Mercer Adams Funeral Home @ 2013-12-16
+!url http://www.mercer-adams.com/sitemaker/sites/Mercer1/obit.cgi?user=1189488Hyde
+!file Hyde_Billy.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2013-12-16
+
+#profile Hyde, Billy Ray
+key 201312_Hyde
+birth 1930-03-09 @ US/AR/Van Buren
+death 2013-12-10
+highschool Porterville HS @ US/CA/Porterville
+
+---
+
+!citation Albuquerque Journal @ 2013-12-13
+!url http://obits.abqjournal.com/obits/show/239340
+!file Tuttle_Larry.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2013-12-16
+
+#profile Tuttle, Larry D.
+key 201312_Tuttle
+birth 1928-03-14 @ US/IL/Decatur
+death 2013-12-09
+highschool Decatur HS @ US/IL/Decatur
+college New Mexico
+military US Air Force 
+
+---
+
+!citation The Arizona Republic @ 2013-12-15
+!url http://www.legacy.com/obituaries/azcentral/obituary.aspx?n=William-Willis&pid=168538122
+!file Willis_Blake.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2013-12-16
+
+#profile Willis, William Blake, Sr. [Blake]
+key 201312_Willis
+birth 1929-07-07 @ US/TX/Paducah
+death 2013-12-08
+highschool Phoenix Union HS @ US/AZ/Phoenix
+college Arizona State
+military US Navy @ Korean War
+burial National Memorial Cemetery of Arizona @ US/AZ/Phoenix
+
+---
+
+!citation Northwest Florida Daily News @ 2013-12-16
+!url http://www.legacy.com/obituaries/nwfdailynews/obituary.aspx?n=Daniel-Griffin&pid=168582154
+!file Griffin_Danny.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2013-12-16
+
+#profile Griffin, Daniel Andrew [Danny]
+key 201312_Griffin
+birth 1962-10-01 @ US/AL/Atmore
+death 2013-12-14 @ US/FL/Niceville
+highschool Niceville HS @ US/FL/Niceville
+college Florida State
+college South Alabama
+burial Sunset Cemetery @ US/FL/Valparaiso
+
+---
+
+!citation Evening Sun @ 2013-12-15
+!url http://www.legacy.com/obituaries/eveningsun/obituary.aspx?n=Joseph-Bierly&pid=168541761
+!file Bierly_Joe.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2013-12-16
+
+#profile Bierly, Joseph W., Jr. [Joe]
+key 201312_Bierly
+birth 1934 @ US/PA/Glen Rock
+death 2013-12-05
+highschool Susquehannock HS @ US/PA/Glen Rock
+college Gettysburg
+military US Army 
+
+---
+
+!citation Omaha World-Herald @ 2013-12-18
+!url http://www.legacy.com/obituaries/omaha/obituary.aspx?n=steve-cavlovic&pid=168613765&fhid=15196
+!file Cavlovic_Steve.pdf
+!contributor John Hall <j03.john@gmail.com> @ 2013-12-18
+
+#profile Cavlovic, Steve
+key 201312_Cavlovic
+birth 1931
+death 2013-12-17
+burial Calvary Cemetery @ US/NE/Omaha
+
+---
+
+!citation Daily Bulletin @ 2013-12-14
+!url http://www.dailybulletin.com/general-news/20131214/former-alta-loma-high-school-baseball-coach-dies-in-car-crash
+!file Persell_Ted.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2013-12-18
+
+#profile Persell, Theodore Eugene [Ted]
+key 201312_Persell
+death 2013-12-13 @ US/CA/Rancho Cucamonga
+
+---
+
+!citation Pellerin Funeral Home @ 2013-12-20
+!url http://pellerinfuneralhome.com/sitemaker/memsol.cgi?page=profile&section=info&user_id=1196523
+!file Delaune_Martin.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2013-12-20
+
+#profile Delaune, Martin J., Sr.
+key 201312_Delaune
+birth 1935-10-26 @ US/LA/New Iberia
+death 2013-12-18 @ US/LA/Lafayette
+military US National Guard 
+
+---
+
+!citation The Telegraph @ 2013-12-20
+!url http://www.legacy.com/obituaries/macon/obituary.aspx?n=George-Cook&pid=168640617
+!file Cook_George.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2013-12-20
+
+#profile Cook, George Edwin, Jr.
+key 201312_Cook
+birth 1927-03-21 @ US/NJ/Rahway
+death 2013-12-19
+military US Army @ World War II
+burial Baldwin Memorial Gardens @ US/GA/Milledgeville
+
+---
+
+!citation Star-Ledger @ 2013-12-21
+!url http://obits.nj.com/obituaries/starledger/obituary.aspx?n=michael-j-murray&pid=168656739&fhid=17161&eid=sp_ommatch&eid=sp_ommatch
+!file Murray_Michael.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2013-12-21
+
+#profile Murray, Michael J.
+key 201312_Murray
+birth 1962 @ US/NY/Queens
+death 2013-12-18
+college Kean
+burial Fairview Cemetery @ US/NJ/Westfield
+
+---
+
+!citation Times-Georgian @ 2013-12-17
+!url http://www.times-georgian.com/obituaries/article_1ec444be-676e-11e3-ae5a-0019bb30f31a.html
+!file Wright_Dick.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2013-12-23
+
+#profile Wright, Richard W. [Dick]
+key 201312_Wright
+birth 1932-06-12
+death 2013-12-16
+military US Army @ Korean War
+burial Bethlehem Campground United Methodist Cemetery @ US/AL/Graham
+
+---
+
+!citation Peoria Journal Star @ 2013-12-25
+!url http://www.legacy.com/obituaries/pjstar/obituary.aspx?n=Leon-Hurst&pid=168735459
+!file Hurst_Leon.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2013-12-25
+
+#profile Hurst, Leon Eldon
+key 201312_Hurst
+birth 1937-07-03 @ US/IL/Peoria
+death 2013-12-22 @ US/IN/Fort Wayne
+highschool Peoria Central HS @ US/IL/Peoria
+
+---
+
+!citation The News-Herald & The Morning Journal @ 2013-12-25
+!url http://www.news-herald.com/sports/20131225/indians-former-broadcaster-mike-hegan-dies
+!file Hegan_Mike.pdf
+!contributor Rod Nelson <rodericnelson@gmail.com> @ 2013-12-25
+
+#profile Hegan, James Michael [Mike]
+key 201312_Hegan
+death 2013-12-25 @ US/SC/Hilton Head
+highschool St. Ignatius High School @ US/OH/Cleveland
+college Holy Cross
+
+---
+
+!citation Belleville News-Democrat @ 2013-12-28
+!url http://www.legacy.com/obituaries/belleville/obituary.aspx?n=Elmer-Haas&pid=168769687
+!file Haas_Elmer.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2013-12-28
+
+#profile Haas, Elmer Joseph, Jr.
+key 201312_Haas
+birth  @ US/IL/East St. Louis
+death 2013-12-24 @ US/IL/Smithton
+highschool Central Catholic HS @ US/IL/East St. Louis
+military US Army @ Korean War
+burial St. John the Baptist Catholic Cemetery @ US/IL/Smithton
+
+---
+
+!citation Bronson & Guthlein Funeral Home @ 2013-12-27
+!url http://www.bronsonandguthleinfh.com/fh/obituaries/obituary.cfm?o_id=2362084&fh_id=11292
+!file Barisano_Gene.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2013-12-25
+
+#profile Barisano, Eugene [Gene]
+key 201312_Barisano
+birth 1947-01-08 @ US/NY/Manhattan
+death 2013-12-25 @ US/NJ/New Brunswick
+burial Holy Cross Burial Park @ US/NJ/East Brunswick

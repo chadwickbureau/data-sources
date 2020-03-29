@@ -1,0 +1,10 @@
+!citation Bakersfield Californian @ 2005-02-23
+!url http://www.legacy.com/obituaries/bakersfield/obituary.aspx?n=garland-earl-mcleod&pid=3449067
+!file McLeod_Gar.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-11-30
+
+#profile McLeod, Garland Earl [Gar]
+key 200502_McLeod
+birth 1935-05-07 @ US/MI/Lake Odessa
+death 2005-02-19
+military US Army 

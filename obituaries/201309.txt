@@ -1,0 +1,12 @@
+!citation Roberts-Reed-Culver Funeral Home @ 2019-11-14
+!url https://stilwell.robertsreedculverfuneraldirectors.com/notices/Michael-Ketcher
+!file Ketcher_Michael
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-11-14
+
+#profile Ketcher, Michael
+key 201309_Ketcher
+birth 1948-09-20 @ US/OK/Tahlequah
+death 2013-09-06
+highschool Stilwell HS @ US/OK/Stilwell
+college Bacone College
+burial Tyler Spring Cemetery @ US/OK/Stilwell
