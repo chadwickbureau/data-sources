@@ -1,0 +1,1548 @@
+!citation Richmond (IN) Item @ 1931-09-10; page 11
+
+#profile Larsen, Glen
+key 20170319_001
+player 1931 Springfield (Illinois-Indiana-Iowa); TL
+player 1931 Kansas City (American Association)
+
+---
+
+!citation Decatur Evening Herald @ 1931-04-20; page 10
+
+#profile Brewer, Johnny
+key 20170319_002
+player 1930 Dayton (Central)
+player 1931 Springfield (Illinois-Indiana-Iowa)
+
+---
+
+!citation Ardmore Daily Ardmoreite @ 1931-05-28; page 8
+!citation Burlington Gazette @ 1931-05-26; page 10
+
+#profile Brewer, Parker
+key 20170319_003
+player 1931 Omaha (Western)
+player 1931 Burlington (Mississippi Valley)
+
+---
+
+!citation Arizona Republic @ 1926-08-06; page 21
+
+#profile Boyd, Cliff "Hungry"
+key 20170319_004
+player 1925 Arkansas City (Southwestern); TR
+player 1926 Seattle (Pacific Coast)
+
+---
+
+!citation Wilkes-Barre Record @ 1930-12-27; page 18
+!citation Wilkes-Barre Times Leader @ 1930-12-16; page 25
+
+#profile Douglas, Alfred [Fred]
+key 20170319_005
+player 1929 Lynn (New England); TR
+
+#profile Brinker, Eddie
+key 20170319_006
+player 1929 Lewiston (New England); BS
+
+
+---
+
+!citation Wichita Daily Eagle @ 1922-11-21; page 13
+
+#profile Bristow, Benny
+key 20170319_007
+player 1922 Oklahoma City (Western)
+player 1922 Enid (Western Association)
+
+---
+
+!citation Bourbon News @ 1911-08-22; page 4
+!citation Evansville Press @ 1912-06-10; page 6
+
+#profile Brown, Robert R.
+key 20170319_008
+player 1910 Winchester (Blue Grass)
+player 1911 Winchester (Blue Grass)
+player 1912 Columbus (American Association)
+college Vanderbilt
+
+---
+
+!citation Bourbon News @ 1911-08-22; page 4
+!citation Sporting Life @ 1911-09-30; page 16
+!citation Akron Beacon Journal @ 1913-04-18; page 16
+
+#profile Burden, Charles
+key 20170319_009
+player 1911 Columbus (American Association)
+player 1911 Winchester (Blue Grass)
+player 1912 Marion/Ironton (Ohio State)
+
+---
+
+!citation Springfield (MO) Republican @ 1920-08-12; page 7
+!citation Springfield (MO) Republican @ 1921-08-14; page 7
+!citation Waco News-Tribune @ 1925-04-17; page 16
+!citation Decatur Herald @ 1927-08-15; page 7
+
+#profile Brown, Don
+key 20170319_010
+player 1920 Springfield (Western Association)
+player 1921 Salt Lake City (Pacific Coast)
+player 1923 Galveston (Texas)
+player 1925 Waco (Texas); BR
+player 1927 Peoria (Illinois-Indiana-Iowa)
+
+---
+
+!citation Connellsville Daily Courier @ 1929-07-09; page 7
+
+#profile Brown, Howard
+key 20170319_011
+player 1929 Scottdale (Middle Atlantic)
+player 1929 Clarksburg (Middle Atlantic)
+
+#profile Cochrane, Bill
+key 20170319_012
+player 1929 Scottdale (Middle Atlantic)
+player 1929 Johnstown (Middle Atlantic)
+
+#profile Bishop, Bill "Lefty"
+key 20170319_013
+player 1929 Scottdale (Middle Atlantic)
+player 1929 Johnstown (Middle Atlantic)
+
+
+#profile Norris, Granville
+key 20170319_014
+player 1929 Scottdale (Middle Atlantic)
+player 1929 Johnstown (Middle Atlantic)
+
+#profile Dane, Hank
+key 20170319_015
+player 1929 Scottdale (Middle Atlantic)
+player 1929 Johnstown (Middle Atlantic)
+
+
+#profile Smith, Louis
+key 20170319_016
+player 1929 Scottdale (Middle Atlantic)
+player 1929 Jeannette (Middle Atlantic)
+college St. Vincent
+
+#profile Fogarty, Tom
+key 20170319_017
+player 1929 Scottdale (Middle Atlantic)
+player 1929 Clarksburg (Middle Atlantic)
+
+#profile Bruder, Doc
+key 20170319_018
+player 1929 Scottdale (Middle Atlantic)
+player 1929 Clarksburg (Middle Atlantic)
+
+
+#profile Spitaleri, Jerry
+key 20170319_019
+player 1929 Scottdale (Middle Atlantic)
+player 1929 Clarksburg (Middle Atlantic)
+
+
+#profile Durning, George
+key 20170319_020
+player 1929 Scottdale (Middle Atlantic)
+player 1929 Cumberland (Middle Atlantic)
+
+
+#profile James, Charles "Jesse"
+key 20170319_021
+player 1929 Scottdale (Middle Atlantic)
+player 1929 Cumberland (Middle Atlantic)
+
+---
+
+!citation Lubbock Avalanche @ 1922-09-05; page 10
+!contributor Davis Barker
+
+#profile Brown, Vernon
+key 20170319_022
+player 1922 Lubbock (West Texas)
+player 1923 Lubbock (Panhandle-Pecos Valley)
+
+---
+
+!contributor Davis Barker
+
+#profile Brown, Jim
+key 20170319_023
+player 1916 Philadelphia (American)
+player 1921 Little Rock (Southern Association)
+player 1921 Memphis (Southern Association)
+player 1923 Galveston (Texas)
+player 1923 Beaumont (Texas)
+player 1924 Galveston (Texas Association)
+player 1924 Omaha (Western)
+player 1924 St. Joseph (Western)
+player 1925 Terrell (Texas Association)
+
+
+---
+
+!citation Asheville Citizen-Times @ 1932-04-25; page 8
+
+#profile Bryan, Howard
+key 20170319_024
+player 1931 High Point (Piedmont)
+player 1932 High Point (Piedmont)
+
+---
+
+!citation Arkansas Daily Gazette @ 1916-05-04; page 10
+
+#profile Terry, Walter
+key 20170319_025
+player 1916 Columbus (South Atlantic)
+
+---
+
+!citation Nashville Tennessean @ 1921-02-26; page 8
+!citation Nashville Tennessean @ 1922-08-11; page 10
+!citation Nashville Tennessean @ 1922-07-25; page 8
+
+#profile Burke, Mike
+key 20170319_026
+player 1921 Nashville (Southern Association)
+player 1922 Nashville (Southern Association); BR
+
+---
+
+!citation Newport News Daily Press @ 1922-08-29; page 8
+
+#profile Burke
+key 20170319_027
+player 1921 Norfolk (Virginia)
+player 1922 Norfolk (Virginia)
+
+---
+
+!citation Greenville News @ 1927-06-14; page 11
+
+#profile Burke, Ernie
+key 20170319_028
+manager 1919 Charlotte (South Atlantic)
+player 1927 Sarasota (Florida State)
+manager 1927 Sarasota (Florida State)
+
+---
+
+!citation Harrisburg Telegraph @ 1928-09-10; page 17
+!citation Harrisburg Evening News @ 1929-09-12; page 22
+
+#profile Burke, Edward [Eddie]
+key 20170319_029
+player 1928 Harrisburg (New York-Pennsylvania)
+player 1929 Harrisburg (New York-Pennsylvania)
+resides 1929 @ US/NY/New York
+
+---
+
+#profile Wallace, Bingo
+key 20170319_030
+player 1913 Bridgeport (Eastern Association)
+
+---
+
+!contributor Davis Barker
+
+#profile Norris, Harry "Shorty, Pep"
+key 20170319_031
+player 1912 Bridgeport (Connecticut State)
+resides 1912 @ US/MA/Boston
+
+
+#profile Miller, Theodore C. [Dory] "Cy"
+key 20170319_032
+player 1912 Bridgeport (Connecticut State)
+player 1912 Springfield (Connecticut State)
+player 1913 Holyoke (Eastern Association)
+player 1913 Worcester (New England)
+player 1913 Hartford (Eastern Association)
+umpire 1922 Eastern League
+see Davis Barker notes
+
+---
+
+!citation Scranton Republican @ 1925-05-26; page 16
+
+#profile Byers, William
+key 20170319_033
+player 1925 Shamokin (New York-Pennsylvania)
+player 1925 Harrisburg (New York-Pennsylvania)
+
+---
+
+!citation Galveston Daily News @ 1921-02-21; page 3
+!citation Pittston Gazette @ 1921-05-18; page 6
+
+#profile Byers, William
+key 20170319_034
+player 1920 Mineral Wells (West Texas)
+player 1921 San Angelo (West Texas)
+player 1921 Fort Worth (Texas)
+
+---
+
+!citation SABR bio
+!citation Decatur Daily Review @ 1909-03-17; page 5
+
+#profile Campbell, Vin
+key 20170319_035
+player 1908 Decatur (Illinois-Indiana-Iowa)
+player 1909 Aberdeen (Northwestern)
+player 1910 Pittsburgh (National)
+
+---
+
+!citation Jackson Clarion-Ledger @ 1925-04-14; page 9
+
+#profile Carpenter, A. H.
+key 20170319_036
+player 1924 Dyersburg (Kentucky-Illinois-Tennessee)
+player 1925 Brookhaven (Cotton States)
+
+---
+
+!citation Biloxi Daily Herald @ 1926-07-27; page 5
+
+#profile Lehrman, Charles [Charlie]
+key 20170319_037
+player 1926 Gulfport (Cotton States)
+player 1926 Meridian (Cotton States)
+
+---
+
+!citation Biloxi Daily Herald @ 1926-06-14; page 2
+
+#profile Dugas, Bobby
+key 20170319_038
+player 1926 Gulfport (Cotton States)
+
+---
+
+!citation Biloxi Daily Herald @ 1926-07-01; page 5
+
+#profile Rouprich, Lester
+key 20170319_039
+player 1926 Gulfport (Cotton States)
+
+---
+
+!citation Eau Claire Leader @ 1910-05-08; page 2
+
+#profile Carter, John
+key 20170319_040
+player 1909 Dayton (Central)
+player 1910 Eau Claire (Minnesota-Wisconsin)
+
+---
+
+!citation Escanaba Daily Press @ 1912-11-24; page 1
+!citation Muscatine Journal @ 1912-11-23; page 6
+
+#profile Carter, Nick "Buggs"
+key 20170319_041
+player 1912 Kewanee (Central Association)
+
+---
+
+!citation Escanaba Daily Press @ 1912-11-24; page 1
+
+#profile Walters, Monk
+key 20170319_042
+player 1912 Norfolk (Virginia)
+
+---
+
+!citation Shamokin News-Dispatch @ 1925-04-07; page 7
+
+#profile Shepardson, Ray
+key 20170319_043
+player 1924 Utica/Oneonta (New York-Pennsylvania)
+player 1925 Shamokin (New York-Pennsylvania)
+
+
+#profile Pope, Art "Bud"
+key 20170319_044
+player 1925 Shamokin (New York-Pennsylvania)
+
+
+#profile Van Hee, Abraham
+key 20170319_045
+player 1925 Shamokin (New York-Pennsylvania)
+
+---
+
+!citation 4/7/1925 Shamokin News-Dispatch @ 1925-04-07; page 7
+!citation 7/17/1923 Bloomington Pantagraph @ 1923-07-17; page 10
+!citation 4/24/1926 Alexandria Town Talk @ 1926-04-24; page 11
+!citation 10/23/1921 Kansas City Kansan @ 1921-10-23; page 15
+!citation 8/5/1917 Wichita Daily Eagle @ 1917-08-05; page 7
+!citation 5/27/1915 Minneapolis Star Tribune; page 15
+!citation 7/11/1925 Springfield (MO) Republican; page 5
+!citation 7/5/1925 Springfield Republican; page 6
+!citation 7/23/1925 Springfield Leader; page 9
+
+
+#profile Brokaw, Hal
+key 20170319_046
+player 1915 Virginia (Northern)
+player 1917 Joplin (Western)
+player 1917 Omaha (Western)
+player 1921 Enid (Western Association)
+player 1923 Sioux City (Western)
+player 1923 Bloomington (Illinois-Indiana-Iowa)
+player 1925 Shamokin (New York-Pennsylvania)
+player 1925 Springfield (Western Association)
+player 1926 Monroe (Cotton States)
+
+---
+
+!citation Shamokin News-Dispatch @ 1925-04-07; page 7
+
+#profile Walker, Tommy
+key 20170319_047
+player 1925 Shamokin (New York-Pennsylvania)
+player 1925 Elmira (New York-Pennsylvania)
+
+
+#profile Barry, John
+key 20170319_048
+player 1925 Shamokin (New York-Pennsylvania)
+
+---
+
+!citation Mount Carmel Item @ 1925-05-21; page 7
+
+#profile Swift, John
+key 20170319_049
+player 1925 Shamokin (New York-Pennsylvania)
+
+---
+
+!citation Springfield (MO) Republican @ 1925-07-24; page 5
+
+#profile Houck, Don "Specs"
+key 20170319_050
+player 1925 Springfield (Western Association)
+player 1925 Kansas City (American Association)
+
+---
+
+!citation Lincoln Evening Journal @ 1923-09-03; page 10
+
+#profile DeButch, Carmy
+key 20170319_051
+player 1923 Lincoln (Nebraska State)
+
+---
+
+!citation Lincoln Evening Journal @ 1923-09-03; page 10
+!citation Minneapolis Star @ 1924-05-24; page 11
+!citation El Paso Herald @ 1923-03-29; page 6
+!citation Coffeyville Daily Journal @ 1922-04-18; page 8
+
+#profile McDermott, Joe
+key 20170319_052
+player 1923 Fairbury (Nebraska State)
+player 1924 Sioux City (Tri-State)
+manager 1924 Sioux City (Tri-State)
+player 1923 Fort Smith (Western Association)
+player 1922 Fort Smith (Western Association)
+player 1922 Muskogee (Southwestern)
+
+---
+
+!citation Lincoln Evening Journal @ 1923-09-03; page 10
+
+#profile Harkins, Max
+key 20170319_053
+player 1923 Fairbury (Nebraska State)
+
+---
+
+!citation Lincoln Evening Journal @ 1923-08-28; page 10
+
+#profile Willie, Vern
+key 20170319_054
+player 1923 Fairbury (Nebraska State); TL
+
+
+#profile Eller, John
+key 20170319_055
+player 1923 Lincoln (Nebraska State)
+
+---
+
+!citation El Paso Herald @ 1923-03-29; page 6
+!citation Lincoln Evening Journal @ 1923-09-03; page 10
+
+
+#profile Makin, Hal
+key 20170319_056
+player 1923 Fort Smith (Western Association)
+player 1923 Fairbury (Nebraska State)
+
+---
+
+!citation Santa Cruz Evening News @ 1923-03-24; page 4
+!citation Ashland Clipper @ 1922-07-13; page 8
+!citation Santa Cruz Evening News @ 1922-03-31; page 4
+
+
+#profile Cartwright, Joe
+key 20170319_057
+player 1922 Denver (Western)
+player 1922 Salt Lake City (Pacific Coast)
+brother of Cartwright, Walt
+
+---
+
+!citation Orlando Sentinel @ 1926-03-20; page 18
+
+
+#profile Hernandez, Jose
+key 20170319_058
+player 1924 St. Petersburg (Florida State)
+player 1925 St. Petersburg (Florida State)
+player 1926 Fort Myers (Florida State)
+
+
+#profile Davenport, Gene
+key 20170319_059
+player 1926 Fort Myers (Florida State)
+
+#profile Domingo, Joe
+key 20170319_061
+player 1926 Fort Myers (Florida State)
+
+---
+
+!citation Orlando Sentinel @ 1926-03-20; page 18
+!citation Palm Beach Post @ 1928-05-15; page 14
+
+
+#profile Casares, Joe
+key 20170319_060
+player 1926 Fort Myers (Florida State)
+player 1928 Fort Lauderdale (Florida State)
+
+---
+
+#profile Calhoun, Jim
+key 20170319_062
+player 1932 Beatrice (Nebraska State)
+player 1933 Beatrice (Nebraska State)
+
+---
+
+!citation Fort Myers Press @ 1926-08-25; page 1
+
+#profile Bouza, Mike
+key 20170319_063
+player 1926 Fort Myers (Florida State)
+
+
+#profile Daniels, Earl
+key 20170319_064
+player 1926 Fort Myers (Florida State)
+
+---
+
+!citation Fort Myers Press @ 1926-09-08; page 8
+!citation Palm Beach Post @ 1926-05-21; page 11
+
+
+#profile Johnston, Joe S. [Johnny]
+key 20170319_065
+player 1926 Fort Myers (Florida State)
+manager 1926 Fort Myers (Florida State)
+
+---
+
+!citation Wilkes-Barre Record @ 1928-12-12; page 31
+!citation Wilkes-Barre Record @ 1929-04-09; page 24
+!citation Delaware County Daily Times @ 1929-04-26; page 24
+
+#profile Casper, Stanley
+key 20170319_066
+player 1926 (Michigan-Ontario)
+player 1927 Cedar Rapids (Mississippi Valley)
+player 1929 Martinsburg (Blue Ridge)
+
+---
+
+!citation Olean Times Herald @ 1930-08-27; page 10
+
+#profile Cazen, Walter
+key 20170319_067
+player 1930 Davenport (Mississippi Valley)
+player 1931 Hagerstown/Parkersburg/Youngstown (Middle Atlantic)
+
+#profile Wilkins, H. Edson [Eddie]
+key 20170319_068
+player 1927 Shreveport (Texas)
+player 1928 Shreveport (Texas)
+player 1928 Pueblo (Western)
+player 1929 Shreveport (Texas)
+player 1929 Bisbee (Arizona State)
+player 1929 Tucson (Arizona State)
+player 1929 Greenville (South Atlantic)
+player 1930 Monroe (Cotton States)
+player 1930 Waterloo (Mississippi Valley)
+player 1931 Quincy (Illinois-Indiana-Iowa)
+player 1931 Wichita Falls (Texas)
+player 1931 Topeka (Western)
+
+---
+
+!citation Hopkinsville Kentuckian @ 1911-06-10; page 8
+
+#profile McArthur, Dixie
+key 20170319_069
+player 1911 Hopkinsville (Kentucky-Illinois-Tennessee)
+player 1912 Hopkinsville (Kentucky-Illinois-Tennessee)
+player 1913 Hopkinsville (Kentucky-Illinois-Tennessee)
+
+---
+
+!citation Minneapolis Star-Tribune @ 1914-03-02; page 6
+
+#profile Chase, Hal
+key 20170319_070
+player 1913 Grand Forks (Northern)
+resides 1913 @ US/MN/Minneapolis
+
+---
+
+!citation Winnipeg Tribune @ 1914-03-31; page 10
+
+#profile Altman, A. R. J. [John]
+key 20170319_071
+player 1914 Grand Forks (Northern)
+resides 1914 @ US/MN/Waltham
+
+---
+
+!citation Minneapolis Star-Tribune @ 1914-03-15; page 30
+
+#profile Brokaw, Max
+key 20170319_072
+player 1914 Virginia (Northern)
+
+---
+
+!citation Joplin Globe @ 1922-01-10; page 4
+
+#profile Christensen, Cuckoo
+key 20170319_073
+player 1921 Joplin (Western)
+player 1922 St. Paul (American Association)
+
+---
+
+!citation Danville Bee @ 1926-06-07; page 12
+
+#profile Christensen, Walter
+key 20170319_074
+player 1926 Winston-Salem (Piedmont)
+manager 1926 Winston-Salem (Piedmont)
+player 1926 Wilson (Virginia)
+
+---
+
+!citation Joplin Globe @ 1922-01-10; page 4
+
+#profile Corgan, Roy "Irish"
+key 20170319_075
+player 1921 Muskogee (Southwestern)
+player 1921 Joplin (Western)
+player 1920 Joplin (Western)
+
+#profile Federle, Anton
+key 20170319_076
+player 1921 Muskogee (Southwestern); TL
+
+---
+
+!citation Joplin Globe @ 1922-01-10; page 4
+!citation Salina Evening Journal @ 1922-10-10; page 5
+
+#profile Wanner, Paul C.
+key 20170319_077
+player 1921 Joplin (Western)
+player 1922 Muskogee (Southwestern)
+
+---
+
+!citation SABR bio
+
+#profile Cicero, Joe
+key 20170319_078
+alias Doughty, Joseph; type=alias
+player 1927 Easton (Eastern Shore)
+player 1928 Salem (New England)
+player 1929 Boston (American)
+player 1931 Bloomington (Illinois-Indiana-Iowa)
+
+---
+
+!citation Minneapolis Star @ 1922-03-20; page 8
+
+#profile Claire, Davey
+key 20170319_079
+player 1920 Detroit (American)
+player 1921 Hamilton (Michigan-Ontario)
+
+---
+
+!citation Indianapolis Star @ 1929-04-15; page 16
+
+#profile Simon, Syl
+key 20170319_080
+player 1927 Evansville (Illinois-Indiana-Iowa)
+player 1927 Quincy (Illinois-Indiana-Iowa)
+
+---
+
+!citation Decatur Herald @ 1929-04-21; page 18
+
+#profile Fritz, Ray
+key 20170319_081
+player 1929 Evansville (Illinois-Indiana-Iowa); BS
+
+
+#profile Clancy, John
+key 20170319_082
+player 1928 Monroe (Cotton States)
+player 1929 Evansville (Illinois-Indiana-Iowa)
+
+
+#profile Swanson, Rudy
+key 20170319_083
+player 1928 Beaumont (Texas)
+player 1929 Evansville (Illinois-Indiana-Iowa)
+
+
+#profile Yeargin, Russell [Russ]
+key 20170319_084
+player 1929 Evansville (Illinois-Indiana-Iowa)
+
+
+#profile King, Harold
+key 20170319_085
+player 1927 Wheeling (Middle Atlantic)
+player 1928 Evansville (Illinois-Indiana-Iowa)
+
+---
+
+!citation Des Moines Register @ 1930-04-24; page 16
+
+#profile Lorentzen, Jake
+key 20170319_086
+player 1930 Oklahoma City (Western); TL
+
+---
+
+!citation Bridgeport Evening Farmer @ 1910-04-18
+
+#profile Griffith, Samuel
+key 20170319_087
+player 1910 Waterbury (Connecticut State)
+
+---
+
+!citation Hartford Courant @ 1930-04-26; page 15
+
+#profile Hyman, Sam
+key 20170319_088
+player 1930 Allentown (Eastern); H67 W175
+college Georgetown University
+
+---
+
+!citation Hartford Courant @ 1930-05-24; page 15
+
+#profile Jones, Samuel Thomas [Sam]
+key 20170319_089
+player 1927 Pittsfield (Eastern)
+player 1930 Providence (Eastern); BR TR H71 W177
+brother of Jones, Percy
+
+---
+
+!citation Indianapolis Star @ 1929-04-15; page 16
+!citation Joplin Globe @ 1929-09-01; page 11
+!citation Pittsburgh Post-Gazette @ 1929-04-22; page 15
+
+#profile Lowell, Eddie
+key 20170319_090
+player 1928 Wheeling (Middle Atlantic)
+player 1929 Wheeling (Middle Atlantic); TL
+player 1930 Oklahoma City (Western)
+
+---
+
+!citation Harrisburg Telegraph @ 1930-07-22; page 13
+
+#profile Clancy, Tom
+key 20170319_091
+player 1930 Hazleton (New York-Pennsylvania)
+player 1930 Cumberland (Middle Atlantic)
+player 1930 Wilkes-Barre (New York-Pennsylvania)
+
+
+#profile Bolger, Ted
+key 20170319_092
+player 1930 Hazleton (New York-Pennsylvania); TL
+
+---
+
+!citation Greeley Daily Tribune @ 1932-04-23; page 5
+
+#profile Lightfoot, Charlie
+key 20170319_093
+player 1931 Tucson (Arizona-Texas)
+player 1932 St. Joseph (Western)
+player 1933 Los Angeles (Pacific Coast)
+
+---
+
+!citation SABR bio
+!citation Bridgeport Evening Farmer @ 1911-04-04; page 9
+
+#profile Pond, Ralph
+key 20170319_094
+player 1910 Boston (American)
+player 1911 Waterbury (Connecticut State)
+
+---
+
+!citation Bridgeport Evening Farmer @ 1912-04-10
+
+#profile Betts, George
+key 20170319_095
+player 1911 Jacksonville (South Atlantic)
+player 1912 Holyoke (Connecticut State)
+
+---
+
+!citation Bridgeport Evening Farmer @ 1910-02-21
+!citation Norwich Bulletin @ 1909-08-11
+
+#profile Crutcher, Louis
+key 20170319_096
+player 1909 Waterbury (Connecticut State)
+player 1909 Holyoke (Connecticut State)
+player 1909 (Blue Grass)
+
+---
+
+!citation Bridgeport Evening Farmer @ 1910-08-31
+
+#profile Crozier, Dick
+key 20170319_097
+player 1909 Raleigh (Eastern Carolina)
+player 1910 Waterbury (Connecticut State)
+
+---
+
+#profile Clancy, Bill
+key 20170319_098
+player 1927 Nashua (New England)
+player 1927 Lynn (New England)
+player 1928 Haverhill (New England)
+player 1929 New Bedford (New England)
+player 1930 Salem (New England)
+
+---
+
+!citation Greenville News @ 1924-04-17; page 13
+!citation Asheville Citizen-Times @ 1924-04-13; page 35
+!citation Asheville Citizen-Times @ 1925-05-18; page 10
+!citation Ashveille Citizen-Times @ 1925-03-22; page 36
+!citation Asheville Citizen-Times @ 1925-06-05; page 17
+
+#profile Clancy, Mike
+key 20170319_099
+player 1923 (Eastern)
+player 1924 Macon (South Atlantic)
+resides 1924 @ US/KY
+player 1925 Macon (South Atlantic)
+player 1925 Asheville (South Atlantic)
+player 1925 Laurens (Carolina)
+
+---
+
+!citation Greenville News @ 1924-04-17; page 13
+
+#profile Sikes, Don
+key 20170319_100
+player 1923 Columbia (South Atlantic)
+player 1924 Macon (South Atlantic)
+
+---
+
+!citation Asheville Citizen-Times @ 1925-05-17; page 36
+
+#profile Mann, Johnny
+key 20170319_101
+player 1925 Macon (South Atlantic)
+player 1925 Asheville (South Atlantic)
+
+---
+
+!citation Altoona Tribune @ 1911-05-22; page 10
+!citation Altoona Tribune @ 1911-05-29; page 10
+!citation Altoona Tribune @ 1911-02-20; page 10
+!citation Altoona Tribune @ 1910-06-21; page 6
+!citation Altoona Tribune @ 1910-06-18; page 10
+!citation Altoona Tribune @ 1912-04-27; page 10
+!citation Nashville Tennessean @ 1912-05-29; page 10
+!citation Atlanta Constitution @ 1913-06-10; page 8
+!citation San Antonio Express @ 1912-11-24
+!citation San Antonio Express @ 1914-06-30
+!citation Ruggles, History of Texas League
+
+#profile Clark, William James [Jimmy] "Ginger"
+key 20170319_102
+player 1910 Altoona (Tri-State)
+player 1911 Altoona (Tri-State)
+player 1911 St. Louis (National)
+player 1912 Mobile (Southern Association)
+player 1913 Mobile (Southern Association)
+player 1912 San Antonio (Texas)
+player 1914 San Antonio (Texas)
+player 1914 Beaumont (Texas)
+college Bucknell
+
+---
+
+!citation Altoona Tribune @ 1911-09-06; page 10
+!citation Altoona Tribune @ 1911-03-11; page 10
+!citation Altoona Tribune @ 1912-04-22; page 10
+!citation Wilmington Evening News @ 1913-01-24; page 13
+!citation York Daily @ 1912-04-03; page 6
+!citation York Daily @ 1913-03-05; page 5
+
+#profile Clark, Jimmy
+key 20170319_103
+player 1911 Johnstown (Tri-State)
+player 1912 York (Tri-State)
+resides 1912 @ US/PA/Halstell
+player 1913 Trenton (Tri-State)
+
+---
+
+!citation York Daily @ 1912-04-03; page 6
+!citation Wilmington Morning News @ 1912-05-28; page 7
+
+#profile Henderson, Ed
+key 20170319_104
+player 1911 Binghamton (New York State)
+player 1912 Johnstown (Tri-State)
+
+---
+
+!citation Omaha Daily Bee @ 1913-06-15; page 35
+
+#profile Clarke, Talt
+key 20170319_105
+player 1910 Superior (Nebraska State)
+player 1913 Fremont (Nebraska State)
+
+---
+
+!citation Lubbock Avalanche @ 1922-08-22; page 3
+!citation El Paso Herald @ 1922-09-21; page 8
+!citation Albuquerque Journal @ 1923-03-19; page 2
+
+#profile Clary, Bobby
+key 20170319_106
+player 1922 Clovis (West Texas)
+player 1923 Clovis (Panhandle-Pecos Valley)
+
+---
+
+!citation Reading Times @ 1924-05-19; page 3
+!citation El Paso Herald @ 1922-12-26; page 6
+!citation Reading Times @ 1924-06-16; page 3
+
+#profile Clary, James [Jim] "Slim"
+key 20170319_107
+player 1923 Bridgeport (Eastern); TR
+player 1924 Reading (International); H74
+resides 1924 @ US/AR
+
+---
+
+!citation Altoona Tribune @ 1912-03-04; page 10
+
+#profile Manning, Jack
+key 20170319_108
+player 1911 Johnstown (Tri-State)
+player 1912 York (Tri-State)
+manager 1912 York (Tri-State)
+
+---
+
+!citation Springfield (MO) Leader @ 1924-02-04; page 7
+
+#profile Cleveland, Barney
+key 20170319_109
+describe ; W67 W160
+player 1912 Johnson City (Appalachian)
+player 1916 Birmingham (Southern Association)
+manager 1922 Sapulpa (Southwestern)
+manager 1923 Sapulpa (Southwestern)
+manager 1924 Sapulpa (Southwestern)
+
+---
+
+!citation Springfield (MO) Leader @ 1924-02-24; page 7
+!citation Richmond Item @ 1918-02-21; page 5
+!citation Oskaloosa Independent @ 1918-06-07; page 7
+!citation East Liverpool Evening Review @ 1919-07-23; page 10
+
+#profile Purtell, Mark
+key 20170319_110
+player 1918 Columbus (American Association)
+player 1918 Toledo (American Association)
+player 1919 Toronto (International)
+player 1921 Vancouver (Pacific Coast International)
+manager 1924 Hutchinson (Western Association)
+brother of Purtell, Billy
+
+---
+
+#profile Toland, Thomas
+key 20170319_111
+describe ; H73 W180
+player 1917 Birmingham (Southern Association)
+player 1917 Raleigh (North Carolina State)
+manager 1924 Topeka (Western Association)
+resides 1924 @ US/AR/Nashvile
+
+---
+
+!citation Springfield (MO) Leader @ 1924-02-04; page 7
+
+#profile Marr, Clifton
+key 20170319_112
+player 1917 La Crosse (Central Association)
+player 1918 St. Joseph (Western)
+manager 1924 Fort Smith (Western Association)
+
+#profile Agnew, Troy
+key 20170319_113
+player 1913 Quincy (Illinois-Indiana-Iowa)
+player 1913 Danville (Illinois-Indiana-Iowa)
+player 1916 Fort William (Northern)
+player 1917 Alton (Illinois-Indiana-Iowa)
+player 1917 Marshalltown (Central Association)
+player 1918 Joplin (Western)
+manager 1924 Okmulgee (Western Association
+
+---
+
+!citation Springfield (MO) Leader @ 1924-05-04; page 10
+
+#profile Clayton, Schley "Happy"
+key 20170319_114
+player 1923 Okmulgee (Western Association)
+player 1924 Augusta (South Atlantic)
+
+---
+
+!citation Rochester Democrat and Chronicle @ 1915-05-15; page 23
+
+#profile Clemens, Bob
+key 20170319_115
+player 1914 St. Louis (American)
+player 1915 Rochester (International)
+
+---
+
+!citation Oshkosh Northwestern @ 1909-04-21; page 3
+
+#profile Bicksford, Charles
+key 20170319_116
+player 1909 Oshkosh (Wisconsin-Illinois)
+
+---
+
+!citation Minneapolis Star Tribune @ 1909-10-12; page 11
+
+#profile Coates, Thomas
+key 20170319_117
+player 1909 Oshkosh (Wisconsin-Illinois)
+resides 1909 @ US/WI/Omro
+death 1909-10-11 @ US/WI/Oshkosh
+
+---
+
+!citation Sporting Life @ 1904-07-16; page 22
+!citation Sporting Life @ 1906-10-06; page 19
+
+#profile Coates, Floyd
+key 20170319_118
+player 1904 Waterloo (Iowa)
+player 1906 Oskaloosa (Iowa)
+
+
+---
+
+!contributor Davis Barker
+
+#profile Collins, Ortho
+key 20170319_119
+player 1909 Washington (American)
+player 1910 Sioux City (Western)
+
+#profile Beers, Charles
+key 20170319_120
+player 1910 Sioux City (Western)
+player 1911 Portsmouth (Ohio State)
+
+
+#profile Friel, Joe
+key 20170319_121
+player 1910 Norwich (Connecticut Association)
+
+
+#profile McIntyre, Dennie
+key 20170319_122
+player 1910 Norwich (Connecticut Association)
+
+
+#profile Wallace, Bud
+key 20170319_123
+player 1910 Norwich (Connecticut Association)
+
+
+#profile Manley, Irving
+key 20170319_124
+player 1910 Willimantic (Connecticut Association)
+
+
+#profile D'Andrea, Joseph
+key 20170319_125
+player 1910 Willimantic (Connecticut Association)
+
+
+#profile O'Mara, Paddy
+key 20170319_126
+player 1910 Willimantic (Connecticut Association)
+
+
+#profile Petrick, E. L.
+key 20170319_127
+player 1910 Willimantic (Connecticut Association)
+resides 1910 @ US/NJ/Jersey City
+
+---
+
+!citation Springfield (MO) Republican @ 1922-12-22; page 7
+
+#profile Cochrane, Charles
+key 20170319_128
+player 1922 Enid (Western Association)
+player 1923 Sacramento (Pacific Coast)
+
+---
+
+!citation Sporting Life @ 1911-04-22; page 14
+!citation Sporting Life @ 1914-03-07; page 13
+
+#profile Collins, Luke
+key 20170319_129
+player 1911 Trenton (Tri-State)
+player 1913 Winona (Northern)
+
+---
+
+!citation Sporting Life @ 1911-04-22; page 14
+
+#profile Lloyd, Lefty
+key 20170319_130
+player 1911 Trenton (Tri-State); TL
+
+---
+
+!citation diamondsinthedusk.com
+!url http://www.diamondsinthedusk.com/uploads/articles/287-FALLENSTEIN_Ed.pdf
+
+#profile Fallenstein, Ed
+key 20170319_131
+player 1929 Wilkes-Barre (New York-Pennsylvania)
+player 1929 Newark (International)
+player 1931 Allentown (Eastern)
+player 1933 Harrisburg (New York-Pennsylvania)
+
+---
+
+!citation Arizona Republic @ 1927-01-29; page 7
+!citation Arizona Daily Star @ 1930-09-21; page 13
+!citation Arizona Daily Star @ 1931-03-12; page 13
+!citation El Paso Herald-Post @ 1931-04-12; page 13
+!citation Arizona Republic @ 1927-07-18; page 7
+!citation Arizona Daily Star @ 1928-03-09; page 4
+!citation Arizona Daily Star @ 1928-04-23; page 4
+!citation Arizona Republic @ 1929-04-01; page 10
+!citation El Paso Post @ 1930-03-24; page 7
+
+#profile Colvard, Robert [Bob] "Lefty"
+key 20170319_132
+player 1926 Miami (Arizona State)
+player 1927 Mesa (Arizona State)
+player 1927 Denver (Western); TL
+player 1927 Wichita (Western)
+player 1928 Miami (Arizona State)
+player 1929 Miami (Arizona State)
+player 1930 El Paso (Arizona State)
+player 1931 El Paso (Arizona-Texas)
+
+---
+
+!citation Arizona Republic @ 1929-04-01; page 10
+
+#profile Hanna, Henry
+key 20170319_133
+player 1929 Miami (Arizona State)
+
+
+#profile Quinn, Letch
+key 20170319_134
+player 1929 Miami (Arizona State)
+
+#profile Hill, Elmer
+key 20170319_135
+player 1929 Miami (Arizona State)
+
+
+#profile Wood, Lefty
+key 20170319_136
+player 1929 Miami (Arizona State); TL
+
+
+#profile Scaling, Sam
+key 20170319_137
+player 1929 Miami (Arizona State)
+
+
+#profile Williamson, Spec
+key 20170319_138
+player 1929 Phoenix (Arizona State)
+
+#profile Kent, George
+key 20170319_139
+player 1929 Phoenix (Arizona State)
+
+#profile McAdams, George
+key 20170319_140
+player 1929 Phoenix (Arizona State)
+
+
+#profile Zakariason, W. R.
+key 20170319_141
+player 1929 Phoenix (Arizona State)
+
+
+#profile Hubbell, George
+key 20170319_142
+player 1929 Phoenix (Arizona State)
+
+
+#profile Haines, Jim
+key 20170319_143
+player 1929 Phoenix (Arizona State)
+
+
+#profile Dobranski, Frank
+key 20170319_144
+player 1929 Phoenix (Arizona State)
+
+
+#profile Ornelas, Yam
+key 20170319_145
+player 1929 Phoenix (Arizona State)
+
+
+#profile Mumby, George
+key 20170319_146
+player 1929 Phoenix (Arizona State)
+
+
+#profile McMurtry, Delma
+key 20170319_147
+player 1929 Phoenix (Arizona State)
+
+
+#profile Davis, Harry
+key 20170319_148
+player 1929 Phoenix (Arizona State)
+
+
+#profile Adamson, George
+key 20170319_149
+player 1929 Tucson (Arizona State)
+
+
+#profile Tolson, Ben
+key 20170319_150
+player 1929 Tucson (Arizona State)
+
+
+#profile Anderson, Merle
+key 20170319_151
+player 1929 Tucson (Arizona State)
+
+
+#profile Fanizzi, Peter
+key 20170319_152
+player 1929 Tuscon (Arizona State)
+
+
+#profile Wallace, Harry
+key 20170319_153
+player 1929 Tucson (Arizona State)
+
+
+#profile Catina, Louis
+key 20170319_154
+player 1929 Tucson (Arizona State)
+
+
+#profile Hansen, Sid
+key 20170319_155
+player 1929 Globe (Arizona State)
+
+
+#profile Farrell, Bill
+key 20170319_156
+player 1929 Globe (Arizona State)
+
+
+#profile Grilli, Angelo
+key 20170319_157
+player 1929 Globe (Arizona State)
+
+
+#profile Scott, Mac
+key 20170319_158
+player 1929 Mesa (Arizona State)
+
+
+#profile Harper, Ed
+key 20170319_159
+player 1929 Mesa (Arizona State)
+
+
+#profile Snyder, Cecil
+key 20170319_160
+player 1929 Mesa (Arizona State)
+
+
+#profile Cole, Frank
+key 20170319_161
+player 1929 Mesa (Arizona State)
+
+
+#profile Weaver, Buck
+key 20170319_162
+player 1929 Mesa (Arizona State)
+
+
+#profile Fitzgerald, Dan
+key 20170319_163
+player 1929 Mesa (Arizona State)
+
+
+#profile Messner, Jake
+key 20170319_164
+player 1929 Mesa (Arizona State)
+
+
+#profile Dwyer, Ray
+key 20170319_165
+player 1929 Mesa (Arizona State)
+
+
+#profile Blackburn, Lavelle
+key 20170319_166
+player 1929 Mesa (Arizona State)
+
+
+#profile Stowers, Harry
+key 20170319_167
+player 1929 Bisbee (Arizona State)
+
+
+#profile Neilson, George
+key 20170319_168
+player 1929 Bisbee (Arizona State)
+
+
+#profile Green, Bart
+key 20170319_169
+player 1929 Bisbee (Arizona State)
+
+
+#profile Smith, Barton
+key 20170319_170
+player 1929 Bisbee (Arizona State)
+
+
+#profile Wells, L. A.
+key 20170319_171
+player 1929 Bisbee (Arizona State)
+
+
+#profile Norton, O. K.
+key 20170319_172
+player 1929 Bisbee (Arizona State)
+
+---
+
+!citation Decatur Daily Review @ 1922-12-17
+
+#profile Miller, Charlie
+key 20170319_173
+player 1909 Saginaw (Southern Michigan)
+player 1910 Toledo (American Association)
+player 1911 Portland (Pacific Coast)
+player 1913 Evansville (Central)
+player 1915 Denver (Western)
+player 1916 Denver (Western)
+player 1917 Waco (Texas)
+player 1919 Waco (Texas)
+player 1921 Houston (Texas)
+player 1922 Houston (Texas)
+player 1922 Corsicana (Texas-Oklahoma)
+player 1923 Decatur (Illinois-Indiana-Iowa)
+manager 1923 Decatur (Illinois-Indiana-Iowa)
+
+---
+
+!contributor Davis Barker
+
+#profile Marshall, Rube
+key 20170319_174
+player 1914 Philadelphia (National)
+player 1916 Topeka (Western)
+
+---
+
+!contributor Davis Barker
+!citation Topeka State Journal @ 1916-08-12
+
+
+#profile Lathrop, Bill
+key 20170319_175
+player 1914 Chicago (American)
+player 1916 Topeka (Western)
+
+---
+
+!citation Topeka State Journal @ 1916-03-25
+!citation Topeka State Journal @ 1916-08-03
+
+#profile Kaufman, Dick
+key 20170319_176
+player 1915 Tacoma (Northwestern)
+player 1916 Denver (Western)
+player 1916 Wichita (Western)
+player 1916 Topeka (Western)
+
+---
+
+!citation Topeka State Journal @ 1914-07-27
+
+#profile Bowen, Grady
+key 20170319_177
+player 1914 Topeka (Western)
+player 1914 Americus (Georgia State)
+
+---
+
+!citation Cincinnati Enquirer @ 1929-03-05; page 19
+
+#profile Davey, Harry
+key 20170319_178
+player 1928 Springfield (Central)
+player 1929 Toronto (International)
+
+---
+
+!citation Richmond (IN) Palladium-Item @ 1930-04-19; page 13
+
+#profile Delaney, Mike
+key 20170319_179
+player 1929 Waynesboro (Blue Ridge)
+
+
+#profile Conlan, Edward "Butch"
+key 20170319_180
+player 1930 Fort Wayne (Central)
+
+
+#profile Kelly, Joe
+key 20170319_181
+player 1929 Fort Wayne (Central)
+player 1930 Fort Wayne (Central)
+
+---
+
+!citation Harrisburg Evening News @ 1927-07-16; page 17
+!citation Wilkes-Barre Record @ 1927-08-03; page 18
+!citation Scranton Republican @ 1926-03-15; page 14
+
+#profile Connors, Charlie
+key 20170319_182
+player 1927 York (New York-Pennsylvania)
+player 1927 Jeannette (Middle Atlantic)
+player 1927 Wilkes-Barre (New York-Pennsylvania)
+
+---
+
+!citation Buffalo American @ 1921-04-08; page 7
+
+#profile Conroy, Bill
+key 20170319_183
+player 1920 St. Joseph (Western)
+player 1921 Minneapolis (American Association)
+
+---
+
+!citation Des Moines Register @ 1933-05-27; page 7
+
+
+#profile Clark, Ed
+key 20170319_184
+player 1932 Bartlesville (Western Association)
+player 1933 Topeka (Western); @P
+
+
+#profile Clark, Edwin
+key 20170319_185
+player 1933 Topeka (Western); @3B
+
+---
+
+!citation Lansing State Journal @ 1913-05-12; page 8
+!citation Sporting Life @ 1913-04-12; page 15
+
+#profile Cook, Arthur
+key 20170319_186
+player 1913 Saginaw (Southern Michigan)
+player 1914 Roanoke (Virginia)

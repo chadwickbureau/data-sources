@@ -197,3 +197,158 @@ resides 1914 @ US/TX/El Campo
 player 1914 McAlester (Western Association); @P H70 W160 TR BR; age=20
 resides 1914 @ US/MO/St. Louis
 
+---
+
+!citation 1953 Dallas Eagles Spring Training Roster
+
+#202003_048 Albers, Ralph
+player 1953 Dallas (Texas); @P BL TL W180 H73; age=23
+playing 1952 Longview; P_W 4; P_L 7
+
+#202003_049 Barbolla, Joe
+player 1953 Dallas (Texas); @P BL TL W185 H71; age=24
+playing 1952 Brownsville; P_W 5; P_L 3
+
+#202003_050 DiMaggio, Bartola
+player 1953 Dallas (Texas); @P BR TR W180 H74; age=20
+playing 1952 Port Arthur; P_W 17; P_L 7
+
+#202003_051 Dryden, Orel
+player 1953 Dallas (Texas); @P BR TR W180 H73; age=20
+playing 1952 Longview; P_W 13; P_L 17
+
+#202003_052 Gibson, Hoot
+player 1953 Dallas (Texas); @P BR TR W175 H72; age=35
+playing 1952 San Antonio; P_W 5; P_L 3
+
+#202003_053 Herron, Robert
+player 1953 Dallas (Texas); @P BR TR W215 H74; age=25
+
+#202003_054 Kash, Leslie
+player 1953 Dallas (Texas); @P BR TR W196 H73; age=26
+playing 1952 Port Arthur; P_W 13; P_L 5
+
+#202003_055 Liberton, Ervin
+player 1953 Dallas (Texas); @P BR TR W186 H70; age=28
+playing 1952 Brownsville; P_W 20; P_L 12
+
+#202003_056 Mazar, Pete
+player 1953 Dallas (Texas); @P BR TL W152 H69; age=32
+playing 1952 Dallas; P_W 9; P_L 4
+
+#202003_057 Murff, John
+player 1953 Dallas (Texas); @P BR TR W190 H75; age=28
+playing 1952 Tyler; P_W 23; P_L 13
+
+#202003_058 Pipak, Joseph
+player 1953 Dallas (Texas); @P BR TR W170 H73; age=23
+playing 1952 Longview; P_W 18; P_L 14
+
+#202003_059 Phipps, Jodie
+player 1953 Dallas (Texas); @P BR TR W198 H75; age=32
+playing 1952 Texarkana; P_W 18; P_L 9
+
+#202003_060 Pollock, Fred
+player 1953 Dallas (Texas); @P BL TL W178 H70; age=24
+military US; dates=/1952
+
+#202003_061 Pringle, Gale
+player 1953 Dallas (Texas); @P BR TR W175 H74; age=31
+playing 1952 Tyler; P_W 21; P_L 10
+
+#202003_062 Stryska, Vic
+player 1953 Dallas (Texas); @P BR TL W178 W73; age=26
+military US; dates=/1952
+
+#202003_063 Swanson, Robert
+player 1953 Dallas (Texas); @P BR TR W180 H73; age=28
+playing 1952 Paris; P_W 12; P_L 9
+
+#202003_064 Starr, Lee
+player 1953 Dallas (Texas); @P BR TR W195 H74; age=23
+military US; dates=/1952
+
+#202003_065 Young, Harry
+player 1953 Dallas (Texas); @P BR TR W173 H72; age=21
+playing 1952 Clovis; P_W 10; P_L 5; location=US/NM/Clovis
+
+#202003_066 Bareford, Robert
+player 1953 Dallas (Texas); @C BR TR W185 H71; age=25
+playing 1952 Port Arthur; B_AVG .302
+
+#202003_067 Fernandez, Rafael
+player 1953 Dallas (Texas); @C BR TR W186 H73; age=23
+playing 1952 Texas City; B_AVG .341
+
+#202003_068 Masi, Phil
+player 1953 Dallas (Texas); @C BR TR W185 H70; age=36
+playing 1952 Chicago; B_AVG .246
+
+#202003_069 Sullivan, Harry
+player 1953 Dallas (Texas); @C BL TR W210 H71; age=32
+playing 1952 Dallas; B_AVG .267
+
+#202003_070 Barcelo, Claudio
+player 1953 Dallas (Texas); @IF BR TR W160 H69; age=21
+playing 1952 Port Arthur; B_AVG .275
+
+#202003_071 Beeler, Jodie
+player 1953 Dallas (Texas); @IF BR TR W180 H71; age=31
+playing 1952 Dallas; B_AVG .253
+
+#202003_072 Bundy, Bob
+player 1953 Dallas (Texas); @IF BR TR W185 H69; age=29
+playing 1952 Dallas; B_AVG .42
+
+#202003_073 Clarkson, James
+player 1953 Dallas (Texas); @IF BR TR W200 H71; age=34
+playing 1952 Milwaukee; B_AVG .318
+
+#202003_074 Gomez, Hernan
+player 1953 Dallas (Texas); @IF BR TR W160 H69; age=25
+playing 1952 Brownsville; B_AVG .291
+
+#202003_075 Maul, Allan
+player 1953 Dallas (Texas); @IF BL TL W200 H75; age=27
+playing 1952 Longview; B_AVG .263
+
+#202003_076 Rutner, Mickey
+player 1953 Dallas (Texas); @IF BR TR W185 H71; age=32
+playing 1952 Tulsa; B_AVG .274
+
+#202003_077 Smartt, Robert
+player 1953 Dallas (Texas); @IF BR TR W160 H71; age=24
+note Played semipro ball in 1952
+
+#202003_078 Stringer, Al
+player 1953 Dallas (Texas); @IF BR TR W175 H72; age=30
+playing 1952 Dallas; B_AVG .272
+
+#202003_079 Taylor, Ben
+player 1953 Dallas (Texas); @IF BL TL W195 H72; age=25
+playing 1952 Sacramento; B_AVG .256
+
+#202003_080 Creel, Johnny
+player 1953 Dallas (Texas); @OF BL TR W165 W72; age=27
+playing 1952 Dallas; B_AVG .261
+
+#202003_081 Depperschmidt, Gene
+player 1953 Dallas (Texas); @OF BR TR W180 H72; age=23
+playing 1952 Port Arthur; B_AVG .295
+
+#202003_082 Gibson, Wes
+player 1953 Dallas (Texas); @OF BR TR W185 H72; age=24
+playing 1952 Dallas; B_AVG .286
+
+#202003_083 Moore, Wilcy
+player 1953 Dallas (Texas); @OF BR TR W185 H71; age=23
+playing 1952 Dallas; B_AVG .241
+
+#202003_084 Saulsberry, Bob
+player 1953 Dallas (Texas); @OF BL TR W180 H73; age=22
+playing 1952 Port Arthur; B_AVG .311
+
+#202003_085 Brown, Willard
+player 1953 Dallas (Texas)
+playing 1952 Kansas City Monarchs
+
