@@ -1,0 +1,199 @@
+!citation Los Angeles Times @ 1949-09-02
+
+#202003_001 Linde, Lyman
+player 1949 San Diego (Pacific Coast); @P BR TR; age=26
+playing 1948 Baltimore; P_G 18; P_W 5; P_L 9; P_ERA 4.50
+playing 1948 Cleveland; P_G 3; P_W 0; P_L 0; P_ERA 5.56
+
+#202003_002 Hafey, Will
+player 1949 San Diego (Pacific Coast); @P BL TR; age=28
+playing 1948 Oakland; P_G 30; P_W 13; P_L 10; P_ERA 4.47
+
+#202003_003 Budnick, Mike
+player 1949 San Diego (Pacific Coast); @P BR TR; age=28
+playing 1948 San Diego; P_G 28; P_W 4; P_L 8; P_ERA 4.67
+
+#202003_004 Clary, Ken
+player 1949 San Diego (Pacific Coast); @P BR TR; age=19
+playing 1948 Tacoma; P_G 36; P_W 7; P_L 10; P_ERA 5.62
+
+#202003_005 Flores, Jesse
+player 1949 San Diego (Pacific Coast); @P BR TR; age=32
+playing 1948 San Diego; P_G 41; P_W 11; P_L 19; P_ERA 4.36
+
+#202003_006 Fortier, Ray
+player 1949 San Diego (Pacific Coast); @P BL TL; age=24
+playing 1948 Tacoma; P_G 33; P_W 13; P_L 10; P_ERA 5.05
+
+#202003_007 Jurisich, Al
+player 1949 San Diego (Pacific Coast); @P BR TR; age=27
+playing 1948 San Diego; P_G 38; P_W 11; P_L 12; P_ERA 5.62
+
+#202003_008 Kerrigan, Bob
+player 1949 San Diego (Pacific Coast); @P BL TL; age=26
+playing 1948 San Diego; P_G 46; P_W 3; P_L 6; P_ERA 4.74
+
+#202003_009 Kipp, Tom
+player 1949 San Diego (Pacific Coast); @P BR TL; age=24
+playing 1948 Tacoma; P_G 10; P_W 3; P_L 2; P_ERA 4.06
+
+#202003_010 Knezovich, Mel
+player 1949 San Diego (Pacific Coast); @P BR TR; age=19
+
+#202003_011 Nicholas, George
+player 1949 San Diego (Pacific Coast); @P BR TR; age=25
+playing 1948 San Diego; P_G 13; P_W 2; P_L 4; P_ERA 6.89
+playing 1948 Tacoma; P_G 28; P_W 14; P_L 7; P_ERA 2.42
+
+#202003_012 Ritchey, John
+player 1949 San Diego (Pacific Coast); @C BL TR; age=24
+playing 1948 San Diego; B_AVG .323; B_RBI 44; B_HR 4
+
+#202003_013 Hampton, Bob
+player 1949 San Diego (Pacific Coast); @C BR TR; age=25
+playing 1948 Bryan; B_AVG .244; B_RBI 80; B_HR 10
+
+#202003_014 Ruszkowski, Henry
+player 1949 San Diego (Pacific Coast); @C BR TR; age=24
+playing 1948 Baltimore; B_AVG .245; B_RBI 4; B_HR 3
+
+#202003_015 Coscarart, Pete
+player 1949 San Diego (Pacific Coast); @IF BR TR; age=32
+playing 1948 San Diego; B_AVG .207; B_RBI 25; B_HR 3
+
+#202003_016 Easter, Luke
+player 1949 San Diego (Pacific Coast); @IF BL TR; age=27
+playing 1948 (Negro League); B_AVG .376
+
+#202003_017 Handley, Lee
+player 1949 San Diego (Pacific Coast); @IF BR TR; age=33
+playing 1948 San Diego; B_AVG .300; B_RBI 65; B_HR 5
+
+#202003_018 Jones, Gordon
+player 1949 San Diego (Pacific Coast); @IF BR TR; age=21
+playing 1948 Wilkes-Barre
+playing 1948 Spartanburg
+
+#202003_019 Logan, Vance
+player 1949 San Diego (Pacific Coast); @IF BR TR; age=19
+note Was amateur in 1948
+
+#202003_020 Mesner, Steve
+player 1949 San Diego (Pacific Coast); @IF BR TR; age=30
+playing 1948 Sacramento; B_AVG .316; B_RBI 12; B_HR 1
+playing 1948 San Diego; B_AVG .293; B_RBI 64; B_HR 7
+
+#202003_021 Shupe, Vince
+player 1949 San Diego (Pacific Coast); @IF BL TL; age=27
+playing 1948 San Diego; B_AVG .245; B_RBI 60; B_HR 6
+
+#202003_022 Zomlefer, Sid
+player 1949 San Diego (Pacific Coast); @IF BR TR; age=22
+playing 1948 Oklahoma City; B_AVG .222; B_RBI 52; B_HR 1
+
+#202003_023 Wilson, Bobby
+player 1949 San Diego (Pacific Coast); @IF BR TR; age=23
+playing 1948 Baltimore; B_AVG .253; B_RBI 25; B_HR 6
+
+#202003_024 Wilson, Artie
+player 1949 San Diego (Pacific Coast); @IF BL TR; age=29
+playing 1948 (Negro League); B_AVG .402; B_RBI 41; B_HR 2
+
+#202003_025 Adams, Buster
+player 1949 San Diego (Pacific Coast); @OF BR TR; age=32
+playing 1948 San Diego; B_AVG .253; B_RBI 34; B_HR 8
+
+#202003_026 Barrett, Johnny
+player 1949 San Diego (Pacific Coast); @OF BL TL; age=31
+playing 1948 San Diego; B_AVG .339; B_RBI 90; B_HR 24
+
+#202003_027 Clay, Dain
+player 1949 San Diego (Pacific Coast); @OF BR TR; age=29
+playing 1948 San Diego; B_AVG .291; B_RBI 77; B_HR 15
+
+#202003_028 Greco, Dick
+player 1949 San Diego (Pacific Coast); @OF BR TR; age=23
+playing 1948 Tacoma; B_AVG .346; B_RBI 126; B_HR 21
+playing 1948 San Diego; B_AVG .244; B_RBI 17; B_HR 4
+
+#202003_029 Jensen, Johnny
+player 1949 San Diego (Pacific Coast); @OF BR TR; age=30
+playing 1948 San Diego; B_AVG .279; B_RBI 34; B_HR 6
+
+#202003_030 Locklin, Stuart
+player 1949 San Diego (Pacific Coast); @OF BL TL; age=20
+note Was amateur in 1948
+
+#202003_031 West, Max
+player 1949 San Diego (Pacific Coast); @OF BL TR; age=32
+playing 1948 Pittsburgh; B_AVG .178; B_RBI 21; B_HR 8
+
+---
+
+!citation The Daily Oklahoman @ 1914-05-01; page 9
+
+#202003_032 Kane, Jerry
+player 1914 McAlester (Western Association); @SS H69 W165 TR BR; age=37
+manager 1914 McAlester (Western Association)
+resides 1914 @ US/OK/Chelsea
+
+#202003_033 Wren, Clyde
+player 1914 McAlester (Western Association); @RF H67 W155 TL BL; age=18
+resides 1914 @ US/OK/McAlester
+
+#202003_034 Burns, Bobby
+player 1914 McAlester (Western Association); @LF H71 W175 TR BR; age=19
+resides 1914 @ US/PA/Warren
+
+#202003_035 Patterson, "Slim"
+player 1914 McAlester (Western Association); @CF H72 W170 TL BR; age=23
+resides 1914 @ US/OK/Hartshorne
+
+#202003_036 Hawkins, Claud
+player 1914 McAlester (Western Association); @3B H70 W180 TL BL; age=28
+resides 1914 @ US/OK/McAlester
+
+#202003_037 Simpson, Jesse
+player 1914 McAlester (Western Association); @2B H73 W185 TR BR; age=25
+resides 1914 @ US/OK/Holdenville
+
+#202003_038 Lawrence, James
+player 1914 McAlester (Western Association); @UT H68 W160 TR BR; age=24
+resides 1914 @ US/OK/Krebs
+
+#202003_039 Hall, Grover
+player 1914 McAlester (Western Association); @1B H71 W170 TR BR; age=24
+resides 1914 @ US/OK/Eufaula
+
+#202003_040 Kaiser, Clyde
+player 1914 McAlester (Western Association); @C H73 W180 TR BR; age=23
+resides 1914 @ US/OK/Ada
+
+#202003_041 Crowson, Pats
+player 1914 McAlester (Western Association); @P H71 W175 TR BR; age=26
+resides 1914 @ US/TX/Honey Grove
+
+#202003_042 Fusich, L.
+player 1914 McAlester (Western Association); @P H73 W180 TR BR; age=25
+resides 1914 @ US/LA/New Orleans
+
+#202003_043 Reed, "Lefty"
+player 1914 McAlester (Western Association); @P H70 W160 TL BL; age=24
+resides 1914 @ US/OK/Medford
+
+#202003_044 Wise, John
+player 1914 McAlester (Western Association); @P H70 W170 TR BR; age=22
+resides 1914 @ US/OK/Pawhuska
+
+#202003_045 Hassinger, Clyde
+player 1914 McAlester (Western Association); @P H71 W170 TR BR; age=20
+resides 1914 @ US/OK/McAlester
+
+#202003_046 Bowen, Theo.
+player 1914 McAlester (Western Association); @P H71 W180 TR BR; age=21
+resides 1914 @ US/TX/El Campo
+
+#202003_047 Egan, Thomas
+player 1914 McAlester (Western Association); @P H70 W160 TR BR; age=20
+resides 1914 @ US/MO/St. Louis
+
