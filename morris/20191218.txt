@@ -1,6 +1,5 @@
 !citation Gastonia Gazette @ 1955-01-26
 !file Turney_Ted.pdf
-!contributor Jack Morris <jackmo77@comcast.net> @ 2019-12-18
 
 #profile Turney, Ted
 key 20191218_001

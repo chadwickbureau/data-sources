@@ -1,0 +1,240 @@
+!citation   Pawtucket Times @ 1915-05-08; page 6
+
+#20190121_001 Martin, Bill
+player 1915 Pawtucket (Colonial)
+player 1914 Pawtucket (Colonial); @P
+alias Williams, William; dates=1914/1914; type=alias
+
+---
+
+!citation   Pawtucket Times @ 1915-06-01; page 6
+
+#20190121_002 Walker, Mysterious
+player 1915 New Haven (Colonial); @P
+
+---
+
+!citation   Pawtucket Times @ 1915-06-02; page 13
+
+#20190121_003 Moore, Sammy
+player 1915 Pawtucket (Colonial)
+highschool Central Falls HS @ US/RI/Central Falls
+
+---
+
+!citation   Pawtucket Times @ 1915-06-04; page 6
+
+
+#20190121_004 Eaton, Roger
+player 1915 New Bedford (Colonial); @P
+
+---
+
+!citation   Pawtucket Times @ 1915-06-17; page 6
+
+#20190121_005 Howson, Jack
+player 1915 Pawtucket (Colonial); @P
+highschool Pawtucket HS @ US/RI/Pawtucket
+
+#20190121_006 Finnell, Jack
+umpire 1915 Colonial League
+
+#20190121_007 Loud, Prep
+player 1915 Pawtucket (Colonial)
+player <=1915 Brown University; caliber=college
+
+---
+
+!citation   Pawtucket Times @ 1915-06-21; page 6
+
+#20190121_008 McElroy, William
+player 1915 Pawtucket (Colonial); @P
+resides 1915-06-21 @ US/RI/Providence
+
+#20190121_009 Loud, Prep
+player 1915 Pawtucket (Colonial); @CF
+resides 1915-06-21 @ US/MA/Brockton
+note quit to be a counselor at a boys' camp in Oxford, ME
+
+---
+
+!citation   Pawtucket Times @ 1915-08-07; page 6
+
+#20190121_010 Boyle, Pete
+player 1915 Pawtucket (Colonial); @P
+player <=1915 (North Carolina State)
+resides 1915-08-07 @ US/RI/Riverpoint
+
+---
+
+!citation  Hartford Courant @ 1915-06-27; page 35
+
+#20190121_011 Burke
+player 1915 Hartford (Colonial); @C
+player 1915 Fitchburg (New England)
+
+---
+
+!citation  Boston Globe @ 1915-05-09; page 170
+
+#20190121_012 Smith
+player 1915 Taunton (Colonial); @P
+player 1914 Taunton (Colonial)
+
+---
+
+!citation Elmira Star-Gazette @ 1916-05-17; page 8
+
+#20190121_013 Clermont, Arthur
+player 1916 Troy (New York State); @P TR
+resides 1916-05-17 @ US/MA/Worcester
+
+---
+
+!citation Springfield Republican @ 1915-06-02; page 10
+
+#20190121_014 Foley, J.D.
+player 1915 Springfield (Colonial); @1B-C
+resides 1915-06-02 @ US/MA/Worcester
+player <=1915 Syracuse University; caliber=college
+
+---
+
+!citation Springfield Republican @ 1915-06-03; page 12
+
+#20190121_015 Foley, Joe
+player 1915 Springfield (Colonial)
+player 1914 Syracuse University; caliber=college
+
+---
+
+!citation Baltimore Sun @ 1916-03-27; page 9
+
+#20190121_016 Clauser, Earl
+player 1916 Chambersburg (Blue Ridge); @2B-SS
+player 1915 New Bedford (Colonial); @3B
+alias Jiggs; dates=1915/1915; type=alias
+
+---
+
+!citation Camden Courier-Post @ 1915-03-30; page 2
+
+#20190121_017 Clouser, Frank "Sis"
+player 1915 Elmira (New York State)
+resides 1915-03-30 @ US/NJ/Camden
+
+---
+
+!citation Elmira Star-Gazette @ 1915-06-03; page 9
+
+#20190121_018 Clouser, Frank
+player 1915 Wellsville (Interstate)
+player 1915 Elmira (New York State)
+
+---
+
+!citation Elmira Star-Gazette @ 1915-08-27; page 8
+
+#20190121_019 Murphy, Marty
+player 1915 Albany (New York State); @RF
+resides 1915-08-27 @ US/PA/Scranton
+
+---
+
+!citation Philadelphia Inquirer @ 1915-06-08; page 10
+
+#20190121_020 Williams, Al
+player 1915 Scranton (New York State); @P
+
+---
+
+!citation Hartford Courant @ 1915-07-24; page 19
+
+#20190121_021 O'Connor, Dick
+player 1915 Manchester (New England); @OF
+player 1915 Albany (New York State); @C
+player 1914 Fall River (Colonial); @C
+
+---
+
+!citation Binghamton Press & Sun-Bulletin @ 1915-04-21; page 13
+
+#20190121_022 Foley, Joe
+player <=1915 Syracuse University; caliber=college
+
+---
+
+!citation Elmira Star-Gazette @ 1915-04-07; page 8
+
+#20190121_023 Crowthers, George M.
+player 1915 Troy (New York State); @2B
+player <=1914 Brown; caliber=college
+player 1914 Newport (Twin State); caliber=semipro
+
+#20190121_024 Johnson, Rube
+player 1913 Duluth (Northern); @P TR
+
+#20190121_025 Fitzgerald, John F.
+player 1914 (Atlantic)
+resides 1915 @ US/NY/Oswego
+
+#20190121_026 Carroll, Howard
+player 1914 Rockford (Wisconsin-Illinois)
+resides 1915 @ US/NY/Rome
+
+#20190121_027 Osborne, Delos
+player 1914 (Canadian)
+resides 1915 @ US/NY/Brooklyn
+
+---
+
+!citation Elmira Star-Gazette @ 1915-04-07; page 9
+
+#20190121_028 Colligan, Eddie
+player 1914 San Francisco (Pacific Coast)
+resides 1915 @ US/NY/Olean
+
+---
+
+!citation Elmira Star-Gazette @ 1915-04-09; page 8
+
+#20190121_029 Monroe, Eddie
+player 1915 Topeka (Western)
+resides 1915 @ US/NY/Elmira Heights
+
+#20190121_030 McBride, J.A.
+umpire 1915 New York State League
+resides 1915 @ US/NJ/Phillipsburg
+
+#20190121_031 O'Connor, Arthur
+umpire 1915 New York State League
+resides 1915 @ US/NY/Auburn
+
+#20190121_032 Johnson, Harry G.
+umpire 1915 New York State League
+resides 1915 @ US/IL/Chicago
+
+#20190121_033 Dougherty, J. A.
+umpire 1915 New York State League
+resides 1915 @ US/NJ/Paterson
+
+#20190121_034 Pender, Robert
+umpire 1915 New York State League
+resides 1915 @ US/LA/New Orleans
+
+---
+
+!citation Elmira Star-Gazette @ 1915-04-10; page 8
+
+#20190121_035 Weiss, Honey
+player 1915 Albany (New York State); @P
+player 1914 Albany (New York State)
+
+#20190121_036 Miller, Warren
+player 1915 Albany (New York State); @OF
+
+#20190121_037 Wilcox, Solly
+player 1915 Albany (New York State); @OF
+
+#20190121_038 Hammersley, Walter
+player 1915 Syracuse (New York State)

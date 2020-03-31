@@ -1,15 +1,13 @@
-!citation  Richmond Times Dispatch 1915-06-20; page 16
-!contributor Jack Morris <jackmo77@comcast.net>
+!citation  Richmond Times Dispatch @ 1915-06-20; page 16
 
 #profile Bruce, Fisher
 key 20190813_001
 player 1915 Norfolk (Virginia) 
-player 1915 Virginia Polytechnic Institute and State University [caliber=college]
+player 1915 Virginia Polytechnic Institute and State University; caliber=college
 
 ---
 
-!citation  Newport News Daily Press 1915-05-21; page 5
-!contributor Jack Morris <jackmo77@comcast.net>
+!citation  Newport News Daily Press @ 1915-05-21; page 5
 
 #profile Richmond, Clive "Hooks"
 key 20190813_002
@@ -17,8 +15,7 @@ player 1915 Petersburg (Virginia)
 
 ---
 
-!citation  Richmond Times-Dispatch 1913-01-31; page 7
-!contributor Jack Morris <jackmo77@comcast.net>
+!citation  Richmond Times-Dispatch @ 1913-01-31; page 7
 
 #profile Tignor, M. Rex
 key 20190813_003
@@ -26,8 +23,7 @@ player 1913 Petersburg (Virginia); @C
 
 ---
 
-!citation  Richmond Times-Dispatch 1915-06-24; page 9
-!contributor Jack Morris <jackmo77@comcast.net>
+!citation  Richmond Times-Dispatch @ 1915-06-24; page 9
 
 #profile Gaston, Steve
 key 20190813_004
@@ -35,8 +31,7 @@ player 1915 Suffolk (Virginia); @P
 
 ---
 
-!citation  Winston-Salem Journal 1915-02-21; page 6
-!contributor Jack Morris <jackmo77@comcast.net>
+!citation  Winston-Salem Journal @ 1915-02-21; page 6
 
 #profile Eisel, Roy
 key 20190813_005
@@ -47,7 +42,7 @@ resides 1915 @ US/OH/Columbus
 #profile Osteen, Bill
 key 20190813_006
 player 1915 Rocky Mount (Virginia) 
-player 1914 Davidson College [caliber=college]
+player 1914 Davidson College; caliber=college
 resides 1915 @ US/SC/Greenville
 
 #profile Burge, Wallace
@@ -63,8 +58,7 @@ resides 1915 @ US/OH/Columbus
 
 ---
 
-!citation  Chillicothe Gazette 1915-05-27; page 3
-!contributor Jack Morris <jackmo77@comcast.net>
+!citation  Chillicothe Gazette @ 1915-05-27; page 3
 
 #profile Eisel, Roy
 key 20190813_009
@@ -72,8 +66,7 @@ player 1914 Chillicothe (Ohio State)
 
 ---
 
-!citation  Richmond Times-Dispatch 1915-06-26; page 9
-!contributor Jack Morris <jackmo77@comcast.net>
+!citation  Richmond Times-Dispatch @ 1915-06-26; page 9
 
 #profile Welcher, Abe
 key 20190813_010
@@ -85,8 +78,7 @@ player 1915 Norfolk (Virginia); @1B
 
 ---
 
-!citation  Richmond Times-Dispatch 1915-06-29; page 8
-!contributor Jack Morris <jackmo77@comcast.net>
+!citation  Richmond Times-Dispatch @ 1915-06-29; page 8
 
 #profile Snyder, Jim
 key 20190813_012
@@ -103,8 +95,7 @@ manager 1914 Norfolk (Virginia)
 
 ---
 
-!citation Richmond Times Dispatch 1915-07-07; page 8
-!contributor Jack Morris <jackmo77@comcast.net>
+!citation Richmond Times Dispatch @ 1915-07-07; page 8
 
 #profile Breen, Ed
 key 20190813_015
@@ -112,8 +103,7 @@ player 1915 Norfolk (Virginia)
 
 ---
 
-!citation Richmond Times Dispatch 1915-08-01; page 15
-!contributor Jack Morris <jackmo77@comcast.net>
+!citation Richmond Times Dispatch @ 1915-08-01; page 15
 
 #profile Stinson, George
 key 20190813_016
@@ -122,8 +112,7 @@ manager 1915 (South Atlantic)
 
 ---
 
-!citation Richmond Times Dispatch 1915-08-21; page 5
-!contributor Jack Morris <jackmo77@comcast.net>
+!citation Richmond Times Dispatch @ 1915-08-21; page 5
 
 #profile Craft, Molly
 key 20190813_017
@@ -132,8 +121,7 @@ highschool Portsmouth HS @ US/VA/Portsmouth
 
 ---
 
-!citation Newport News Daily Press 1915-02-24; page 5
-!contributor Jack Morris <jackmo77@comcast.net>
+!citation Newport News Daily Press @ 1915-02-24; page 5
 
 #profile Agnew
 key 20190813_018
@@ -142,8 +130,7 @@ player 1914 Petersburg (Virginia); @1B
 
 ---
 
-!citation Newport News Daily Press 1915-08-03; page 5
-!contributor Jack Morris <jackmo77@comcast.net>
+!citation Newport News Daily Press @ 1915-08-03; page 5
 
 #profile Stinson, George
 key 20190813_019
@@ -151,8 +138,7 @@ manager 1915 Orphans (Virginia)
 
 ---
 
-!citation Newport News Daily Press 1915-04-22; page 5
-!contributor Jack Morris <jackmo77@comcast.net>
+!citation Newport News Daily Press @ 1915-04-22; page 5
 
 #profile Berger, Clarence
 key 20190813_020
@@ -168,8 +154,7 @@ player (Carolina Association)
 
 ---
 
-!citation Newport News Daily Press 1915-07-21; page 5
-!contributor Jack Morris <jackmo77@comcast.net>
+!citation Newport News Daily Press @ 1915-07-21; page 5
 
 #profile Pooray, Eddie
 key 20190813_022
@@ -193,8 +178,7 @@ player 1915 Petersburg (Virginia)
 
 ---
 
-!citation Chambersburg Public Opinion 1916-06-08; page 6
-!contributor Jack Morris <jackmo77@comcast.net>
+!citation Chambersburg Public Opinion @ 1916-06-08; page 6
 
 #profile Spencer, Ben
 key 20190813_027
@@ -203,8 +187,7 @@ player 1916 Chambersburg (Blue Ridge)
 
 ---
 
-!citation Newport News Daily Press 1915-05-05; page 5
-!contributor Jack Morris <jackmo77@comcast.net>
+!citation Newport News Daily Press @ 1915-05-05; page 5
 
 #profile Mumford, John
 key 20190813_028
@@ -212,8 +195,7 @@ player 1915 Newport News (Virginia); @P
 
 ---
 
-!citation Newport News Daily Press 1915-01-31; page 2
-!contributor Jack Morris <jackmo77@comcast.net>
+!citation Newport News Daily Press @ 1915-01-31; page 2
 
 #profile Colley, Frank
 key 20190813_029
@@ -221,8 +203,7 @@ player 1915 Newport News (Virginia); @P W160 H70
 
 ---
 
-!citation Newport News Daily Press 1915-04-24; page 5
-!contributor Jack Morris <jackmo77@comcast.net>
+!citation Newport News Daily Press @ 1915-04-24; page 5
 
 #profile Colley, Frank
 key 20190813_030
@@ -239,8 +220,7 @@ player 1915 Suffolk (Virginia); @CF
 
 ---
 
-!citation Newport News Daily Press 1916-01-11; page 5
-!contributor Jack Morris <jackmo77@comcast.net>
+!citation Newport News Daily Press @ 1916-01-11; page 5
 
 #profile Alton
 key 20190813_033
@@ -249,8 +229,7 @@ player 1916 Portsmouth (Virginia)
 
 ---
 
-!citation Newport News Daily Press 1915-07-06; page 5
-!contributor Jack Morris <jackmo77@comcast.net>
+!citation Newport News Daily Press @ 1915-07-06; page 5
 
 #profile Dean
 key 20190813_034
@@ -259,8 +238,7 @@ highschool Newport News HS @ US/VA/Newport News
 
 ---
 
-!citation Newport News Daily Press 1915-06-06; page 2
-!contributor Jack Morris <jackmo77@comcast.net>
+!citation Newport News Daily Press @ 1915-06-06; page 2
 
 #profile Dean, Fred
 key 20190813_035
@@ -268,8 +246,7 @@ highschool Newport News HS @ US/VA/Newport News
 
 ---
 
-!citation Newport News Daily Press 1915-03-10; page 5
-!contributor Jack Morris <jackmo77@comcast.net>
+!citation Newport News Daily Press @ 1915-03-10; page 5
 
 #profile Johnson, Horace "Sailor"
 key 20190813_036
@@ -307,8 +284,7 @@ player 1913 Petersburg (Virginia); @OF
 
 ---
 
-!citation Twin-City Daily Sentinel 1915-05-18; page 6
-!contributor Jack Morris <jackmo77@comcast.net>
+!citation Twin-City Daily Sentinel @ 1915-05-18; page 6
 
 #profile Baumgartner
 key 20190813_043
@@ -317,8 +293,7 @@ player 1915 Winston-Salem (North Carolina State); @P
 
 ---
 
-!citation Newport News Daily Press 1915-01-29; page 5
-!contributor Jack Morris <jackmo77@comcast.net>
+!citation Newport News Daily Press @ 1915-01-29; page 5
 
 #profile Barton, Buck
 key 20190813_044
@@ -333,8 +308,7 @@ player 1915 Scranton (New York State)
 
 ---
 
-!citation Washington Evening Star 1915-05-17; page 15
-!contributor Jack Morris <jackmo77@comcast.net>
+!citation Washington Evening Star @ 1915-05-17; page 15
 
 #profile Barton, Buck
 key 20190813_046
@@ -343,8 +317,7 @@ player 1915 Scranton (New York State)
 
 ---
 
-!citation Wichita Daily Eagle 1921-04-19; page 10
-!contributor Jack Morris <jackmo77@comcast.net>
+!citation Wichita Daily Eagle @ 1921-04-19; page 10
 
 #profile Cleveland, Barney
 key 20190813_047
@@ -353,8 +326,7 @@ manager 1921 Enid (Western Association)
 
 ---
 
-!citation Richmond Times Dispatch 1915-03-17; page 8
-!contributor Jack Morris <jackmo77@comcast.net>
+!citation Richmond Times Dispatch @ 1915-03-17; page 8
 
 #profile Donovan, Dick
 key 20190813_048
@@ -384,8 +356,7 @@ resides 1915 @ US/DC/Washington
 
 ---
 
-!citation Greensboro Daily News 1915-03-13; page 6
-!contributor Jack Morris <jackmo77@comcast.net>
+!citation Greensboro Daily News @ 1915-03-13; page 6
 
 #profile Doyle, Frank "Rabbit"
 key 20190813_053
@@ -394,8 +365,7 @@ player 1914 Durham (North Carolina State)
 
 ---
 
-!citation Charlotte Observer 1915-07-31; page 3
-!contributor Jack Morris <jackmo77@comcast.net>
+!citation Charlotte Observer @ 1915-07-31; page 3
 
 #profile Emery, Burleigh
 key 20190813_054
@@ -403,8 +373,7 @@ player 1915 Rocky Mount (Virginia); @2B
 
 ---
 
-!citation Charlotte Observer 1915-06-08; page 3
-!contributor Jack Morris <jackmo77@comcast.net>
+!citation Charlotte Observer @ 1915-06-08; page 3
 
 #profile Francisco
 key 20190813_055
@@ -413,8 +382,7 @@ player 1910 Charlotte (Carolina Association)
 
 ---
 
-!citation Indianapolis Star 1915-02-25; page 11
-!contributor Jack Morris <jackmo77@comcast.net>
+!citation Indianapolis Star @ 1915-02-25; page 11
 
 #profile Grotey, Charles
 key 20190813_056
@@ -422,8 +390,7 @@ player 1915 Portsmouth (Virginia)
 
 ---
 
-!citation Columbia Record 1915-08-06; page 9
-!contributor Jack Morris <jackmo77@comcast.net>
+!citation Columbia Record @ 1915-08-06; page 9
 
 #profile Gust, Red
 key 20190813_057
@@ -431,8 +398,7 @@ player 1915 Orphans (Virginia)
 
 ---
 
-!citation Baltimore Sun 1915-03-15; page 5
-!contributor Jack Morris <jackmo77@comcast.net>
+!citation Baltimore Sun @ 1915-03-15; page 5
 
 #profile Hasson, Charles
 key 20190813_058
@@ -440,8 +406,7 @@ player 1915 Richmond (International)
 
 ---
 
-!citation Newport News Daily Press 1915-05-04; page 5
-!contributor Jack Morris <jackmo77@comcast.net>
+!citation Newport News Daily Press @ 1915-05-04; page 5
 
 #profile Hasson
 key 20190813_059
@@ -450,8 +415,7 @@ player 1915 Richmond (International)
 
 ---
 
-!citation Hartford Courant 1915-08-06; page 16
-!contributor Jack Morris <jackmo77@comcast.net>
+!citation Hartford Courant @ 1915-08-06; page 16
 
 #profile Keliher, Mickey
 key 20190813_060
@@ -459,8 +423,7 @@ player 1915 Petersburg (Virginia); @1B
 
 ---
 
-!citation Richmond Times Dispatch 1915-03-07; page 11
-!contributor Jack Morris <jackmo77@comcast.net>
+!citation Richmond Times Dispatch @ 1915-03-07; page 11
 
 #profile Leibs, Russell
 key 20190813_061
@@ -471,8 +434,7 @@ resides 1915 @ US/VA/Richmond
 
 ---
 
-!citation Newport News Daily Press 1916-02-01; page 5
-!contributor Jack Morris <jackmo77@comcast.net>
+!citation Newport News Daily Press @ 1916-02-01; page 5
 
 #profile Llewellyn
 key 20190813_062
@@ -491,8 +453,7 @@ player 1915 (Blue Ridge)
 
 ---
 
-!citation Shreveport Times 1915-04-26; page 8
-!contributor Jack Morris <jackmo77@comcast.net>
+!citation Shreveport Times @ 1915-04-26; page 8
 
 #profile Tally, Virgil
 key 20190813_065
@@ -500,8 +461,7 @@ player 1915 Norfolk (Virginia)
 
 ---
 
-!citation Louisville Courier-Journal 1915-04-01; page 7
-!contributor Jack Morris <jackmo77@comcast.net>
+!citation Louisville Courier-Journal @ 1915-04-01; page 7
 
 #profile Tee, Joe
 key 20190813_066
@@ -509,8 +469,7 @@ player 1915 Petersburg (Virginia)
 
 ---
 
-!citation Wilmington Morning Star 1915-06-28; page 2
-!contributor Jack Morris <jackmo77@comcast.net>
+!citation Wilmington Morning Star @ 1915-06-28; page 2
 
 #profile Tolson
 key 20190813_067
@@ -519,8 +478,7 @@ player 1914 Roanoke (Virginia)
 
 ---
 
-!citation Newport News Daily Press 1915-08-07; page 5
-!contributor Jack Morris <jackmo77@comcast.net>
+!citation Newport News Daily Press @ 1915-08-07; page 5
 
 #profile Webb
 key 20190813_068
@@ -529,8 +487,7 @@ resides 1915 @ US/NC/Pinetops
 
 ---
 
-!citation Newport News Daily Press 1915-08-13; page 5
-!contributor Jack Morris <jackmo77@comcast.net>
+!citation Newport News Daily Press @ 1915-08-13; page 5
 
 #profile Bussey, Harvey
 key 20190813_069

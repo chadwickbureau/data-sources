@@ -1,0 +1,156 @@
+!citation Hartford Courant @ 1915-05-15; page 21
+
+#20190113_001 Woodcock, L. H. 
+player 1915 Hartford (Colonial); @P TR
+player 1914 Lynn (New England); @P
+player 1914 Woonsocket (Colonial); @P
+describe ; TR 
+resides 1915 @ US/ME/Lisbon Falls
+
+#20190113_002 O'Brien, Charlie
+player 1915 Hartford (Colonial); @3B
+manager 1914 Woonsocket (Colonial)
+player 1912 Holy Cross; caliber=college
+player 1913 Holy Cross; caliber=college
+player 1914 Tufts; caliber=college
+
+#20190113_003 Neptune, Joseph 
+player 1915 Hartford (Colonial); @SS
+resides 1915 @ US/ME/Old Town
+
+
+---
+
+!citation Hartford Courant @ 1915-05-16; page 45
+
+
+
+#20190113_004 Pjura
+player 1915 Hartford (Colonial); TR
+
+#20190113_005 Woodcock
+player 1915 Hartford (Colonial); TR
+
+
+#20190113_006 Thompson, Toby
+player 1915 Springfield (Colonial); @2B-SS
+player <=1915 Brooklyn (Federal)
+
+#20190113_007 Marhefka, Tony
+player 1914 New London (Eastern Association)
+player <=1915 Brooklyn (Federal)
+
+#20190113_008 McPherson, Douglass
+player 1915 Brockton (Colonial)
+player 1914 Lynn (New England)
+
+#20190113_009 Thornton, George
+player 1915 Brockton (Colonial); @1B
+
+#20190113_010 Johnson, Gus
+player 1915 Pawtucket (Colonial); @SS
+player 1914 Pawtucket (Colonial)
+
+#20190113_011 Gaudette, Joe
+player 1915 Hartford (Colonial); @P
+player 1914 Woonsocket (Colonial)
+
+---
+
+!citation Wisconsin State Journal @ 1915-02-25; page 2
+
+#20190113_012 Chouninard, George C.
+player 1915 Brooklyn (Federal)
+player <=1914 Green Bay (Wisconsin-Illinois)
+
+---
+
+!citation Hartford Courant @ 1915-05-18; page 18
+
+#20190113_013 Chouninard
+player 1915 Hartford (Colonial)
+player <=1915 Brooklyn (Federal)
+
+#20190113_014 Crowther, George
+player 1915 Pawtucket (Colonial); @SS
+player 1913 New Haven (Eastern Association)
+player <=1915 Brown; caliber=college
+
+#20190113_015 Gilroy, Thomas
+manager 1915 Taunton (Colonial)
+player 1909 Nashville (Southern Association)
+player 1912 Mobile (Southern Association)
+
+---
+
+!citation St. Louis Post-Dispatch @ 1915-05-21; page 19
+
+#20190113_016 Boucher, Al
+player 1915 Hartford (Colonial)
+player 1914 St. Louis (Federal)
+
+#20190113_017 Miller, Hugh
+player 1915 Hartford (Colonial)
+player 1914 St. Louis (Federal)
+
+---
+
+!citation Hartford Courant @ 1915-05-19; page 21
+
+#20190113_018 Boucher
+player 1915 Hartford (Colonial); @C
+player 1914 St. Louis (Federal)
+
+
+#20190113_019 Miller
+player 1915 Hartford (Colonial); @1B
+player 1914 St. Louis (Federal)
+
+#20190113_020 Phillips
+player 1915 New Bedford (Colonial); @C
+player 1914 Springfield (Eastern Association)
+
+---
+
+!citation Hartford Courant @ 1915-05-20; page 19
+
+#20190113_021 Weeden, Bert
+manager 1915 Brockton (Colonial)
+
+#20190113_022 Maxwell, Burt
+manager 1915 New Haven (Colonial)
+
+---
+
+!citation Hartford Courant @ 1915-05-21; page 18
+
+
+#20190113_023 Houck, Byron
+player 1915 New Haven (Colonial); @P
+player <=1915 Philadelphia (American)
+
+---
+
+!citation Hartford Courant @ 1915-05-26; page 19
+
+#20190113_024 Cannon, Jack
+player 1915 Hartford (Colonial); @C
+player 1915 Portland (New England)
+player 1914 Bridgeport (Eastern Association)
+resides 1915 @ US/MA/Boston
+
+---
+
+!citation Hartford Courant @ 1915-05-31; page 16
+
+#20190113_025 Reddington, Edward
+player 1915 Springfield (Colonial); @SS
+player 1914 Danbury (Atlantic)
+
+---
+
+!citation Hartford Courant @ 1915-06-01; page 18
+
+#20190113_026 Latham, Arlie
+umpire 1915 Colonial League
+

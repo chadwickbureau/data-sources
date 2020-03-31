@@ -1,0 +1,34 @@
+!citation  Corvallis Gazette-Times @ 1976-07-07; page 16
+
+#20190326_001 Simpson, Bill
+player 1976 Grays Harbor (Northwest)
+player <=1976 Washington State University; caliber=college
+
+---
+
+!citation PIL Hall of Fame @ 2019-03-26
+!url http://pilhalloffame.org/cybermuseum/product_info.php?products_id=671
+
+#20190326_003 Simpson, Bill
+player 1973 Scottsdale Community College; caliber=college
+player 1974/1976 Washington State University; caliber=college
+highschool Cleveland HS @ US/OR/Portland
+
+---
+
+!citation 1977 Minor League Digest
+
+#20190326_004 Simpson, William A.
+player 1976 Grays Harbor (Northwest); @SS
+describe 1977; TR BR H72 W177
+birth 1954
+
+#20190326_005 Simpson, William R.
+describe 1977; TR BR H73 W190
+birth 1954
+
+#20190326_006 Simpson, William J.
+player 1976 GCL Rangers (Gulf Coast); @OF
+describe 1977; TR BR H74 W185
+birth 1957
+

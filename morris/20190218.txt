@@ -1,0 +1,226 @@
+!citation  Richmond Times-Dispatch @ 1915-04-23; page 8
+
+#20190218_001 Calder, Bruce
+player 1915 Petersburg (Virginia)
+resides 1915 @ US/VA/Richmond
+
+#20190218_002 Snyder, Jim
+player 1915 Petersburg (Virginia)
+player 1914 Richmond (Virginia)
+
+#20190218_003 Sterzer
+player 1915 Richmond (International); @P TL
+
+---
+
+!citation  Topeka State Journal @ 1915-06-28; page 1
+
+#20190218_004 Sterzer
+player 1915 Richmond (International); @P TL
+player 1915 Denver (Western)
+player 1914 St. Joseph (Western)
+
+---
+
+!citation  Elmira Star-Gazette @ 1915-03-02; page 8
+
+
+#20190218_005 Swift
+player 1915 Elmira (New York State); @P
+player 1914 Elmira (New York State); @P
+
+---
+
+!citation  Elmira Star-Gazette @ 1915-03-02; page 10
+
+#20190218_006 Swift, Jim
+player 1915 Elmira (New York State); @P TL
+
+---
+
+!citation  Elmira Star-Gazette @ 1915-06-15; page 9
+
+#20190218_007 Swift, Jim
+player 1915 Binghamton (New York State); @P 
+
+---
+
+!citation  Wilkes-Barre Times Leader @ 1915-03-16; page 14
+
+#20190218_008 Breckenridge
+player 1915 Scranton (New York State); @P 
+player 1914 Wilkes-Barre (New York State); @P 
+player 1914 Troy (New York State); @P 
+
+---
+
+!citation  Wilkes-Barre Times Leader @ 1915-03-16; page 14
+
+#20190218_009 North, Lou
+player 1915 Wilkes-Barre (New York State); @P 
+
+---
+
+!citation  Scranton Republican @ 1915-04-29; page 10
+
+#20190218_010 North, Lou
+player 1915 Wilkes-Barre (New York State); @P 
+player 1914 Syracuse (New York State); @P 
+
+---
+
+!citation  Wilkes-Barre Times Leader @ 1915-06-23; page 14
+
+#20190218_011 Kelly, Eddie
+player 1915 Wilkes-Barre (New York State); @1B
+player 1915 New York (American)
+
+---
+
+!citation  Wilkes-Barre Times Leader @ 1915-04-22; page 12
+
+#20190218_012 McVaugh
+player 1915 Wilkes-Barre (New York State); @P TL
+player 1914 Columbus (American Association)
+
+---
+
+!citation Binghamton Press & Sun-Bulletin @ 1915-03-13; page 11
+
+#20190218_013 Letter, Joe
+player 1915 Binghamton (New York State); @OF
+player 1914 Scranton (New York State)
+
+---
+
+!citation Binghamton Press & Sun-Bulletin @ 1915-04-15; page 14
+
+#20190218_014 Adams, Claud
+player 1915 Binghamton (New York State); @P
+resides 1915 @ US/NY/Smithville Flats
+
+---
+
+!citation  Wilkes-Barre Record @ 1915-04-15; page 9
+
+#20190218_015 Smith, John
+player 1915 Syracuse (New York State); @C
+player 1914 Montreal (International)
+
+---
+
+!citation  Wilkes-Barre Record @ 1915-05-21; page 20
+
+#20190218_016 Konnick, Mike
+player 1915 Syracuse (New York State); @C
+player 1915 Toronto (International)
+player 1914 Binghamton (New York State)
+
+---
+
+!citation  Richmond Times Dispatch @ 1915-04-28; page 9
+
+#20180218_017 Brackett
+player 1915 Toronto (International); BL
+
+#20190218_018 Schaufele
+player 1915 Richmond (International); TR
+
+---
+
+!citation  Wilkes-Barre Times Leader @ 1915-06-07; page 9
+
+#20190218_019 Jarman
+player 1915 Troy (New York State); @P
+player 1915 Richmond (International)
+
+---
+
+!citation  Newport News Daily Press @ 1915-05-04; page 5
+
+#20190218_020 Hasson
+player 1915 Newport News (Virginia); @C
+player 1915 Richmond (International)
+
+---
+
+!citation  Richmond Times-Dispatch @ 1915-05-04; page 8
+
+#20190218_021 Welcher, Abe
+player 1915 Portsmouth (Virginia); @P
+
+---
+
+!citation  Newport News Daily Press @ 1915-04-24; page 5
+
+#20190218_022 Berger, Clarence
+player 1915 Newport News (Virginia); @OF
+
+#20190218_023 Gardinier
+player 1915 Newport News (Virginia); @P
+player 1915 Philadelphia (American)
+
+#20190218_024 Colley, Frank
+player 1915 Newport News (Virginia); @P
+
+---
+
+!citation  Newport News Daily Press @ 1915-04-25; page 5
+
+#20190218_025 Gaston, Steve
+player 1915 Newport News (Virginia); @C
+
+---
+
+!citation  Greensboro Daily News @ 1915-04-14; page 3
+
+#20190218_026 Belanger, Jerry
+player 1915 Portsmouth (Virginia); @P
+
+---
+
+!citation  Raleigh News & Observier @ 1915-04-16; page 3
+
+#20190218_027 Belanger, Jerry
+player 1915 Portsmouth (Virginia); @P
+player <1915 Raleigh (North Carolina State)
+
+---
+
+!citation  Durham Morning Herald @ 1914-06-19; page 3
+
+#20190218_028 Belanger, Jerry
+player 1914 Durham (North Carolina State)
+player 1914 Raleigh (North Carolina State)
+
+---
+
+!citation  Anniston Star @ 1911-06-10; page 76
+
+#20190218_029 Shipp, Skinny
+player 1911 Anniston (Southeastern)
+player <=1911 University of the South; caliber=college
+
+---
+
+!citation  Atlanta Constitution @ 1911-06-12; page 7
+
+#20190218_030 Shipp, Skinny
+player 1911 Anniston (Southeastern)
+player <=1911 University of the South; caliber=college
+
+#20190218_031 Hannon
+player 1911 Anniston (Southeastern)
+player <=1911 University of Alabama; caliber=college
+
+#20190218_032 Brown
+player 1911 Anniston (Southeastern)
+player <=1911 Auburn University; caliber=college
+
+---
+
+!citation  Tennessean @ 1907-11-28; page 7
+
+#20190218_033 Shipp, Frank S. [Skinny]
+player <=1907 University of the South ; caliber=college
+

@@ -1,0 +1,240 @@
+!citation  Charlotte News @ 1915-08-03; page 7
+
+
+#20190204_001 Harbison, Doug
+player 1915 Statesville (Western North Carolina); @2B
+player 1915 Columbia (South Atlantic)
+player 1914 Charlotte (North Carolina State)
+
+---
+
+!citation  Charlotte News @ 1915-08-04; page 6
+
+#20190204_002 Winston, E.
+player 1915 Morganton (Western North Carolina)
+player 1915 Portsmouth (Virginia)
+
+#20190204_003 Utley, Phil
+player 1915 Red Springs (Eastern North Carolina); @1B
+player 1915 Thomasville (Florida-Alabama-Georgia)
+player <=1915 Wake Forest; caliber=college
+
+#20190204_004 Turner, Sam
+player 1915 Red Springs (Eastern North Carolina)
+player <=1915 (Georgia State)
+player <1915 Wake Forest; caliber=college
+
+---
+
+!citation  Charlotte News @ 1915-08-05; page 7
+
+#20190204_005 Winston, Winnie
+player 1915 Morganton (Western North Carolina); @C
+
+
+---
+
+!citation  Charlotte News @ 1915-08-06; page 10
+
+#20190204_006 Miller, Dick
+manager 1915 Statesville (Western North Carolina)
+
+#20190204_007 Wilson, Rube
+player 1915 Statesville (Western North Carolina); @P
+resides 1915 @ US/NC/Taylorsville
+
+#20190204_008 Lowe
+player 1915 Morganton (Western North Carolina); @P
+player 1915 Charlotte (North Carolina State); @P
+
+---
+
+!citation  Charlotte News @ 1915-08-06; page 11
+
+#20190204_009 Hedgepeth, Harry
+player 1915 Scranton (New York State); @P
+resides 1915 @ US/NC
+
+---
+
+!citation  Charlotte News @ 1915-08-21; page 6
+
+#20190204_010 Matthews
+manager 1915 Gastonia (Western North Carolina)
+player 1915 (Georgia-Alabama)
+
+#20190204_011 Osteen, Bill
+player 1915 Morganton (Western North Carolina)
+
+#20190204_012 Yount, Hub
+player 1915 Morganton (Western North Carolina)
+player <=1915 (Federal League)
+
+#20190204_013 Wilson, Rube
+player 1915 Statesville (Western North Carolina)
+
+#20190204_014 Bitting, Earl
+player 1915 Lenoir (Western North Carolina)
+
+---
+
+!citation  Charlotte News @ 1915-08-07; page 6
+
+#20190204_015 Spaid, Bob
+player 1915 Statesville (Western North Carolina)
+
+#20190204_016 Miller, Dick
+player 1915 Statesville (Western North Carolina)
+
+#20190204_017 Harbison, Douglas
+player 1915 Statesville (Western North Carolina)
+
+#20190204_018 Lowe
+player 1915 Morganton (Western North Carolina); @P
+player 1915 Charlotte (North Carolina State) 
+
+#20190204_019 Cates, Jack
+player 1915 Lenoir (Western North Carolina); @P TL
+player 1915 (South Atlantic)
+
+---
+
+!citation  Charlotte News @ 1915-08-22; page 12
+
+
+#20190204_020 Lee, Bill
+player 1915 Red Springs (Eastern North Carolina)
+player <1915 Wake Forest; caliber=college
+resides 1915 @ US/NC/Dunn
+
+---
+
+!citation  Charlotte News @ 1915-08-24; page 6
+
+
+#20190204_021 Correll, Lee
+player 1915 Morganton (Western North Carolina)
+
+---
+
+!citation  Greensboro Daily News @ 1915-11-14; page 6
+
+
+#20190204_022 Billings, Gilbert [Mig]
+player <=1915 Wake Forest; caliber=college
+
+---
+
+!citation  Morganton News-Herald @ 1916-03-02; page 5
+
+
+#20190204_023 Billings, G. M. [Mig]
+player <=1915 Wake Forest; caliber=college
+
+---
+
+!citation  Charlotte News @ 1915-06-11; page 10
+
+#20190204_024 Hasty, Gus
+player 1915 Morganton (Western North Carolina)
+
+#20190204_025 Hodgin
+player 1915 Morganton (Western North Carolina)
+player <=1915 North Carolina State; caliber=college
+
+#20190204_026 Christenbury
+player 1915 Charlotte (North Carolina State)
+player <=1915 Davidson College; caliber=college
+
+---
+
+!citation  Charlotte News @ 1915-08-27; page 6
+
+#20190204_027 Anderson
+player 1915 Gastonia (Western North Carolina); @P TL
+
+---
+
+!citation  Charlotte News @ 1915-08-28; page 6
+
+#20190204_028 Whitney
+player 1915 Gastonia (Western North Carolina); @P TL
+
+---
+
+!citation  Charlotte News @ 1915-08-26; page 6
+
+#20190204_029 Rowe, Reddy
+player 1915 Red Springs (Eastern North Carolina)
+manager 1915 Greensboro (North Carolina State)
+
+#20190204_030 Devane, Tommy
+manager 1915 Red Springs (Eastern North Carolina)
+player 1915 Red Springs (Eastern North Carolina)
+
+---
+
+!citation  Charlotte News @ 1915-06-17; page 11
+
+#20190204_031 Brouthers
+player 1915 Lenoir (Western North Carolina)
+player 1915 Greensboro (North Carolina State)
+
+---
+
+!citation  Binghamton Press & Sun-Bulletin @ 1915-07-03; page 2
+
+#20190204_032 Weiss, Honey
+player 1915 Binghamton (New York State)
+player 1915 Albany (New York State)
+
+---
+
+!citation  Gastonia Gazette @ 1915-08-14; page 1
+
+#20190204_033 Gust, Ernest
+player 1915 Gastonia (Western North Carolina)
+resides 1915 @ US/MI/Bay City
+
+#20190204_034 Pearson, I. O.
+player 1915 Gastonia (Western North Carolina)
+resides 1915 @ US/MS/Grenada
+
+#20190204_035 Gentle, John
+umpire 1915 Western North Carolina
+resides 1915 @ US/GA/Atlanta
+
+#20190204_036 Welcher, Harry
+player 1915 Gastonia (Western North Carolina)
+resides 1915 @ US/WV/Wheeling
+
+#20190204_037 Waldron, Will
+player 1915 Gastonia (Western North Carolina)
+resides 1915 @ US/AL/Birmingham
+
+#20190204_038 Boyd, J. S.
+player 1915 Gastonia (Western North Carolina)
+resides 1915 @ US/AL/
+
+#20190204_039 Walker, R. W. 
+player 1915 Gastonia (Western North Carolina)
+resides 1915 @ US/VA/Martinsville
+
+#20190204_040 Burgess, Grady
+player 1915 Gastonia (Western North Carolina)
+resides 1915 @ US/GA/Atlanta
+
+#20190204_041 Pope, W. C.
+player 1915 Gastonia (Western North Carolina)
+resides 1915 @ US/NC/Marshall
+
+#20190204_042 Anderson, V. H.
+player 1915 Gastonia (Western North Carolina)
+resides 1915 @ US/NC/Kannapolis
+
+#20190204_043 Mackie, H. P.
+player 1915 Gastonia (Western North Carolina)
+resides 1915 @ US/NC/Granite Falls
+
+#20190204_044 Whitney, J. F.
+player 1915 Gastonia (Western North Carolina)

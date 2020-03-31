@@ -1,0 +1,293 @@
+!citation Vicksburg Evening Post @ 1908-08-19; page 6
+!citation The Vicksburg American 1909-01-20; page 6
+!citation Pine Bluff Daily Graphic 1909-03-26; page 3
+!citation Arkansas Gazette 1909-07-01; page 11
+
+#20181108_001 Blackburn, George "Smiling George"
+player 1907 Vicksburg (Cotton States); @P
+manager 1907 Vicksburg (Cotton States)
+player 1908 Vicksburg (Cotton States); @P
+manager 1908 Vicksburg (Cotton States)
+manager 1909 Vicksburg (Cotton States)
+executive 1909 Vicksburg (Cotton States); title=Director
+player 1909 Monroe (Arkansas State); @P
+manager 1909 Monroe (Arkansas State)
+executive 1909 Monroe (Arkansas State); title=Director
+
+---
+
+!citation The Sporting News @ 1908-05-14; page 6
+!citation The Sporting News @ 1908-07-30; page 8
+!citation Newport Daily Independent @ 1908-08-17; page 3
+!citation The Sporting News @ 1908-09-24; page 2
+!citation Jonesboro Daily News @ 1909-06-29; page 1
+!citation Newport Daily Independent @ 1909-09-15; page 1
+
+#20181108_002 Blackwood, Dwight Hale
+player 1908 Newport (Arkansas State); @P
+player 1908 Dallas (Texas); @P
+player 1909 Texarkana (Arkansas State); @P
+signed <=1909-09-13; join=Paragould (Northeast Arkansas)
+player 1909 Paragould (Northeast Arkansas); @P
+player 1910 Caruthersville (Northeast Arkansas); @P
+
+---
+
+!citation (Opelousas, Louisiana) St. Landry Clarion @ 1908-02-29; page 4
+!citation Weekly (Alexandria) Town Talk @ 1908-11-28; page 7
+!citation The Sporting News @ 1909-05-13; page 6
+!citation The (Alexandria) Town Talk @ 1909-07-16; page 3
+
+#20181108_003 Blanchette, Ben [Benny]
+player 1908 Austin (Texas); @1B
+purchased 1908-02; leave=Austin (Texas); join=Monroe (Cotton States)
+player 1908 Monroe (Cotton States); @1B
+player 1909 Alexandria (Arkansas State); @1B
+player 1909 Mansfield; location=US/LA/Mansfield
+manager 1909 Mansfield; location=US/LA/Mansfield
+
+---
+
+!citation Sporting Life @ 1907-10-12; page 15
+!citation The (Gulfport) Daily Record-Tribune @ 1908-06-10; page 3
+!citation The (Charlotte) Evening Chronicle @ 1909-02-01; page 5
+!citation The Sporting News @ 1909-03-11; page 6
+!citation The Charlotte News @ 1909-02-01; page 4
+!citation The (Charlotte) Evening Chronicle @ 1909-05-21; page 8
+!citation The (Alexandria) Town Talk @ 1909-07-10; page 1
+
+#20181108_004 Blanchfield, Walter
+player 1907 Opelousas (Gulf Coast); @OF
+player 1907 Lake Charles (Gulf Coast); @OF
+player 1908 Lake Charles (Gulf Coast); @OF
+signed <=1908-06-09; join=Gulfport-Biloxi (Cotton States)
+player 1908 Gulfport-Biloxi (Cotton States); @OF
+purchased ~1909-02-01; join=Charlotte (Carolina Association)
+player 1909 Charlotte (Carolina Association); @OF H70 W190
+released <=1909-05-21; leave=Charlotte (Carolina Association); join=Monroe (Arkansas State)
+player 1909 Monroe (Arkansas State); @OF
+player 1909 Alexandria; @OF; caliber=semipro
+
+
+---
+
+!citation Sporting Life @ 1906-10-06; page 18
+!citation The (Decatur) Daily Review @ 1907-06-06; page 3
+!citation The (Columbia, SC) State @ 1908-04-06; page 9
+!citation Arkansas Gazette @ 1908-06-06; page 8
+!citation Arkansas Democrat @ 1908-06-07; page 11
+!citation The Sporting News @ 1908-10-01; page 8
+!citation The Sporting News @ 1909-04-08; page 6
+!citation Arkansas Gazette @ 1909-06-09; page 8
+!citation (Memphis) Commercial Appeal @ 1909-09-05; page 20
+!citation The Dayton Herald @ 1912-04-24; page 12
+
+#20181108_005 Bockewitz, Oscar Herman [Denny]
+describe ; BL TL H72 W178
+player 1906 Cedar Rapids (Illinois-Indiana-Iowa); @P
+player 1907 Cedar Rapids (Illinois-Indiana-Iowa); @P
+player 1907 Dubuque
+player 1908 Greenville (Carolina Association); @P
+player 1908 Poplar Bluff (Arkansas State); @OF
+player 1908 Argenta (Arkansas State); @1B
+player 1909 Argenta (Arkansas State); @1B
+player 1909 Fort Smith (Arkansas State); @1B
+player 1909 Marianna (Northeast Arkansas); @1B
+
+---
+
+!citation The (New Orleans) Times-Democrat @ 1909-07-04; page 23
+!citation The (Alexandria) Town Talk @ 1909-04-01; page 6
+!citation The Sporting News @ 1909-05-13; page 4
+!citation Arkansas Gazette @ 1909-06-05; page 8
+!citation The Shreveport Times @ 1909-07-05; page 6
+!citation The (New Orleans) Times-Democrat @ 1909-07-14; page 10
+!citation The Shreveport Times @ 1910-04-25; page 10
+
+#20181108_006 Bokenfohr, William Frederick
+describe ; TL
+player 1909 Braquets of New Orleans; @P
+player 1909 Alexandria (Arkansas State); @P
+purchased 1909-06-04; join=Fort Smith (Arkansas State)
+player 1909 Fort Smith (Arkansas State); @P
+signed ~1909-07-04; join=New Orleans (Southern Association)
+player 1909 New Orleans (Southern Association); @P
+released 1909-07-13; leave=New Orleans (Southern Association)
+
+---
+
+!citation The (Alexandria) Town Talk @ 1907-04-11; page 7
+!citation The (Alexandria) Town Talk @ 1908-05-09; page 8
+!citation The (Alexandria) Town Talk @ 1907-09-27; page 7
+!citation Sporting News @ 1908-02-13; page 6
+!citation Austin American-Statesman @ 1908-05-09; page 3
+!citation Jackson Daily News @ 1908-06-29; page 7
+!citation Vicksburg Evening Post @ 1908-06-30; page 6
+!citation The Montgomery Advertiser @ 1908-10-23; page 2
+
+#20181108_007 Braun, Carl
+player 1907 Alexandria (Gulf Coast); @C
+resides 1907 @ US/AL/Mobile
+player 1908 Austin (Texas); @C
+purchased <=1908-05-09; join=Alexandria (Gulf Coast); leave=Austin (Texas)
+player 1908 Alexandria (Gulf Coast); @C
+signed <=1908-06-29; join=Meridian (Cotton States)
+player 1908 Meridian (Cotton States); @C
+signed 1908-10-23; join=Mobile (Southern Association)
+player 1909 Mobile (Southern Association); @C
+returned 1909-05-02; leave=Mobile (Southern Association); join=Alexandria (Arkansas State)
+player 1909 Alexandria (Arkansas State); @C
+signed <=1909-07-07; join=Alexandria; join__caliber=semipro
+player 1909 Alexandria [caliber=semipro]; @C
+purchased 1910-03-15; leave=Mobile (Southern Association); join=Galveston (Texas)
+player 1910 Galveston (Texas); @C
+
+
+---
+
+!citation Fort Worth Star-Telegram @ 1910-07-03; page 11
+
+#20181108_008 Brewster, John
+player 1909 Texarkana (Arkansas State)
+
+
+---
+
+!citation St. Louis Post Dispatch @ 1909-06-02; page 6
+!citation The Sporting News @ 1908-04-23; page 6
+!citation The Sporting News @ 1908-10-01; page 8
+!citation The Arkansas Gazette @ 1909-04-09; page 8
+!citation The Sporting News @ 1909-05-13; page 4
+!citation The Arkansas Gazette @ 1909-06-30; page 10
+
+#20181108_009 Bromley, Harry C.
+player 1908 Argenta (Arkansas State); @OF
+player 1909 Hot Springs (Arkansas State); @OF
+released <=1909-06-30; leave=Hot Springs (Arkansas State)
+signed <=1909-06-30; join=Fort Smith (Arkansas State)
+player 1909 Fort Smith (Arkansas State); @OF
+resides 1909 @ US/MO/St. Louis
+
+
+---
+
+!citation The (Crowley, Louisiana) Daily Signal @ 1908-04-28; page 1
+!citation The (Crowley, Louisiana) Signal @ 1909-05-08; page 7
+!citation Alexandria Town Talk @ 1909-05-21; page 6
+
+#20181108_010 Broussard, Felix Cyprien [Prien]
+resides 1908 @ US/LA/Lafayette
+player 1908 Crowley (Gulf Coast); @P
+signed <=1909-05-08; join=Alexandria (Arkansas State)
+player 1909 Alexandria (Arkansas State); @P
+
+
+---
+
+!citation The Sporting News @ 1909-05-13; page 4
+!citation The Pantagraph (Bloomington, Illinois) @ 1909-04-09; page 10
+
+#20181108_011 Brown, Dick
+player 1909 Hot Springs (Arkansas State); @3B
+
+
+---
+
+!citation Vanderbilt University Quarterly @ 1904; volume 4; page 305
+!citation The Arkansas Gazette @ 1909-08-08; page 9
+!citation Jonesboro Daily News @ 1909-02-20; page 1
+!citation Jonesboro Daily News @ 1909-07-06; page 3
+!citation Newport Daily Independent @ 1909-07-17; page 1
+
+#20181108_012 Brown, Doswell Parish
+player 1903 Vanderbilt [caliber=college]; @OF
+captain 1903 Vanderbilt [caliber=college]
+college Vanderbilt University; dates=/1903; degree=graduated
+executive 1909 Jonesboro (Arkansas State); title=Secretary/Treasurer
+player 1909 Jonesboro (Arkansas State); @RF
+executive 1909 Northeast Arkansas League; title=President
+
+
+---
+
+!citation The Arkansas Gazette @ 1909-03-28; page 10
+
+#20181108_013 Brown, M.
+player 1909 Helena (Arkansas State); @C
+
+
+---
+
+!citation The Arkansas Gazette @ 1908-06-04; page 8
+!citation The Sporting News @ 1908-06-25; page 8
+!citation The Sporting News @ 1908-10-01; page 8
+!citation The Sporting News @ 1909-04-08; page 6
+!citation The Arkansas Gazette @ 1909-06-10; page 9
+!citation (Memphis) Commercial Appeal @ 1909-09-22; page 11
+!citation The Sporting News @ 1908-10-28; page 5
+
+#20181108_014 Browne, Fred C.
+player 1908 Poplar Bluff (Arkansas State); @OF
+player 1908 Argenta (Arkansas State); @OF
+player 1909 Argenta (Arkansas State); @OF
+player 1909 Great Bend (Kansas State); @OF
+player 1909 Newport (Northeast Arkansas); @OF
+
+
+---
+
+!citation Sporting News @ 1908-03-19; page 2
+!citation The Crowley Signal @ 1908-04-11; page 2
+!citation Sporting News @ 1908-06-11; page 8
+!citation Sporting News @ 1908-07-30; page 8
+!citation Sporting News @ 1908-10-29; page 7
+!citation Arkansas Gazette @ 1909-05-28; page 8
+!citation Sporting News @ 1909-10-28; page 5
+
+#20181108_015 Carroll, Neal "Nip"
+player 1908 Monroe (Cotton States); @CF
+purchased <=1908-04-09; join=Crowley (Gulf Coast); leave=Monroe (Cotton States)
+player 1908 Crowley (Gulf Coast); @CF
+signed <=1908-06-22; join=Monroe (Cotton States)
+player 1909 Fort Smith (Arkansas State); @CF
+player 1909 Marianna (Northeast Arkansas); @2B
+
+
+---
+
+!citation New Orleans Times-Democrat @ 1908-05-03; page 23
+!citation Vicksburg Evening Post @ 1907-06-18; page 5
+!citation Sporting News @ 1908-02-13; page 6
+!citation Sporting News @ 1908-10-01; page 8
+!citation The Houston Post @ 1908-12-18; page 3
+!citation Sporting News @ 1909-01-21; page 7
+!citation The Houston Post @ 1909-05-06; page 3
+!citation The Shreveport Times @ 1909-05-06; page 7
+!citation The Houston Post @ 1909-04-25; page 17
+
+#20181108_016 Casey, Tom
+resides 1908 @ US/LA/New Orleans
+player 1907 Columbus (Cotton States); @P
+released <=1907-06-17; leave=Columbus (Cotton States)
+player 1908 Austin (Texas); @P
+purchased <=1908-12-18; join=Houston (Texas); leave=Austin (Texas)
+player 1909 Houston (Texas); @P BR TR H73 W149
+player 1909 Monroe (Arkansas State); @P
+
+
+---
+
+!citation Sporting News @ 1908-04-02; page 2
+!citation Sporting News @ 1908-04-09; page 2
+!citation Sporting News @ 1908-05-14; page 6
+!citation Sporting News @ 1909-05-27; page 8
+!citation Newport Daily Independent @ 1909-07-01; page 1
+!citation Memphis Commercial Appeal @ 1908-07-21; page 9
+
+#20181108_017 Cella, Joseph Lawrence [Lawrence] "Suby"
+player 1908 Newport (Arkansas State); @UT
+player 1909 Newport-Batesville (Arkansas State); @UT
+player 1909 Newport (Northeast Arkansas); @UT
+describe ; H70 W165
+
+

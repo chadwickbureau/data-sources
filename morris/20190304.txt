@@ -1,0 +1,212 @@
+!citation  Scranton Republican @ 1915-09-07; page 10
+
+#20190304_001 Miller, Charles
+player 1915 Scranton (New York State); @C
+resides 1915 @ US/PA/Williamsport
+
+#20190304_002 Parson, Bill "Cy"
+player 1915 Scranton (New York State)
+resides 1915 @ US/PA/Williamsport
+
+#20190304_003 Corcoran
+player 1915 Scranton (New York State)
+resides 1915 @ US/NY/Buffalo
+
+#20190304_004 Keating
+player 1915 Scranton (New York State)
+resides 1915 @ US/NY/Buffalo
+
+#20190304_005 Strait, Lee
+player 1915 Scranton (New York State)
+resides 1915 @ US/NY/Elmira
+
+#20190304_006 Duchesnil, Ralph
+player 1915 Scranton (New York State)
+resides 1915 @ CA/QC/Montreal
+
+#20190304_007 Fox, Jack
+player 1915 Scranton (New York State); @P
+resides 1915 @ US/PA/Reading
+
+#20190304_008 Winters, George
+player 1915 Scranton (New York State); @P
+resides 1915 @ US/VT/Burlington
+
+#20190304_009 Slattery, Joe
+player 1915 Scranton (New York State) 
+resides 1915 @ US/MO/St. Louis
+
+#20190304_010 Hall, Beany
+player 1915 Scranton (New York State) 
+resides 1915 @ US/VA/Clarksburg
+
+#20190304_011 Murray, Joe
+player 1915 Scranton (New York State) 
+resides 1915 @ US/PA/East Lansdowne
+
+#20190304_012 Cruikschank, Frank
+player 1915 Scranton (New York State) 
+resides 1915 @ US/MA/Boston
+
+#20190304_013 Hartman, Chick
+player 1915 Scranton (New York State) 
+resides 1915 @ US/NY/Bronx
+
+#20190304_014 Mullin, Jim
+player 1915 Scranton (New York State) 
+resides 1915 @ US/PA/Avoca
+
+#20190304_015 Higgins, Festus
+player 1915 Scranton (New York State) 
+resides 1915 @ US/PA/Scranton
+
+---
+
+!citation  Scranton Republican @ 1915-06-08; page 13
+
+#20190304_016 Brady, Frank
+player 1915 Scranton (New York State); @C
+player <1915 Albany (New York State) 
+
+---
+
+!citation  Charlotte Observer @ 1915-03-25; page 3
+
+#20190304_017 Osteen, Bill
+player 1915 Rocky Mount (Virginia); @P
+player <=1915 Davison College; caliber=college
+
+#20190304_018 Hasty, Gus
+player 1915 Rocky Mount (Virginia); @OF
+player <=1914 Raeford [caliber=semi-pro]
+
+---
+
+!citation  Wilmington Morning Star @ 1915-04-12; page 2
+
+#20190304_019 Osteen, Bill
+player 1915 Rocky Mount (Virginia); @P
+player <=1915 Davison College; caliber=college
+resides 1915 @ US/SC/Greenville
+
+---
+
+!citation  Charlotte Observer @ 1915-03-25; page 3
+
+#20190304_020 Osteen, Bill
+player 1915 Rocky Mount (Virginia); @P
+player <=1915 Davison College; caliber=college
+
+#20190304_021 Doyle, "Rabbit"
+player 1915 Rocky Mount (Virginia); @2b
+player <1915 (Carolina Association) 
+
+#20190304_022 Blackstone
+player 1915 Petersburg (Virginia); @LF
+player <1915 (Carolina Association) 
+
+#20190304_023 Agnew
+player 1915 Petersburg (Virginia); @2B
+player <1915 (Carolina Association) 
+
+#20190304_024 Kaufman
+player 1915 Petersburg (Virginia); @P
+player <1915 (Carolina Association) 
+
+---
+
+!citation  Asheville Citizen-Times @ 1915-02-21; page 16
+
+#20190304_025 Burge, Wallace
+player 1915 Rocky Mount (Virginia); @P
+resides 1915 @ US/KY/Shelbyville
+
+#20190304_026 Parmalee, Otto
+player 1915 Rocky Mount (Virginia); @IF
+player <1915 (Ohio State)
+
+#20190304_027 Eisel, Roy
+player 1915 Rocky Mount (Virginia); @OF
+
+---
+
+!citation  Binghamton Press & Sun-Bulletin @ 1915-05-05; page 13
+
+#20190304_028 Baxter, Bob
+player 1915 Albany (New York State); @SS
+
+---
+
+!citation  Wilkes-Barre Times Leader @ 1915-07-01; page 14
+
+#20190304_029 Baxter, Bob
+player 1915 Albany (New York State); @SS
+player 1915 Wilkes-Barre (New York State)
+
+---
+
+!citation  Elmira Star-Gazette @ 1915-05-03; page 8
+
+#20190304_030 Baxter, Bob
+player 1914 Jersey City (International); @SS
+player 1915 Albany (New York State)
+
+---
+
+!citation  Binghamton Press & Sun-Bulletin @ 1915-05-06; page 1
+
+#20190304_031 Becker
+player 1915 Binghamton (New York State); @CF BL
+
+---
+
+!citation  Elmira Star-Gazette @ 1915-05-06; page 8
+
+#20190304_032 Becker
+player 1914 New London (Eastern Association); @OF
+player 1915 Binghamton (New York State)
+
+---
+
+!citation  Richmond Times-Dispatch @ 1915-05-21; page 8
+
+#20190304_033 Teague
+player 1915 Rocky Mount (Virginia); @P TL
+
+---
+
+!citation  Geneva Daily Times @ 1915-10-28; page 3
+
+#20190304_034 Kennedy, Ray
+player 1915 Binghamton (New York State) 
+
+#20190304_035 Jarman, Frank
+player 1915 Troy (New York State) 
+
+#20190304_036 Troy, Robert
+player 1915 Troy (New York State) 
+
+#20190304_037 Robbins, Julian
+player 1915 Troy (New York State) 
+
+#20190304_038 Towsley, David
+player 1915 Troy (New York State) 
+
+#20190304_039 Schuler, Albert
+player 1915 Utica (New York State) 
+
+#20190304_040 Wilkinson, Roy
+player 1915 Syracuse (New York State) 
+
+#20190304_041 Johnson, Harry S.
+umpire 1915 New York State
+
+#20190304_042 Dougherty, A. J.
+umpire 1915 New York State
+
+#20190304_043 McBridge, J. F.
+umpire 1915 New York State
+
+#20190304_044 Kuhn, W. C.
+umpire 1915 New York State
+

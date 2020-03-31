@@ -1,0 +1,175 @@
+!citation Fitchburg Sentinel @ 1915-05-17; page 5
+
+#20190120_001 Phoenix, Bill
+manager 1915 Fall River (Colonial)
+player 1915 Lewiston (New England)
+
+---
+
+!citation Springfield Republican @ 1915-07-20; page 16
+
+#20190120_002 Bentley
+player 1915 Springfield (Colonial)
+resides 1915-07-20 @ US/NJ/Newark
+
+---
+
+!citation Salt Lake Telegram @ 1915-05-09; page 16
+
+#20190120_003 Connor, Jim
+manager 1915 Pawtucket (Colonial)
+player <1915 Providence (Eastern)
+
+---
+
+!citation Springfield Republican @ 1915-08-28; page 12
+
+#20190120_004 Boyle, Pete
+player 1915 Pawtucket (Colonial); @P
+
+#20190120_005 Carr, Eddie
+player 1915 Pawtucket (Colonial); @3B
+
+#20190120_006 Russell, Harvey
+player 1915 Pawtucket (Colonial)
+
+---
+
+!citation  Springfield Republican @ 1915-09-06; page 10
+
+#20190120_007 Woods, Wallie
+player 1915 Springfield (Colonial)
+
+---
+
+!citation  Hartford Courant @ 1915-06-17; page 19
+
+#20190120_008 Woods, Wally
+player 1915 Springfield (Colonial)
+
+#20190120_009 Sullivan, Harry
+player 1915 Taunton (Colonial)
+player 1914 New Bedford (Colonial)
+resides 1915-06-17 @ US/MA/Taunton
+
+---
+
+!citation  Springfield Republican @ 1915-09-02; page 10
+
+#20190120_010 Collins, Wilson
+player 1915 Springfield (Colonial)
+
+---
+
+!citation  Springfield Daily News @ 1915-06-01; page 16
+
+
+#20190120_011 Bielmiller
+player 1915 Springfield (Colonial); age=17
+resides 1915-06-01 @ US/MD/Baltimore
+
+---
+
+!citation  Boston Globe @ 1916-07-22; page 6
+
+#20190120_012 Bourcier, Charles D.
+player 1916 Topeka (Western)
+player 1915 Springfield (Colonial)
+
+---
+
+!citation  Pawtucket Times @ 1915-06-11; page 6
+
+#20190120_013 Bottomley
+player 1915 Pawtucket (Colonial)
+resides 1915-06-11 @ US/RI/Bristol
+
+#20190120_014 Howson, Jack
+player 1915 Pawtucket (Colonial)
+resides 1915-06-11 @ US/RI/Pawtucket
+
+#20190120_015 McGill
+player 1915 Pawtucket (Colonial)
+resides 1915-06-11 @ US/MA/Brockton
+
+#20190120_016 Loud
+player 1915 Pawtucket (Colonial)
+player <=1915 Brown University; caliber=college
+
+---
+
+!citation   Norwich Bulletin @ 1915-06-28; page 3
+
+#20190120_017 Burdick, Claude
+player 1914 Pawtucket (Colonial)
+
+---
+
+!citation   Pawtucket Times @ 1915-05-04; page 6
+
+#20190120_018 Burdick 
+player 1915 Pawtucket (Colonial); TR
+
+#20190120_019 Johnson, Gus 
+player 1915 Pawtucket (Colonial)
+player 1914 Pawtucket (Colonial)
+
+#20190120_020 Moore, Sammy 
+player 1915 Pawtucket (Colonial)
+player 1914 Pawtucket (Colonial)
+
+---
+
+!citation   Pawtucket Times @ 1915-05-05; page 15
+
+#20190120_021 Killian, Cy
+player 1915 Pawtucket (Colonial)
+player 1914 (Canadian)
+
+---
+
+!citation   Pawtucket Times @ 1915-05-12; page 4
+
+#20190120_022 Greenslade
+player 1915 New Bedford (Colonial) 
+resides 1915-06-01 @ US/MA/Fall River
+
+---
+
+!citation   Pawtucket Times @ 1915-05-12; page 4
+
+#20190120_023 Linder, Fred
+player 1915 New Bedford (Colonial) 
+player 1914 New Bedford (Colonial) 
+
+#20190120_024 Phillips
+player 1915 New Bedford (Colonial) 
+player 1914 Springfield (Eastern Association) 
+
+---
+
+!citation Pawtucket Times @ 1915-05-17; page 6
+
+#20190120_025 Martin
+player 1915 Pawtucket (Colonial) 
+player 1915 Lewiston (New England) 
+
+#20190120_026 Cooney, Harry
+player 1915 Pawtucket (Colonial); @SS
+player 1914 Springfield (Eastern Association) 
+brother of Cooney, Jimmy
+
+#20190120_027 Crowther, George
+player 1915 Pawtucket (Colonial); @SS
+player <=1915 Brown University; caliber=college
+
+---
+
+!citation Pawtucket Times @ 1915-05-28; page 10
+
+#20190120_028 Boucher, Al
+player 1915 Pawtucket (Colonial)
+player <=1915 Manhattan College; caliber=college
+
+#20190120_029 Shields, Hap
+player 1915 Pawtucket (Colonial); @C

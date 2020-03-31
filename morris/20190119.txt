@@ -1,0 +1,180 @@
+!citation Hartford Courant @ 1915-05-22; page 18
+
+#20190119_001 Trautman
+player 1915 Hartford (Colonial); @P TR
+
+#20190119_002 O'Flaherty, Jack 
+player 1915 Springfield (Colonial); @P H72 W178
+
+---
+
+!citation Hartford Courant @ 1915-05-23; page 34
+
+#20190119_003 Ramsey, Hank 
+manager 1915 Springfield (Colonial)
+
+
+---
+
+!citation Hartford Courant @ 1915-05-25; page 18
+
+#20190119_004 O'Brien, John H. 
+manager 1915 New Bedford (Colonial)
+manager 1905/1912 Fall River (New England)
+
+#20190119_005 Ens, Mutz
+player 1915 Manchester (New England); @1B
+player 1914 Bridgeport (Eastern Association)
+
+#20190119_006 Haley, Bill
+player 1915 Fall River (Colonial); @P
+
+---
+
+!citation Sporting Life @ 1915-06-05; page 19
+
+#20190119_007 Wilcox, "Sally"
+player 1915 Springfield (Colonial)
+player 1915 Albany (New York State)
+
+---
+
+!citation Elmira Star-Gazette @ 1915-03-05; page 19
+
+#20190119_008 Wilcox, Bill
+player 1915 Albany (New York State)
+resides 1915-03-05 @ US/NJ/Somerville
+
+---
+
+!citation Hartford Courant @ 1915-06-01; page 18
+
+#20190119_009 Saunders
+player 1915 Taunton (Colonial); @P TL
+
+---
+
+!citation Hartford Courant @ 1915-06-03; page 19
+
+#20190119_010 Bridges, Eddie
+player 1915 Springfield (Colonial); @C
+player <1915 (Eastern Association)
+
+#20190119_011 O'Flaherty, Jack
+player 1915 Springfield (Colonial); @P
+
+#20190119_012 Reynolds
+player 1915 Springfield (Colonial); @C 
+player 1915 Baltimore (Federal)
+
+#20190119_013 Foley
+player 1915 Springfield (Colonial); @1B
+player <=1915 Syracuse University [caliber=college]
+
+#20190119_014 Smith, Bugs
+player 1915 Manchester (New England); @P TL
+player 1913 Pittsfield (Eastern Association)
+
+#20190119_015 Ahern, Walter
+player 1915 Utica (New York State); @C
+
+---
+
+!citation Hartford Courant @ 1915-06-04; page 17
+
+#20190119_016 O'Connell, Darby
+player 1915 New Haven (Colonial); @C
+player <1915 (Eastern Association)
+highschool Naugatuck HS @ US/CT/Naugatuck
+
+#20190119_017 Estes, Bill
+player 1915 Worcester (New England); @OF
+
+---
+
+!citation Hartford Courant @ 1915-06-07; page 17
+
+#20190119_018 Senno, Dan
+player 1915 Worcester (New England); @2B
+player <=1915 Bridgeport (Eastern Association); @LF
+
+#20190119_019 Baker, Howard
+player 1915 Nashville (Southern Association); @OF
+
+#20190119_020 Geist, Clyde
+player 1915 Wichita (Western); @P
+
+#20190119_021 Gagnier, Edward
+player 1915 Springfield (Colonial); @SS
+player <=1915 Brooklyn (Federal)
+
+#20190119_022 Carroll, Frank
+player 1915 New York (National)
+player 1915 Toronto (International)
+player <=1915 Fordham University; caliber=college
+player <=1911 St. Bonaventure University; caliber=college
+
+---
+
+!citation Hartford Courant @ 1915-06-08; page 16
+
+#20190119_023 Chappelle, Bill "Big Bill"
+player 1915 New Haven (Colonial); @P
+
+---
+
+!citation Hartford Courant @ 1915-06-09; page 19
+
+#20190119_024 Dukette, Gene
+player 1915 New Bedford (Colonial); @2B
+player 1914 (Colonial League)
+player <=1914 Brown University; caliber=college
+
+---
+
+!citation Hartford Courant @ 1915-06-11; page 19
+
+#20190119_025 Smith
+player 1915 Taunton (Colonial); @P
+player 1915 Manchester (New England)
+
+---
+
+!citation Springfield Republican @ 1915-07-11; page 4
+
+#20190119_026 Quinn, Owen
+player 1915 Springfield (Colonial); @1B
+
+#20190119_027 Miller, Hugh
+player 1915 Fall River (Colonial)
+player 1915 Springfield (Colonial)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,199 @@
+!citation Arkansas Democrat @ 1908-02-06; page 2
+!citation Arkansas Gazette @ 1908-03-23; page 8
+!citation Arkansas Gazette @ 1908-03-09; page 2
+!citation The Sporting News @ 1908-04-23; page 6
+!citation Memphis Commercial Appeal @ 1908-08-12; page 11
+!citation The Sporting News @ 1908-08-27; page 2
+!citation Arkansas Gazette @ 1909-04-16; page 8
+!citation Arkansas Gazette @ 1909-04-18; page 13
+!citation Fort Smith Times @ 1909-05-19; page 2
+
+#20181012_001 Addington, Max
+player 1907 Monroe (Gulf Coast); @3B H70 W153
+resides 1908 @ US/OK/Yukon
+player 1908 Little Rock (Southern Association); @3B
+player 1908 Monroe (Cotton States); @3B
+player 1909 Little Rock (Southern Association); @3B
+player 1909 Fort Smith (Arkansas State); @3B
+released 1909-05-19; leave=Fort Smith (Arkansas State)
+
+---
+
+!citation The (Shreveport) Times @ 1909-05-30; page 6
+!citation The (Alexandria) Weekly Town Talk @ 1909-07-10; page 8
+!citation The (Shreveport) Times @ 1909-08-08; page 6
+!citation The (Shreveport) Times @ 1910-03-10; page 10
+!citation The (Shreveport) Times @ 1909-08-08; page 2
+!citation The (Shreveport) Times @ 1909-10-27; page 10
+
+#20181012_002 Anderson, Wingo
+player 1909 Shreveport (Texas); @P
+resides 1909 @ US/TX
+player 1909 Alexandria (Arkansas State); @P
+player 1909 Longview [state=TX]; @P
+player 1909 Nacogdoches [state=LA]; @P
+player 1909 El Paso (Cactus); @P
+player 1910 Cincinnati (National); @P
+
+---
+
+!citation Monroe News-Star @ 1918-01-12; page 8
+!citation Arkansas Gazette @ 1909-05-07; page 8
+!citation Shreveport Times @ 1909-05-24; page 6
+!citation Fort Worth Star-Telegram @ 1911-11-08; page 10
+!citation El Paso Herald @ 1912-05-11; page 25
+!citation Dallas Morning News @ 1912-04-29; page 13
+!citation Muskogee Times-Democrat @ 1912-05-06; page 9
+!citation Monroe News-Star @ 1912-07-16; page 8
+!citation Dallas Morning News @ 1912-04-29; page 13
+
+#20181012_003 Averett, John W. "Hooter"
+player 1909 Monroe (Arkansas State); @P
+player 1912 Fort Worth (Texas); @P TL
+player 1912 Guthrie (Oklahoma State); @P
+
+---
+
+!citation The Sporting News @ 1909-05-06; page 7
+
+#20181012_004 Bagwell, O.
+player 1909 Monroe (Arkansas State); @P
+
+---
+
+!citation Pine Bluff Daily Graphic @ 1909-07-01; page 5
+!citation Memphis Commercial Appeal @ 1909-07-02; page 13
+
+#20181012_005 Baldwin, Dan
+player 1909 Newport-Batesville (Arkansas State); @2B
+resides 1909 @ US/AR/Pine Bluff
+
+---
+
+!citation Dallas Morning News @ 1904-05-27; page 10
+!citation The Houston Post @ 1908-03-15; page 18
+!citation Beaumont Enterprise @ 1908-04-16; page 3
+!citation The (Texarkana) Daily Texarkanian @ 1909-03-25; page 5
+
+#20181012_006 Bankhead, Jack
+player 1904 Corsicana (Texas); @P
+resides 1904 @ US/TX/Paris
+player 1908 Houston (Texas); @C
+player 1908 Beaumont (Gulf Coast); @C
+player 1909 Texarkana (Arkansas State); @C
+
+---
+
+!citation Boston Herald @ 1908-02-11; page 9
+!citation Philadelphia Inquirer @ 1908-03-24; page 10
+!citation Boston Herald @ 1908-06-19; page 8
+!citation Boston Herald @ 1908-07-11; page 5
+!citation Sporting News @ 1909-02-11; page 6
+!citation Arkansas Gazette @ 1909-04-14; page 8
+!citation Arkansas Gazette @ 1909-04-27; page 12
+!citation Arkansas Gazette @ 1909-04-29; page 6
+!citation Springfield (Massachusetts) Republican @ 1909-05-11; page 6
+!citation Springfield (Massachusetts) Republican @ 1909-06-02; page 6
+
+#20181012_007 Barnicle, Fred
+player 1907 Dean Academy; @P; caliber=college
+player 1908 Philadelphia (American); @P H72 W185
+player 1908 Dean Academy; @P; caliber=college
+player 1908 Worcester (New England); @P
+player 1909 Little Rock (Southern Association); @P
+player 1909 Fort Smith (Arkansas State); @P
+player 1909 Holyoke (Connecticut State); @P
+
+---
+
+!citation The (Alexandria) Town Talk @ 1909-05-18; page 6
+
+#20181012_008 Bauer, Eddie "Polly"
+player 1909 Alexandria (Arkansas State); @2B-P
+signed 1909-05-17; join=Alexandria (Arkansas State)
+
+---
+
+!citation Arkansas Gazette @ 1908-06-19; page 8
+!citation Sporting News @ 1909-05-13; page 4
+!citation The (Zanesville) Times Recorder @ 1909-07-21; page 6
+!citation The (Zanesville) Times Recorder @ 1909-08-14; page 6
+!citation The (Zanesville) Times Recorder @ 1909-10-20; page 8
+!citation Evansville Press @ 1910-03-29; page 4
+!citation Evansville Press @ 1910-04-07; page 6
+!citation Indianapolis News @ 1910-06-04; page 9
+!citation El Paso Herald @ 1910-07-15; page 8
+!citation Evansville Press @ 1910-07-14; page 6
+!citation St. Louis Post-Dispatch @ 1911-03-16; page 18
+
+#20181012_009 Begley, Jim
+player 1908 Helena (Arkansas State); @1B
+player 1909 Helena (Arkansas State); @1B
+player 1909 Zanesville (Central); @CF
+player 1909 Steubenville (Ohio-Pennsylvania); @1B
+resides 1910 @ US/MO/St. Louis
+player 1910 Evansville (Central); @1B
+player 1910 El Reno (Western Association)
+player 1910 Oklahoma City (Texas)
+player 1911 Hyde Parks (St. Louis Trolley); @1B
+
+---
+
+!citation Arkansas Gazette @ 1908-04-27; page 6
+!citation The Sporting News @ 1909-05-13; page 4
+!citation Pittsburgh Daily Post @ 1910-03-26; page 10
+!citation The (Caruthersville) Democrat-Argus @ 1910-08-05; page 1
+!citation Arkansas Democrat @ 1911-01-31; page 6
+!citation Muskogee Times-Democrat @ 1911-03-04; page 7
+
+#20181012_010 Benham, Herbert
+player 1908 Helena (Arkansas State); @RF
+resides 1908 @ US/TN/Memphis
+player 1909 Helena (Arkansas State); @RF
+player 1910 El Reno (Western Association); @CF
+player 1910 Caruthersville (Northeast Arkansas); @OF
+
+---
+
+!citation The Decatur Herald @ 1908-04-05; page 3
+!citation Arkansas Gazette @ 1908-05-12; page 8
+!citation The Sporting News @ 1909-03-11; page 6
+!citation Pine Bluff Daily Graphic @ 1909-04-03; page 4
+!citation Pine Bluff Daily Graphic @ 1909-04-08; page 7
+!citation Arkansas Gazette @ 1909-05-20; page 9
+!citation Arkansas Gazette @ 1909-08-01; page 9
+!citation Arkansas Democrat @ 1909-12-08; page 6
+!citation Jonesboro Daily News @ 1909-09-23; page 3
+!citation Jonesboro Daily News @ 1909-09-28; page 1
+
+#20181012_011 Berry, Harry
+player 1908 Decatur (Illinois-Indiana-Iowa); @C
+player 1908 Pine Bluff (Arkansas State); @C
+player 1909 Hot Springs (Arkansas State); @C
+player 1909 Helena (Arkansas State); @C
+player 1909 Little Rock (Southern Association); @C
+player 1909 Jonesboro (Northeast Arkansas); @C
+
+---
+
+!citation The Sporting News @ 1908-05-14; page 8
+!citation The Sporting News @ 1909-03-11; page 6
+!citation The Shreveport Times @ 1909-04-17; page 6
+!citation The Sporting News @ 1909-05-20; page 8
+!citation The Shreveport Times @ 1909-04-17; page 6
+!citation The Sporting News @ 1909-07-22; page 8
+!citation The Houston Post @ 1909-08-03; page 3
+!citation Muskogee County Democrat @ 1909-08-06; page 6
+
+#20181012_012 Besse, Otto
+player 1908 Hot Springs (Arkansas State); @RF
+player 1909 Shreveport (Texas); @LF
+player 1909 Texarkana (Arkansas State); @1B
+player 1909 Muskogee (Western Association); @OF
+
+---
+
+!citation The Fort Smith Times @ 1909-04-30; page 2
+
+#20181012_013 Beveridge, Will
+player 1909 Fort Smith (Arkansas State); @P

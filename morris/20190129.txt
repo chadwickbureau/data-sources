@@ -1,0 +1,210 @@
+!citation  Wilkes-Barre Record @ 1915-06-12; page 9
+
+#20190129_001 Barberich, Frank
+player 1915 Syracuse (New York State); @P TR
+player 1914 Binghamton (New York State)
+player 1914 New London (Eastern Association)
+player 1913 Binghamton (New York State)
+
+---
+
+!citation  Charlotte News @ 1915-08-15; page 13
+
+#20190129_002 Cates, Jack
+player 1915 Lenoir (Western North Carolina); @P 
+player 1915 (South Atlantic)
+
+#20190129_003 Booe, Everett
+player 1915 Statesville (Western North Carolina)
+
+#20190129_004 Fox, John
+umpire 1915 Western North Carolina
+
+#20190129_005 Spaid, Bob
+player 1915 Statesville (Western North Carolina)
+
+---
+
+!citation  Charlotte News @ 1915-07-23; page 10
+
+
+#20190129_006 Osteen, Bill
+player 1915 Morganton (Western North Carolina); @P 
+
+---
+
+!citation  Charlotte News @ 1915-07-13; page 6
+
+#20190129_007 Boyd
+player 1915 Gastonia (Western North Carolina)
+player 1915 Newnan (Georgia-Alabama)
+
+#20190129_008 Mackie
+player 1915 Gastonia (Western North Carolina)
+player 1915 Newnan (Georgia-Alabama)
+
+#20190129_009 Griffin
+player 1915 Gastonia (Western North Carolina)
+player 1915 Newnan (Georgia-Alabama)
+
+#20190129_010 Matthews
+player 1915 Gastonia (Western North Carolina)
+player 1915 Newnan (Georgia-Alabama)
+
+#20190129_011 Terry
+player 1915 Gastonia (Western North Carolina)
+player 1915 Newnan (Georgia-Alabama)
+
+#20190129_012 Walker
+player 1915 Gastonia (Western North Carolina)
+player 1915 Newnan (Georgia-Alabama)
+
+#20190129_013 Whitney
+player 1915 Gastonia (Western North Carolina)
+player 1915 Newnan (Georgia-Alabama)
+
+---
+
+!citation  Charlotte News @ 1915-07-28; page 10
+
+#20190129_014 Bitting
+player 1915 Lenoir (Western North Carolina)
+player 1915 (South Atlantic)
+
+
+---
+
+!citation  Charlotte News @ 1915-07-29; page 10
+
+#20190129_015 Evans, Bill
+player 1915 Morganton (Western North Carolina)
+
+#20190129_016 Billings, Mig
+player 1915 Morganton (Western North Carolina)
+
+---
+
+!citation  Charlotte News @ 1915-07-30; page 10
+
+#20190129_017 Correll, Lindy
+player 1915 Morganton (Western North Carolina)
+
+#20190129_018 Bernsen
+manager 1915 Lenoir (Western North Carolina)
+
+#20190129_019 Booe
+manager 1915 Statesville (Western North Carolina)
+
+#20190129_020 Bitting
+player 1915 Lenoir (Western North Carolina)
+player 1915 (South Atlantic)
+
+#20190129_021 Spaid, Merl 
+player 1915 Statesville (Western North Carolina)
+
+#20190129_022 Adams, Babe 
+player 1915 Lenoir (Western North Carolina)
+
+#20190129_023 Miller, Dick
+player 1915 Statesville (Western North Carolina)
+
+---
+
+!citation  Charlotte News @ 1915-08-18; page 10
+
+#20190129_024 Watson, Harry
+player 1915 Morganton (Western North Carolina)
+
+#20190129_025 Wilson
+player 1915 Statesville (Western North Carolina)
+resides 1915 @ US/NC/Taylorsville
+
+#20190129_026 Lowe
+player 1915 Charlotte (North Carolina State)
+player 1915 Morganton (Western North Carolina)
+player 1915 Asheville (North Carolina State)
+
+---
+
+!citation  Charlotte News @ 1915-08-19; page 6
+
+#20190129_027 Gosnell
+player 1915 Greensboro (North Carolina State)
+player 1915 Statesville (Western North Carolina)
+
+#20190129_028 Evans, Bill
+player 1915 Morganton (Western North Carolina)
+
+#20190129_029 Watson, Harry
+player 1915 Morganton (Western North Carolina); @P
+player <1915 Asheville (North Carolina State); @P
+
+#20190129_030 Lowe, Rhone
+player 1915 Albemarle (Eastern North Carolina); @C
+player 1914 Durham (North Carolina State); @C
+
+#20190129_031 Spence
+player 1915 Albemarle (Eastern North Carolina); @LF
+player 1914 Winston-Salem (North Carolina State)
+player <=1914 Duke University; caliber=college
+
+#20190129_032 Shannon
+player 1915 Lumberton (Eastern North Carolina); @C
+player 1915 (Georgia-Alabama)
+
+#20190129_033 Lynch
+player 1915 Statesville (Western North Carolina)
+player 1915 Lumberton (Eastern North Carolina); @2B
+player <=1914 Weaver College; caliber=college
+
+---
+
+!citation  Charlotte News @ 1915-08-19; page 7
+
+#20190129_034 Laval, Billy
+player 1915 Morganton (Western North Carolina)
+
+---
+
+!citation  Charlotte News @ 1915-07-31; page 6
+
+#20190129_035 Bernsen, Al
+manager 1915 Lenoir (Western North Carolina)
+
+#20190129_036 Bitting, Earl
+player 1915 Lenoir (Western North Carolina)
+player 1915 Charleston (South Atlantic)
+
+#20190129_037 Miller, Dick
+player 1915 Statesville (Western North Carolina)
+player 1915 (South Atlantic)
+
+---
+
+!citation  Salisbury Daily Times @ 1952-08-18; page 8
+
+#20190129_038 Smith, Herman [Buddy]
+player 1952 Salisbury (Interstate)
+player 1949 Federalsburg (Eastern Shore)
+player <=1949 University of Maryland; caliber=college
+resides 1952 @ US/MD/Princess Anne
+
+#20190129_039 Harvey, Joe
+player 1952 Harrisburg (Interstate)
+player <=1952 George Washington University; caliber=college
+
+---
+
+!citation  Charlotte News @ 1915-08-01; page 15
+
+#20190129_040 Williams, Fleet
+manager 1915 Morganton (Western North Carolina)
+
+#20190129_041 Nally
+player 1915 Statesville (Western North Carolina)
+player 1915 (South Atlantic)
+
+#20190129_042 Decatur
+player 1915 Gastonia (Western North Carolina)
+player 1915 Winston-Salem (North Carolina State)
+

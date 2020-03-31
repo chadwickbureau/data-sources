@@ -1,0 +1,163 @@
+!citation  Scranton Republican @ 1915-05-05; page 11
+
+#20190220_001 Bates
+player 1915 Scranton (New York State); @P TL
+player 1915 Montreal (International)
+player 1914 Worcester (New England)
+
+#20190220_002 Scull, Carl
+player 1915 Scranton (New York State); @P 
+player 1915 New York (National)
+highschool Scranton Technical HS @ US/PA/Scranton
+
+---
+
+!citation  Scranton Republican @ 1915-04-17; page 10
+
+#20190220_003 Barton, Buck
+player 1915 Scranton (New York State); @P TR
+
+---
+
+!citation  Elmira Star-Gazette @ 1915-02-02; page 8
+
+
+#20190220_004 Barton, Buck
+player 1915 Scranton (New York State)
+player 1914 (Virginia)
+
+---
+
+!citation  Binghamton Press& Sun-Bulletin @ 1915-04-15; page 13
+
+#20190220_005 Barton, Buck
+player 1915 Scranton (New York State)
+
+#20190220_006 Breckinridge, Al
+player 1915 Scranton (New York State)
+
+#20190220_007 Breckinridge, "Doc"
+player 1915 Scranton (New York State)
+
+#20190220_008 Hall, "Beany"
+player 1915 Scranton (New York State)
+
+#20190220_009 Keating, Jack
+player 1915 Scranton (New York State)
+
+---
+
+!citation  Scranton Republican @ 1915-09-02; page 10
+
+#20190220_010 Connors, Marty
+player 1915 Scranton (New York State); @CF
+
+---
+
+!citation  Scranton Republican @ 1915-08-23; page 12
+
+#20190220_011 Connors, Marty
+player 1915 Scranton (New York State)
+player <=1915 Niagara University; caliber=college
+resides 1915 @ US/PA/Pittston
+
+---
+
+!citation  Pittston Gazette @ 1913-05-12; page 2
+
+#20190220_012 Connors, Marty
+player 1913 Niagara University; caliber=college; @LF
+player 1913 Canton (Interstate)
+resides 1913 @ US/PA/Pittston
+
+#20190220_013 Gilhooley, James
+player 1913 Niagara University; caliber=college; @SS
+player 1913 Canton (Interstate)
+resides 1913 @ US/PA/Avoca
+
+#20190220_014 Gilroy, John
+player 1913 Niagara University; caliber=college; @P
+player 1913 Canton (Interstate)
+resides 1913 @ US/PA/Avoca
+
+---
+
+!citation  Pittston Gazette @ 1914-06-02; page 6
+
+#20190220_015 Connors, Marty
+player <1914 St. Bonaventure University; caliber=college
+player <1914 Niagara University; caliber=college
+player 1914 Villanova University; caliber=college
+resides 1913 @ US/PA/Pittston
+
+---
+
+!citation  Richmond Times-Dispatch @ 1915-05-05; page 8
+
+#20190220_016 Baumgardner
+player 1915 Newport News (Virginia)
+player 1915 Norfolk (Virginia)
+
+---
+
+!citation  Norfolk Daily Press @ 1915-03-05; page 5
+
+#20190220_017 Saracino
+player 1914 Norfolk (Virginia)
+player 1915 Norfolk (Virginia)
+
+#20190220_018 Carnes
+player 1914 (Appalachian)
+player 1915 Norfolk (Virginia)
+
+---
+
+!citation  Norfolk Daily Press @ 1915-03-10; page 5
+
+#20190220_019 Mumford, John
+player 1914 Newport News (Virginia)
+player 1915 Newport News (Virginia)
+
+#20190220_020 Johnson, Horace "Sailor"
+player 1915 Newport News (Virginia); @P
+player 1914 Portsmouth (Virginia)
+player 1914 Petersburg (Virginia)
+
+#20190220_021 Colley
+player 1915 Newport News (Virginia); @P
+resides 1915 @ US/DC/Washington
+
+#20190220_022 Baumgardner
+player 1915 Newport News (Virginia); @P
+resides 1915 @ US/TN/South Pittsburg
+
+#20190220_023 Holmes
+player 1915 Newport News (Virginia); @C
+resides 1915 @ US/SC/Charleston
+
+#20190220_024 Richmond
+player 1915 Petersburg (Virginia); @P
+player 1914 Petersburg (Virginia); @P
+
+#20190220_025 Kaufmann
+player 1915 Petersburg (Virginia); @P
+player 1914 Petersburg (Virginia); @P
+
+#20190220_026 Blackstone, Clyde 
+player 1915 Petersburg (Virginia); @P
+player 1913 Petersburg (Virginia); @P
+
+---
+
+!citation  Richmond Times-Dispatch @ 1915-05-07; page 8
+
+#20190220_027 Poole, Jimmy
+player 1915 Suffolk (Virginia); @P TL
+
+---
+
+!citation  Raleigh News & Observer @ 1915-05-06; page 3
+
+#20190220_028 Jaynes, "Hero"
+player 1915 Raleigh (North Carolina State); @P 
+player 1915 Morganton (Western Carolina); @P 

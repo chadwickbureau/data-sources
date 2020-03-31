@@ -1,0 +1,173 @@
+!citation  Charlotte News @ 1915-09-01; page 6
+
+#20190212_001 Hauger
+player 1915 Stateville (Western North Carolina)
+player 1915 Evansville (Central)
+
+#20190212_002 Emery, Burleigh
+player 1915 Morganton (Western North Carolina)
+
+#20190212_003 Matthews
+player 1915 Stateville (Western North Carolina)
+player 1915 Evansville (Central)
+
+---
+
+!citation  Charlotte News @ 1915-09-02; page 10
+
+#20190212_004 McDowell
+player 1915 Gastonia (Western North Carolina); @OF
+player 1915 Mobile (Southern Association)
+
+#20190212_005 Cheney
+player 1915 Gastonia (Western North Carolina) 
+player 1915 Statesville (Western North Carolina) 
+
+---
+
+!citation  Charlotte News @ 1915-09-03; page 10
+
+#20190212_006 Glazner, Whitie
+player 1915 Red Springs (Eastern North Carolina); @P
+player 1915 Winston-Salem (North Carolina State)
+
+#20190212_007 Ingle, Bob
+player 1915 Red Springs (Eastern North Carolina)
+
+#20190212_008 Rowe, Buck
+player 1915 Red Springs (Eastern North Carolina)
+player 1915 Greensboro (North Carolina State)
+
+#20190212_009 Koehler, Zeke
+player 1915 Red Springs (Eastern North Carolina)
+
+#20190212_010 Fox, Jim
+player 1915 Lumberton (Eastern North Carolina)
+
+#20190212_011 Foster, Eddie
+player 1915 Lumberton (Eastern North Carolina); @P
+
+#20190212_012 Watson, Harry
+player 1915 Morganton (Western North Carolina); @P 
+
+---
+
+!citation  Charlotte News @ 1915-09-05; page 13
+
+#20190212_013 Bender, Chief
+player 1915 Gastonia (Western North Carolina); @P
+player 1915 (Federal)
+
+#20190212_014 Smith
+player 1915 Gastonia (Western North Carolina); @OF
+player 1915 Newport News (Virginia)
+
+---
+
+!citation  Charlotte News @ 1915-09-07; page 10
+
+#20190212_015 Poole
+player 1915 Red Springs (Eastern North Carolina)
+player 1915 Mobile (Southern Association)
+
+
+---
+
+!citation  Charlotte News @ 1915-06-16; page 12
+
+#20190212_016 DeVane, T. A.
+player 1915 Albemarle (Eastern North Carolina)
+
+#20190212_017 Winecoff, Cyril
+player 1915 Albemarle (Eastern North Carolina)
+
+#20190212_018 Efird, Watt
+player 1915 Albemarle (Eastern North Carolina)
+
+---
+
+!citation  Charlotte News @ 1915-09-10; page 10
+
+#20190212_019 Efird, Jap
+player 1915 Red Springs (Eastern North Carolina)
+
+---
+
+!citation  Charlotte News @ 1915-09-10; page 10
+
+#20190212_020 Poole, Jim
+player 1915 Red Springs (Eastern North Carolina); @P
+
+---
+
+!citation  Twin City Daily Sentinel @ 1915-03-27; page 10
+
+#20190212_021 Milliman, Bob
+player 1915 Portsmouth (Virginia)
+player 1914 Greensboro (North Carolina State)
+
+---
+
+!citation  Wilkes-Barre Times Leader @ 1915-05-31; page 9
+
+#20190212_022 Nugent, Jack
+player 1915 Troy (New York State); @P 
+resides 1915 @ US/NY/Troy
+
+---
+
+!citation  Elmira Star-Gazette @ 1915-03-08; page 8
+
+#20190212_023 Garlow, William
+player 1914 Lewiston (New England); @P 
+player <=1914 Carlisle Indian Industrial School; caliber=college
+
+---
+
+!citation  Elmira Star-Gazette @ 1915-05-15; page 8
+
+#20190212_024 Nagle, Jimmy
+player 1915 Elmira (New York State); @P 
+player 1914 Elmira (New York State); @P 
+
+---
+
+!citation  Elmira Star-Gazette @ 1915-04-16; page 8
+
+#20190212_025 Rawley, Fred
+player 1915 Syracuse (New York State); @P 
+player 1914 Worcester (New England); @P 
+resides 1915 @ US/NY/Cortland
+
+---
+
+!citation  Elmira Star-Gazette @ 1915-07-29; page 8
+
+#20190212_026 Rawley, Fred
+player 1915 Syracuse (New York State); @P 
+player 1915 Elmira (New York State); @P 
+player 1915 (Interstate); @P 
+
+---
+
+!citation  Elmira Star-Gazette @ 1915-02-22; page 8
+
+#20190212_027 Rogers, William
+player 1915 Elmira (New York State); @C
+
+---
+
+!citation  Elmira Star-Gazette @ 1915-05-15; page 8
+
+#20190212_028 Brackett
+player 1915 Albany (New York State)
+player 1915 Toronto (International)
+player 1914 Duluth (Northern)
+
+---
+
+!citation  Wilkes-Barre Record @ 1915-03-30; page 17
+
+#20190212_029 Brackett, Hank
+player 1915 Albany (New York State)
+player 1916 Toronto (International)

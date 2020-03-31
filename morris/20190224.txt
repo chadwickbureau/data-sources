@@ -1,0 +1,238 @@
+!citation  High Point Enterprise @ 1922-07-18; page 5
+
+#20190224_001 Hodgin, Herb
+player 1922 Raleigh (Piedmont); @2B
+resides 1922 @ US/NC/Jamestown
+
+---
+
+!citation  Gastonia Gazette @ 1915-07-02; page 1
+
+#20190224_002 Winston
+player 1915 Morganton (Western Carolina); @C
+player <=1915 North Carolina State University; caliber=college
+
+#20190224_003 Hodgin
+player 1915 Morganton (Western Carolina); @RF
+player <=1915 North Carolina State University; caliber=college
+
+#20190224_004 Evans
+player 1915 Morganton (Western Carolina); @P
+player <=1915 North Carolina State University; caliber=college
+
+#20190224_005 Jaynes
+player 1915 Morganton (Western Carolina); @P
+player <=1915 North Carolina State University; caliber=college
+
+#20190224_006 Billings
+player 1915 Morganton (Western Carolina); @SS
+player <=1915 Wake Forest University; caliber=college
+
+#20190224_007 Christenbury
+player 1915 Morganton (Western Carolina); @P
+player <=1915 Davidson College; caliber=college
+
+#20190224_008 Williams, Fleet
+player 1915 Morganton (Western Carolina); @1B
+player <=1915 University of North Carolina; caliber=college
+
+---
+
+!citation  Scranton Republican @ 1915-05-06; page 13
+
+#20190224_009 Miller, Charles
+player 1915 Scranton (New York State); @C
+resides 1915 @ US/PA/Williamsport
+
+#20190224_010 Keating, Charles
+player 1915 Scranton (New York State); @C
+resides 1915 @ US/NY/Buffalo
+
+#20190224_011 Breckinridge, Al
+player 1915 Scranton (New York State); @P
+resides 1915 @ US/OH/Akron
+
+#20190224_012 Barton, Carroll
+player 1915 Scranton (New York State); @P
+resides 1915 @ US/DC/Washington
+
+#20190224_013 Cornwell, Floyd
+player 1915 Scranton (New York State); @P
+resides 1915 @ US/WV/Thornton
+
+#20190224_014 Hedgepeth, Harry
+player 1915 Scranton (New York State); @P
+resides 1915 @ US/VA/Richmond
+
+#20190224_015 Hall, W. B.
+player 1915 Scranton (New York State); @P
+resides 1915 @ US/WV/Richwood
+
+#20190224_016 Fox, John
+player 1915 Scranton (New York State); @P
+resides 1915 @ US/PA/Reading
+
+#20190224_017 Lane, Elmer
+player 1915 Scranton (New York State); @P
+resides 1915 @ US/NY/Buffalo
+
+#20190224_018 Slattery, Joseph
+player 1915 Scranton (New York State); @1B
+resides 1915 @ US/MO/St.Louis
+
+#20190224_019 Mullin, James
+player 1915 Scranton (New York State); @2B
+resides 1915 @ US/PA/Avoca
+
+#20190224_020 Murray, Joseph
+player 1915 Scranton (New York State); @3B
+resides 1915 @ US/PA/Lansdowne
+
+#20190224_021 Corcoran, Michael
+player 1915 Scranton (New York State); @OF
+resides 1915 @ US/NY/Buffalo
+
+#20190224_022 Strait, Lee
+player 1915 Scranton (New York State); @OF
+resides 1915 @ US/NY/Elmira
+
+#20190224_023 Cruikshank, Frank
+player 1915 Scranton (New York State); @OF
+resides 1915 @ US/MA/Somerville
+
+#20190224_024 Maisel, George
+player 1915 Scranton (New York State); @OF
+resides 1915 @ US/MD/Catonsville
+
+#20190224_025 Hartman, Henry
+player 1915 Scranton (New York State); @SS
+resides 1915 @ US/NY/New York
+
+#20190224_026 Hewes, Ross
+player 1915 Scranton (New York State); @P
+resides 1915 @ US/IN/Indianapolis
+
+#20190224_027 Scull, Carl
+player 1915 Scranton (New York State); @P
+resides 1915 @ US/PA/Scranton
+
+#20190224_028 Bates, Samuel
+player 1915 Scranton (New York State); @P
+resides 1915 @ US/NY/New York
+
+---
+
+!citation  Wilkes-Barre Record @ 1915-08-09; page 9
+
+#20190224_029 Wahle, Clarence
+player 1915 Utica (New York State); @P TL
+
+---
+
+!citation  1917 North Carolina State University Yearbook; page 47
+
+#20190224_030 Hodgin, William Herbert
+player 1914/1917 North Carolina State University; caliber=college; H69 W165
+resides 1917 @ US/NC/Jamestown
+
+---
+
+!citation  Wilkes-Barre Record @ 1915-03-31; page 9
+
+#20190224_031 Ginn
+player 1915 Wilkes-Barre (New York State); @OF
+player 1914 Waterbury (Eastern Association)
+
+---
+
+!citation  Wilkes-Barre Record @ 1915-06-23; page 9
+
+#20190224_032 Kelley, Eddie
+player 1915 Wilkes-Barre (New York State); @1B
+player 1915 New York (American)
+player 1914 (New England)
+
+---
+
+!citation  Newport News Daily Press @ 1914-03-01; page 5
+
+#20190224_033 Paxson, Charley
+player 1914 Newport News (Virginia); @P TR
+player 1913 Newport News (Virginia); @P TR
+
+#20190224_034 William, Clark
+player 1914 Newport News (Virginia); @P TR H73
+resides 1914 @ US/SC/Whitmeyer
+
+#20190224_035 Pierce, J. R. 
+player 1914 Newport News (Virginia); @P TR H73 W180
+player 1913 (Baltimore City); caliber=semipro
+
+#20190224_036 Bagwell, C .S. 
+player 1914 Newport News (Virginia); @P TR 
+player 1914 Chattanooga (Southern Association) 
+player 1913 (Empire State) 
+
+#20190224_037 Todd, "Hank"
+player 1914 Newport News (Virginia); @P TR H70
+resides 1914 @ US/NJ/Trenton
+
+#20190224_038 Zops, Eddie
+player 1914 Newport News (Virginia); @P TR 
+resides 1914 @ US/MD/Baltimore
+
+#20190224_039 Crothers, R.
+player 1914 Newport News (Virginia); @P TL 
+player 1913 Jersey City (International)
+resides 1914 @ US/NJ/Jersey City
+
+#20190224_040 Gallagher, L. A.
+player 1914 Newport News (Virginia); @P TR H73 W190
+player 1913 Cleveland (Federal)
+resides 1914 @ US/NJ/Jersey City
+
+#20190224_041 Appleby, Ed S.
+player 1914 Newport News (Virginia); @C 
+player <1914 New York (American)
+player <1914 Portsmouth (Tidewater)
+resides 1914 @ US/MD/Baltimore
+
+#20190224_042 Gloxson, Marmon
+player 1914 Newport News (Virginia); @C 
+player 1913 Portsmouth (Virginia)
+
+#20190224_043 Carnes, Carl
+player 1914 Newport News (Virginia); @1B H73 BL TL
+player 1913 Adrian (Southern Michigan)
+
+#20190224_044 Krepps, Sam
+player 1914 Newport News (Virginia); @2B
+player 1913 Petersburg (Virginia)
+
+#20190224_045 Gondolfi, Dan
+player 1914 Newport News (Virginia); @SS BL
+player 1913 Petersburg (Virginia)
+
+#20190224_046 Walters, "Rasty"
+player 1914 Newport News (Virginia); @3B
+player 1913 Adrian (Southern Michigan)
+
+#20190224_047 Smith, Arthur
+player 1914 Newport News (Virginia); BR
+player 1913 Newport News (Virginia)
+
+#20190224_048 McCabe, William F.
+player 1914 Newport News (Virginia); BL
+player 1914 Washington (American)
+player 1913 (Chicago City); caliber=semipro
+
+#20190224_049 Chastant, E. M.
+player 1913 Newport News (Virginia) 
+
+---
+
+!citation  Richmond Times-Dispatch @ 1915-05-14; page 8
+
+#20190224_050 Voltz
+player 1915 Newport News (Virginia); TL
+

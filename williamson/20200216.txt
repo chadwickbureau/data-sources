@@ -436,7 +436,7 @@ player 1910 Memphis (Southern Association); @3B
 #profile Zinn
 key 20200216_078
 player 1909 Grafton (Pennsylvania-West Virginia); @OF
-player 1910 Memphis (Southern Association); OF
+player 1910 Memphis (Southern Association); @OF
 
 #profile Channell
 key 20200216_079

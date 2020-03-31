@@ -1,0 +1,235 @@
+!citation  San Bernardino News @ 1915-11-22; page 6
+
+#20190422_001 Rawlings, Johnny
+player 1915 San Bernardino (California Winter)
+player 1915 (Federal)
+
+#20190422_002 Easterly, Ted
+player 1915 San Bernardino (California Winter); @C
+player 1915 (Federal)
+
+#20190422_003 Griggs, Arthur
+player 1915 San Bernardino (California Winter) 
+player 1915 (Federal)
+
+#20190422_004 Chech, Charles
+player 1915 San Bernardino (California Winter); @P
+
+#20190422_005 Perritt, Poll
+player 1915 San Bernardino (California Winter); @P
+
+#20190422_006 Cornett, William
+manager 1915 San Bernardino (California Winter) 
+
+#20190422_007 Boles, Walter
+manager 1915 San Bernardino (California Winter) 
+player 1915 San Bernardino (California Winter); @C
+
+---
+
+!citation  San Bernardino County Sun @ 1915-11-23; page 8
+
+#20190422_008 Cornett, Bill
+manager 1915 San Bernardino (California Winter) 
+
+#20190422_009 Boles, Walter
+manager 1915 San Bernardino (California Winter) 
+player 1915 San Bernardino (California Winter); @C
+player 1915 Los Angeles (Pacific Coast); @C
+
+#20190422_010 Foster, Rube
+manager 1915 Chicago (California Winter) 
+
+#20190422_011 Chech, Charles
+player 1915 San Bernardino (California Winter); @P
+
+#20190422_012 Griggs, Art
+player 1915 San Bernardino (California Winter) 
+
+#20190422_013 Smith, George
+player 1915 San Bernardino (California Winter); @3B
+
+---
+
+!citation  Los Angeles Times @ 1915-12-13; page 22
+
+#20190422_014 Killeen, Jack
+player 1915 San Diego (California Winter)
+
+#20190422_015 Autrey, Chick
+player 1915 San Diego (California Winter)
+
+#20190422_016 Bennett, Pug
+player 1915 San Diego (California Winter)
+
+---
+
+!citation  Salt Lake Tribune @ 1915-10-23; page 11
+
+#20190422_017 Meek, Harry
+player 1915 Cline-Cline (California Winter)
+player <=1915 Los Angeles (Pacific Coast)
+player <=1915 Vernon (Pacific Coast)
+
+#20190422_018 Beumiller, Al
+player 1915 Cline-Cline (California Winter)
+player <=1915 Los Angeles (Pacific Coast)
+
+---
+
+!citation  Santa Ana Register @ 1915-11-11; page 9
+
+#20190422_019 Maggert, Harl
+player 1915 San Bernardino (California Winter)
+player <=1915 (Pacific Coast)
+
+---
+
+!citation  Bakersfield Californian @ 1915-11-18; page 10
+
+#20190422_020 Roche, Jack
+player 1915 San Diego (California Winter)
+
+---
+
+!citation  San Bernardino News @ 1915-12-09; page 6
+
+#20190422_021 Bassler, Johnny
+player 1915 San Bernardino (California Winter)
+
+#20190422_022 McDonald, Speed
+player 1915 San Bernardino (California Winter)
+
+#20190422_023 Hansen, Elmer
+player 1915 San Bernardino (California Winter)
+
+#20190422_024 White, Doc
+player 1915 San Bernardino (California Winter)
+player <1915 Chicago (American)
+player 1915 Vernon (Pacific Coast)
+
+---
+
+!citation  San Bernardino News @ 1915-12-06; page 6
+
+#20190422_025 Meadows, Rush
+player 1915 Cline-Cline (California Winter)
+
+#20190422_026 Easterly, Ted
+player 1915 Cline-Cline (California Winter)
+
+#20190422_027 Smith, George
+player 1915 San Bernardino (California Winter)
+
+---
+
+!citation  San Bernardino News @ 1915-11-15; page 6
+
+#20190422_028 Hitt, Roy
+player 1915 San Diego (California Winter)
+
+#20190422_029 Berger, Joey
+player 1915 San Diego (California Winter)
+
+#20190422_030 Wotell, Mike
+player 1915 San Bernardino (California Winter)
+
+---
+
+!citation  San Diego Union @ 1915-12-26; page 31
+
+#20190422_031 Chech, Charley
+player 1915 San Diego (California Winter)
+
+#20190422_032 Bliss, Jack
+player 1915 San Diego (California Winter)
+
+---
+
+!citation  San Diego Evening Tribune @ 1915-12-27; page 9
+
+#20190422_033 Hosp, Franz
+player 1915 San Diego (California Winter)
+
+---
+
+!citation  San Diego Evening Tribune @ 1915-12-25; page 6
+
+#20190422_034 Downey, Tom
+player 1915 San Diego (California Winter)
+
+---
+
+!citation  San Diego Evening Tribune @ 1915-12-24; page 6
+
+#20190422_035 Hitt, Roy
+player 1915 San Diego (California Winter); @P TL
+player 1915 Vernon (Pacific Coast)
+
+#20190422_036 Schneider, Pete
+player 1915 San Diego (California Winter); @P
+player 1915 Cincinnati (National)
+
+#20190422_037 Chech, Charles
+player 1915 San Diego (California Winter); @P
+player 1915 San Bernardino (California Winter)
+player 1915 (Pacific Coast)
+
+#20190422_038 Palmer, Bill
+manager 1915 San Diego (California Winter)
+
+---
+
+!citation  San Diego Evening Tribune @ 1915-12-21; page 1
+
+#20190422_039 Berger, Joe
+player 1915 San Diego (California Winter)
+player 1915 Vernon (Pacific Coast)
+
+---
+
+!citation  San Diego Evening Tribune @ 1915-12-13; page 12
+
+#20190422_040 Williams, Johnny "Honolulu Johnny"
+player 1915 Cline-Cline (California Winter)
+
+---
+
+!citation  San Diego Union @ 1915-12-12; page 22
+
+#20190422_041 West, Hi
+player 1915 Cline-Cline (California Winter)
+
+---
+
+!citation  San Diego Union @ 1915-12-05; page 21
+
+#20190422_042 Boles, Walter
+player 1915 San Bernardino (California Winter)
+player 1915 Los Angeles (Pacific Coast)
+
+#20190422_043 Hanson
+player 1915 San Bernardino (California Winter); @OF
+player 1915 (Northwestern)
+
+#20190422_044 Bassler, Johnny
+player 1915 San Bernardino (California Winter); @OF
+player <1915 Cleveland (American)
+
+---
+
+!citation  San Diego Evening Tribune @ 1915-11-05; page 9
+
+#20190422_045 Bayless, Dick
+player 1915 San Diego (California Winter)
+
+#20190422_046 Litschi, Lou
+player 1915 San Diego (California Winter)
+
+---
+
+!citation  San Diego Union @ 1915-12-05; page 21
+
+#20190422_047 Whaling, Bert
+player 1915 Cline-Cline (California Winter)
+player 1915 Boston (National)

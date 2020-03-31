@@ -4,7 +4,7 @@
 
 #profile Lewan, Stanley
 key 20200227_001
-player 1922 Winston-Salem (Piedmont)
+player 1924 Winston-Salem (Piedmont)
 player 1922 St. Joseph (Western)
 
 ---

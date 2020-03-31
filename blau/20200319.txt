@@ -115,7 +115,7 @@ player 1915 Shreveport (Texas); @2B
 #profile Fuller
 key 20200319_023
 player 1919 Shreveport (Texas); @P
-obtained <=1915-08-26; join=Shreveport (Texas); leave=Washington (American)
+obtained <=1919-08-26; join=Shreveport (Texas); leave=Washington (American)
 
 ---
 
