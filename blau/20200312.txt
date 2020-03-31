@@ -1,0 +1,115 @@
+!citation Austin American @ 1915-06-04; page 5
+
+
+#profile Gordon, Bill
+key 20200312_001
+player 1915 Temple (Middle Texas)
+manager 1915 Temple (Middle Texas)
+
+---
+
+!citation Austin American @ 1915-04-16; page 6
+
+
+#profile Kizziar
+key 20200312_002
+player 1915 Belton (Middle Texas)
+
+---
+
+!citation Muskogee Daily Phoenix @ 1915-06-26; page 9
+
+
+#profile Williamson
+key 20200312_003
+player 1915 Belton (Middle Texas)
+player 1915 Sherman (Western Association)
+
+#profile Fulwider
+key 20200312_004
+player 1915 Belton (Middle Texas)
+player 1915 Sherman (Western Association)
+
+---
+
+!citation Minneapolis Morning Tribune @ 1910-04-28; page 12
+
+
+#profile Oyler, Andy
+key 20200312_005
+player 1909 Minneapolis (American Association)
+player 1910 Minneapolis (American Association)
+
+---
+
+!citation Lincoln Star @ 1912-04-21; page 8
+
+
+#profile Oyler, Andy
+key 20200312_006
+player 1912 Kansas City (American Association)
+
+---
+
+!citation Anadarko (OK) Daily Democrat @ 1915-04-17; page 3
+
+
+#profile Erwin
+key 20200312_007
+player 1915 Brenham (Middle Texas)
+brother of Erwin, Tex
+
+---
+
+!citation Spring 2020 Baseball Research Journal
+
+
+#profile Culver, Charlie
+key 20200312_008
+death 1970-01-04 @ CA/QC/Montreal
+player 1922 Montreal (Eastern Canada)
+player <1922 Lincoln Giants
+
+---
+
+!citation Austin American @ 1915-03-20; page 7
+
+
+#profile Craig, Oral
+key 20200312_009
+player 1915 Brenham (Middle Texas)
+resides 1915 @ US/TX/Sugarland
+
+---
+
+!citation Austin American @ 1915-06-02; page 7
+
+
+#profile Gambrell, Tom
+key 20200312_010
+player 1915 Brenham (Middle Texas)
+college University of Texas
+
+
+---
+
+!citation Austin American @ 1915-03-17; page 7
+
+
+#profile Prestwood, Clyde
+key 20200312_011
+player 1915 Brenham (Middle Texas); TL
+
+#profile Sillman, Dick
+key 20200312_012
+player 1914 Lampasas (Middle Texas)
+
+---
+
+!citation Austin Daily Statesman @ 1915-05-07; page 3
+
+
+#profile Bradley
+key 20200312_013
+player 1914 Brenham (Middle Texas)
+player 1915 Temple (Middle Texas)

@@ -1,0 +1,162 @@
+!citation Charlotte Observer @ 1915-03-08; page 3
+
+
+#profile Egan, Thomas
+key 20200123_001
+player 1915 Winston-Salem (North Carolina State); H70 W170
+player 1913 Jersey City (International)
+
+#profile Foley, Roy
+key 20200123_002
+player 1915 Winston-Salem (North Carolina State); TR
+
+#profile Steinbach, Fred
+key 20200123_003
+player 1915 Winston-Salem (North Carolina State); TR
+
+---
+
+!citation Charlotte Observer @ 1915-06-11; page 9
+
+
+#profile Lockerbie, Dave
+key 20200123_004
+player 1915 Griffin (Georgia-Alabama)
+resides 1915 @ US/NC/Charlotte
+
+
+---
+
+!citation Sporting Life @ 1916-04-08; page 15
+
+
+#profile Jensen, Willie
+key 20200123_005
+player 1915 Peoria (Illinois-Indiana-Iowa)
+player 1915 Bloomington (Illinois-Indiana-Iowa)
+
+---
+
+!citation Sporting Life @ 1912-04-27; page 21
+
+
+#profile Jensen, Willie
+key 20200123_006
+player 1911 Fall River (New England)
+player 1912 New Haven (Connecticut State)
+
+---
+
+!citation Dubuque Telegraph Herald @ 1915-04-11; page 25
+
+
+#profile Farrell, Frank [Red]
+key 20200123_007
+player 1915 Davenport (Illinois-Indiana-Iowa)
+resides 1915 @ US/PA/Altoona
+note out of organized baseball in 1914
+
+---
+
+!citation Oakland Tribune @ 1915-05-30; page 42
+
+
+#profile Baldwin, Red
+key 20200123_008
+player 1915 Peoria (Illinois-Indiana-Iowa)
+
+---
+
+!citation Atlanta Constitution @ 1905-04-09; page 1
+
+
+#profile Burnam
+key 20200123_009
+player 1905 Atlanta (Southern Association); TL
+
+---
+
+!citation Atlanta Constitution @ 1905-03-16; page 10
+
+
+#profile Burnum, Fred
+key 20200123_010
+player 1905 Atlanta (Southern Association)
+player 1904 (Delta)
+player 1904 (Cotton States)
+
+---
+
+!citation Des Moines Register @ 1909-04-25; page 15
+
+
+#profile Burnum
+key 20200123_011
+player 1908 Webb City (Western Association)
+player 1909 Topeka (Western)
+
+---
+
+!citation Des Moines Register @ 1909-04-30; page 5
+
+
+#profile Burnum
+key 20200123_012
+player 1909 Topeka (Western); @P
+
+
+---
+
+!citation Des Moines Tribune @ 1909-09-02; page 6
+
+
+#profile Burnum
+key 20200123_013
+player 1909 Topeka (Western)
+player 1909 Des Moines (Western); TL
+purchased <=1909-09-02; join=Des Moines (Western); leave=Topeka (Western)
+
+
+---
+
+!citation Des Moines Register @ 1910-04-27; page 9
+
+
+#profile Burnum
+key 20200123_014
+player 1909 Topeka (Western)
+player 1910 Des Moines (Western)
+
+---
+
+!citation Topeka State Journal @ 1910-05-23; page 2
+
+
+#profile Burnum
+key 20200123_015
+player 1910 Freeport (Northern Association)
+player 1910 Des Moines (Western)
+purchased <=1910-05-23; join=Freeport (Northern Association); leave=Des Moines (Western)
+
+
+---
+
+!citation Portland Oregonian @ 1941-10-24; page 20
+
+
+#profile Gleason, William J. [Bill]
+key 20200123_016
+birth 1892-03-23 @ US/OR/Portland
+death 1941-10-22
+player <1941 Oakland (Pacific Coast)
+player 1917 Pittsburgh (National)
+
+---
+
+!citation Portland Oregonian @ 1914-08-14
+
+
+#profile Gleason, Bill
+key 20200123_017
+player 1914 Helena (Union Association)
+player 1914 Topeka (Western)

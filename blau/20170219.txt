@@ -452,7 +452,6 @@ player 1922 Paducah (Kentucky-Illinois-Tennessee); TR
 #profile Stewart, Sid
 key 20170219_063
 player 1920 Rock Island (Illinois-Indiana-Iowa); H74
-see Davis Barker notes
 
 ---
 
@@ -994,7 +993,6 @@ resides 1925 @ US/NE/Fairbury
 key 20170219_129
 player 1928 York (Nebraska State)
 brother of Bolen, Jarvis
-see 6/9/1928 Lincoln Star, p. 8
 
 ---
 
@@ -1034,8 +1032,6 @@ college Mississippi State
 key 20170219_132
 player 1929 Akron (Central)
 player 1929 Providence (Eastern)
-see 6/12/1929 Akron Beacon Journal, p. 25
-see 8/24/1928 Akron Beacon Journal, p. 30
 
 ---
 

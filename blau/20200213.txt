@@ -1,0 +1,140 @@
+!citation Olean Evening Herald @ 1915-10-02; page 6
+
+
+#profile Kountz, Toney
+key 20200213_001
+player 1915 Olean (Interstate)
+player 1915 Hornell (Interstate)
+
+---
+
+!citation Belding Banner @ 1915-09-09; page 6
+
+
+#profile Cherry
+key 20200213_002
+player 1914 Belding (Michigan State)
+player 1914 Boyne City (Michigan State)
+
+
+---
+
+!citation Buffalo Enquirer @ 1915-05-07; page 8
+
+
+#profile Mattern
+key 20200213_003
+player 1914 Montreal (International)
+player 1914 Newark (International)
+player 1915 Buffalo (International)
+
+---
+
+!citation Elmira Star-Gazette @ 1915-06-03; page 8
+
+
+#profile Rogers
+key 20200213_004
+player 1915 Elmira (New York State)
+player 1915 Wilkes-Barre (New York State)
+player 1915 Hornell (Interstate)
+
+---
+
+!citation Elmira Star-Gazette @ 1914-06-17; page 2
+
+
+#profile Cadigan, Thomas
+key 20200213_005
+player 1914 Hornell (Interstate); @P
+resides 1914 @ US/NY/Elmira
+released <=1914-06-17; leave=Hornell (Interstate)
+
+#profile Sheridan
+key 20200213_006
+player 1914 Hornell (Interstate)
+college Niagara University
+
+---
+
+!citation Elmira Star-Gazette @ 1914-06-27; page 14
+
+
+#profile Ransome
+key 20200213_007
+player 1914 Hornell (Interstate)
+player 1914 Bradford (Interstate)
+obtained <1914-06-27; join=Hornell (Interstate); leave=Hamilton (Canadian League)
+obtained <=1914-06-27; join=Bradford (Interstate); leave=Hornell (Interstate); for=Dunkel
+
+
+---
+
+!citation Buffalo Courier @ 1915-07-04; page 66
+
+
+#profile Reichart, Fred
+key 20200213_008
+player 1914 Hornell (Interstate)
+
+---
+
+!citation Elmira Star-Gazette @ 1915-01-13; page 2
+
+
+#profile Forsythe, Fred
+key 20200213_009
+player 1914 Harrisburg (Tri-State)
+resides 1914 @ US/PA/Wellsboro
+
+#profile Young, Romie
+key 20200213_010
+player 1914 York (Tri-State)
+resides 1914 @ US/PA/Oswayo
+
+---
+
+!citation Elmira Star-Gazette @ 1915-05-21; page 8
+
+
+#profile Wright, W.
+key 20200213_011
+player 1915 Warren (Interstate); @P
+
+---
+
+!citation Pittsburgh Post-Gazette @ 1915-06-04; page 11
+
+
+#profile Dillon, Steve
+key 20200213_012
+player 1915 Jamestown (Interstate)
+college University of Pittsburgh
+
+---
+
+!citation Olean Evening Herald @ 1915-05-19; page 4
+
+
+#profile Smith, John
+key 20200213_013
+player 1915 Olean (Interstate); TR
+
+---
+
+!citation Olean Evening Herald @ 1915-08-18; page 6
+
+
+#profile Beck, Charlie
+key 20200213_014
+player 1915 Olean (Interstate)
+
+
+---
+
+!citation Warren Evening Times @ 1915-06-18; page 5
+
+
+#profile Ryberg
+key 20200213_015
+player 1915 Warren (Interstate); @C

@@ -1,0 +1,75 @@
+!citation Greensboro Daily News @ 1916-08-22; page 8
+
+
+#profile Pope, Bill
+key 20200116_001
+player 1916 Greensboro (North Carolina State)
+college University of North Carolina
+
+---
+
+!citation Atlanta Constitution @ 1914-04-04; page 10
+
+#profile Amason
+key 20200116_002
+player 1914 Albany (South Atlantic)
+optioned <=1914-04-04; join=Albany (South Atlantic); leave=Atlanta (Southern Association)
+
+---
+
+!citation Nashville Tennessean @ 1919-05-25; page 43
+
+#profile Werner, Walter
+key 20200116_003
+player 1919 Nashville (Southern Association)
+player <=1919 Birmingham (Southern Association)
+
+---
+
+!citation Nashville Tennessean @ 1919-05-28; page 12
+
+#profile Werner, Walter
+key 20200116_004
+player 1919 Nashville (Southern Association); BL
+player <=1919 (South Atlantic)
+
+---
+
+!citation Montgomery Advertiser @ 1914-05-05; page 8
+
+#profile Schulz, Carl
+key 20200116_005
+player 1914 Talladega (Georgia-Alabama)
+optioned <=1914-05-05; join=Talladega (Georgia-Alabama); leave=Montgomery (Southern Association)
+
+#profile Baker, Grady
+key 20200116_006
+player 1914 Talladega (Georgia-Alabama)
+obtained <=1914-05-05; join=Talladega (Georgia-Alabama); leave=Montgomery (Southern Association)
+
+---
+
+!citation Montgomery Advertiser @ 1914-08-31; page 7
+
+#profile Baker, Grady
+key 20200116_007
+player 1914 Montgomery (Southern Association); @C
+
+---
+
+!citation Owensboro Messenger @ 1914-07-09; page 6
+
+#profile Slater
+key 20200116_008
+player 1914 Paducah (Kentucky-Illinois-Tennessee)
+player 1914 Cairo (Kentucky-Illinois-Tennessee)
+
+---
+
+!citation Arkansas Democrat @ 1916-04-26; page 10
+
+#profile Brooks, Berwick B.
+key 20200116_009
+player 1916 Augusta (South Atlantic)
+optioned <=1916-04-26; join=Augusta (South Atlantic); leave=Little Rock (Southern Association)
+

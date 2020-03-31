@@ -535,3 +535,168 @@ college Independence College @ US/KS
 resides 2001 @ US/KS/Dodge City; address=2035 2nd Street; zip=67801
 player 1941 Independence (Ban Johnson); location=US/KS/Independence
 military US; dates=1943/1945
+
+---
+
+#profile Angelo, Louis Joseph [Louie]
+key Angelo_Louis_Joseph
+birth 1924-03-26 @ US/MA/Malden
+death 2013-03-07 @ US/MA/North Reading
+
+---
+
+#profile Angove, Donald Dean
+key Angove_Donald_Dean
+birth 1927-07-24 @ US/MO/Bonne Terre
+death 2008-08-17 @ US/OK/Tulsa
+describe ; BR TR H73 W185
+sameas ssn:489-26-6028
+highschool Leadwood High School @ US/MO/Leadwood; dates=/1945; degree=graduated
+resides 2008 @ US/OK/Tulsa
+
+---
+
+#profile Annenberg, Robert Bernard
+key Annenberg_Robert_Bernard
+birth 1930-12-02 @ US/MN/St. Paul
+death 2011-05-26 @ US/AZ/Tucson
+sameas ssn:568-36-1140
+resides 2011 @ US/AZ/Tucson
+
+---
+
+#profile Anthony, Omer Lee [Lee]
+key Anthony_Omer_Lee
+birth 1918-07-26 @ US/KS/Le Roy
+death 2010-06-27 @ US/KS/Burlington
+describe ; BR TR H75 W200
+sameas ssn:512-03-7889
+highschool Le Roy High School @ US/KS/Le Roy; dates=/1936; degree=graduated
+resides @ US/KS/Le Roy; address=P. O. Box 914
+scout 1958/1962 Kansas City (American)
+scout 1963/1964 Washington (American)
+military US; dates=1942/1945
+
+---
+
+#profile Antonali, Raymond A. [Ray]
+key Antonali_Raymond_A
+birth 1923
+death 2010-01-17 @ US/CA/Alameda
+describe ; BR TR
+resides 2010 @ US/CA/Alameda
+alias Antonelli, Raymond A.; type=alternate-spelling
+military US; dates=1942/1945
+
+---
+
+#profile Appell, John Roland [Johnny]
+key Appell_John_Roland
+birth 1923-09-23 @ US/TX/Waco
+death 2011-01-09 @ US/TX/Waco
+describe ; BL TL
+highschool Waco High School @ US/TX/Waco; dates=/1941; degree=graduated
+resides 2010 @ US/TX/Waco
+military US @ World War II
+note Played semipro baseball in 1946
+
+---
+
+#profile Arceneaux, John Stephen [Steve]
+key Arceneaux_John_Stephen
+birth 1925-06-06 @ US/LA/Scott
+death 2009-05-05 @ US/HI/Hilo
+highschool Scott High School @ US/LA/SCott
+resides 2009 @ US/HI/Hilo
+
+---
+
+#profile Archer, Waite Henderson
+key Archer_Waite_Henderson
+birth 1929-02-12 @ US/IN/Clinton
+death 2009-01-21 @ US/IN/Lafayette
+describe ; @2B BL TR H69 W165
+sameas ssn:307-30-1740
+highschool Clinton High School @ US/IN/Clinton
+college Purdue University
+resides 1950 @ US/IN/Clinton; address=RR #2
+
+---
+
+#profile Archiopoli, Andrew J. [Andy]
+key Archiopoli_Andrew_J
+birth 1918-11-25 @ US/NY/Brooklyn
+death 2011-03-28
+describe ; BR TR
+resides 1940 @ US/NY/Brooklyn; address=473 Rogers Ave.
+alias Archipoli, Andrew J.; type=alternate-spelling
+military US; dates=1942/1945
+
+---
+
+#profile Arline, James Arthur
+key Arline_James_Arthur
+birth 1953-12-18 @ US/CT/Waterbury
+death 2011-04-18 @ US/VA/Norfolk
+describe ; BL TL H69 W165; ancestry=American Negro
+sameas ssn:044-46-9317
+highschool Wilby High School; dates=/1974-01; degree=graduated
+resides 1974 @ US/CT/Waterbury; address=134 Hill Street; zip=06704
+drafted 1973-06; join=Atlanta (National); round=6
+signed 1973-06-28; join=Atlanta (National); signer=Sukeforth, Clyde
+
+---
+
+#profile Armstrong, Charles E. [Charlie]
+key Armstrong_Charles_E
+birth 1934-10-04 @ US/OH/Galion
+death 2012-02-23 @ US/OH/Galion
+describe ; BR TR H68 W185
+sameas ssn:277-28-0788
+highschool Jefferson Rural High School; dates=/1952; degree=graduated
+resides 1953 @ US/OH/Crestline
+player 1952 Leesville; location=US/OH/Leesville; caliber=semipro
+
+---
+
+#profile Arnott, Ralph
+key Arnott_Ralph
+birth 1924-05-10 @ US/CA/San Francisco
+death 2012-06-05 @ US/CA/Daly City
+describe ; BR TR
+
+---
+
+#profile Arns, Melvin Joseph [Mel]
+key Arns_Melvin_Joseph
+birth 1924-06-07 @ US/IL/Quincy
+death 2014-02-15 @ US/IL/Quincy
+highschool Notre Dame High School @ US/IL/Quincy
+
+---
+
+#profile Arredondo, Luis
+key Arredondo_Luis
+birth 1934 @ MX
+death 2013-10-07
+describe ; BR TR H68 W170
+resides 1954 @ MX/Tamaulipas/Nuevo Laredo; address=Nuevo Leon #2318
+
+---
+
+#profile Arrigo, Jack Charles
+key Arrigo_Jack_Charles
+birth 1935-11-03 @ US/OH/Cleveland
+death 2011-01-27 @ US/PA/Erie
+describe ; BR TR H71 W190
+sameas ssn:269-40-2239
+resides 1956 @ US/OH/Cleveland; address=3251 West 52nd
+
+---
+
+#profile Arrigoni, Roland
+key Arrigoni_Roland
+birth 1934-04-29 @ US/IL/Chicago
+death 2011-01-01 @ US/NC/Vass
+describe ; BR TR
+

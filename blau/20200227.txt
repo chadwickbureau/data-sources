@@ -1,0 +1,128 @@
+!citation St. Joseph News-Press @ 1924-09-12; page 22
+!contributor Cliff Blau <cliff@cliffblau.com>
+
+
+#profile Lewan, Stanley
+key 20200227_001
+player 1922 Winston-Salem (Piedmont)
+player 1922 St. Joseph (Western)
+
+---
+
+!citation Aberdeen Daily News @ 1921-04-24
+!contributor Terry Bohn <bohn_terry@yahoo.com>
+
+
+#profile McGrath, Matt
+key 20200227_002
+player 1921 Mitchell (Dakota)
+manager 1920 Wessington Springs (South Dakota)
+
+---
+
+!citation Bismarck Tribune @ 1921-09-14; page 6
+!contributor Cliff Blau <cliff@cliffblau.com>
+
+
+#profile Birkenstock, Roy
+key 20200227_003
+player 1921 Redfield (Dakota)
+player 1921 Minneapolis (American Association)
+purchased <=1921-09-14; join=Minneapolis (American Association); leave=Redfield (Dakota)
+
+---
+
+!citation Minneapolis Star @ 1922-05-02; page 11
+!contributor Cliff Blau <cliff@cliffblau.com>
+
+
+#profile Birkenstock, Roy
+key 20200227_004
+player 1922 Jamestown (Dakota)
+player 1921 Minneapolis (American Association)
+purchased <=1922-05-02; join=Jamestown (Dakota); leave=Minneapolis (American Association)
+
+---
+
+!citation Des Moines Register @ 1923-05-01; page 10
+!contributor Cliff Blau <cliff@cliffblau.com>
+
+
+#profile Birkenstock, Roy
+key 20200227_005
+player 1923 St. Joseph (Western)
+
+---
+
+!citation Des Moines Register @ 1923-08-03; page 11
+!contributor Cliff Blau <cliff@cliffblau.com>
+
+
+#profile Birkenstock, Roy
+key 20200227_006
+player 1923 St. Joseph (Western)
+player 1923 Moline (Illinois-Indiana-Iowa)
+
+---
+
+!citation Des Moines Register @ 1924-04-18; page 8
+!contributor Cliff Blau <cliff@cliffblau.com>
+
+
+#profile Birkenstock, Roy
+key 20200227_007
+player 1924 St. Joseph (Western); @P
+
+---
+
+!citation Monongahela Daily Republican @ 1924-07-21; page 3
+!contributor Cliff Blau <cliff@cliffblau.com>
+
+
+#profile Birkenstock, Roy
+key 20200227_008
+player 1924 St. Joseph (Western)
+player 1924 Peoria (Illinois-Indiana-Iowa); TR
+
+---
+
+!citation Moline Dispatch @ 1928-05-05; page 21
+!contributor Cliff Blau <cliff@cliffblau.com>
+
+
+#profile Birkenstock, Roy
+key 20200227_009
+player 1928 Burlington (Mississippi Valley)
+
+---
+
+!citation New Orleans Times-Democrat @ 1913-04-04; page 7
+!contributor Cliff Blau <cliff@cliffblau.com>
+
+
+#profile Stevenson
+key 20200227_010
+player 1913 New Orleans (Southern Association)
+obtained ; join=New Orleans (Southern Association); leave=Philadelphia (American)
+
+---
+
+!citation Sioux Falls Argus-Leader @ 1914-07-17; page 10
+!contributor Cliff Blau <cliff@cliffblau.com>
+
+
+#profile Stevenson, Robert
+key 20200227_011
+player 1913 New Orleans (Southern Association); @OF
+resides 1914 @ US/MN/Albert Lea
+
+---
+
+!citation New Orleans Times-Democrat @ 1913-08-10; page 12
+!contributor Cliff Blau <cliff@cliffblau.com>
+
+
+#profile Stevenson, Lester
+key 20200227_012
+player 1913 New Orleans (Southern Association); @P
+player 1913 Toledo (American Association)

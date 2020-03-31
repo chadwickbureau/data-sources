@@ -269,7 +269,6 @@ player 1913 Holyoke (Eastern Association)
 player 1913 Worcester (New England)
 player 1913 Hartford (Eastern Association)
 umpire 1922 Eastern League
-see Davis Barker notes
 
 ---
 

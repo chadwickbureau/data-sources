@@ -1,0 +1,140 @@
+!citation Valley City (ND) Weekly Times-Record @ 1922-06-29; page 4
+
+
+#profile Brinzda, F. M.
+key 20200305_001
+player 1922 (Western International)
+player 1922 Valley City (Dakota); TR
+
+---
+
+!citation Salem (OR) Stateman Journal @ 1923-07-21; page 2
+
+
+#profile Brinzda, Frank
+key 20200305_002
+player 1923 Aberden (South Dakota)
+player 1923 Minneapolis (American Association)
+
+---
+
+!citation Austin American @ 1915-05-02; page 24
+
+#profile Hutto, Burnice
+key 20200305_003
+player 1915 (Middle Texas)
+
+---
+
+!citation Austin American @ 1915-02-28; page 6
+
+
+#profile Reinecke
+key 20200305_004
+player 1913 Gadsden (Georgia-Alabama)
+player 1915 Austin (Middle Texas)
+
+---
+
+!citation Bryan (TX) Weekly Eagle @ 1915-05-27; page 5
+
+#profile Spell, Joe
+key 20200305_005
+player 1915 Taylor (Middle Texas)
+
+---
+
+!citation San Antonio Light @ 1925-04-15
+
+#profile Brovold, George
+key 20200305_006
+player 1925 San Antonio (Texas); BR TR
+
+#profile Washburn, Royce
+key 20200305_007
+player 1925 San Antonio (Texas); BR TR
+
+#profile Nason, Lyman
+key 20200305_008
+player 1925 San Antonio (Texas); BR TR
+
+#profile Allen, Roy
+key 20200305_009
+player 1925 San Antonio (Texas); BR TR
+
+#profile Jennings, Kelsey
+key 20200305_010
+player 1925 San Antonio (Texas); BR TR
+
+#profile Porter, Josh
+key 20200305_011
+player 1924 Tyler (East Texas); BR TR
+
+#profile Collins, Mike
+key 20200305_012
+player 1925 San Antonio (Texas); BR TR
+
+#profile Winters, Clarence
+key 20200305_013
+player 1925 San Antonio (Texas); BR TR
+
+#profile Reider, John
+key 20200305_014
+player 1925 Waco (Texas); BL TL
+
+#profile Bondurant, Bill
+key 20200305_015
+player 1925 Waco (Texas); BR TR
+
+#profile Morrow, Bob
+key 20200305_016
+player 1925 Waco (Texas); BR TR
+
+#profile Mueller, Art
+key 20200305_017
+player 1925 Waco (Texas); BR TR
+
+#profile Vick, Jess
+key 20200305_018
+player 1925 Waco (Texas); BR TR
+
+#profile Darrough, Rabbit
+key 20200305_019
+player 1925 Waco (Texas); BR TR
+
+#profile Glasler, Burke
+key 20200305_020
+player 1925 Waco (Texas); BR TR
+
+#profile Crumpler, Roy
+key 20200305_021
+player 1925 Waco (Texas); BL TL
+
+#profile Lyle, Dewey
+key 20200305_022
+player 1925 Waco (Texas); BL TL
+
+---
+
+!citation Wichita Beacon @ 1915-01-16; page 7
+
+#profile Smith, Bob
+key 20200305_023
+player 1914 Georgetown (Middle Texas)
+
+---
+
+!citation Corsicana Daily Sun @ 1915-05-27; page 8
+
+#profile Enloe
+key 20200305_024
+player 1915 Taylor (Middle Texas)
+player 1915 Corsicana (Central Texas)
+
+---
+
+!citation Waco Morning News @ 1915-03-01; page 2
+
+#profile Angel, Frank
+key 20200305_025
+player 1915 Temple (Middle Texas)

@@ -1,0 +1,103 @@
+!citation Atlanta Constitution @ 1915-07-15; page 8
+
+
+#profile Gentle
+key 20200109_001
+player 1915 Anniston (Georgia-Alabama)
+note umpire used as pinch-hitter in last inning of last game of season
+
+---
+
+!citation Boston Globe @ 1913-09-20; page 6
+
+
+#profile Parker, Clarence P.
+key 20200109_002
+player 1913 Calais-St. Stephen (New Brunswick-Maine)
+highschool Somerville High School
+signed ; join=Chicago (American)
+
+---
+
+!citation Cedar Rapids Gazette @ 1917-03-14; page 8
+
+
+#profile Parker, Clarence
+key 20200109_003
+player 1917 Dubuque (Central Association)
+college University of Dubuque
+
+---
+
+!citation Tampa Times @ 1914-07-25; page 15
+
+
+#profile Leon, Nilo
+key 20200109_004
+player 1914 Valdosta (Georgia State)
+player 1914 Brunswick (Georgia State)
+
+---
+
+!citation Knoxville News-Sentinel @ 1929-04-14; page 15
+
+
+#profile Hawkins, Jack
+key 20200109_005
+player 1929 Spartanburg (South Atlantic); TR
+
+#profile Scott, George
+key 20200109_006
+player 1929 Spartanburg (South Atlantic); TR
+
+#profile Morris
+key 20200109_007
+player 1929 Spartanburg (South Atlantic); TR
+
+---
+
+!citation Montgomery Advertiser @ 1916-05-28; page 9
+
+
+#profile Combs
+key 20200109_008
+player 1916 Griffin (Georgia-Alabama); @P
+
+---
+
+!citation Atlanta Constitution @ 1915-03-19; page 9
+
+
+#profile Panella, Sap
+key 20200109_009
+player 1915 Griffin (Georgia-Alabama); TR
+player 1914 (Piedmont)
+
+#profile Guthrie, Arthur
+key 20200109_010
+player 1915 Griffin (Georgia-Alabama); TR
+player 1914 (Piedmont)
+
+
+---
+
+!citation Charlotte News @ 1916-02-04; page 10
+
+
+#profile Panella, Joe A. [Sap]
+key 20200109_011
+player 1915 Griffin (Georgia-Alabama)
+resides 1916 @ US/NC/Hickory
+college Davidson College
+manager 1916 Lenoir College; caliber=college
+
+---
+
+!citation Gastonia Gazette @ 1916-07-28; page 1
+
+
+#profile Pope, Bill
+key 20200109_012
+player 1916 Griffin (Georgia-Alabama)
+player <=1916 Gastonia
+
