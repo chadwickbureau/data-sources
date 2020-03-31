@@ -1,74 +1,77 @@
+!citation SABR Biographical Committee Newsletter @ 1991-10
+
 #profile Baker, Charles
-key 199110_Baker
-describe ; H69 W181; mlbfirst=1901
+key 199110_001
+describe ; H69 W181; mlbplayed=1901/
 
 #profile Baldwin, Orson F.
-key 199110_Baldwin
-describe ; mlbfirst=1908
+key 199110_002
+describe ; mlbplayed=1908/
 birth 1881-11-03 @ US/MI/Carson City
 
+
 #profile Barrett, Martin F.
-key 199110_Barrett
-describe ; mlbfirst=1884
+key 199110_003
+describe ; mlbplayed=1884/
 birth @ US/NY/Port Henry
 
 #profile Bevens, Floyd Clifford
-key 199110_Bevens
-describe ; mlbfirst=1944
+key 199110_004
+describe ; mlbplayed=1944/
 death 1991-10-26 @ US/OR/Salem
 
 #profile Buckley, Richard D.
-key 199110_Buckley
-describe ; W195; mlbfirst=1888
+key 199110_005
+describe ; W195; mlbplayed=1888/
 
 #profile Butler, Frank Edward
-key 199110_Butler
-describe ; mlbfirst=1884
+key 199110_006
+describe ; mlbplayed=1884/
 birth 1861-05
 
 #profile Cameron, John S.
-key 199110_Cameron
-describe ; mlbfirst=1906
+key 199110_007
+describe ; mlbplayed=1906/
 birth 1884-09 @ CA/NS
 
 #profile Carter, Arnold Lee
-key 199110_Carter
-describe ; mlbfirst=1944
+key 199110_008
+describe ; mlbplayed=1944/
 death 1989-04-12 @ US/KY/Louisville
 
 #profile Christopher, Lloyd Eugene
-key 199110_Christopher
-describe ; mlbfirst=1945
+key 199110_009
+describe ; mlbplayed=1945/
 death 1991-09-05 @ US/CA/Richmond
 
 #profile Clack, Robert S.
-key 199110_Clack
-describe ; mlbfirst=1874
+key 199110_010
+describe ; mlbplayed=1874/
 birth 1850-06 @ GB
 
 #profile Connor, John
-key 199110_Connor
-describe ; mlbfirst=1884
+key 199110_011
+describe ; mlbplayed=1884/
 birth 1854-08
 
 #profile Cooley, Duff Gordan
-key 199110_Cooley
-describe ; H71 W158; mlbfirst=1893
+key 199110_012
+describe ; H71 W158; mlbplayed=1893/
 
 #profile Coombs, Raymond Franklin
-key 199110_Coombs
-describe ; mlbfirst=1933
+key 199110_013
+describe ; mlbplayed=1933/
 death 1991-10-21 @ US/ME/Ogunquit
 
 #profile Donnelly, Franklin Marion
-key 199110_Donnelly
-describe ; H66; mlbfirst=1893
+key 199110_014
+describe ; H66; mlbplayed=1893/
 
 #profile Dugdale, Daniel Edward
-key 199110_Dugdale
-describe ; H68 W180; mlbfirst=1886
+key 199110_015
+describe ; H68 W180; mlbplayed=1886/
 
 #profile Durocher, Leo Ernest
-key 199110_Durocher
-describe ; mlbfirst=1925
+key 199110_016
+describe ; mlbplayed=1925/
 death 1991-10-07 @ US/CA/Palm Springs

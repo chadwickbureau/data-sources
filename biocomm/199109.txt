@@ -1,103 +1,107 @@
+!citation SABR Biographical Committee Newsletter @ 1991-09
+
 #profile Strelecki, Edward Harold
-key 199109_Strelecki
-describe ; mlbfirst=1928
+key 199109_001
+describe ; mlbplayed=1928/
 birth 1905-04-10
 
 #profile Adams, George
-key 199109_Adams
-describe ; W185; mlbfirst=1879
+key 199109_002
+describe ; W185; mlbplayed=1879/
 
 #profile Allen, Cyrus Alban
-key 199109_Allen
-describe ; W160; mlbfirst=1879
+key 199109_003
+describe ; W160; mlbplayed=1879/
 
 #profile Bigler, Ivan Edward
-key 199109_Bigler
-describe ; mlbfirst=1917-05-06
+key 199109_004
+describe ; mlbplayed=1917-05-06/
 birth 1892-12-13 @ US/OH/Bradford
 death 1975-04-01 @ US/MI/Coldwater
 
 #profile Burgess, Forrest Harrill
-key 199109_Burgess
-describe ; mlbfirst=1949
+key 199109_005
+describe ; mlbplayed=1949/
 death 1991-09-15 @ US/NC/Asheville
 
 #profile Carter, Arnold Lee
-key 199109_Carter
-describe ; mlbfirst=1944
+key 199109_006
+describe ; mlbplayed=1944/
 death 1898-04
 
 #profile Doscher, John Henry, Jr.
-key 199109_Doscher
-describe ; W205; mlbfirst=1903
+key 199109_007
+describe ; W205; mlbplayed=1903/
 
 #profile Duke, Martin F.
-key 199109_Duke
-describe ; mlbfirst=1891
+key 199109_008
+describe ; mlbplayed=1891/
 birth 1867 @ US/OH/Zanesville
 
 #profile Graham, Bernard W.
-key 199109_Graham
-describe ; mlbfirst=1884
+key 199109_009
+describe ; mlbplayed=1884/
 
 #profile Koshorek, Clement John
-key 199109_Koshorek
-describe ; mlbfirst=1952
+key 199109_010
+describe ; mlbplayed=1952/
 birth 1925-06-20
 death 1991-09-08 @ US/MI/Royal Oak
 
 #profile Liese, Frederick Richard
-key 199109_Liese
-describe ; BL H68 W150; mlbfirst=1910
+key 199109_011
+describe ; BL H68 W150; mlbplayed=1910/
 
 #profile Mack, Cornelius Alexander
-key 199109_Mack
+key 199109_012
+describe ; mlbplayed=1886/
 death @ US/PA/Philadelphia
 
 #profile Martinez (y Diaz), Gabriel Antonio
-key 199109_Martinez
+key 199109_013
+describe ; mlbplayed=1963/
 death 1991-08-24 @ US/FL/Miami
 
 #profile Mason, Charles E.
-key 199109_Mason
-describe ; W175; mlbfirst=1875
+key 199109_014
+describe ; W175; mlbplayed=1875/
 
 #profile Newman, Charles
-key 199109_Newman
-describe ; mlbfirst=1892-09-11
+key 199109_015
+describe ; mlbplayed=1892-09-11/
 
 #profile Neill, Thomas White
-key 199109_Neill
-describe ; mlbfirst=1946
+key 199109_016
+describe ; mlbplayed=1946/
 death 1980-09-22 @ US/TX/Houston
 
 #profile O'Leary, Daniel
-key 199109_OLeary
-describe ; H70 W165; mlbfirst=1879
+key 199109_017
+describe ; H70 W165; mlbplayed=1879/
 
 #profile Peek, Stephen George
-key 199109_Peek
-describe ; mlbfirst=1941
+key 199109_018
+describe ; mlbplayed=1941/
 death 1991-09-21 @ US/NY/Syracuse
 
 #profile Powell, Martin J.
-key 199109_Powell
-describe ; H72 W170; mlbfirst=1881
+key 199109_019
+describe ; H72 W170; mlbplayed=1881/
 
 #profile Smith
-key 199109_Smith
-describe ; mlbfirst=1884-06-05
+key 199109_020
+describe ; mlbplayed=1884-06-05/
 
 #profile Snyder, Charles
-key 199109_Snyder
-describe ; BR; mlbfirst=1890
+key 199109_021
+describe ; BR; mlbplayed=1890/
 
 #profile Wheeler, Edward Raymond
-key 199109_Wheeler
-describe ; mlbfirst=1945
+key 199109_022
+describe ; mlbplayed=1945/
 birth 1915-05-24
 
 #profile Winchell, Frederick Russell
-key 199109_Winchell
-describe ; TR; mlbfirst=1909
+key 199109_023
+describe ; TR; mlbplayed=1909/
 
