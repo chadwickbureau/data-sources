@@ -676,3 +676,199 @@ death 2018-07-07 @ US/PA/Pottstown
 highschool Roxborough HS @ US/PA/Philadelphia
 military US Marines
 burial Mount Zion Cemetery @ US/PA/Pottstown
+
+---
+
+!citation Duker & Haugh Funeral Home @ 2020-03-28
+!url https://www.dukerandhaugh.com/services/march-2020/howard-leroy-mcpike
+!file McPike_LeRoy.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-03-28
+
+#202004_054 McPike, Howard LeRoy [LeRoy]
+birth 1954-08-12 @ US/MO/Bowling Green
+death 2020-03-23 @ US/IL/Quincy
+highschool Bowling Green HS @ US/MO/Bowling Green
+burial Greenmount Cemetery @ US/IL/Quincy
+
+---
+
+!citation Semian Funeral Home @ 2020-03-28
+!url https://www.semiancares.com/obituary/Joseph-Rachko
+!file Rachko_Joe.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-03-28
+
+#202004_055 Rachko, Joseph [Joe]
+birth 1929-07-26 @ US/PA/Taylor
+death 2020-03-27 @ US/PA/Scranton
+highschool Taylor HS @ US/PA/Taylor
+military US Air Force
+burial St. George's Cemetery @ US/PA/Taylor
+
+---
+
+!citation Island Packet @ 2020-03-29
+!url https://www.legacy.com/obituaries/islandpacket/obituary.aspx?n=walter-lyndner-bachman&pid=195828068
+!file Bachman_Walter.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-03-31
+
+#202004_056 Bachman, Walter Lindner
+birth 1920-01-31 @ US/NY/Brooklyn
+death 2020-03-18 @ US/SC/Hilton Head
+military US Army @ World War II
+
+---
+
+!citation Schepner-McDermott Funeral Home @ 2020-03-31
+!url https://www.schepnermcdermott.com/obituary/Philip-Bickel
+!file Bickel_Phil.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-03-31
+
+#202004_057 Bickel, Philip C. [Phil]
+birth 1932
+death 2020-03-27
+military US Army @ Korean War
+burial National Cemetery of the Alleghenies @ US/PA/Cecil
+
+---
+
+!citation Bella Vista Funeral Home @ 2020-03-31
+!url http://www.funeralmation.com/obituary/charles-kovach-junior
+!file Kovach_Chuck.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-03-31
+
+#202004_058 Kovach, Charles, Jr. [Chuck]
+birth 1940-07-03 @ US/PA/Pittsburgh
+death 2020-03-26
+highschool West View HS @ US/PA/West View
+college University of Mount Union
+
+---
+
+!citation Times Herald-Record @ 2020-03-31
+!url https://www.legacy.com/obituaries/recordonline/obituary.aspx?n=frank-antonelli-coochie&pid=195833525
+!file Antonelli_Frank.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-03-31
+
+#202004_059 Antonelli, Frank Phillip, Sr. "Coochie"
+birth 1928-09-02 @ US/NY/Brooklyn
+death 2020-03-26
+military US Army @ Korean War
+
+---
+
+!citation Moore Funeral Home @ 2020-03-31
+!url https://www.moorefhs.com/obituaries/Doc-Hixson/#!/Obituary
+!file Hixson_Doc.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-03-31
+
+#202004_060 Hixson, Vernard Earl "Doc"
+birth 1926-07-24
+death 2020-03-21
+military US Navy @ World War II
+military US Navy @ Korean War
+burial Chattanooga National Cemetery @ US/TN/Chattanooga
+
+---
+
+!citation El Mundo @ 2020-03-31
+!url https://www.diarioelmundo.com.mx/index.php/2020/03/30/fallece-cecilio-robles-beisbolista-de-cuitlahuac/
+!file Robles_Cecilio.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-03-31
+
+#202004_061 Robles, Cecilio
+death 2020-03-27
+
+---
+
+!citation dcubanos.com @ 2020-03-30
+!url https://www.dcubanos.com/cubanosenmexico/fallece-en-mexico-mario-salazar-chiquitico-pelotero-originario-de-cuba/
+!file Salazar_Mario.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-03-31
+
+#202004_062 Salazar (Rodríguez), Mario "Chiquitico"
+birth 1937-09-08 @ CU
+death 2020-03-29 @ MX
+
+---
+
+!citation Today's News Herald @ 2020-04-01
+!url https://www.legacy.com/obituaries/havasunews/obituary.aspx?n=robert-dean-lee&pid=195850882&fhid=40446
+!file Lee_Bob_2.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-01
+
+#202004_063 Lee, Robert Dean
+birth 1937-11-26 @ US/IA/Ottumwa
+death 2020-03-25 @ US/AZ/Lake Havasu City
+military US Marines
+
+---
+
+!citation El Paso Times @ 2020-04-01
+!url https://www.legacy.com/obituaries/elpasotimes/obituary.aspx?n=ernesto-porras&pid=195847814&fhid=7167
+!file Porras_Ernesto.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-01
+
+#202004_064 Porras, Ernesto
+birth 1930-05-15 @ US/TX/El Paso
+death 2020-03-29
+highschool Bowie HS @ US/TX/El Paso
+military US Army @ Korean War
+
+---
+
+!citation Newsday @ 2020-04-01
+!url https://www.legacy.com/obituaries/newsday/obituary.aspx?n=daniel-mccarthy&pid=195849280
+!file McCarthy_Dan.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-01
+
+#202004_065 McCarthy, Daniel J. [Dan]
+death 2020-03-21
+highschool Bishop Loughlin Memorial HS @ US/NY/Brooklyn
+college St. Francis College @ US/NY/Brooklyn
+military US Marines
+burial St. John's Cemetery @ US/NY/Queens
+
+---
+
+!citation Doyle Funeral Home @ 2020-03-31
+!url https://www.doylefh.com/obituaries/Peter-Paul-Dalton-Sr?obId=3144359#/obituaryInfo
+!file Dalton_Peter.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-03-31
+
+#202004_066 Dalton, Peter Paul, Sr. 
+birth 1933-01-24 @ US/NJ/Morristown
+death 2018-07-05 @ US/NJ/Morristown
+highschool Morristown HS @ US/NJ/Morristown
+college Fairleigh Dickinson University
+military US Navy @ Korean War
+burial Holy Rood Cemetery @ US/NJ/Morristown
+
+---
+
+!citation Vista Funeral Home @ 2020-03-31
+!url https://www.vistafunerals.com/obituary/joseph-sheaks
+!file Sheaks_Joe.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-03-31
+
+#202004_067 Sheaks, Joseph Lee [Joe]
+birth 1937-01-02
+death 2018-07-03 @ US/FL/Miami
+highschool North Miami HS @ US/FL/North Miami
+
+---
+
+!citation Glick Family Funeral Home @ 2020-03-31
+!url https://www.glickfamilyfuneralhome.com/notices/Earl-Moreland
+!file Moreland_Earl.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-03-31
+
+#202004_068 Moreland, Earl W.
+birth 1928-06-07
+death 2018-06-28
+burial Boca Raton Municipal Cemetery and Mausoleum @ US/FL/Boca Raton
+
+
+
+
+
+
