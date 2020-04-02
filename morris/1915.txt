@@ -1,0 +1,468 @@
+!citation Akron Beacon-Journal @ 1915-05-29; page 9
+
+#1915_001 Baird, "Red"
+player 1915 Akron (Buckeye); @P
+player 1915 Newark (Buckeye); @p
+player 1915 Akron; @P; location=US/OH/Akron; caliber=semipro
+
+#1915_002 Miller
+player 1915 Newark (Buckeye); @CF
+resides 1915-05-29 @ US/PA/Kane
+
+#1915_003 Myers
+player 1915 Newark (Buckeye)
+player 1915 Akron (Buckeye)
+
+#1915_004 Price
+player 1915 Newark (Buckeye); @SS
+player 1915 Youngstown Steelmen
+resides 1915-05-29 @ US/OH/Youngstown
+
+---
+
+!citation Akron Beacon-Journal @ 1915-05-24; page 11
+
+#1915_005 McKee, Paul
+player 1914 Crestline (Trolley); @P; caliber=semipro
+player 1915 Akron (Buckeye); @P TL
+
+---
+
+!citation Akron Beacon-Journal @ 1915-05-20; page 13
+
+#1915_006 Barnhardt
+player 1915 Canton (Buckeye); TL
+
+---
+
+!citation Akron Beacon-Journal @ 1915-05-15; page 11
+
+#1915_007 Costello
+player 1914 Traverse City (Michigan State)
+player 1915 Findlay (Buckeye)
+
+#1915_008 Maguire
+player 1915 Toledo; location=US/OH/Toledo; caliber=semipro
+player 1915 Findlay (Buckeye)
+resides 1915-05-15 @ US/OH/Toledo
+
+---
+
+!citation Akron Evening Times @ 1915-05-28; page 16
+
+#1915_009 Fickel
+player 1915 Akron (Buckeye); @1B
+resides 1915-05-28 @ US/OH/St. Marys
+
+#1915_010 Plummer
+player <=1915 (Ohio State League)
+player 1915 Akron (Buckeye); @RF
+
+---
+
+!citation Akron Evening Times @ 1915-05-12; page 11
+
+#1915_011 Holler
+player 1915 Akron (Buckeye)
+resides 1915-05-12 @ US/PA/Pittsburgh
+
+#1915_012 Clark, Dug
+player 1914 (Interstate League)
+player 1915 Akron (Buckeye)
+resides 1915-05-12 @ US/PA/Philadelphia
+
+#1915_013 Byatt, Bernie
+player <=1915 Akron (Interstate)
+player <=1915 Columbus (Interstate)
+player 1915 Akron (Buckeye)
+
+#1915_014 Linne, George
+player 1914 (Ohio State League)
+player 1915 Akron (Buckeye); @P
+
+#1915_015 Hawk, Elmer
+player 1915 Akron (Buckeye); @P TL
+resides 1915-05-12 @ US/OH/Cuyahoga Falls
+
+#1915_016 Glennon
+player 1914 Arlington A. C.; caliber=semipro
+player 1915 Akron (Buckeye)
+resides 1915-05-12 @ US/OH/Akron
+
+#1915_017 Fields, Gabby
+player 1914 Marotta; caliber=semipro
+player 1915 Akron (Buckeye)
+resides 1915-05-12 @ US/OH/Cleveland
+
+#1915_018 Talbott, Dick
+player 1914 (Illinois-Indiana-Iowa League)
+player 1915 Akron (Buckeye); @C
+resides 1915-05-12 @ US/IL/Streator
+
+#1915_019 Hook
+player 1914 (Ohio State League)
+player 1915 Akron (Buckeye); @P
+
+---
+
+!citation Baltimore Sun @ 1915-03-08; page 1
+
+#1915_020 Yount, Herbert
+player 1913 New Bedford (New England); @P
+player 1914 Baltimore (Federal); @P
+
+---
+
+!citation Canton Daily News @ 1915-05-30; page 8
+
+#1915_021 Bellinski, Henry
+player <=1915 (Central League); @C
+player <=1915 (Texas League); @C
+player 1915 Canton (Buckeye); @C
+resides 1915-05-30 @ US/OH/Canton
+
+#1915_022 Long, Frank
+player 1915 Newark (Buckeye); @OF
+
+#1915_023 Humphreys, Harley
+player 1915 Newark (Buckeye); @2B
+
+#1915_024 Pierce, Bunny
+player 1915 Newark (Buckeye); @C
+
+#1915_025 Malloy
+player 1915 Newark (Buckeye); @1B
+resides 1915-05-30 @ US/OH/New Straitsville
+
+#1915_026 Lamb
+player 1915 Newark (Buckeye); @1B
+resides 1915-05-30 @ US/OH
+
+
+---
+
+!citation Canton Evening Repository @ 1915-05-03; page 6
+
+#1915_027 Prout, William
+manager 1915 Canton (Buckeye)
+resides 1915-05-03 @ US/KY/Newport
+
+#1915_028 Miller, Mully
+player 1915 Canton (Buckeye); @C
+resides 1915-05-03 @ US/OH/Massillon
+
+---
+
+!citation Canton Evening Repository @ 1915-05-04; page 6
+
+#1915_029 Prout, Billy
+player 1906 Mobile (Southern Association)
+player 1907 Decatur (Illinois-Indiana-Iowa)
+player 1908 Decatur (Illinois-Indiana-Iowa)
+manager 1915 Canton (Buckeye); age=33
+resides 1915-05-04 @ US/KY/Newport
+
+---
+
+!citation Canton Evening Repository @ 1915-05-06; page 6
+
+#1915_030 Barnhart
+player 1912 Zanesville (Central); @P
+player 1915 Canton (Buckeye); @P
+
+#1915_031 Armstrong, Howard
+player 1915 Canton (Buckeye); @P
+
+#1915_032 McLaughlin, Earl
+player 1915 Canton (Buckeye); @P
+resides 1915-05-06 @ US/OH/Massillon
+
+#1915_033 Kull, L. C.
+player 1914 Paterson (Atlantic)
+player 1915 Canton (Buckeye); @P
+
+#1915_034 Walters, Harry
+player 1915 Canton (Buckeye); @IF
+resides 1915-05-06 @ US/OH/Cleveland
+
+---
+
+!citation Canton Evening Repository @ 1915-05-07; page 15
+
+#1915_035 Belinski, Heinie
+player 1915 Canton (Buckeye); @C
+
+#1915_036 Ramey, Lloyd
+player 1912 Canton (Central); @P
+player 1915 Canton (Buckeye); @P
+
+#1915_037 Carle
+player 1915 Canton (Buckeye); @1B
+resides 1915-05-07 @ US/OH/Uniontown
+
+---
+
+!citation Canton Evening Repository @ 1915-05-09; page 16
+
+#1915_038 Belinski, Heinie
+player 1915 Canton (Buckeye); @C
+resides 1915-05-09 @ US/OH/Canton
+
+#1915_039 Barnhart
+player 1915 Canton (Buckeye): @P
+resides 1915-05-09 @ US/OH
+
+#1915_040 Kirby
+player 1915 Canton (Buckeye); @C
+resides 1915-05-09 @ US/OH/Cincinnati
+
+#1915_041 Lush, Ernie
+player 1915 Canton (Buckeye); @1B
+resides 1915-05-09 @ US/OH/Cleveland
+
+#1915_042 Nesser, Frank
+player 1915 Akron (Buckeye); @1B
+note Professional football star with Akron Indians and Columbus Panhandles
+
+---
+
+!citation Canton Evening Repository @ 1915-05-10; page 6
+
+#1915_043 McGee
+player 1915 Akron (Buckeye); @P TL
+
+#1915_044 Hawk
+player 1915 Akron (Buckeye); @P TL
+
+#1915_045 Barnhart
+player <=1915 Zanesville; @P
+player 1915 Canton (Buckeye); @P
+
+#1915_046 Day, Oscar
+player 1915 Canton (Buckeye); @1B
+resides 1915-05-10 @ US/OH/Yellow Springs
+
+---
+
+!citation Canton Evening Repository @ 1915-05-11; page 6
+
+#1915_047 Johnson, Vic
+player 1914 Bartletts (Canton City); @3B; caliber=semipro
+player 1915 Portsmouth (Ohio State); @3B
+player 1915 Canton (Buckeye); @3B
+resides 1915-05-10 @ US/OH/Canton
+
+---
+
+!citation Canton Evening Repository @ 1915-05-12; page 6
+
+#1915_048 Lawson, Al
+executive 1915 Akron (Buckeye); title=Owner
+executive 1915 Buckeye League; title=President
+
+---
+
+!citation Canton Evening Repository @ 1915-05-20; page 12
+
+#1915_049 Myers
+player 1915 Akron (Buckeye); @3B
+resides 1915-05-20 @ US/NY/Buffalo
+
+#1915_050 Allison
+player 1915 Canton (Buckeye); @OF
+player <=1915 Salineville; caliber=semipro
+
+---
+
+!citation Canton Evening Repository @ 1915-05-20; page 12
+
+#1915_051 Pastorius, Harve
+player 1896 Tacoma
+player 1899 Wheeling (Central)
+player 1899 Dayton (Central)
+umpire 1915 Buckeye League
+
+---
+
+!citation Canton Evening Repository @ 1915-05-22; page 3
+
+#1915_052 Linne
+player 1915 Akron (Buckeye); @P
+resides 1915-05-22 @ US/OH/Cincinnati
+
+---
+
+!citation Canton Evening Repository @ 1915-05-22; page 3
+
+#1915_053 Samuels
+player 1915 Canton (Buckeye); @P TL
+resides 1915-05-23 @ US/OH/Cleveland
+
+#1915_054 Schisler, Pete
+player 1915 Bakos [caliber=semipro]
+player 1915 Portsmouth (Ohio State); @SS
+
+---
+
+!citation Canton Evening Repository @ 1915-05-24; page 6
+
+#1915_055 Thoma
+player 1915 Marion (Buckeye); BR
+note Described as veteran minor league player
+
+#1915_056 Bonnin
+player 1915 Marion (Buckeye); BL
+note Described as veteran minor league player
+
+#1915_057 Neer
+player 1915 Marion (Buckeye); BL
+note Described as veteran minor league player
+
+#1915_058 Price
+player 1915 Marion (Buckeye); BL
+note Described as veteran minor league player
+
+#1915_059 Leak, Al
+player 1915 Marion (Buckeye); @P
+note Spitballer
+
+---
+
+!citation Canton Evening Repository @ 1915-05-25; page 15
+
+#1915_060 Murray, Sandy
+manager 1915 Lima (Buckeye)
+
+#1915_061 Malloy, Dick
+player <=1915 Ohio Northern University; caliber=college
+player 1914 Milwaukee (American Association)
+player 1915 Lima (Buckeye)
+
+#1915_062 Schweitzer, Al
+player <=1915 St. Louis (American)
+player 1915 Lima (Buckeye); @OF
+
+---
+
+!citation Canton Evening Repository @ 1915-05-25; page 14
+
+#1915_063 Wilhelm, Fred "Pug; Lefty"
+player 1915 Knight Tires (Canton Shop); @P; caliber=semipro
+player 1915 Canton (Buckeye); @P
+
+---
+
+!citation Canton Evening Repository @ 1915-05-26; page 6
+
+#1915_064 Bonnin, Luther
+player 1915 Marion (Buckeye)
+
+---
+
+!citation Canton Evening Repository @ 1915-05-27; page 6
+
+#1915_065 Wetzel, Buzz
+manager 1915 Marion (Buckeye)
+
+#1915_066 Cattcutt, Ed
+player 1915 Canton (Buckeye); @P
+
+---
+
+!citation Canton Evening Repository @ 1915-05-29; page 3
+
+#1915_067 Spahr, Harry
+player 1914 (Northern League); @P
+player 1915 Canton (Buckeye); @P
+resides 1915-05-29 @ US/OH/New Philadelphia
+
+---
+
+!citation Canton Evening Repository @ 1915-05-31; page 6
+
+#1915_068 Wratten, Erve
+manager 1915 Newark (Buckeye)
+
+#1915_069 Drake, Tad
+player 1915 Newark (Buckeye); @P
+resides 1915-05-31 @ US/OH/McConnellsville
+
+#1915_070 Blanchard, Brickhouse
+player 1915 Newark (Buckeye); @C
+
+---
+
+!citation Canton Evening Repository @ 1915-06-01; page 8
+
+#1915_071 Connors
+player 1915 Akron (Buckeye); @P TL
+
+#1915_072 Clark, Dad
+player 1915 Akron (Buckeye); @2B
+
+#1915_073 McKee
+player 1915 Akron (Buckeye); @P TL
+
+---
+
+!citation Canton Evening Repository @ 1915-06-04
+
+#1915_074 Barnhart
+player 1915 Canton (Buckeye)
+resides 1915-06-04 @ US/OH/Denison
+
+---
+
+!citation Canton Evening Repository @ 1915-06-05; page 5
+
+#1915_075 Bostick
+player 1914 (Canton City League) [caliber=semipro]
+player 1915 Canton (Buckeye)
+
+---
+
+!citation Canton Evening Repository @ 1915-06-07; page 10
+
+#1915_076 Price
+player 1915 Canton (Buckeye); @IF
+player 1915 Newark (Buckeye); @IF
+
+---
+
+!citation Canton Evening Repository @ 1915-06-08; page 6
+
+#1915_077 Patton, Buck
+player 1915 Akron (Buckeye); @3B
+player 1915 Canton (Buckeye)
+
+---
+
+!citation Chillicothe Gazette @ 1915-04-20; page 3
+
+#1915_078 Beeney, Edward
+player 1915 Chillicothe (Ohio State); @C
+released 1915-04; leave=Chillicothe (Ohio State)
+resides 1915-04-20 @ US/OH/Newark
+
+#1915_079 Blanchard, Harry
+player <=1915 University of Tennessee; caliber=college
+player <=1915 Philadelphia (National)
+player 1915 Chillicothe (Ohio State)
+resides 1915-04-20 @ US/VA/Bristol
+
+---
+
+!citation Chillicothe Gazette @ 1915-04-17; page 6
+
+#1915_080 Blanchard, Henry
+player 1915 Chillicothe (Ohio State); @C
+
+---
+
+!citation Chillicothe Gazette @ 1915-06-05; page 2
+
+#1915_081 Lamb, Joe
+player 1915 Newark (Buckeye)
+player 1915 Chillicothe (Ohio State)
+
+

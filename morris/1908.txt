@@ -1,0 +1,124 @@
+!citation Austin American-Statesman @ 1908-05-02; page 3
+
+#1908_001 Walsh, Leo
+player 1908 Atlanta (Southern Association)
+player 1908 Austin (Texas)
+
+---
+
+!citation Atlanta Constitution @ 1908-07-18; page 4
+
+#1908_002 Doyle, Joe
+player <=1908 New York (American)
+player 1908 Atlanta (Southern Association)
+
+---
+
+!citation Atlanta Constitution @ 1908-07-30; page 4
+
+#1908_003 Doyle, Joe "Slow Joe"
+player 1908 Atlanta (Southern Association); @P
+
+---
+
+!citation Atlanta Constitution @ 1908-07-30; page 4
+
+#1908_004 Walsh
+player 1908 (Texas League)
+player 1908 Atlanta (Southern Association)
+
+---
+
+!citation Atlanta Constitution @ 1908-07-25; page 4
+
+#1908_005 Smith
+player 1907 Columbia (South Atlantic)
+player <=1908 (Virginia League)
+player 1908 Atlanta (Southern Association); @C TR
+
+---
+
+!citation Atlanta Constitution @ 1908-07-25; page 4
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#1908_006 Kelley
+player 1908 University of Michigan; caliber=college
+player 1908 Atlanta (Southern Association); @IF
+
+---
+
+!citation Atlanta Constitution @ 1908-03-22; page 8
+
+#1908_007 Morse, Whitey
+player <=1908 Atlanta (Southern Association)
+player 1908 Nashville (Southern Association)
+
+---
+
+!citation Cincinnati Enquirer @ 1908-07-25; page 4
+
+#1908_008 Kelly, George
+player 1908 University of Michigan; caliber=college
+player 1908 Cincinnati (National); @IF
+
+---
+
+!citation Cincinnati Enquirer @ 1908-07-05; page 8
+
+#1908_009 Kelly, George
+player 1908 Atlanta (Southern Association)
+player 1908 Cincinnati (National)
+
+---
+
+!citation Daily Arkansas Gazette @ 1908-05-31; page 13
+
+#1908_010 Ragan, Arthur "Rip"
+player 1908 Little Rock (Southern Association)
+
+---
+
+!citation Dayton Herald @ 1908-05-02; page 6
+
+#1908_011 Morse, Whitey
+player 1908 Dayton (Central)
+player 1908 Nashville (Southern Association)
+
+---
+
+!citation New Orleans Times-Democrat @ 1908-04-26; page 14
+
+#1908_012 McClelland, George
+player 1908 New Orleans (Southern Association)
+player 1908 East Liverpool (Ohio-Pennsylvania)
+
+---
+
+!citation New Orleans Times-Democrat @ 1908-02-09; page 11
+
+#1908_013 Preston, Walter
+player 1908 New Orleans (Southern Association)
+player 1908 Memphis (Southern Association)
+
+---
+
+!citation The Tennessean @ 1908-02-19; page 6
+
+#1908_014 Decker, Pie
+player 1906 Dayton (Central)
+player 1908 Nashville (Southern Association)
+
+---
+
+!citation The Tennessean @ 1908-03-25; page 7
+
+#1908_015 Morse, Whitey
+player 1908 Nashville (Southern Association)
+resides 1908-03-25 @ US/OH/Nashville
+
+---
+
+!citation The Tennessean @ 1908-03-05; page 8
+
+#1908_016 Ragan, Rip
+player 1908 Birmingham (Southern Association)

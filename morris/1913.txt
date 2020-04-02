@@ -1,0 +1,13 @@
+!citation Philadelphia Inquirer @ 1913-04-06
+
+#1913_001 Hartranft, Raymond
+player 1913 Winston-Salem (Carolina Association); @P TL
+resides 1913-04-06 @ US/PA/Royersford
+
+---
+
+!citation Winston-Salem Journal @ 1913-04-01; page 5
+
+#1913_002 Hartfrandt
+player 1913 Winston-Salem (Carolina Association); @P TL
+resides 1913-04-01 @ US/PA
