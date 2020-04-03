@@ -1,0 +1,71 @@
+!citation Lowell Sun @ 1915-06-09; page 41
+
+#20200402_001 Lohman, Zeke
+player 1915 Lowell (New England); TR
+note has photograph
+
+#20200402_002 Green, Paddy
+player 1915 Lowell (New England); TR
+note has photograph
+
+---
+
+!citation Norwich Bulletin @ 1913-01-08; page 3
+
+#20200402_003 Green, Paddy
+player 1912 Holyoke (Connecticut State)
+alias L'Grenier, Arthur Jean Baptiste; type=legal
+
+---
+
+!citation Lowell Sun @ 1915-04-27; page 16
+
+
+#20200402_004 Meyers, Tex
+player 1915 Lowell (New England)
+player 1914 New London (Eastern Association)
+
+---
+
+!citation Boston Globe @ 1915-07-22; page 7
+
+
+#20200402_005 Page, William
+player 1915 Worcester (New England)
+player 1910 Worcester (New England)
+
+
+---
+
+!citation Binghamton Press @ 1915-09-07; page 13
+
+
+#20200402_006 Page, William
+player 1915 Binghamton (New York State)
+player 1915 Olean (Interstate)
+
+---
+
+!citation Birmingham News @ 1916-03-19; page 11
+
+#20200402_007 Clare, Felix Edward
+player 1915 Olean (Interstate)
+resides 1915 @ US/NY/Allegany
+birth 1893-10-20
+
+---
+
+!citation Wilkes-Barre Record @ 1915-04-21; page 9
+
+#20200402_008 Garvey, William
+player 1915 Syracuse (New York State)
+player 1914 Brockton (Colonial)
+
+---
+
+!citation Scranton Tribune @ 1915-06-04; page 16
+
+#20200402_009 Graham, Alex
+player 1915 Utica (New York State)
+player 1915 Guelph (Canadian)
+
