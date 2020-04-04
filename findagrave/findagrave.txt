@@ -748,3 +748,52 @@ sameas findagrave:59008310
 birth 1910-07-20
 death 1995-02-13
 burial IOOF Cemetery @ US/MS/Greenwood
+
+---
+
+!citation findagrave.com @ 2020-03-23
+!url https://www.findagrave.com/memorial/33380574
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-03-23
+ 
+#0062 Albert, Dalton Paul [Dutch]
+sameas findagrave:33380574
+birth 1923-01-31
+death 1999-09-13
+burial Oak Knoll Cemetery @ US/TX/Bellville
+
+---
+
+!citation findagrave.com @ 2018-01-03
+!url https://www.findagrave.com/memorial/164981022
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-01-03
+
+#0063 Hannahoe, Gerald Patrick
+sameas findagrave:164981022
+birth 1912
+death 1978
+burial St. Peter & Paul's Cemetery @ US/NY/Elmira
+
+---
+
+!citation findagrave.com @ 2017-12-21
+!url https://www.findagrave.com/memorial/180593618
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-12-21
+
+#0064 Quinn, William J., Sr.
+sameas findagrave:180593618
+birth 1901
+death 1973
+burial Most Holy Redeemer Cemetery @ US/MD/Baltimore
+
+---
+
+!citation findagrave.com @ 2017-08-15
+!url https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=180589926
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-08-15
+
+#0065 Stevenson, Charles E.
+sameas findagrave:180589926
+birth 1939-04-11 @ US/LA/Rayville
+death 2017-06-21 @ US/GA/Dawson
+college McNeese State University
+burial Crown Hill Cemetery @ US/GA/Albany

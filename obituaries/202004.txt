@@ -1239,4 +1239,94 @@ death 1971-10-17 @ QS
 son of Walker, Dixie
 nephew of Walker, Harry
 
+---
+
+!citation Chicago Sun-Times @ 2018-07-01
+!url https://legacy.suntimes.com/obituaries/chicagosuntimes/obituary.aspx?n=james-noonan&pid=189435302&fhid=16267
+!file Noonan_James.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-03
+
+#202004_099 Noonan, James D.
+death 2018-06-26 @ US/IL/Lakemoor
+
+---
+
+!citation Heintz Funeral Home @ 2020-04-03
+!url https://heintzfuneralservice.net/tribute/details/118/Francis-Pfisterer/obituary.html#tribute-start
+!file Pfisterer_Fran.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-03
+
+#202004_100 Pfisterer, Francis A. [Fran]
+birth 1930-01-27 @ US/NY/Utica
+death 2020-06-25 @ US/NY/Utica
+highschool St. Francis de Sales HS @ US/NY/Utica
+military US Army @ Korean War
+burial Calvary Cemetery @ US/NY/Utica
+
+---
+
+!citation Logan Funeral Home @ 2020-04-03
+!url https://www.loganfuneralhomes.com/notices/Peter-DAmbrosio
+!file D’Ambrosia_Pete.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-03
+
+#202004_101 D’Ambrosia, Peter Joseph [Pete]
+birth 1919-12-16 @ US/PA/Philadelphia
+death 2018-06-18 @ US/PA/Media
+highschool West Philadelphia HS @ US/PA/Philadelphia
+military US Army @ World War II
+burial Fernwood Cemetery @ US/PA/Lansdowne
+
+---
+
+!citation The Day @ 2018-06-13
+!url https://www.legacy.com/obituaries/theday/obituary.aspx?n=william-r-haase-bill&pid=189279051&eid=sp_ommatch&eid=sp_ommatch
+!file Haase_Bill.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-03
+
+#202004_102 Haase, William R., III [Bill]
+birth 1925-09-22 @ US/CT/Bridgeport
+death 2018-06-09
+highschool Chapman Technical HS @ US/CT/New London
+military US Army @ World War II
+
+---
+
+!citation Warren Record @ 2018-06-06
+!url http://www.warrenrecord.com/obituaries/article_1ba4c9a8-6984-11e8-ad2f-17baae5cf6ca.html
+!file Hawks_Billy.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-03
+
+#202004_103 Hawks, William Horton [Billy] 
+birth 1931-03-17
+death 2018-05-26 @ US/NC/Warrenton
+highschool Norlina HS @ US/NC/Norlina
+
+---
+
+!citation John J. Lopatich Funeral Home @ 2020-04-03
+!url https://www.lopatich.com/obituary/5747872
+!file Pipak_Dick.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-03
+
+#202004_104 Pipak, Richard E., Sr. [Dick]
+birth 1932-09-27 @ US/PA/Pipetown
+death 2018-06-07 @ US/PA/Monroeville
+highschool St. Vincent Preparatory School @ US/PA/Latrobe
+military US Army
+burial St. Vincent Cemetery @ US/PA/Latrobe
+
+---
+
+!citation Lebanon Daily News @ 1973-08-10; page 1
+!file Quinn_William.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-12-21
+!contributor Tim Copeland @ 2017-12-21
+
+#202004_105 Quinn, William J. [Billy]
+death 1973-08-09 @ US/MD/Baltimore
+highschool Perkiomen School @ US/PA/Pennsburg
+highschool Lebanon HS @ US/PA/Lebanon
+
+
 

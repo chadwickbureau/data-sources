@@ -1,0 +1,118 @@
+!citation WV Certificate of Death
+!file Titlow_DC.jpg
+!contributor Tim Copeland <timcopeland64@gmail.com> @ 2015-05-13
+
+#202004_001 Titlow, William Franklin
+birth 1887-09-12 @ US/WV/Winifrede
+death 1961-05-12 @ US/WV/Oak Hill
+burial Highland Memorial Park @ US/WV/Oak Hill
+
+---
+
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-03-13
+ 
+#202004_002 Dilger, Frederick
+sameas ssn:306-16-5944
+birth 1888-01-30
+death 1967-12
+
+---
+
+!citation SSACI
+!file Mowry_Joseph_2.jpg
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-03-12
+ 
+#202004_003 Mowry, Joseph A.
+sameas ssn:335-10-5285
+birth 1881-02-05 @ US/OH/Defiance
+death 1941-05-01
+
+---
+
+!citation World War II Registration Card
+!file Odell_Alfred_2.jpg
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-05-31
+ 
+#202004_004 O'Dell, Alfred Thomas
+birth 1883-01-10 @ US/MA/Mansfield
+
+---
+
+!citation Reports of Deaths of American Citizens Abroad, 1835-1974
+!file Snedecor_Palmer.jpg
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-05-31
+ 
+#202004_005 Snedecor, Palmer
+sameas ssn:544-21-7071
+birth 1891-10-05 @ US/AL/Avondale
+death 1963-03-17 @ MX/Jalisco/Guadalajara
+burial Colonal Cemetery @ MX/Jalisco/Zapopan
+
+---
+
+!citation Pennsylvania Death Certificate
+!file Hauenstein_Elson.jpg
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-05-31
+ 
+#202004_006 Hauenstein, Elson G.
+sameas ssn:186-09-7456
+birth 1891-09-11 @ US/OH/Smithville
+death 1967-07-23 @ US/PA/East Hempfield Township
+burial Henry Eberle Cemetery @ US/PA/Mount Joy
+
+
+---
+
+!citation SSACI
+!file David_Hill_SSACI.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-08-19
+
+#202004_007 Hill, David William
+sameas ssn:492-24-4088
+birth 1929-04-29 @ US/MO/St. Louis
+death 1995-07-17
+
+---
+
+!citation SSDI
+!file Quinn_William_SSDI.png
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-12-21
+
+#202004_008 Quinn, William
+sameas ssn:312-10-0067
+birth 1901-06-29
+death 1973-08
+
+---
+
+!citation Indiana Death Certificates
+!file Cantley_John.jpg
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-04-28
+
+#202004_009 Cantley, John L.
+birth 1891-11-02 @ US/AL
+death 1915-09-05 @ US/IN/Evansville
+burial Unknown Cemetery @ US/AL/Ensley
+
+---
+
+!citation SSDI
+!file Osteen_William.png
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-05-31
+
+#202004_010 Osteen, William
+sameas ssn:328-10-8960
+birth 1892-02-28
+death 1966-01
+
+---
+
+!citation World War II Draft Cards
+!file Downing_Elton.jpg
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-05-31
+
+#202004_011 Downing, Elton Leo
+birth 1925-10-29 @ US/TX/Amarillo
+
+

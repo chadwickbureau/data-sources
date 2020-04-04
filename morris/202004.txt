@@ -1,0 +1,9 @@
+!citation St. Joseph Herald @ 1894-03-18; page 3
+!file Southard_Frank.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-05-01
+
+#202004_001 Southard, Frank
+birth @ US/PA/Scranton
+describe ; H68 W157
+player 1893 Birmingham (Southern Association); @P
+player 1893 Scranton (Pennsylvania State); @P
