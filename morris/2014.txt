@@ -1,0 +1,102 @@
+!citation findagrave.com
+!citation Dayton Daily News @ 1999-03-05
+!file Ulrich_Marvin.docx
+
+#2014_001 Ulrich, Marvin H.
+sameas ssn:246-10-3059
+sameas findagrave:24702279
+birth 1913-10-28
+death 1999-03-02 @ US/TN/Norris Lake
+college The Ohio State University
+military US Army @ World War II; dates=1943-07-23/1944-07-97
+burial Twin Valley Cemetery @ US/OH/Gratis
+
+---
+
+!citation Dallas Morning News @ 1999-04-15
+!file Lee_Charles.docx
+
+#2014_002 Lee, Charles Raymond
+sameas ssn:460-22-7278
+birth 1924-08-14 @ US/TX/Bogata
+death 1999-04-12 @ US/TX/East Tawakoni
+highschool Woodrow Wilson HS @ US/TX/Dallas
+college Texas A&M University-Commerce
+burial Restland Memorial Park @ US/TX/Dallas
+
+---
+
+!citation Daily Herald @ 1999-06-12
+!file Gugala_Chester.docx
+
+#2014_003 Gugala, Chester A.
+sameas ssn:320-20-1130
+birth 1930-03-04 @ US/IL/North Chicago
+death 1999-06-09 @ US/IL/Waukegan
+military US Army @ Korean War
+burial Ascension Catholic Cemetery @ US/IL/Libertyville
+
+---
+
+!citation Las Vegas Review-Journal @ 1999-07-22
+!file Butcher_Richard.docx
+
+#2014_004 Butcher, Richard D. [Dick] "Dandy Dick"
+sameas ssn:568-22-6116
+birth 1928-10-20 @ US/CA/Modesto
+death 1999-07-18 @ US/NV/Las Vegas
+
+---
+
+!citation Newark Star-Ledger @ 1999-08-27
+!file Shupper_John.docx
+
+#2014_005 Shupper, John
+sameas ssn:125-01-8399
+birth 1917-07-17 @ US/NY/New York
+death 1999-08-25 @ US/PA/Yardley
+military US Navy @ World War II
+
+---
+
+!citation San Diego Union-Tribune @ 1999-11-04
+!file Benish_Robert.docx
+
+#2014_006 Benish, Robert Edward
+sameas ssn:495-14-8600
+birth 1920-04-08 @ US/MO/St. Louis
+death 1999-10-24
+military US Army
+
+---
+
+!citation Hannibal Courier-Post @ 1999-11-23
+!file Schumm_Bill.docx
+
+#2014_007 Schumm, William L., Jr. [Bill]
+birth 1926-01-05 @ US/MO/Hannibal
+death 1999-11-21 @ US/MO/Moberly
+military US Army
+burial Parklawn Cemetery @ US/MO/Brookfield
+
+---
+
+!citation Buffalo News @ 1999-12-20
+!file Broska_Herman.docx
+
+#2014_008 Broska, Herman M.
+sameas ssn:093-01-0035
+birth 1912-05-26
+death 1999-12-17 @ US/NY/Amherst
+military US Army @ World War II
+burial Lancaster Rural Cemetery @ US/NY/Lancaster
+
+---
+
+!citation Heritage Funeral Chapels @ 2014-12-27
+!url http://heritagefuneralchapels.tributes.com/show/Richard-Emil-Selgo-91594742
+
+#2014_009 Selgo, Richard Emil, Sr. [Dick]
+birth 1927-07-25 @ US/OH/Port Clinton
+death 2011-05-24 @ US/AZ/Glendale
+highschool Port Clinton HS @ US/OH/Port Clinton

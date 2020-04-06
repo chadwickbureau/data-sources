@@ -1328,5 +1328,114 @@ death 1973-08-09 @ US/MD/Baltimore
 highschool Perkiomen School @ US/PA/Pennsburg
 highschool Lebanon HS @ US/PA/Lebanon
 
+---
 
+!citation Larkin Mortuary @ 2020-04-04
+!url https://www.larkinmortuary.com/obituary/richard-kenneth-milne/
+!file Milne_Dick.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-04
 
+#202004_106 Milne, Richard Kenneth [Dick]
+birth 1930-06-18 @ US/UT/Mammoth
+death 2020-03-30
+highschool South HS @ US/UT/Salt Lake City
+
+---
+
+!citation D'Espo Funeral Chapel @ 2020-04-04
+!url https://www.dignitymemorial.com/obituaries/wethersfield-ct/sebastian-santiglia-7879813
+!file Santiglia_Subby.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-04
+
+#202004_107 Santiglia, Sebastian Anthony [Subby] "Checkers"
+birth 1932-01-01 @ US/CT/Hartford
+death 2018-05-29 
+highschool Hartford Public HS @ US/CT/Hartford
+college University of Hartford
+military US Navy @ Korean War
+burial Mount St. Benedict Cemetery @ US/CT/Bloomfield
+
+---
+
+!citation Warco-Falvo Funerla Home @ 2020-04-04
+!url https://www.warcofalvofuneralhome.com/obituary-posts/2018/5/9/norman-j-kotlik
+!file Kotlik_Norman.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-04
+
+#202004_108 Kotlik, Norman J. 
+birth 1935-01-14 @ US/OH/Bellaire
+death 2018-05-07
+highschool Bellaire HS @ US/OH/Bellaire
+
+---
+
+!citation Albuquerque Journal @ 1923-06-25
+!file Maurer_Michael.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-05
+
+#202004_109 Maurer, Michael A.
+death 1923-06-23 @ US/NM/Albuquerque 
+
+---
+
+!citation Matarese Funeral Home @ 2020-04-05
+!url https://www.mataresefuneral.com/obituary/franklin-freeman
+!file Freeman_Fritz.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-05
+
+#202004_110 Freeman, Franklin "Fritz"
+birth 1929-05-31
+death 2020-03-19
+highschool The Governor's Academy @ US/MA/Newbury
+
+---
+
+!citation Ocean County Register @ 2020-04-05
+!url https://www.ocregister.com/2020/04/05/former-trabuco-hills-saddleback-college-standout-pitcher-ryan-poe-42-dies-after-infection/
+!file Poe_Ryan.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-05
+
+#202004_111 Poe, Ryan
+death 2020-04-03 @ US/CA/Upland
+highschool Trabuco Hills HS @ US/CA/Mission Viejo
+college Saddleback College
+
+---
+
+!citation Gaffney Funeral Home @ 2020-04-05
+!url https://www.gaffneyfuneralhome.com/obituary/Raymond-Millie
+!file Millie_Ray.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-05
+
+#202004_112 Millie, Raymond F. [Ray]
+birth 1929-01-20 @ US/WA/Tacoma
+death 2018-04-29
+highschool Bellarmine Preparatory School @ US/WA/Tacoma
+
+---
+
+!citation Misencik Funeral Home @ 2020-04-05
+!url https://www.misencikfuneralhome.com/obituary/steve-matesick
+!file Matesick_Steve.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-05
+
+#202004_113 Matesick, Steve
+birth 1933-11-07 @ US/OH/Lorain
+death 2018-05-03 @ US/OH/Avon
+military US Army
+burial St. Mary's Cemetery @ US/OH/Avon
+
+---
+
+!citation Doherty Funeral Homes @ 2020-04-05
+!url https://www.dohertyfh.com/obituary/James-Johnson
+!file Johnson_James.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-05
+
+#202004_114 Johnson, James E.
+birth 1927-10-09
+death 2018-05-01
+highschool Archmere Academy @ US/DE/Claymont
+college Villanova University
+military US Army
+burial Delaware Veterans Memorial Cemetery @ US/DE/Bear

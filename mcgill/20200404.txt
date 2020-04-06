@@ -1,0 +1,531 @@
+!citation Asheville Citizen-Times @ 1915-02-07; page 16
+
+#20200404_001 Corbett, Jack
+birth @ US/OH/Columbus
+player 1915 Asheville (North Carolina State); H71 W170; age 27
+manager 1915 Asheville (North Carolina State)
+player 1914 Asheville (North Carolina State)
+manager 1914 Asheville (North Carolina State)
+player 1913 Asheville (North Carolina State)
+player 1913 Mobile (Southern Association)
+player 1912 Spartanburg (Carolina Association)
+coach 1912 University of Indiana
+coach 1911 Furman University
+player 1911 Anderson (Carolina Association)
+player 1910 Anderson (Carolina Association)
+player 1909 Charleston (South Atlantic)
+player 1909 Anderson (Carolina Association)
+player 1908 Shreveport (Texas)
+player 1908 Monroe (Cotton States)
+player 1908 Columbus (Cotton States)
+player 1905 Anderson (Interstate Association)
+
+#20200404_002 Ferris, Doc
+player 1915 Asheville (North Carolina State); H72 W175 TR BR; age 24
+resides 1915 @ US/NY/Waterveleit
+player 1914 Durham (North Carolina State)
+player 1913 Durham (North Carolina State)
+
+#20200404_003 Anderson, Victor
+player 1915 Asheville (North Carolina State); H72 W175 TL; age 20
+resides 1915 @ US/NC/Kannapolis
+player 1914 Knoxville (Appalachian)
+player 1914 Waycross (Georgia State)
+
+#20200404_004 Heck, F. H.
+player 1915 Asheville (North Carolina State); age 20
+
+---
+
+!citation Daily Press @ 1911-04-18; page 1
+
+#20200404_005 Bryan, Donald
+player 1911 Newport News (Tidewater)
+
+---
+
+!citation Daily Press @ 1911-04-18; page 10
+
+#20200404_006 Barry, Grove
+player 1911 Newport News (Tidewater)
+
+#20200404_007 Richards, Jack
+player 1911 Newport News (Tidewater)
+
+#20200404_008 Land, Eddie
+player 1911 Newport News (Tidewater)
+
+#20200404_009 Gorman, Jim
+player 1911 Newport News (Tidewater)
+
+---
+
+!citation Daily Press @ 1911-04-20; page 8
+
+#20200404_010 Shannon, Hugh
+manager 1911 Newport News (Tidewater)
+
+---
+
+!citation Daily Press @ 1911-04-22; page 6
+
+#20200404_011 Boyce
+player 1911 Old Point (Tidewater); @P TL
+
+---
+
+!citation Daily Press @ 1911-04-23; page 5
+
+#20200404_012 Quinn, Jack
+player 1911 Newport News (Tidewater); @P TL
+
+---
+
+!citation Daily Press @ 1911-04-25; page 8
+
+#20200404_013 Land, Eddie
+player 1911 Old Point (Tidewater)
+purchased 1911-04-24; leave=Newport News (Tidewater); join=Old Point (Tidewater)
+
+---
+
+!citation Daily Press @ 1911-05-03; page 7
+
+#20200404_014 Clark, Wynn
+manager 1911 Portsmouth (Tidewater)
+
+#20200404_015 Schmidt, Otto
+player 1911 Newport News (Tidewater)
+
+---
+
+!citation Daily Press @ 1911-05-06; page 5
+
+#20200404_016 Rogers, John L.
+player 1911 Newport News (Tidewater)
+
+#20200404_017 Curtis, Joe
+manager 1911 Old Point (Tidewater)
+player 1911 Old Point (Tidewater)
+
+---
+
+!citation Daily Press @ 1911-05-09; page 5
+
+#20200404_018 McCrea, [Red]
+player 1911 Newport News (Tidewater)
+released 1911-05-08; leave=Newport News (Tidewater)
+
+---
+
+!citation Daily Press @ 1911-05-11; page 5
+
+#20200404_019 Dowling, Tom
+player 1911 Newport News (Tidewater)
+
+---
+
+!citation Daily Press @ 1911-05-11; page 5
+
+#20200404_020 Barry, John [Count]
+player 1911 Newport News (Tidewater)
+note Not a brother of teammate Grove Barry. Story about John's mother being ill and him going to NY doesn't mention Grove.
+
+---
+
+!citation Daily Press @ 1911-05-17; page 5
+
+#20200404_021 Confrey, Barney
+player 1911 Newport News (Tidewater)
+
+#20200404_022 Griffin, Steve
+player 1911 Norfolk (Tidewater)
+
+---
+
+!citation Daily Press @ 1911-05-20; page 5
+
+#20200404_023 Colburne
+player 1911 Newport News (Tidewater)
+released 1911-05-19; leave=Newport News (Tidewater); join=Suffolk (Tidewater)
+
+---
+
+!citation Sporting Life @ 1911-03-25; page 6
+
+#20200404_024 Cummings, Henry
+player 1911 Charlotte (Carolina Association)
+resides 1911 @ US/NJ/Blackwood
+
+---
+
+!citation Sporting Life @ 1911-03-25; page 9
+
+#20200404_025 Harris, Joseph S.
+manager 1911 McPherson (Kansas State)
+player 1911 McPherson (Kansas State)
+
+---
+
+!citation Sporting Life @ 1911-03-25; page 12
+
+#202004_026 Dell, John
+player 1911 Dayton (Central)
+player 1910 Dayton (Central)
+player 1910 Green Bay (Wisconsin-Illinois)
+
+---
+
+!citation Sporting Life @ 1911-04-01; page 5
+
+#20200404_027 Boyle, James
+player 1911 East Liverpool (Ohio-Pennsylvania)
+
+---
+
+!citation Sporting Life @ 1911-04-01; page 15
+
+#20200404_028 Johnson, Lyman
+player 1911 Terre Haute (Central); @P TR
+purchased <=1911-04; join=Terre Haute (Central); leave=Vincennes (Kentucky-Illinois-Tennessee)
+
+---
+
+!citation Sporting Life @ 1911-04-08; page 9
+
+#20200404_029 Walzer, Clarence
+player 1911 Terre Haute (Central)
+
+#20200404_030 Neuschafer, Archie
+player 1911 Dayton (Central); @P TR
+
+---
+
+!citation Sporting Life @ 1911-04-15; page 12
+
+#20200404_031 Ryan, Dan
+player 1911 Canton (Ohio-Pennsylvania)
+
+#20200404_032 Boyle, Joe [Hennessy]
+player 1911 East Liverpool (Ohio-Pennsylvania)
+player 1906 East Liverpool (Ohio-Pennsylvania)
+
+---
+
+!citation Sporting Life @ 1911-04-15; page 14
+
+#20200404_033 Wahl, Walter
+player 1911 Suffolk (Tidewater)
+
+#20200404_034 Ritter, James
+player 1911 Norfolk (Tidewater)
+
+#20200404_035 McPherson, H. R.
+player 1911 Norfolk (Tidewater)
+
+#20200404_036 Patterson, Charles
+player 1911 Newport News (Tidewater)
+
+#20200404_037 O'Brien, John
+player 1911 Newport News (Tidewater)
+
+---
+
+!citation Sporting Life @ 1911-04-22; page 13
+
+#20200404_038 Greer, James J.
+player 1911 Norfolk (Tidewater); @P TL H72
+college Catholic University @ US/DC/Washington
+
+---
+
+!citation Sporting Life @ 1911-04-29; page 20
+
+#20200404_039 Wilson, Joe
+player 1911 East Liverpool (Ohio-Pennsylvania)
+player 1910 New Castle (Ohio-Pennsylvania)
+
+#20200404_040 Morgan, Pete
+player 1911 New Castle (Ohio-Pennsylvania)
+brother of Morgan, Cy
+
+---
+
+!citation Sporting Life @ 1911-05-06; page 19
+
+#20200404_041 Flournoy, Jack
+player 1911 Grand Rapids (Central)
+
+---
+
+!citation Sporting Life @ 1911-05-06; page 20
+
+#20200404_042 Wood
+player 1911 Steubenville (Ohio-Pennsylvania)
+brother of Wood, Smoky Joe
+
+---
+
+!citation Sporting Life @ 1911-05-27; page 5
+
+#20200404_043 Isbell, Albert
+player 1911 Erie (Ohio-Pennsylvania)
+
+---
+
+!citation Sporting Life @ 1911-06-03; page 20
+
+#20200404_044 Noojin, Charles
+player 1911 South Bend (Central)
+
+#20200404_045 Robertson, Dave
+player 1911 Elizabeth City (Tidewater)
+
+#20200404_046 Stafford, Bob
+player 1911 Elizabeth City (Tidewater)
+
+---
+
+!citation Sporting Life @ 1911-06-10; page 3
+
+#20200404_048 Camnitz, Harry
+player 1911 South Bend (Central)
+
+---
+
+!citation Sporting Life @ 1911-06-10; page 20
+
+#20200404_049 Morrissey, Chester
+player 1911 Grand Rapids (Central)
+college Syracuse University
+
+#20200404_050 Moffitt, Elmer
+player 1911 South Bend (Central)
+
+---
+
+!citation Sporting Life @ 1911-06-17; page 7
+
+#20200404_051 Martin, Harry
+player 1911 Terre Haute (Central)
+purchased <=1911-06-17; join=Terre Haute (Central); leave=Pittsburgh (National)
+
+#20200404_052 Meyers, [Tex]
+player 1911 Terre Haute (Central)
+
+#20200404_053 Mullaney, Dominick
+player 1911 Suffolk (Tidewater)
+manager 1911 Suffolk (Tidewater)
+manager 1911 Yazoo City (Cotton States)
+
+---
+
+!citation Sporting Life @ 1911-07-08; page 20
+!contributor Chuck McGill <cmcmgill.vt@gmail.com>
+
+#20200404_054 Reynolds, [Rube]
+player 1911 Terre Haute (Central); @P TL
+player 1911 (Minnesota-Wisconsin)
+
+---
+
+!citation Sporting Life @ 1911-08-05; page 3
+!contributor Chuck McGill <cmcmgill.vt@gmail.com>
+
+#20200404_055 Murden, Joe
+player 1911 Portsmouth (Tidewater)
+player 1911 Norfolk (Virginia)
+
+---
+
+!citation Sporting Life @ 1911-09-16; page 2
+!contributor Chuck McGill <cmcmgill.vt@gmail.com>
+
+#20200404_056 Bosk
+player 1911 Utica (New York State); @P TR
+
+---
+
+!citation Daily Press @ 1911-06-02; page 5
+
+#20200404_057 Hill, Tate
+player 1911 Old Point (Tidewater)
+college Eastern College
+
+#20200404_058 White
+player 1911 Old Point (Tidewater); @P TL
+college Eastern College
+
+---
+
+!citation Daily Press @ 1911-06-04; page 6
+
+#20200404_059 Flynn, Tom
+player 1911 Newport News (Tidewater)
+
+#20200404_060 Boyce
+player 1911 Old Point (Tidewater)
+player 1911 Newport News (Tidewater); TL
+
+#20200404_061 Cannon
+player 1911 Old Point (Tidewater)
+player 1911 Newport News (Tidewater)
+
+---
+
+!citation Daily Press @ 1911-06-06; page 5
+
+#20200404_062 Richardson, Sam
+player 1911 Suffolk (Tidewater)
+player 1911 Newport News (Tidewater)
+
+---
+
+!citation Daily Press @ 1911-06-07; page 5
+
+#20200404_063 Tone, J. W.
+player 1911 Newport News (Tidewater); @P
+resides 1911 @ US/CT/New Haven
+
+#20200404_064 Bryant, J. G.
+player 1911 Newport News (Tidewater); @P
+resides 1911 @ US/VA/Ashbury
+
+#20200404_065 Hite
+player 1911 Newport News (Tidewater); @OF
+college Randolph-Macon College
+
+#20200404_066 Vogelsang
+player 1911 Newport News (Tidewater); @C
+
+---
+
+!citation Daily Press @ 1911-06-09; page 5
+
+#20200404_067 Tone
+player 1911 Newport News (Tidewater); @P TL
+
+---
+
+!citation Daily Press @ 1911-09-10; page 5
+
+#20200404_068 Rogers, George
+player 1911 Newport News (Tidewater)
+
+---
+
+!citation Daily Press @ 1911-06-11; page 6
+
+#20200404_069 Lohr, Joe
+player 1911 Suffolk (Tidewater)
+
+---
+
+!citation Daily Press @ 1911-06-14; page 5
+
+#20200404_070 Moran
+player 1911 Elizabeth City (Tidewater); @P
+college William & Mary
+
+---
+
+!citation Daily Press @ 1911-06-21; page 5
+
+#20200404_071 Robertson, Dave
+player 1911 Elizabeth City (Tidewater); @P TL
+signed 1911-06-20; join=Detroit (American)
+
+---
+
+!citation Daily Press @ 1911-06-22; page 5
+
+#20200404_072 Vail, Bobby
+player 1911 Portsmouth (Tidewater)
+
+---
+
+!citation Daily Press @ 1911-06-24; page 5
+
+#20200404_073 Thompson, William
+player 1911 Newport News (Tidewater)
+
+---
+
+!citation Daily Press @ 1911-06-28; page 5
+
+#20200404_074 Thompson, Dudley
+player 1911 Newport News (Tidewater)
+
+#20200404_075 Tansey, Gene
+player 1911 Newport News (Tidewater)
+
+#20200404_076 Confrey, Barney
+player 1911 Newport News (Tidewater)
+
+---
+
+!citation Daily Press @ 1911-07-09; page 5
+
+#20200404_077 McCracken, Pete
+player 1911 Flint (Southern Michigan)
+player 1911 Newport News (Tidewater)
+
+---
+
+!citation Daily Press @ 1911-07-12; page 5
+
+#20200404_078 McDevitt
+player 1911 Old Point (Tidewater)
+player 1911 Norfolk (Tidewater)
+
+---
+
+!citation Daily Press @ 1911-07-13; page 5
+
+#20200404_079 Mace, Harry
+umpire 1911 Tidewater
+
+---
+
+!citation Daily Press @ 1911-07-16; page 6
+
+#20200404_080 Gunderson, Al
+player 1911 Newport News (Tidewater)
+
+#20200404_081 Confrey, Barney
+player 1911 Newport News (Tidewater)
+
+---
+
+!citation Daily Press @ 1911-07-22; page 5
+
+#20200404_082 Hayes, Randolph
+umpire 1911 Tidewater
+
+---
+
+!citation Daily Press @ 1911-07-25; page 5
+
+#20200404_083 Allen, Charles
+player 1911 Old Point (Tidewater)
+
+#20200404_084 Drumm, Joe
+player 1911 Portsmouth (Tidewater); @P
+player 1911 Newport News (Tidewater)
+
+---
+
+!citation Daily Press @ 1911-07-27; page 5
+
+#20200404_085 Boyce
+player 1911 Newport News (Tidewater)
+player 1911 Old Point (Tidewater)
+
+---
+
+!citation Sporting Life @ 1911-07-08; page 6
+!contributor Chuck McGill <cmcmgill.vt@gmail.com>
+
+#20200404_086 Keiber, Eddie
+player 1911 Terre Haute (Central)
+

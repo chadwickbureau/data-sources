@@ -1,0 +1,52 @@
+!file Decker_Brandon.pdf
+
+#2011_001 Decker, Brandon
+describe ; BR TR H70 W165 @IF
+player 2011 Rio Grande Valley (United)
+birth 1987-01-10 @ US/CA/Santee
+college San Diego State
+college Long Beach State
+
+---
+
+!citation Camden Riversharks
+!file Rollins_Chris.pdf
+
+#2011_002 Rollins, Chris
+player 2011 Camden (Atlantic)
+birth 1986-09-16 @ US/NJ/Camden
+describe ; BR TR H76 W225 @P
+
+---
+
+!citation Camden Riversharks
+!file McGuire_Mike.pdf
+
+#2011_003 McGuire, Mike
+player 2011 Camden (Atlantic)
+birth 1986-06-29 @ US/PA/Drexel Hill
+describe ; H76 W240 BR TR @P
+
+---
+
+!citation Camden Riversharks
+!file Gearhart_Kalen.pdf
+
+#2011_004 Gearhart, Kalen
+player 2011 Camden (Atlantic)
+birth 1985-08-12 @ US/PA/Huntington
+describe ; BR TR H74 W210 @P
+
+---
+
+!citation Long Island Ducks
+!file Hunton_Jon.pdf
+
+#2011_005 Hunton, Jon
+player 2011 Long Island (Atlantic)
+birth 1982-11-30
+describe ; BR TR H81 W260 @P
+drafted 2004; join=Chicago (National); round=11
+resides 2011 @ US/NJ/Plainfield
+
+

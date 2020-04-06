@@ -1,0 +1,85 @@
+!contributor Alain Usereau
+
+#2013_001 Mackasey, Blair
+birth 1955-12-13 @ CA/ON/Hamilton
+sameas sr_nhl:mackabl01
+
+#2013_002 Schlosser, Wayne
+birth 1952-06-17 @ CA/SK/Lestock
+cousin of Yonkman, Leonard
+
+#2013_003 Yonkman, Leonard
+birth @ CA/SK/Lestock
+cousin of Schlosser, Wayne
+
+---
+
+!citation California Death Index 1940-1997
+
+#2013_004 Hollerson, George
+death 1996-09-11 @ US/CA/Alameda
+sameas ssn:565-01-6220
+
+---
+
+!citation Cook County IL Death Index
+
+#2013_005 Bedore, Frederick D.
+death 1983-02-02 @ US/IL/Cook County
+
+---
+
+!citation SSDI
+
+#2013_006 Francoline, Jimmy B.
+death 1917-10-31
+
+#2013_007 Plant, Walter B.
+death 1921-05-22
+
+#2013_008 Smith, Gladstone B.
+death 1929-12-22
+
+#2013_009 Ostwalt, Charles B.
+death 1924-11-28
+
+---
+
+!contributor Ray Nemec
+
+#2013_010 Russell, Pat D.
+death 1987-09-15
+sameas ssn:084-42-2796
+
+---
+
+!citation U.S. Cemetery and Funeral Home Collection, Ancestry.com
+
+#2013_011 Barbary, Eddie B.
+birth 1945-01-25
+
+---
+
+!citation SSDI
+
+#2013_012 Barrett, Rollie B.
+birth 1927-02-20
+
+#2013_013 Birnuas, Al B.
+birth 1933-06-30
+
+#2013_014 Bost, Bob B.
+birth 1946-11-24
+
+#2013_015 Buchanan, Bob B.
+birth 1947-06-16
+
+#2013_016 Cerbo, Fred B.
+birth 1925-04-07
+death 2013-08-23
+
+#2013_017 Coakley, John B.
+birth 1925-07-11
+
+#2013_018 Coleman, Bob B.
+birth 1931-02-04

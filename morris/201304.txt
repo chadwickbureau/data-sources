@@ -1,0 +1,75 @@
+!contributor Alain Usereau <althetiger@hotmail.com>
+
+#201304_001 Elias, John
+birth 1938-06-14 @ CA/QC/Montreal
+highschool Westhill HS @ CA/QC/Montreal
+college Pasadena City College
+college Michigan State
+college Springfield
+
+#201304_002 Pregon, David
+highschool St. John Vianney HS @ US/MO/Kirkwood
+
+#201304_003 Field, Daniel
+highschool St. Joseph HS @ US/IL/Westchester
+
+#201304_004 Gurniak, Don
+highschool Centennial HS @ CA/BC/Coquitlam
+
+#201304_005 Habelman, Al
+highschool Spring Woods HS @ US/TX/Houston
+college Sam Houston State
+
+#201304_006 Williams, Robert
+birth 1949-10-07
+highschool Lindbergh HS @ US/MO/St. Louis
+
+#201304_007 Hayes, Lewis
+college Paul Quinn
+
+#201304_008 Viney, Sam
+highschool Edison HS @ US/CA/Stockton
+
+#201304_009 Bonk, Lenny
+highschool St. Mary Catholic Central HS @ US/MI/Monroe
+
+---
+
+!citation Minnesota, Births and Christening Index, 1840-1980
+!citation findagrave.com @ 2013-03-20
+!url http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=97475118
+
+#201304_010 Kaplan, Avold Richard [Ave]
+sameas ssn:471-03-8593
+birth 1899-11-15 @ US/MN/Owatonna
+death 1989-12-28
+burial Bohemian National Cemetery @ US/MN/Owatonna
+
+---
+
+!citation Guerra & Gutierrez Mortuary @ 2013-03-08
+!url http://www.guerragutierrez.com/sitemaker/memsol.cgi?user_id=744662
+!citation SSDI
+!contributor Ray Nemec <basebalray@aol.com>
+
+#201304_011 Valenzuela, Ramon Chacon
+birth 1952-01-06 @ US/CA/Los Angeles
+death 2010-02-20 @ US/CA/Whittier
+
+---
+
+!contributor Alain Usereau <althetiger@hotmail.com>
+
+#201304_012 Petrock, John
+birth 1949-11-26
+
+#201304_013 Todd, Stanley
+birth @ US/AR/Lonoke
+highschool Lonoke HS @ US/AR/Lonoke
+
+#201304_014 Pratte, Andre
+birth 1933-05-04 @ CA/QC/Longueuil
+
+#201304_015 Liebeck, Michael
+birth 1950-05-19 @ US/CA/Long Beach
+

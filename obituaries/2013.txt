@@ -1,0 +1,40 @@
+!citation Arkansas Democrat-Gazette
+!url http://www.arkansasonline.com/obituaries/2013/feb/10/mike-drewett-2013-02-11/ 
+!contributor Fred Worth <worthf@hsu.edu>
+
+#2013_001 Drewett, Michael Glen
+birth 1952-02-14 @ US/LA/Baton Rouge
+death 2013-02-08
+college Arkansas State University
+college University of Arkansas-Monticello
+burial Varnell Cemetery @ US/AR/Rison
+
+---
+
+!citation The Advertiser @ 2013-02-06
+!file Truesdell_Charles.pdf
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#2013_002 Truesdell, Charles Welsey [Charley]
+birth 1939-11-09 @ US/LA/Eunice
+death 2013-02-04 @ US/LA/Lafayette
+
+---
+
+!citation The Indiana Gazette
+!file Demeter_Stephen.pdf
+!contributor Tim Copeland
+
+#2013_003 Demeter, Stephen
+death 2013-02-03
+
+---
+
+!citation Orange County Register @ 2013-02-05
+!file Witt_George.pdf
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#2013_004 Witt, George "Red"
+death 2013-01-30
+military US @ Korean War
+
