@@ -1,10 +1,10 @@
 !citation Edwards Funeral Home @ 2018-07-20
 !url https://edwardsfuneralhome.org/tribute/details/502/John-Stilwell/obituary.html
-!file Stillwell_John.pdf
+!file Stilwell_John.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-07-20
 
-#profile Stillwell, John H.
-key 200803_Stillwell
+#profile Stilwell, John H.
+key 200803_Stilwell
 birth 1919-07-01 @ US/MO/Doniphan
 death 2008-03-02 @ US/MO/Doniphan
 burial Doniphan City Cemetery @ US/MO/Doniphan

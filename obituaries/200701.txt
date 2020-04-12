@@ -5,9 +5,9 @@
 
 #profile Jones, John Paul [JP]
 key 200701_Jones_1
-player Little Rock (Southern Association)
-player Macon (South Atlantic)
-player Shreveport (Texas)
+player ? Little Rock (Southern Association)
+player ? Macon (South Atlantic)
+player ? Shreveport (Texas)
 
 ---
 
