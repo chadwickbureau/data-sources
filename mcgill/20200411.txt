@@ -1,0 +1,139 @@
+!citation Fort Worth Telegram @ 1903-07-12; page 2
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20200411_001 Jarvis, Jack
+player 1903 Fort Worth (Texas); @P TR
+note picture
+
+---
+
+!citation Knoxville Sentinel @ 1914-05-16; page 16
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20200411_002 Monk, Howard
+player 1914 Knoxville (Appalachian)
+
+#20200411_003 Monk, Karl
+player 1914 Knoxville (Appalachian)
+
+#20200411_004 Donahue, Peter
+player 1914 Knoxville (Appalachian)
+
+#20200411_005 Clunk, Roy
+player 1914 Knoxville (Appalachian)
+
+#20200411_006 Anderson, Vic
+player 1914 Knoxville (Appalachian)
+
+#20200411_007 Shean, Thomas
+player 1914 Knoxville (Appalachian)
+
+---
+
+!citation Knoxville Sentinel @ 1914-05-18; page 16
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20200411_008 Garrett, Tige
+player 1914 Harriman (Appalachian)
+
+#20200411_009 Morton, Burt
+player 1914 Harriman (Appalachian)
+player <1914 Albany (South Atlantic)
+
+#20200411_010 Lowe
+player 1914 Harriman (Appalachian)
+player <1914 Clarksville (Kentucky-Illinois-Tennessee)
+
+#20200411_011 Breaux
+player 1914 Harriman (Appalachian)
+player 1913 Bristol (Appalachian)
+
+---
+
+!citation Knoxville Sentinel @ 1914-05-19; page 20
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20200411_012 Goans
+player 1914 Harriman (Appalachian); @P TL
+
+#20200411_013 Lynch, Friend
+player 1914 Knoxville (Appalachian)
+
+#20200411_014 Moore
+player 1914 Harriman (Appalachian); BL
+
+---
+
+!citation Knoxville Sentinel @ 1914-05-21; page 16
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20200411_015 Manes, Jim
+player 1914 Middlesboro (Appalachian)
+
+---
+
+!citation Knoxville Sentinel @ 1914-05-22; page 12
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20200411_016 Anderson, Vic
+player 1914 Knoxville (Appalachian)
+resides 1914 @ US/NC/Kannapolis
+
+---
+
+!citation Knoxville Sentinel @ 1914-05-27; page 14
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20200411_017 Wynne, Bill
+player 1914 Middlesboro (Appalachian)
+
+---
+
+!citation Knoxville Sentinel @ 1914-05-30; page 16
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20200411_018 Patton, Jimmy
+player 1914 Knoxville (Appalachian)
+
+#20200411_019 Knox, W. D.
+player 1914 Knoxville (Appalachian)
+player <1914 (Virginia)
+
+---
+
+!citation Knoxville Sentinel @ 1914-06-08; page 20
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20200411_020 Knox, W. D.
+player 1914 Knoxville (Appalachian); BL
+
+#20200411_021 Burke, Jimmy
+player 1914 Knoxville (Appalachian)
+
+#20200411_022 Pasini, Pat
+manager 1914 Harriman (Appalachian)
+player 1914 Harriman (Appalachian)
+
+---
+
+!citation Knoxville Sentinel @ 1914-06-11; page 14
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20200411_023 Kunkle, Harry
+player 1914 Morristown (Appalachian)
+manager 1914 Morristown (appalachian)
+released 1914-06-10; leave=Morristown (Appalachian)
+
+#20200411_024 Blackburn, G. W.
+umpire 1914 Appalachian
+
+---
+
+!citation Knoxville Sentinel @ 1914-06-18; page 14
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20200411_025 Moffett, Frank
+manager 1914 Knoxville (Appalachian)
+
+---
+
