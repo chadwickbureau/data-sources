@@ -809,3 +809,17 @@ sameas findagrave:109750341
 birth 1928-09-12
 death 1989-07-25
 burial Mount Olivet Cemetery @ US/TX/Fort Worth
+
+---
+
+!citation findagrave.com @ 2020-04-13
+!url https://www.findagrave.com/memorial/8127137
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-13
+ 
+#0067 Carter, Robert Glynn [Bob]
+sameas findagrave:8127137
+birth 1932-07-01
+death 2003-07-17
+military US Army @ Korean War
+burial Greenoaks Memorial Park @ US/LA/Baton Rouge
+

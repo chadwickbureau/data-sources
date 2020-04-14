@@ -1831,3 +1831,95 @@ birth 1927-09-23
 death 2020-04-08 @ US/TN/Rockford
 burial Cedar Grove Baptist Church Cemetery @ US/TN/Maryville
 
+---
+
+!citation Kutis Funeral Homes @ 2020-04-12
+!url https://www.kutisfuneralhomes.com/zabel-leslie-v-les-2/
+!file Zabel_Les.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-12
+
+#202004_146 Zabel, Leslie V. [Les]
+death 2020-04-06
+highschool Mount Olive HS @ US/IL/Mount Olive
+college St. Louis University
+military US Coast Guard @ World War II
+note Minor league umpire
+
+---
+
+!citation Irwin Chapel @ 2020-04-12
+!url https://www.irwinchapel.com/obituaries/Richard-Elmer-Branding?obId=3023597#/obituaryInfo
+!file Branding_Richard.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-12
+
+#202004_147 Branding, Richard Elmer
+birth 1930-02-01 @ US/IL/Granite City
+death 2018-03-17 @ US/IL/Granite City
+highschool Granite City HS @ US/IL/Granite City
+college Elmhurst College
+burial Sunset Hill Cemetery @ US/IL/Glen Carbon
+
+---
+
+!citation Opyt Funeral Home @ 2020-04-12
+!url https://www.opytfh.com/notices/EdwardJ-Jania
+!file Jania_Edward.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-12
+
+#202004_148 Jania, Edward J.
+birth 1926-05-01
+death 2018-03-15
+military US Army @ World War II
+
+---
+
+!citation Valley Breeze @ 2020-04-11
+!url https://www.valleybreeze.com/2020-04-11/woonsocket-north-smithfield/richard-j-dick-desrosiers-woonsocket#.XpRmJMhKhPZ
+!file Desrosiers_Dick.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-13
+
+#202004_149 Desrosiers, Richard J. [Dick]
+birth @ US/RI/Woonsocket
+death 2020-04-06 @ US/RI/Woonsocket
+highschool Woonsocket HS @ US/RI/Woonsocket
+
+---
+
+!citation Jimerson-Lipsey Funeral Home @ 2020-04-13
+!url https://www.jimerson-lipsey.com/obituary/chester-studdard
+!file Studdard_Chester.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-13
+
+#202004_150 Studdard, Chester Ward
+birth 1925-08-04 @ US/TX/De Berry
+death 2020-04-07 @ US/TX/Gilmer
+highschool Carthage HS @ US/TX/Carthage
+military US Navy @ World War II
+burial Mount Zion Cemetery @ US/TX/De Berry
+
+---
+
+!citation DeJohn Funeral Homes @ 2020-04-13
+!url https://www.dejohnfuneral.com/michael-r-costantino/
+!file Costantino_Mike.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-13
+
+#202004_151 Costantino, Michael R. [Mike]
+birth 1931-10-23 @ US/PA/NuMine
+death 2020-04-05
+highschool East HS @ US/OH/Cleveland
+military US Army @ Korean War
+burial Ohio Western Reserve National Cemetery @ US/OH/Seville
+
+---
+
+!citation Monroe News-Star @ 2003-07-19
+!file Carter_Robert.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-13
+
+#202004_152 Carter, Robert Glynn
+death 2003-07-17 @ US/LA/Baton Rouge
+military US Army
+burial Greenoaks Memorial Park @ US/LA/Baton Rouge
+
+
