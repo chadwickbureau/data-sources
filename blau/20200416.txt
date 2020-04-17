@@ -1,0 +1,74 @@
+!citation Warren (MN) Sheaf @ 1915-09-08; page 1
+
+#20200417_001 Wingfield, Archie
+player 1915 Duluth (Northern)
+
+---
+
+!citation St. Joseph News-Press @ 1915-07-15; page 6
+
+#20200417_002 Patterson, Bill
+player 1915 Fargo-Moorhead (Northern)
+obtained <1915-07-15; join=Fargo-Moorhead (Northern); leave=St. Joseph (Western)
+brother of Patterson, Ham
+notes broke leg
+
+---
+
+!citation Valley City (ND) Weekly Times-Record @ 1915-07-29; page 4
+
+#20200417_003 Wallace
+player 1915 Fargo-Moorhead (Northern); TL
+
+---
+
+!citation Winnipeg Tribune @ 1915-07-06; page 10
+
+#20200417_004 Bartoff
+player 1915 Fargo-Moorhead (Northern)
+obtained <=1915-07-06; join=Duluth (Northern); leave=Fargo-Moorhead (Northern)
+
+
+---
+
+!citation Saskatoon Star-Phoenix @ 1916-05-15; page 5
+
+#20200417_005 Bartoff
+player 1916 Duluth (Northern); @P
+
+---
+
+!citation Eau Claire @ 1915-08-27; page 2
+
+#20200417_006 Johnson, Arthur
+player 1915 Virginia (Northern)
+
+---
+
+!citation Sioux City Journal @ 1900-08-12
+
+#20200417_007 Gilliam, Frank
+player 1900 Sioux City (Western); TL
+
+---
+
+!citation Grand Forks Daily Herald @ 1915-04-28; page 6
+
+#20200417_008 Needham, Frank
+player 1915 Virginia (Northern); TL
+resides 1915 @ US/MN/St. Paul
+
+---
+
+!citation St. Louis Republican @ 1901-03-14
+
+#20200417_009 Swaers, Bert
+player 1901 Lebanon (Independent); TL
+
+
+---
+
+!citation Duluth Herald @ 1915-06-29; page 12
+
+#20200417_010 McGraw, Mickey
+player 1915 Duluth (Northern)

@@ -823,3 +823,15 @@ death 2003-07-17
 military US Army @ Korean War
 burial Greenoaks Memorial Park @ US/LA/Baton Rouge
 
+---
+
+!citation findagrave.com @ 2020-04-14
+!url https://www.findagrave.com/memorial/20623367
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-14
+ 
+#profile Stacey, Joe Emerson
+sameas findagrave:20623367
+birth 1921-08-26 @ US/MO/Bois d'Arc
+death 2007-07-23
+military US Army @ World War II
+burial Hazelwood Cemetery @ US/MO/Springfield

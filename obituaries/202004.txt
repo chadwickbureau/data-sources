@@ -1922,4 +1922,157 @@ death 2003-07-17 @ US/LA/Baton Rouge
 military US Army
 burial Greenoaks Memorial Park @ US/LA/Baton Rouge
 
+---
+
+!citation McComb & Sons Funeral Homes @ 2020-04-14
+!url https://www.dignitymemorial.com/obituaries/fort-wayne-in/james-thomas-9123680
+!file Thomas_Jim.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-14
+
+#202004_153 Thomas, James Otis, Jr. [Jim]
+birth 1931-02-01 @ US/IN/Richmond
+death 2020-04-09 @ US/IN/Fort Wayne
+highschool Richmond HS @ US/IN/Richmond
+military US Army
+burial Greenlawn Memorial Park @ US/IN/Fort Wayne
+
+---
+
+!citation Merit Memorial Funeral Home @ 2020-04-15
+!url https://meritm.funeraltechweb.com/tribute/details/732/Ollie-Brantley/obituary.html
+!file Brantley_Ollie.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-15
+
+#202004_154 Brantley, Ollie
+birth 1931-09-16 @ US/AR/Phillips County
+death 2020-04-05 @ US/TX/Dallas
+
+---
+
+!citation Daily Voice @ 2020-04-13
+!url https://dailyvoice.com/new-york/whiteplains/obituaries/legendary-iona-prep-baseball-coach-fred-gallo-former-professional-player-dies-of-covid-19/786485/
+!file Gallo_Fred.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-15
+
+#202004_155 Gallo, Fred
+death 2020-04-10
+college Iona College
+
+---
+
+!citation Gentry Funeral Service @ 2020-04-15
+!url https://www.gentryfamilyfuneralservices.com/obituary/franklin-robinson
+!file Robinson_Franklin.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-15
+
+#202004_156 Robinson, Franklin Leon
+birth 1925-08-22 @ US/NC/Huntsville
+death 2020-04-14 @ US/NC/Clemmons
+highschool Courtney HS @ US/NC/Yadkinville
+college University of North Carolina at Chapel Hill
+military US Marines @ World War II
+
+---
+
+!citation Hansen-Lendman Funeral Home @ 2020-04-15
+!url https://www.hansen-lendmanfuneralhome.com/obituary/harold-hal-cruthers
+!file Cruthers_Hal.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-15
+
+#202004_157 Cruthers, Harold [Hal]
+birth 1917-09-20 @ US/TN/Memphis
+death 2020-04-03 @ US/VA/Chesapeake
+highschool Kenosha HS @ US/WI/Kenosha
+burial Sunset Ridge Memorial Park @ US/WI/Kenosha
+
+---
+
+!citation Florida Times-Union @ 2020-04-15
+!url https://www.legacy.com/obituaries/timesunion/obituary.aspx?n=james-gottfried-frey&pid=195980554
+!file Frey_Jim.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-16
+
+#202004_158 Frey, James Gottfried [Jim]
+birth 1931-05-26 @ US/OH/Cleveland
+death 2020-04-12 @ US/FL/Ponte Vedra
+
+---
+
+!citation Englewood Community Funeral Home @ 2020-04-15
+!url https://www.englewoodfh.com/obituaries/Glenn-Beckert/#!/Obituary
+!file Beckert_Glenn.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-15
+
+#202004_159 Beckert, Glenn A. 
+birth 1940-10-12 @ US/PA/Pittsburgh
+death 2020-04-12 
+college Allegheny College
+
+---
+
+!citation Wetzler Funeral Home @ 2020-04-15
+!url https://wetzlerfuneralhome.com/book-of-memories/3435216/Petuck-John/obituary.php
+!file Petuck_Jack.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-15
+
+#202004_160 Petuck, John [Jack]
+birth 1927-11-20 
+death 2018-02-23 @ US/NY/New York
+highschool Osceola Mills HS @ US/PA/Osceola Mills 
+college Lock Haven University
+military US Army @ Korean War
+burial Schencks Cemetery @ US/PA/Howard
+
+---
+
+!citation Bulman Family Funeral Homes @ 2020-04-15
+!url http://www.griffithmortuary.com/memsol.cgi?user_id=2072795
+!file Padilla_Hank.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-15
+
+#202004_161 Padilla, Henry Miranda [Hank] "Chacho"
+birth 1937-06-10
+death 2018-02-14
+highschool Hayden HS @ US/AZ/Winkelman
+burial Mountain View Cemetery @ US/AZ/Winkelman
+
+---
+
+!citation Nolan Funeral Home @ 2020-04-15
+!url https://nolanfh.com/tribute/details/1960/Frank-Rupp/obituary.html#tribute-start
+!file Rupp_Frank.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-15
+
+#202004_162 Rupp, Frank B.
+birth 1928-02-12 @ US/NY/Queens
+death 2018-02-02
+highschool HS of Music & Art @ US/NY/New York
+military US Navy
+burial St. Philip Neri Cemetery @ US/NY/East Northport
+
+---
+
+!citation Wheeler & Woodlief Funeral Home  @ 2020-04-15
+!url https://www.wheeler-woodlief.com/obituary/william-bill-cromwell-barbee-sr/
+!file Barbee_Bill.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-15
+
+#202004_163 Barbee, William Cromwell, Sr. [Bill]
+birth 1926-02-04 @ US/NC/Lee County
+death 2018-02-20
+highschool Spring Hope HS @ US/NC/Spring Hope
+military US Navy @ World War II
+burial Rocky Mount Memorial Park @ US/NC/Rocky Mount
+
+---
+
+!citation Cabot & Sons Funeral Home @ 2020-04-15
+!url https://www.cabotandsonsfh.com/obituaries/Ronald--Scott-Sinnette?obId=3130338#/obituaryInfo
+!file Sinnette_Ronnie.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-15
+
+#202004_164 Sinnette, Ronald Scott [Ronnie]
+birth 1940-02-20
+death 2018-02-16
+burial Mountain View Cemetery and Mausoleum @ US/CA/Altadena
 
