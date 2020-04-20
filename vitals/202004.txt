@@ -115,4 +115,74 @@ death 1966-01
 #202004_011 Downing, Elton Leo
 birth 1925-10-29 @ US/TX/Amarillo
 
+---
+
+!citation World War II Registration Card @ 2019-10-03
+!file Query_Wray_WWII_card.jpg
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-03
+
+#202004_012 Query, Wray Huffines
+birth 1893-09-02 @ US/TX/Ennis
+
+---
+
+!citation World War I Registration Card @ 1917
+!file Brannon_Frank_WWI_Draft_Registration.jpg
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-05-29
+
+#202004_013 Brannon, Frank Raymond
+birth 1888-08-20 @ US/PA/Plains
+player 1917 Scranton (New York State)
+resides 1917 @ US/PA/Wilkes-Barre
+
+---
+
+!citation World War II registration card
+!file Roth_Vincent_WWIIRC.jpg
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-02-26
+ 
+#202004_014 Roth, Vincent Thomas
+birth 1892-01-18 @ US/OH/Cleveland
+
+---
+
+!citation WWII Draft Registration Card
+!file Champlin_Harry_WWIIRC.jpg
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-02-26
+ 
+#202004_015 Champlin, Harry Joseph
+birth 1892-08-24 @ US/OH/Elmwood Place
+
+---
+
+!citation SSACI
+!file Champlin_Harry_SSAIC.png
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-02-26
+ 
+#202004_016 Champlin, Harry J.
+sameas ssn:289-09-0122
+birth 1891-08-24 @ US/OH/Elmwood Place
+death 1949-09-11
+
+---
+
+!citation Social Security Applications and Claims Index @ 2019-12-10
+!file Vesely_Edwin_2.jpg
+!contributor Jack Morris <jackmo77@comcast.net> @ 2019-12-10
+
+#202004_017 Vesely, Edwin John
+sameas ssn:350-20-5231
+birth 1927-09-23 @ US/IL/Chicago
+death 2001-02-26
+
+---
+
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-18
+ 
+#202004_018 Boerner, George Albert, Jr.
+sameas ssn:701-18-9719
+birth 1917-01-12 @ US/MN/St. Paul
+death 2005-04-30
+
 

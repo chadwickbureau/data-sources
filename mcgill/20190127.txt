@@ -1,0 +1,1203 @@
+!citation The Indianapolis Star @ 1906-08-05; page 9
+
+#20190127_001 Chill, Ollie
+umpire 1906 Kentucky-Illinois-Tennessee League
+alias Ryan, Jack; dates=1906/1906; type=alias
+
+---
+
+!citation The Indianapolis News @ 1907-02-08; page 16
+
+#20190127_002 Chill, Ollie
+umpire 1907 Central League
+resides 1907 @ US/IN/Indianapolis
+
+---
+
+!citation Freeport Journal-Standard @ 1908-06-10; page 6
+
+#20190127_003 Stafford, John
+umpire 1908 Eastern League
+
+#20190127_004 Sullivan, W. J.
+umpire 1908 Eastern League
+
+#20190127_005 Kelly, Thomas B.
+umpire 1908 Eastern League
+
+#20190127_006 Conway, J. H.
+umpire 1908 Eastern League
+
+#20190127_007 Moran, August
+umpire 1908 Eastern League
+
+#20190127_008 Hayes, Gerald
+umpire 1908 American Association
+
+#20190127_009 List, William
+umpire 1908 American Association
+
+#20190127_010 Kerins, John
+umpire 1908 American Association
+
+#20190127_011 Bierhalter, W.
+umpire 1908 American Association
+
+#20190127_012 Kane, Stephen
+umpire 1908 American Association
+
+#20190127_013 Owens, Clarence
+umpire 1908 American Association
+
+#20190127_014 Carpenter, W. B.
+umpire 1908 Southern Association
+
+#20190127_015 O'Brien, J. J.
+umpire 1908 Southern Association
+
+#20190127_016 Pfenninger, Dan
+umpire 1908 Southern Association
+
+#20190127_017 Fitzsimmons, D. K.
+umpire 1908 Southern Association
+
+#20190127_018 Connors, William
+umpire 1908 Tri-State League
+
+#20190127_019 Finneran, James
+umpire 1908 Tri-State League
+
+#20190127_020 Hannon, James
+umpire 1908 Tri-State League
+
+#20190127_021 Walker, Thomas
+umpire 1908 Tri-State League
+
+#20190127_022 Kennedy, Charles
+umpire 1908 Connecticut State League
+
+#20190127_023 Rorty, R.
+umpire 1908 Connecticut State League
+
+#20190127_024 McCloud, H. K.
+umpire 1908 Connecticut State League
+
+#20190127_025 Wilkinson, John
+umpire 1908 Connecticut State League
+
+#20190127_026 Cusack, William
+umpire 1908 New York State League
+
+#20190127_027 Brady, James
+umpire 1908 New York State League
+
+#20190127_028 Hoffer, William
+umpire 1908 New York State League
+
+#20190127_029 Peffer, B.
+umpire 1908 New York State League
+
+#20190127_030 Steckdale, M. J.
+umpire 1908 New England League
+
+#20190127_031 Murphy, Edward J.
+umpire 1908 New England League
+
+#20190127_032 O'Brien, Michael
+umpire 1908 New England League
+
+#20190127_033 Connolly, Frank
+umpire 1908 New England League
+
+#20190127_034 O'Brien, Joseph
+umpire 1908 New England League
+
+#20190127_035 Mace, Harry
+umpire 1908 Virginia League
+
+#20190127_036 Westerveldt, Fred
+umpire 1908 Virginia League
+
+#20190127_037 Bryan, William
+umpire 1908 Virginia League
+
+#20190127_038 Killen, Frank
+umpire 1908 Central League
+
+#20190127_039 McKenzie, John
+umpire 1908 Central League
+
+#20190127_040 Chill, Ollie
+umpire 1908 Central League
+
+#20190127_041 Connolly, John
+umpire 1908 Central League
+
+#20190127_042 Wesson, Charles
+umpire 1908 Central League
+
+#20190127_043 Walsh, John
+umpire 1908 Illinois-Indiana-Iowa League
+
+#20190127_044 Setley, William
+umpire 1908 Illinois-Indiana-Iowa League
+
+#20190127_045 McGreery, Eugene
+umpire 1908 Illinois-Indiana-Iowa League
+
+#20190127_046 Danihy, Maurice
+umpire 1908 Illinois-Indiana-Iowa League
+
+#20190127_047 Bannon, William
+umpire 1908 Ohio-Pennsylvania League
+
+#20190127_048 Hardy, Frank
+umpire 1908 Ohio-Pennsylvania League
+
+#20190127_049 Weddigs, Al
+umpire 1908 Ohio-Pennsylvania League
+
+#20190127_050 Pastorius, H.
+umpire 1908 Ohio-Pennsylvania League
+
+#20190127_051 Handiboe, T. S.
+umpire 1908 Ohio State League
+
+#20190127_052 Sheldon, O. T.
+umpire 1908 Ohio State League
+
+#20190127_053 Hart, Robert
+umpire 1908 Ohio State League
+
+#20190127_054 Milligan, F. J.
+umpire 1908 Ohio State League
+
+#20190127_055 Buckley, W. J.
+umpire 1908 South Atlantic League
+
+#20190127_056 Finley, W.
+umpire 1908 South Atlantic League
+
+#20190127_057 Lanigan, J. W.
+umpire 1908 South Atlantic League
+
+#20190127_058 Haskell, J.
+umpire 1908 Western League
+
+#20190127_059 Brennan, W.
+umpire 1908 Western League
+
+#20190127_060 Davis, Ira
+umpire 1908 Western League
+
+#20190127_061 Hall, Lewis C.
+umpire 1908 Cotton States League
+
+#20190127_062 Banimert, J. J.
+umpire 1908 Cotton States League
+
+#20190127_063 Larocque, Sam
+umpire 1908 Cotton States League
+
+#20190127_064 Spencer, Wirt
+umpire 1908 Texas League
+
+#20190127_065 Severs, W. H.
+umpire 1908 Texas League
+
+#20190127_066 Ghio, Chris
+umpire 1908 Texas League
+
+#20190127_067 Barrett, Frank
+umpire 1908 Texas League
+
+#20190127_068 Burke, Joseph
+umpire 1908 Western Association
+
+#20190127_069 Pokorney, Edward
+umpire 1908 Western Association
+
+#20190127_070 Shuster, P.
+umpire 1908 Western Association
+
+#20190127_071 Alloway, C.
+umpire 1908 Western Association
+
+#20190127_072 Finnie, A.
+umpire 1908 Western Association
+
+#20190127_073 Hoffman, H.
+umpire 1908 Western Association
+
+#20190127_074 Flynn, John
+umpire 1908 Wisconsin-Illinois League
+
+#20190127_075 Miller, John
+umpire 1908 Wisconsin-Illinois League
+
+#20190127_076 Killen, S. J.
+umpire 1908 Wisconsin-Illinois League
+
+#20190127_077 Miller, Joseph
+umpire 1908 Wisconsin-Illinois League
+
+---
+
+!citation The Cincinnati Enquirer @ 1909-04-25; page 37
+
+#20190127_078 Carson, F. R.
+executive 1909 Central League; title=President
+resides 1909 @ US/IN/South Bend
+
+#20190127_079 Schnelle, R. A.
+executive 1909 Central League; title=President
+
+#20190127_080 Perkins, Ben
+executive 1909 Central League; title=Vice President
+resides 1909 @ US/WV/Wheeling
+
+#20190127_081 Annis, Bert
+executive 1909 Central League; title=Director
+resides 1909 @ US/IN/South Bend
+
+#20190127_082 Brotherton, C. F.
+executive 1909 Central League; title=Director
+resides 1909 @ US/MI/Grand Rapids
+
+#20190127_083 Varnell, C. S.
+executive 1909 Central League; title=Director
+resides 1909 @ US/IN/Fort Wayne
+
+#20190127_084 Smith, L. D.
+executive 1909 Central League; title=Director
+resides 1909 @ US/IN/Terre Haute
+
+#20190127_085 Shahlhefer, Harry
+executive 1909 Central League; title=Director
+resides 1909 @ US/IN/Evansville
+
+#20190127_086 Wold, Joseph
+executive 1909 Central League; title=Director
+resides 1909 @ US/OH/Dayton
+
+#20190127_087 Kimball, C. S.
+executive 1909 Central League; title=Director
+resides 1909 @ US/OH/Zanesville
+
+#20190127_088 Irwin, W. W.
+executive 1909 Central League; title=Director
+resides 1909 @ US/WV/Wheeling
+
+#20190127_089 Grant, A. A.
+manager 1909 South Bend (Central)
+
+#20190127_090 Hendricks, John G.
+manager 1909 Fort Wayne (Central)
+
+#20190127_091 Raidy, Joseph
+manager 1909 Grand Rapids (Central)
+
+#20190127_092 Groeschow, George
+manager 1909 Terre Haute (Central)
+
+#20190127_093 Knoll, Charles
+manager 1909 Evansville (Central)
+
+#20190127_094 Myers, Bade
+manager 1909 Dayton (Central)
+
+#20190127_095 Montgomery, Roy
+manager 1909 Zanesville (Central)
+
+#20190127_096 Phillips, William
+manager 1909 Wheeling (Central)
+
+#20190127_097 Chill, Ollie
+umpire 1909 Central League
+resides 1909 @ US/IN/Indianapolis
+
+#20190127_098 Killen, Ed
+umpire 1909 Central League
+resides 1909 @ US/PA/Pittsburgh
+
+#20190127_099 Jacobs, Michael
+umpire 1909 Central League
+resides 1909 @ US/IN/Princeton
+
+#20190127_100 Gardner, O. G.
+umpire 1909 Central League
+resides 1909 @ US/IL/Chicago
+
+---
+
+!citation Pittsburg Daily Post @ 1910-04-13; page 9
+
+#20190127_101 Guthrie, W. J.
+umpire 1910 American Association
+
+#20190127_102 Van Syckle
+umpire 1910 American Association
+
+#20190127_103 Bierhalter, William
+umpire 1910 American Association
+
+#20190127_104 Cusack, S. P.
+umpire 1910 American Association
+
+#20190127_105 Owens, C. B.
+umpire 1910 American Association
+
+#20190127_106 Ferguson, C.
+umpire 1910 American Association
+
+#20190127_107 Hays, G.
+umpire 1910 American Association
+
+#20190127_108 Chill, Ollie
+umpire 1910 American Association
+
+---
+
+!citation Evansville Press @ 1911-03-01; page 6
+
+#20190127_109 Eddinger, J. W.
+umpire 1911 American Association
+
+#20190127_110 Handiboe, E. S.
+umpire 1911 American Association; age 30
+
+#20190127_111 Owens, Clarence B.
+umpire 1911 American Association
+
+#20190127_112 Chill, Ollie
+umpire 1911 American Association
+
+#20190127_113 Bierhalter, William
+umpire 1911 American Association
+
+#20190127_114 Ferguson, Charles
+umpire 1911 American Association
+
+#20190127_115 Weddidge, Al
+umpire 1911 American Association
+
+---
+
+!citation The Billings Gazette @ 1912-02-18; page 4
+
+#20190127_116 Ferguson, Charles
+umpire 1911 American Association
+
+#20190127_117 Chill, Ollie
+umpire 1911 American Association
+
+#20190127_118 Bierhalter, William
+umpire 1911 American Association
+
+#20190127_119 Handiboo, E. S.
+umpire 1911 American Association
+
+#20190127_120 Hayes, Gerald
+umpire 1911 American Association
+
+#20190127_121 Connelly, F. R.
+umpire 1911 American Association
+
+#20190127_122 Irwin, Charles
+umpire 1911 American Association
+
+#20190127_123 Anderson, Ollie
+umpire 1911 American Association
+
+---
+
+!citation The Akron Beacon Journal @ 1913-02-07; page 16
+
+#20190127_124 Chill, Ollie
+umpire 1913 American Association
+resides 1913 @ US/IN/Indianapolis
+
+#20190127_125 Johnstone, J. E.
+umpire 1913 American Association
+resides 1913 @ US/NJ/Irvington
+
+#20190127_126 Murray, J. M.
+umpire 1913 American Association
+resides 1913 @ US/PA/Chester
+
+#20190127_127 Westervelt, Fred
+umpire 1913 American Association
+resides 1913 @ US/VA/Richmond
+
+#20190127_128 O'Brien, Joseph
+umpire 1913 American Association
+resides 1913 @ US/NY/Troy
+
+#20190127_129 Erwin, C. E.
+umpire 1913 American Association
+resides 1913 @ US/IL/Chicago
+
+#20190127_130 Connolly, F. R.
+umpire 1913 American Association
+resides 1913 @ US/MA/Boston
+
+#20190127_131 Handiboe, E. S.
+umpire 1913 American Association
+resides 1913 @ US/DC/Washington
+
+---
+
+!citation Pittsburgh Dispatch @ 1889-05-05; page 6
+
+#20190127_132 Craig, Hugh
+player 1889 Atlanta (Southern)
+
+#20190127_133 Sterling, Robert
+player 1889 Atlanta (Southern)
+
+---
+
+!citation The Asheville Citizen-Times @ 1897-05-10; page 1
+
+
+#20190127_134 Craig, Hugh
+umpire 1897 Southeastern League
+resides 1897 @ US/GA/Atlanta
+
+#20190127_135 Quillan, Robert
+umpire 1897 Southeastern League
+resides 1897 @ US/GA/Harmony Grove
+player <=1896 Atlanta (Southern Association)
+
+---
+
+!citation The Fort Wayne Sentinel @ 1900-06-21; page 6
+
+#20190127_136 Criss, Harry
+umpire 1900 Interstate League
+resides 1900 @ US/OH/Toledo
+
+---
+
+!citation The Dayton Herald @ 1900-07-03; page 6
+
+#20190127_137 Cook, Fred
+umpire 1900 Interstate League
+
+---
+
+!citation The Oshkosh Northwestern @ 1910-04-05; page 7
+
+#20190127_138 Eldridge, C. E
+umpire 1910 Wisconsin-Illinois League
+umpire <=1909 Southern Michigan League
+
+#20190127_139 Daly, Con
+umpire 1910 Wisconsin-Illinois League
+
+#20190127_140 Pollock, Jack
+umpire 1910 Wisconsin-Illinois League
+umpire <=1909 Central Association League
+
+#20190127_141 Wright, Pat
+umpire 1910 Wisconsin-Illinois League
+umpire <=1909 Central League
+
+#20190127_142 Feye, George
+umpire 1910 Wisconsin-Illinois League
+umpire <=1909 Carolina Association
+
+---
+
+!citation Green Bay Press-Gazette @ 1910-04-11; page 7
+
+#20190127_143 Daly, Con
+umpire 1909 Wisconsin-Illinois League
+umpire 1910 Wisconsin-Illinois League
+
+#20190127_144 Wright, Pat
+player 1891 Green Bay (Wisconsin State)
+umpire 1910 Wisconsin-Illinois League
+
+---
+
+!citation The Davenport Democrat and Leader @ 1910-06-19; page 13
+
+#20190127_145 Daly, Con
+umpire 1910 Illinois-Indiana-Iowa League
+umpire 1910 Wisconsin-Illinois League
+
+---
+
+!citation The Rock Island Argus @ 1910-06-21; page 3
+
+#20190127_146 Bannon, James
+umpire 1910 Illinois-Indiana-Iowa League
+
+---
+
+!citation Milone Daily Dispatch @ 1911-02-04; page 12
+
+#20190127_147 Cusack, Steve
+umpire 1911 Illinois-Indiana-Iowa League
+
+#20190127_148 Daly, Con
+umpire 1911 Illinois-Indiana-Iowa League
+
+
+---
+
+!citation The Bridgeport Evening Farmer @ 1914-08-17; page 8
+
+#20190127_149 Daly, Con
+umpire 1914 International League
+umpire 1914 Eastern Association League
+
+---
+
+!citation Dayton Daily News @ 1915-05-27; page 9
+
+#20190127_150 Peitz, Heine
+umpire 1915 Central League
+
+#20190127_151 Daly, Con
+umpire 1915 Central League
+
+---
+
+!citation The Indianapolis News @ 1916-04-26; page 14
+
+#20190127_152 Geisel, Harry
+umpire 1916 Central League
+
+#20190127_153 Greene, W. R.
+umpire 1916 Central League
+
+#20190127_154 Schuster, William
+umpire 1916 Central League
+
+#20190127_155 Daly, Con
+umpire 1916 Central League
+
+---
+
+!citation Dayton Daily News @ 1917-03-01; page 20
+
+#20190127_156 Daly, Con
+umpire 1917 Central League
+resides 1917 @ US/IL/Chicago
+
+#20190127_157 Holmes, [Ducky]
+umpire 1917 Central League
+resides 1917 @ US/OH/Dayton
+
+---
+
+!citation Dayton Daily News @ 1917-04-25; page 16
+
+#20190127_158 Slear, Bo
+umpire 1917 Central League
+
+---
+
+!citation Chicago Tribune @ 1917-07-13; page 11
+
+#20190127_159 Gaston, W. T.
+umpire 1917 Western League
+
+#20190127_160 McGilvray, William
+umpire 1917 Western League
+
+#20190127_161 Browne, Leo
+umpire 1917 New York State League
+umpire 1917 Western League
+
+#20190127_162 Daly, Con
+umpire 1917 Illinois-Indiana-Iowa League
+umpire 1917 Western League
+
+---
+
+!citation Moline Daily Dispatch @ 1918-04-11; page 8
+
+#20190127_163 Shannon, Spike
+umpire 1918 Western League
+resides 1918 @ US/MN/St. Paul
+
+#20190127_164 Mullen, Johnny
+umpire 1918 Western League
+resides 1918 @ US/PA/Pittsburg
+
+#20190127_165 Daly, Con
+umpire 1918 Western League
+resides 1918 @ US/IL/Chicago
+
+#20190127_166 Fitzpatrick, Matty
+umpire 1918 Western League
+resides 1918 @ US/IL/Chicago
+
+---
+
+!citation Pine Bluff Daily Graphic @ 1905-07-13; page 4
+
+#20190127_167 Dawkins, Lee
+umpire 1905 Cotton States League
+player 1904 Pine Bluff (Cotton States)
+resides 1905 @ US/MS/Vicksburg
+
+---
+
+!citation Vicksburg Evening Post @ 1907-05-01; page 3
+
+#20190127_168 Dawkins, Lee
+umpire 1907 Cotton States League
+
+---
+
+!citation The Salt Lake Herald @ 1905-07-23; page 5
+
+#20190127_169 Dodd, Ralph
+umpire 1905 Pacific National League
+umpire 1905 Northwestern League
+
+---
+
+!citation The Spokane Press @ 1906-05-29; page 1
+
+#20190127_170 Dodd, Ralph
+umpire 1906 Northwestern League
+
+---
+
+!citation The Salt Lake Herald @ 1907-04-24; page 8
+
+#20190127_171 Ward, [Piggy]
+umpire 1907 Northwestern League
+
+#20190127_172 Dodd, Ralph
+umpire 1907 Northwestern League
+
+---
+
+!citation The Rock Island Argus @ 1910-05-09; page 3
+
+#20190127_173 Donovan, Fred
+player 1909 Springfield (Illinois-Indiana-Iowa)
+umpire 1910 Northern Association
+
+---
+
+!citation The Journal Times @ 1911-07-14; page 8
+
+#20190127_174 Donovan, Fred
+manager 1911 Champaign-Urbana (Illinois-Missouri)
+
+#20190127_175 Thiery, John
+manager 1911 Champaign-Urbana (Illinois-Missouri)
+
+---
+
+!citation The Daily Times @ 1912-05-07; page 13
+
+#20190127_176 Donovan, Fred
+manager 1911 Taylorville (Illinois-Missouri)
+manager 1911 Champaign-Urbana (Illinois-Missouri)
+manager 1912 Clinton (Illinois-Missouri)
+
+---
+
+!citation The Philadelphia Inquirer @ 1908-06-21; page 22
+
+#20190127_177 Dubbs, Fred
+manager 1908 Shamokin (Atlantic}
+
+---
+
+!citation The Allentown Leader @ 1909-07-08; page 6
+
+#20190127_178 Dubbs, Frank W.
+manager 1909 Shamokin (Atlantic)
+
+#20190127_179 Robertson, James
+manager 1909 Pottsville (Atlantic)
+
+#20190127_180 McGeehan, James
+manager 1909 Allentown (Atlantic)
+
+#20190127_181 Moore, Ezra
+manager 1909 Mount Carmel (Atlantic)
+
+#20190127_182 Burke, Frank
+manager 1909 Elizabeth (Atlantic)
+
+#20190127_183 Meiran, Jack
+manager 1909 Easton (Atlantic)
+
+#20190127_184 Golden, Thomas C.
+manager 1909 Reading (Atlantic)
+
+#20190127_185 Dupley, Jacob
+manager 1909 Sunbury (Atlantic)
+
+#20190127_186 Parker, C. B.
+executive 1909 Atlantic League; title=President
+
+#20190127_187 Dobbins, John W.
+executive 1909 Atlantic League; title=President
+
+#20190127_188 Boyle, Charles [Buck]
+umpire 1909 Atlantic League
+
+---
+
+!citation Arkansas Democrat @ 1908-06-30; page 7
+
+#20190127_189 Durand, Dan
+umpire 1908 Arkansas State League
+
+---
+
+!citation The Baltimore Sun @ 1911-08-06; page 14
+
+#20190127_190 Eckman, Edward
+umpire 1911 Illinois-Indiana-Iowa League
+umpire 1911 Virginia League
+
+#20190127_191 Conway, John
+umpire 1911 Illinois-Indiana-Iowa League
+umpire 1911 Virginia League
+
+---
+
+!citation Star-Gazett @ 1913-04-15; page 8
+
+#20190127_192 Johnson, George H.
+umpire 1913 New York State; age 27; H63 W160
+umpire 1910 Central Association
+umpire 1912 Wisconsin-Illinois League
+resides 1913 @ US/IL/Chicago
+
+#20190127_193 Eckman, Edward
+umpire 1913 New York State; age 42; H68 W190
+umpire <=1912 Western Association
+umpire <-1912 Central League
+umpire <=1912 America Association
+resides 1913 @ US/IL/Chicago
+
+---
+
+!citation Boston Globe @ 1915-04-11; page 18
+
+#20190127_194 Carpenter, William B.
+umpire 1915 International League
+umpire 1914 International League
+
+#20190127_195 Hart, Robert
+umpire 1915 International League
+umpire 1914 International League
+
+#20190127_196 Mullen, John
+umpire 1915 International League
+umpire 1914 International League
+
+#20190127_197 Harrison, Peter
+umpire 1915 International League
+umpire 1914 International League
+
+#20190127_198 Cleary, A. J.
+umpire 1915 International League
+
+#20190127_199 Eckman, Edward
+umpire 1915 International League
+umpire 1914 New York State League
+
+#20190127_200 Brown, Frank
+umpire 1915 International League
+umpire 1914 Illinois-Indiana-Iowa League
+
+#20190127_201 Freeman, [Buck]
+umpire 1915 International League
+umpire 1914 Tri-State League
+
+---
+
+!citation The Journal Times @ 1912-11-12; page 9
+
+#20190127_202 Breckenridge, C. S.
+player 1912 Racine (Wisconsin-Illinois)
+
+#20190127_203 Kench, Al
+player 1912 Racine (Wisconsin-Illinois)
+
+#20190127_204 Clark, Clayton
+player 1912 Racine (Wisconsin-Illinois)
+
+#20190127_205 Scanlon, Henry
+player 1912 Racine (Wisconsin-Illinois)
+
+#20190127_206 Mahoney, Lee
+player 1912 Racine (Wisconsin-Illinois)
+
+#20190127_207 Larkin, E. W.
+player 1912 Green Bay (Wisconsin-Illinois)
+
+#20190127_208 Love, Leo
+player 1912 Green Bay (Wisconsin-Illinois)
+
+#20190127_209 Coe, O. J.
+player 1912 Green Bay (Wisconsin-Illinois)
+
+#20190127_210 Bauman, Walter
+player 1912 Green Bay (Wisconsin-Illinois)
+
+#20190127_211 Bailles, Frank
+player 1912 Oshkosh (Wisconsin-Illinois)
+
+#20190127_212 Lind, C. H.
+player 1912 Oshkosh (Wisconsin-Illinois)
+
+#20190127_213 Sheffield, James
+player 1912 Oshkosh (Wisconsin-Illinois)
+
+#20190127_214 Klein, Edward
+player 1912 Oshkosh (Wisconsin-Illinois)
+
+#20190127_215 Miller, Carl V.
+player 1912 Appleton (Wisconsin-Illinois)
+
+#20190127_216 Cosgrove, Eugene
+player 1912 Appleton (Wisconsin-Illinois)
+
+#20190127_217 Berger, Ray
+player 1912 Appleton (Wisconsin-Illinois)
+
+#20190127_218 Brunner, Allen G.
+player 1912 Appleton (Wisconsin-Illinois)
+
+#20190127_219 Fay, John J.
+player 1912 Appleton (Wisconsin-Illinois)
+
+#20190127_220 Burgwald, Tony
+player 1912 Appleton (Wisconsin-Illinois)
+
+#20190127_221 Ulrich, Frank
+player 1912 Appleton (Wisconsin-Illinois)
+
+#20190127_222 McKee, Harry
+player 1912 Aurora (Wisconsin-Illinois)
+
+#20190127_223 Chase, Earl
+player 1912 Aurora (Wisconsin-Illinois)
+
+#20190127_224 O'Leary, George
+player 1912 Aurora (Wisconsin-Illinois)
+
+#20190127_225 Long, James
+player 1912 Aurora (Wisconsin-Illinois)
+
+#20190127_226 Backoff, A. C.
+player 1912 Aurora (Wisconsin-Illinois)
+
+#20190127_227 Breyette, Mike
+player 1912 Madison (Wisconsin-Illinois)
+
+#20190127_228 Grell, Walter
+player 1912 Madison (Wisconsin-Illinois)
+
+#20190127_229 Nelson, H.
+player 1912 Rockford (Wisconsin-Illinois)
+
+#20190127_230 Nebinger, D.
+player 1912 Rockford (Wisconsin-Illinois)
+
+#20190127_231 Harrison, Jimmie
+player 1912 Rockford (Wisconsin-Illinois)
+
+#20190127_232 Wilkinson, Harry
+player 1912 Rockford (Wisconsin-Illinois)
+
+#20190127_233 Rapp, [Dutch]
+player 1912 Rockford (Wisconsin-Illinois)
+
+#20190127_234 Benton, Lynn D.
+player 1912 Wausau (Wisconsin-Illinois)
+
+#20190127_235 Rowley, Charles
+player 1912 Wausau (Wisconsin-Illinois)
+
+#20190127_236 Bailey, Russell
+player 1912 Wausau (Wisconsin-Illinois)
+
+#20190127_237 Brown, John
+player 1912 Wausau (Wisconsin-Illinois)
+
+#20190127_238 Bewer, Joe
+player 1912 Wausau (Wisconsin-Illinois)
+
+#20190127_239 Demmer, Walter
+player 1912 Wausau (Wisconsin-Illinois)
+
+---
+
+!citation The Evening Review @ 1911-01-23; page 6
+
+#20190127_240 Manning, Jack
+player 1911 Johnstown (Tri-State)
+
+#20190127_241 Goetell, Edward
+player 1911 Johnstown (Tri-State)
+
+---
+
+!citation The Indianapolis News @ 1913-10-18; page 10
+
+#20190127_242 Mathews, Frank
+player 1911 Evansville (Central)
+
+#20190127_243 Martin, Erwin
+player 1911 Dayton (Central)
+
+---
+
+!citation The Fort Wayne News @ 1896-09-27; page 2
+
+#20190127_244 Thurston, Earl
+player 1896 Wheeling (Interstate)
+
+---
+
+!citation News-Journal @ 1912-04-12; page 3
+
+#20190127_245 Abbott, [Doc]
+player 1912 Mansfield (Ohio State)
+player 1911 York (Tri-State)
+player 1910 York (Tri-State)
+player 1909 York (Tri-State)
+
+---
+
+!citation Palladium-Item @ 1908-03-29; page 2
+
+#20190127_246 Aresmith
+player 1908 Richmond (Ohio-Indiana); @P
+player 1907 (Eastern Illinois); @P
+resides 1908 @ US/IN/Terre Haute
+
+---
+
+!citation Winston-Salem Journal @ 1915-04-28; page 6
+
+#20190127_247 Bartell
+player 1915 Winston-Salem (North Carolina State); @P TR
+
+---
+
+!citation The Evening Review @ 1911-03-13; page 6
+
+#20190127_248 Simon, Ralph Roscoe
+player 1911 Youngstown (Ohio-Pennsylvania); age 21; W175 BR TR
+player 1910 Meadville; caliber=amateur
+resides 1911 @ US/PA/Clarks Mills
+
+#20190127_249 Gray, Cecil
+player 1911 Youngstown (Ohio-Pennsylvania); W210 TL BL
+player 1910 (Central)
+resides 1911 @ US/OH/Van Wert
+
+---
+
+!citation Press and Sun-Bulletin @ 1915-09-11; page 7
+
+#20190127_250 Becker
+player 1915 Binghamton (New York State)
+player <=1915 New London
+
+---
+
+!citation Press and Sun-Bulletin @ 1915-09-15; page 11
+
+#20190127_251 Becker
+player 1915 Binghamton (New York State)
+player 1915 New York (National)
+
+---
+
+!citation Durham Morning Herald @ 1914-06-19; page 2
+
+#20190127_252 Belanger, Jerry
+player 1914 Raleigh (North Carolina State)
+player 1914 Durham (North Carolina State)
+
+---
+
+!citation Greensboro Daily News @ 1916-08-04; page 8
+
+#20190127_253 Bergen, Bill
+player 1916 Greensboro (North Carolina State); @C
+resides 1916 @ US/MA/Worcester
+
+---
+
+!citation The Daiky Gate City @ 1915-08-08; page 6
+
+#20190127_254 Bierman
+player 1915 Keokuk (Central Association)
+player 1915 (Tri-State)
+
+---
+
+!citation The Ottawa Citizen @ 1912-05-01; page 4
+
+#20190127_255 Blake, Bill
+player 1912 Ottawa (Canadian)
+player 1911 (Ohio-Pennsylvania)
+resides 1912 @ US/MI/Saginaw
+
+---
+
+!citation The Ottawa Journal @ 1912-05-04; page 5
+
+#20190127_256 Blake
+player 1912 Ottawa (Canadian)
+player 1901 Toronto (Eastern)
+
+---
+
+!citation The Ottawa Citizen @ 1912-05-14; page 8
+
+#20190127_257 Kubat, Frank
+player 1912 Ottawa (Canadian); age 20; H68 W160 TL BL
+college Chicago University
+resides 1912 @ US/IL/Chicago
+
+#20190127_258 Draper, Harry
+player 1912 Ottawa (Canadian); age 20; BL TL H68
+player 1911 Roanaoke (Virginia)
+resides 1912 @ US/VA/Roanoke
+
+#20190127_259 Rowe, [Red]
+player 1912 Ottawa (Canadian); age 23; TR BR H68 W157
+player 1911 Albany (New York State)
+resides 1912 @ CA/ON/Burlington
+
+#20190127_260 Hopper, Von
+player 1912 Ottawa (Canadian); age 23; H69 W158
+player 1911 (West Virginia League)
+resides 1912 @ US/NY/Syracuse
+
+#20190127_261 Callaghan, Mike
+player 1912 Ottawa (Canadian); age 24; H72 W160 TR BS
+player 1911 Galesburg (Central Association)
+resides 1912 @ US/IL/Chicago
+
+#20190127_262 Weise, Ruddy
+player 1912 Ottawa (Canadian); age 23; TR BR H72 W165
+player 1911 Larned (Central Kansas)
+resides 1912 @ US/IL/Chicago
+
+#20190127_263 Burke, Frank
+player 1912 Ottawa (Canadian); age 26; TL BL
+resides 1912 @ US/OH/Toledo
+
+#20190127_264 Blake, Bill
+player 1912 Ottawa (Canadian); age 28; TR BS H69 W175
+player 1911 Canton (Ohio-Pennsylvania)
+
+#20190127_265 Robertson, Frank
+player 1912 Ottawa (Canadian); TR BS; age 21
+college Gerard University
+resides 1912 @ US/PA/Philadelphia
+
+#20190127_266 Champene, Gus
+player 1912 Ottawa (Canadian); age 19; H72 TL BL
+resides 1912 @ US/IL/Chicago
+
+---
+
+!citation Omaha Daily Bee @ 1915-07-16; page 5
+
+#20190127_267 Blanck
+player 1915 Omaha (Western)
+player 1915 Battle Creek (South Michigan)
+
+---
+
+!citation The Evening Review @ 1911-08-12; page 8
+
+#20190127_268 Blinke
+player 1911 East Liverpool (Ohio-Pennsylvania)
+player 1910 McKeesport (Ohio-Pennsylvania)
+player 1910 Wheeling (Central)
+resides 1911 @ US/OH/Canton
+
+---
+
+!citation News-Journal 1912-07-18; page 10
+
+#20190127_269 Blue, Bert
+player 1912 Mansfield (Ohio-Pennsylvania)
+
+---
+
+!citation The Topeka Daily Capital @ 1914-07-03; page 3
+
+#20190127_270 Bowen
+player 1914 Topeka (Western)
+player 1914 Americus (South Atlantic)
+
+---
+
+!citation Vicksburg Evening Post @ 1908-07-24; page 1
+
+#20190127_271 Boyd
+player 1908 Vicksburg (Cotton States)
+
+---
+
+!citation The Vicksburg Herald @ 1908-07-25; page 6
+
+#20190127_272 Boyd
+player 1908 Vicksburg (Cotton States)
+player <=1908 Memphis (Southern Association)
+
+---
+
+!citation The Vicksburg Herald @ 1908-08-01; page 6
+
+#20190127_273 Boyd, Graham
+player 1908 Vicksburg (Cotton States)
+player 1908 Richmond (Virginia)
+player 1905 Raton Rouge (Cotton States)
+
+---
+
+!citation Wausau Daily Herald @ 1912-05-18; page 4
+
+#20190127_274 Brenton
+player 1912 Wausau (Wisconsin-Illinois)
+player 1912 Danville (Illinois-Indiana-Iowa)
+player 1911 La Crosse (Minnesota-Wisconsin)
+
+---
+
+!citation Wisconsin State Journal @ 1912-07-23; page 10
+
+#20190127_275 Breyette
+player 1912 Madison (Wisconsin-Illinois)
+player 1912 Columbus (South Atlantic)
+
+---
+
+!citation The Post-Crescent @ 1912-02-12; page 8
+
+#20190127_276 Brunner, Allen G.
+player 1912 Appleton (Wisconsin-Illinois)
+
+---
+
+!citation Asheville Citizen-Times @ 1916-07-07; page 9
+
+#20190127_277 Busch, Heinie
+manager 1916 Raleigh (North Carolina State)
+player 1916 Raleigh (North Carolina State)
+manager 1916 Asheville (North Carolina State)

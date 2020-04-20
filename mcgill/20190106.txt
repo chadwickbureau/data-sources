@@ -1,0 +1,585 @@
+!citation The Daily Times @ 1909-05-07; page 8
+
+#20190106_001 Murphy, Joe
+executive 1907 Dubuque (Illinois-Indiana-Iowa); title=President
+executive 1908 Dubuque (Illinois-Indiana-Iowa); title=President
+executive 1909 Dubuque (Illinois-Indiana-Iowa); title=President
+note Resigned as Dubuque president 1909-05-06
+
+#20190106_002 Palen, Joe
+executive 1909 Dubuque (Illinois-Indiana-Iowa); title=President
+
+---
+
+!citation The Decatur Herald @ 1909-05-02; page 4
+
+#20190106_003 Moore, Fred
+player 1896 Hazelton (Pennsylvania State)
+player 1900 Montgomery (Southern Association)
+player 1901 Brewton (Interstate)
+player 1902 Philadelphia (National)
+player 1902 Monroe (Cotton States)
+player 1903 Monroe (Cotton States)
+player 1904 Monroe (Cotton States)
+player 1905 Birmingham (Southern Association)
+manager 1906 Temple (Texas)
+player 1907 Decatur (Illinois-Indiana-Iowa)
+player 1908 Decatur (Illinois-Indiana-Iowa)
+player 1909 Decatur (Illinois-Indiana-Iowa)
+manager 1909 Decatur (Illinois-Indiana-Iowa)
+
+---
+
+!citation The Davenport Democrat @ 1901-04-14; page 6
+
+#20190106_004 Stauffers, H.
+player 1900 Albany (New York State)
+player 1901 Davenport (Illinis-Indiana-Iowa)
+
+#20190106_005 Boyle, Frank
+player 1900 Rochester (Eastern)
+player 1901 Davenport (Illinois-Indiana-Iowa)
+
+#20190106_006 Carriveau, Frank
+player 1900 Elmira (New York State)
+player 1901 Davenport (Illinois-Indiana-Iowa)
+
+#20190106_007 Malone, A. W.
+player 1900 Statesville (North Carolina Association)
+player 1901 Davenport (Illinois-Indiana-Iowa)
+
+#20190106_008 Weihrauck, Harry
+player 1900 (Pennsylvania State)
+player 1901 Davenport (Illinois-Indiana-Iowa); @P TL
+
+#20190106_009 Trimkle, Ike
+player 1900 Montreal (Eastern)
+player 1901 Davenport (Illinois-Indiana-Iowa)
+
+#20190106_010 Conlon, James
+player <=1901 Sterling; location=US/IL; @C
+player 1901 Davenport (Illinis-Indiana-Iowa)
+
+#20190106_011 Fox, J. C.
+player 1900 North Adams (Massachusetts State)
+player 1901 Davenport (Illinois-Indiana-Iowa)
+
+#20190106_012 Thurston, N. F.
+player 1900 North Adams (Massachusetts State)
+player 1901 Davenport (Illinois-Indiana-Iowa)
+
+#20190106_013 Richardson, L. F.
+player 1900 Highland Park College
+player 1901 Davenport (Illinois-Indiana-Iowa)
+
+---
+
+!citation Corsicana Daily Sun @ 1926-04-24; page 12
+
+#20190106_014 Schmidt, Mike
+player 1926 Corsicana (Texas Association); age 28
+player 1925 Corsicana (Texas Association)
+player 1925 Tyler (East Texas)
+player 1924 Waco (Texas Association)
+player 1923 Waco (Texas Association)
+
+#20190106_015 Mizell, William
+player 1926 Corsicana (Texas Association)
+player 1925 Corsicana (Texas Association)
+
+#20190106_016 Wilson, Herb
+player 1926 Corsicana (Texas Association)
+player 1925 Muskogee (Texas Association)
+player 1924 Little Rock (Southern Association)
+player 1923 Dallas (Texas)
+
+#20190106_017 Cole, John
+player 1926 Corsicana (Texas Association)
+birth 1903
+resides 1926 @ US/TX/Streetman
+
+#20190106_018 Etheridge, William
+player 1926 Corsicana (Texas Association); BL
+player 1925 Corsicana (Texas Association)
+player 1924 Corsicana (Texas Association)
+player 1922 Abilene (West Texas)
+player 1921 Abilene (West Texas)
+birth 1898
+
+---
+
+!citation The Philipsburg Mail @ 1899-02-03; page 6
+
+#20190106_019 Power, Charles B.
+executive 1899 Interstate League; title=President
+executive 1898 Interstate League; title=President
+executive 1897 Interstate League; title=President
+birth 1859-06-08 @ US/PA/Johnstown
+player 1887 Eau Claire (Northwestern)
+player 1887 Oshkosh (Northwestern)
+umpire 1888 Western League
+umpire 1888 National League
+
+---
+
+!citation The Decatur Herald @ 1911-06-24; page 4
+
+#20190106_020 Callahan, Mike
+player 1911 Decatur (Illinois-Indiana-Iowa); age 21; H70 W160
+college St. Vincent's @ US/CA/Los Angeles
+
+---
+
+!citation The Charlotte Observer @ 1908-07-02; page 3
+
+#20190106_021 Rice, Leon L.
+executive 1908 Anderson (Carolina Association); title=President
+
+#20190106_022 Smith, Furman
+executive 1908 Anderson (Carolina Association); title=President
+
+#20190106_023 Woodward, Samuel D.
+player 1908 Anderson (Carolina Association)
+manager 1908 Anderson (Carolina Association)
+
+#20190106_024 Heins, E. D.
+manager 1908 Anderson (Carolina Association)
+
+#20190106_025 Wess, W. W.
+administrator 1908 Anderson (Carolina Association); title=Official Scorer
+
+#20190106_026 Rice, L. L.
+administrator 1908 Anderson (Carolina Association); title=Official Scorer
+
+---
+
+!citation The Evening Review @ 1908-07-23; page 6
+
+#20190106_027 Brittsen
+player 1908 Canton (Ohio-Pennsylvania); @P TL
+
+#20190106_028 Jones
+player 1908 Youngstown (Ohio-Pennsylvania); @P TL
+
+---
+
+!citation The Times-Democrat @ 1902-07-13; page 11
+
+#20190106_029 Wheatley, George
+executive 1902 Cotton States League; title=President
+resides 1902 @ US/MS/Greenville
+
+#20190106_030 Tlford
+executive 1902 Cotton States League; title=President
+
+---
+
+!citation The Charlotte News @ 1908-05-02; page 11
+
+#20190106_031 Washington, T. M.
+executive 1908 Eastern Carolina League; title=President
+resides 1908 @ US/NC/Wilson
+
+#20190106_032 Gattis, C. H.
+executive 1908 Eastern Carolina League; title=Secretary/Treasurer
+
+#20190106_033 Dunlap, L. V.
+umpire 1908 Eastern Carolina League
+resides 1908 @ US/NC/Raleigh
+
+#20190106_034 Henderson, John R.
+umpire 1908 Eastern Carolina League
+resides 1908 @ US/NC/Red Springs
+
+#20190106_035 Van Amane, J. R.
+umpire 1908 Eastern Carolina League
+
+---
+
+!citation The Fort Scott Daily Tribune and Monitor @ 1905-05-13; page 4
+
+#20190106_036 Herberling, George
+player 1905 Fort Scott (Missouri Valley); @C
+
+#20190106_037 Gill, Roy
+player 1905 Fort Scott (Missouri Valley); @P
+
+#20190106_038 Ruegge, Gus
+player 1905 Fort Scott (Missouri Valley); @P
+
+#20190106_039 Richardson, Walter
+player 1905 Fort Scott (Missouri Valley); @P
+
+#20190106_040 Campbell, Sullivan
+player 1905 Fort Scott (Missouri Valley); @P
+
+#20190106_041 Friederich, Otto
+player 1905 Fort Scott (Missouri Valley); @1B
+
+#20190106_042 Decker, Frank
+player 1905 Fort Scott (Missouri Valley); @2B
+
+#20190106_043 Horath, Tony
+player 1905 Fort Scott (Missouri Valley); @3B
+
+#20190106_044 Staton, William
+player 1905 Fort Scott (Missouri Valley); @SS
+
+#20190106_045 Roth, Walter
+player 1905 Fort Scott (Missouri Valley); @LF
+
+#20190106_046 Killilay, Ed
+player 1905 Fort Scott (Missouri Valley); @CF
+
+#20190106_047 Duncan, Fred
+player 1905 Fort Scott (Missouri Valley); @RF
+
+---
+
+!citation The Daily Times @ 1910-05-03; page 8
+
+#20190106_048 Tearney, Al R.
+executive 1910 Illinois-Indiana-Iowa; title=President
+
+---
+
+!citation The Daily Times @ 1911-05-02; page 8
+
+#20190106_049 Hayes, James T.
+executive 1911 Illinois-Indiana-Iowa; title=Vice President
+
+#20190106_050 Fairfield, Ed
+administrator 1911 Dubuque (Illinois-Indiana-Iowa); title=Official Scorer
+resides 1911 @ US/IA/Dubuque
+
+#20190106_051 Mulkern, Frank
+administrator 1911 Waterloo (Illinois-Indiana-Iowa); title=Official Scorer
+resides 1911 @ US/IA/Waterloo
+
+#20190106_052 O'Hern, Al F.
+administrator 1911 Davenport (Illinis-Indiana-Iowa); title=Official Scorer
+resides 1911 @ US/IA/Davenport
+
+#20190106_053 Lane, Dick R.
+executive 1911 Davenport (Illinois-Indiana-Iowa); title=President
+
+#20190106_054 Maynard, H. B.
+executive 1911 Waterloo (Illinois-Indiana-Iowa); title=President
+
+---
+
+!citation The Courier @ 1909-05-03; page 2
+
+#20190106_055 Schockler, C. M.
+umpire 1909 Central Association
+resides 1909 @ US/IA/Grinnell
+
+#20190106_056 Knowlton, E. B.
+umpire 1909 Central Association
+resides 1909 @ US/MA/Salem
+
+#20190106_057 Gleason, E. P.
+umpire 1909 Central Association
+umpire <=1908 Northwestern League
+resides 1909 @ US/OR/Portland
+
+#20190106_058 Fleming, E. E.
+umpire 1909 Central Association
+manager 1908 Ottumwa (Central Association)
+
+---
+
+!citation The Courier @ 1910-05-03; page 2
+
+#20190106_059 Kinsella, Dick
+executive 1910 Illinois-Indiana-Iowa; title=President
+resides 1910 @ US/IL/Springfield
+
+---
+
+!citation The Courier @ 1911-05-01; page 2
+
+#20190106_060 Fleming, E. E.
+umpire 1911 Central Association
+resides 1911 @ US/CO/Cheyenne
+
+#20190106_061 Mead, George A.
+umpire 1911 Central Association
+resides 1911 @ US/UT/Ogden
+
+#20190106_062 Nelson, T. G.
+umpire 1911 Central Association
+resides 1911 @ US/SD/Aberdeen
+
+#20190106_063 Core, C. G.
+umpire 1911 Central Association
+resides 1911 @ US/IA/Rolfe
+
+#20190106_064 Bennett, W. A.
+umpire 1911 Central Association
+resides 1911 @ US/KY/Elizabethtown
+
+---
+
+!citation The Rock Island Argus @ 1906-05-01; page 7
+
+#20190106_065 Farney, P. T.
+umpire 1906 Illinois-Indiana-Iowa
+resides 1906 @ US/OK/Krebs
+
+#20190106_066 Lawrence, Michael
+umpire 1906 Illinois-Indiana-Iowa
+resides 1906 @ US/IL/Peoria
+
+#20190106_067 Ramsey, George
+umpire 1906 Illinois-Indiana-Iowa
+resides 1906 @ US/WI/Stevens Point
+
+#20190106_068 Carruthers, R. L.
+umpire 1906 Illinois-Indiana-Iowa
+resides 1906 @ US/IA/Des Moines
+
+---
+
+!citation The Rock Island Argus @ 1906-05-02; page 7
+
+#20190106_069 Sexton, H. M.
+executive 1906 Rock Island (Illinois-Indiana-Iowa); title=President
+
+#20190106_070 McConnell, Jack
+manager 1906 Rock Island (Illinis-Indiana-Iowa)
+
+---
+
+!citation The Rock Island Argus @ 1907-05-01; page 3
+
+#20190106_071 Hill, Belden
+manager 1907 Cedar Rapids (Illinois-Indiana-Iowa)
+
+#20190106_072 Stark, Claud
+manager 1907 Dubuque (Illinois-Indiana-Iowa)
+
+#20190106_073 Donovan, Fred
+manager 1907 Bloomington (Illinois-Indiana-Iowa)
+
+#20190106_074 Donnelly, Fred
+manager 1907 Peoria (Illinois-Indiana-Iowa)
+
+#20190106_075 Scharnweber, Harry
+manager 1907 Springfield (Illinois-Indiana-Iowa)
+
+#20190106_076 McFarland, Monte
+manager 1907 Clinton (Illinois-Indiana-Iowa)
+
+#20190106_077 Reed, George
+manager 1907 Decatur (Illinois-Indiana-Iowa)
+
+---
+
+!citation The Rock Island Argus @ 1907-04-30; page 3
+
+#20190106_078 Tate, Harry
+manager 1901 Rock Island (Illinois-Indiana-Iowa)
+
+#20190106_079 Sage, Harry
+manager 1902 Rock Island (Illinois-Indiana-Iowa)
+
+#20190106_080 Donnelly, Frank
+manager 1903 Rock Island (Illinois-Indiana-Iowa)
+
+#20190106_081 Thornton, Ross
+manager 1904 Rock Island (Illinois-Indiana-Iowa)
+
+#20190106_082 Nicol, Hugh
+manager 1904 Rock Island (Illinois-Indiana-Iowa)
+
+#20190106_083 McConnell, Jack
+manager 1905 Rock Island (Illinois-Indiana-Iowa)
+manager 1906 Rock Island (Illinois-Indiana-Iowa)
+
+#20190106_084 Tighe, Jack
+manager 1907 Rock Island (Illinois-Indiana-Iowa)
+
+#20190106_085 Wheelock, Wallace
+umpire 1907 Illinois-Indiana-Iowa
+resides 1907 @ US/OH/Columbus
+
+#20190106_086 Setley, James
+umpire 1907 Illinois-Indiana-Iowa
+resides 1907 @ US/IL/Litchfield
+
+#20190106_087 Shea, Patrick
+umpire 1907 Illinois-Indiana-Iowa
+resides 1907 @ US/IL/Chicago
+
+#20190106_088 O'Connell, James
+umpire 1907 Illinois-Indiana-Iowa
+resides 1907 @ US/IL/Danville
+
+---
+
+!citation The Rock Island Argus @ 1908-05-01; page 3
+
+#20190106_089 Rosenfield, W. A.
+executive 1908 Rock Island (Illinois-Indiana-Iowa); title=President
+
+#20190106_090 Munger, J. F.
+executive 1908 Rock Island (Illinois-Indiana-Iowa); title=Secretary
+
+#20190106_091 Cook, Louis
+manager 1908 Rock Island (Illinois-Indiana-Iowa)
+
+---
+
+!citation The Rock Island Argus @ 1909-05-05; page 3
+
+#20190106_092 Reck, Warren H.
+executive 1909 Rock Island (Illinois-Indiana-Iowa); title=Vice President
+
+#20190106_093 Casteel, L. M.
+executive 1909 Rock Island (Illinois-Indiana-Iowa); title=Secretary
+
+#20190106_094 Novacek, James
+player 1909 Rock Island (Illinois-Indiana-Iowa)
+
+---
+
+!citation The Rock Island Argus @ 1910-05-02; page 3
+
+#20190106_095 Tighe, Jack
+manager 1910 Rock Island (Illinois-Indiana-Iowa)
+
+#20190106_096 Smith, Dick
+manager 1910 Springfield (Illinois-Indiana-Iowa)
+player 1910 Springfield (Illinois-Indiana-Iowa)
+
+#20190106_097 Shaffer, C. A.
+manager 1910 Davenport (Illinois-Indiana-Iowa)
+player 1910 Davenport (Illinois-Indiana-Iowa)
+
+#20190106_098 Buelow, Charles
+manager 1910 Dubuque (Illinois-Indiana-Iowa)
+player 1910 Dubuque (Illinois-Indiana-Iowa)
+
+#20190106_099 McCarthy, Jack
+manager 1910 Danville (Illinois-Indiana-Iowa)
+player 1910 Danville (Illinois-Indiana-Iowa)
+
+#20190106_100 Boyle, Frank
+manager 1910 Waterloo (Illinois-Indiana-Iowa)
+
+#20190106_101 Keenan, Joseph
+manager 1910 Bloomington (Illinois-Indiana-Iowa)
+player 1910 Bloomington (Illinois-Indiana-Iowa)
+
+#20190106_102 Rowan, Dave
+manager 1910 Peoria (Illinois-Indiana-Iowa)
+player 1910 Peoria (Illinois-Indiana-Iowa)
+
+---
+
+!citation The Rock Island Argus @ 1910-05-03; page 7
+
+#20190106_103 Tearney, Al
+executive 1910 Illinois-Indiana-Iowa League; title=President
+
+#20190106_104 Loftus, Thomas
+executive 1908 Illinois-Indiana-Iowa League; title=President
+
+#20190106_105 Holland, Edward
+executive 1907 Illinois-Indiana-Iowa League; title=President
+executive 1906 Illinois-Indiana-Iowa League; title=President
+executive 1905 Illinois-Indiana-Iowa League; title=President
+executive 1904 Illinois-Indiana-Iowa League; title=President
+
+#20190106_106 Sexton, M. H.
+executive 1909 Illinois-Indiana-Iowa League; title=President
+executive 1903 Illinois-Indiana-Iowa League; title=President
+executive 1902 Illinois-Indiana-Iowa League; title=President
+executive 1901 Illinois-Indiana-Iowa League; title=President
+
+---
+
+!citation The Rock Island Argus @ 1903-05-03; page 8
+
+#20190106_107 Reck, W. H.
+executive 1910 Rock Island (Illinois-Indiana-Iowa); title=President
+
+#20190106_108 Parker, S. F.
+executive 1910 Rock Island (Illinois-Indiana-Iowa); title=Vice President
+
+#20190106_109 Casteel, L. M.
+executive 1910 Rock Island (Illinois-Indiana-Iowa); title=Treasurer
+
+#20190106_110 McNamara, James
+executive 1910 Rock Island (Illinois-Indiana-Iowa); title=Secretary
+
+#20190106_111 Van Galder, F. O.
+executive 1910 Rock Island (Illinois-Indiana-Iowa); title=Director
+
+#20190106_112 Lane, Dick R.
+executive 1910 Davenport (Illinois-Indiana-Iowa); title=President
+
+#20190106_113 Chamberlain, William
+executive 1910 Davenport (Illinois-Indiana-Iowa); title=Vice President
+
+#20190106_114 Hasler, Julius
+executive 1910 Davenport (Illinois-Indiana-Iowa); title=Treasurer
+
+#20190106_115 Hayes, James T.
+executive 1910 Davenport (Illinois-Indiana-Iowa); title=Secreatry
+
+---
+
+!citation The Rock Island Argus @ 1911-05-03; page 7
+
+#20190106_116 Hayes, James T.
+executive 1911 Illinois-Indiana-Iowa League; title=Vice President
+
+#20190106_117 McNamara, James
+executive 1911 Rock Island (Illinois-Indiana-Iowa); title=President
+
+#20190106_118 Parker, S. F.
+executive 1911 Rock Island (Illinois-Indiana-Iowa); title=Vice President
+
+#20190106_119 Casteel, L. M.
+executive 1911 Rock Island (Illinois-Indiana-Iowa); title=Secretary/Treasurer
+
+#20190106_120 Van Galder, P. O.
+executive 1911 Rock Island (Illinois-Indiana-Iowa); title=Director
+
+#20190106_121 Reck, W. H.
+executive 1911 Rock Island (Illinois-Indiana-Iowa); title=Director
+
+---
+
+!citation Harrisburg Telegraph @ 1910-05-02; page 9
+
+#20190106_122 Taylor, J. V.
+administrator 1910 Altoona (Tri-State); title=Official Scorer
+
+#20190106_123 Meyers, Benjamin F.
+administrator 1910 Harrisburg (Tri-State); title=Official Scorer
+
+#20190106_124 Riley, Marvin A.
+administrator 1910 Trenton (Tri-State); title=Official Scorer
+
+#20190106_125 Moyer, Robert
+administrator 1910 Reading (Tri-State); title=Official Scorer
+
+#20190106_126 Anderson, William N.
+administrator 1910 Lancaster (Tri-State); title=Official Scorer
+
+#20190106_127 Nokes, Thomas
+administrator 1910 Johnstown (Tri-State); title=Official Scorer
+
+#20190106_128 Clarke, W. P.
+administrator 1910 Williamsport (Tri-State); title=Official Scorer
+
+#20190106_129 Remsburg, Walter
+administrator 1910 York (Tri-State); title=Official Scorer
+
+#20190106_130 Myers, John H.
+executive 1910 Tri-State; title=Director
+resides 1910 @ US/PA/Lancaster
+

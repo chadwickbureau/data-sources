@@ -1,0 +1,1276 @@
+!citation Palladium-Item @ 1908-04-28; page 2
+
+#20190204_001 Cameron, James
+player 1908 Richmond (Ohio-Indiana)
+player 1907 Richmond (Ohio-Indiana)
+
+---
+
+!citation The Richmond Item @ 1908-06-10; page 5
+
+#20190204_002 Fleming, Nat
+player 1908 Richmond (Ohio-Indiana)
+resides 1908 @ US/WV/Fairmont
+
+---
+
+!citation The Journal Times @ 1912-07-13; page 9
+
+#20190204_003 Campbell
+player 1912 Racine (Wisconsin-Illinois)
+player 1911 Fond du Loc (Wisconsin-Illinois)
+
+---
+
+!citation Muncie Evening Press @ 1908-06-05; page 6
+
+#20190204_004 Dowling, William
+player 1908 Muncie (Ohio-Indiana)
+
+---
+
+!citation Star-Gazette @ 1916-07-15; page 2
+
+#20190204_005 Casey, Joe
+player 1912 Elmira (New York State)
+player 1912 Rochester (International)
+player 1911 Providence (International)
+
+---
+
+!citation The Dispatch @ 1916-03-22; page 10
+
+#20190204_006 Cerny, Jimmy
+player 1912 Moline (Illinois-Indiana-Iowa)
+
+---
+
+!citation Edmonton Journal @ 1914-06-10; page 10
+
+#20190204_007 Chapman
+player 1914 Edmonton (Western Canada); @P TR
+player 1914 Victoria (Northwestern)
+
+---
+
+!citation Muncie Evening Press @ 1908-05-22; page 6
+
+#20190204_008 Wagner, Ed
+player 1908 Muncie (Ohio-Indiana)
+player 1908 (Southern Association)
+resides 1908 @ US/OH/Springfield
+
+#20190204_009 Beck
+player 1908 Muncie (Ohio-Indiana)
+resides 1908 @ US/WI/Green Bay
+
+---
+
+!citation The Star Press @ 1908-05-17; page 9
+
+#20190204_010 Litterall
+player 1908 Muncie (Ohio-Indiana)
+resides 1908 @ US/IL/Sheldon
+
+#20190204_011 Farnan, [Reddy]
+player 1908 Muncie (Ohio-Indiana)
+player 1908 Adrian (Michigan State)
+
+---
+
+!citation The Times Dispatch @ 1915-07-18; page 13
+
+#20190204_012 Cram, Ralph
+player 1915 Richmond (International)
+player <=1915 Boston (National)
+college Brown University
+
+---
+
+!citation The Dispatch @ 1916-06-29; page 9
+
+#20190204_013 Crissman
+player 1916 Moline (Illinois-Indiana-Iowa)
+college Northwestern University
+
+---
+
+!citation The Dispatch @ 1916-06-30; page 14
+
+#20190204_014 Crissman, Paul
+player 1916 Moline (Illinois-Indiana-Iowa)
+
+#20190204_015 Lang, Arthur
+player 1916 Moline (Illinois-Indiana-Iowa); @P TL
+
+---
+
+!citation East Oregonian @ 1914-05-01; page 6
+
+#20190204_016 Daly
+player 1914 Pendleton (Western Tri-State)
+player 1913 Walla Walla (Western Tri-State)
+
+---
+
+!citation East Oregonian @ 1914-05-12; page 2
+
+#20190204_017 Peterson, Gunner
+player 1914 Pendleton (Western Tri-State)
+
+#20190204_018 Varian, Clark
+player 1914 Pendleton (Western Tri-State)
+
+#20190204_019 Coen, [Curly]
+player 1914 Pendleton (Western Tri-State)
+
+#20190204_020 Briggs, Ben
+player 1914 Pendleton (Western Tri-State)
+
+#20190204_021 Daly, Tom
+player 1914 Pendleton (Western Tri-State)
+
+---
+
+!citation East Oregonian @ 1914-06-27; page 1
+
+#20190204_022 Lewis
+player 1914 North Yakima (Western Tri-State)
+player 1914 Pendleton (Western Tri-State)
+
+---
+
+!citation The Courier @ 1909-07-30; page 8
+
+#20190204_023 Davie, Ralph
+player 1909 Quincy (Central Association)
+
+---
+
+!citation The San Francisco Call @ 1901-04-01; page 6
+
+#20190204_024 McFarlin, H. S.
+administrator 1901 California; title=Official Scorer
+
+---
+
+!citation The Times @ 1901-04-05; page 5
+
+#20190204_025 Hayes, T. G.
+administrator 1901 Southern Association; title=Official Scorer
+
+---
+
+!citation Arkansas Democrat @ 1901-04-15; page 8
+
+#20190204_026 Bilheimer, Guy H.
+administrator 1901 Southern Association; title=Official Scorer
+
+---
+
+!citation The Salt Lake Tribune @ 1901-04-18; page 2
+
+#20190204_027 Horn, A. G.
+administrator 1901 Inter-Mountain; title=Official Scorer
+
+---
+
+!citation The Buffalo Commercial @ 1901-05-06; page 4
+
+#20190204_028 Burns, Tom
+umpire 1901 Eastern
+
+---
+
+!citation The Montgomery Advertiser @ 1901-05-18; page 10
+
+#20190204_029 Brislin, Charlie
+administrator 1901 Southern Association; title=Official Scorer
+
+---
+
+!citation The San Francisco Examiner @ 1901-07-14; page 8
+
+#20190204_030 Rutherford, E. C.
+administrator 1901 California; title=Official Scorer
+
+---
+
+!citation The Pittsburgh Press @ 1901-09-23; page 8
+
+#20190204_031 Gruber, John
+administrator 1901 Pittsburgh (National); title=Official Scorer
+
+---
+
+!citation The Daily News @ 1892-07-16; page 4
+
+#20190204_032 Garrett, William
+player 1892 Lebanon (Pennsylvania State); @P
+
+#20190204_033 Ely, John
+player 1892 Lebanon (Pennsylvania State); @C
+
+---
+
+!citation The Decatur Herald @ 1902-03-07; page 5
+
+#20190204_034 Wagenseller, Charles N.
+administrator 1902 Decatur (Illinois-Indiana-Iowa); title=Official Scorer
+administrator 1901 Decatur (Illinois-Indiana-Iowa; title=Official Scorer
+administrator 1900 Decatur (Central); title=Official Scorer
+
+---
+
+!citation Daily Arkansas Gazette @ 1902-03-26; page 3
+
+#20190204_035 Frank, Aaron
+executive 1902 Little Rock (Southern Association); title=President
+
+#20190204_036 McFadden, W. H.
+administrator 1902 Nashville (Southern Association); title=Official Scorer
+
+#20190204_037 Pritchard, R. E.
+administrator 1902 Chattanooga (Southern Association); title=Official Scorer
+
+#20190204_038 Bulger, B. C.
+administrator 1902 Birmingham (Southern Association); title=Official Scorer
+
+#20190204_039 Bruffey, Ed C.
+administrator 1902 Atlanta (Southern Association); title=Official Scorer
+
+#20190204_040 Jewett, Brown
+administrator 1902 New Orleans (Southern Association); title=Official Scorer
+
+#20190204_041 Hays, T. G.
+administrator 1902 Shreveport (Southern Association); title=Official Scorer
+
+#20190204_042 Billheimer, Guy H.
+administrator 1902 Little Rock (Southern Association); title=Official Scorer
+
+#20190204_043 Taylor, Walter D.
+administrator 1902 Memphis (Southern Association); title=Official Scorer
+
+#20190204_044 Ghio, Chris
+umpire 1902 Southern Association
+
+#20190204_045 Johnstone, J. E.
+umpire 1902 Southern Association
+
+#20190204_046 Cline, Ed
+umpire 1902 Southern Association
+
+#20190204_047 Stickney, William
+umpire 1902 Southern Association
+
+---
+
+!citation The Rock Island Argus @ 1902-05-15; page 7
+
+#20190204_048 Eddy, Mrs. L. G.
+administrator 1902 Rock Island (Illinois-Indiana-Iowa); title=Official Scorer
+
+---
+
+!citation The Butte Daily Post @ 1902-06-23; page 9
+
+#20190204_049 Nolan, James
+administrator 1902 Dallas (Texas); title=Official Scorer
+
+---
+
+!citation Arkansas Democrat @ 1903-03-12; page 2
+
+#20190204_050 Bilheimer, Guy H.
+administrator 1903 Little Rock (Southern Association); title=Official Scorer
+
+---
+
+!citation The Sedalia Democrat @ 1903-03-13; page 2
+
+#20190204_051 Patterson, Clyde
+administrator 1903 Sedalia (Missouri Valley); title=Official Scorer
+
+---
+
+!citation The South Bend Tribune @ 1903-04-03; page 3
+
+#20190204_052 Horst, Rudolf H.
+administrator 1903 South Bend (Central); title=Official Scorer
+
+---
+
+!citation Dayton Daily News @ 1903-04-06; page 8
+
+#20190204_053 Edmiston, M. B.
+administrator 1903 Marion (Central); title=Official Scorer
+
+#20190204_054 Mautner, Isadore
+executive 1903 Fort Wayne (Central); title=President
+
+#20190204_055 Halderman, C. W.
+executive 1903 Marion (Central); title=President
+
+---
+
+!citation The Anaconda Standard @ 1903-04-20; page 10
+
+#20190204_056 Patton, Owney
+administrator 1903 Spokane (Pacific National); title=Official Scorer
+
+#20190204_057 Hughes, E. R.
+administrator 1903 Seattle (Pacific National); title=Official Scorer
+
+#20190204_058 Johnson, Thurston L.
+administrator 1903 Portland (Pacific National); title=Official Scorer
+
+#20190204_059 Higgans, Harry
+administrator 1903 Tacoma (Pacific National); title=Official Scorer
+
+#20190204_060 Walsworth, W. W.
+administrator 1903 Butte (Pacific National); title=Official Scorer
+
+#20190204_061 Goodyear, W. S.
+administrator 1903 Helena (Pacific National); title=Official Scorer
+
+#20190204_062 Price, H. S.
+administrator 1903 Los Angeles (Pacific National); title=Official Scorer
+
+#20190204_063 Stapleton, J.
+administrator 1903 San Francisco (Pacific National); title=Official Scorer
+
+---
+
+!citation The Rock Island Argus @ 1903-04-20; page 7
+
+#20190204_064 Goff, Charles
+administrator 1903 Rock Island (Illinois-Indiana-Iowa); title=Official Scorer
+
+---
+
+!citation Arkansas Democrat @ 1903-04-21; page 8
+
+#20190204_065 George, Homer
+administrator 1903 Memphis (Southern Association); title=Official Scorer
+
+#20190204_066 Steers, Henry
+administrator 1903 New Orleans (Southern Association); title=Official Scorer
+
+#20190204_067 Roce, G.
+administrator 1903 Atlanta (Southern Association); title=Official Scorer
+
+---
+
+!citation Pine Bluff Daily Graphic @ 1903-05-05; page 5
+
+#20190204_068 Byington, G. W.
+administrator 1903 Pine Bluff (Cotton States); title=Official Scorer
+
+---
+
+!citation Vicksburg Evening Post @ 1903-05-06; page 3
+
+#20190204_069 Hunt, Maude
+administrator 1903 Monroe (Cotton States); title=Official Scorer
+
+---
+
+!citation Pittsburg Kansas @ 1903-05-07; page 5
+
+#20190204_070 Carter, Jonathan
+administrator 1903 Springfield (Missouri Valley); title=Official Scorer
+
+---
+
+!citation Dayton Daily News @ 1903-06-05; page 14
+
+#20190204_071 Maynes, W. A.
+administrator 1903 Dayton (Central); title=Official Scorer
+
+---
+
+!citation Arkansas Democrat @ 1903-09-16; page 1
+
+#20190204_072 Christian, Frank R.
+manager 1903 Pine Bluff (Cotton States)
+
+#20190204_073 Byington, George W.
+administrator 1903 Pine Bluff (Cotton States); title=Official Scorer
+manager 1903 Pine Bluff (Cotton States)
+
+---
+
+!citation Vicksburg Evening Post @ 1904-02-15; page 2
+
+#20190204_074 Byington, George W.
+administrator 1904 Pine Bluff (Cotton States); title=Official Scorer
+
+---
+
+!citation The Rock Island Argus @ 1904-04-09; page 7
+
+#20190204_075 Johnston, William G.
+administrator 1904 Rock Island (Illinois-Indiana-Iowa); title=Official Scorer
+
+---
+
+!citation Daily Arkansas Gazette @ 1904-04-15; page 6
+
+#20190204_076 Scarbrough, T. G.
+administrator 1904 Memphis (Southern Association); title=Official Scorer
+
+#20190204_077 Rice, Grantland
+administrator 1904 Atlanta (Southern Association); title=Official Scorer
+
+#20190204_078 Fox, C. J., Jr.
+administrator 1904 New Orleans (Southern Association); title=Official Scorer
+
+#20190204_079 Bulger, Bozeman
+administrator 1904 Birmingham (Southern Association); title=Official Scorer
+
+#20190204_080 Jones, Harrington
+administrator 1904 Little Rock (Southern Association); title=Official Scorer
+
+#20190204_081 Johnson, W. J.
+administrator 1904 Shreveport (Southern Association); title=Official Scorer
+
+#20190204_082 Lawshe, Er.
+administrator 1904 Nashville (Southern Association); title=Offical Scorer
+
+---
+
+!citation The Montgomery Advertiser @ 1904-04-27; page 12
+
+#20190204_083 Screws, Jas. H.
+administrator 1904 Montgomery (Southern Association); title=Official Scorer
+
+---
+
+!citation The Leaf-Chronicle @ 1904-05-04; page 1
+
+#20190204_084 Ladd, John H.
+administrator 1904 Cairo (Kentucky-Illinois-Tennessee); title=Official Scorer
+
+#20190204_085 Ward, V. H.
+administrator 1904 Clarksville (Kentucky-Illinois-Tennessee); title=Official Scorer
+
+#20190204_086 Cummings, W. H. Jr.
+administrator 1904 Hopkinsville (Kentucky-Illinois-Tennessee); title=Official Scorer
+
+#20190204_087 Green, Perry D.
+administrator 1904 Vincennes (Kentucky-Illinois-Tennessee); title=Official Scorer
+
+---
+
+!citation Arkansas Democrat @ 1904-05-24; page 2
+
+#20190204_088 Belding, Albert
+administrator 1904 Little Rock (Southern Association); title=Official Scorer
+
+---
+
+!citation The Tennessean @ 1904-06-29; page 8
+
+#20190204_089 Jones, Harrington
+administrator 1904 Shreveport (Southern Association); title=Official Scorer
+
+---
+
+!citation The Akron Beacon Journal @ 1905-04-18; page 5
+
+#20190204_090 Cunningham, J. L.
+administrator 1905 Homestead (Ohio-Pennsylvania); title=Official Scorer
+
+#20190204_091 Miller, Joseph
+administrator 1905 Newark (Ohio-Pennsylvania); title=Official Scorer
+
+---
+
+!citation Altoona Mirror @ 1905-04-18; page 1
+
+#20190204_092 Kelly, Charles M.
+administrator 1905 Altoona (Tri-State); title=Official Scorer
+
+---
+
+!citation The Akron Beacon Journal @ 1905-04-25; page 5
+
+#20190204_093 Hazen, O.
+administrator 1905 Sharon (Ohio-Pennsylvania); title=Official Scorer
+
+#20190204_094 Merriel, L.
+administrator 1905 Zanesville (Ohio-Pennsylvania); title=Official Scorer
+
+#20190204_095 Strong, William
+administrator 1905 Canton (Ohio-Pennsylvania); title=Official Scorer
+
+#20190204_096 Richards, Edward
+administrator 1905 Massillon (Ohio-Pennsylvania); title=Official Scorer
+
+---
+
+!citation The Topeka State Journal @ 1905-04-26; page 5
+
+#20190204_097 Clark, Herbert
+administrator 1905 Topeka (Western Association); title=Official Scorer
+
+---
+
+!citation The Scranton Truth @ 1905-04-27; page 3
+
+#20190204_098 Kern, J. E.
+administrator 1905 Scranton (Tri-State); title=Official Scorer
+
+---
+
+!citation The Akron Beacon Journal @ 1905-05-02; page 5
+
+#20190204_099 Rook, William
+administrator 1905 Youngstown (Ohio-Pennsylvania); title=Official Scorer
+
+---
+
+!citation Vicksburg Evening Post @ 1905-05-08; page 5
+
+#20190204_100 Byington, George W.
+administrator 1905 Pine Bluff (Cotton States); title=Official Scorer
+
+#20190204_101 Francis, Howard
+player 1905 Meridian (Cotton States)
+
+---
+
+!citation The Salt Lake Tribune @ 1905-05-10; page 8
+
+#20190204_102 Mackenzie, A. G.
+administrator 1905 Salt Lake City (Pacific National); title=Official Scorer
+
+---
+
+!citation Wilkes-Barre Times @ 1905-05-10; page 8
+
+#20190204_103 McCollum, William L.
+administrator 1905 Wilkes-Barre (New York State); title=Official Scorer
+
+---
+
+!citation Salisbury Evening Post @ 1905-05-26; page 1
+
+#20190204_104 Murphy, Walter
+administrator 1905 Salisbury-Spencer (North Carolina-Virginia); title=Official Scorer
+
+---
+
+!citation Journal Gazette @ 1906-03-13; page 1
+
+#20190204_105 Heermans, Frank
+administrator 1906 Matoon-Charleston (Kentucky-Illinois-Tennessee); title=Official Scorer
+
+---
+
+!citation Harrisburg Telegraph @ 1906-03-15; page 0
+
+#20190204_106 Blauch, Rufus
+administrator 1906 Johnstown (Tri-State); title=Official Scorer
+
+---
+
+!citation Wilkes-Barre Times Leader @ 1906-03-20; page 7
+
+#20190204_107 Foote, Amon W.
+administrator 1906 Utica (New York State); title=Official Scorer
+administrator 1905 Utica (New York State); title=Official Scorer
+administrator 1904 Utica (New York State); title=Official Scorer
+administrator 1903 Utica (New York State); title=Official Scorer
+administrator 1902 Utica (New York State); title=Official Scorer
+administrator 1901 Utica (New York State); title=Official Scorer
+
+---
+
+!citation Evening Times-Republican @ 1906-04-11; page 6
+
+#20190204_108 Goldthwait, S. E.
+administrator 1906 Boone (Iowa State); title=Official Scorer
+
+#20190204_109 Robbins, Arthur
+administrator 1906 Burlington (Iowa State); title=Official Scorer
+
+#20190204_110 Lowry, J. D.
+administrator 1906 Fort Dodge (Iowa State); title=Official Scorer
+
+#20190204_111 McManus, E. W.
+administrator 1906 Keokuk (Iowa State); title=Official Scorer
+
+#20190204_112 Burke, Harry
+administrator 1906 Oskaloosa (Iowa State); title=Official Scorer
+
+#20190204_113 Dougherty, E. G.
+administrator 1906 Ottumwa (Iowa State); title=Official Scorer
+
+#20190204_114 Stevens, L. H.
+administrator 1906 Waterloo (Iowa State); title=Official Scorer
+
+#20190204_115 Rodgers, H. J.
+administrator 1906 Marshalltown (Iowa State); title=Official Scorer
+
+---
+
+!citation New Castle Herald @ 1906-04-19; page 2
+
+#20190204_116 Smilet, E. A.
+administrator 1906 New Castle (Ohio-Pennsylvania); title=Official Scorer
+
+---
+
+!citation The South Bend Tribune @ 1906-05-07; page 3
+
+#20190204_117 Archer, R. M.
+administrator 1906 Wheeling (Central); title=Official Scorer
+
+---
+
+!citation Freeport Journal-Standard @ 1907-03-29; page 8
+
+#20190204_118 Rau, William A.
+administrator 1907 Freeport (Wisconsin State); title=Official Scorer
+
+---
+
+!citation Pittsburgh Daily Post @ 1907-04-02; page 10
+
+#20190204_119 Caldwell, W. A.
+administrator 1907 Butler (Western Pennsylvania); title=Official Scorer
+
+#20190204_120 Beatty, C. H.
+administrator 1907 Scottdale (Western Pennsylvania); title=Official Scorer
+
+#20190204_121 McConnell, R.
+administrator 1907 Connellsville (Western Pennsylvania); title=Official Scorer
+
+#20190204_122 Harner, Cree
+administrator 1907 Greensburg (Western Pennsylvania); title=Official Scorer
+
+#20190204_123 Linn, Turk
+administrator 1907 Fairmont (Western Pennsylvania); title=Official Scorer
+
+#20190204_124 Radcliffe, C.
+administrator 1907 Clarksburg (Western Pennsylvania); title=Official Scorer
+
+#20190204_125 Kelly, H.
+administrator 1907 Beaver Falls (Western Pennsylvania); title=Official Scorer
+
+#20190204_126 Lindley, B.
+administrator 1907 Latrobe (Western Pennsylvania); title=Official Scorer
+
+---
+
+!citation New Castle Herald @ 1907-04-13; page 4
+
+#20190204_127 Smiley, Edward
+administrator 1907 New Castle (Ohio-Pennsylvania); title=Official Scorer
+
+---
+
+!citation Altoona Tribune @ 1907-04-23; page 3
+
+#20190204_128 Carpenter, Charles F.
+executive 1907 Tri-State; title=President
+
+#20190204_129 Kelly, Charles M.
+administrator 1907 Altoona (Tri-State); title=Official Scorer
+
+#20190204_130 Blauch, Rufus
+administrator 1907 Johnstown (Tri-State); title=Official Scorer
+
+#20190204_131 Clark, William P.
+administrator 1907 Williamsport (Tri-State); title=Official Scorer
+
+#20190204_132 Douglass, William R.
+administrator 1907 Harrisburg (Tri-State); title=Official Scorer
+
+#20190204_133 Kauffman, Ross E.
+administrator 1907 York (Tri-State); title=Official Scorer
+
+#20190204_134 Hartley, G. H.
+administrator 1907 Lancaster (Tri-State); title=Official Scorer
+
+#20190204_135 Stratton, Edward C.
+administrator 1907 Trenton (Tri-State); title=Official Scorer
+
+#20190204_136 Hays, Edward
+administrator 1907 Wilmington (Tri-State); title=Official Scorer
+
+---
+
+!citation The Decatur Herald @ 1907-04-30; page 3
+
+#20190204_137 Eastland, W. C.
+administrator 1907 Clinton (Illinois-Indiana-Iowa); title=Official Scorer
+
+#20190204_138 Marney, George
+administrator 1907 Springfield (Illinois-Indiana-Iowa); title=Official Scorer
+
+#20190204_139 Holmes, W. E.
+administrator 1907 Cedar Rapids (Illinois-Indiana-Iowa); title=Official Scorer
+
+#20190204_140 Soules, Gene
+administrator 1907 Peoria (Illinois-Indiana-Iowa); title=Official Scorer
+
+#20190204_141 Goff, Charles
+administrator 1907 Rock Island (Illinois-Indiana-Iowa); title=Official Scorer
+
+#20190204_142 Wybrant, George
+administrator 1907 Dubuque (Illinois-Indiana-Iowa); title=Official Scorer
+
+#20190204_143 Thumler, Arthur P.
+administrator 1907 Bloomington (Illinois-Indiana-Iowa); title=Official Scorer
+
+#20190204_144 Drum, Ben E.
+administrator 1907 Decatur (Illinois-Indiana-Iowa); title=Official Scorer
+
+---
+
+!citation The Akron Beacon Journal @ 1907-05-04; page 5
+
+#20190204_145 Ritchie, L. J.
+administrator 1907 Akron (Ohio-Pennsylvania); title=Official Scorer
+
+---
+
+!citation The Anaconda Standard @ 1907-05-26; page 3
+
+#20190204_146 Mosher, A. R.
+administrator 1907 Butte (Northwestern); title=Official Scorer
+
+---
+
+!citation The Buffalo Times @ 1907-08-15; page 12
+
+#20190204_147 La Provost, Estelle
+administrator 1907 Clinton (Illinois-Indiana-Iowa); title=Official Scorer
+
+---
+
+!citation The Decatur Herald @ 1908-03-19; page 3
+
+#20190204_148 Renz, Fred
+administrator 1908 Pana (Eastern Illinois); title=Official Scorer
+
+---
+
+!citation The Times-Democrat @ 1908-03-22; page 15
+
+#20190204_149 Thomson, Stennis
+administrator 1908 Meridien (Cotton States); title=Official Scorer
+
+---
+
+!citation Freeport Journal-Standard @ 1908-04-06; page 4
+
+#20190204_150 Wise, John
+administrator 1908 Freeport (Wisconsin-Illinois); title=Official Scorer
+
+---
+
+!citation Pittsburgh Post-Gazette @ 1908-04-09; page 9
+
+#20190204_151 Haberer, Harry
+administrator 1908 Dayton (Central); title=Official Scorer
+
+#20190204_152 Dyer, W. C.
+administrator 1908 Evansville (Central); title=Official Scorer
+
+#20190204_153 Spalding, Charles W.
+administrator 1908 Fort Wayne (Central); title=Official Scorer
+
+#20190204_154 Jones, Tom
+administrator 1908 Grand Rapids (Central); title=Official Scorer
+
+#20190204_155 McNally, Ray
+administrator 1908 South Bend (Central); title=Official Scorer
+
+#20190204_156 Jewett, C. T.
+administrator 1908 Terre Haute (Central); title=Official Scorer
+
+#20190204_157 Archer, R. M.
+administrator 1908 Wheeling (Central); title=Official Scorer
+
+#20190204_158 Van DeVere, Roy
+administrator 1908 Zanesville (Central); title=Official Scorer
+
+---
+
+!citation The Daily Review @ 1908-04-11; page 4
+
+#20190204_159 McCart, D. F.
+administrator 1908 Taylorville (Eastern Illinois); title=Official Scorer
+
+#20190204_160 Aldrich, Chester
+administrator 1908 Mattoon (Eastern Illinois); title=Official Scorer
+
+#20190204_161 Storm, Orville
+administrator 1908 Shelbyville (Eastern Illinois); title=Official Scorer
+
+---
+
+!citation The Montgomery Times @ 1908-04-20; page 3
+
+#20190204_162 Goldthwaite, Herbert
+administrator 1908 Montgomery (Cotton States); title=Official Scorer
+
+---
+
+!citation Altoona Tribune @ 1908-04-24; page 10
+
+#20190204_163 Kelley, Charles M.
+administrator 1908 Altoona (Tri-State); title=Official Scorer
+
+#20190204_164 Blauch, Rufus S.
+administrator 1908 Johnstown (Tri-State); title=Official Scorer
+
+#20190204_165 Clark, William P.
+administrator 1908 Williamsport (Tri-State); title=Official Scorer
+
+#20190204_166 Jones, Wellington
+administrator 1908 Harrisburg (Tri-State); title=Official Scorer
+
+#20190204_167 Blatt, Dallas
+administrator 1908 Reading (Tri-State); title=Official Scorer
+
+#20190204_168 Smith, Roy
+administrator 1908 Lancaster (Tri-State); title=Official Scorer
+
+#20190204_169 Hayes, W. P.
+administrator 1908 Wilmington (Tri-State); title=Official Scorer
+
+#20190204_170 Strattan, E. C.
+administrator 1908 Trenton (Tri-State); title=Official Scorer
+
+---
+
+!citation News and Observer @ 1908-04-24; page 1
+
+#20190204_171 Lamb, Charles J.
+administrator 1908 Greensboro (Carolina Association); title=Official Scorer
+
+---
+
+!citation The Rock Island Argus @ 1908-05-05; page 3
+
+#20190204_172 Goff, Charles
+administrator 1908 Rock Island (Illinois-Indiana-Iowa); title=Official Scorer
+
+---
+
+!citation Wausau Daily Herald @ 1908-09-15; page 5
+
+#20190204_173 Honan, Harry
+administrator 1908 Wausau (Wisconsin-Illinois); title=Official Scorer
+administrator 1907 Wausau (Wisconsin-Illinois); title=Official Scorer
+
+---
+
+!citation Santa Cruz Evening News @ 1908-11-26; page 2
+
+#20190204_174 Lucas, George H.
+administrator 1908 Santa Cruz (California State); title=Official Scorer
+
+---
+
+!citation The Raleigh Times @ 1909-03-15; page 2
+
+#20190204_175 Washington, T. M
+executive 1909 Eastern Carolina; title=President
+resides 1909 @ US/NC/Wilson
+
+#20190204_176 King, Horace
+executive 1909 Eastern Carolina; title=Vice President
+resides 1909 @ US/NC/Goldsboro
+
+#20190204_177 Gattis, C. H.
+executive 1909 Eastern Carolina; title=Vice President
+resides 1909 @ US/NC/Raleigh
+
+#20190204_178 Gowan, R. T.
+executive 1909 Eastern Carolina; title=Secretary/Treasurer
+resides 1909 @ US/NC/Raleigh
+
+---
+
+!citation The Atlanta Constitution @ 1909-03-20
+
+#20190204_179 Naugle, E. E.
+administrator 1909 Jacksonville (South Atlantic); title=Official Scorer
+
+#20190204_180 Starr, W. R.
+administrator 1909 Savannah (South Atlantic); title=Official Scorer
+
+#20190204_181 Gantt, W. E.
+administrator 1909 Charleston (South Atlantic); title=Official Scorer
+
+#20190204_182 Hamilton, Tom
+administrator 1909 Augusta (South Atlantic); title=Official Scorer
+
+#20190204_183 Curtis, Joe
+administrator 1909 Chattanooga (South Atlantic); title=Official Scorer
+
+#20190204_184 Mangum, Franc
+administrator 1909 Macon (South Atlantic); title=Official Scorer
+
+#20190204_185 Bell, Brian
+administrator 1909 Columbia (South Atlantic); title=Official Scorer
+
+#20190204_186 Gilks, Bobby
+manager 1909 Savannah (South Atlantic)
+
+---
+
+!citation The Daily Times @ 1909-04-01; page 12
+
+#20190204_187 Obensham, Earl
+administrator 1909 Decatur (Illinois-Indiana-Iowa); title=Official Scorer
+
+#20190204_188 McManus, Ralph
+administrator 1909 Rock Island (Illinois-Indiana-Iowa); title=Official Scorer
+
+#20190204_189 Holmes, W. E.
+administrator 1909 Cedar Rapids (Illinois-Indiana-Iowa); title=Official Scorer
+
+#20190204_190 Murphy, Dave
+administrator 1909 Dubuque (Illinois-Indiana-Iowa); title=Official Scorer
+
+#20190204_191 Pierson, E. E.
+administrator 1909 Bloomington (Illinois-Indiana-Iowa); title=Official Scorer
+
+#20190204_192 Solis, Gean
+administrator 1909 Peoria (Illinois-Indiana-Iowa); title=Official Scorer
+
+#20190204_193 Marney, George
+administrator 1909 Springfield (Illinois-Indiana-Iowa); title=Official Scorer
+
+#20190204_194 O'Hern, Al
+administrator 1909 Davenport (Illinois-Indiana-Iowa); title=Official Scorer
+
+---
+
+!citation The Atlanta Constitution @ 1909-04-08; page 11
+
+#20190204_195 Jemison, Dick
+administrator 1909 Atlanta (Southern Association); title=Official Scorer
+
+---
+
+!citation The Daily Sentinel @ 1909-04-26; page 4
+
+#20190204_196 Harvey, Ed
+administrator 1909 Salina (Central Kansas); title=Official Scorer
+
+---
+
+!citation The Wilkes-Barre News @ 1909-04-27; page 1
+
+#20190204_197 Nokes, Thomas
+administrator 1909 Johnstown (Tri-State); title=Official Scorer
+
+#20190204_198 Taylor, J. Virgil
+administrator 1909 Altoona (Tri-State); title=Official Scorer
+
+#20190204_199 Schuyler, E. L.
+administrator 1909 Williamsport (Tri-State); title=Official Scorer
+
+#20190204_200 Douglass, William R.
+administrator 1909 Harrisburg (Tri-State); title=Official Scorer
+
+#20190204_201 Gantz, J. W.
+administrator 1909 York (Tri-State); title=Official Scorer
+
+#20190204_202 Smith, Roy T.
+administrator 1909 Lancaster (Tri-State); title=Official Scorer
+
+#20190204_203 Blatt, Dallas
+administrator 1909 Reading (Tri-State); title=Official Scorer
+
+#20190204_204 Stratton, Edward C.
+administrator 1909 Trenton (Tri-State); title=Official Scorer
+
+#20190204_205 Pastorius, Harvey
+umpire 1909 Tri-State
+
+#20190204_206 Rinn, Frank P.
+umpire 1909 Tri-State
+
+#20190204_207 McCloud, H. J.
+umpire 1909 Tri-State
+
+#20190204_208 Gochnous, John
+umpire 1909 Tri-State
+
+#20190204_209 Davis, J. L.
+umpire 1909 Tri-State
+
+---
+
+!citation The South Bend Tribune @ 1909-04-27; page 9
+
+#20190204_210 Annin, J. P.
+administrator 1909 South Bend (Central); title=Official Scorer
+
+#20190204_211 Jones, Tom
+administrator 1909 Grand Rapids (Central); title=Official Scorer
+
+#20190204_212 Spaulding, C. H.
+administrator 1909 Fort Wayne (Central); title=Official Scorer
+
+#20190204_213 Jewett, T. C.
+administrator 1909 Terre Haute (Central); title=Official Scorer
+
+#20190204_214 Van de Verre, Roy
+administrator 1909 Zanesville (Central); title=Official Scorer
+
+#20190204_215 Connors, William
+administrator 1909 Dayton (Central); title=Official Scorer
+
+#20190204_216 Nuischlitz, Earl
+administrator 1909 Evansville (Central); title=Official Scorer
+
+---
+
+!citation Webb City Register @ 1909-04-27; page 1
+
+#20190204_217 Johnson, Bert
+administrator 1909 Webb City (Western Association); title=Official Scorer
+
+---
+
+!citation The Daily Sentinel @ 1909-04-29; page 4
+
+#20190204_218 Dorn, Tom
+administrator 1909 Junction City (Central Kansas); title=Official Scorer
+
+---
+
+!citation The Wilkes-Barre News @ 1909-05-03; page 8
+
+#20190204_219 Williams, W.
+administrator 1909 Wilkes-Barre (New York State); title=Official Scorer
+
+---
+
+!citation New Castle Herald @ 1910-04-12; page 2
+
+#20190204_220 Brown, C. Ed
+administrator 1910 New Castle (Ohio-Pennsylvania); title=Official Scorer
+
+#20190204_221 Molesbach, J. J.
+player 1910 Akron (Ohio-Pennsylvania)
+
+---
+
+!citation Arkansas Democrat @ 1910-04-23; page 2
+
+#20190204_222 Byars, H. T.
+administrator 1910 Caruthersville (Northeast Arkansas); title=Official Scorer
+
+#20190204_223 Blythe, J. T.
+administrator 1910 Blytheville (Northeast Arkansas); title=Official Scorer
+
+#20190204_224 Malone, J. K.
+administrator 1910 Jonesboro (Northeast Arkansas); title=Official Scorer
+
+#20190204_225 Taylor, Clyde F.
+administrator 1910 Paragould (Northeast Arkansas); title=Official Scorer
+
+---
+
+!citation The Salina Evening Journal @ 1910-04-23; page 5
+
+#20190204_226 Harvey, Edward
+administrator 1910 Salina (Central Kansas); title=Official Scorer
+
+---
+
+!citation The Junction City Daily Union @ 1910-04-26; page 3
+
+#20190204_227 Dorn, T. W.
+administrator 1910 Junction City (Central Kansas); title=Official Scorer
+
+---
+
+!citation The Daily Times @ 1910-04-28; page 8
+
+#20190204_228 Goff, Charles
+administrator 1919 Rock Island (Illinois-Indiana-Iowa); title=Official Scorer
+
+---
+
+!citation The Hutchinson News @ 1910-04-28; page 9
+
+#20190204_229 Cox, Keith
+administrator 1910 Newton (Kansas State); title=Official Scorer
+
+#20190204_230 Voyles, Eugene
+administrator 1910 Wellington (Kansas State); title=Official Scorer
+
+#20190204_231 Henry, Alexander
+administrator 1910 McPherson (Kansas State); title=Official Scorer
+
+#20190204_232 Pollock, R. A.
+administrator 1910 Arkansas City (Kansas State); title=Official Scorer
+
+#20190204_233 Strong, W. G.
+administrator 1910 Great Bend (Kansas State); title=Official Scorer
+
+#20190204_234 Stahl, W. W.
+administrator 1910 Lyons (Kansas State); title=Official Scorer
+
+#20190204_235 Sheehan, Leo
+administrator 1910 Hutchinson (Kansas State); title=Official Scorer
+
+---
+
+!citation Altoona Tribune @ 1910-04-30; page 15
+
+#20190204_236 Taylor, J. V.
+administrator 1910 Altoona (Tri-State); title=Official Scorer
+
+#20190204_237 Meyers, Benjamin F.
+administrator 1910 Harrisburg (Tri-State); title=Official Scorer
+
+#20190204_238 Riley, Marvin A.
+administrator 1910 Trenton (Tri-State); title=Official Scorer
+
+#20190204_239 Moyer, Rpbert
+administrator 1910 Reading (Tri-State); title=Official Scorer
+
+#20190204_240 Anderson, William N.
+administrator 1910 Lancaster (Tri-State); title=Official Scorer
+
+#20190204_241 Nokes, Thomas
+administrator 1910 Johnstown (Tri-State); title=Official Scorer
+
+#20190204_242 Clarke, W. P.
+administrator 1910 Williamsport (Tri-State); title=Official Scorer
+
+#20190204_243 Remburg, Walter
+administrator 1910 York (Tri-State); title=Official Scorer
+
+---
+
+!citation Wilkes-Barre Times Leader @ 1910-05-02; page 13
+
+#20190204_244 Williams, George W.
+administrator 1910 Wilkes-Barre (New York State); title=Official Scorer
+
+---
+
+!citation The Clay Center Dispatch @ 1910-05-12; page 7
+
+#20190204_245 Oberg, Pete
+administrator 1910 Clay Center (Central Kansas); title=Official Scorer
+
+---
+
+!citation Lansing State Journal @ 1911-02-09; page 8
+
+#20190204_246 Weaver, Frank G.
+administrator 1911 Kalamazoo (Southern Michigan); title=Official Scorer
+
+---
+
+!citation Daily Press @ 1911-04-13; page 3
+
+#20190204_247 West, James L.
+administrator 1911 Newport News (Tidewater); title=Official Scorer
+
+#20190204_248 Rayfield, Charles
+umpire 1911 Tidewater
+
+---
+
+!citation Greensboro Daily News @ 1911-04-15; page 7
+
+#20190204_249 Brockett, D. Guy
+administrator 1911 Elizabeth City (Tidewater); title=Official Scorer
+
+---
+
+!citation Lansing State Journal @ 1911-04-18; page 9
+
+#20190204_250 Gorman, Mike
+administrator 1911 Saginaw (Southern Michigan); title=Official Scorer
+
+---
+
+!citation The Dispatch @ 1911-05-02; page 10
+
+#20190204_251 Fairfield, Eddie
+administrator 1911 Dubuque (Illinois-Indiana-Iowa); title=Official Scorer
+
+#20190204_252 Mulkem, Frank
+administrator 1911 Waterloo (Illinois-Indiana-Iowa); title=Official Scorer
+
+#20190204_253 O'Hearn, Al
+administrator 1911 Davenport (Illinois-Indiana-Iowa); title=Official Scorer
+
+---
+
+!citation Harrisburg Telegraph @ 1911-05-03; page 12
+
+#20190204_254 Blough, J. A.
+administrator 1911 Johnstown (Tri-State); title=Official Scorer
+
+#20190204_255 Dunlop, Webster H.
+administrator 1911 Lancaster (Tri-State); title=Official Scorer
+
+#20190204_256 Carmody, James A.
+administrator 1911 Trenton (Tri-State); title=Official Scorer
+
+#20190204_257 Glover, Beverly W.
+administrator 1911 Harrisburg (Tri-State); title=Official Scorer
+
+#20190204_258 Davis, Arthur C.
+administrator 1911 Wilmington (Tri-State); title=Official Scorer
+
+#20190204_259 Sholenberger, F. O.
+administrator 1911 Reading (Tri-State); title=Official Scorer
+
+#20190204_260 Remsburg, Walter R.
+administrator 1911 York (Tri-State); title=Official Scorer
+
+#20190204_261 Taylor, J. Virgil
+administrator 1911 Altoona (Tri-State); title=Official Scorer
+
+---
+
+!citation The Scranton Republican @ 1911-05-03; page 1
+
+#20190204_262 Briggs, G. N.
+administrator 1911 Scranton (New York State); title=Official Scorer
+
+---
+
+!citation The South Bend Tribune @ 1911-05-10; page 14
+
+#20190204_263 Dickerson, E. W.
+administrator 1911 Grand Rapids (Central); title=Official Scorer
+
+#20190204_264 Murray, Edward J.
+administrator 1911 Evansville (Central); title=Official Scorer
+
+#20190204_265 Spalding, Charles H.
+administrator 1911 Fort Wayne (Central); title=Official Scorer
+
+#20190204_266 Horst, Rudolf H.
+administrator 1911 South Bend (Central); title=Official Scorer
+
+#20190204_267 Harris, Norval
+administrator 1911 Terre Haute (Central); title=Official Scorer
+
+#20190204_268 Taney Jr., James B.
+administrator 1911 Wheeling (Central); title=Official Scorer
+
+#20190204_269 O'Donnell, C. V.
+administrator 1911 Zanesville (Central); title=Official Scorer
+
+#20190204_270 Birch, W.
+administrator 1911 Dayton (Central); title=Official Scorer

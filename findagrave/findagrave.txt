@@ -829,9 +829,35 @@ burial Greenoaks Memorial Park @ US/LA/Baton Rouge
 !url https://www.findagrave.com/memorial/20623367
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-14
  
-#profile Stacey, Joe Emerson
+#0068 Stacey, Joe Emerson
 sameas findagrave:20623367
 birth 1921-08-26 @ US/MO/Bois d'Arc
 death 2007-07-23
 military US Army @ World War II
 burial Hazelwood Cemetery @ US/MO/Springfield
+
+---
+
+!citation findagrave.com @ 2020-04-17
+!url https://www.findagrave.com/memorial/96575737
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-17
+ 
+#0069 Slavens, Paul A.
+sameas findagrave:96575737
+birth 1922-10-08 @ US/IN/Brookston
+death 2012-08-28 @ US/IN/Lafayette
+highschool Fowler HS @ US/IN/Fowler
+military US Navy @ World War II
+burial Spring Vale Cemetery @ US/IN/Lafayette
+
+---
+
+!citation findagrave.com @ 2020-04-18
+!url https://www.findagrave.com/memorial/173689385
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-18
+ 
+#0070 Kibler, John Thomas
+sameas findagrave:173689385
+birth 1886
+death 1971
+burial Chester Cemetery @ US/MD/Chestertown

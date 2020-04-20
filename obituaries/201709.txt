@@ -1,0 +1,23 @@
+!citation Salisbury Post @ 2017-11-07
+!url http://www.salisburypost.com/2017/11/07/sports-obit-alex-morrow-jr-was-a-solid-player-in-local-professional-baseball/
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-11-07
+
+#201709_001 Morrow, Carl Alex, Jr. [Alex]
+birth 1934
+death 2017 @ US/AL/Montgomery
+describe ; H70 W165
+highschool Mount Ulla HS @ US/NC/Mount Ulla
+burial Triplett United Methodist Church Cemetery @ US/NC/Mooresville
+
+---
+
+!citation Cavin-Cook Funeral Home @ 2017-11-07
+!url http://www.cavin-cook.com/memsol.cgi?user_id=2025013
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-11-07
+
+#201709_002 Morrow, Carl Alex, Jr. [Alex]
+death 2017-09-03 @ US/AL/Montgomery
+highschool Mount Ulla HS @ US/NC/Mount Ulla
+burial Triplett United Methodist Church Cemetery @ US/NC/Mooresville

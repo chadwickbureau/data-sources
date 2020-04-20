@@ -1,0 +1,297 @@
+!citation The News-Herald @ 1915-07-08; page 8
+
+#20190220_001 Brouthers, Walter
+player 1915 Lenoir (Western North Carolina)
+
+#20190220_002 McKeithan, Make
+player 1915 Lenoir (Western North Carolina)
+
+---
+
+!citation The Salina Daily Union @ 1908-06-26; page 9
+
+#20190220_003 Krepps, Sam
+player 1908 Salina (Central Kansas)
+
+---
+
+!citation The Salina Evening Journal @ 1908-07-03; page 6
+
+#20190220_004 McGrew, Bud
+player 1908 Salina (Central Kansas)
+
+#20190220_005 Clawson, Andy
+player 1908 McPherson (Central Kansas)
+
+---
+
+!citation The Fort Scott Republican @ 1905-05-26; page 1
+
+#20190220_006 Mason, [Home Run]
+player 1905 Fort Scott (Missouri Valley)
+player 1905 Vinita (Missouri Valley)
+player 1904 Oklahoma City (Southwestern)
+
+---
+
+!citation The Fort Scott Republican @ 1905-06-10; page 1
+
+#20190220_007 Mason, Cy
+player 1905 Fort Scott (Missouri Valley)
+
+---
+
+!citation Sioux City Journal @ 1910-10-02; page 10
+
+#20190220_008 Patterson, Thomas
+executive 1910 Sioux City (Western); title=President
+birth 1879-04-23 @ US/IL
+resides 1910 @ US/IA/Fairweather
+
+#20190220_009 Andreas, George
+birth 1880-08-23 @ US/OH/Portsmouth
+player 1902 Rochester (Eastern)
+player 1902 Johnstown (New York State)
+player 1903 Zanesville
+player 1904 Dallas (Texas)
+player 1905 Dallas (Texas)
+player 1906 Des Moines (Western)
+player 1907 Des Moines (Western)
+note picture
+
+#20190220_010 Welch, Harry A.
+birth 1880-09-19 @ US/NY/New York
+player 1900 Allentown (Atlantic)
+playing 1900 @ US/NY/Corning 
+player 1900 Utica (New York State)
+player 1901 Ilion (New York State)
+player 1902 Binghamton (New York State)
+player 1903 Binghamtom (New York State)
+player 1904 Binghamton (New York State)
+player 1905 Binghamton (New York State)
+player 1906 Binghamton (New York State)
+player 1907 Binghamton (New York State)
+player 1908 Sioux City (Western)
+player 1909 Sioux City (Western)
+player 1910 Sioux City (Western)
+note picture
+
+#20190220_011 Freeman, James
+birth 1878 @ US/TN/Dresden
+player 1903 Paducah (Kentucky-Illinois-Tennessee)
+player 1904 Paducah (Kentucky-Illinois-Tennessee)
+player 1905 Evansville (Kentucky-Illinois-Tennessee)
+player 1906 Evansville (Kentucky-Illinois-Tennessee)
+player 1907 Minneapolis (American Association)
+note went to Chicago White Sox latter part of 1907
+player 1908 Sioux City (Western)
+player 1909 Sioux City (Western)
+player 1910 Sioux City (Western)
+note picture
+
+#20190220_012 Chabek, Joe
+birth @ US/OH/Cleveland
+player 1907 Quincy (Illinois-Indiana-Iowa)
+player 1908 Louisville (American Association)
+player 1908 Denver (Western)
+player 1909 Louisville (American Association)
+player 1909 Sioux City (Western
+player 1910 Sioux City (Western)
+note picture
+
+#20190220_013 Wilson, William [Kiddo]
+birth 1885-01-07 @ US/OH/Columbus
+player 1904 Terre Haute (Central)
+player 1909 Siouc City (Western)
+player 1910 Sioux City (Western)
+note picture
+
+#20190220_014 Kilroy, Orville
+birth 1881-05 @ US/WI/New Richmond
+player 1904 Superior (Northern)
+player 1904 Waterloo (Iowa)
+player 1904 St. Paul (American Association)
+player 1905 St. Paul (American Association)
+player 1905 Kansas City (American Association)
+player 1906 Minneapolis (American Association)
+player 1907 Minneapolis (American Association)
+player 1907 Toronto (Eastern)
+player 1908 St. Paul (American Association)
+player 1909 St. Paul (American Association)
+player 1910 Sioux City (Western)
+note picture
+
+#20190220_015 Isbell, Albert
+birth 1888-10-08 @ US/MN/North Branch
+player 1908 South McAlester (Oklahoma-Kansas)
+player 1908 Enid (Western Association)
+player 1909 Enid (Western Association)
+player 1910 Sioux City (Western)
+player 1910 Winnipeg (Western Canada)
+note picture
+
+#20190220_016 Hammond, Harry G.
+birth 1883-06-11 @ US/KY/Newport
+player 1903 Dayton (Central)
+player 1905 Montreal (Eastern)
+playing 1906 @ US/OH/Springfield 
+playing 1907 @ US/OH/Springfield
+player 1908 Fort Wayne (Central)
+player 1909 Milwaukee (American Association)
+player 1910 Milwaukee (American Association)
+player 1910 Denver (Western)
+player 1910 Sioux City (Western)
+note picture
+
+#20190220_017 Hartman, Charles
+birth 1887-01-01 @ US/NY/New York
+player 1907 Pottsville (Atlantic)
+player 1908 Fort Worth (Texas)
+drafted 1908; join=Philadelphia (American)
+player 1909 Denver (Western)
+player 1910 Sioux City (Western)
+note picture
+
+#20190220_018 Miller, Charles
+birth 1882-09-08 @ US/OH/Massolin
+player 1905 Mount Vernon (Ohio-Pennsylvania)
+playing 1906 @ US/OH/Mount Vernon
+playing 1907 @ US/OH/Mount Vernon
+player 1908 Dallas (Texas)
+player 1909 Dallas (Texas)
+player 1910 Sioux City (Western)
+note picture
+
+---
+
+!citation Sioux City Journal @ 1912-05-22; page 8
+
+#20190220_019 Moser, Walter
+player 1912 Sioux City (Western)
+purchased 1912-04-22; join=Sioux City (Western); leave=St. Louis (American)
+returned 1912-05-21; leave=Sioux City (Western); join=St. Louis (American)
+
+---
+
+!citation Sioux City Journal @ 1912-05-24; page 11
+
+#20190220_020 Barrett, George
+player 1912 Sioux City (Western)
+
+---
+
+!citation Sioux City Journal @ 1913-04-25; page 14
+
+#20190220_021 James, Bob
+player 1913 Sioux City (Western)
+
+---
+
+!citation Sioux City Journal @ 1913-04-29; page 9
+
+#20190220_022 Hartley, Chick
+player 1913 Sioux City (Western)
+
+---
+
+!citation Sioux City Journal @ 1913-06-15; page 9
+
+#20190220_023 Craig, Ralph
+player 1913 Sioux City (Western)
+
+---
+
+!citation Sioux City Journal @ 1913-06-29; page 9
+
+#20190220_024 Striegel, George
+player 1913 Sioux City
+player 1913 Le Mars; location=US/SD; caliber=semipro
+
+---
+
+!citation Sioux City Journal @ 1913-07-05; page 10
+
+#20190220_025 Cypert
+player 1913 Sioux City (Western) 
+acquired 1913-06-29; join=Sioux City (Western); leave=Pittsburgh (National)
+released 1913-07-05; leave=Sioux City (Western)
+college University of Arkansas
+
+---
+
+!citation Sioux City Journal @ 1913-06-29; page 9
+
+#20190220_026 Topham
+player 1913 Sioux City (Western) 
+acquired 1913-06-29; join=Sioux City (Western); leave=Pittsburgh (National)
+released 1913-07-05; leave=Sioux City (Western)
+college Bucknell
+
+---
+
+!citation The Pittsburgh Press @ 1913-06-21; page 13
+
+#20190220_027 Topham, Earl M. [Tippy]
+signed 1913-06-21; join=Pittsburgh (National)
+college Bucknell
+
+---
+
+!citation Sioux City Journal @ 1913-09-01; page 8
+
+#20190220_028 Streetor, Fred
+player 1913 Sioux City (Western)
+released 1913-08-31; leave=Sioux City (Western)
+
+---
+
+!citation The Salina Evening Jounral @ 1908-08-18; page 5
+
+#20190220_029 Isbell
+player 1908 Salina (Central Kansas)
+player 1908 Enid (Western Association)
+
+---
+
+!citation Sioux City Journal @ 1914-04-19; page 9
+
+#20190220_030 Doyle, Bernard
+player 1914 Sioux City (Western); TR
+note picture
+
+---
+
+!citation Sioux City Journal @ 1914-04-10; page 12
+
+#20190220_031 Baird, Douglas
+player 1914 Sioux City (Western)
+player 1913 Springfield (Illinois-Indiana-Iowa)
+player 1912 Springfield (Illinois-Indiana-Iowa)
+
+---
+
+!citation Ellsworth Messenger @ 1909-06-17; page 1
+
+#20190220_032 Gebhardt, Fred
+administrator 1909 Ellsworth (Central Kansas); title=Official Scorer
+
+#20190220_033 Hamlin, Fritz
+umpire 1909 Central Kansas
+player <=1909 Lyons (Kansas State)
+
+---
+
+!citation The McPherson Daily Republican @ 1908-06-25; page 1
+
+#20190220_034 Putnam
+player 1908 Little River (Central Kansas)
+player <=1908 (Texas)
+resides 1908 @ US/TX/Fort Worth
+
+#20190220_035 Aiton, Bill
+player 1908 McPherson (Central Kansas)
+
+#20190220_036 Funston
+player 1908 Ellsworth (Central Kansas)
+brother of Funston, General Fred
+

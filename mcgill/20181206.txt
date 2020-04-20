@@ -1,0 +1,218 @@
+!citation The Charlotte News @ 1909-04-20; page 20
+
+#20181206_001 Drumm, Joe
+player 1908 Charlotte (Carolina Association)
+player 1909 Charlotte (Carolina Association)
+
+---
+
+!citation The Charlotte News @ 1909-09-06; page 8
+
+#20181206_002 Eldridge, J. M.
+player 1909 Greensboro (Carolina Association); TL
+resides 1909 @ US/NC/Glenola
+
+---
+
+!citation The Charlotte News @ 1909-09-06; page 7
+
+#20181206_003 Clapp, Charles
+player 1909 Greensboro (Carolina Association)
+
+#20181206_004 Walsh, Martin
+player 1909 Greensboro (Carolina Association)
+player 1906 Binghamton (New York State)
+
+#20181206_005 Lynch, Edward S.
+player 1909 Greensboro (Carolina Association)
+player <=1909 Niagara Uniersity; caliber=college
+resides 1909 @ US/NY/Olean
+
+#20181206_006 Cox, Charles H.
+player 1909 Greensboro (Carolina Association)
+player 1908 Winston-Salem (Carolina Association)
+resides 1909 @ US/GA/Atlanta
+
+#20181206_007 Jackson, Andrew M., Jr.
+player 1909 Greensboro (Carolina Association)
+player 1905 Emory and Henry College; caliber=college
+resides 1909 @ US/VA/Radford
+
+---
+
+!citation The Charlotte News @ 1909-04-21; page 6
+
+#20181206_008 Mersman
+player 1909 Greensboro (Carolina Association)
+resides 1909 @ US/MI/Grand Rapids
+
+---
+
+!citation The Charlotte News @ 1909-03-23; page 9
+
+#20181206_009 Riley
+player 1909 Charlotte (Carolina Association)
+resides 1909 @ US/NY/Buffalo
+
+---
+
+!citation The Charlotte Observer @ 1909-06-05; page 3
+
+#20181206_010 Schultz, Heinie
+player 1909 Mobile (Southern Association)
+player 1909 Charlotte (Carolina Association); H74
+
+#20181206_011 Hobbs
+player 1908 Winston-Salem (Carolina Association)
+player 1909 Charlotte (Carolina Association)
+
+#20181206_012 Hazleton
+player 1909 Charlotte (Carolina Association); TL
+
+---
+
+!citation The Charlotte Observer @ 1909-07-05; page 3
+
+#20181206_013 Accorsini, Victor
+player 1909 Spartanburg (Carolina Association)
+
+---
+
+!citation The Charlotte Observer @ 1909-05-25; page 3
+
+#20181206_014 Cosmo
+player 1908 Erie (Interstate)
+player 1909 Charlotte (Carolina Association)
+
+---
+
+!citation The Charlotte Observer @ 1909-05-07; page 3
+
+#20181206_015 Reggy
+player 1908 Anderson (Carolina Association)
+player 1909 Jacksonville (South Atlantic)
+player 1909 Charlotte (Carolina Association)
+
+---
+
+!citation The Charlotte Observer @ 1909-04-29; page 3
+
+#20181206_016 Aiken
+player 1908 (Virginia League)
+player 1909 Charlotte (Carolina Association)
+
+---
+
+!citation The Charlotte Observer @ 1909-05-17; page 3
+
+#20181206_017 Baird
+player 1909 Charlotte (Carolina Association)
+umpire 1909 Carolina Association
+
+---
+
+!citation The Charlotte Observer @ 1909-01-04; page 7
+
+#20181206_018 Collins, D. W.
+player 1909 Charlotte (Carolina Association)
+manager 1909 Charlotte (Carolina Association)
+
+---
+
+!citation The Charlotte Observer @ 1909-06-06; page 3
+
+#20181206_019 Boyd, Smith
+player 1909 Charlotte (Carolina Association)
+
+---
+
+!citation The Charlotte Observer @ 1909-04-25; page 8
+
+#20181206_020 Ford
+player 1909 Charlotte (Carolina Association)
+resides 1909 @ US/MS
+
+---
+
+!citation The Charlotte Observer @ 1909-05-12; page 3
+
+#20181206_021 Goodman
+player 1909 Columbia (South Atlantic)
+player 1909 Greenville (Carolina Association)
+
+---
+
+!citation The Charlotte Observer @ 1909-05-19; page 3
+
+#20181206_022 Waters, "Chick"
+player 1909 Anderson (Carolina Association)
+player 1909 Fayetteville (Eastern Carolina)
+
+---
+
+!citation The Charlotte Observer @ 1909-06-21; page 3
+
+#20181206_023 Welsher, Abe
+player 1909 Columbia (South Atlantic)
+player 1909 Spartanburg (Carolina Association)
+
+---
+
+!citation The Charlotte Observer @ 1909-08-29; page 2
+
+#20181206_024 Touchstone
+player 1909 Greenville (Carolina Association)
+player 1909 Roanoke (Virginia)
+
+---
+
+!citation The Evening Chronicle @ 1909-06-07; page 6
+
+#20181206_025 Collins, Dan W.
+manager 1909 Charlotte (Carolina Association)
+released 1909-06-06; leave=Charlotte (Carolina Association)
+
+---
+
+!citation The Evening Chronicle @ 1909-05-17; page 6
+
+#20181206_026 Boyd, Smith
+player 1909 Greenville (Carolina Association)
+
+#20181206_027 Kelly, Ed
+player 1909 Greenville (Carolina Association); @C
+
+#20181206_028 McCarthy, Thomas
+player 1909 Greenville (Carolina Association); @P
+
+---
+
+!citation The Evening Chronicle @ 1909-04-24; page 7
+
+#20181206_029 Ellinor
+player 1908 Meridian (Cotton States)
+player 1909 Charlotte (Carolina Association)
+
+---
+
+!citation The Evening Chronicle @ 1909-04-19; page 8
+
+#20181206_030 Redfern, Jimmy
+player 1908 Charlotte (Carolina Association)
+player 1909 Spartanburg (Carolina Association)
+
+---
+
+!citation The Evening Chronicle @ 1909-06-15; page 6
+
+#20181206_031 Tribble, Bill
+player 1908 Greenville (Carolina Association)
+player 1909 Spartanburg (Carolina Association)
+
+---
+
+!citation Winston-Salem Journal @ 1909-08-15; page 1
+
+#20181206_032 Nissen, Carl
+player 1909 Winston-Salem (Carolina Association)
+resides 1909 @ US/NC/Waughtown

@@ -1,0 +1,999 @@
+!citation The Salina Evening Journal @ 1910-05-19; page 5
+
+#20191118_001 Mack
+player 1910 Salina (Central Kansas)
+college Kansas Wesleyan University
+
+---
+
+!citation The Beloit Daily Call @ 1910-05-19; page 8
+
+#20191118_002 Williams, Sandy
+player 1910 Beloit (Central Kansas)
+
+---
+
+!citation Concordia Daily Kansas @ 1910-05-21; page 4
+
+#20191118_003 Goes
+player 1910 Concordia (Central Kansas); @P
+released 1910-05-21; leave=Concordia (Central Kansas)
+
+#20191118_004 Collins
+player 1910 Concordia (Central Kansas); @C
+released 1910-05-21; leave=Concordia (Central Kansas)
+
+#20191118_005 Brooks
+player 1910 Concordia (Central Kansas); @OF
+released 1910-05-21; leave=Concordia (Central Kansas)
+
+---
+
+!citation The Junction City Daily Union @ 1910-05-21; page 3
+
+#20191118_006 Gill
+player 1910 Junction City (Central Kansas)
+released 1910-05-20; leave=Junction City (Central Kansas)
+
+#20191118_007 Detwiler
+player 1910 Junction City (Central Kansas)
+released 1910-05-20; leave=Junction City (Central Kansas)
+
+#20191118_008 Sparks
+player 1910 Junction City (Central Kansas)
+released 1910-05-20; leave=Junction City (Central Kansas)
+
+---
+
+!citation The Morning Chronicle @ 1910-05-23; page 4
+
+#20191118_009 Rice
+player 1910 Manhattan (Central Kansas); @P
+released 1910-05-23; leave=Manhattan (Central Kansas)
+
+---
+
+!citation The Junction City Daily Union @ 1910-05-24; page 3
+
+#20191118_010 Messenger
+player 1910 Junction City (Central Kansas)
+released 1910-05-21; leave=Junction City (Cntral Kansas)
+
+#20191118_011 Drew
+player 1910 Junction City (Central Kansas)
+released 1910-05-21; leave=Junction City (Central Kansas)
+signed 1910-05-22; join=Concordia (Central Kansas)
+player 1910 Concordia (Central Kansas)
+
+#20191118_012 Connor
+player 1910 Junction City (Central Kansas)
+released 1910-05-21; leave=Junction City (Central Kansas)
+signed 1910-05-22; join=Concordia (Central Kansas)
+
+#20191118_013 Sommers, Herbert
+player 1910 Ellsworth (Central Kansas)
+college Kansas University
+
+---
+
+!citation The Clay Center Dispatch @ 1910-05-25; page 1
+
+#20191118_014 Horrell
+player 1910 Clay Center (Central Kansas)
+released 1910-05-25; leave=Clay Center (Central Kansas)
+
+#20191118_015 Clemens
+player 1910 Clay Center (Central Kansas)
+released 1910-05-25; leave=Clay Center (Central Kansas)
+
+---
+
+!citation The Morning Chronicle @ 1910-05-25; page 4
+
+#20191118_016 Stewart
+player 1910 Manhattan (Central Kansas)
+released 1910-05-25; leave=Manhattan (Central Kansas)
+
+#20191118_017 Dye, Fred
+player 1910 Manhattan (Central Kansas)
+
+---
+
+!citation The Dispatch-Republican @ 1910-05-26; page 1
+
+#20191118_018 Horrell
+signed 1910-05-25; join=Concordia (Central Kansas)
+
+---
+
+!citation Concordia Daily Kansas @ 1910-05-26; page 1
+
+#20191118_019 Sipes
+player 1910 Concordia (Central Kansas)
+released 1910-05-25; leave=Concordia (Central Kansas)
+
+#20191118_020 Livingston
+player 1910 Concordia (Central Kansas)
+released 1910-05-25; leave=Concordia (Central Kansas)
+
+---
+
+!citation The Junction City Daily Union @ 1910-05-26; page 3
+
+#20191118_021 Wright
+player 1910 Junction City (Central Kansas)
+released 1910-05-25; leave=Junction City (Central Kansas)
+
+---
+
+!citation Concordia Daily Kansas @ 1910-05-27; page 2
+
+#20191118_022 Johnson, Carlos
+player 1910 Concordia (Central Kansas)
+
+---
+
+!citation The Junction City Daily Union @ 1910-05-27; page 5
+
+#20191118_023 Locke
+player 1910 Junction City (Central Kansas)
+released 1910-05-26; leave=Junction City (Central Kansas)
+
+#20191118_024 Sullivan
+player 1910 Junction City (Central Kansas)
+released 1910-05-26; leave=Junction City (Central Kansas)
+
+#20191118_025 Heyser
+player 1910 Junction City (Central Kansas)
+released 1910-05-26; leave=Junction City (Central Kansas)
+
+---
+
+!citation Abilene Daily Chronicle @ 1910-05-31; page 4
+
+#20191118_026 Fowler
+player 1910 Abilene (Central Kansas); @C
+released 1910-05-28; leave=Abilene (Central Kansas)
+
+#20191118_027 Scheele
+player 1910 Abilene (Central Kansas); @P TL
+released 1910-05-28; leave=Abilene (Central Kansas)
+
+---
+
+!citation The Junction City Daily Union @ 1910-06-01; page 3
+
+#20191118_028 Sullivan
+player 1910 Junction City (Central Kansas)
+signed 1910-05-31; join=Manhattan (Central Kansas)
+
+#20191118_029 Ramsey
+player 1910 Junction City (Central Kansas)
+released 1910-05-31; leave=Junction City (Central Kansas)
+signed 1910-06-01; join=Manhattan (Central Kansas)
+
+---
+
+!citation The Beloit Daily Call @ 1910-06-02; page 5
+
+#20191118_030 Eckert
+player 1910 Beloit (Central Kansas)
+released 1910-06-02; leave=Beloit (Central Kansas)
+
+#20191118_031 Hayes
+player 1910 Beloit (Central Kansas)
+released 1910-06-02; leave=Beloit (Central Kansas)
+
+#20191118_032 Culver
+player 1910 Beloit (Central Kansas)
+released 1910-06-02; leave=Beloit (Central Kansas)
+
+#20191118_033 Griffin
+player 1910 Beloit (Central Kansas)
+released 1910-06-02; leave=Beloit (Central Kansas)
+
+#20191118_034 Fitzgerald
+player 1910 Beloit (Central Kansas)
+released 1910-06-02; leave=Beloit (Central Kansas)
+
+---
+
+!citation The Salina Evening Journal @ 1910-06-04; page 5
+
+#20191118_035 Grady, Mike
+player 1910 Salina (Central Kansas)
+
+#20191118_036 Atterberry
+player 1910 Salina (Central Kansas)
+released 1910-05; leave=Salina (Central Kansas)
+signed 1910-05; join=Beloit (Central Kansas)
+
+---
+
+!citation The Salina Evening Journal @ 1910-06-08; page 5
+
+#20191118_037 Epling
+player 1910 Salina (Central Kansas)
+player 1910 Abilene (Central Kansas)
+
+#20191118_038 Grogan
+player 1910 Junction City (Central Kansas)
+released 1910-06; leave=Junction City (Central Kansas)
+
+#20191118_039 Newell, Dutch
+player 1910 Beloit (Central Kansas)
+
+#20191118_040 Seigle
+player 1910 Beloit (Central Kansas)
+player 1909 Ellsworth (Central Kansas)
+
+#20191118_041 Fowler
+player 1910 Concordia (Central Kansas)
+player 1910 Beloit (Central Kansas)
+
+#20191118_042 Keifer
+player 1910 Concordia (Central Kansas)
+player 1910 Beloit (Central Kansas)
+
+---
+
+!citation Concordia Blade-Empire @ 1910-06-08; page 4
+
+#20191118_043 Hays, Tommy
+player 1910 Salina (Central Kansas); @C
+
+---
+
+!citation The Beloit Daily Call @ 1910-06-09; page 8
+
+#20191118_044 White
+player 1910 Ellsworth (Central Kansas)
+player 1910 Newton (Kansas State)
+
+---
+
+!citation The Clay Center Dispatch @ 1910-06-09; page 1
+
+#20191118_045 Beck
+player 1910 Clay Center (Central Kansas)
+released 1910-06-08; leave=Clay Center (Central Kansas)
+resides 1910 @ US/OK/Guthrie
+
+#20191118_046 Griffiths
+player 1910 Abilene (Central Kansas)
+player 1910 Clay Center (Central Kansas)
+
+---
+
+!citation The Manhattan Mercury @ 1910-06-09; page 1
+
+#20191118_047 Gardiner, Frank
+manager 1910 Manhattan (Central Kansas)
+player 1910 Manhattan (Central Kansas)
+released 1910-06-08; leave=Manhattan (Central Kansas)
+
+#20191118_048 Strong, Al
+player 1910 Manhattan (Central Kansas)
+manager 1910 Manhattan (Central Kansas)
+
+---
+
+!citation The Clay Center Dispatch @ 1910-06-10; page 1
+
+#20191118_049 Strong, Wilbur
+player 1910 Clay Center (Central Kansas)
+
+---
+
+!citation The Clay Center Dispatch @ 1910-06-13; page 1
+
+#20191118_050 Hawk
+player 1910 Clay Center (Central Kansas)
+released 1910-06-11; leave=Clay Center (Central Kansas)
+
+#20191118_051 Shimeall
+player 1910 Clay Center (Central Kansas)
+player 1910 Sabetha (Eastern Kansas)
+
+---
+
+!citation Abilene Daily Chronicle @ 1910-06-13; page 4
+
+#20191118_052 Schopp, Grant
+player 1910 Abilene (Central Kansas); @P TL
+player 1910 Birmingham (Southern)
+
+---
+
+!citation The Salina Evening Journal @ 1910-06-14; page 5
+
+#20191118_053 Abbott
+player 1910 Salina (Central Kansas)
+released 1910-06-11; leave=Salina (Central Kansas)
+
+---
+
+!citation The Salina Daily Union @ 1910-06-14; page 5
+
+#20191118_054 Fowler, Jack
+player 1910 Concordia (Central Kansas)
+
+#20191118_055 Fowler, Seth
+player 1910 Concordia (Central Kansas)
+
+---
+
+!citation The Morning Chronicle @ 1910-06-14; page 4
+
+#20191118_056 Strohm, Art
+player 1910 Manhattan (Central Kansas)
+
+---
+
+!citation The Salina Daily Union @ 1910-06-15; page 3
+
+#20191118_057 Connors
+player 1910 Junction City (Central Kansas)
+manager 1910 Hiawatha (Eastern Kansas)
+
+#20191118_058 Sporn, John
+player 1910 Manhattan (Central Kansas)
+player 1909 Manhattan (Central Kansas)
+
+---
+
+!citation The Junction City Daily Union @ 1910-06-15; page 3
+
+#20191118_059 Vitters, Roland
+player 1910 Wellington (Kansas State)
+
+#20191118_060 Hinton, Burr
+player 1910 Junction City (Central Kansas)
+
+---
+
+!citation The Morning Chronicle @ 1910-06-15; page 3
+
+#20191118_061 McGrew, [Bud]
+player 1910 Junction City (Central Kansas)
+player 1908 Salina (Central Kansas)
+
+---
+
+!citation Abilene Daily Reflector @ 1910-06-16; page 3
+
+#20191118_062 Sommers, Herbert
+player 1910 Ellsworth (Central Kansas)
+player 1910 Clay Center (Central Kansas)
+
+---
+
+!citation Beloit Dail Gazette @ 1910-06-16; page 4
+
+#20191118_063 Carroll
+player 1910 Marysville (Eastern Kansas)
+player 1910 Beloit (Central Kansas)
+
+#20191118_064 Darrow
+player 1910 Beloit (Central Kansas)
+player 1910 Marysville (Eastern Kansas)
+
+---
+
+!citation The Morning Chronicle @ 1910-06-16; page 4
+
+#20191118_065 Lewis
+player 1910 Manhattan (Central Kansas)
+player 1909 Minneapolis (Central Kansas)
+
+---
+
+!citation The Salina Evening Journal @ 1910-06-17; page 7
+
+#20191118_066 Sommers
+traded 1910-06-16; leave=Ellsworth (Central Kansas); join=Clay Center (Central Kansas)
+
+#20191118_067 Wentz
+traded 1910-06-16; leave=Clay Center (Central Kansas); join=Ellsworth (Central Kansas)
+
+---
+
+!citation The Beloit Daily Call @ 1910-06-17; page 4
+
+#20191118_068 Short, Harry
+player 1910 Concordia (Central Kansas)
+manager 1910 Concordia (Central Kansas)
+
+---
+
+!citation The Dispatch-Republican @ 1910-06-17; page 1
+
+#20191118_069 Jewell, [Stony]
+player 1910 Junction City (Central Kansas)
+player 1910 Clay Center (Central Kansas)
+
+---
+
+!citation The Salina Evening Journal @ 1910-06-20; page 5
+
+#20191118_070 Bacon
+player 1910 Lyons (Kansas State)
+player 1910 Junction City (Central Kansas)
+
+#20191118_071 O'Neil
+player 1910 Junction City (Central Kansas)
+player 1910 Denver (Western)
+
+#20191118_072 Parks, Tom
+player 1910 Clay Center (Central Kansas)
+player 1910 Manhattan (Central Kansas)
+
+#20191118_073 Murie
+player 1910 Clay Center (Central Kansas)
+player 1910 Manhattan (Central Kansas)
+
+---
+
+!citation The Junction City Daily Union @ 1910-06-20; page 3
+
+#20191118_074 Murie, Wallace
+player 1910 Clay Center (Central Kansas)
+player 1910 Manhattan (Central Kansas)
+
+#20191118_075 Jepson, J. P.
+player 1910 Junction City (Central Kansas)
+
+#20191118_076 Evans, Roy
+player 1910 Junction City (Central Kansas)
+
+---
+
+!citation The Manhattan Mercury @ 1910-06-20; page 3
+
+#20191118_077 Oswalt
+player 1910 Manhattan (Central Kansas)
+released 1910-06-18; leave=Manhattan (Central Kansas)
+
+#20191118_078 Shull
+player 1910 Manhattan (Central Kansas)
+released 1910-06-18; leave=Manhattan (Central Kansas)
+
+#20191118_079 Lewis
+player 1910 Manhattan (Central Kansas)
+released 1910-06-18; leave=Manhattan (Central Kansas)
+
+#20191118_080 Sullivan
+player 1910 Manhattan (Central Kansas)
+released 1910-06-18; leave=Manhattan (Central Kansas)
+
+#20191118_081 Pierce, Jim
+player 1910 Manhattan (Central Kansas)
+
+---
+
+!citation The Salina Evening Journal @ 1910-06-22; page 5
+
+#20191118_082 Stack, Judd
+player 1910 Manhattan (Central Kansas)
+
+---
+
+!citation The Junction City Daily Union @ 1910-06-22; page 3
+
+#20191118_083 Abbott
+player 1909 Salina (Central Kansas)
+player 1910 Salina (Central Kansas)
+umpire 1910 Central Kansas
+
+---
+
+!citation The Salina Evening Journal @ 1910-06-24; page 7
+
+#20191118_084 Taylor, Charles
+player 1910 Salina (Central Kansas)
+player 1910 (Illinois-Indiana-Iowa)
+player 1909 (Western Association)
+
+---
+
+!citation The Manhattan Mercury @ 1910-06-24; page 1
+
+#20191118_085 Abbott
+player 1910 Salina (Central Kansas)
+player 1910 Manhattan (Central Kansas)
+
+---
+
+!citation The Beloit Daily Call @ 1910-06-25; page 4
+
+#20191118_086 O'Neil, Pete
+player 1910 Junction City (Central Kansas)
+player 1910 Denver (Western)
+
+---
+
+!citation The Morning Chronicle @ 1910-06-27; page 4
+
+#20191118_087 Lindsey, Charles
+player 1910 Manhattan (Central Kansas)
+
+---
+
+!citation Argus-Leader @ 1924-05-08; page 9
+
+#20191118_088 Freeman, Arnett J. [Buck]
+player 1924 Sioux Falls (Tri-State); @P BR TR; age 22; H72 W175
+player 1923 Tulsa (Western)
+
+#20191118_089 Chesterfield, Roy M. [Buzz]
+player 1924 Sioux Falls (Tri-State); @P BR TR; age 22; H71 W185
+player 1923 Terre Haute (Illinois-Indiana-Iowa)
+
+#20191118_090 Harkins, Pat [Irish]
+player 1924 Sioux City (Tri-State); @P BL TL; age 33; H70.5 W175
+
+#20191118_091 Beck, George [Eaglebeak]
+player 1924 Sioux Falls (Tri-State); @P BR TR; age 28; H71 W155
+player 1923 Rockford (Illinois-Indiana-Iowa)
+
+#20191118_092 Mapel, John A. [Sugar]
+player 1924 Sioux City (Tri-State); @P BR TR; age 24; H73 W175
+player 1923 Mitchell (Dakota)
+
+#20191118_093 Snow, Graeme
+player 1924 Sioux City (Tri-State); @C BS TR; age 28; H71 W190
+player 1923 Buffalo (International)
+
+#20191118_094 Thompsen, Fred
+player 1924 Sioux City (Tri-State); @C BR TR; age 24; H70 W183
+
+#20191118_095 Stuvengen, Charles [Stuvy]
+player 1924 Sioux City (Tri-State); @1B BR TR; age 25; H72 W195
+player 1923 Worcester (Eastern)
+
+#20191118_096 Meier, Thomas [Tommy]
+player 1924 Sioux Falls (Tri-State); @2B BR TR; age 26; H67.5 W145
+player 1923 Fairbury (Nebraska State)
+
+#20191118_097 Dye, Scott [Beech-Nut]
+player 1924 Sioux Falls (Tri-State); @2B BR TR; age 29; H69.5 W155
+player 1923 Lincoln (Nebraska State)
+
+#20191118_098 Cleveland, Dick
+player 1924 Sioux Falls (Tri-State); @3B BL TR; age 23; H69.5 W155
+player 1923 Marshalltown (Mississippi Valley)
+
+#20191118_099 Menard, Arville [Minnie]
+player 1924 Sioux Falls (Tri-State); @SS BR TR; age 22; H72 W175
+player 1923 Lincoln (Nebraska State)
+
+#20191118_100 Conner, Ben [Boots]
+player 1924 Sioux Falls (Tri-State); @RF BR TR; age 22; H68 W172
+player 1923 Waterloo (Mississippi Valley)
+
+#20191118_101 Pappio, Joe [Shelk]
+player 1924 Sioux Falls (Tri-State); @CF BR TR; age 23; H72 W185
+
+#20191118_102 Fleury, Solomon [Sol]
+player 1924 Sioux Falls (Tri-State); @LF BL TL; age 22; H69 W170
+
+---
+
+!citation The Salina Daily Union @ 1910-06-28; page 5
+
+#20191118_103 Sommers, Herbert
+player 1910 Clay Center (Central Kansas)
+player 1910 Abilene (Central Kansas)
+
+---
+
+!citation The Salina Evening Journal @ 1910-06-28; page 7
+
+#20191118_104 Hawk
+player 1910 Clay Center (Central Kansas)
+player 1910 Tulsa (Western Association)
+
+#20191118_105 Taylor, Charles
+player 1910 Salina (Central Kansas)
+player 1909 Pittsburg (Western Association)
+
+---
+
+!citation The Beloit Daily Gazette @ 1910-06-28; page 4
+
+#20191118_106 Mack, James
+player 1910 Clay Center (Central Kansas)
+
+#20191118_107 Riley
+player 1910 Clay Center (Central Kansas)
+
+---
+
+!citation The Clay Center Dispatch @ 1910-06-28; page 1
+
+#20191118_108 Myers, Clarence
+player 1910 Clay Center (Central Kansas); TL
+
+#20191118_109 Stokesberry
+player 1910 Clay Center (Central Kansas); TL
+
+---
+
+!citation The Junction City Daily Union @ 1910-06-28; page 3
+
+#20191118_110 Wheatley
+player 1910 Abilene (Central Kansas); age 17
+birth 1893-06-27
+
+---
+
+!citation The Salina Evening Journal @ 1910-06-30; page 5
+
+#20191118_111 Ahearn, Mike
+umpire 1910 Central Kansas
+
+#20191118_112 Snyder, Harry
+umpire 1910 Central Kansas
+
+#20191118_113 Bankhead, Cecil
+manager 1910 Junction City (Central Kansas)
+manager 1909 Lyons (Kansas State)
+
+---
+
+!citation The Beloit Daily Call @ 1910-06-30; page 8
+
+#20191118_114 Attebury, [Hi]
+player 1910 Beloit (Central Kansas)
+resides 1910 @ US/MO/Webb City
+
+---
+
+!citation Beloit Daily Gazette @ 1910-06-30; page 4
+
+#20191118_115 St. Johns, Roy
+player 1910 Beloit (Central Kansas)
+
+---
+
+!citation The Salina Evening Journal @ 1910-07-02; page 5
+
+#20191118_116 Bankhead, Cecil
+grandson of Bankhead, Jack 
+
+---
+
+!citation The Junction City Daily Union @ 1910-07-05; page 3
+
+#20191118_117 Weller, Willie
+player 1910 Junction City
+
+---
+
+!citation The Salina Daily Union @ 1910-07-06; page 5
+
+#20191118_118 Mier, O.
+player 1910 Junction City (Central Kansas)
+player 1910 St. Joseph (Western Association)
+
+#20191118_119 Finch
+player 1910 Junction City (Central Kansas)
+player 1910 Falls City (Missouri-Iowa-Nebraska-Kansas)
+
+---
+
+!citation The Junction City Daily Union @ 1910-07-06; page 3
+
+#20191118_120 Woods, C. B.
+player 1910 Junction City
+resides 1910 @ US/MN/St. Paul
+
+#20191118_121 Owens
+player 1910 Junction City
+resides 1910 @ US/KS/Fort Riley
+
+---
+
+!citation The Salina Evening Journal @ 1910-07-08; page 7
+
+#20191118_122 Bullock
+player 1910 Abilene (Central Kansas)
+player 1910 Topeka (Western)
+
+---
+
+!citation The Beloit Daily Call @ 1910-07-08; page 4
+
+#20191118_123 Swartzgill
+player 1910 Beloit (Central Kansas)
+released 1910-07-08; leave=Beloit (Central Kansas)
+
+---
+
+!citation The Salina Daily Union @ 1910-07-09; page 3
+
+#20191118_124 Riley
+player 1910 Beloit (Central Kansas)
+released 1910-07-08; leave=Beloit (Central Kansas)
+umpire 1910 Central Kansas
+
+---
+
+!citation Concordia Blade-Empire @ 1910-07-09; page 5
+
+#20191118_125 Webb
+player 1910 Concordia (Central Kansas)
+released 1910-07-08; leave=Concordia (Central Kansas)
+
+#20191118_126 Fowler, C.
+player 1910 Concordia (Central Kansas)
+released 1910-07-08; leave=Concordia (Central Kansas)
+
+---
+
+!citation The Junction City Daily Union @ 1910-07-11; page 3
+
+#20191118_127 Bashang
+player 1910 Junction City (Central Kansas)
+released 1910-07-10; leave=Junction City (Central Kansas)
+
+---
+
+!citation The Morning Chronicle @ 1910-07-11; page 4
+
+#20191118_128 Miller, Jim
+player 1910 Manhattan (Central Kansas); @C
+
+---
+
+!citation Beloit Daily Gazette @ 1910-07-12; page 4
+
+#20191118_129 Colbert
+player 1910 Beloit (Central Kansas)
+released 1910-07-11; leave=Beloit (Central Kansas)
+
+---
+
+!citation Concordia Blade-Empire @ 1910-07-15; page 1
+
+#20191118_130 Drew
+player 1910 Concordia (Central Kansas)
+released 1910-07-15; leave=Concordia (Central Kansas)
+
+---
+
+!citation The Post-Crescent @ 1909-05-07; page 1
+
+#20191118_131 Persch, Bert
+player 1909 Appleton (Wisconsin-Illinois League); BL
+
+#20191118_132 Newton
+player 1909 Appleton (Wisconsin-Illinois); TR
+player 1908 Joplin (Western Association)
+
+---
+
+!citation The Post-Crescent @ 1909-05-12; page 8
+
+#20191118_133 Cummins
+player 1909 Freeport (Wisconsin-Illinois)
+traded 1909-05-11; leave=Freeport (Wisconsin-Illinois); join=Rockford (Wisconsin-Illinois); for=Jacobson; for=Rorabaugh
+
+#20191118_134 Jacobson
+player 1909 Rockford (Wisconsin-Illinois)
+traded 1909-05-11; leave=Rockford (Wisconsin-Illinois); join=Freeport (Wisconsin-Illinois); with=Rorabaugh; for=Cummins
+
+#20191118_135 Rorabaugh
+player 1909 Rockford (Wisconsin-Illinois)
+traded 1909-05-11; leave=Rockford (Wisconsin-Illinois); join=Freeport (Wisconsin-Illinois); with=Jacobson; for=Cummins
+
+#20191118_136 Baker
+player 1909 Freeport (Wisconsin-Illinois)
+player 1908 Clinton (Illinois-Indiana-Iowa)
+
+---
+
+!citation The Post-Crescent @ 1909-05-13; page 1
+
+#20191118_137 Companion
+player 1909 Appleton (Wisconsin-Illinois); TL
+
+---
+
+!citation The Post-Crescent @ 1909-05-27; page 8
+
+#20191118_138 Dominik, Al
+player 1909 Appleton (Wisconsin-Illinois); @P TL
+released 1909-05-25; leave=Appleton (Wisconsin-Illinois)
+
+---
+
+!citation The Morning Chronicle @ 1910-07-19; page 4
+
+#20191118_139 Davis, Roy
+player 1910 Manhattan (Central Kansas); @P TL
+resides 1910 @ US/OK
+
+---
+
+!citation Abilene Daily Chronicle @ 1910-07-20; page 4
+
+#20191118_140 Parker, Earl
+player 1910 Beloit (Central Kansas)
+
+#20191118_141 Hogan, John
+player 1910 Beloit (Central Kansas)
+
+#20191118_142 Merrifield, Earl
+player 1910 Beloit (Central Kansas)
+
+---
+
+!citation The Burlington Free Press @ 1906-06-21; page 3
+
+#20191118_143 McRae
+player 1906 Burlington (Northern Independent); @P
+college Amherst College
+
+---
+
+!citation The Burlington Free Press @ 1906-06-22; page 3
+
+#20191118_144 Paine
+player 1906 Plattsburgh (Northern Independent)
+college Brown University
+
+---
+
+!citation The Burlington Free Press @ 1906-06-25; page 3
+
+#20191118_145 Martell, Leon
+player 1906 Burlington (Northern Independent)
+college Georgetown University
+note Says he was with the Boston Americans in 1906
+
+---
+
+!citation The Burlington Free Press @ 1906-07-02; page 3
+
+#20191118_146 Umstead
+player 1906 Plattsburgh (Northern Independent)
+college Cornell University
+
+#20191118_147 McGovern, Arthur
+player 1906 Rutland (Northern Independent)
+player 1906 Toronto (Eastern)
+player 1905 Boston (American)
+
+---
+
+!citation The Burlington Free Press @ 1906-07-05; page 3
+
+#20191118_148 Sylvester
+player 1906 Rutland (Northern Independent)
+alias Hughes; dates=1906/1906; type=alias
+
+---
+
+!citation The Burlington Free Press @ 1906-07-09; page 9
+
+#20191118_149 Collins, Ray
+player 1906 Burlington (Northern Independent)
+college University of Vermont
+
+---
+
+!citation The Burlington Free Press @ 1906-07-10; page 1
+
+#20191118_150 Beach, Harry
+player 1906 Burlington (Northern Independent)
+alias Ward; dates=1906/1906; type=alias
+
+#20191118_151 Kennedy, Jim
+player 1906 Ottawa (Northern Independent)
+player 1904 Rutland (Northern New York)
+
+---
+
+!citation The Burlington Free Press @ 1906-07-17; page 3
+
+#20191118_152 Davis, Dickey
+player 1906 Montpelier-Barre (Northern Independent)
+
+---
+
+!citation The Burlington Free Press @ 1906-07-21; page 3
+
+#20191118_153 Hogarty
+player 1906 Rutland (Northern Independent)
+college Holy Cross
+
+---
+
+!citation The Burlington Free Press @ 1906-07-28; page 3
+
+#20191118_154 Johnson
+player 1906 Montpelier-Barre (Northern Independent)
+college Bates College
+resides 1906 @ US/ME/Brunswick
+
+---
+
+!citation The Burlington Free Press @ 1906-08-06; page 2
+
+#20191118_155 O'Brien, Frank
+player 1906 Ottawa (Northern Independent)
+college Yale University
+resides 1906 @ US/NY/Plattsburgh
+
+---
+
+!citation The Burlington Free Press @ 1906-08-16; page 3
+
+#20191118_156 Burton
+player 1906 Montpelier-Barre (Northern Independent); TL
+
+---
+
+!citation The Burlington Free Press @ 1906-08-18; page 3
+
+#20191118_157 Higgins, Bill
+player 1906 Burlington (Northern Independent)
+player 1906 Providence (Eastern)
+college Brown University
+
+---
+
+!citation The Clay Center Dispatch @ 1910-07-23; page 1
+
+#20191118_158 Oswalt, Joe
+player 1910 Clay Center (Central Kansas)
+
+---
+
+!citation The Salina Evening Journal @ 1910-07-25; page 5
+
+#20191118_159 Scanlan, Tom
+player 1910 Chapman (Central Kansas)
+
+---
+
+!citation The Chattanooga News @ 1909-09-24; page 10
+
+#20191118_160 Smith, William Andrew
+manager 1909 Atlanta (Southern Association)
+
+#20191118_161 Walker, Scott
+player 1909 Atlanta (Southern Association); H67 W150; age 23
+birth @ US/IA/Jamaica
+
+#20191118_162 McMurray, Hugh
+player 1909 Atlanta (Southern Association); H65 W148; age 28
+
+#20191118_163 Rodgers, E. Brown
+player 1909 Atlanta (Southern Association); H77 W180
+
+#20191118_164 Newton, Al
+player 1909 Atlanta (Southern Association); H69 W176; age 28
+
+#20191118_165 Johns, Harold
+player 1909 Atlanta (Southern Association); H70.5 W175; age 25
+birth @ US/OH/Trenton
+
+#20191118_166 Winters, George William
+player 1909 Atlanta (Southern Association); H68 W175; age 34
+birth @ US/MO/St. Louis
+
+---
+
+!citation Chattanooga Daily Times @ 1922-12-24; page 15
+
+#20191118_167 Lafitte, Jim
+player 1911 Chattanooga (Southern Association)
+
+---
+
+!citation The Salina Daily Union @ 1910-08-17; page 6
+
+#20191118_168 Wheatley, Charles
+player 1910 Abilene (Central Kansas); H72 W175

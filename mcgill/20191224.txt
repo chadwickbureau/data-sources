@@ -1,0 +1,635 @@
+!citation The Hutchison Gazette @ 1911-03-04; page 9
+
+#20191224_001 Grooms, Charles C.
+umpire 1911 Kansas State
+
+#20191224_002 Wing, Neil
+umpire 1911 Kansas State
+
+#20191224_003 Knapp, Louis
+umpire 1911 Kansas State
+
+#20191224_004 Ray, Bert S.
+umpire 1911 Kansas State
+
+---
+
+!citation The Hutchinson Gazette @ 1911-05-18; page 3
+
+#20191224_005 Snyder, Wilbur
+player 1911 Lyons (Kansas State); @P
+resides 1911 @ US/KS/Rose Hill
+
+---
+
+!citation The Hutchinson News @ 1911-05-10; page 7
+
+#20191224_006 Hamlin, Fritz
+umpire 1911 Kansas State
+umpire 1910 Central Kansas
+
+#20191224_007 Knapp, Louis
+umpire 1911 Kansas State
+umpire 1910 Blue Grass
+
+---
+
+!citation The Walnut Valley Times @ 1911-05-19; page 3
+
+#20191224_008 McAuley, Earl
+player 1911 El Dorado (Kansas State)
+
+#20191224_009 Lyons, Jack
+player 1911 El Dorado (Kansas State)
+
+#20191224_010 Morgan, Dan
+player 1911 El Dorado (Kansas State)
+player 1910 Wellington (Kansas State)
+
+---
+
+!citation The Hutchinson News @ 1911-05-20; page 3
+
+#20191224_011 Conner
+player 1911 El Dorado (Kansas State); @P TL
+
+---
+
+!citation The Hutchinson Gazette @ 1911-05-20; page 3
+
+#20191224_012 Johnson, D. G. 
+player 1911 Hutchinson (Kansas State)
+playing 1911 (St. Louis Trolley League)
+college St. Marys College
+
+---
+
+!citation The Hutchinson News @ 1911-05-22; page 3
+
+#20191224_013 Laflambois, Pete
+player 1911 Hutchinson (Kansas State)
+
+#20191224_014 Lewis, Dick
+player 1911 Wellington (Kansas State)
+
+---
+
+!citation The Great Bend Tribune @ 1911-05-22; page 4
+
+#20191224_015 Fox
+player 1911 Great Bend (Kansas State)
+player 1911 Hutchinson (Kansas State)
+
+#20191224_016 Bumb, Al
+player 1911 Great Bend (Kansas State)
+
+---
+
+!citation The Evening Kansan-Republican @ 1911-05-22; page 6
+
+#20191224_017 Allen, Nick
+player 1911 Newton (Kansas State)
+
+---
+
+!citation The Hutchinson Gazette @ 1911-05-23; page 3
+
+#20191224_018 Price
+player 1911 Hutchinson (Kansas State); @P TL
+player 1910 Topeka (Western)
+
+---
+
+!citation Great Bend Tribune @ 1911-05-23; page 4
+
+#20191224_019 Ehret
+player 1911 McPherson (Kansas State); @P TL
+
+---
+
+!citation The Hutchinson News @ 1911-05-24; page 3
+
+#20191224_020 Brown, Harry
+player 1911 Hutchinson (Kansas State); H73; age 19
+resides 1911 @ US/MO/Lee's Summit
+
+---
+
+!citation The McPherson Daily Republican @ 1911-05-25; page 1
+
+#20191224_021 Clawson, Andy
+player 1911 McPherson (Kansas State)
+
+---
+
+!citation The Walnut Valley Times @ 1911-05-26; page 3
+
+#20191224_022 Salm, William
+player 1911 El Dorado (Kansas State)
+
+---
+
+!citation The Hutchinson Gazette @ 1911-05-27; page 2
+
+#20191224_023 Garrett
+player 1911 Hutchinson (Kansas State)
+player 1911 Brookfield (Missouri State)
+
+---
+
+!citation The Walnut Valley Times @ 1911-05-27; page 3
+
+#20191224_024 Garrett, Lee
+player 1911 El Dorado (Kansas State); W158 H70; age 23
+
+---
+
+!citation Stockton Daily Evening Record @ 1913-09-23; page 4
+
+#20191224_025 Butler, John
+player 1913 Stockton (California); @SS W175 H72
+birth 1893-03-20 @ US/CO/Colorado Springs
+
+#20191224_026 Edmondson, Roger
+player 1913 Stockton (California); @P W180 H73
+birth 1889-12-11 @ US/TX/Waxahachie
+player 1912 Houston (Texas)
+player 1911 Houston (Texas)
+player 1912 Venice (Pacific Coast)
+
+#20191224_027 Andrada, Frank
+player 1913 Stockton (California); @P TL H68 W168
+birth 1887-06-23
+player 1907 Elmira (New York State)
+player 1908 Elmira (New York State)
+player 1909 Elmira (New York State)
+player 1910 Roanoke (Virginia)
+player 1911 Roanoke (Virginia)
+player 1912 Macon (South Atlantic)
+
+#20191224_028 Simpson, Harry
+player 1913 Stockton (California); @C W160 H67.5
+birth 1890-01-18
+college St. Mary's College @ US/CA/Stockton
+
+#20191224_029 McClelland, Walter
+player 1913 Stockton (California); @3B W165 H69.5
+birth 1884-12-29
+player 1906 Los Angeles (Pacific Coast)
+player 1907 Calgary (Western Canada)
+player 1908 New Orleans (Southern Association)
+player 1908 East Liverpool (Ohio-Pennsylvania)
+player 1909 Wheeling (Central)
+player 1909 Akron (Ohio-Pennsylvania)
+player 1910 Johnstown (Tri-State)
+player 1911 Johnstown (Tri-State)
+player 1912 Johnstown (Tri-State)
+
+#20191224_030 Schmid, Henry
+player 1913 Stockton (California); @RF H69 W160; age 26
+birth @ US/IN/Madison
+player 1910 Tulsa (Western Association)
+
+#20191224_031 Pittman, Gil
+player 1913 Stockton (California); H71 W170
+birth 1890 @ US/TN/Jackson
+player 1908 Pine Bluff (Arkansas State)
+player 1909 Enid (Western Association)
+player 1909 Newton (Kansas State)
+player 1910 Newton (Kansas State)
+player 1911 Newton (Kansas State)
+player 1911 Beeville (Southwest Texas)
+player 1912 Great Bend (Kansas State)
+
+#20191224_032 Lewis, Tex
+player 1913 Stockton (California); @P W163 H72
+birth 1890 @ US/TX/Cotulla
+
+#20191224_033 Agnew, Troy
+player 1913 Stockton (California); @C W160 H67.75; age 22
+birth @ US/MO/Farmington
+brother of Agnew, Sam
+player 1911 (Nebraska State)
+
+#20191224_034 Esola, Joseph
+player 1913 Stockton (California); W148 H65.5
+birth 1890-05-13 @ US/CA/Amador City
+player 1912 Portland (Pacific Coast)
+player 1913 San Jose (California)
+player 1913 Vallejo (California)
+
+---
+
+!citation The Hutchinson News @ 1911-06-02; page 3
+
+#20191224_035 Freese, [Butch]
+player 1911 Larned (Kansas State)
+
+#20191224_036 Benson, [Dummy]
+player 1911 Larned (Kansas State)
+
+#20191224_037 Salm, Bill
+player 1911 El Dorado (Kansas State)
+
+---
+
+!citation Lyons Daily News @ 1911-06-02; page 3
+
+#20191224_038 Dail
+player 1911 Lyons (Kansas State)
+player 1910 Concordia (Central Kansas)
+
+#20191224_039 Clark, Tommy
+player 1911 Lyons (Kansas State)
+
+---
+
+!citation The Hutchinson News @ 1911-06-03; page 3
+
+#20191224_040 Simcox, Tom
+player 1911 McPherson (Kansas State)
+player 1911 Hutchinson (Kansas State)
+
+---
+
+!citation The Evening Kansan-Republican @ 1911-06-05; page 6
+
+#20191224_041 Bashange, Albert
+player 1911 Newton (Kansas State)
+player 1911 (Central Association)
+
+---
+
+!citation The Hutchinson News @ 1911-06-06; page 3
+
+#20191224_042 Carver
+player 1911 Lyons (Kansas State)
+player 1911 Larned (Kansas State)
+
+---
+
+!citation The Wellington Journal @ 1911-06-06; page 2
+
+#20191224_043 Tomlin
+player 1911 Great Bend (Kansas State)
+player 1911 Wellington (Kansas State)
+
+---
+
+!citation The Hutchinson Gazette @ 1911-06-07; page 3
+
+#20191224_044 Matney, Grover
+player 1911 Larned (Kansas State)
+
+---
+
+!citation The Walnut Valley Times @ 1911-06-07; page 3
+
+#20191224_045 Leach
+player 1911 Lyons (Kansas State); @P TL
+
+---
+
+!citation The Great Bend Tribune @ 1911-06-07; page 2
+
+#20191224_046 Lyons, [Ginger]
+player 1911 Lyons (Kansas State)
+player <=1910 Arkansas City (Kansas State)
+
+---
+
+!citation The Walnut Valley Times @ 1911-06-08; page 3
+
+#20191224_047 Weise
+player 1911 McPherson (Kansas State)
+player 1911 El Dorado (Kansas State)
+
+---
+
+!citation The Wellington Journal @ 1911-06-08; page 1
+
+#20191224_048 Peoples, Roy
+player 1911 Wellington (Kansas State)
+
+---
+
+!citation The Hutchinson News @ 1911-06-09; page 3
+
+#20191224_049 Johnson, Roy
+player 1911 El Dorado (Kansas State); @P TL
+college Baker College
+
+#20191224_050 Harrison, [Rip]
+player 1911 Great Bend (Kansas State)
+
+---
+
+!citation El Dorado Daily Republican @ 1911-06-09; page 6
+
+#20191224_051 Smith, Jim
+player 1911 El Dorado (Kansas State)
+college Kansas University
+resides 1911 @ US/KS/Anthony
+
+---
+
+!citation The Hutchinson News @ 1911-06-10; page 3
+
+#20191224_052 Goldwaite
+player 1911 Hutchinson (Kansas State)
+player 1911 Sapulpa (Western Association)
+
+#20191224_053 Weise
+player 1911 McPherson (Kansas State)
+player 1911 El Dorado (Kansas State)
+
+---
+
+!citation The Walnut Valley News @ 1911-06-10; page 3
+
+#20191224_054 Smith, Farmer
+player 1911 Hutchinson (Kansas State)
+
+---
+
+!citation The Wellington Journal @ 1911-06-12; page 1
+
+#20191224_055 Meade, John
+player 1911 Wellington (Kansas State)
+
+---
+
+!citation The Wichita Beacon @ 1911-06-12; page 7
+
+#20191224_056 Scott, Perry
+player 1911 Wichita (Kansas State)
+
+#20191224_057 Harmon, Gordon
+player 1911 Wellington (Kansas State)
+player 1911 Wichita (Kansas State)
+
+#20191224_058 Giffin, Tommy
+player 1911 Wellington (Kansas State)
+player 1911 Wichita (Kansas State)
+
+---
+
+!citation The Walnut Valley Times @ 1911-06-12; page 3
+
+#20191224_059 Fuller, Art
+player 1911 El Dorado (Kansas State)
+resides 1911 @ US/KS/Winfield
+
+#20191224_060 Plank, Jay
+player 1911 El Dorado (Kansas State)
+
+---
+
+!citation The Walnut Valley News @ 1911-06-13; page 3
+
+#20191224_061 Sizemore, [Cy]
+player 1911 El Dorado (Kansas State)
+player <1911 Oklahoma City (Western Association)
+
+#20191224_062 Lancaster, Eddie "Slim"
+player 1911 Hutchinson (Kansas State)
+
+---
+
+!citation The Hutchinson Gazette @ 1911-06-14; page 3
+
+#20191224_063 Liston, Emil
+player 1911 El Dorado (Kansas State)
+
+---
+
+!citation The Wichita Beacon @ 1911-06-14; page 7
+
+#20191224_064 Rector
+player 1911 Wichita (Kansas State)
+resides 1911 @ US/OK/Enid
+
+#20191224_065 Peckham
+player 1911 Wichita (Kansas State)
+
+---
+
+!citation El Dorado Daily Republican @ 1911-06-15; page 1
+
+#20191224_066 Ferrell, Texas
+player 1911 El Dorado (Kansas State)
+player 1911 Coffeyville (Western Association)
+
+---
+
+!citation The Wichita Daily Eagle @ 1911-06-15; page 7
+
+#20191224_067 Peckham
+player 1911 Wichita (Kansas State)
+player 1911 Haven; location=US/KS; caliber=amateur
+
+---
+
+!citation The Hutchinson Gazette @ 1911-06-17; page 3
+
+#20191224_068 William, Chet
+player 1911 Newton (Kansas State); @P
+
+---
+
+!citation The Wichita Beacon @ 1911-06-17; page 7
+
+#20191224_069 McLuckie, Ed
+player 1911 Wichita (Kansas State)
+
+---
+
+!citation The Hutchinson News @ 1911-06-19; page 3
+
+#20191224_070 Ornsby
+player 1911 Hutchinson (Kansas State); @P TL
+
+#20191224_071 Langley, Leo
+player 1911 Lyons (Kansas State)
+
+---
+
+!citation The Hutchinson News @ 1911-06-20; page 3
+
+#20191224_072 House, Warren
+player 1911 Hutchinson (Kansas State)
+
+#20191224_073 Price, Ted
+manager 1911 Wichita (Kansas State)
+manager 1909 Enid (Western Association)
+
+#20191224_074 Porkeney
+player 1911 Wichita (Kansas State)
+player 1911 Lawton (Texas-Oklahoma)
+
+#20191224_075 Hassler, Bob
+player 1911 Wichita (Kansas State)
+player <1911 Wichita (Western)
+
+---
+
+!citation The Hutchinson Gazette @ 1911-06-20; page 3
+
+#20191224_076 Ozee
+player 1911 Newton (Kansas State)
+player 1911 (Central Association)
+player 1910 Sioux City (Western)
+
+---
+
+!citation The Walnut Valley Times @ 1911-06-20; page 3
+
+#20191224_077 Womack
+player 1911 El Dorado (Kansas State); @P TL
+player 1911 Muskogee (Western Association)
+
+---
+
+!citation The Hutchinson Gazette @ 1911-06-21; page 3
+
+#20191224_078 Farrell, [Tex]
+player 1911 El Dorado (Kansas State)
+player 1911 Independence (Western Association)
+
+#20191224_079 Parrott
+player 1911 El Dorado (Kansas State)
+player 1911 Independence (Western Association)
+
+#20191224_080 Fulwider
+player 1911 El Dorado (Kansas State)
+player 1911 Independence (Western Association)
+
+---
+
+!citation The McPherson Daily Republican @ 1911-06-21; page 2
+
+#20191224_081 Summers
+player 1911 McPherson (Kansas State)
+player 1911 Ellsworth (Central Kansas)
+
+---
+
+!citation The Walnut Valley Times @ 1911-06-22; page 4
+
+#20191224_082 Brannon, George
+player 1911 El Dorado (Kansas State)
+player 1910 McPherson (Kansas State)
+player 1909 McPherson (Kansas State)
+
+---
+
+!citation The Hutchinson News @ 1911-06-28; page 3
+
+#20191224_083 Killilay, Martin
+player 1911 El Dorado (Kansas State)
+umpire 1911 Kansas State
+
+#20191224_084 Langley, Leo
+umpire 1911 Kansas State
+
+#20191224_085 Guinn, Ike
+umpire 1911 Kansas State
+
+---
+
+!citation The Hutchinson Gazette @ 1911-06-25; page 8
+
+#20191224_086 Wetzel
+player 1911 Great Bend (Kansas State)
+player 1911 Lyons (Kansas State)
+
+---
+
+!citation El Dorado Daily Republican @ 1911-06-27; page 6
+
+#20191224_087 Lyons, Charles
+manager 1911 Wellington (Kansas State)
+player 1911 Great Bend (Kansas State)
+manager 1910 Great Bend (Kansas State)
+
+---
+
+!citation The Walnut Valley Times @ 1911-06-27; page 3
+
+#20191224_088 Parrott, Bill
+player 1911 El Dorado (Kansas State)
+
+---
+
+!citation The Hutchinson News @ 1911-06-29; page 3
+
+#20191224_089 Quinlan
+player 1911 Lyons (Kansas State)
+resides 1911 @ US/KS/Lyons
+son of Quinlan, W. J.
+
+---
+
+!citation The Hutchinson News @ 1911-07-03; page 3
+
+#20191224_090 Reid, Will
+player 1911 Hutchinson (Kansas State)
+player 1911 Newton (Kansas State)
+
+---
+
+!citation The Hutchinson News @ 1911-07-05; page 3
+
+#20191224_091 Harmon
+player 1911 Wellington (Kansas State)
+player 1911 Great Bend (Kansas State)
+
+---
+
+!citation The Hutchinson Gazette @ 1911-06-30; page 3
+
+#20191224_092 Landreth, Cyrus
+player 1911 Lyons (Kansas State)
+
+---
+
+!citation The Walnut Valley Times @ 1911-07-03; page 3
+
+#20191224_093 Anderson, Tony
+player 1911 El Dorado (Kansas State)
+manager <1911 (Missouri Valley)
+manager <1911 (Western)
+
+---
+
+!citation The Walnut Valley Times @ 1911-07-05; page 3
+
+#20191224_094 Leonard, Lott
+player 1911 El Dorado (Kansas State)
+
+---
+
+!citation Lyons Daily News @ 1911-07-05; page 4
+
+#20191224_095 Blank, Cooney
+player 1911 Sapulpa (Western Association)
+player 1911 Lyons (Kansas State)
+
+#20191224_096 Weisner, Charles
+player 1911 Lyons (Kansas State)
+
+---
+
+!citation The Hutchinson News @ 1911-07-10; page 3
+
+#20191224_097 Blank, Cooney
+player 1911 Lyons (Kansas State)
+player 1911 Tulsa (Western Association)
+
+---
+
+!citation The Hutchinson Gazette @ 1911-07-12; page 3
+
+#20191224_098 Miller
+player 1911 Hutchinson (Kansas State)
+player 1909 (Kansas State)

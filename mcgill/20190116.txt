@@ -1,0 +1,110 @@
+!citation The South Bend Tribune @ 1904-04-29; page 3
+
+#20190116_001 Moffitt, Elmer
+player 1904 South Bend (Central); @P
+
+---
+
+!citation The South Bend Tribune @ 1904-05-03; page 3
+
+#20190116_002 Poor, Jap
+player 1904 Kansas City (American Association); @SS
+alias Wagner, John; dates=1904/1904; type=alias
+
+---
+
+!citation The South Bend Tribune @ 1904-05-07; page 3
+
+#20190116_003 Harrod, Harry
+player 1904 South Bend (Central)
+resides 1904 @ US/IN/Fort Wayne
+
+---
+
+!citation The South Bend Tribune @ 1904-05-10; page 3
+
+#20190116_004 Wolf, George E.
+executive 1904 South Bend (Central); title=Director
+
+---
+
+!citation The South Bend Tribune @ 1904-05-13; page 3
+
+#20190116_005 Doran, E. B.
+executive 1904 South Bend (Central); title=Director
+
+#20190116_006 Lander, William
+executive 1904 Dayton (Central); title=Director
+
+---
+
+!citation The South Bend Tribune @ 1909-06-25; page 12
+
+#20190116_007 West, William
+player 1909 Evansville (Central)
+
+#20190116_008 Stahlhefer, Harry
+executive 1909 Evansville (Central); title=President
+
+---
+
+!citation The South Bend Tribune @ 1906-04-25; page 3
+
+#20190116_009 Carson, F. R.
+executive 1906 Central League; title=President
+
+#20190116_010 Martin, Fred
+executive 1906 South Bend (Central); title=President
+
+#20190116_011 Heenan, John L.
+executive 1906 Terre Haute (Central); title=President
+
+---
+
+!citation The South Bend Tribune @ 1904-05-19; page 3
+
+#20190116_012 Halderman, Charles W.
+umpire 1904 Central League
+executive 1904 Central League; title=Vice President
+owner 1904 Marion (Central)
+
+---
+
+!citation The South Bend Tribune @ 1904-05-24; page 3
+
+#20190116_013 DeArmond, Charlie
+umpire 1904 Central League
+player 1903 Terre Haute (Central)
+resides 1904 @ US/OH/Hamilton
+
+---
+
+!citation The South Bend Tribune @ 1904-05-25; page 3
+
+#20190116_014 Sapp, Charles
+player 1904 Marion (Central)
+player 1904 Dayton (Central)
+
+#20190116_015 Gormley, Gene
+player 1904 Dayton (Central)
+
+---
+
+!citation The South Bend Tribune @ 1904-06-01; page 3
+
+#20190116_016 Reed, Ed
+player 1904 Terre Haute (Central)
+
+---
+
+!citation The South Bend Tribune @ 1904-06-02; page 3
+
+#20190116_017 Halderman, William H.
+owner 1904 Grand Rapids (Central)
+
+---
+
+!citation The South Bend Tribune @ 1904-06-24; page 3
+
+#20190116_018 Spangler, Alva
+player 1904 South Bend (Central)

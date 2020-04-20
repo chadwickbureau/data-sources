@@ -3,8 +3,7 @@
 !file Espy_Cecil.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-08-24
 
-#profile Espy, Cecil Edward, Sr.
-key 201711_Espy
+#201711_001 Espy, Cecil Edward, Sr.
 birth 1935-09-06 @ US/CA/San Diego
 death 2017-11-16
 highschool San Diego HS @ US/CA/San Diego
@@ -18,8 +17,7 @@ father of Espy, Cecil, Jr.
 !file Stange_Donald.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-08-17
 
-#profile Stange, Donald C.
-key 201711_Stange
+#201711_002 Stange, Donald C.
 birth 1930-11-27
 death 2017-11-15
 burial Queen of Heaven Catholic Cemetery @ US/IL/Hillside
@@ -31,9 +29,628 @@ burial Queen of Heaven Catholic Cemetery @ US/IL/Hillside
 !file Jones_Lew.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-03-10
 
-#profile Jones, Lewis A., Sr. [Lew]
-key 201711_Jones
+#201711_003 Jones, Lewis A., Sr. [Lew]
 death 2017-11-12 @ US/FL/The Villages 
 highschool Crooms Academy @ US/FL/Sanford
 college Florida A&M University
 military US Air Force
+
+---
+
+!citation Resthaven Funeral Home @ 2017-11-19
+!url http://www.resthavenbatonrouge.com/memorialpage.asp?page=odetail&id=80945&locid=36
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-11-19
+
+#201711_004 Ackoury, Emile Anthony, Jr. [E. A.]
+birth 1929-02-25
+death 2017-11-17
+highschool Catholic HS @ US/LA/Baton Rouge
+college University of Louisiana at Lafayette
+military US Air Force @ Korean War
+burial Resthaven Gardens of Memory @ US/LA/Baton Rouge
+
+---
+
+!citation Mitchell-Jerdan Funeral Home @ 2017-11-13
+!url http://www.mitchell-jerdan.com/obituaries/James-Bain-4/#!/Obituary
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-11-13
+
+#201711_005 Bain, James C. [Boomer]
+birth 1932-01-27 @ US/MO/Puxico
+death 2017-11-01 @ US/FL/Bonita Springs
+military US Navy 
+
+---
+
+!citation TheSnapOnline.com @ 2017-11-27
+!url http://obituaries.thesnaponline.com/obituary/ronald-barbee-1940-2017-1003896301
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-11-27
+
+#201711_006 Barbee, Ronald [Ron]
+birth 1940-06-12
+death 2017-11-19
+highschool Stanfield HS @ US/NC/Stanfield
+military US Army 
+
+---
+
+!citation MLB news @ 2017-11-20
+!url http://m.mlb.com/news/article/262239182/former-mlb-outfielder-bob-borkowski-dies-at-91/
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-11-21
+
+#201711_007 Borkowski, Bob
+birth 1926-01-27 @ US/OH/Dayton
+death 2017-11-18
+
+---
+
+!citation Newcomer Funeral Home @ 2017-11-21
+!url http://www.newcomerdayton.com/Obituary/150964/Bob-Borkowski/Dayton-Ohio
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-11-21
+
+#201711_008 Borkowski, Bob "Bush"
+birth 1926
+death 2017-11-18
+military US Navy 
+burial Calvary Cemetery @ US/OH/Kettering
+
+---
+
+!citation Urgel Bourgie Funeral Home @ 2017-11-13
+!url https://www.urgelbourgie.com/fr/necrologie-avis-de-deces/48677-claude-brodeur
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-11-13
+
+#201711_009 Brodeur, Claude
+birth 1959
+death 2017-11-11 @ CA/QC/Montreal
+
+---
+
+!citation Arizona Daily Star @ 2017-11-10
+!url http://www.legacy.com/obituaries/tucson/obituary.aspx?n=dave-casanega-cachas&pid=187201753
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-11-10
+
+#201711_010 Casanega, Dave "Cachas"
+birth 1934-03-13 @ US/AZ/Nogales
+death 2017-11-07
+highschool Nogales HS @ US/AZ/Nogales
+
+---
+
+!citation Scranton Times @ 2017-11-14
+!url http://www.legacy.com/obituaries/thetimes-tribune/obituary.aspx?n=michael-edward-chorba&pid=187235372&fhid=28267
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-11-14
+
+#201711_011 Chorba, Michael Edward [Mike] "Ed"
+birth 1924-10-01 @ US/PA/Throop
+death 2017-11-12 @ US/PA/Scranton
+highschool Throop HS @ US/PA/Throop
+military US Marines @ World War II
+
+---
+
+!citation Lafond-Ardoin Funeral Home @ 2017-11-14
+!url http://www.lafondardoin.com/memorialpage.asp?page=odetail&id=80813&locid=6
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-11-14
+
+#201711_012 Couvillion, Raymond Cecil [Ray]
+birth 1925-07-31
+death 2017-11-12 @ US/LA/Opelousas
+burial Cedar Hill Cemetery @ US/LA/Washington
+
+---
+
+!citation Tampa Bay Times @ 2017-12-04
+!url http://www.legacy.com/obituaries/tampabaytimes/obituary.aspx?n=donald-cox&pid=187423518&eid=sp_ommatch
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-12-04
+
+#201711_013 Cox, Donald
+birth  @ US/TX/Overton
+death 2017-11-29
+
+---
+
+!citation Legacy.com @ 2017-11-14
+!url http://www.legacy.com/ns/bobby-doerr-obituary/187237898
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-11-14
+
+#201711_014 Doerr, Robert Pershing [Bobby]
+birth 1918-04-07 @ US/CA/Los Angeles
+death 2017-11-13 @ US/OR/Junction City
+military US Navy @ World War II
+
+---
+
+!citation Musgrove Funeral Home @ 2017-12-10
+!url https://www.musgroves.com/obituary.cfm?name=RobertDoerr
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-11-14
+
+#201711_015 Doerr, Robert Pershing [Bobby]
+birth 1918-04-07 @ US/CA/Los Angeles
+death 2017-11-13
+highschool Fremont HS @ US/CA/Los Angeles
+military US Army @ World War II
+
+---
+
+!citation Daily Hampshire Gazette @ 2017-11-16
+!url http://www.legacy.com/obituaries/gazettenet/obituary.aspx?n=robert-farrick-bob&pid=187252941
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-11-16
+
+#201711_016 Farrick, Robert [Bob]
+birth 1929-06-02 @ US/MA/Whately
+death 2017-11-03
+highschool Easthampton HS @ US/MA/Easthampton
+military US Air Force @ Korean War
+burial Sarasota National Cemetery @ US/FL/Sarasota
+
+---
+
+!citation Kuhn Funeral Home @ 2017-12-03
+!url http://www.kuhnfuneralhomes.com/book-of-memories/3361206/Gernert-Richard/obituary.php
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-12-03
+
+#201711_017 Gernert, Richard E. [Dick] "Monk"
+birth 1928-09-12 @ US/PA/Reading
+death 2017-11-30 @ US/PA/West Reading
+highschool Reading HS @ US/PA/Reading
+college Temple University
+
+---
+
+!citation Smith Funeral Chapels @ 2017-11-11
+!url http://www.smithfuneralchapels.com/book-of-memories/3300612/Glasgow-Colin/obituary.php
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-11-11
+
+#201711_018 Glasgow, Colin F.
+birth 1925-05-21 @ US/MN/Barnesville
+death 2017-11-08
+highschool Barnesville HS @ US/MN/Barnesville
+military US Navy @ World War II
+
+---
+
+!citation MLB.com @ 2017-11-26
+!url http://m.phillies.mlb.com/news/article/262394906/former-phils-rhp-miguel-alfredo-gonzalez-dies/
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-11-26
+
+#201711_019 Gonzalez, Miguel Alfredo
+death 2017-11-23 @ CU
+
+---
+
+!citation Smith Funeral Home @ 2017-11-29
+!url http://www.wjsmithfh.com/book-of-memories/3354604/Grabert-Herman/obituary.php
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-11-29
+
+#201711_020 Grabert, Herman, Jr.
+birth @ US/RI/Bristol
+death 2017-11-28 @ US/RI/Bristol
+describe ; TR
+military US Army 
+burial St. Mary of the Bay Cemetery @ US/RI/Warren
+
+---
+
+!citation Hickey Funeral Home @ 2017-11-23
+!url http://www.hickeyfuneral.com/sitemaker/sites/HICKEY1/obit.cgi?user=35064148_WGrayson
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-11-23
+
+#201711_021 Grayson, Walter H.
+birth 1940-01-05
+death 2017-11-17
+burial Abraham Lincoln National Cemetery @ US/IL/Elwood
+
+---
+
+!citation ESPN.com @ 2017-11-07
+!url http://www.espn.com/mlb/story/_/id/21331438/roy-halladay-40-dies-plane-crash-gulf-mexico
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-11-07
+
+#201711_022 Halladay, Roy
+death 2017-11-07 @ QS//Gulf of Mexico
+
+---
+
+!citation Ritchie & Peach Funeral Home @ 2017-11-08
+!url http://www.ritchieandpeach.com/obituary/john-halvachs-jr
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-11-08
+
+#201711_023 Halvachs, John B., Jr.
+birth 1931-10-15 @ US/IL/East St. Louis
+death 2017-11-03 @ US/KY/Lawrenceburg
+college Millikin University
+
+---
+
+!citation Westview Funeral Chapel @ 2017-11-27
+!url http://www.westviewfuneralchapel.com/pages/obituaries/details.php?p=3397
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-11-27
+
+#201711_024 Hammond, David Richard [Dave]
+death 2017-11-20
+
+---
+
+!citation Macon Memorial Park Funeral Home @ 2017-11-26
+!url http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Charles-Haygood&lc=7134&pid=187342707&mid=7652804
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-11-26
+
+#201711_025 Haygood, Charles [Charlie] "Buck"
+birth 1942-08-14 @ US/GA/Macon
+death 2017-11-24
+highschool Lanier HS @ US/GA/Macon
+burial Midway Baptist Church Cemetery @ US/GA/Macon
+
+---
+
+!citation Orlando Sentinel @ 2017-11-14
+!url http://www.legacy.com/obituaries/orlandosentinel/obituary.aspx?n=del-helms&pid=187235340
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-11-14
+
+#201711_026 Helms, Del
+birth 1929-08-08 @ US/FL/Lake County
+death 2017-11-08 @ US/FL/Longwood
+highschool Lyman HS @ US/FL/Longwood
+college Rollins College
+military US Army 
+
+---
+
+!citation Greensboro News & Record @ 2017-11-26
+!url http://www.greensboro.com/sports/greensboro-basketball-legend-cal-irvin-passes-away/article_9df7393c-ad2c-5edb-a340-49dca4c808a7.html
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-11-26
+
+#201711_027 Irvin, Cal
+death 2017-11-25
+
+---
+
+!citation Sweeney-Phillips & Holdren Funeral Home @ 2017-11-27
+!url http://www.sweeneyphillipsholdren.com/obituary/kenneth-jones
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-11-27
+
+#201711_028 Jones, Kenneth John [Kenny]
+birth 1924-10-09 @ US/MO/Mayview
+death 2017-11-20 @ US/MO/Warrensburg
+highschool Farmers HS @ US/MO/Warrensburg
+college Missouri Valley College
+military US Navy @ World War II
+
+---
+
+!citation Journal News @ 2017-12-03
+!url http://www.legacy.com/obituaries/lohud/obituary.aspx?n=charles-edwards-kerr&pid=187413921&fhid=2248
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-12-03
+
+#201711_029 Kerr, Charles Edward [Chuck]
+birth 1938-01-19 @ US/NY/New York
+death 2017-11-30 @ US/NY/Dobbs Ferry
+military US Army 
+burial Gate of Heaven Cemetery @ US/NY/Hawthorne
+
+---
+
+!citation Devlin Funeral Home @ 2017-11-13
+!url https://www.devlinfuneralhome.com/obituaries/william-h-bill-knoch/
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-11-13
+
+#201711_030 Knoch, William H. [Bill]
+birth 1942-08-21
+death 2017-11-11
+burial Allegheny County Memorial Park @ US/PA/Allison Park
+
+---
+
+!citation Washington Post @ 2017-11-04
+!url http://www.legacy.com/obituaries/washingtonpost/obituary.aspx?n=robert-lewis-bob&pid=187143072
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-11-05
+
+#201711_031 Lewis, Robert J. [Bob]
+birth 1928-06-07 @ US/TX/Hale Center
+death 2017-11-01
+college Texas Tech University
+military US Army @ Korean War
+
+---
+
+!citation Daily Journal @ 2017-11-14
+!url http://www.smdailyjournal.com/obituaries/richard-mirowski-jr/article_3497c2b6-c9b2-11e7-a4ff-1f4741f4c027.html
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-11-20
+
+#201711_032 Mirowski, Richard, Jr. [Richie]
+birth 1989-04-30 @ US/CA/San Mateo
+death 2017-11-04
+highschool Serra HS @ US/CA/San Mateo
+college Oklahoma Baptist University
+
+---
+
+!citation Gasch's Funeral Home @ 2017-11-25
+!url http://www.gaschs.com/notices/HaroldNitty-Nitowitz
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-11-25
+
+#201711_033 Nitowitz, Harold A.
+birth 1928-10-29
+death 2017-11-23 @ US/MD/College Park
+
+---
+
+!citation Tennessean @ 2017-11-29
+!url http://www.legacy.com/obituaries/tennessean/obituary.aspx?n=odell-e-osborne&pid=187371165&fhid=14292
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-11-29
+
+#201711_034 Osborne, Odell E., Jr.
+death 2017-11-26
+military US Army @ World War II
+
+---
+
+!citation West Harpeth Funeral Home @ 2017-11-29
+!url https://www.westharpethfh.com/obit/odell-e-osborne-jr/
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-11-29
+
+#201711_035 Osborne, Odell E., Jr.
+birth 1921-03-25 @ US/TN/Nashville
+death 2017-11-26
+
+---
+
+!citation Beacon Funeral Home @ 2017-11-10
+!url http://www.beaconfh.com/obituary/peter-palmer
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-11-10
+
+#201711_036 Palmer, Peter Norman
+birth 1928-11-07 @ US/IN/Indianapolis
+death 2017-11-07 @ US/MI/Muskegon
+college University of Michigan
+military US Army @ Korean War
+
+---
+
+!citation Kiser-Rose Hill Funeral Home @ 2017-11-13
+!url http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Rance-Pless&lc=1067&pid=187221732&mid=7636067
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-11-13
+
+#201711_037 Pless, Rance
+birth 1925-12-06
+death 2017-11-11 @ US/TN/Greeneville
+military US Navy @ World War II
+burial GreeneLawn Memory Gardens @ US/TN/Greeneville
+
+---
+
+!citation Mears Funeral Home @ 2017-11-11
+!url http://www.mearesfh.com/obituary/donald-prince
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-11-11
+
+#201711_038 Prince, Donald Mark
+birth 1938-04-05 @ US/NC/Fair Bluff
+death 2017-11-08
+college Campbell University
+college East Carolina University
+burial Hammond Cemetery @ US/SC/Nichols
+
+---
+
+!citation Avink Funeral Home @ 2017-11-25
+!url http://www.avinkcremation.com/book-of-memories/3351846/Raklovits-Richard/obituary.php
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-11-25
+
+#201711_039 Raklovits, Richard Frank
+birth 1928-06-30 @ US/IL/Chicago
+death 2017-11-21
+highschool Fenger HS @ US/IL/Chicago
+college University of Illinois
+military US Army @ Korean War
+
+---
+
+!citation Legacy.com @ 2017-11-14
+!url http://www.legacy.com/ns/jim-rivera-obituary/187242801
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-11-14
+
+#201711_040 Rivera, Jim "Jungle Jim"
+death 2017-11-13 @ US/IN/Fort Wayne
+
+---
+
+!citation McComb & Sons Funeral Home @ 2017-11-26
+!url http://hosting-24267.tributes.com/obituary/show/Manuel-Jungle-JIm-Rivera-105502080
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-11-14
+
+#201711_041 Rivera, Manuel Joseph [Jim] "Jungle Jim; Big Jim"
+birth 1921-07-22 @ US/NY/New York
+death 2017-11-14
+
+---
+
+!citation Jefferson Memorial Funeral Home @ 2017-11-04
+!url http://jmgardens.com/tribute/details/8714/Joe-Schatz/obituary.html#tribute-start
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-11-04
+
+#201711_042 Schatz, Joe E., Jr.
+birth 1938
+death 2017-11-01
+burial Jefferson Memorial Gardens East @ US/AL/Trussville
+
+---
+
+!citation Allison Memorial Chapel @ 2017-11-27
+!url http://allisonmemorialchapelandfuneralhome.com/?p=1823
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-11-27
+
+#201711_043 Shadron, Donald [Don]
+birth 1938-12-03 @ US/GA/Baxley
+death 2017-11-24 @ US/GA/Brunswick
+highschool Glynn Academy @ US/GA/Brunswick
+burial Oak Grove Cemetery @ US/GA/St. Marys
+
+---
+
+!citation Sagarino Funeral Home @ 2017-11-16
+!url http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Daniel-Siracusa&lc=2487&pid=187205939&mid=7634332
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-11-16
+
+#201711_044 Siracusa, Daniel, Sr.
+birth 1927-05-15 @ US/NY/Staten Island
+death 2017-11-09 @ US/CT/Vernon
+highschool New Dorp HS @ US/NY/Staten Island
+military US Navy 
+
+---
+
+!citation Thompson Funeral Home @ 2017-12-15
+!url http://www.thompsonsfuneral.com/obituaries/Daniel-Smigay/#!/Obituary
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-12-15
+
+#201711_045 Smigay, Daniel Bernard
+birth 1930-07-19 @ US/IL/Joliet
+death 2017-11-29
+highschool Joliet HS @ US/IL/Joliet
+college Arkansas State University
+military US Marines 
+burial Woodbridge Memorial Park @ US/SC/Lexington
+
+---
+
+!citation Buffalo News @ 2017-11-23
+!url http://buffalonews.com/2017/11/23/smolinski-philip-d/
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-11-23
+
+#201711_046 Smolinski, Philip D. [Phil]
+birth  @ US/NY/Boston
+death 2017-11-16 @ US/FL/Venice
+college Georgetown University
+college University of Buffalo
+
+---
+
+!citation Star Tribune @ 2017-11-06
+!url http://www.startribune.com/former-twins-coach-rick-stelmaszek-dies-at-69/455680823/
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-11-06
+
+#201711_047 Stelmaszek, Rick
+death 2017-11-06 @ US/IL/Chicago
+
+---
+
+!citation Consigli Ruggerio Funeral Home @ 2017-12-03
+!url http://www.consigliruggeriofuneralhome.com/Obitituaries/1054
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-12-03
+
+#201711_048 Stoico, Joseph T. [Joe]
+birth  @ US/MA/Milford
+death 2017-11-30 @ US/MA/Milford
+highschool Milford HS @ US/MA/Milford
+college Boston University
+military US Army
+
+---
+
+!citation St. Cloud TImes @ 2017-11-22
+!url http://www.legacy.com/obituaries/sctimes/obituary.aspx?n=john-k-tennant&pid=187317050&fhid=12816
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-11-22
+
+#201711_049 Tennant, John K.
+birth 1929-03-08 @ US/IL/Chicago
+death 2017-11-01 @ US/MN/Waite Park
+
+---
+
+!citation Windsor Star @ 2017-11-06
+!url http://www.legacy.com/obituaries/windsorstar/obituary.aspx?n=paul-thomas&pid=187145965
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-11-06
+
+#201711_050 Thomas, Paul Ernest "Doc"
+birth 1926-04-14 @ CA/NB/St. John
+death 2017-11-02
+
+---
+
+!citation Windsor Star @ 2017-11-03
+!url http://windsorstar.com/news/local-news/legendary-basketball-coach-paul-doc-thomas-dead-at-91
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-11-06
+
+#201711_051 Thomas, Paul "Doc"
+death 2017-11-02
+highschool Niagara Falls Collegiate Institute @ CA/ON/Niagara Falls
+college University of Western Ontario
+
+---
+
+!citation Wilkinson Funeral Home @ 2017-11-06
+!url http://www.wilkinsonfuneralhome.com/book-of-memories/3285312/Verble-Gene/obituary.php
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-11-06
+
+#201711_052 Verble, Gene Kermit
+birth 1928-06-29 @ US/NC/Concord
+death 2017-11-04 @ US/NC/Kannapolis
+highschool Hartsell HS @ US/NC/Concord
+
+---
+
+!citation Kramer Funeral Home @ 2017-11-16
+!url http://www.kramerfunerals.com/obituaries/Donald-Wilmore/#!/Obituary
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-11-16
+
+#201711_053 Wilmore, Donald H. "Hennie"
+birth 1935-12-13
+death 2017-11-14
+highschool Menard HS @ US/LA/Alexandria
+college University of Louisiana at Lafayette
+college Northwestern State University
+military US Navy 
+burial Alexandria Memorial Gardens @ US/LA/Woodworth
+
+

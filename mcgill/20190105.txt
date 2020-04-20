@@ -1,0 +1,259 @@
+!citation The La Crosse Tribune @ 1912-06-03; page 6
+
+#20190105_001 Graves, Frank
+player 1912 La Crosse (Minnesota-Wisconsin)
+
+#20190105_002 Weigent, Charlie
+player 1912 La Crosse (Minnesota-Wisconsin)
+
+---
+
+!citation The Beloit Daily Call @ 1909-06-15; page 1
+
+#20190105_003 Brumage, Alpha
+umpire 1909 Central Kansas League
+
+---
+
+!citation The Coffeyville Daily Journal @ 1911-05-05; page 2
+
+#20190105_004 Graves, George
+player 1911 Coffeyville (Western Association)
+
+#20190105_005 Graves, [Tubby]
+player 1911 Coffeyville (Western Association)
+
+---
+
+!citation The Coffeyville Daily Journal @ 1911-05-06; page 2
+
+#20190105_006 Setley, Bill
+umpire 1911 Western Association
+
+---
+
+!citation The Coffeyville Daily Journal @ 1911-05-08; page 2
+
+#20190105_007 Moffatt
+player 1911 Tulsa (Western Association)
+resides 1911 @ US/MO/Monett
+
+#20190105_008 Allen
+player 1911 Coffeyville; @P TL
+
+---
+
+!citation The Coffeyville Daily Journal @ 1911-05-09; page 2
+
+#20190105_009 Reid, Billy
+player 1911 Sapulpa (Western Association)
+
+---
+
+!citation The Coffeyville Daily Journal @ 1911-05-10; page 2
+
+#20190105_010 Near, Harry
+player 1911 Sapulpa (Western Association)
+
+#20190105_011 Coverdale, Claude
+player 1911 Coffeyville (Western Association)
+
+---
+
+!citation The Coffeyville Daily Journal @ 1911-05-12; page 2
+
+#20190105_012 Miller, Faye
+player 1911 Coffeyville (Western Association)
+
+#20190105_013 Krafft, Ned
+player 1911 Independence (Western Association)
+
+---
+
+!citation The Star Press @ 1904-03-14; page 5
+
+#20190105_014 Kane, Stephen J.
+umpire 1904 Central League
+resides 1904 @ US/KY/Louisville
+
+---
+
+!citation The Topeka Daily Herald @ 1904-04-29; page 2
+
+#20190105_015 Regan, James
+umpire 1904 Missouri Valley League
+resides 1904 @ US/MO/Kansas City
+
+#20190105_016 Franklin, George
+umpire 1904 Missouri Valley League
+resides 1904 @ US/OH/Cleveland
+
+#20190105_017 Owens, Clarence B.
+umpire 1904 Missouri Valley League
+resides 1904 @ US/IL/Chicago
+
+#20190105_018 Flynn, J. J.
+umpire 1904 Missouri Valley League
+resides 1904 @ US/IA/Sioux City
+
+---
+
+!citation The Post-Standard @ 1907-04-17; page 10
+
+#20190105_019 Gunnell, Harry
+umpire 1907 Empire State League
+resides 1907 @ US/PA/Allegheny
+
+#20190105_020 Bierhalter, William
+umpire 1907 Empire State League
+resides 1907 @ US/OH/Columbus
+
+#20190105_021 Smith, Charles
+umpire 1907 Empire State League
+resides 1907 @ CA/ON/Kingston
+
+---
+
+!citation Evansville Press @ 1908-02-07; page 4
+
+#20190105_022 Killen, Frank
+umpire 1908 Central League
+resides 1908 @ US/PA/Seewekee
+
+#20190105_023 McKenzie, John
+umpire 1908 Central League
+resides 1908 @ US/IN/Terre Haute
+
+#20190105_024 Chill, Ollie
+umpire 1908 Central League
+resides 1908 @ US/IN/Indianapolis
+
+#20190105_025 Connolly, John [Pipes]
+umpire 1908 Central League
+resides 1908 @ US/IL/Chicago
+
+---
+
+!citation The San Francisco Examiner @ 1909-02-02; page 10
+
+#20190105_026 Toman, Jimmy
+umpire 1909 Pacific Coast League
+umpire 1908 Pacific Coast League
+player Pacific Coast League
+
+#20190105_027 McCarthy, Jack
+umpire 1909 Pacific Coast League
+umpire 1908 California State League
+
+#20190105_028 McGreevy, Eugene
+umpire 1909 Pacific Coast League
+umpire 1908 Illinois-Indiana-Iowa League
+
+---
+
+!citation Argus-Leader @ 1910-04-14; page 8
+
+#20190105_029 Eckman, Edward
+umpire 1910 Illinois-Indiana-Iowa League
+
+#20190105_030 Carruthers, Robert L.
+umpire 1910 Illinois-Indiana-Iowa League
+
+#20190105_031 Genins, Frank L.
+umpire 1910 Illinois-Indiana-Iowa League
+
+#20190105_032 White, Thomas
+umpire 1910 Illinois-Indiana-Iowa League
+
+---
+
+!citation Star Tribune @ 1910-05-08; page 38
+
+#20190105_033 Anderson, Ollie
+umpire 1910 Minnesota-Wisconsin League
+resides 1910 @ US/MN/Wilmar
+
+#20190105_034 McDermott, Thomas
+umpire 1910 Minnesota-Wisconsin League
+resides 1910 @ US/MA/Haverhill
+
+#20190105_035 Augur, Frank
+umpire 1910 Minnesota-Wisconsin League
+resides 1910 @ US/OH/Toledo
+
+#20190105_036 Armudel, Thomas A.
+umpire 1910 Minnesota-Wisconsin League
+resides 1910 @ US/MI/Grand Rapids
+
+#20190105_037 Griffith, W. E.
+umpire 1910 Minnesota-Wisconsin League
+resides 1910 @ US/WI/Berlin
+
+#20190105_038 Brimwell, S. J.
+umpire 1910 Minnesota-Wisconsin League
+resides 1910 @ US/WI/Racine
+
+---
+
+!citation Chicago Tribune @ 1910-12-25; page 22
+
+#20190105_039 Gleason, William [Kid]
+umpire 1911 Southern Michigan League
+resides 1911 @ US/IL/Chicago
+
+#20190105_040 Ross, George M.
+umpire 1911 Southern Michigan League
+resides 1911 @ US/OH/Ashland
+
+#20190105_041 Green, Andrew J.
+umpire 1911 Southern Michigan League
+resides 1911 @ US/MI/Owosso
+
+#20190105_042 O'Connor, Peter
+umpire 1911 Southern Michigan League
+resides 1911 @ US/MI/Detroit
+
+#20190105_043 Laroque, S. H.
+umpire 1911 Southern Michigan League
+resides 1911 @ CA/QC/Quebec City
+
+---
+
+!citation The Lethbridge Herald @ 1911-04-26; page 4
+
+#20190105_044 Terry, R. W.
+umpire 1911 Western Canada League
+resides 1911 @ US/IL/LeGrange
+
+#20190105_045 Boswell, John D.
+umpire 1911 Western Canada League
+resides 1911 @ US/IL/Kewanee
+
+#20190105_046 Morrison, John
+umpire 1911 Western Canada League
+resides 1911 @ US/MO/St. Joseph
+
+---
+
+!citation The Bakersfield Californian @ 1912-04-23; page 5
+
+#20190105_047 Cusack, Jack
+umpire 1912 California State League
+
+#20190105_048 Boone, Thomas
+umpire 1912 California State League
+
+#20190105_049 Ziegler, Fred
+umpire 1912 Californian State League
+
+#20190105_050 Meade, George
+umpire 1912 California State League
+
+#20190105_051 Wolters, Harry
+umpire 1912 California State League
+
+#20190105_052 Townsend, Cy
+umpire 1912 California State League
+
+---
+

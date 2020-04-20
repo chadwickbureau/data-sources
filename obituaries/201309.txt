@@ -4,9 +4,22 @@
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-11-14
 
 #profile Ketcher, Michael
-key 201309_Ketcher
+key 201309_001
 birth 1948-09-20 @ US/OK/Tahlequah
 death 2013-09-06
 highschool Stilwell HS @ US/OK/Stilwell
 college Bacone College
 burial Tyler Spring Cemetery @ US/OK/Stilwell
+
+---
+
+!citation Sacramento Bee @ 2013-09-04
+!url http://www.legacy.com/obituaries/sacbee/obituary.aspx?n=Kenneth-ORVICK&pid=166789309#fbLoggedOut
+!file
+!contributor Ray Nemec <basebalray@aol.com> @ 2014-01-26
+
+#201309_002 Orvick, Kenneth Matthew [Ken]
+birth 1933-01-28 @ US/CA/Sacramento
+death 2013-09-03
+highschool Christian Brothers HS @ US/CA/Sacramento
+

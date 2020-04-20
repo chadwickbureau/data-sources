@@ -1,0 +1,1104 @@
+!citation The Houston Post @ 1910-02-21; page 3
+
+#20190102_001 Colgate, Guy N.
+umpire 1910 Southwest Texas League
+resides 1910 @ US/LA/Shreveport
+
+#20190102_002 Bates, John W.
+umpire 1910 Southwest Texas League
+resides 1910 @ US/MO/Shelbina
+
+#20190102_003 Bibb, John
+umpire 1910 Southwest Texas League
+resides 1910 @ US/TX/Fort Sam Houston
+
+#20190102_004 Goodman, Charles
+umpire 1910 Southwest Texas League
+resides 1910 @ US/IL/Springfield
+
+#20190102_005 Kilgore, W. L.
+umpire 1910 Southwest Texas League
+resides 1910 @ US/TX/Quitman
+
+---
+
+!citation The Vicksburg Herald @ 1907-01-13; page 1
+
+#20190102_006 Carruthers, Bob
+umpire 1907 Southern Association
+player <=1907 St. Louis
+
+#20190102_007 Pfenninger, Dan
+umpire 1907 Southern Association
+
+---
+
+!citation Wilkes-Barre Times @ 1906-02-02; page 8
+
+#20190102_008 Buckley, William
+umpire 1906 Southern Association
+umpire 1905 New York State League
+resides 1906 @ US/NY/Rochester
+
+#20190102_009 Rudderham, Frank F.
+umpire 1906 Southern Association
+umpire <=1906 Eastern League
+umpire <=1906 Hudson River League
+player <=1906 Albany
+resides 1906 @ US/RI/Providence
+
+---
+
+!citation Daily Arkansas Gazette @ 1904-05-24; page 6
+
+#20190102_010 Shaw, John S.
+umpire 1904 Southern Association
+resides 1904 @ US/AL/Mobile
+
+---
+
+!citation The Evening Chronicle @ 1909-01-26; page 4
+
+#20190102_011 Henderson
+umpire 1909 Carolina Association
+umpire 1908 Eastern Carolina League
+umpire 1908 Carolina Association
+
+#20190102_012 Daley
+umpire 1909 Carolina Association
+resides 1909 @ US/PA/Philadelphia
+
+#20190102_013 Maloney
+umpire 1909 Carolina Association
+resides 1909 @ US/OH/Ashtabula
+
+---
+
+!citation The Tennessean @ 1905-04-30; page 7
+
+#20190102_014 Keifer, Charles
+umpire 1905 Kentucky-Indiana-Tennessee League
+resides 1905 @ US/OH/Springfield
+
+---
+
+!citation The Galveston Daily News @ 1895-06-01; page 2
+
+#20190102_015 Brennan, Jack
+manager 1905 Austin (Texas-Southern)
+umpire 1905 Texas-Southern League
+
+---
+
+!citation San Francisco Chronicle @ 1903-05-13; page 9
+
+#20190102_016 Cody, N.
+umpire 1903 Pacific National League
+
+#20190102_017 Mahaffey, Louis
+umpire 1903 Pacific National League
+
+---
+
+!citation Hopkinsville Kentuckian @ 1910-07-23; page 8
+
+#20190102_018 Rieser, Nathan L.
+umpire 1910 Kentucky-Indiana-Tennessee League
+umpire 1910 Blue Grass League
+
+---
+
+!citation The Decatur Herald @ 1910-05-10; page 4
+
+#20190102_019 Donovan, Fred
+umpire 1910 Northern Association
+resides 1910 @ US/IL/Springfield
+
+#20190102_020 Fleming, D. F.
+umpire 1910 Northern Association
+resides 1910 @ US/CO/Cheyenne Wells
+
+#20190102_021 Gleason, E. A.
+umpire 1910 Northern Association
+resides 1910 @ US/WA/Seattle
+
+#20190102_022 La Rocque, S. H.
+umpire 1910 Northern Association
+resides 1910 @ CA/QC/Windsor Mills
+
+---
+
+!citation The Washington Herald @ 1913-02-06; page 8
+
+#20190102_023 Powers, Charles
+umpire <=1913 National League
+death 1913-02-05 @ US/PA/Pittsburg
+
+---
+
+!citation Camden Daily Courier @ 1905-04-06; page 3
+
+#20190102_024 Eagan, John
+umpire 1905 Eastern League
+player 1892 Camden
+
+---
+
+!citation The Akron Beacon Journal @ 1905-04-18; page 5
+
+#20190102_025 Wise, Sam
+umpire 1905 Ohio-Pennsylvania League
+
+#20190102_026 Parsell, Fred
+umpire 1905 Ohio-Pennsylvania League
+
+---
+
+!citation The Province @ 1905-07-22; page 12
+
+#20190102_027 Dodd, Ralph
+umpire 1905 Northwestern League
+
+---
+
+!citation The Topeka Daily Herald @ 1906-03-02; page 8
+
+#20190102_028 Meyer, Phil
+umpire 1906 Western Association
+resides 1906 @ US/KS/Topeka
+
+#20190102_029 McNamara, Tom
+umpire 1906 Western Association
+resides 1906 @ US/PA/Allegheny
+
+#20190102_030 Coureen, Joe
+umpire 1906 Western Association
+resides 1906 @ US/NY/Rochester
+
+#20190102_031 Lewinson, Hart
+umpire 1906 Western Association
+umpire 1905 Western Association
+
+---
+
+!citation Coffeyville Daily Record @ 1906-04-12; page 6
+
+#20190102_032 Tessmer, Guy
+umpire 1906 Kansas State League
+resides 1906 @ US/KS/Pittsburg
+
+---
+
+!citation The Davenport Democrat and Leader @ 1906-06-18; page 6
+
+#20190102_033 McGreevy, Eugene
+umpire 1906 Illinois-Indiana-Iowa League
+player <=1906 Bloomington
+player <=1906 Davenport
+
+---
+
+!citation The Topeka State Journal @ 1906-07-17; page 2
+
+#20190102_034 Campau, Charles [Count]
+umpire 1906 Southern Association
+manager <=1906 Binghamton (New York State)
+manager <=1906 New Orleans (Southern Association)
+
+#20190102_035 Schuster, H. W.
+umpire 1906 Southern Association
+umpire <=1906 Illinois-Indiana-Iowa League
+
+---
+
+!citation The Buffalo Times @ 1907-02-11; page 10
+
+#20190102_036 Latham, Arlie
+umpire 1907 Ohio-Pennsylvania League
+
+#20190102_037 List, William
+umpire 1907 Ohio-Pennsylvania League
+
+#20190102_038 Bannon, Bill
+umpire 1907 Ohio-Pennsylvania League
+resides 1907 @ US/MA/Lynn
+
+---
+
+!citation News-Journal @ 1907-03-26; page 8
+
+#20190102_039 Hart, Bobby
+umpire 1907 Ohio-Pennsylvania League
+umpire 1906 Maine State League
+umpire 1905 New England League
+
+#20190102_040 Steinberg, Louie
+umpire 1907 Ohio-Pennsylvania League
+umpire 1906 Interstate League
+
+---
+
+!citation Calgary Herald @ 1907-05-13; page 6
+
+#20190102_041 Knowlton, A. E.
+umpire 1907 Western Canada League
+resides 1907 @ US/MA/Boston
+
+#20190102_042 Priest, E.
+umpire 1907 Western Canada League
+resides 1907 @ US/PA/Pittsburg
+
+---
+
+!citation Wilkes-Barre Times Leader @ 1907-07-10; page 7
+
+#20190102_043 Fox, Daniel
+umpire 1907 New York State League
+
+---
+
+!citation The Times @ 1907-07-17; page 1
+
+#20190102_044 Flynn, James
+umpire 1907 Southern Association
+manager 1907 Ilion (New York State)
+
+---
+
+!citation The Philadelphia Inquirer @ 1909-02-17; page 10
+
+#20190102_045 Brady, John J.
+umpire 1909 Ohio-Pennsylvania League
+resides 1909 @ US/OH/Cincinnati
+
+#20190102_046 Keefe, John P.
+umpire 1909 Ohio-Pennsylvania League
+resides 1909 @ US/PA/Pittsburg
+
+#20190102_047 Schultz, George
+umpire 1909 Ohio-Pennsylvania League
+resides 1909 @ US/OH/Cleveland
+
+#20190102_048 McKeever, James J.
+umpire 1909 Ohio-Pennsylvania League
+resides 1909 @ US/PA/Pittsburg
+
+#20190102_049 Goehler, Jesse
+umpire 1909 Ohio-Pennsylvania League
+resides 1909 @ US/OH/Barberton
+
+---
+
+!citation Wilkes-Barre News @ 1909-03-12; page 8
+
+#20190102_050 Miller, Joseph
+umpire 1909 New York State League
+resides 1909 @ US/OH/Cleveland
+
+#20190102_051 Kelly, J. J.
+umpire 1909 New York State League
+resides 1909 @ US/PA/Shamokin
+
+#20190102_052 Wilkinson, J. W.
+umpire 1909 New York State League
+resides 1909 @ US/IN/Vincennes
+
+#20190102_053 Brown, Tom
+umpire 1909 New York State League
+resides 1909 @ US/DC/Washington
+
+---
+
+!citation The Daily Times @ 1909-04-03; page 6
+
+#20190102_054 Bush, G. C.
+umpire 1909 Illinois-Indiana-Iowa League
+umpire <=1909 Central Association
+umpire <=1909 Wisconsin State League
+
+---
+
+!citation Fort Scott Tribune-Monitor @ 1909-04-29; page 5
+
+#20190102_055 Finney, Ed
+umpire 1909 Western Association
+player 1906 Fort Scott (Kansas State League)
+
+---
+
+!citation Calgary Herald @ 1910-05-26; page 15
+
+#20190102_056 Brown, Charles
+umpire 1910 Northwestern League
+resides 1910 @ US/WA/Spokane
+
+---
+
+!citation Pittsburgh Daily Post @ 1910-12-15; page 10
+
+#20190102_057 Alvin, Glen
+umpire 1911 Central League
+umpire 1910 Northwestern League
+
+#20190102_058 Cleary, Martin
+umpire 1911 Central League
+
+---
+
+!citation New Castle Herald @ 1911-01-19; page 2
+
+#20190102_059 Peiper, Frank
+umpire 1911 Ohio-Pennsylvania League
+
+---
+
+!citation The Baltimore Sun @ 1911-02-05; page 7
+
+#20190102_060 Murray, James
+umpire 1911 Eastern League
+umpire 1910 Eastern League
+
+#20190102_061 Black, Robert
+umpire 1911 Eastern League
+
+#20190102_062 Pender, Robert
+umpire 1911 Eastern League
+
+#20190102_063 Hart, Robert
+umpire 1911 Eastern League
+
+#20190102_064 Bannon, William
+umpire 1911 Eastern League
+
+#20190102_065 Pollock, John
+umpire 1911 Eastern League
+
+#20190102_066 Wright, Pat
+umpire 1911 Eastern League
+
+#20190102_067 Rudderham, Frank
+umpire 1911 Eastern League
+
+---
+
+!citation The Tennessean @ 1911-06-02; page 9
+
+#20190102_068 Serber, W. H.
+umpire 1911 Southeastern League
+
+---
+
+!citation The Daily Gate City @ 1912-01-08; page 8
+
+#20190102_069 Boswell, John
+umpire 1912 Central Association
+umpire 1911 Central Association
+umpire <=1912 Nebraska State League
+resides 1912 @ US/IL/Kewanee
+
+#20190102_070 Agur, Frank
+umpire 1912 Central Association
+umpire <=1912 New York State League
+umpire <=1912 Central League
+resides 1912 @ US/NY/Rochester
+
+#20190102_071 Spencer, D.
+umpire 1912 Central Association
+umpire <=1912 Western League
+umpire <=1912 Kansas State League
+resides 1912 @ US/KS/Lyons
+
+---
+
+!citation The San Frnaciso Examiner @ 1912-01-28; page 70
+
+#20190102_072 Mertes, Sandow
+umpire 1912 Pacific Coast League
+
+#20190102_073 Casey, Perle
+umpire 1912 Pacific Coast League
+player <=1912 (Pacific Coast)
+
+#20190102_074 Wheeler, George
+umpire 1912 Pacific Coast League
+player <=1912 (Pacific Coast)
+
+---
+
+!citation The Indianapolis Star @ 1912-02-20; page 8
+
+#20190102_075 Groeschow, William F. [Cuppy]
+umpire 1912 Central League
+
+#20190102_076 Weddidge, Al
+umpire 1912 Central League
+umpire 1911 Ohio-Pennsylvania League
+
+#20190102_077 Geisel, Harry C.
+umpire 1912 Central League
+umpire <=1912 Wisconsin-Illinois League
+umpire <=1912 Illinois-Missouri League
+resides 1912 @ US/IN/Indianapolis
+
+#20190102_078 Pfirman, Cy
+umpire 1912 Central League
+resides 1912 @ US/IN/Terre Haute
+
+---
+
+!citation The Owensboro Messenger @ 1912-03-27; page 7
+
+#20190102_079 Marcks, Dan
+umpire 1912 Kentucky-Indiana-Tennessee League
+resides 1912 @ US/IL/Chicago
+
+#20190102_080 Taylor, Harry
+umpire 1912 Kentucky-Indiana-Tennessee League
+resides 1912 @ US/OH/Newark
+
+#20190102_081 Nugent, Ed
+umpire 1912 Kentucky-Indiana-Tennessee League
+resides 1912 @ US/KS/Wichita
+
+---
+
+!citation The Morning Tulsa Daily World @ 1912-04-04; page 6
+
+#20190102_082 Brietenstein, Ted
+umpire 1912 Southern Association
+
+#20190102_083 Hart, William
+umpire 1912 Southern Association
+
+#20190102_084 Kellum, Win
+umpire 1912 Southern Association
+
+#20190102_085 Pfenninger, Dan
+umpire 1912 Southern Association
+
+#20190102_086 Rudderham, Frank
+umpire 1912 Southern Association
+
+#20190102_087 Carpenter, William
+umpire 1912 Southern Association
+
+#20190102_088 Fitzsimmons, Dan
+umpire 1912 Southern Association
+
+#20190102_089 O'Toole, Jack
+umpire 1912 Southern Association
+umpire 1911 New York State League
+
+---
+
+!citation The San Francisco Examiner @ 1912-05-07; page 17
+
+#20190102_090 McCarthy, Jack
+umpire 1912 Pacific Coast League
+umpire 1911 Northwestern League
+
+---
+
+!citation The Twin-City Daily Sentinel @ 1912-05-24; page 10
+
+#20190102_091 Hickey, William P.
+umpire 1912 Carolina Association
+
+---
+
+!citation Muskogee Times-Democrat @ 1912-06-26; page 9
+
+#20190102_092 Doyle, Ben
+umpire 1912 Oklahoma State League
+resides 1912 @ US/OK/Muskogee
+
+#20190102_093 Oliver, Charles
+umpire 1912 Oklahoma State League
+resides 1912 @ US/OK/Holdenville
+
+#20190102_094 Graves, W. R.
+umpire 1912 Oklahoma State League
+resides 1912 @ US/OK/Guthrie
+
+#20190102_095 Hume, H. R.
+umpire 1912 Oklahoma State League
+resides 1912 @ US/OK/McAlester
+
+---
+
+!citation Edminton Journal @ 1913-04-02; page 22
+
+#20190102_096 Mackin, John H.
+umpire 1913 Western Canada League
+
+#20190102_097 Macdonald, B. S.
+umpire 1913 Western Canada League
+resides 1913 @ US/TN/Chattanooga
+
+#20190102_098 Arnold, H.
+umpire 1913 Western Canada League
+resides 1913 @ US/IL/Chicago
+
+---
+
+!citation The Tennessean @ 1913-04-17; page 11
+
+#20190102_099 Ryan, Jack
+umpire 1913 Kentucky-Indiana-Tennessee League
+resides 1913 @ US/MO/St. Louis
+
+#20190102_100 Dawkins, Lee
+umpire 1913 Kentucky-Indiana-Tennessee League
+resides 1913 @ US/AR/Pine Bluff
+
+#20190102_101 Lauzen, Ed
+umpire 1913 Kentucky-Indiana-Tennessee League
+resides 1913 @ US/AL/Mobile
+
+#20190102_102 Lewis, D. D.
+umpire 1913 Kentucky-Indiana-Tennessee League
+resides 1913 @ US/TN/Nashville
+
+---
+
+!citation Poughkeepsie Eagle-News @ 1913-06-13; page 2
+
+#20190102_103 Dwyer, William
+umpire 1913 New York-New Jersey League
+resides 1913 @ US/CT/Waterbury
+
+---
+
+!citation The Los Angeles Times @ 1913-02-02
+
+#20190102_104 Finney, Ed
+umpire 1913 Pacific Coast League
+
+#20190102_105 McCarthy, Jack
+umpire 1913 Pacific Coast League
+
+#20190102_106 Newhouse, Frank
+umpire 1913 Pacific Coast League
+
+#20190102_107 Held, Red
+umpire 1913 Pacific Coast League
+
+#20190102_108 Phyl, Billy
+umpire 1913 Pacific Coast League
+
+#20190102_109 Bush, Garnett
+umpire 1913 Pacific Coast League
+
+---
+
+!citation The Victoria Daily Times @ 1913-02-04; page 9
+
+#20190102_110 Casey, Perle
+umpire 1913 Northwestern League
+
+#20190102_111 Eddinger, Jerry
+umpire 1913 Northwestern League
+
+#20190102_112 Toman, Jimmy
+umpire 1913 Northwestern League
+
+---
+
+!citation The Topeka Daily Capital @ 1913-02-21; page 2
+
+#20190102_113 Segrist, G. W.
+umpire 1913 Western League
+
+#20190102_114 Sigler, N. E.
+umpire 1913 Western League
+
+#20190102_115 Fitzsimmons, D. J.
+umpire 1913 Western League
+
+#20190102_116 Anderson, Ollie
+umpire 1913 Western League
+
+#20190102_117 Colliflower, J. H.
+umpire 1913 Western League
+
+---
+
+!citation The Charlotte Observer @ 1913-06-24; page 7
+
+#20190102_118 Degnan, Thomas
+umpire 1913 North Carolina State League
+resides 1913 @ US/NJ/High Bridge
+
+---
+
+!citation Arkansas Democrat @ 1914-04-14; page 10
+
+#20190102_119 West, William M.
+umpire 1914 Western Association
+resides 1914 @ US/MO/Kansas City
+
+#20190102_120 Porter, Charles [Tod]
+umpire 1914 Western Association
+resides 1914 @ US/MO/Joplin
+
+#20190102_121 Hall, [Dug]
+umpire 1914 Western Association
+resides 1914 @ US/KS/Pittsburg
+
+---
+
+!citation The Vancouver Sun @ 1914-06-12; page 8
+
+#20190102_122 Wheeler, George
+umpire 1914 Northwestern League
+
+---
+
+!citation Sioux City Journal @ 1914-03-22; page 12
+
+#20190102_123 Johnstone, J. E.
+umpire 1914 American Association
+
+#20190102_124 Murray, James A.
+umpire 1914 American Association
+
+#20190102_125 Westervelt, Fred
+umpire 1914 American Association
+
+#20190102_126 O'Brien, Joseph
+umpire 1914 American Association
+
+#20190102_127 Erwin, C. E.
+umpire 1914 American Association
+
+#20190102_128 Connolly, F. R.
+umpire 1914 American Association
+
+---
+
+!citation The Dayton Herald @ 1915-02-11; page 6
+
+#20190102_129 Peitz, Heinie
+umpire 1915 Central League
+
+#20190102_130 Goehler, Jesse
+umpire 1915 Central League
+
+#20190102_131 Greene, Andrew J.
+umpire 1915 Central League
+
+#20190102_132 Bierhalter, William
+umpire 1915 Central League
+
+---
+
+!citation The Daily Times @ 1915-04-28; page 15
+
+#20190102_133 Jacobs, Mike
+umpire 1915 Illinois-Indiana-Iowa League
+player <1915 Davenport (Illinois-Indiana-Iowa)
+
+#20190102_134 Donnelly, Frank
+umpire 1915 Illinois-Indiana-Iowa League
+umpire 1914 Illinois-Indiana-Iowa League
+
+#20190102_135 Baumgard, J.
+umpire 1915 Illinois-Indiana-Iowa League
+
+#20190102_136 Hurlburt, G. G.
+umpire 1915 Illinois-Indiana-Iowa League
+
+#20190102_137 Strouthers, Thomas
+umpire 1915 Illinois-Indiana-Iowa League
+
+#20190102_138 Van Buskirk, William E.
+umpire 1915 Illinois-Indiana-Iowa League
+
+---
+
+!citation Pittston Gazette @ 1915-05-04; page 2
+
+#20190102_139 Kuhn, W. C.
+umpire 1915 New York State League
+umpire 1914 Ohio State League
+umpire 1913 Ohio State League
+resides 1915 @ US/WI/Milwaukee
+
+#20190102_140 Johnson, Harry G.
+umpire 1915 New York State League
+resides 1915 @ US/IL/Chicago
+
+#20190102_141 O'Connor, Arthur
+umpire 1915 New York State League
+resides 1915 @ US/NY/Auburn
+
+#20190102_142 Daughterty, J. A.
+umpire 1915 New York State League
+resides 1915 @ US/NJ/Paterson
+
+#20190102_143 McBride, J. A.
+umpire 1915 New York State League
+resides 1915 @ US/NJ/Phillipsburg
+
+#20190102_144 Pender, Bob
+umpire 1915 New York State League
+resides 1915 @ US/LA/New Orleans
+
+---
+
+!citation Chillicothe Gazette @ 1915-05-01; page 1
+
+#20190102_145 Long, Fred D.
+umpire 1915 Ohio State League
+resides 1915 @ US/IN/Indianapolis
+
+#20190102_146 Tpfirnanof, Charles H.
+umpire 1915 Ohio State League
+resides 1915 @ US/IN/Terre Haute
+
+#20190102_147 Colgate, Charles M.
+umpire 1915 Ohio State League
+resides 1915 @ US/IL/Chicago
+
+---
+
+!citation The Twin-City Daily Sentinel @ 1915-02-27
+
+#20190102_148 Pasateri, Edward
+umpire 1915 North Carolina State League
+
+#20190102_149 Cameron, James
+umpire 1915 North Carolina State League
+resides 1915 @ US/RI/Pawtucket
+
+#20190102_150 Blackburn, George W.
+umpire 1915 North Carolina State League
+resides 1915 @ US/TX/Houston
+
+---
+
+!citation The Boston Globe @ 1916-04-06; page 7
+
+#20190102_151 Stafford, John
+umpire 1916 Eastern League
+resides 1916 @ US/MA/West Somerville
+
+#20190102_152 Doherty, M. J.
+umpire 1916 Eastern League
+resides 1916 @ US/CT/New Haven
+
+#20190102_153 Waters, M. J.
+umpire 1916 Eastern League
+resides 1916 @ US/MA/Springfield
+
+#20190102_154 Bannon, Thomas E.
+umpire 1916 Eastern League
+resides 1916 @ US/MA/Lynn
+
+#20190102_155 Ennis, James
+umpire 1916 Eastern League
+resides 1916 @ US/MA/Pittsfield
+
+---
+
+!citation The Times Recorder @ 1916-02-28; page 12
+
+#20190102_156 Geisel, Harry
+umpire 1916 Central League
+resides 1916 @ US/IN/Indianapolis
+
+#20190102_157 Green, Andrew
+umpire 1916 Central League
+resides 1916 @ US/MI/Owosso
+
+#20190102_158 Cusack, Steve
+umpire 1916 Central League
+resides 1916 @ US/IL/Chicago
+
+#20190102_159 Shuster, J. F.
+umpire 1916 Central League
+resides 1916 @ CA/SK/Moose Jaw
+
+---
+
+!citation The Atlanta Constitution @ 1917-05-01; page 5
+
+#20190102_160 Manning, E. M.
+umpire 1917 Georgia-Alabama League
+
+---
+
+!citation Norwich Bulletin @ 1917-05-05; page 3
+
+#20190102_161 Kelly, T. [Toss]
+umpire 1917 Eastern League
+umpire <1917 New England League
+resides 1917 @ US/MA/Brockton
+
+#20190102_162 Irwin, Tex
+umpire 1917 Eastern League
+resides 1917 @ US/FL/Jacksonville
+
+#20190102_163 Whalen, Joseph
+umpire 1917 Eastern League
+resides 1917 @ US/MA/Springfield
+
+#20190102_164 McGauley, Thomas
+umpire 1917 Eastern League
+umpire 1915 Colonial League
+umpire 1914 New England League
+resides 1917 @ US/MA/Worcester
+
+---
+
+!citation Pittsburgh Daily Post @ 1917-02-21; page 11
+
+#20190102_165 Brennan, William
+umpire 1917 American Association
+
+#20190102_166 Johnston, George H.
+umpire 1917 American Association
+umpire 1916 American Association
+
+#20190102_167 Murray, James A.
+umpire 1917 American Association
+umpire 1916 American Association
+
+#20190102_168 Hayes, Gerald
+umpire 1917 American Association
+
+#20190102_169 Carney, W. J.
+umpire 1917 American Association
+
+#20190102_170 Friel, W. E.
+umpire 1917 American Association
+umpire 1916 American Association
+
+#20190102_171 Knapp, L. P.
+umpire 1917 American Association
+umpire 1916 American Association
+
+---
+
+!citation The Ottawa Citizen @ 1918-02-08; page 8
+
+#20190102_172 Hart, Robert
+umpire 1918 American Association
+umpire 1917 International League
+umpire 1916 International League
+umpire 1915 International League
+umpire 1914 International League
+umpire 1913 American League
+umpire 1912 American League
+resides 1918 @ US/MA/Springfield
+
+---
+
+!citation Evening Times-Republican @ 1918-04-13; page 2
+
+#20190102_173 Shannon, Spike
+umpire 1918 Western League
+resides 1918 @ US/MN/St. Paul
+
+#20190102_174 Mullen, Johnny
+umpire 1918 Western League
+resides 1918 @ US/PA/Pittsburgh
+
+#20190102_175 Daly, Con
+umpire 1918 Western League
+resides 1918 @ US/IL/Chicago
+
+#20190102_176 Fitzpatrick, Matty
+umpire 1918 Western League
+resides 1918 @ US/IL/Chicago
+
+---
+
+!citation Oakland Tribune @ 1919-04-02; page 13
+
+#20190102_177 Held, Red
+umpire 1919 Pacific Coast League
+
+#20190102_178 Guthrie, Bill
+umpire 1919 Pacific Coast League
+
+#20190102_179 Frary, Ralph
+umpire 1919 Pacific Coast League
+
+#20190102_180 Finney, Ed
+umpire 1919 Pacific Coast League
+
+#20190102_181 Pfyle, Billy
+umpire 1919 Pacific Coast League
+
+#20190102_182 Bedford, R. E.
+umpire 1919 Pacific Coast League
+
+---
+
+!citation The Ottawa Citizen @ 1919-05-07; page 13
+
+#20190102_183 Davis, J. Ira
+umpire 1919 Michigan-Ontario League
+resides 1919 @ US/NY/Massena
+
+#20190102_184 McKee, William A.
+umpire 1919 Michigan-Ontario League
+resides 1919 @ US/IN/Newcastle
+
+#20190102_185 Zeimer, Gus
+umpire 1919 Michigan-Ontario League
+manager <1919 Hamilton
+resides 1919 @ US/OH/Cleveland
+
+#20190102_186 Matteson, Matty
+umpire 1919 Michigan-Ontario League
+player <=1919 (Canadian)
+resides 1919 @ US/MI/Bay City
+
+---
+
+!citation The Charlotte Observer @ 1919-05-07; page 11
+
+#20190102_187 Weir, Lem
+umpire 1919 South Atlantic League
+resides 1919 @ US/SC/Columbia
+
+#20190102_188 Buckley
+umpire 1919 South Atlantic League
+resides 1919 @ US/NY/Rochester
+
+#20190102_189 McNamara, Tom
+umpire 1919 South Atlantic League
+resides 1919 @ US/PA/Pittsburgh
+
+---
+
+!citation Star-Phoenix @ 1920-01-29; page 7
+
+#20190102_190 O'Brien, Joseph
+umpire 1920 International League
+
+#20190102_191 Corcorran, Thomas
+umpire 1920 International League
+
+#20190102_192 Carpenter, W. B.
+umpire 1920 International League
+
+#20190102_193 Stockdale, M. J.
+umpire 1920 International League
+
+#20190102_194 Warner, J. J.
+umpire 1920 International League
+
+#20190102_195 McGowan, W. A.
+umpire 1920 International League
+
+#20190102_196 Moran, Augie
+umpire 1920 International League
+
+#20190102_197 Deer, Doll
+umpire 1920 International League
+
+---
+
+!citation The Decatur Herald @ 1920-03-11; page 4
+
+#20190102_198 McGloon, A. L.
+umpire 1920 American Association
+umpire <1920 Central League
+umpire <1920 Illinois-Indiana-Iowa League
+
+#20190102_199 Altezer, Dave A.
+umpire 1920 American Association
+
+#20190102_200 Freeman, John
+umpire 1920 American Association
+
+#20190102_201 Connolly, Frank
+umpire 1920 American Association
+
+#20190102_202 Finneran, W. F.
+umpire 1920 American Association
+
+#20190102_203 Murray, James
+umpire 1920 American Association
+
+#20190102_204 Knapp, Louis
+umpire 1920 American Association
+
+#20190102_205 McCaserty, Charles
+umpire 1920 American Association
+
+---
+
+!citation Calgary Herald @ 1920-04-21; page 17
+
+#20190102_206 Daly, Con
+umpire 1920 Western Canada League
+
+#20190102_207 Kuhn, Bill
+umpire 1920 Western Canada League
+
+---
+
+!citation The Charlotte News @ 1921-03-04; page 12
+
+#20190102_208 Walsh, Jack
+umpire 1921 Piedmont League
+
+#20190102_209 O'Keefe, Dennis J.
+umpire 1921 Piedmont League
+
+#20190102_210 Blythe, J. E.
+umpire 1921 Piedmont League
+
+#20190102_211 Monohan, Richard J.
+umpire 1921 Piedmont League
+
+#20190102_212 Baird, J. W.
+umpire 1921 Piedmont League
+
+#20190102_213 Clark, William
+umpire 1921 Piedmont League
+umpire 1920 Piedmont League
+
+---
+
+!citation The Coffeyville Daily Journal @ 1921-04-21; page 7
+
+#20190102_214 Mahley, Ed
+umpire 1921 Southwestern League
+resides 1921 @ US/KS/Coffeyville
+
+---
+
+!citation The Kansas City Kansan @ 1921-08-05
+
+#20190102_215 Quigley, Larry
+umpire 1921 Southwestern League
+manager 1921 Sapulpa (Southwestern)
+
+---
+
+!citation The Town Talk @ 1922-01-02; page 4
+
+#20190102_216 Lewis, Connie
+umpire 1922 Southern Association
+umpire 1921 Western League
+
+#20190102_217 Jorda, Louis
+umpire 1922 Southern Association
+umpire 1921 Southern Association
+
+#20190102_218 Brennan, William
+umpire 1922 Southern Association
+umpire 1921 National League
+
+#20190102_219 Johnson, Harry
+umpire 1922 Southern Association
+umpire 1921 South Atlantic League
+
+#20190102_220 Williams, Hadley
+umpire 1922 Southern Association
+umpire 1921 Southern Association

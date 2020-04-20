@@ -3,9 +3,399 @@
 !file Flythe_Matt.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-07-20
 
-#profile Flythe, Matt F.
-key 201401_Flythe
+#201401_001 Flythe, Matt F.
 birth 1929-06-10
 death 2014-01-19 @ US/FL/Lake City
 military US Air Force 
 burial Live Oak Cemetery @ US/FL/Live Oak
+
+---
+
+!citation Roanoke.com @ 2014-01-26
+!url http://m.roanoke.com/obituaries/article_dd49bfe3-29e5-5ae1-bcb9-3c5c3853b36c.html?mode=jqm
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-01-26
+
+#201401_002 Abel, Edward Ronald [Ed]
+birth 1939-06-27 @ US/PA/Pittsburgh
+death 2014-01-01 @ US/VA/Pearisburg
+highschool West View HS @ US/PA/Pittsburgh
+college Colgate University @ US/NY/Hamilton
+military US Navy @ Vietnam War
+
+---
+
+!citation Wilmington Star-News @ 2014-01-11
+!url http://www.legacy.com/obituaries/starnewsonline/obituary.aspx?n=Richard-Ackermann&pid=169001423
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-01-11
+
+#201401_003 Ackermann, Richard John
+birth 1929-05-29 @ US/IL/Chicago
+death 2014-01-09 @ US/NC/Wilmington
+highschool Lane Technical HS @ US/IL/Chicago
+military US Army @ Korean War
+
+---
+
+!citation Press Democrat @ 2014-01-07
+!url http://www.legacy.com/obituaries/pressdemocrat/obituary.aspx?n=Theo-ADKINS&pid=168947885
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-01-07
+
+#201401_004 Adkins, Theo, Jr. [Ted]
+describe ; TL
+birth 1928-02-19 @ US/MS/Greenville
+death 2014-01-03 @ US/CA/Petaluma
+college College of the Pacific @ US/CA/Stockton
+military US Army 
+
+---
+
+!citation Peoria Journal Star @ 2014-01-21
+!url http://www.legacy.com/obituaries/pjstar/obituary.aspx?n=Donald-Alford&pid=169197596
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-01-21
+
+#201401_005 Alford, Donald Ray [Don]
+birth 1929-09-18 @ US/IL/Peoria
+death 2014-01-03 @ US/TX/The Woodlands
+highschool Woodruff HS @ US/IL/Peoria
+college Bradley University @ US/IL/Peoria
+military US Army 
+
+---
+
+!citation Chicago Suburban Daily Herald @ 2014-01-06
+!url http://www.legacy.com/obituaries/postgazette/obituary.aspx?n=ROBERT-SLENCAK&pid=163005478#fbLoggedOut
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-01-06
+
+#201401_006 Balodimas, Nicholas J. [Nick]
+birth 1943-04-27
+death 2014-01-02 @ US/IL/Lake in the Hills
+highschool Austin HS @ US/IL/Chicago
+college Eastern Illinois University
+burial Naperville Cemetery @ US/IL/Naperville
+
+---
+
+!citation Calvary Hill Funeral Home @ 2014-01-22
+!url http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=DONALD-BEITTER&lc=1458&pid=169231265&mid=5827122
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-01-22
+
+#201401_007 Beitter, Donald George [Don]
+birth 1931-09-16 @ US/NY/Flushing
+death 2014-01-20
+highschool Bayside HS @ US/NY/Bayside
+college Seton Hall University; dates=/1952
+burial Calvary Hill Cemetery @ US/TX/Dallas
+
+---
+
+!citation Salisbury Post @ 2014-01-22
+!url http://www.legacy.com/obituaries/salisburypost/obituary.aspx?n=Vernon-Benson&pid=169213959
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-01-22
+
+#201401_008 Benson, Vernon A.
+birth 1924-09-19 @ US/NC/Rowan County
+death 2014-01-20 @ US/NC/Salisbury
+highschool Granite Quarry HS @ US/NC/Granite Quarry
+college Catawba College @ US/NC/Salisbury
+military US Army @ World War II
+burial Rowan Memorial Park Cemetery @ US/NC/Salisbury
+
+---
+
+!citation Mobile Register @ 2014-01-26
+!url http://obits.al.com/obituaries/mobile/obituary.aspx?n=Billy-Clausen&pid=169276677
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-01-25
+
+#201401_009 Clausen, Billy
+birth 1924-11-10 @ US/AL/Mobile
+death 2014-01-23 @ US/AL/Mobile
+highschool Murphy HS @ US/AL/Murphy
+military US Army 
+burial Pine Crest Cemetery @ US/AL/Mobile
+
+---
+
+!citation San Diego Union-Tribune @ 2014-01-05
+!url http://www.utsandiego.com/news/2014/jan/05/jerry-coleman-died-padres/
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-01-05
+
+#201401_010 Coleman, Jerry
+death 2014-01-05 @ US/CA/San Diego
+
+---
+
+!citation Texarkana Funeral Home @ 2014-01-27
+!url http://texarkanafuneralhome.com/sitemaker/memsol.cgi?user_id=1224441
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-01-27
+
+#201401_011 Drabble, William Orville [Bill]
+birth 1938-02-08 @ US/CA/Oakland
+death 2014-01-24 @ US/AR/Texarkana
+military US Army 
+burial Cedar Grove Cemetery @ US/AR/Texarkana
+
+---
+
+!citation Utah Golf Association @ 2014-01-13
+!url http://www.uga.org/index.php/News/details/C135/garth_ford_obituary
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-01-13
+
+#201401_012 Ford, Garth
+birth 1924-07-26 @ US/UT/Provo
+death 2014-01-01
+military US Navy @ World War II
+burial Provo City Cemetery @ US/UT/Provo
+
+---
+
+!citation Linderendeportes.com @ 2014-01-09
+!url http://www.liderendeportes.com/Noticias/Beisbol/Fallecio-el-expelotero-Luis--Camaleon--Garcia.aspx
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-01-10
+
+#201401_013 Garcia, Luis "Chameleon"
+death 2014-01-09
+
+---
+
+!citation Chicago Tribune @ 2014-01-10
+!url http://www.legacy.com/obituaries/chicagotribune/obituary.aspx?n=William-GETZ&pid=168993338
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-01-10
+
+#201401_014 Getz, William Murray [Bill]
+death 2014-01-07
+college University of Miami
+
+---
+
+!citation Gaston Gazette @ 2014-01-16
+!url http://www.legacy.com/obituaries/gastongazette/obituary.aspx?n=William-Gibson&pid=169119335
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-01-15
+
+#201401_015 Gibson, William Joel, Sr.
+birth 1939-07-01 @ US/NC/Gastonia
+death 2014-01-13 @ US/NC/Wilmington
+college University of North Carolina Wilmington
+college North Carolina State University
+
+---
+
+!citation The Herald Democrat @ 2014-01-17
+!url http://www.legacy.com/obituaries/heralddemocrat/obituary.aspx?n=Bill-Harrison&pid=169134264
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-01-18
+
+#201401_016 Harrison, Bill Darwin
+birth 1937-12-17 @ US/OK/Ardmore
+death 2014-01-15 @ US/TX/Whitewright
+highschool Norman HS @ US/OK/Norman
+highschool Capitol Hill HS @ US/OK/Oklahoma City
+burial Sunset Memorial Park Cemetery @ US/OK/Norman
+
+---
+
+!citation Reading Eagle @ 2014-01-18
+!url http://www.legacy.com/obituaries/readingeagle/obituary.aspx?n=Robert-Hartranft&pid=169151862
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-01-18
+
+#201401_017 Hartranft, Robert L.
+birth 1928-02-26 @ US/PA/Newmanstown
+death 2014-01-16 @ US/PA/Myerstown
+highschool Newmanstown HS @ US/PA/Newmanstown
+military US Army @ Korean War
+burial Heidelberg Cemetery @ US/PA/Robesonia
+
+---
+
+!citation Spartanburg Herald-Journal @ 2014-01-24
+!url http://www.legacy.com/obituaries/spartanburg/obituary.aspx?n=Timothy-Hosley&pid=169257973
+!file
+!contributor Rod Nelson <rodericnelson@gmail.com> @ 2014-01-24
+
+#201401_018 Hosley, Timothy Kenneth [Tim]
+death 2014-01-21 @ US/SC/Moore
+burial Heritage Memorial Gardens @ US/SC/Roebuck
+
+---
+
+!citation French Funerals @ 2014-01-13
+!url http://www.frenchfunerals.com/obituaries/Stephen-Lagomarsino/#!/Obituary
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-01-13
+
+#201401_019 Lagomarsino, Stephen Frank [Steve]
+birth 1925-12-22
+death 2014-01-09
+military US Army @ World War II
+burial Santa Fe National Cemetery @ US/NM/Santa Fe
+
+---
+
+!citation Hartman-Graziano Funeral Home @ 2014-01-19
+!url http://www.meaningfulfunerals.net/fh/obituaries/obituary.cfm?o_id=2384974&fh_id=14518
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-01-19
+
+#201401_020 Menarchek, Joseph J. [Joe]
+birth 1928-10-03 @ US/PA/Whitney
+death 2014-01-17 @ US/PA/Latrobe
+highschool Redstone Township HS @ US/PA/Republic
+burial St. Vincent Cemetery @ US/PA/Latrobe
+
+---
+
+!citation San Francisco Chronicle @ 2014-01-04
+!url http://www.legacy.com/obituaries/sfgate/obituary.aspx?n=Richard-Mesa&pid=168889040
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-01-04
+
+#201401_021 Mesa, Richard Peter [Pete]
+birth 1929-08-29 @ US/CA/Santa Monica
+death 2014-01-02
+
+---
+
+!citation www.News-Herald.com @ 2014-01-12
+!url http://www.legacy.com/obituaries/news-herald/obituary.aspx?n=james-j-mulqueeny&pid=169021999&fhid=13070&eid=sp_ommatch
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-01-12
+
+#201401_022 Mulqueeny, James J. [Jim]
+birth 1927-10-10 @ US/OH/Painesville
+death 2014-01-10 @ US/OH/Madison
+highschool T. W. Harvey HS @ US/OH/Painesville
+military US Army 
+burial Riverside Cemetery @ US/OH/Painesville
+
+---
+
+!citation Contra Costa Times @ 2014-01-17
+!url http://www.legacy.com/obituaries/contracostatimes/obituary.aspx?n=donald-musto&pid=169142588&eid=sp_ommatch
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-01-18
+
+#201401_023 Musto, Donald [Don]
+birth 1934-05-16
+death 2014-01-11 @ US/CA/Benicia
+
+---
+
+!citation Austin American-Statesman @ 2014-01-04
+!url http://www.legacy.com/obituaries/statesman/obituary.aspx?n=Herbert-Nauert&pid=168887629
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-01-04
+
+#201401_024 Nauert, Herbert Martin, Jr.
+birth 1930-08-08 @ US/TX/Travis County
+death 2014-01-02 @ US/TX/Austin
+highschool Pflugerville HS @ US/TX/Pflugerville; dates=/1948
+burial Capital Parks Cemetery @ US/TX/Pflugerville
+
+---
+
+!citation Windsor Star @ 2014-01-03
+!url http://blogs.windsorstar.com/2014/01/03/former-high-school-star-newton-dead-at-80/
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-01-05
+
+#201401_025 Newton, Harold
+birth 1933
+death 2014-01-02
+highschool J. C. Patterson Collegiate Institute @ CA/ON/Windsor
+
+---
+
+!citation Inside Bay Area @ 2014-01-14
+!url http://www.legacy.com/obituaries/insidebayarea/obituary.aspx?n=frank-pacheco&pid=169090384&fhid=2387&eid=sp_ommatch
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-01-14
+
+#201401_026 Pacheco, Frank
+birth 1917-02-02
+death 2014-01-06 @ US/CA/Brentwood
+military US Army @ World War II
+
+---
+
+!citation Niagara Gazette @ 2014-01-19
+!url http://www.niagara-gazette.com/obituaries/x1427966934/Joseph-Michael-Promowicz
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-01-20
+
+#201401_027 Promowicz, Joseph Michael [Joe]
+birth 1927-02-21
+death 2014-01-18
+military US Army 
+burial Holy Angels Mausoleum @ US/NY/Lewiston
+
+---
+
+!citation Charlotte Observer @ 2014-01-03
+!url http://www.legacy.com/obituaries/charlotte/obituary.aspx?n=James-Raugh&pid=168876830
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-01-01
+
+#201401_028 Raugh, James Plummer, Jr. [Jim]
+birth 1934-09-22 @ US/OH/Cleveland
+death 2014-01-01 @ US/NC/Newton
+highschool Haverford School @ US/PA/Haverford
+college University of North Carolina; dates=/1957
+
+---
+
+!citation Smith Funeral Home @ 2014-01-08
+!url http://smithfuneralhomeandchapel.com/?pagetype=obitlink&obit_id=1209964
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-01-08
+
+#201401_029 Rennau, Louis Albert [Lou]
+birth 1939-06-07 @ US/MO/Hannibal
+death 2014-01-07 @ US/MO/Hannibal
+highschool Hannibal HS @ US/MO/Hannibal
+burial Grand View Burial Park @ US/MO/Hannibal
+
+---
+
+!citation Daytona Beach News-Journal @ 2014-01-19
+!url http://www.legacy.com/obituaries/news-journalonline/obituary.aspx?n=Joseph-Scott&pid=169167061
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-01-19
+
+#201401_030 Scott, Joseph N. [Joe]
+birth 1923-07-17 @ US/KY/Louisville
+death 2014-01-15
+military US Navy @ World War II
+
+---
+
+!citation Fort Wayne Newspapers @ 2014-01-11
+!url http://www.legacy.com/obituaries/fortwayne/obituary.aspx?n=CHARLES-SHIPMAN&pid=169012376
+!file
+!contributor Ray Nemec <basebalray@aol.com> @ 2014-01-10
+
+#201401_031 Shipman, Charles F. [Charlie]
+describe ; TR
+birth @ US/IN/Indianapolis
+death 2014-01-09 @ US/IN/Fort Wayne
+military US Army @ World War II
+
+
+
+
+
+
+

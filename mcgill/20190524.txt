@@ -1,0 +1,522 @@
+!citation The Morning Chronicle @ 1909-06-30; page 4
+
+#20190524_001 Stack, Judd
+player 1909 Manhattan (Central Kansas)
+
+#20190524_002 Young, Benny
+player 1909 Manhattan (Central Kansas)
+
+---
+
+!citation Ellsworth Messenger @ 1909-07-01; page 4
+
+#20190524_003 Horrill, Bill
+player 1909 Salina (Central Kansas)
+player 1909 Beloit (Central Kansas)
+
+#20190524_004 Davis, George
+player 1909 Ellsworth (Central Kansas)
+player 1909 Clay Center (Central Kansas)
+
+---
+
+!citation The Beloit Daily Call @ 1909-07-05; page 4
+
+#20190524_005 Leach
+player 1909 Beloit (Central Kansas); TL
+released 1909-07-05; leave=Beloit (Central Kansas)
+
+#20190524_006 Relihan
+playing 1909 @ US/KS/Smith Center
+player 1909 Beloit (Central Kansas)
+
+#20190524_007 Neal
+playing 1909 @ US/KS/Smith Center
+player 1909 Beloit (Central Kansas)
+
+---
+
+!citation The Salina Daily Union @ 1909-07-05; page 5
+
+#20190524_008 Mack, Roy
+player 1908 Salina (Central Kansas)
+
+#20190524_009 Cassell, Bob
+player 1908 Salina (Central Kansas)
+
+#20190524_010 Horrell, Will
+player 1908 Salina (Central Kansas)
+player 1909 Salina (Central Kansas)
+player 1909 Beloit (Central Kansas)
+
+#20190524_011 Fury, Farmer
+player 1908 Salina (Central Kansas)
+player 1909 Salina (Central Kansas)
+
+#20190524_012 Abbott, Payne
+player 1908 Salina (Central Kansas)
+player 1909 Minneapolis (Central Kansas)
+
+#20190524_013 Eberheardt, Fred
+manager 1908 Salina (Central Kansas)
+manager 1909 Salina (Central Kansas)
+
+#20190524_014 Ludes, Frank
+player 1908 Salina (Central Kansas)
+player 1909 Enid (Western Association)
+
+#20190524_015 Wescott, Happy
+player 1908 Salina (Central Kansas)
+player 1909 (Texas)
+
+#20190524_016 Misse, John
+player 1908 Salina (Central Kansas)
+player 1909 Salina (Central Kansas)
+
+#20190524_017 Strong, Herb
+player 1908 Salina (Central Kansas)
+
+#20190524_018 Krepps, Sammy
+player 1908 Salina (Central Kansas)
+player 1909 Salina (Central Kansas)
+
+#20190524_019 Baird, Harry
+player 1908 Salina (Central Kansas)
+player 1909 Salina (Central Kansas)
+
+#20190524_020 Lamb, Bert
+player 1908 Salina (Central Kansas)
+player 1909 Springfield (Western Association)
+
+#20190524_021 Scanlon, Bandy
+player 1909 Salina (Central Kansas)
+
+---
+
+!citation The Salina Daily Union @ 1909-07-09; page 6
+
+#20190524_022 Worrell, Archie
+player 1909 Salina (Central Kansas)
+
+---
+
+!citation The Salina Daily Union @ 1909-07-10; page 6
+
+#20190524_023 Lederer, Ted
+player 1909 Salina (Central Kansas)
+
+---
+
+!citation The Salina Daily Union @ 1909-07-12; page 5
+
+#20190524_024 Smith, A. C.
+player 1909 Salina (Central Kansas)
+
+---
+
+!citation The Salina Daily Union @ 1909-07-13; page 6
+
+#20190524_025 Wilcox, Lester
+player 1909 Salina (Central Kansas)
+
+---
+
+!citation The Salina Daily Union @ 1909-07-14; page 6
+
+#20190524_026 Cockrum, [Cupid]
+player 1909 Salina (Central Kansas); age 19
+
+---
+
+!citation The Salina Daily Union @ 1909-07-15; page 6
+
+#20190524_027 Martin, [Suds]
+player 1909 Salina (Central Kansas)
+player 1909 Junction City (Central Kansas)
+
+---
+
+!citation The Salina Daily Union @ 1909-07-19; page 6
+
+#20190524_028 Hefner, Mike
+player 1909 Salina (Central Kansas)
+
+---
+
+!citation The Beloit Daily Call @ 1909-07-19; page 4
+
+#20190524_029 Culver, Armour
+player 1909 Beloit (Central Kansas)
+
+---
+
+!citation The Junction City Daily Union @ 1909-07-13; page 4
+
+#20190524_030 Armstrong, Lou
+player 1909 Junction City (Central Kansas)
+manager 1909 Junction City (Central Kansas)
+player 1909 Wichita (Western)
+
+---
+
+!citation The Junction City Daily Union @ 1909-07-15; page 3
+
+#20190524_031 Bates
+player 1909 Junction City (Central Kansas)
+released 1909-07-15; leave=Junction City (Central Kansas)
+
+#20190524_032 Whelan, Jimmy
+player 1909 Junction City (Central Kansas)
+
+#20190524_033 Lawrence
+player 1909 Salina (Central Kansas); age 19
+
+#20190524_034 Barnes
+player 1909 Manhattan (Central Kansas)
+player 1909 Kansas City; caliber=semipro
+
+#20190524_035 Hicks
+player 1909 Manhattan (Central Kansas)
+player 1909 Kansas City; caliber=semipro
+
+---
+
+!citation The Morning Chronicle @ 1909-07-06; page 4
+
+#20190524_036 Koehler, Gardner
+player 1909 Manhattan (Central Kansas)
+released 1909-07-05; leave=Manhattan (Central Kansas)
+
+---
+
+!citation The Morning Chronicle @ 1909-07-14; page 4
+
+#20190524_037 Hicks
+player 1909 Manhattan (Central Kansas)
+player <=1909 Hutchinson (Kansas State)
+
+#20190524_038 Barnes, Mart
+player 1909 Manhattan (Central Kansas)
+
+---
+
+!citation The Beloit Daily Call @ 1909-07-07; page 4
+
+#20190524_039 Moss
+player 1909 Minneapolis (Central Kansas)
+player 1909 Beloit (Central Kansas)
+
+---
+
+!citation The Beloit Daily Call @ 1909-07-10; page 4
+
+#20190524_040 Huseman
+player 1909 Minneapolis (Central Kansas); TL
+player 1909 Beloit (Central Kansas)
+
+#20190524_041 White, [Dad]
+player 1909 Manhattan (Central Kansas)
+
+---
+
+!citation The Beloit Daily Call @ 1909-07-14; page 4
+
+#20190524_042 Reed
+player 1909 Beloit (Central Kansas); TL
+
+---
+
+!citation The Beloit Daily Call @ 1909-07-17; page 4
+
+#20190524_043 O'Neil, Pete
+player 1909 Beloit (Central Kansas)
+
+---
+
+!citation The Beloit Daily Call @ 1909-06-14; page 4
+
+#20190524_044 Leach, H.
+player 1909 Beloit (Central Kansas)
+
+---
+
+!citation The Beloit Daily Call @ 1909-06-23; page 4
+
+#20190524_045 Green, A. J.
+player 1909 Beloit (Central Kansas)
+resides 1909 @ US/MO
+
+---
+
+!citation The Junction City Daily Union @ 1909-06-16; page 2
+
+#20190524_046 Dehaney
+player 1909 Junction City
+resides 1909 @ US/OH/Cleveland
+
+---
+
+!citation The Junction City Daily Union @ 1909-06-21; page 2
+
+#20190524_047 Edwards, W. A.
+player 1909 Junction City (Central Kansas)
+player <=1909 (Texas)
+
+#20190524_048 McDill, Eddie
+player 1909 Junction City (Central Kansas)
+
+---
+
+!citation The Junction City Daily Union @ 1909-06-26; page 4
+
+#20190524_049 Williford
+player 1909 Salina (Central Kansas); TL
+
+---
+
+!citation The Dispatch-Republican @ 1909-06-18; page 1
+
+#20190524_050 Witt, H. A.
+player 1909 Clay Center (Central Kansas)
+
+---
+
+!citation The Dispatch-Republican @ 1909-06-23; page 1
+
+#20190524_051 Forsberg, Jim
+player 1909 Clay Center (Central Kansas)
+
+---
+
+!citation The Waxahachie Daily Light @ 1914-06-20; page 5
+
+#20190524_052 Brown, Earl
+player 1914 Ennis (Central Texas)
+resides 1914 @ US/TX/Ennis
+college Texas
+
+#20190524_053 Carpenter, Johnnie
+player 1914 Ennis (Central Texas)
+
+#20190524_054 Brice, Ted
+player 1914 Ennis (Central Texas); @C
+player <=1914 Hugo (Texas-Oklahoma)
+
+#20190524_055 Myers, Bob
+player 1914 Ennis (Central Texas); @P
+player 1914 Sherman (Texas-Oklahoma)
+
+#20190524_056 Biggs, Edward
+player 1914 Ennis (Central Texas)
+college Austin College
+
+---
+
+!citation The Scranton Republican @ 1916-07-14; page 14
+
+#20190524_057 Roche, Connie
+player 1916 Scranton (New York State)
+released 1916-07-03; leave=Scranton (New York State)
+
+---
+
+!citation The Montgomer Times @ 1909-03-25; page 8
+
+#20190524_058 Debalt
+player 1909 Montgomery (Southern Association)
+player <1909 (Tri-State)
+resides 1909 @ US/OH/Cleveland
+
+---
+
+!citation The Montgomery Advertiser @ 1909-05-11; page 9
+
+#20190524_059 Debalt
+player 1909 Montgomery (Southern Association)
+player 1909 Jacksonville (South Atlantic)
+purchased 1909-05-10; leave=Montgomery (Southern Association); join=Jacksonville (South Atlantic)
+note picture
+
+---
+
+!citation The Muscatine Journal @ 1913-12-12; page 16
+
+#20190524_060 Bromley, Harry
+player 1913 Muscatine (Central Association)
+
+#20190524_061 Fitzgerald, John
+player 1913 Muscatine (Central Association)
+
+---
+
+!citation The Salina Daily Union @ 1909-08-05; page 6
+
+#20190524_062 Thompson, C. E.
+player 1909 Abilene (Central Kansas)
+released 1909-08-04; leave=Abilene (Central Kansas)
+
+---
+
+!citation The Beloit Daily Call @ 1909-08-05; page 4
+
+#20190524_063 Quinn, John
+player 1909 Manhattan (Central Kansas)
+
+#20190524_064 Green, Gerald
+player 1909 Beloit (Central Kansas)
+released 1909-08-04; leave=Beloit (Central Kansas)
+resides 1909 @ US/KS/Burr Oak
+
+---
+
+!citation The Morning Chronicle @ 1909-08-13; page 4
+
+#20190524_065 Cassell, Bob
+player 1909 Manhattan (Central Kansas)
+
+---
+
+!citation The Salina Daily Union @ 1909-08-14; page 5
+
+#20190524_066 Cassell, Bob
+player 1909 Manhattan (Central Kansas)
+player 1908 Salina (Central Kansas)
+
+---
+
+!citation Abilene Daily Chronicle @ 1909-08-17; page 4
+
+#20190524_067 Bankhead
+player 1909 Lyons (Kansas State); @2B
+manager 1909 Lyons (Kansas State)
+player 1909 Abilene (Central Kansas)
+
+#20190524_068 Reaves
+player 1909 Lyons (Kansas State): @SS
+player 1909 Abilene (Central Kansas)
+
+---
+
+!citation The Beloit Daily Call @ 1909-08-17; page 4
+
+#20190524_069 Richter
+player 1909 Hutchinson (Kansas State); @3B
+player 1909 Beloit (Central Kansas)
+
+#20190524_070 Miller
+player 1909 Hutchinson (Kansas State); @C
+player 1909 Beloit (Central Kansas)
+
+#20190524_071 Salm
+player 1909 Great Bend (Kansas State)
+player 1909 Beloit (Central Kansas)
+
+#20190524_072 Johnson, Carlos
+player 1909 Beloit (Central Kansas)
+released 1909-08-16; leave=Beloit (Central Kansas)
+
+#20190524_073 O'Neil, Pete
+player 1909 Beloit (Central Kansas)
+released 1909-08-16; leave=Beloit (Central Kansas)
+player 1909 Salina (Central Kansas)
+
+#20190524_074 Wells
+player 1909 Beloit (Central Kansas)
+player 1909 Junction City (Central Kansas)
+
+#20190524_075 Kretzer
+player 1909 Beloit (Central Kansas)
+player 1909 Junction City (Central Kansas)
+
+---
+
+!citation Abilene Daily Reflector @ 1909-08-18; page 3
+
+#20190524_076 Burton
+player 1909 Abilene (Central Kansas)
+released 1909-08-17; leave=Abilene (Central Kansas)
+
+---
+
+!citation The Morning Chronicle @ 1909-08-24; page 4
+
+#20190524_077 Short, Dick
+player 1909 Minneapolis (Central Kansas)
+
+---
+
+!citation The Daily Sentinel @ 1909-08-24; page 1
+
+#20190524_078 Schackleford
+player 1909 Salina (Central Kansas)
+player 1909 Wichita (Western)
+
+---
+
+!citation The Beloit Daily Call @ 1909-07-22; page 3
+
+#20190524_079 Ash, Roy
+player 1909 Beloit (Central Kansas)
+
+---
+
+!citation The Morning Chronicle @ 1909-07-21; page 4
+
+#20190524_080 Austin, Earl
+player 1909 Manhattan (Central Kansas)
+
+#20190524_081 Stack, Judd
+player 1909 Clay Center (Central Kansas)
+player 1909 Manhattan (Central Kansas)
+
+---
+
+!citation The Beloit Daily Call @ 1909-09-04; page 4
+
+#20190524_082 Beal, J. H.
+player 1909 Beloit (Central Kansas)
+resides 1909 @ US/KS/Wichita
+
+---
+
+!citation Ellsworth Messenger @ 1909-06-10; page 1
+
+#20190524_083 Brinker, C. D.
+player 1909 Ellsworth (Central Kansas)
+resides 1909 @ US/CA/Los Angeles
+
+---
+
+!citation Abilene Daily Chronicle @ 1909-06-16; page 4
+
+#20190524_084 Burke
+player 1909 Abilene (Central Kansas)
+player 1909 (Arkansas State League)
+
+---
+
+!citation The Morning Chronicle @ 1909-04-15; page 1
+
+#20190524_085 Faulkner, Frank
+player 1909 Manhattan (Central Kansas)
+resides 1909 @ US/KS/Pleasanton
+
+#20190524_086 Fisher, John
+player 1909 Manhattan (Central Kansas)
+resides 1909 @ US/MO/St. Louis
+player 1906 Indianapolis (American Association)
+
+#20190524_087 Irwin, P. C.
+player 1909 Manhattan (Central Kansas)
+
+#20190524_088 Koehler, Louie
+player 1909 Manhattan (Central Kansas)
+resides 1909 @ US/KS/Paola
+
+---
+
+!citation The Junction City Daily Union @ 1909-06-25; page 1
+
+#20190524_089 Hunt
+player 1909 Junction City (Central Kansas); TL
+player 1909 (Arkansas State)

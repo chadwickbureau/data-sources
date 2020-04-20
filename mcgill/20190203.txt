@@ -1,0 +1,275 @@
+!citation Winston-Salem Journal @ 1912-03-19; page 2
+
+#20190203_001 O'Brien, Henry
+player 1912 Winston-Salem (Carolina Association)
+resides 1912 @ US/MA
+
+---
+
+!citation Twin-City Daily Sentinel @ 1912-03-09; page 10
+
+#20190203_002 Callahan, Joseph
+player 1912 @ Winston-Salem (Carolina Association)
+
+#20190203_003 Hardfrandt, Raymond
+player 1912 Winston-Salem (Carolina Association)
+
+#20190203_004 Howard, Bob
+player 1912 Winston-Salem (Carolina Association)
+
+#20190203_005 Smith, Richard
+player 1912 Winston-Salem (Carolina Association)
+
+#20190203_006 Watson, A. U.
+player 1912 Winston-Salem (Carolina Association)
+
+---
+
+!citation Twin-City Daily Sentinel @ 1912-04-29; page 6
+
+#20190203_007 Elcock, James
+player 1912 Winston-Salem (Carolina Association)
+resides 1912 @ US/MA/Quincy
+
+#20190203_008 Jackson, L. C.
+player 1912 Winston-Salem (Carolina Association)
+resides 1912 @ US/CT/New Haven
+
+---
+
+!citation Twin-City Daily Sentinel @ 1912-06-06; page 8
+
+#20190203_009 Gordon
+player 1912 Daville (Virginia)
+player 1912 Winston-Salem (Carolina Association); TL
+
+---
+
+!citation Twin-City Daily Sentinel @ 1912-04-20; page 13
+
+#20190203_010 O'Brien
+player 1912 Winston-Salem (Carolina Association); W160; age 21
+
+---
+
+!citation Twin-City Daily Sentinel @ 1912-03-28; page 2
+
+#20190203_011 Pettit, Robert
+player 1912 Winston-Salem (Carolina Association); W185
+resides 1912 @ US/NC/Pinnacle
+
+---
+
+!citation Twin-City Daily Sentinel @ 1912-05-16; page 6
+
+#20190203_012 Walker, Curtis
+player 1911 (Connecticut State League)
+player 1912 Winston-Salem (Carolina Association); H74
+
+---
+
+!citation The Greenville News @ 1912-02-08; page 2
+
+#20190203_013 Donnelly, James
+player 1912 Greenville (Carolina Association); TR BR H71 W170
+resides 1912 @ US/PA/Philadelphia
+
+#20190203_014 Watson, W. W.
+player 1912 Greenville (Carolina Association); TL BL H71 W165
+resides 1912 @ US/SC/Piedmont
+
+---
+
+!citation The Greenville News @ 1912-04-12; page 2
+
+#20190203_015 Cook
+player 1912 Greenville (Carolina Association); TR H73
+player 1911 (Tidewater)
+
+#20190203_016 Buchey, Louis
+player 1912 Greenville (Carolina Association)
+
+#20190203_017 Fitzpatrick, James
+player 1912 Greenville (Carolina Association); BL TL H72 W180
+resides 1912 @ US/NJ/Hamilton
+
+#20190203_018 Flowers, Buck
+player 1912 Greenville (Carolina Association)
+
+#20190203_019 Lispcomb, Gerard
+player 1912 Greenville (Carolina Association); TR BL
+
+---
+
+!citation The Greenville News @ 1912-07-01; page 2
+
+#20190203_020 Vail, Bobby
+player 1912 Greenville (Carolina Association)
+player 1912 (Vriginia League)
+
+#20190203_021 McAleese, Dan
+player 1912 Greenville (Carolina Association)
+
+#20190203_022 Wofford, Joe
+player 1912 Greenville (Carolina Association)
+
+---
+
+!citation The Charlotte News @ 1912-06-26; page 6
+
+#20190203_023 Powell, Bull
+player 1912 Greenville (Carolina Association); @C
+player 1912 Winston-Salem (Carolina Association); @C
+
+---
+
+!citation Greensboro Daily News @ 1912-03-12; page 3
+
+#20190203_024 Jeter
+player 1912 Greensboro (Carolina Association)
+resides 1912 @ US/VA/Roanoke
+
+---
+
+!citation Greensboro Daily News @ 1912-02-11; page 3
+
+#20190203_025 Lynch, Sam
+player 1912 Greensboro (Carolina Association); TR W190; age 22
+
+---
+
+!citation Greensboro Daily News @ 1912-07-17; page 6
+
+#20190203_026 Dimpfel
+player 1912 Greensboro (Carolina Association); @P TR
+player <=1912 (South Michigan League)
+
+---
+
+!citation The Greenville News @ 1912-04-07; page 10
+
+#20190203_027 McGinley, W. H.
+player 1912 Anderson; @C
+resides 1912 @ US/PA/Mechanicsville
+player 1911 York (Tri-State)
+player 1911 Lancaster (Tri-State)
+
+---
+
+!citation The Greenville News @ 1912-07-02; page 2
+
+#20190203_028 McGinley
+player 1912 Greenville (Carolina Association)
+player 1912 Charlotte (Carolina Association)
+
+---
+
+!citation The Greenville News @ 1912-04-07; page 10
+
+#20190203_029 Spitznagle, Frank
+player 1912 Anderson (Carolina Association)
+resides 1912 @ US/NY/Rochester
+
+---
+
+!citation The Greenville News @ 1912-06-24; page 2
+
+#20190203_030 Cowan, George
+player 1912 Greenville (Carolina Association)
+player 1912 Richmond (Virginia)
+player 1911 Richmond (Virginia)
+
+---
+
+!citation The Greenville News @ 1912-04-30; page 2
+
+#20190203_031 James, Dud
+player 1912 Greenville (Carolina Association); BL
+resides 1912 @ US/SC/Greenville
+
+---
+
+!citation The Greenville News @ 1912-06-22; page 2
+
+#20190203_032 Taylor, [Buck]
+player 1912 Greenville (Carolina Association)
+
+---
+
+!citation Greensboro Daily News @ 1912-06-24; page 2
+
+#20190203_033 Hafford, Frank
+player 1912 Greensboro (Carolina Association)
+player <=1912 Topeka (Western)
+player <-1912 Louisville (American Association)
+
+---
+
+!citation The Evening Chronicle @ 1912-04-04; page 3
+
+#20190203_034 Bowers, George
+player 1912 Anderson (Carolina Association)
+resides 1912 @ US/PA/Philadelphia
+
+#20190203_035 Callahan, William H.
+player 1912 Anderson (Carolina Association)
+player 1909 Danville (Virginia)
+resides 1912 @ US/MD/Baltimore
+
+#20190203_036 Frey, Clarence E.
+player 1912 Anderson (Carolina Association); @P TR
+resides 1912 @ US/PA/Glen Rock
+
+---
+
+!citation The Charlotte News @ 1912-05-10; page 6
+
+#20190203_037 Brandon, [Rube]
+player 1912 Winston-Salem (Carolina Association)
+
+---
+
+!citation The Evening Chronicle @ 1912-07-25; page 7
+
+#20190203_038 Coombs, [Chug]
+player 1912 Spartanburg (Carolina Association)
+player 1912 Atlanta (Southern Association)
+
+---
+
+!citation The Charlotte Observer @ 1912-08-03; page 8
+
+#20190203_039 Damrau
+player 1912 Anderson (Carolina Association)
+player 1911 Jacksonville (South Atlantic)
+
+---
+
+!citation The Charlotte News @ 1912-04-25; page 1
+
+#20190203_040 Boyne
+player 1912 Charlotte (Carolina Association); TL BL
+resides 1912 @ US/VA/Lynchburg
+
+---
+
+!citation The Evening Chronicle @ 1912-07-30; page 3
+
+#20190203_041 Haddow, John
+player 1912 Charlotte (Carolina Association)
+
+---
+
+!citation The Charlotte Observer @ 1912-03-20; page 11
+
+#20190203_042 Hauser, Bennie
+player 1912 Greensboro (Carolina Association)
+college St. Mary's College @ US/NC/Belmont
+
+---
+
+!citation The Twin-City Daily Sentinel @ 1912-06-24; page 6
+
+#20190203_043 Wallace, Arthur
+player 1912 Winston-Salem (Carolina Association)
+player <=1912 (Virginia)

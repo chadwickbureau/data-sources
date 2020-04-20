@@ -1,0 +1,779 @@
+!citation The Brooklyn Daily Eagle @ 1902-04-30; page 2
+
+#20190101_001 Egan, John J.
+umpire 1902 Eastern League
+resides 1902 @ US/RI/Providence
+
+#20190101_002 Kelly, Thomas B.
+umpire 1902 Eastern League
+resides 1902 @ US/MA/Brockton
+
+#20190101_003 Snyder, Charles M.
+umpire 1902 Eastern League
+resides 1902 @ US/DC/Washington
+
+#20190101_004 Rinn, Frank P.
+umpire 1902 Eastern League
+resides 1902 @ US/PA/Lancaster
+
+---
+
+!citation The Courier-Journal @ 1901-04-08; page 6
+
+#20190101_005 Latham, Arlie
+umpire 1901 Western Association
+
+#20190101_006 Gastright, Henry
+umpire 1901 Western Association
+
+#20190101_007 Horning, Joe
+umpire 1901 Western Association
+
+---
+
+!citation The Salt Lake Tribune @ 1906-03-27; page 1
+
+#20190101_008 Perrine, Fred
+umpire 1906 Pacific Coast League
+
+#20190101_009 McDonald, James
+umpire 1906 Pacific Coast League
+
+#20190101_010 Knell, Phil
+umpire 1906 Pacific Coast League
+
+---
+
+!citation The Times @ 1896-03-08; page 8
+
+#20190101_011 Betts, William G.
+umpire 1896 Virginia League
+
+#20190101_012 Cline, Edward M.
+umpire 1896 Virginia League
+
+#20190101_013 Wood, George
+umpire 1896 Virginia League
+
+---
+
+!citation The Watchman and Southern @ 1907-05-15; page 4
+
+#20190101_014 Hemrick, John S.
+umpire 1907 South Carolina League
+resides 1907 @ US/SC/Columbia
+
+#20190101_015 McGrath, M.
+umpire 1907 South Carolina League
+
+#20190101_016 Weeks, George N.
+umpire 1907 South Caroiina League
+resides 1907 @ US/GA/Atlanta
+
+---
+
+!citation Harrisburg Telegraph @ 1890-02-12; page 1
+
+#20190101_017 Taylor, Walter
+umpire 1890 Eastern Interstate League
+resides 1890 @ US/PA/Philadelphia
+
+#20190101_018 Dean, W. S.
+umpire 1890 Eastern Interstate League
+resides 1890 @ US/PA/Lancaster
+
+---
+
+!citation Tyrone Daily Herald @ 1893-04-18; page 1
+
+#20190101_019 Hoffman, Simon
+umpire 1893 Pennsylvania State League
+
+#20190101_020 Rinn, Frank P.
+umpire 1893 Pennsylvania State League
+resides 1893 @ US/PA/Harrisburg
+
+#20190101_021 Corcoran, David
+umpire 1893 Pennsylvania State League
+resides 1893 @ US/IL/Quincy
+
+---
+
+!citation Abilene Daily Reflector @ 1909-06-05; page 3
+
+#20190101_022 Siegler, S. W.
+umpire 1909 Central Kansas League
+resides 1909 @ US/MO/Kansas City
+
+#20190101_023 Hamlin, Fritz
+umpire 1909 Central Kansas League
+resides 1909 @ US/KS/Hutchinson
+
+#20190101_024 Brumage, Alph
+umpire 1909 Central Kansas League
+resides 1909 @ US/KS/Beloit
+
+#20190101_025 McKee, C. H.
+umpire 1909 Central Kansas League
+resides 1909 @ US/KS/Pittsburg
+
+---
+
+!citation Evening Star @ 1895-03-12; page 11
+
+#20190101_026 McDermott, Sandy
+umpire 1895 Western League
+
+#20190101_027 Sheridan, John
+umpire 1895 Western League
+
+#20190101_028 O'Brien, Timothy
+umpire 1895 Western League
+
+#20190101_029 Hoagland, John
+umpire 1895 Western League
+
+---
+
+!citation Santa Cruz Evening News @ 1909-03-16; page 1
+
+#20190101_030 Doyle, James J.
+umpire 1908 California State League
+umpire 1909 California State League
+
+#20190101_031 McDonald, James
+umpire 1908 California State League
+umpire 1909 California State League
+
+#20190101_032 Hodson, George
+umpire 1908 California State League
+umpire 1909 California State League
+
+---
+
+!citation The Salt Lake Tribune @ 1905-04-23; page 33
+
+#20190101_033 Caruthers, Robert
+umpire 1905 Western League
+resides 1905 @ US/IL/Chicago
+
+#20190101_034 Burns, James
+umpire 1905 Western League
+resides 1905 @ US/NJ/Paterson
+
+#20190101_035 McKee, Harry
+umpire 1905 Western League
+resides 1905 @ US/DC/Washington
+
+---
+
+!citation Daily Arkansas Gazette @ 1902-04-30; page 1
+
+#20190101_036 Harkins, Moffett
+umpire 1902 Southern Association
+
+---
+
+!citation The Daily Review @ 1908-06-01; page 8
+
+#20190101_037 McFarland, Monte
+umpire 1908 Illinois-Indiana-Iowa League
+
+---
+
+!citation Lebanon Daily News @ 1904-07-11; page 6
+
+#20190101_038 Connor, Thomas
+umpire 1904 Tri-State League
+
+---
+
+!citation Poughkeepsie Eagle News @ 1905-06-07; page 3
+
+#20190101_039 Clark, J. William
+umpire 1905 Hudson River League
+
+---
+
+!citation The Galveston Daily News @ 1896-04-23; page 2
+
+#20190101_040 McGinnis, James
+umpire 1896 Texas League
+
+---
+
+!citation The Tennessean @ 1909-04-05; page 6
+
+#20190101_041 McDonald, Bob
+umpire 1909 Arkansas State League
+resides 1909 @ US/LA/Shreveport
+
+#20190101_042 Spencer, W. L.
+umpire 1909 Arkansas State League
+resides 1909 @ US/TX/Waco
+
+#20190101_043 Smith, O. C.
+umpire 1909 Arkansas State League
+resides 1909 @ US/AR/Jonesboro
+
+#20190101_044 Osborne, Harry
+umpire 1909 Arkansas State League
+resides 1909 @ US/KY/Louisville
+
+#20190101_045 Clifford, Tom
+umpire 1909 Arkansas State League
+resides 1909 @ US/MO/St. Louis
+
+---
+
+!citation The Hazelton Sentinel @ 1887-04-08; page 1
+
+#20190101_046 Begley, Edward
+umpire 1887 Eastern League
+resides 1887 @ US/CT/Waterbury
+
+#20190101_047 Kelly, James M.
+umpire 1887 Eastern League
+resides 1887 @ US/CT/New Haven
+
+#20190101_048 Canfield, Walter
+umpire 1887 Eastern League
+resides 1887 @ US/CT/Bridgeport
+
+---
+
+!citation Greensboro Daily News @ 1908-03-20; page 1
+
+#20190101_049 McNamara, Thomas
+umpire 1908 Carolina Association
+resides 1908 @ US/PA/Allegheny
+
+#20190101_050 Groves, George B.
+umpire 1908 Carolina Association
+resides 1908 @ US/FL/Tampa
+
+#20190101_051 Green, I. W.
+umpire 1908 Carolina Association
+resides 1908 @ US/OH/Hamilton
+
+---
+
+!citation Willamsport Sun-Gazette @ 1902-03-21; page 8
+
+#20190101_052 Southard, Frank
+umpire 1902 Pennsylvania State League
+resides 1902 @ US/PA/Scranton
+
+#20190101_053 Gill, George
+umpire 1902 Pennsylvania State League
+resides 1902 @ US/NJ/Newark
+
+#20190101_054 Jeffries, Edward
+umpire 1902 Pennsylvania State League
+resides 1902 @ US/PA/Lancaster
+
+#20190101_055 Grant, James
+umpire 1902 Pennsylvania State League
+resides 1902 @ US/PA/Reading
+
+---
+
+!citation The Galveston Daily News @ 1889-05-21; page 3
+
+#20190101_056 Horsford, J. M.
+umpire 1889 Texas League
+
+---
+
+!citation The Morning Post @ 1901-03-27; page 6
+
+#20190101_057 Clark, Ed
+umpire 1901 Virginia-North Carolina League
+
+#20190101_058 Staley, Harry
+umpire 1901 Virginia-North Carolina League
+
+---
+
+!citation Vancouver Daily World @ 1907-04-06; page 15
+
+#20190101_059 Mullane, John J.
+umpire 1907 Northwestern League
+
+#20190101_060 Ward, Piggy
+umpire 1907 Northwestern League
+
+---
+
+!citation Mount Carmel Item @ 1909-05-11; page 1
+
+#20190101_061 Quigley, Thomas
+umpire 1909 Atlantic League
+resides 1909 @ US/PA/Centralia
+
+---
+
+!citation Democrat and Chronicle @ 1897-05-11; page 14
+
+#20190101_062 Hornung, Joseph
+umpire 1897 New York State League
+
+#20190101_063 Daly, John J.
+umpire 1897 New York State League
+
+---
+
+!citation The Philadelphia Inquirer @ 1892-05-14; page 3
+
+#20190101_064 Murth, James
+umpire 1892 Pennsylvania State League
+resides 1892 @ US/PA/Braddock
+
+#20190101_065 Taylor, Walter J.
+umpire 1892 Pennsylvania State League
+resides 1892 @ US/PA/Philadelphia
+
+#20190101_066 Rinn, Frank
+umpire 1892 Pennsylvania State League
+resides 1892 @ US/PA/York
+
+#20190101_067 Lorentz, F. L.
+umpire 1892 Pennsylvania State League
+resides 1892 @ US/MD/Frederick
+
+#20190101_068 Campbell, Daniel
+umpire 1892 Pennsylvania State League
+resides 1892 @ US/PA/Philadelphia
+
+#20190101_069 Hovester, George
+umpire 1892 Pennsylvania State League
+resides 1892 @ US/PA/Harrisburg
+
+#20190101_070 Mitchell, Charles
+umpire 1892 Pennsylvania State League
+resides 1892 @ US/PA/Pittsburgh
+
+#20190101_071 Manlove, Charles
+umpire 1892 Pennsylvania State League
+resides 1892 @ US/PA/Altoona
+
+---
+
+!citation Freeport Journal-Standard @ 1907-04-08; page 8
+
+#20190101_072 Sutter, John
+umpire 1907 Wisconsin State League
+resides 1907 @ US/WI/Madison
+
+#20190101_073 Cross, Harry
+umpire 1907 Wisconsin State League
+resides 1907 @ US/IL/Chicago
+
+#20190101_074 Anderson, O. O.
+umpire 1907 Wisconsin State League
+resides 1907 @ US/MN/St. Paul
+
+#20190101_075 Dunn, A. F.
+umpire 1907 Wisconsin State League
+resides 1907 @ US/WI/Milwaukee
+
+#20190101_076 Otten, A.
+umpire 1907 Wisconsin State League
+resides 1907 @ US/WI/Milwaukee
+
+---
+
+!citation Wilkes-Barre Times @ 1905-04-27; page 8
+
+#20190101_077 Sullivan, W. J.
+umpire 1903 New England League
+umpire 1904 Eastern League
+umpire 1905 New York State League
+resides 1905 @ US/NY/Rochester
+
+#20190101_078 Wood, George A.
+umpire 1904 Southern Association
+umpire 1905 New York State League
+resides 1905 @ US/MA/Boston
+
+#20190101_079 Conahan, E. J.
+umpire 1904 Tri-State League
+umpire 1904 Eastern League
+umpire 1905 New York State League
+resides 1905 @ US/PA/Chester
+
+#20190101_080 McCormick, Dan
+umpire 1904 Connecticut State League
+umpire 1905 New York State League
+resides 1905 @ US/NH/Hinsdale
+
+---
+
+!citation The Atlanta Constitution @ 1904-12-24; page 9
+
+#20190101_081 Pfenninger, Dan
+umpire 1903 Southern Association
+umpire 1904 Southern Association
+
+#20190101_082 Black, R. W.
+umpire 1905 Southern Association
+
+#20190101_083 Burke, Joe
+umpire 1905 Southern Association
+
+#20190101_084 Bassett, Frank
+umpire 1905 Southern Association
+
+---
+
+!citation Jackson Daily News @ 1911-03-13; page 2
+
+#20190101_085 Collins, J. J.
+umpire 1911 Cotton State League
+resides 1911 @ US/MO/East St. Louis
+
+#20190101_086 Thiel, Otto
+umpire 1911 Cotton States League
+resides 1911 @ US/AZ/Phoenix
+
+---
+
+!citation The Pittsburgh Press @ 1902-03-14; page 16
+
+#20190101_087 Ebright, H. B. [Buck]
+umpire 1902 Western League
+resides 1902 @ US/WI/Milwaukee
+
+#20190101_088 Tindell, Charles
+umpire 1902 Western League
+resides @ 1902 US/IL/Chicago
+
+#20190101_089 O'Neil, Morris
+umpire 1902 Western League
+resides 1902 @ US/CA/Los Angeles
+
+#20190101_090 Haskell, Jack
+umpire 1902 Western League
+resides 1902 @ US/MO/Kansas City
+
+---
+
+!citation The Leavenworth Times @ 1886-05-28; page 4
+
+#20190101_091 Hurley, M.
+umpire 1886 Western League
+
+#20190101_092 Wallace, W. W.
+umpire 1886 Western League
+
+#20190101_093 Phelan, J. C.
+umpire 1886 Western League
+
+#20190101_094 King, Andrew
+umpire 1886 Western League
+
+---
+
+!citation Wilkes-Barre Times Leader @ 1909-01-28; page 13
+
+#20190101_095 Byron, W. J.
+umpire 1909 Eastern League
+umpire 1908 Virginia League
+resides 1909 @ US/MI/Detroit
+
+#20190101_096 Stafford, J. E.
+umpire 1909 Eastern League
+umpire 1908 Eastern League
+resides 1909 @ US/MA/Boston
+
+#20190101_097 Murray, J. J.
+umpire 1909 Eastern League
+umpire 1908 Eastern League
+resides 1909 @ US/PA/Chester
+
+#20190101_098 Kelly, Thomas B.
+umpire 1909 Eastern League
+umpire 1908 Eastern League
+resides 1909 @ US/MA/Brockton
+
+#20190101_099 Connor, Thomas
+umpire 1909 Eastern League
+umpire 1908 Tri-State League
+resides 1909 @ US/PA/Philadelphia
+
+#20190101_100 Finneran, William
+umpire 1909 Eastern League
+umpire 1908 Tri-State League
+resides 1909 @ US/PA/Erie
+
+---
+
+!citation The Record Union @ 1898-03-04; page 8
+
+#20190101_101 Alzeina, Enoch
+umpire 1898 Pacific States League
+resides 1898 @ US/CA/Santa Cruz
+
+#20190101_102 Otto, Arthur
+umpire 1898 Pacific States League
+
+#20190101_103 Griffin, Frank A.
+umpire 1898 Pacific States League
+resides 1898 @ US/CA/Sacramento
+
+#20190101_104 Stafford, Jack
+umpire 1898 Pacific States League
+
+#20190101_105 Concannon, P. E.
+umpire 1898 Pacific States League
+resides 1898 @ US/CA/San Jose
+
+---
+
+!citation The New Castle News @ 1895-05-13; page 4
+
+#20190101_106 Maskrey, Harry H.
+umpire 1895 Iron and Oil League
+
+#20190101_107 Schafer, W. J.
+umpire 1895 Iron and Oil League
+
+---
+
+!citation The Sedalia Democrat @ 1903-04-16; page 1
+
+#20190101_108 Carter, John
+umpire 1903 Missouri Valley League
+resides 1903 @ US/KS/Pittsburg
+
+---
+
+!citation New Castle Herald @ 1908-02-24; page 2
+
+#20190101_109 Limerick, Thomas
+umpire 1908 Ohio State League
+resides 1908 @ US/KY/Marysville
+
+#20190101_110 Handibee, E. S.
+umpire 1908 Ohio State League
+resides 1908 @ US/DC/Washington
+
+#20190101_111 Sheldon, O. E.
+umpire 1908 Ohio State League
+resides 1908 @ US/IL/Paxton
+
+---
+
+!citation Harrisburg Telegraph @ 1889-04-26; page 1
+
+#20190101_112 Field, Samuel J.
+umpire 1889 Middle States League
+
+#20190101_113 Dillon, Moses
+umpire 1889 Middle States League
+
+#20190101_114 Yeager, Edward
+umpire 1889 Middle States League
+
+#20190101_115 Cassiday, Charles
+umpire 1889 Middle States League
+
+#20190101_116 Johnson, Cato
+umpire 1889 Middle States League
+
+#20190101_117 Bradley, Nick
+umpire 1889 Middle States League
+
+#20190101_118 Goodwin, William
+umpire 1889 Middle States League
+
+#20190101_119 White, Harry
+umpire 1889 Middle States League
+
+#20190101_120 King, Harry
+umpire 1889 Middle States League
+
+#20190101_121 Sturgeon, R. M.
+umpire 1889 Middle States League
+
+#20190101_122 Sourbier, George W.
+umpire 1889 Middle States League
+
+#20190101_123 Dubbs, Frank
+umpire 1889 Middle States League
+
+#20190101_124 Parker, Frank
+umpire 1889 Middle States League
+
+#20190101_125 Cummings, Chester
+umpire 1889 Middle States League
+
+#20190101_126 Houser, B. J.
+umpire 1889 Middle States League
+
+#20190101_127 Hague, William
+umpire 1889 Middle States League
+
+#20190101_128 De Bois, Louis
+umpire 1889 Middle States League
+
+#20190101_129 Carlin, William
+umpire 1889 Middle States League
+
+---
+
+!citation The Anaconda Standard @ 1900-05-19; page 4
+
+#20190101_130 Ives, George
+player 1900 Great Falls (Montana State)
+
+#20190101_131 Cody, J. W.
+umpire 1900 Montana State League
+
+#20190101_132 Austin, Bert
+umpire 1900 Montana State League
+
+---
+
+!citation Davenport Democrat @ 1904-01-24; page 8
+
+#20190101_133 Powers, C. C.
+umpire 1904 Illinois-Indiana-Iowa League
+resides 1904 @ US/IL/Cairo
+
+#20190101_134 Mesner, Elo
+umpire 1904 Illinois-Indiana-Iowa League
+resides 1904 @ US/IL/Moline
+
+#20190101_135 Jannery, Victor
+umpire 1904 Illinois-Indiana-Iowa League
+resides 1904 @ US/IL/Marshall
+
+#20190101_136 Beardsley, George
+umpire 1904 Illinois-Indiana-Iowa League
+resides 1904 @ US/IL/West Pullman
+
+---
+
+!citation Reading Times @ 1901-06-05; page 1
+
+#20190101_137 Dunkle, Dave
+umpire 1901 Pennsylvania State League
+resides 1901 @ US/PA/Middletown
+
+#20190101_138 Dean, W. S.
+umpire 1901 Pennsylvania State League
+resides 1901 @ US/PA/Lancaster
+
+#20190101_139 Baer, Frank
+umpire 1901 Pennsylvania State League
+resides 1901 @ US/PA/Allentown
+
+#20190101_140 Morris, Paul
+umpire 1901 Pennsylvania State League
+resides 1901 @ US/PA/Reading
+
+#20190101_141 Holstein, Howard S.
+umpire 1901 Pennsylvania State League
+resides 1901 @ US/PA/Harrisburg
+
+#20190101_142 Miller, John
+umpire 1901 Pennsylvania State League
+resides 1901 @ US/PA/Easton
+
+---
+
+!citation Austin-American-Statesman @ 1902-04-21; page 4
+
+#20190101_143 Mace, Harry F.
+umpire @ 1902 Southern Association
+
+---
+
+!citation Wilkes-Barre Times Leader @ 1900-04-11; page 1
+
+#20190101_144 Henderson, Hardie
+umpire 1900 Atlantic League
+
+#20190101_145 Pheland, Thomas
+umpire 1900 Atlantic League
+
+#20190101_146 Morgan, Edwin
+umpire 1900 Atlantic League
+
+---
+
+!citation Hartford Courant @ 1901-07-11; page 2
+
+#20190101_147 Cauliflower, Edward
+umpire 1901 Connecticut State League
+
+#20190101_148 Chappell, Edward
+umpire 1901 Connecticut State League
+
+---
+
+!citation The Times Recorder @ 1904-03-09; page 1
+
+#20190101_149 McWatters, John
+umpire 1904 Central League
+
+#20190101_150 Peters, Charles J.
+umpire 1904 Central League
+
+---
+
+!citation Buffalo Courier @ 1903-04-02; page 13
+
+#20190101_151 Kelly, Thomas B.
+umpire 1903 Eastern League
+
+#20190101_152 Shannon, Dan
+umpire 1903 Eastern League
+
+#20190101_153 Brown, Tom
+umpire 1903 Eastern League
+
+#20190101_154 Swartwood, Ed
+umpire 1903 Eastern League
+
+---
+
+!citation The Inter Ocean @ 1888-02-12; page 12
+
+#20190101_155 Brown, D.
+umpire 1888 Central Interstate League
+
+#20190101_156 McFadden, J.
+umpire 1888 Central Interstate League
+
+#20190101_157 Voris, F.
+umpire 1888 Central Interstate League
+
+#20190101_158 Cheney, O. L.
+umpire 1888 Central Interstate League
+
+---
+
+!citation The Allentown Leader @ 1909-04-05; page 8
+
+#20190101_159 Lezotte, Abe
+umpire 1909 Atlantic League
+resides 1909 @ US/PA/Wilkes-Barre
+
+#20190101_160 Smink, William
+umpire 1909 Atlantic League
+resides 1909 @ US/NJ/Paterson
+
+#20190101_161 Heffner, Paddy
+umpire 1909 Atlantic League
+resides 1909 @ US/PA/Pottsville
+
+#20190101_162 Fellon, George
+umpire 1909 Atlantic League
+resides 1909 @ US/PA/Easton
+
+#20190101_163 Fored, Jake
+umpire 1909 Atlantic League
+resides 1909 @ US/PA/Shamokin
+

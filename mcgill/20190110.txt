@@ -1,0 +1,137 @@
+!citation Winston-Salem Journal @ 1912-03-19; page 2
+
+#20190110_001 O'Brien, Henry
+player 1912 Winston-Salem (Carolina Association)
+resides 1912 @ US/MA
+
+---
+
+!citation Twin-City Daily Sentinel @ 1912-03-09; page 10
+
+#20190110_002 Callahan, Joseph
+player 1912 @ Winston-Salem (Carolina Association)
+
+#20190110_003 Hardfrandt, Raymond
+player 1912 Winston-Salem (Carolina Association)
+
+#20190110_004 Howard, Bob
+player 1912 Winston-Salem (Carolina Association)
+
+#20190110_005 Smith, Richard
+player 1912 Winston-Salem (Carolina Association)
+
+#20190110_006 Watson, A. U.
+player 1912 Winston-Salem (Carolina Association)
+
+---
+
+!citation Twin-City Daily Sentinel @ 1912-04-29; page 6
+
+#20190110_007 Elcock, James
+player 1912 Winston-Salem (Carolina Association)
+resides 1912 @ US/MA/Quincy
+
+#20190110_008 Jackson, L. C.
+player 1912 Winston-Salem (Carolina Association)
+resides 1912 @ US/CT/New Haven
+
+---
+
+!citation Twin-City Daily Sentinel @ 1912-06-06; page 8
+
+#20190110_009 Gordon
+player 1912 Daville (Virginia)
+player 1912 Winston-Salem (Carolina Association); TL
+
+---
+
+!citation Twin-City Daily Sentinel @ 1912-04-20; page 13
+
+#20190110_010 O'Brien
+player 1912 Winston-Salem (Carolina Association); W160; age 21
+
+---
+
+!citation Twin-City Daily Sentinel @ 1912-03-28; page 2
+
+#20190110_011 Pettit, Robert
+player 1912 Winston-Salem (Carolina Association); W185
+resides 1912 @ US/NC/Pinnacle
+
+---
+
+!citation Twin-City Daily Sentinel @ 1912-05-16; page 6
+
+#20190110_012 Walker, Curtis
+player 1911 (Connecticut State League)
+player 1912 Winston-Salem (Carolina Association); H74
+
+---
+
+!citation The Greenville News @ 1912-02-08; page 2
+
+#20190110_013 Donnelly, James
+player 1912 Greenville (Carolina Association); TR BR H71 W170
+resides 1912 @ US/PA/Philadelphia
+
+#20190110_014 Watson, W. W.
+player 1912 Greenville (Carolina Association); TL BL H71 W165
+resides 1912 @ US/SC/Piedmont
+
+---
+
+!citation The Greenville News @ 1912-04-12; page 2
+
+#20190110_015 Cook
+player 1912 Greenville (Carolina Association); TR H73
+player 1911 (Tidewater)
+
+#20190110_016 Buchey, Louis
+player 1912 Greenville (Carolina Association)
+
+#20190110_017 Fitzpatrick, James
+player 1912 Greenville (Carolina Association); BL TL H72 W180
+resides 1912 @ US/NJ/Hamilton
+
+#20190110_018 Flowers, Buck
+player 1912 Greenville (Carolina Association)
+
+#20190110_019 Lispcomb, Gerard
+player 1912 Greenville (Carolina Association); TR BL
+
+---
+
+!citation The Greenville News @ 1912-07-01; page 2
+
+#20190110_020 Vail, Bobby
+player 1912 Greenville (Carolina Association)
+player 1912 (Vriginia League)
+
+#20190110_021 McAleese, Dan
+player 1912 Greenville (Carolina Association)
+
+#20190110_022 Wofford, Joe
+player 1912 Greenville (Carolina Association)
+
+---
+
+!citation The Charlotte News @ 1912-06-26; page 6
+
+#20190110_023 Powell, Bull
+player 1912 Greenville (Carolina Association); @C
+player 1912 Winston-Salem (Carolina Association); @C
+
+---
+
+!citation Greensboro Daily News @ 1912-03-12; page 3
+
+#20190110_024 Jeter
+player 1912 Greensboro (Carolina Association)
+resides 1912 @ US/VA/Roanoke
+
+---
+
+!citation Greensboro Daily News @ 1912-02-11; page 3
+
+#20190110_025 Lynch, Sam
+player 1912 Greensboro (Carolina Association); TR W190; age 22

@@ -321,7 +321,6 @@ manager 1911 Yazoo City (Cotton States)
 ---
 
 !citation Sporting Life @ 1911-07-08; page 20
-!contributor Chuck McGill <cmcmgill.vt@gmail.com>
 
 #20200404_054 Reynolds, [Rube]
 player 1911 Terre Haute (Central); @P TL
@@ -330,7 +329,6 @@ player 1911 (Minnesota-Wisconsin)
 ---
 
 !citation Sporting Life @ 1911-08-05; page 3
-!contributor Chuck McGill <cmcmgill.vt@gmail.com>
 
 #20200404_055 Murden, Joe
 player 1911 Portsmouth (Tidewater)
@@ -339,7 +337,6 @@ player 1911 Norfolk (Virginia)
 ---
 
 !citation Sporting Life @ 1911-09-16; page 2
-!contributor Chuck McGill <cmcmgill.vt@gmail.com>
 
 #20200404_056 Bosk
 player 1911 Utica (New York State); @P TR
@@ -524,7 +521,6 @@ player 1911 Old Point (Tidewater)
 ---
 
 !citation Sporting Life @ 1911-07-08; page 6
-!contributor Chuck McGill <cmcmgill.vt@gmail.com>
 
 #20200404_086 Keiber, Eddie
 player 1911 Terre Haute (Central)

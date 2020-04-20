@@ -3,8 +3,7 @@
 !file Griffin_Ed.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-08-24
 
-#profile Griffin, Edsel Ford [Ed]
-key 201710_Griffin
+#201710_001 Griffin, Edsel Ford [Ed]
 birth 1925-12-29 @ US/GA/Norman Park
 death 2017-10-19 @ US/GA/Moultrie
 military US Army 
@@ -17,8 +16,7 @@ burial Camp Ground Cemetery Mount Zion Church @ US/GA/Morven
 !file Oldenburg_George.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-07-16
 
-#profile Oldenburg, George Edward
-key 201710_Oldenburg
+#201710_002 Oldenburg, George Edward
 birth 1916-03-21 @ US/MO/St. Louis
 death 2017-10-19
 highschool McBride HS @ US/MO/St. Louis
@@ -32,11 +30,245 @@ burial Lafayette Memorial Park @ US/LA/Lafayette
 !file Sabalaskey_John.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-10-03
 
-#profile Sabalaskey, John E.
-key 201710_Sabalaskey
+#201710_003 Sabalaskey, John E.
 birth 1933-03-12 @ US/IL/Westville
 death 2017-10-06 @ US/IL/Danville
 highschool Westville HS @ US/IL/Westville
 college University of Illinois
 military US Army 
 burial Sts. Peter & Paul Cemetery @ US/IL/Westville
+
+---
+
+!citation Slay Memorial Funeral Home @ 2017-10-29
+!url http://www.slaymemorialfuneralhome.com/memsol.cgi?user_id=2026708
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-10-29
+
+#201710_004 Bleyenberg, Robert Joseph [Bob]
+birth 1934-02-27 @ US/MO/Kansas City
+death 2017-10-17 @ US/TX/Krugerville
+military US Army 
+
+---
+
+!citation Claffey & Rota Funeral Home @ 2017-11-08
+!url http://www.claffeyandrota.com/obituaries/William-Connolly-4/#!/Obituary
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-11-08
+
+#201710_005 Connolly, William J., Jr. [Willy]
+birth 1943-04-19 @ US/VA/Norfolk
+death 2017-10-27
+highschool Bellarmine College Preparatory @ US/CA/San Jose
+college Santa Clara University
+
+---
+
+!citation Herald-Dispatch @ 2017-11-05
+!url http://www.legacy.com/obituaries/herald-dispatch/obituary.aspx?n=lewis-joseph-dantoni&pid=187152428
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-11-05
+
+#201710_006 D'Antoni, Lewis Joseph
+birth 1913-12-31 @ US/WV/McComas
+death 2017-10-28 @ US/WV/Barboursville
+highschool Mullens HS @ US/WV/Mullens
+college Concord University @ US/WV/Athens
+military US Navy @ World War II
+
+---
+
+!citation Newcomer Funeral Home @ 2017-10-29
+!url http://www.newcomeralbany.com/Obituary/149349/Matthew-Daskalakis%2c-Sr/Albany-New-York
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-10-29
+
+#201710_007 Daskalakis, Matthew, Sr. [Babe]
+birth 1931
+death 2017-10-26 @ US/NY/Albany
+military US Marines @ Korean War
+
+---
+
+!citation Arlington Park Funeral Home @ 2017-11-05
+!url http://www.arlingtonparkfuneralhome.com/book-of-memories/3262593/Davis-Eugene/obituary.php
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-11-05
+
+#201710_008 Davis, Eugene Earl [Gene]
+birth 1934-05-01 @ US/FL/Jacksonville
+death 2017-10-28 @ US/FL/Jacksonville
+burial Arlington Park Cemetery @ US/FL/Jacksonville
+
+---
+
+!citation Moore & Parker Funeral Home @ 2017-10-29
+!url http://mooreandparkerfh.com/displayobit1.aspx?callid=4149
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-10-29
+
+#201710_009 Feldhaus, Allen
+birth 1940-07-15 @ US/KY/Burlington
+death 2017-10-28
+highschool Boone County HS @ US/KY/Florence
+college University of Kentucky
+
+---
+
+!citation Lexington Herald Leader @ 2017-10-28
+!url http://www.kentucky.com/news/state/article181484161.html
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-10-29
+
+#201710_010 Feldhaus, Allen, Sr.
+death 2017-10-28 @ US/KY/Maysville
+
+---
+
+!citation Natalie.Mu @ 2017-10-19
+!url http://natalie.mu/eiga/news/253400
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-11-08
+
+#201710_011 Hashimoto, Chikara
+death 2017-10-11
+
+---
+
+!citation Portland Press Herald @ 2017-11-26
+!url http://obituaries.pressherald.com/obituaries/mainetoday-pressherald/obituary.aspx?n=arthur-wells-lamb&pid=187345701
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-11-26
+
+#201710_012 Lamb, Arthur Wells [Art]
+birth 1941-06-30 @ US/CT/Sharon
+death 2017-10-31 @ US/ME/Portland
+
+---
+
+!citation Harrelson Funeral Home @ 2017-12-16
+!url http://hosting-9639.tributes.com/obituary/read/Ralph-W.-Liebendorfer-105397969
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-12-16
+
+#201710_013 Liebendorfer, Ralph W.
+birth 1928-04-11 @ US/PA/Ellwood City
+death 2017-10-18 @ US/NC/Saluda
+military US Army @ Korean War
+burial Western Carolina State Veterans Cemetery @ US/NC/Black Mountain
+
+---
+
+!citation Forbis & Dick Funeral Home @ 2017-10-30
+!url http://www.forbisanddick.com/obituaries/William-Montgomery-13/#!/Obituary
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-10-30
+
+#201710_014 Montgomery, William Donald [Donny]
+birth 1930-08-23 @ US/NC/Rockingham County
+death 2017-10-26 @ US/NC/Reidsville
+burial Mayodan Municipal Cemetery @ US/NC/Mayodan
+
+---
+
+!citation Chattanooga Funeral Home @ 2017-11-27
+!url http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Richard-Muckenthaler&lc=2371&pid=187307967&mid=7648200
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-11-27
+
+#201710_015 Muckenthaler, Richard Joseph [Rick]
+birth 1953-06-23
+death 2017-10-20
+college University of Tennessee at Chattanooga
+college Carson-Newman University
+burial Mount Olivet Cemetery @ US/TN/Chattanooga
+
+---
+
+!citation Turrentine-Jackson-Morrow Funeral Home @ 2017-10-30
+!url http://www.turrentinejacksonmorrow.com/obituaries/ross-john-powell
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-10-30
+
+#201710_016 Powell, Ross
+birth 1968-01-24 @ US/MI/Grand Rapids
+death 2017-10-25
+college University of Michigan
+
+---
+
+!citation H.D. Oliver Funeral Home @ 2017-11-01
+!url http://www.hdoliver.com/obituary/Allen-Gordon-Richter/Virginia-Beach-VA/1761480
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-11-01
+
+#201710_017 Richter, Allen Gordon
+birth 1927-02-07 @ US/VA/Norfolk
+death 2017-10-29 @ US/VA/Virginia Beach
+highschool Maury HS @ US/VA/Norfolk
+military US Army 
+burial Forest Lawn Cemetery @ US/VA/Norfolk
+
+---
+
+!citation McLean Funeral Home @ 2017-10-29
+!url http://www.mcleanfuneral.com/obituaries/Giles-Grady-Setzer?obId=2659261#/obituaryInfo
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-10-29
+
+#201710_018 Setzer, Giles Grady
+birth 1931-03-19 @ US/NC/Maiden
+death 2017-10-26 @ US/NC/Gastonia
+college Lenoir-Rhyne University
+military US Army @ Korean War
+burial St. Paul's Lutheran Church Cemetery @ US/NC/Dallas
+
+---
+
+!citation Visalia Times-Delta @ 2017-11-08
+!url http://www.legacy.com/obituaries/visaliatimesdelta/obituary.aspx?n=robert-d-talbot&pid=187165165&fhid=31063
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-11-07
+
+#201710_019 Talbot, Robert D. [Bob]
+birth 1928-06-06 @ US/CA/Visalia
+death 2017-10-31 @ US/CA/Visalia
+
+---
+
+!citation York Daily Record @ 2017-11-02
+!url http://www.legacy.com/obituaries/york/obituary.aspx?n=stanley-walters&pid=187117486&fhid=4735&eid=sp_ommatch
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-11-04
+
+#201710_020 Walters, Stanley C., Jr.
+birth 1943-06-21 @ US/NE/York
+death 2017-10-31 @ US/PA/Spring Garden Township
+military US Army 
+
+---
+
+!citation Hagan-Chamberlain Funeral Home @ 2017-10-30
+!url http://hagan-chamberlain.com/tribute/details/471/Donald-Weigand/obituary.html
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-10-30
+
+#201710_021 Weigand, Donald H.
+birth 1931 @ US/NJ/High Bridge
+death 2017-10-20 @ US/NJ/Martinsville
+highschool High Bridge HS @ US/NJ/High Bridge
+
+---
+
+!citation Pape Funeral Home @ 2017-10-30
+!url http://www.papefh.com/index.php?controller=obituary&action=show&title=donald-f-gus-witt&src=@random5023e2e4c4b3e
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-10-30
+
+#201710_022 Witt, Donald F. [Gus]
+birth 1927-03-09 @ US/IA/Clinton
+death 2017-10-26 @ US/IA/Clinton
+highschool Clinton HS @ US/IA/Clinton
+military US Army 
+burial Clinton Lawn Cemetery @ US/IA/Clinton

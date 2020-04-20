@@ -3,9 +3,38 @@
 !file Litzelfelner_Jack.pdf 
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-03-10
 
-#profile Litzelfelner, Jack Madison
-key 201706_Litzelfelner
+#201706_001 Litzelfelner, Jack Madison
 birth 1928-08-25 @ US/MO/Elvins
 death 2017-06-05 @ US/MO/Jackson
 highschool Jackson HS @ US/MO/Jackson
 military US Army @ Korean War
+
+---
+
+!citation Sponichi.co.jp @ 2017-06-16
+!url http://www.sponichi.co.jp/baseball/news/2017/06/16/kiji/20170616s00001173351000c.html
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-11-08
+
+#201706_002 Kawano, Masato
+death 2017-06-16 @ JP//Saga
+
+---
+
+!citation Sponichi.co.jp @ 2017-06-28
+!url http://www.sponichi.co.jp/baseball/news/2017/06/28/kiji/20170628s00001173388000c.html
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-11-08
+
+#201706_003 Mori, Shinji
+death 2017-06-28 @ JP//Fukuoka
+
+---
+
+!citation Mainichi.JP @ 2017-06-24
+!url https://mainichi.jp/articles/20170625/k00/00m/050/044000c
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2017-11-08
+
+#201706_004 Nagai, Tamotsu
+death 2017-06-24

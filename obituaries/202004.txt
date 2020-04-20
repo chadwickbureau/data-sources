@@ -2076,3 +2076,156 @@ birth 1940-02-20
 death 2018-02-16
 burial Mountain View Cemetery and Mausoleum @ US/CA/Altadena
 
+---
+
+!citation San Diego Union Tribune @ 2020-04-17
+!url https://www.legacy.com/obituaries/sandiegouniontribune/obituary.aspx?n=shannon-w-deniston&pid=195991290
+!file Deniston_Shan.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-17
+
+#202004_165 Deniston, Shannon W. [Shan]
+birth @ US/CA/Long Beach
+death 2020-04-04
+highschool Alhambra HS @ US/CA/Alhambra
+military US Marines @ World War II
+
+---
+
+!citation The Ledger @ 2020-04-16
+!url https://www.theledger.com/sports/20200416/mark-angelo-member-of-1981-fsc-baseball-title-team-dies-at-59
+!file Angelo_Mark.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-17
+
+#202004_166 Angelo, Mark
+death 2020-04-13 @ US/FL/Orlando
+college Florida Southern College
+
+---
+
+!citation ESPN.com @ 2020-04-15
+!url https://www.espn.com/mlb/story/_/id/29038959/former-blue-jays-2b-damaso-garcia-dies-63
+!file Garcia_Damaso.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-17
+
+#202004_167 Garcia, Damaso
+death 2020-04-15 @ DO
+
+---
+
+!citation Courtney Funeral Home @ 2020-04-17
+!url https://courtneyfh.com/tribute/details/764/Joseph-Kistner/obituary.html#tribute-start
+!file Kistner_Joseph.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-17
+
+#202004_168 Kistner, Joseph Anthony
+birth 1921-09-27 @ US/NY/Poughkeepsie
+death 2018-02-16 @ US/NY/Johnson City
+college St. Lawrence University
+military US Army @ World War II
+burial Walton Cemetery @ US/NY/Walton
+
+---
+
+!citation Newsday @ 2018-02-15
+!url https://www.legacy.com/obituaries/newsday/obituary.aspx?n=john-g-schmidt&pid=188183819&fhid=22107
+!file Schmidt_Jay.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-17
+
+#202004_169 Schmidt, John G. [Jay]
+birth 1933-08-05
+death 2018-02-12
+highschool Freeport HS @ US/NY/Freeport
+military US Air Force @ Korean War
+
+---
+
+!citation Boles Funeral Home @ 2020-04-18
+!url https://www.bolesfuneralhome.com/obituaries/Joseph-Bruce-Oxendine?obId=12711686#/celebrationWall
+!file Oxendine_Joseph.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-18
+
+#202004_170 Oxendine, Joseph Bruce
+birth 1930-03-31 @ US/NC/Pembroke
+death 2020-04-14 @ US/NC/Pinehurst
+college Catawba College
+military US Army
+
+---
+
+!citation Salisbury (MD) Daily Times @ 1971-10-21
+!file Kibler_Tom.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-18
+
+#202004_171 Kibler, Tom
+birth 1886-07-17 @ US/MD/Chestertown
+death 1971-10-18
+college Temple University
+military US Army @ World War I
+burial Unknown Cemetery @ US/MD/Chestertown
+
+---
+
+!citation Salisbury (MD) Daily Times @ 1971-10-19
+!file Kibler_Tom_2
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-18
+
+#202004_172 Kibler, Tom
+death 1971-10-18 @ US/MD/Baltimore
+
+---
+
+!citation Kriegshauser Brothers Funeral Home @ 2020-04-19
+!url http://k-brothers.com/obituary/lester-severin/
+!file Severin_Lester.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-19
+
+#202004_173 Severin, Lester Walter
+birth 1926-12-16
+death 2020-04-16
+highschool McKinley HS @ US/MO/St. Louis
+military US Army @ World War II
+burial Jefferson Barracks National Cemetery @ US/MO/St. Louis
+
+---
+
+!citation Duke & Haugh Funeral Home @ 2020-04-19
+!url https://www.dukerandhaugh.com/services/april-2020/james-michael-mike-rokita
+!file Rokita_Mike.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-19
+
+#202004_174 Rokita, James Michael [Mike]
+birth 1941-07-16 @ US/IL/Quincy
+death 2020-04-13 @ US/IL/Quincy
+military US Army @ Vietnam War
+burial Calvary Cemetery @ US/IL/Quincy
+note Minor league umpire
+
+---
+
+!citation Indianapolis Star @ 2018-02-11
+!url https://www.legacy.com/obituaries/indystar/obituary.aspx?n=frank-rex-gourdouze&pid=188133036
+!file Gourdouze_Frank.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-19
+
+#202004_175 Gourdouze, Frank Rex
+birth 1920-12-20 @ US/IN/Bicknell
+death 2017-12-26
+highschool Bicknell HS @ US/IN/Bicknell
+college Indiana State University
+military US Navy @ World War II
+burial Worthington Cemetery @ US/IN/Worthington
+
+---
+
+!citation DignityMemorial.com @ 2020-04-19
+!url http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Robert-NELSON&lc=2160&pid=188057453&mid=7748076&locale=en_US
+!file Nelson_Red.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-19
+
+#202004_176 Nelson, Robert James [Red]
+birth 1926-08-27 @ US/CO/Denver
+death 2018-02-01
+highschool South HS @ US/CO/Denver
+military US Navy @ World War II
+burial Fort Logan National Cemetery @ US/CO/Denver
+

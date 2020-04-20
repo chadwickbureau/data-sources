@@ -4,9 +4,32 @@
 !contributor Ray Nemec <basebalray@aol.com> @ 2013-12-17
 
 #profile Byrne, John H. [Jack]
-key 201307_Byrne
+key 201307_001
 birth 1928-06-07 @ US/OH/Cleveland
 death 2013-07-21 @ US/NY/Batavia
 highschool Ashtabula HS @ US/OH/Ashtabula
 military US Army @ Korean War
 burial Arlington National Cemetery @ US/VA/Arlington
+
+---
+
+!citation Texarkana Gazette @ 2013-07-19
+!url http://www.texarkanagazette.com/news/2013/07/19/charles-cross-322498.php
+!file
+!contributor Jack Morris <jackmo77@comcast.net> @ 2014-01-05
+
+#201307_002 Cross, Charles Richard [Rick]
+death 2013-07-17
+
+---
+
+!citation McCombs Funeral Home @ 2014-01-12
+!url http://www.mccombsfuneralhome.com/fh/obituaries/obituary.cfm?o_id=2184562&fh_id=11431
+!file
+!contributor Ray Nemec <basebalray@aol.com> @ 2014-01-10
+
+#201307_003 Rellergert, Edgar H. [Ed]
+birth 1929-05-29 @ US/MO/Old Appleton
+death 2013-07-31 @ US/MO/Cape Girardeau
+burial Russell Heights Cemetery @ US/MO/Jackson
+

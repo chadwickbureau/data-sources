@@ -1,0 +1,184 @@
+!citation The Tiller and Toiler @ 1911-06-16; page 3
+
+#20191121_001 Crittenden, Richard
+player 1911 Larned (Kansas State)
+resides 1911 @ US/WY/Portland
+
+---
+
+!citation The Hutchinson News @ 1911-04-14; page 3
+
+#20191121_002 Keller, E. S.
+player 1911 El Dorado (Kansas State)
+player 1910 Arkansas City (Kansas State)
+
+#20191121_003 Richardson, Lee
+player 1911 Newton (Kansas State); @C
+
+#20191121_004 Flood, S. E.
+player 1911 Newton (Kansas State); @C
+
+#20191121_005 Williams, Levi
+player 1911 Newton (Kansas State); @P
+
+#20191121_006 Beard, Guy
+player 1911 Newton (Kansas State); @P
+
+#20191121_007 Klose, J.
+player 1911 Newton (Kansas State); @SS
+resides 1911 @ US/KS/Pratt
+
+---
+
+!citation The Hutchinson News @ 1911-04-17; page 3
+
+#20191121_008 Powell, Clyde
+administrator 1911 Wellington (Kansas State); title=President
+
+#20191121_009 Ketter, Phil
+manager 1911 Wellington (Kansas State)
+
+---
+
+!citation The Hutchinson News @ 1911-04-18; page 3
+
+#20191121_010 Abbott, Spencer Arthur
+manager 1911 Lyons (Kansas State)
+
+---
+
+!citation The Hutchinson News @ 1911-04-20; page 3
+
+#20191121_011 Pittman, Gill
+player 1911 Newton (Kansas State)
+player 1910 Newton (Kansas State)
+
+---
+
+!citation The Hutchinson News @ 1911-04-21; page 3
+
+#20191121_012 Burgess, Solon
+administrator 1911 Larned (Kansas State); title=President
+
+#20191121_013 Kennedy, Neal
+player 1911 El Dorado (Kansas State)
+resides 1911 @ US/TX/Corsicana
+
+---
+
+!citation The Hutchinson News @ 1911-05-09; page 3
+
+#20191121_014 Sizemore, Walter
+player 1911 El Dorado (Kansas State); @P
+player 1910 Lyons (Kansas State)
+
+#20191121_015 Langley
+player 1911 Lyons (Kansas State); TR
+
+#20191121_016 Snyder
+player 1911 Lyons (Kansas State); TR
+
+#20191121_017 Leach
+player 1911 Lyons (Kansas State); TL
+
+#20191121_018 Dressen
+player 1911 Lyons (Kansas State); TL
+
+---
+
+!citation The Hutchinson News @ 1911-05-12; page 3
+
+#20191121_019 Grooms, Charles
+umpire 1911 Kansas State
+
+#20191121_020 Donovan, Red
+player 1911 Hutchinson (Kansas State)
+
+---
+
+!citation The Hutchinson News @ 1911-05-13; page 3
+
+#20191121_021 Leach
+player 1911 Lyons (Kansas State)
+player 1910 Horton (Eastern Kansas)
+
+#20191121_022 Langley, Leo
+player 1911 Lyons (Kansas)
+
+---
+
+!citation The Walnut Valley Times @ 1911-05-13; page 3
+
+#20191121_023 Keller, E. S.
+player 1911 El Dorado (Kansas State); H72 W190
+resides 1911 @ US/MN/Minneapolis
+birth 1887
+
+#20191121_024 Brannon, George
+player 1911 El Dorado (Kansas State)
+
+#20191121_025 Tomlin
+player 1911 Great Bend (Kansas State)
+player 1910 Laredo (Southwest Texas)
+
+---
+
+!citation Great Bend Tribune @ 1911-05-13; page 4
+
+#20191121_026 Falkenberg, Pete
+player 1911 Great Bend (Kansas State)
+
+---
+
+!citation The Evening Kansan-Republican @ 1911-05-13; page 4
+
+#20191121_027 Williams, Bill
+player 1911 Newton (Kansas State); @SS
+
+---
+
+!citation The Evening Kansan-Republican @ 1911-05-15; page 6
+
+#20191121_028 White, Carl
+player 1911 Newton (Kansas State)
+
+#20191121_029 Murphy, Pat
+player 1911 McPherson (Kansas State)
+
+---
+
+!citation Great Bend Tribune @ 1911-05-16; page 2
+
+#20191121_030 Meade, Johnny
+player 1911 Wellington (Kansas State)
+
+#20191121_031 Giffin, Tommy
+player 1911 Wellington (Kansas State)
+
+---
+
+!citation Lyons Daily News @ 1911-05-16; page 3
+
+#20191121_032 Dressen, Leo
+player 1911 Lyons (Kansas State)
+
+---
+
+!citation The Evening Kansan-Republican @ 1911-05-16; page 6
+
+#20191121_033 Block, C. W.
+player 1911 Hutchinson (Kansas State)
+
+---
+
+!citation The Walnut Valley Times @ 1911-05-17; page 3
+
+#20191121_034 Kafora, Frank
+player 1911 El Dorado (Kansas State); @C
+
+---
+
+!citation The Walnut Valley Times @ 1911-05-18; page 3
+
+#20191121_035 Garrett, Lee
+player 1911 El Dorado (Kansas State)
