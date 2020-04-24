@@ -861,3 +861,15 @@ sameas findagrave:173689385
 birth 1886
 death 1971
 burial Chester Cemetery @ US/MD/Chestertown
+
+---
+
+!citation findagrave.com @ 2020-04-20
+!url https://www.findagrave.com/memorial/113065229
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-20
+ 
+#0071 Newton, Leo Doin
+sameas findagrave:113065229
+birth 1938-09-06
+death 2007-11-12
+burial Smith Chapel Cemetery @ US/MO/Zanoni

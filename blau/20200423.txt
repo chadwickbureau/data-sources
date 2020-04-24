@@ -1,0 +1,46 @@
+!citation Fargo Forum and Daily Republican @ 1915-06-17; page 3
+
+#20200423_001 Rhoades, Dusty
+player 1915 Duluth (Northern)
+player 1914 Winnipeg (Northern)
+
+---
+
+!citation Colton (CA) Daily Courier @ 1915-03-26; page 1
+
+#20200423_002 Eberlein, Jack
+player 1915 Aberdeen (Northwestern)
+player <=1915 San Bernardino
+
+---
+
+!citation Moline Dispatch @ 1915-02-15; page 10
+
+#20200423_003 Beatty, Jack
+player 1915 Seattle (Northwestern)
+player 1914 Peoria (Illinois-Indiana-Iowa)
+purchased <=1915-02-15; join=Seattle (Northwestern); leave=Peoria (Illinois-Indiana-Iowa) 
+
+---
+
+!citation Vancouver Province @ 1915-03-19; page 4
+
+#20200423_004 Moore, Charley
+player 1915 Vancouver (Northwestern)
+player 1914 Los Angeles (Pacific Coast)
+
+---
+
+!citation Victoria Daily Times @ 1915-07-03; page 10
+
+#20200423_005 Williams, Dave
+player 1915 Victoria (Northwestern); TR
+
+---
+
+!citation Helena Daily Independent @ 1914-05-12; page 6
+
+#20200423_006 Belford, Virgil
+player 1914 Helena (Union Association); TR
+
+
