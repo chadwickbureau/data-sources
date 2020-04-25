@@ -1,0 +1,1310 @@
+!citation Asheville Citizen-Times @ 1924-01-17; page 9
+!citation Shreveport Times @ 1927-03-15; page 11
+
+#20170731_001 Mann, John L.
+player 1924 Asheville (South Atlantic)
+resides 1924 @ US/IN/West Terre Haute
+player 1927 Wichita Falls (Texas)
+
+---
+
+!citation Asheville Citizen-Times @ 1924-01-17; page 9
+
+#20170731_002 Holland, Harry
+player 1924 Asheville (South Atlantic)
+resides 1924 @ US/TN/Jackson
+
+#20170731_003 Hazen, Eddie
+player 1924 Asheville (South Atlantic)
+
+
+#20170731_004 Beal, Clayton
+player 1924 Asheville (South Atlantic)
+resides 1924 @ US/NC/Asheville
+
+---
+
+!citation Hutchinson News @ 1923-07-09; page 3
+
+#20170731_005 Mare, Bill
+player 1923 Salina (Southwestern)
+player 1923 Coffeyville (Southwestern)
+
+---
+
+!citation Hutchinson News @ 1923-05-14; page 3
+!citation Daily Arkansas Gazette @ 1916-06-24; page 11
+!citation Morning Tulsa Daily World @ 1919-02-20; page 9
+!citation Wichita Beacon @ 1919-03-07; page 3
+!citation Morning Tulsa Daily World @ 1919-03-29; page 11
+!citation St. Louis Star @ 1921-03-30; page 17
+
+#20170731_006 Meyer, Benny
+manager 1923 Salina (Southwestern)
+player 1923 Salina (Southwestern)
+player 1916 Little Rock (Southern Association)
+player 1919 Tulsa (Western)
+player 1918 Topeka (Western)
+player 1918 Hutchinson (Western)
+executive 1921 Miami (Southwestern); title=President
+
+---
+
+!citation Binghamton Press @ 1926-11-26; page 32
+!citation Kingsport Times @ 1925-06-09; page 5
+
+#20170731_007 Mayer, Ben
+player 1925 Kingsport (Appalachian); @SS
+player 1926 Waterbury (Eastern); @SS
+
+---
+
+!citation Danville Bee @ 1926-07-28; page 6
+!citation Danville Bee @ 1926-08-30; page 7
+
+#20170731_008 Marshall, Clarence "Moose"
+player 1926 Salisbury (Piedmont)
+manager 1926 Salisbury (Piedmont)
+
+---
+
+!citation Wilkes-Barre Record @ 1914-04-20; page 20
+!citation Wilkes-Barre Evening News @ 1914-05-29; page 9
+
+#20170731_009 Martin, Dave
+player 1912 Wilkes-Barre (New York State)
+player 1913 Rochester (International)
+player 1914 Wilkes-Barre (New York State)
+
+
+---
+
+!citation diamondsinthedusk.com
+!url http://www.diamondsinthedusk.com/uploads/articles/300-FINK_Herman.pdf
+
+
+#20170731_010 Fink, Herman
+player 1934 Charlotte (Piedmont)
+player 1935 Philadelphia (American)
+
+---
+
+!citation SABR bio
+
+#20170731_011 Martin, Jack
+player 1924 St. Petersburg (Florida State)
+manager 1924 St. Petersburg (Florida State)
+player 1924 Newark (International)
+
+---
+
+!citation Orlando Sentinel @ 1925-05-27; page 12
+
+#20170731_012 Morris, Bob
+player 1925 St. Petersburg (Florida State); TL
+resides 1925 @ US/GA
+
+---
+
+!citation Allentown Morning Call @ 1929-07-02; page 19
+
+#20170731_013 Lowrance, Red
+player 1923 Scranton (New York-Pennsylvania)
+player 1929 Syracuse (New York-Pennsylvania)
+
+
+#20170731_014 Sherman, Paul
+player 1929 Syracuse (New York-Pennsylvania)
+
+---
+
+!citation arkbaseball.com
+!url http://arkbaseball.com/tiki-index.php?page=Cleve+Turner
+!citation Arkansas Gazette @ 1939-10-02; page 6
+
+#20170731_015 Turner, Cleve
+manager 1906 Camden (Arkansas-Texas)
+birth 1884-05-12 @ US/AR
+death 1939-10-01 @ US/AR/Arkadelphia
+
+---
+
+!citation Wilkes-Barre Record @ 1929-08-08; page 19
+
+#20170731_016 Martin, George
+player 1929 Hazleton (New York-Pennsylvania)
+player 1929 Jersey City (International)
+
+---
+
+!citation Oakland Tribune @ 1932-08-30; page 22
+
+#20170731_017 Martin, Louie
+player 1932 Raleigh (Piedmont)
+player 1932 Hollywood (Pacific Coast)
+
+---
+
+!citation Emporia Gazette @ 1924-07-15; page 4
+!citation Wausau Daily Herald @ 1924-09-11; page 9
+
+#20170731_018 Martin, Abe
+player 1924 Arkansas City (Southwestern)
+player 1924 Enid (Southwestern)
+
+---
+
+!citation Springfield (MO) Republican @ 1924-05-08; page 5
+
+#20170731_019 Malspino, Chick
+player 1924 Arkansas City (Southwestern)
+player 1924 Springfield (Western Association)
+
+
+#20170731_020 Martin
+player 1924 Springfield (Western Association); TL
+
+---
+
+!citation St. Cloud Times @ 1933-07-07; page 10
+!citation Bloomington Pantagraph @ 1935-05-02; page 14
+!citation Bismarck Tribune @ 1935-04-20; page 8
+
+#20170731_021 Massman, Harold
+player 1932 North Platte (Nebraska State); W150
+player 1935 Fort Wayne (Illinois-Indiana-Iowa)
+college Villanova
+
+---
+
+!citation Miami News @ 1922-06-20; page 9
+
+#20170731_022 Mathews, George
+player 1921 St. Petersburg (Florida State)
+player 1922 St. Petersburg (Florida State)
+player 1922 Jacksonville (Florida State)
+
+---
+
+!citation Louisville Courier-Journal @ 1922-03-13; page 10
+
+#20170731_023 Francis, Herbert "Chile"
+player 1921 St. Petersburg (Florida State)
+resides 1921 @ US/AZ/Tucson
+
+---
+
+!citation Hutchinson News @ 1923-03-08; page 3
+!citation Independence Daily Reporter @ 1923-01-13; page 1
+!citation Independence Daily Reporter @ 1922-09-08; page 4
+!citation Hutchinson News @ 1923-12-20; page 3
+
+#20170731_024 Matthews, Frank E. "Matty"
+manager 1923 Coffeyville (Southwestern)
+resides 1923 @ US/AR/Rogers
+player 1923 Coffeyville (Southwestern)
+player 1922 Independence (Southwestern)
+manager 1924 Bartlesville (Southwestern)
+
+---
+
+!citation Abilene Reporter-News @ 1929-02-17; page 2
+!citation Springfield (MO) Leader @ 1929-04-15; page 6
+!citation Joplin Globe @ 1929-05-18; page 6
+!citation Joplin Globe @ 1929-05-08; page 8
+
+#20170731_025 Mayes, Joe
+player 1928 Tulsa (Western); BL TR
+player 1927 Okmulgee (Western Association)
+player 1929 Joplin (Western Association)
+player 1929 Shawnee (Western Association)
+college University of Oklahoma
+
+---
+
+!citation Abilene Reporter-News @ 1929-02-17; page 2
+
+#20170731_026 Kelly, Herb
+player 1928 Akron (Central); BR TR
+
+#20170731_027 Rice, John
+player 1928 Muskogee (Western Association); BR TR
+note 1928 was first year in pro baseball
+
+#20170731_028 Euller, Walter
+player 1929 Tulsa (Western); BR TR
+player 1928 Akron (Central)
+
+#20170731_029 Peters, Ernest
+player 1929 Tulsa (Western); BR TR
+
+#20170731_030 Smith, Doc
+player 1929 Tulsa (Western); BL TR
+
+#20170731_031 Banner, Jack
+player 1929 Tulsa (Western); BR TR
+
+
+#20170731_032 Chambers, Edward
+player 1929 Tulsa (Western); TL
+player 1928 Tulsa (Western)
+
+---
+
+!citation Fort Lauderdale News @ 1927-08-31; page 8
+!citation Fort Lauderdale News @ 1927-07-22; page 11
+
+#20170731_033 Chambers, Whitey
+player 1927 Savannah (Southeastern); TL
+
+---
+
+!citation Abilene Reporter-News @ 1929-02-17; page 3
+!citation Greenville News @ 1929-06-10; page 6
+!citation Greenville News @ 1929-06-13; page 8
+!citation Jefferson City Post-Tribune @ 1928-03-24; page 4
+
+#20170731_034 Valentine, George
+player 1928 Tulsa (Western); TR
+player 1929 Tulsa (Western)
+player 1929 Greenville (South Atlantic)
+player 1927 Gulfport (Cotton States)
+
+---
+
+!citation Abilene Reporter-News @ 1929-02-17; page 3
+
+#20170731_035 Wright, James
+player 1929 Tulsa (Western); TR
+player 1928 Tulsa (Western)
+
+---
+
+!citation Cincinnati Enquirer @ 1926-05-12; page 13
+!citation Minneapolis Star-Tribune @ 1926-05-07; page 24
+!citation Indianapolis Star @ 1927-06-02; page 14
+!citation Cincinnati Enquirer @ 1926-06-09; page 18
+!citation Alexandria Town Talk @ 1927-06-17; page 13
+
+#20170731_036 Chambers, White
+player 1926 Toledo (American Association); TL
+player 1926 Peoria (Illinois-Indiana-Iowa)
+player 1927 Little Rock (Southern Association)
+college Union College @ US/TN/Jackson
+
+---
+
+!citation Abilene Reporter-News @ 1929-02-17; page 3
+
+#20170731_037 Haizlip, Ralph
+player 1929 Tulsa (Western); TR
+
+---
+
+!citation Alexandria Town Talk @ 1907-05-01; page 7
+!citation Alexandria Town Talk @ 1906-12-08; page 11
+
+#20170731_038 Northen, Hub
+player 1907 Opelousas (Gulf Coast)
+player 1908 Monroe (Cotton States)
+
+---
+
+!citation Paducah Sun @ 1903-05-25
+!citation Topeka State Journal @ 1903-07-07
+
+#20170731_039 Rusie, Amos
+player 1903 Vincennes (Kentucky-Illinois-Tennessee)
+player 1901 Cincinnati (National)
+
+---
+
+!citation Nashville Tennessean @ 1929-03-10; page 12
+
+#20170731_040 Chambers, Johnny
+player 1921 Memphis (Southern Association); TL
+
+---
+
+!citation Greenville News @ 1928-01-11; page 9
+
+#20170731_041 Brewer, John
+player 1928 Greenville (South Atlantic)
+player 1927 Williamsport (New York-Pennsylvania)
+
+---
+
+!citation Salisbury (MD) Daily Times @ 1928-08-07; page 6
+
+#20170731_042 Atkinson, Hubert
+player 1927 Washington (American)
+player 1928 Albany (Southeastern)
+
+---
+
+!citation Jefferson City Post-Tribune @ 1928-03-24; page 4
+
+
+#20170731_043 Burnett, Fred
+player 1928 Tulsa (Western)
+note Played semi-pro ball in 1927
+
+---
+
+!citation Pittsburgh Post-Gazette @ 1931-05-05; page 16
+!citation Monongahela Daily Republican @ 1931-05-16; page 5
+
+#20170731_044 McAllister, John "Shorty"
+player 1930 Jeannette (Middle Atlantic)
+player 1931 Charleroi (Middle Atlantic)
+
+---
+
+!citation Roswell Daily Record @ 1924-06-05; page 1
+
+#20170731_045 McBride, D. L.
+player 1923 Roswell (Panhandle-Pecos Valley)
+player 1924 Waco (Texas Association)
+
+---
+
+!citation Vicksburg Herald @ 1922-08-22; page 1
+!citation Monroe News-Star @ 1923-07-27; page 5
+!citation Jackson Clarion-Ledger @ 1923-08-07; page 6
+!citation Jackson Daily News @ 1923-02-09; page 7
+!citation Nashville Tennessean @ 1923-12-04; page 8
+!citation Greensboro Daily News @ 1921-09-18; page 14
+!citation Louisville Courier-Journal @ 1928-09-16; page 60
+!citation Corsicana Daily Sun @ 1928-03-03; page 11
+
+#20170731_046 McBride, Edgar S. "Skeet"
+player 1922 Jackson (Cotton States)
+player 1923 Jackson (Cotton States)
+player 1923 Milan (Kentucky-Illinois-Tennessee)
+player 1923 Little Rock (Southern Association)
+player 1923 Memphis (Southern Association)
+player 1924 Mobile (Southern Association)
+player 1921 High Point (Piedmont)
+player 1928 Pensacola (Southeastern)
+player 1927 Corsicana (Lone Star)
+
+---
+
+!citation Vicksburg Herald @ 1922-08-22; page 1
+!citation Jackson Daily News @ 1922-09-03; page 6
+!citation Jackson Daily News @ 1922-03-21; page 7
+!citation Jackson Daily News @ 1923-02-09; page 7
+!citation Decatur Herald @ 1927-06-13; page 7
+
+#20170731_047 McCall, Harold "Jim"
+player 1922 Jackson (Cotton States); TR
+resides 1922 @ US/OH/New Athens
+player 1923 Little Rock (Southern Association)
+player 1927 Evansville (Illinois-Indiana-Iowa)
+
+---
+
+!citation Corsicana Daily Sun @ 1928-03-03; page 11
+
+#20170731_048 Boyd, Dutch
+player 1927 Corsicana (Lone Star)
+player 1928 Selma (Southeastern)
+
+#20170731_049 Lowrance
+player 1927 Corsicana (Lone Star)
+player 1928 Selma (Southeastern)
+
+---
+
+!citation Paducah Evening Sun @ 1910-08-06
+
+#20170731_050 Taylor, Zeke
+player 1910 Paducah (Kentucky-Illinois-Tennessee)
+player 1911 Paducah (Kentucky-Illinois-Tennessee)
+
+---
+
+!citation Hopkinsville Kentuckian @ 1910-08-09
+
+#20170731_051 Overton, Frank
+player 1910 Paducah (Kentucky-Illinois-Tennessee)
+
+---
+
+!citation Jackson Daily News @ 1922-03-21; page 7
+
+#20170731_052 Phillips, Ernie
+player 1922 Jackson (Cotton States)
+resides 1922 @ US/AR/Fort Smith
+
+---
+
+!citation Lincoln Evening Journal @ 1923-05-05; page 1
+!citation Lincoln Journal Star @ 1924-07-15; page 9
+
+#20170731_053 McCafferty, T.
+player 1923 Norfolk (Nebraska State)
+player 1924 Norfolk (Tri-State)
+
+---
+
+!citation Lansing State Journal @ 1913-07-26; page 5
+
+#20170731_054 McCarthy, Andy
+player 1912 Anderson (Carolina Association)
+player 1913 Lansing (Southern Michigan)
+
+---
+
+!citation Troy Daily Times @ 1914-04-28; page 11
+!citation Wilkes-Barre Evening News @ 1913-08-09; page 9
+!citation Indianapolis News @ 1913-05-13; page 10
+
+#20170731_055 McCarty, John [Johnny]
+player 1913 Troy (New York State)
+player 1913 Indianapolis (American Association)
+player 1914 Indianapolis (American Association)
+
+---
+
+!citation Wilkes-Barre Evening News @ 1923-08-01; page 14
+
+#20170731_056 McCormick, Jimmy
+player 1923 Wilkes-Barre (New York-Pennsylvania)
+
+---
+
+!citation High Point Enterprise @ 1922-09-27; page 2
+!citation Durham Morning Herald @ 1922-08-24; page 3
+!citation Danville Bee @ 1923-05-02; page 8
+!citation Bloomington Pantagraph @ 1924-07-05; page 10
+!citation Bloomington Pantagraph @ 1925-05-26; page 10
+!citation Bloomington Pantagraph @ 1925-07-11; page 10
+!citation Reading Times @ 1926-02-13; page 11
+!citation Brainerd Daily Dispatch @ 1926-05-12; page 6
+!citation Decatur Herald @ 1926-06-22; page 10
+
+#20170731_057 McCullough, Leslie
+player 1922 Durham (Piedmont)
+player 1923 High Point (Piedmont)
+player 1924 Bloomington (Illinois-Indiana-Iowa)
+player 1925 Bloomington (Illinois-Indiana-Iowa)
+resides 1925 @ US/NY/New York
+player 1926 Newark (International)
+player 1926 York (New York-Pennsylvania)
+player 1926 Lowell (New England)
+player 1926 Bloomington (Illinois-Indiana-Iowa)
+
+---
+
+!citation Nashville Tennessean @ 1924-01-28; page 8
+
+#20170731_058 Trexler, Richard Floyd
+player 1923 Danville (Piedmont); BR TR H70 W165
+
+---
+
+!citation Wilmington (DE) Morning News @ 1924-10-03; page 12
+!citation Asheville Citizen-Times @ 1924-04-17; page 14
+!citation Danville Bee @ 1924-09-08; page 6
+
+#20170731_059 McDonald, Harvey
+player 1922 Pocomoke City (Eastern Shore)
+player 1923 Pocomoke City (Eastern Shore)
+player 1923 Dover (Eastern Shore)
+player 1924 Spartanburg (South Atlantic)
+player 1924 Danville (Piedmont)
+player 1924 Raleigh (Piedmont)
+college University of Delaware
+
+---
+
+!citation Poughkeepsie Eagle-News @ 1924-04-02; page 11
+
+#20170731_060 Priesmuth
+player 1923 Muskogee (Southwestern); TL
+
+---
+
+!citation Lincoln Star @ 1924-04-05; page 10
+!citation Lincoln State Journal @ 1924-07-26; page 5
+!citation Des Moines Register @ 1923-07-26; page 5
+!citation Wichita Daily Eagle @ 1922-04-09; page 15
+
+#20170731_061 McDonald, Malcolm
+player 1924 Lincoln (Western)
+player 1924 Tulsa (Western)
+player 1923 Sioux City (Western)
+player 1921 St. Joseph (Western)
+
+---
+
+!citation Topeka State Journal @ 1911-06-17
+
+#20170731_062 Ulatowski, Clemons
+player 1914 Chicago (Federal)
+alias Clemens, Clem; type=alias; dates=1914
+player 1911 Des Moines (Western)
+player 1912 Des Moines (Western)
+
+---
+
+!citation Clovis News-Journal @ 1938-04-14; page 6
+!citation Clovis News-Journal @ 1938-04-15; page 6
+
+#20170731_063 McDonald, Jimmy
+player 1938 Clovis (West Texas-New Mexico); TL H71 W190
+resides 1938 @ US/IL/Chicago
+
+---
+
+!citation Minneapolis Star @ 1921-12-29; page 8
+
+#20170731_064 O'Brien, Frank
+player 1921 Galveston (Texas)
+player 1922 Portsmouth (Virginia)
+
+
+#20170731_065 Allen, Scrap
+player 1921 Galveston (Texas)
+player 1922 Portsmouth (Virginia)
+
+---
+
+!citation Joplin Globe @ 1921-08-26; page 4
+!citation Marshfield (WI) News-Herald @ 1921-10-06; page 7
+!citation Minneapolis Star @ 1921-12-29; page 8
+!citation Galveston Daily News @ 1921-03-25; page 5
+
+#20170731_066 McDonald, Fred
+player 1921 St. Joseph (Western)
+player 1921 Galveston (Texas); BL TR
+player 1922 Portsmouth (Virginia)
+
+---
+
+!citation Minneapolis Star @ 1921-12-29; page 8
+!citation Newport News Daily Press @ 1923-04-13; page 5
+
+#20170731_067 Mathag, Nathan
+player 1921 Portsmouth (Virginia)
+player 1922 Galveston (Texas)
+player 1922 Wilson (Virginia)
+
+---
+
+!citation Raleigh News and Observer @ 1922-06-02; page 11
+
+#20170731_068 McDonald, Jack
+player 1922 Raleigh (Piedmont); TL
+
+---
+
+!citation Wilmington (DE) Evening Journal @ 1924-07-24; page 16
+
+#20170731_069 McDougall, Floyd
+player 1924 Newton (Southwestern)
+player 1922 Salina (Southwestern)
+
+---
+
+!citation Des Moines Register @ 1924-02-14; page 9
+
+#20170731_070 McDowell, Jim
+player 1923 Wichita (Western)
+player 1924 Vernon (Pacific Coast)
+
+---
+
+!citation Zanesville Times Recorder @ 1935-07-31; page 6
+
+#20170731_071 Kurken, Lefty
+player 1935 Johnstown (Middle Atlantic); TL
+
+---
+
+!citation Springfield (MO) Leader @ 1921-08-15; page 5
+
+#20170731_072 McLean, Jimmy
+player 1921 Chickasha (Western Association)
+player 1920 Henryetta (Western Association)
+
+#20170731_073 McLean, Bully
+player 1921 Chickasha (Western Association)
+
+---
+
+!citation Columbus (GA) Ledger @ 1911-09-18; page 3
+
+#20170731_074 McLain, Grady
+player 1911 Macon (South Atlantic)
+
+---
+
+!citation Joplin Globe @ 1923-04-06; page 8
+
+#20170731_075 Corrigan, George P.
+player 1923 Joplin (Western Association); BR TR
+player 1922 Little Rock (Southern Association)
+birth @ US/MO/St. Louis
+resides 1923 @ US/MO/St. Louis
+note Played for US soccer team in 1920 Olympics
+
+---
+
+!citation Joplin Globe @ 1923-04-06; page 8
+!citation Joplin Globe @ 1924-06-08; page 10
+!citation Joplin Globe @ 1925-03-11; page 6
+
+#20170731_076 McLaughlin, James Robert [Jimmy]
+player 1923 Joplin (Western Association); BR TR
+birth @ US/MO/St. Louis
+resides 1923 @ US/MO/St. Louis
+player 1922 Little Rock (Southern Association)
+player 1922 Jackson (Cotton States)
+player 1921 Bridgeport (Eastern)
+player 1924 Muskogee (Western Association)
+player 1925 Sacramento (Pacific Coast)
+
+---
+
+!citation Miami News @ 1923-06-29; page 18
+!citation Orlando Sentinel @ 1924-06-14; page 6
+
+#20170731_077 McLaughlin, Eddie
+player 1923 Orlando (Florida State)
+player 1924 Orlando (Florida State)
+
+---
+
+!citation Orlando Sentinel @ 1924-07-16; page 6
+
+#20170731_078 Camp, Jimmy
+player 1923 Bradenton (Florida State)
+player 1924 Orlando (Florida State)
+
+---
+
+!citation Harrisburg Telegraph @ 1923-01-26; page 21
+!citation Shamokin News-Dispatch @ 1925-06-27; page 2
+
+#20170731_079 Mearkle, Clyde
+player 1923 Seattle (Pacific Coast)
+player 1925 Shamokin (New York-Pennsylvania)
+
+---
+
+!citation Springfield (MO) Republican @ 1926-08-24; page 4
+
+#20170731_080 Meyers, Frank
+player 1925 Springfield (Western Association)
+player 1926 Omaha (Western)
+
+---
+
+!citation Scranton Republican @ 1926-05-11; page 18
+!citation Scranton Republican @ 1927-02-09; page 18
+!citation Bridgeport Telegram @ 1927-04-12; page 3
+
+#20170731_081 Meyers, Freddie "Hap"
+player 1926 Scranton (New York-Pennsylvania)
+player 1927 Bridgeport (Eastern)
+
+---
+
+!citation SABR bio
+
+#20170731_082 Myers, Hap
+player 1912 Spokane (Northwestern)
+player 1911 Boston (American)
+
+---
+
+!citation Sporting News @ 1951-08-15; page 33
+!citation Elmira Advertiser @ 1952-04-16; page 10
+
+#20170731_083 Meyers, Billy Ray
+player 1951 Augusta (South Atlantic)
+player 1952 Reading (Eastern)
+
+---
+
+!citation Pittsburgh Press @ 1928-09-09; page 4
+!citation Decatur Herald @ 1928-04-07; page 7
+!citation Rochester Democrat and Chronicle @ 1930-07-04; page 14
+!citation Rochester Democrat and Chronicle @ 1932-03-20; page 25
+
+#20170731_084 Myers, Fred "Buddy"
+player 1928 Fort Wayne (Central)
+player 1927 Springfield (Illinois-Indiana-Iowa)
+player 1930 Rochester (International)
+manager 1932 Greensboro (Piedmont)
+player 1932 Greensboro (Piedmont)
+
+---
+
+!citation Des Moines Register @ 1931-04-02; page 18
+
+#20170731_085 Michaels, Ralph
+player 1931 St. Joseph (Western)
+player 1930 Dallas (Texas)
+
+---
+
+!citation Greenville News @ 1930-05-30; page 12
+!citation Greenville News @ 1930-05-16; page 17
+!citation Greenville News @ 1930-05-20; page 9
+!citation Alexandria (LA) Town Talk @ 1928-04-28; page 8
+!citation Biloxi Daily Herald @ 1928-07-02; page 5
+!citation Biloxi Daily Herald @ 1928-05-16; page 3
+!citation Brooklyn Daily Eagle @ 1930-04-27; page 38
+!citation Monroe News-Star @ 1929-04-23; page 11
+!citation Biloxi Daily Herald @ 1930-03-28; page 12
+!citation Sporting News @ 1935-04-11; page 3
+
+#20170731_086 Milazzo, Basil Anthony [Tony]
+player 1930 Greenville (South Atlantic)
+player 1927 Gulfport (Cotton States)
+player 1928 Gulfport (Cotton States)
+player 1929 Monroe (Cotton States)
+player 1929 El Dorado (Cotton States)
+player 1930 Memphis (Southern Association)
+player 1930 Selma (Southeastern)
+player 1934 Jeanerette (Evangeline)
+manager 1934 Jeanerette (Evangeline)
+
+---
+
+!citation Kingsport Times @ 1923-11-13; page 5
+!citation Greenville News @ 1926-05-08; page 6
+!citation Winston-Salem Journal @ 1922-03-21; page 13
+!citation Wilkes-Barre Times Leader @ 1924-05-26; page 17
+!citation Harrisburg Telegraph @ 1925-02-18; page 13
+
+#20170731_087 Ormand, T. Lee "Mink"
+player 1923 Kingsport (Appalachian)
+player 1926 Greenville (South Atlantic)
+player 1922 Winston-Salem (Piedmont)
+player 1924 Scranton (New York-Pennsylvania)
+
+---
+
+!citation Kingsport Times @ 1924-04-25; page 5
+
+#20170731_088 Miller, Charley
+player 1924 Kingsport (Appalachian)
+manager 1924 Kingsport (Appalachian)
+resides 1924 @ US/TX/Houston
+player 1914 St. Louis (American)
+
+---
+
+!citation Kingsport Times @ 1924-07-22; page 7
+!citation Asheville Citizen-Times @ 1926-06-04; page 20
+!citation Kingsport Times @ 1927-03-21; page 2
+
+#20170731_089 Henderson, Forrest "Hack"
+player 1923 Kingsport (Appalachian)
+player 1924 Kingsport (Appalachian)
+player 1924 Greenville (South Atlantic)
+player 1926 Knoxville (South Atlantic)
+player 1927 Albany (Southeastern)
+
+
+---
+
+!citation Kingsport Times @ 1924-06-17; page 7
+!citation Kingsport Times @ 1924-06-06; page 5
+
+#20170731_090 Wampler, Lawton Westinghouse "Lefty"
+player 1924 Kingsport (Appalachian); TL
+
+---
+
+!citation Kingsport Times @ 1924-06-17; page 7
+
+#20170731_091 Roberts, Rusty
+player 1924 Kingsport (Appalachian)
+
+---
+
+!citation Kingsport Times @ 1924-05-30; page 7
+!citation Kingsport Times @ 1924-06-06; page 5
+
+#20170731_092 Parsel, Harry "Lefty"
+player 1924 Kingsport (Appalachian); TL
+
+---
+
+!citation Kingsport Times @ 1924-06-03; page 8
+
+#20170731_093 Moore, W.
+player 1924 Kingsport (Appalachian)
+
+---
+
+!citation Kingsport Times @ 1925-06-03; page 7
+!citation Kingsport Times @ 1925-06-12; page 5
+!citation Kingsport Times @ 1925-07-16; page 3
+
+#20170731_094 Rittenhouse, Lefty
+player 1924 Kingsport (Appalachian)
+player 1925 Kingsport (Appalachian); TL
+player 1925 Dyersburg (Interstate)
+
+---
+
+!citation Kingsport Times @ 1925-06-26; page 3
+!citation Kingsport Times @ 1925-07-16; page 3
+
+#20170731_095 Smaltz, Andy
+player 1925 Kingsport (Appalachian)
+player 1925 Danville (Piedmont)
+
+---
+
+!citation Kingsport Times @ 1925-06-28; page 8
+
+#20170731_096 Stone, Big
+player 1925 Kingsport (Appalachian)
+
+---
+
+!citation Kingsport Times @ 1925-06-03; page 7
+!citation Kingsport Times @ 1925-06-10; page 3
+
+#20170731_097 Fister, Pete
+player 1924 Kingsport (Appalachian)
+player 1925 Kingsport (Appalachian)
+
+---
+
+!citation Kingsport Times @ 1925-06-03; page 7
+!citation Kingsport Times @ 1925-07-16; page 3
+
+#20170731_098 Haile, Jack
+player 1925 Kingsport (Appalachian)
+player 1924 Knoxville (Appalachian)
+player 1925 Corinth (Cotton States)
+
+---
+
+!citation Kingsport Times @ 1925-06-12; page 5
+!citation Kingsport Times @ 1925-06-03; page 7
+!citation Kingsport Times @ 1925-07-16; page 3
+
+#20170731_099 Loach, Dada
+player 1925 Kingsport (Appalachian); TL
+player 1924 Knoxville (Appalachian)
+player 1925 Asheville (South Atlantic)
+
+---
+
+!citation Kingsport Times @ 1925-06-03; page 7
+
+#20170731_100 Williams
+player 1925 Kingsport (Appalachian)
+player 1924 Knoxville (Appalachian)
+
+---
+
+!citation Kingsport Times @ 1925-06-03; page 7
+!citation Kingsport Times @ 1925-07-16; page 3
+
+#20170731_101 Devens, Jimmy
+player 1925 Kingsport (Appalachian)
+player 1923 Bristol (Appalachian)
+player 1925 Danville (Piedmont)
+
+---
+
+!citation Kingsport Times @ 1925-06-11; page 5
+
+#20170731_102 Hall, Lefty
+player 1925 Kingsport (Appalachian); TL
+
+---
+
+!citation Kingsport Times @ 1925-07-16; page 3
+
+#20170731_103 Schmidt
+player 1925 Asheville (South Atlantic)
+player 1925 Kingsport (Appalachian)
+
+
+#20170731_104 Mayer, Ben
+player 1925 Kingsport (Appalachian)
+player 1925 Hanover (Blue Ridge)
+
+---
+
+!citation St. Louis Post-Dispatch @ 1921-08-10; page 15
+
+#20170731_105 Miller, Ralph
+player 1921 Philadelphia (National)
+player 1921 Louisville (American Association)
+
+---
+
+!citation Newport News Daily Press @ 1925-06-18; page 5
+!citation Harrisburg Telegraph @ 1926-09-13; page 17
+!citation Shreveport Times @ 1926-09-11; page 13
+
+#20170731_106 Ormand, Hugh "Red"
+player 1926 York (New York-Pennsylvania)
+player 1927 Elmira (New York-Pennsylvania)
+college Duke
+
+---
+
+!citation Shamokin News-Dispatch @ 1926-08-03; page 2
+
+#20170731_107 Roseberry, John Albert
+player 1926 Shamokin (New York-Pennsylvania)
+birth 1898 @ US/NJ/Boonton
+
+---
+
+!citation Shreveport Times @ 1926-09-11; page 13
+!citation Minneapolis Star Tribune @ 1926-02-04; page 19
+
+#20170731_108 Pritchard, Lefty
+player 1926 Elmira (New York-Pennsylvania); TL
+player 1924 St. Paul (American Association)
+player 1924 Milwaukee (American Association)
+player 1924 Flint (Michigan-Ontario)
+player 1926 Des Moines (Western)
+player 1925 Peoria (Illinois-Indiana-Iowa)
+
+---
+
+!citation Sioux Falls Argus-Leader @ 1924-06-09; page 9
+!citation Bridgeport Telegram @ 1923-11-28; page 19
+!citation Minneapolis Star Tribune @ 1928-03-02; page 18
+
+#20170731_109 Stuvengen, Charles "Moose"
+player 1924 Sioux Falls (Tri-State)
+player 1923 Worcester (Eastern)
+player 1928 Chattanooga (Southern Association)
+
+---
+
+!citation Fort Wayne Sentinel @ 1906-05-18; page 7
+
+#20170731_110 Sealts, Frank
+player 1906 Lima (Interstate Association)
+
+#20170731_111 Miller, Al
+player 1906 Lima (Interstate Association)
+resides 1906 @ US/LA/New Orleans
+
+---
+
+!citation Scranton Republican @ 1907-02-10; page 6
+
+#20170731_112 Miller, George
+player 1907 Wheeling (Central); TL
+
+---
+
+!citation Scranton Republican @ 1907-12-28; page 9
+
+#20170731_113 Miller, Al
+player 1908 Dubuque (Illinois-Indiana-Iowa); H74 W210
+
+---
+
+!citation Muskogee Times-Democrat @ 1914-05-11; page 11
+
+#20170731_114 Miller, Vic
+player 1914 Oklahoma City (Western Association); @CF
+
+---
+
+!citation Danville Bee @ 1936-06-20; page 7
+!citation Danville Bee @ 1935-08-12; page 3
+
+#20170731_115 Miller, Mutt
+player 1935 Martinsville (Bi-State)
+player 1936 Martinsville (Bi-State)
+
+---
+
+!citation Appleton (WI) Post-Crescent @ 1921-08-05; page 10
+!citation Reading Eagle @ 1922-04-11; page 10
+
+#20170731_116 Jimerson, Earl T.
+player 1921 Springfield (Eastern); TL
+
+---
+
+!citation Salt Lake Telegram @ 1931-05-04; page 7
+
+#20170731_117 Miller, Perry
+player 1931 North Platte (Nebraska State)
+resides 1931 @ US/UT/Salt Lake City
+
+---
+
+!citation Minneapolis Star Tribune @ 1931-08-11; page 13
+!citation Des Moines Register @ 1931-04-17; page 15
+!citation Decatur Herald @ 1932-05-02; page 2
+
+#20170731_118 Mills, Dale
+player 1931 Bartlesville (Western Association)
+resides 1931 @ US/OK/Crescent
+player 1932 Peoria (Illinois-Indiana-Iowa)
+
+---
+
+!citation Green Bay Press-Gazette @ 1912-06-12; page 7
+!citation Oshkosh Northwestern @ 1913-02-05; page 8
+!citation Green Bay Press-Gazette @ 1914-02-07; page 7
+
+#20170731_119 Mills, Arthur
+player 1912 Madison (Wisconsin-Illinois)
+player 1913 Madison (Wisconsin-Illinois)
+traded <1914-02-07; join=Saginaw
+
+---
+
+!citation Springfield (MO) Republican @ 1922-04-05; page 5
+!citation Des Moines Register @ 1922-01-15; page 15
+!citation Springfield (MO) Republican @ 1926-08-10; page 3
+!citation Springfield (MO) Leader @ 1926-06-01; page 1
+!citation Muskogee Times-Democrat @ 1916-04-20; page 2
+!citation Muskogee Times-Democrat @ 1915-04-29; page 7
+!citation Morning Tulsa Daily World @ 1917-03-22; page 7
+!citation Morning Tulsa Daily World @ 1917-05-13; page 21
+!citation Muskogee Times-Democrat @ 1914-08-24; page 7
+
+#20170731_120 Robinson, Joe
+player 1922 Sioux City (Western)
+player 1921 Sioux City (Western)
+player 1926 Springfield (Western Association)
+player 1926 Muskogee (Western Association)
+player 1915 Muskogee (Western Association)
+player 1916 Muskogee (Western Association)
+player 1917 Muskogee (Western Association)
+player 1914 Henryetta (Western Association)
+
+---
+
+!citation Springfield (MO) Leader @ 1921-08-15; page 5
+!citation Springfield (MO) Republican @ 1922-04-21; page 5
+
+#20170731_121 Miner, David
+player 1921 Chickasha (Western Association)
+player 1922 Henryetta (Western Association)
+
+---
+
+!citation Davenport Daily Times @ 1921-12-19; page 16
+!citation Wichita Beacon @ 1923-02-11; page 13
+!citation Springfield (MO) Republican @ 1923-02-22; page 5
+!citation Wichita Daily Eagle @ 1920-04-15; page 7
+!citation Daily Arkansas Gazette @ 1915-03-26; page 10
+!citation Muskogee Times-Democrate @ 1914-05-29; page 11
+
+#20170731_122 Robinson, Joie [Buddy]
+player 1921 Cedar Rapids (Illinois-Indiana-Iowa)
+player 1922 Bloomington (Illinois-Indiana-Iowa)
+death 1923-02 @ US/OK/Weleetka
+player 1919 Sioux City (Western)
+player 1917 Fort Smith (Western Association)
+player 1914 Durant (Texas-Oklahoma)
+player 1915 Fort Smith (Western Association)
+resides 1915 @ US/OK/Weleetka
+player 1914 Fort Smith (Western Association)
+
+---
+
+!citation Sherman Daily Democrat @ 1915-04-26
+
+#20170731_123 Weber, Ed
+player 1907 Fort Worth (Texas)
+player 1910 Fort Worth (Texas)
+player 1911 Jacksonville (South Atlantic)
+player 1912 Cleburne (South Central)
+player 1914 Sherman (Texas-Oklahoma)
+
+---
+
+!citation St. Louis Post Dispatch @ 1921-09-22; page 19
+
+#20170731_124 Tecarr, Bob
+player 1921 Jersey City (International); TL
+purchased <1921-09-22; join=New York (American); leave=Jersey City (International)
+
+---
+
+!citation Des Moines Register @ 1920-04-15; page 9
+
+#20170731_125 Henrion, Henry
+player 1920 Cedar Rapids (Illinois-Indiana-Iowa)
+
+---
+
+!citation Decatur Review @ 1910-03-28; page 5
+!citation Davenport Daily Times @ 1910-03-23; page 8
+
+#20170731_126 Moore, Charles
+player 1909 Aberdeen (Northwestern)
+player 1910 Peoria (Illinois-Indiana-Iowa)
+
+---
+
+!citation SABR bio
+
+#20170731_127 Smith, Doug
+player 1912 Boston (American)
+player 1912 Lowell (New England)
+player 1913 Lowell (New England)
+player 1913 Springfield (Eastern Association)
+player 1913 Meriden (Eastern Association)
+player 1914 New Britain (Eastern Association)
+player 1915 Springfield (Colonial)
+player 1916 Syracuse (New York State)
+player 1917 Bridgeport (Eastern)
+player 1918 Bridgeport (Eastern)
+
+---
+
+!citation Charlotte Observer @ 1913-05-07; page 7
+
+#20170731_128 Moore, Edward
+player 1912 Cadillac (Michigan State)
+player 1913 Charlotte (North Carolina State)
+
+---
+
+!citation Davenport Daily Times @ 1926-04-16; page 30
+!citation Lincoln Journal Star @ 1926-06-02; page 9
+!citation Lincoln Journal Star @ 1927-04-02; page 7
+!citation Des Moines Register @ 1928-08-18; page 5
+!citation Des Moines Register @ 1929-04-14; page 2
+!citation Sedalia (MO) Democrat @ 1930-04-25; page 10
+
+#20170731_129 Moore, Bob "Specks"
+player 1926 Oklahoma City (Western)
+player 1925 Dubuque (Mississippi Valley)
+player 1927 Oklahoma City (Western)
+player 1928 Wichita (Western)
+player 1929 Omaha (Western)
+player 1930 Omaha (Western)
+
+---
+
+!citation Des Moines Register @ 1930-03-11; page 9
+!citation Sedalia (MO) Democrat @ 1930-04-25; page 10
+
+#20170731_130 Bliss, George "Red"
+player 1929 Wichita (Western)
+player 1930 Omaha (Western)
+
+---
+
+!citation Atlanta Constitution @ 1923-04-05; page 9
+!citation Atlanta Constitution @ 1923-03-21; page 11
+
+#20170731_131 Moore, Jim
+player 1923 Spartanburg (South Atlantic)
+manager 1922 Jackson (Cotton States)
+
+---
+
+!citation Springfield (MO) Republican @ 1924-09-13; page 5
+!citation Hutchinson News @ 1925-03-19; page 3
+!citation Minneapolis Star @ 1925-05-16; page 17
+!citation Philadelphia Inquirer @ 1931-04-19; page 38
+
+#20170731_132 Moore, Jim "Hollywood"
+player 1924 Ardmore (Western Association)
+player 1925 Memphis (Southern Association)
+player 1925 Kansas City (American Association)
+player 1931 Philadelphia (American)
+
+---
+
+!citation Lethbridge Herald @ 1911-03-16; page 6
+
+#20170731_133 Chick, Fred
+player 1910 Lethbridge (Western Canada)
+player 1911 Calgary (Western Canada)
+
+---
+
+!citation SABR bio
+!citation Daily Arkansas Gazette @ 1919-08-15; page 11
+
+#20170731_134 Moran, Herbie
+player 1914 Boston (National)
+player 1919 Sioux City (Western)
+manager 1919 Sioux City (Western)
+
+---
+
+!citation SABR bio
+
+#20170731_135 Schmidt, Boss
+manager 1919 Sioux City (Western)
+
+---
+
+!citation Wichita Daily Eagle @ 1919-06-28; page 7
+!citation Wichita Daily Eagle @ 1919-04-17; page 7
+!citation Daily Arkansas Gazette @ 1919-08-15; page 11
+
+#20170731_136 Hardgrove, Pat
+player 1919 St. Joseph (Western)
+player 1918 Chicago (American)
+player 1919 Sioux City (Western)
+
+---
+
+!citation Arkansas Democrat @ 1918-05-09; page 11
+
+#20170731_137 Hardgrove, Omer
+player 1917 Little Rock (Southern Association)
+player 1918 Little Rock (Southern Association)
+
+---
+
+!citation Wichita Beacon @ 1918-07-05; page 7
+
+#20170731_138 Hardgrove, Roy
+player 1918 Oklahoma City (Western)
+brother of Hardgrove, Pat
+
+---
+
+!citation Springfield (MO) Leader @ 1922-05-02; page 9
+!citation Arkansas Democrat @ 1922-04-19; page 11
+
+#20170731_139 Morgan
+player 1922 Chattanooga (Southern Association)
+player 1922 Fort Smith (Western Association)
+
+---
+
+!citation Joplin Globe @ 1922-07-20; page 6
+
+#20170731_140 Day, Pea Ridge
+player 1922 Fort Smith (Western Association)
+
+---
+
+!citation Springfield (MO) Republican @ 1922-11-09; page 5
+
+#20170731_141 Schaefering, E. E.
+player 1922 Fort Smith (Western Association)
+
+---
+
+!citation Sporting News @ 1922-06-01; page 5
+
+#20170731_142 Thomas, Roy
+player 1922 Fort Smith (Western Association)
+manager 1922 Fort Smith (Western Association)
+player 1911 Philadelphia (National)
+

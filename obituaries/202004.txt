@@ -2546,3 +2546,109 @@ death 2018-01-07 @ US/TX/San Angelo
 military US Navy @ World War II
 burial Johnson's Lawnhaven Memorial Gardens @ US/TX/San Angelo
 
+---
+
+!citation Chicago Tribune @ 2020-04-24
+!url https://www.legacy.com/obituaries/chicagotribune/obituary.aspx?n=clair-barth-johnson&pid=196053902&fhid=24652
+!file Johnson_Bart.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-24
+
+#202004_202 Johnson, Clair Barth [Bart]
+death 2020-04-22 @ US/IL/Palos Heights
+
+---
+
+!citation Paul A. Shaker Funeral Home @ 2020-04-24
+!url https://www.tributearchive.com/obituaries/12751623/Stephen-L-Dalkowski-Jr
+!file Dalkowski_Steve.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-24
+
+#202004_203 Dalkowski, Stephen L. [Steve]
+birth 1939-06-03
+death 2020-04-19 @ US/CT/New Britain
+highschool New Britain HS @ US/CT/New Britain
+
+---
+
+!citation San Diego Union-Tribune @ 2020-04-23
+!url https://www.sandiegouniontribune.com/sports/story/2020-04-23/dan-walters-padres-catcher-san-diego-police-dies
+!file Walters_Dan.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-24
+
+#202004_204 Walters, Dan
+death 2020-04-23 
+highschool Santana HS @ US/CA/Santee
+
+---
+
+!citation St. Louis Post-Dispatch @ 2020-04-24
+!url https://www.stltoday.com/sports/baseball/professional/former-cardinals-coach-rich-hacker-a-new-athens-product-like-whitey-herzog-dies-at-72/article_e1c3d47d-7755-5d53-afcf-9458e858d930.html
+!file Hacker_Rich.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-24
+
+#202004_205 Hacker, Rich
+death 2020-04-22 @ US/IL/Fairview Heights
+college Southern Illinois University Carbondale
+
+---
+
+!citation Baran Funeral Home @ 2020-04-24
+!url https://www.baranfh.com/obituary/Richard-Davis
+!file Davis_Dick.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-24
+
+#202004_206 Davis, Richard L. [Dick]
+birth 1925-04-25 @ US/IL/Shelbyville
+death 2018-01-05 @ US/IN/East Chicago
+
+---
+
+!citation Epstein Funeral Home @ 2020-04-24
+!url https://www.epsteinmemorialchapel.com/obituaries/Alvin-Kauffman/#!/Obituary
+!file Kauffman_Al.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-24
+
+#202004_207 Kauffman, Alvin Stanley [Al]
+birth 1927-02-16
+death 2018-01-10 @ US/OH/Columbus
+highschool South HS @ US/OH/Columbus
+burial New Agudas Achim Cemetery @ US/OH/Columbus
+
+---
+
+!citation Pottsville Republican Herald @ 2018-01-11
+!url https://www.legacy.com/obituaries/schuylkill/obituary.aspx?n=joseph-s-jacavage&pid=187810554&fhid=10259
+!file Jacavage_Joseph.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-24
+
+#202004_208 Jacavage, Joseph S. 
+birth 1951-09-12 @ US/PA/Shenandoah
+death 2020-01-09 @ US/PA/Shenandoah
+highschool Shenandoah Valley HS @ US/PA/Shenandoah
+burial New St. Casimir's Cemetery @ US/PA/Shenandoah
+
+---
+
+!citation Forest Lake Times @ 2018-01-03
+!url https://www.hometownsource.com/forest_lake_times/obituaries/kenneth-donald-crist/article_780f6306-44bc-5a9c-a83c-4808290a33f6.html
+!file Crist_Ken.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-24
+
+#202004_209 Crist, Kenneth Donald [Ken]
+birth 1929-10-31 @ US/MN/Austin
+death 2017-12-28 @ US/IN/New Richmond
+military US Air Force
+
+---
+
+!citation Lucas & Eaton Funeral Home @ 2020-04-24
+!url https://www.lucaseatonfuneralhome.com/obituary/RobertT-Hynes
+!file Hynes_Bob.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-24
+
+#202004_210 Hynes, Robert Theodore [Bob]
+birth 1932-12-22
+death 2020-04-15
+highschool Bromfield School @ US/MA/Harvard
+military US Army @ Korean War
+
