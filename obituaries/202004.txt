@@ -2652,3 +2652,140 @@ death 2020-04-15
 highschool Bromfield School @ US/MA/Harvard
 military US Army @ Korean War
 
+---
+
+!citation Tampa Bay Times @ 2020-04-25
+!url https://www.legacy.com/obituaries/tampabaytimes/obituary.aspx?n=jesus-corrales&pid=196070851
+!file Corrales_Jay.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-25
+
+#202004_211 Corrales, Jesus Antonio [Jay]
+birth 1931-07-12 @ US/FL/Tampa
+death 2020-04-14 
+military US Army @ Korean War
+
+---
+
+!citation Sioux Falls Argus-Leader @ 1972-04-12
+!file Nolt_Albert.pdf 
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-25
+
+#202004_212 Nolt, Albert W. "Nig"
+birth 1889-10-05 @ US/SD/Mitchell
+death 1972-03-31 @ US/CA/Redondo Beach 
+college Dakota Wesleyan University
+burial Green Hills Memorial Park @ US/CA/Rancho Palos Verdes
+
+---
+
+!citation Burton Funeral Homes @ 2020-04-26
+!url https://www.burtonfuneralhomes.com/obituaries/obituary/edward-smrekar
+!file Smrekar_Ed.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-26
+
+#202004_213 Smrekar, Edward E. [Ed]
+birth 1931-08-20 @ US/PA/Venus
+death 2020-04-23 @ US/PA/Erie
+military US @ Korean War
+
+---
+
+!citation St. Louis Post-Dispatch@ 2020-04-26
+!url https://www.legacy.com/obituaries/stltoday/obituary.aspx?n=albert-g-grosch&pid=196079293&fhid=5885
+!file Grosch_Al.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-26
+
+#202004_214 Grosch, Albert George [Al]
+birth 1918-10-25
+death 2020-04-07
+military US Army @ World War II
+burial Calvary Cemetery @ US/MO/St. Louis
+
+---
+
+!citation Eaton Funeral Home @ 2020-04-26
+!url https://www.eatonfuneralhomes.com/obituary/Alcott-Phinney
+!file Phinney_Al.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-26
+
+#202004_215 Phinney, Alcott Kellogg [Al]
+birth @ US/MA/Newton
+death 2020-04-19
+highschool Newton HS @ US/MA/Newton
+military US Air Force @ Korean War
+
+---
+
+!citation Sujkowski Funeral Home @ 2020-04-26
+!url https://www.sujkowskirossford.com/obituary/Norm-Losonsky
+!file Losonsky_Norm.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-26
+
+#202004_216 Losonsky, Norman R. [Norm]
+birth 1942-03-11 @ US/OH/Rossford
+death 2018-01-02 @ US/OH/Sylvania
+military US Army @ Vietnam War
+
+---
+
+!citation Carter-Ricks Funeral Homes @ 2020-04-26
+!url https://carterricksfuneralhome.com/tribute/details/1414/Everett-Rottger/obituary.html#tribute-start
+!file Rottger_Everett.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-26
+
+#202004_217 Rottger, Everett Anton
+birth 1931-10-14 @ US/MO/Chain of Rocks
+death 2018-01-03 @ US/MO/Elsberry
+military US Army @ Korean War
+
+---
+
+!citation Dean K. Wetzler Funeral Home @ 2020-04-26
+!url https://www.deankwetzlerfuneralhome.com/book-of-memories/3389566/Spackman-Ronald/obituary.php
+!file Spackman_Ron.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-26
+
+#202004_218 Spackman, Ronald Max [Ron]
+birth 1931-05-10 @ US/PA/Huston Township
+death 2018-01-03 @ US/PA/State College
+highschool Port Matilda HS @ US/PA/Port Matilda
+military US Air Force
+
+---
+
+!citation Claremore Daily Progress @ 2017-12-28
+!url https://obituaries.claremoreprogress.com/obituary/roy-white-1018611082
+!file White_Roy.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-26
+
+#202004_219 White, Roy C.
+death 2017-12-28 @ US/MS/Meridian
+highschool Hickory HS @ US/MS/Hickory
+military US Army @ Korean War
+burial Mississippi Veterans Memorial Cemetery @ US/MS/Newton
+
+---
+
+!citation Ledford Family Funeral Homes @ 2020-04-26
+!url https://www.ledfordfamilyfh.com/obituaries/Gilbert-Jackson-3/#!/Obituary
+!file Jackson_Gil.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-26
+
+#202004_220 Jackson, Gilbert Shepard [Gil]
+birth 1930-11-08 @ US/TX/Lubbock
+death 2017-12-24 @ US/MO/Kansas City
+military US Air Force @ Korean War
+burial Missouri Veterans Cemetery at Higginsville @ US/MO/Higginsville
+
+---
+
+!citation Nordike Funeral Home @ 2020-04-26
+!url https://www.nordikefuneralhome.com/obituaries/James-Norrenberns/#!/Obituary
+!file Norrenberns_Jim.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-26
+
+#202004_221 Norrenberns, James F. [Jim]
+birth 1929-08-29 @ US/IL/Albers
+death 2017-12-26 @ US/IL/Aviston 
+military US Army @ Korean War
+burial St. Bernard's Cemetery @ US/IL/Albers

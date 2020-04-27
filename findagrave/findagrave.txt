@@ -873,3 +873,51 @@ sameas findagrave:113065229
 birth 1938-09-06
 death 2007-11-12
 burial Smith Chapel Cemetery @ US/MO/Zanoni
+
+---
+
+!citation findagrave.com @ 2020-04-26
+!url https://www.findagrave.com/memorial/53062150/arthur-robert-lundin
+!contributor Ted Turocy <ted.turocy@gmail.com> @ 2020-04-26
+
+#0072 Lundin, Arthur Robert
+sameas findagrave:53062150
+birth 1879
+death 1951
+burial Western Township Cemetery @ US/IL/Orion
+
+---
+
+!citation findagrave.com @ 2020-04-25
+!url https://www.findagrave.com/memorial/100590293
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-25
+ 
+#0073 Tedeschi, Nello "Fungo"
+sameas findagrave:100590293
+birth 1890-05-31 @ IT//Capestrano
+death 1975-04-26 @ US/MI/Iron Mountain
+burial Iron Mountain Cemetery Park @ US/MI/Iron Mountain
+
+---
+
+!citation findagrave.com @ 2020-04-25
+!url https://www.findagrave.com/memorial/72205159
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-25
+ 
+#0074 Nolt, Albert W.
+sameas findagrave:72205159
+birth 1889-10-05 @ US/SD/Hanson County
+death 1972-03-31 @ US/CA/Los Angeles County
+burial Green Hills Memorial Park @ US/CA/Rancho Palos Verdes
+
+---
+
+!citation findagrave.com @ 2020-04-26
+!url https://www.findagrave.com/memorial/33328325
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-26
+ 
+#0075 McLeod, Daniel Herbert "Hub"
+sameas findagrave:33328325
+birth 1887-04-28
+death 1918-11-19 @ US/AL/Florala
+burial Euchee Valley Cemetery @ US/FL/Eucheeanna

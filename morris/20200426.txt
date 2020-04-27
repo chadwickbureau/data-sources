@@ -1,0 +1,332 @@
+
+!citation  Raleigh News & Observer 1915-06-19; page 3
+
+#20200426_001 Durborow
+player 1914 Charlotte (North Carolina State)
+player 1915 Charlotte (North Carolina State)
+player 1915 Martinsburg (Blue Ridge)
+
+#20200426_002 Winston
+player 1915 Morganton (Western Carolina); @C
+player <=1915 North Carolina State University; caliber=college
+
+---
+
+!citation  Streator Times 1915-05-08; page 3
+
+#20200426_003 Cronin, Arnold J. 
+player 1915 Virginia (Northern); @C
+player 1914 La Salle (Illinois-Missouri)
+player 1914 Roseland Eclipse; caliber=semipro
+
+---
+
+!citation  Chambersburg Public Opinion 1915-08-28; page 5
+
+#20200426_004 Gochenour, Ralph
+player 1915 Chambersburg (Blue Ridge)
+
+---
+
+!citation Shreveport Times 1918-03-31; page 9
+
+#20200426_005 Brennan, Frank
+player 1918 Shreveport (Texas); @C 
+player 1917 Scranton (New York State)
+
+#20200426_006 Young, Cy
+player 1918 Shreveport (Texas); @P 
+player 1917 Tulsa (Western Association)
+
+---
+
+!citation Richmond Times Dispatch 1915-07-18; page 13
+
+#20200426_007 Cram, Ralph
+player 1915 Richmond (International); @P
+player 1915 Brown University; caliber=college
+
+---
+
+!citation Raleigh News & Observer 1915-04-17; page 3
+
+#20200426_008 Belanger, Jerry
+player 1913 Raleigh (North Carolina State) 
+player 1915 Portsmouth (Virginia) 
+
+---
+
+!citation Raleigh News & Observer 1915-08-12; page 3
+
+#20200426_009 Emery, Burleigh
+manager 1915 Charlotte (North Carolina State) 
+player 1915 (Virginia)
+player 1915 Lumberton (Eastern North Carolina) 
+
+---
+
+!citation Dallas Morning News 1915-04-30; page 10
+
+#20200426_010 Myers, Robert 
+player 1915 Denison (Western Association); @P
+player 1915 Tulsa (Western Association)
+
+#20200426_011 Robison, Tommie 
+player 1915 Denison (Western Association); @OF
+player 1915 Muskogee (Western Association)
+
+#20200426_012 Eunick, Fred 
+player 1915 Dallas (Texas); @SS
+player 1915 Muskogee (Western Association)
+note picture
+
+---
+
+!citation Dallas Morning News 1915-05-01; page 9
+
+#20200426_013 Anderson, Ollie
+umpire 1915 Texas 
+resides 1915 @ US/TX/San Antonio
+
+---
+
+!citation Waco Morning News 1915-04-18; page 20
+
+#20200426_014 Pursell, Lyle
+player 1915 Waco (Texas); @P TL
+player 1915 St. Joseph (Western)
+
+---
+
+!citation Houston Post 1915-04-13; page 5
+
+#20200426_015 Showers, Dan
+player 1915 Beaumont (Texas); @3B
+
+#20200426_016 Durr, Frank
+player 1915 Beaumont (Texas); @C
+
+---
+
+!citation Waco Morning News 1915-02-28; page 19
+
+#20200426_017 Yardley, Finley
+player 1915 Waco (Texas); @OF
+player 1914 Muskogee (Western Association)
+resides 1915 @ US/TX/Ben Arnold
+
+#20200426_018 Durr, Frank
+player 1915 Beaumont (Texas); @C
+
+---
+
+!citation Dallas Morning News 1915-05-08; page 8
+
+#20200426_019 Akin, Roy
+umpire 1915 Texas 
+
+#20200426_020 Moran, Charlie
+umpire 1915 Texas 
+
+---
+
+!citation Houston Post 1915-04-27; page 3
+
+#20200426_021 Drennan
+player 1915 Waco (Texas); @OF 
+player 1915 Memphis (Southern Association)
+
+---
+
+!citation Dallas Morning News 1915-05-25; page 8
+
+#20200426_022 Smith 
+player 1915 McAlester (Western Association); @LF
+player 1915 Tulsa (Western Association)
+
+---
+
+!citation Dallas Morning News 1915-05-26; page 8
+
+#20200426_023 Weeks, Tommy
+player 1915 Sherman (Western Association); @P
+
+---
+
+!citation Dallas Morning News 1915-05-31; page 12
+
+#20200426_024 Campbell, Joe
+player 1915 Denison (Western Association); @P
+
+---
+
+!citation Dallas Morning News 1915-06-01; page 7
+
+#20200426_025 Akin, Roy
+player 1915 Mexia (Central Texas); @SS-C
+
+---
+
+!citation Dallas Morning News 1915-06-09; page 8
+
+#20200426_026 Myers, Bobbie
+player 1915 Denison (Western Association); @P
+player 1915 Oklahoma City (Western Association); @P
+
+---
+
+!citation Dallas Morning News 1915-04-09; page 8
+
+#20200426_027 McHenry, J. F.
+umpire 1915 Middle Texas
+resides 1915 @ US/TX/Lampasas
+
+#20200426_028 Estill, Buster
+umpire 1915 Middle Texas
+resides 1915 @ US/TX/Austin
+
+#20200426_029 Burt, R. O. 
+umpire 1915 Middle Texas
+resides 1915 @ US/TX/Dallas
+
+---
+
+!citation Dallas Morning News 1915-04-01; page 9
+
+#20200426_030 Phelan, Ed
+player 1915 Muskogee (Western Association); @P
+
+#20200426_031 Coe, Frank
+manager 1915 Muskogee (Western Association)
+
+#20200426_032 Hardy, Ellis
+manager 1915 Waco (Texas)
+
+#20200426_033 Kallio, Roy
+player 1915 Waco (Texas); @P
+player 1915 Saskatoon (Western Canada)
+returned <=1915-04-01; leave=Waco (Texas); join=Saskatoon (Western Canada)
+
+#20200426_034 Bold, Charles
+player 1915 Waco (Texas); @IF
+player 1915 St. Louis (American)
+returned <=1915-04-01; leave=Waco (Texas); join=St. Louis (American)
+
+#20200426_035 Wright, J. V.
+player 1915 Waco (Texas); @C
+released <=1915-04-01; leave=Waco (Texas)
+resides 1915 @ US/TX/Palenstine
+
+---
+
+!citation Dallas Morning News 1915-04-04; page 8
+
+#20200426_036 McAdams, Jack
+player 1915 Shreveport (Texas); @P
+released <=1915-04-04; leave=Shreveport (Texas)
+
+#20200426_037 McCuller, Doc
+player 1915 Shreveport (Texas); @P TR
+
+---
+
+!citation Dallas Morning News 1915-04-05; page 13
+
+#20200426_038 Speer, Dick
+player 1915 Fort Worth (Texas); @P TL
+
+#20200426_039 Kinney
+player 1915 Denison (Western Association); @P TL
+
+#20200426_040 Hornsby, Dick
+player 1915 Denison (Western Association); @SS
+
+#20200426_041 Arnold, Henry 
+umpire 1915 Texas
+
+#20200426_042 Peaster, Harry
+umpire 1915 Texas
+
+#20200426_043 Akin, Roy
+umpire 1915 Texas
+
+#20200426_044 Hays, Gerald
+umpire 1915 Texas
+
+#20200426_045 Wright, Pat
+umpire 1915 Texas
+
+#20200426_046 White, Billie
+player 1915 Dallas (Texas); @C
+resides 1915 @ US/TX/Terrell
+
+---
+
+!citation Muskogee Times-Democrat 1915-03-30; page 25
+
+#20200426_047 Patterson, Pat
+player 1915 Muskogee (Western Association)
+player 1914 McAlester (Western Association); @LF
+
+#20200426_048 Redman, E. V.
+player 1915 Muskogee (Western Association); @C
+
+---
+
+!citation Dallas Morning News 1915-06-12; page 10
+
+#20200426_049 Wende
+player 1915 Ennis (Central Texas); @C
+
+---
+
+!citation Nashville Tennessean 1915-03-24; page 12
+
+#20200426_050 McLeod, Herb
+birth @ US/FL/DeFuniak Springs
+describe ; H74 W182
+player 1915 Nashville (Southern Association)
+player 1910 Columbus (South Atlantic)
+player 1911 Boston (American)
+player 1911 Providence (Eastern)
+player 1912 Albany (New York State)
+player 1913 Jersey City (International)
+player 1914 Montgomery (Southern Association)
+resides 1915 @ US/AL/Florala
+
+---
+
+!citation Nashville Tennessean 1915-03-25; page 10
+
+#20200426_051 McCabe, Thomas [Tommy]
+birth @ US/PA/Scranton
+describe ; BL H69
+player 1915 Nashville (Southern Association)
+player 1914 Racine (Wisconsin-Illinois)
+player 1913 Racine (Wisconsin-Illinois)
+player 1912 Racine (Wisconsin-Illinois); @OF
+resides 1915 @ US/PA/Scranton
+
+---
+
+!citation Nashville Tennessean 1915-03-26; page 12
+
+#20200426_052 Berger, Charles [Heine]
+birth 1884 @ US/IL/LaSalle
+describe ; H69.5 W188
+player 1915 Nashville (Southern Association)
+player 1912 Mobile (Southern Association)
+player 1913 Mobile (Southern Association)
+player 1914 Nashville (Southern Association)
+
+---
+
+!citation Nashville Tennessean 1915-03-27; page 10
+
+#20200426_053 Baker, Howard
+birth 1890 @ US/MD/Harford County
+describe ; BL W180
+player 1915 Nashville (Southern Association)
+player 1912 Montgomery (Southern Association)
+
+---

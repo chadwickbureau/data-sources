@@ -1,0 +1,707 @@
+!citation The Salt Lake Herald @ 1909-05-04; page 11
+
+#20200425_001 Carney, Bill
+umpire 1909 Inter-Mountain
+player 1905 Salt Lake City (Pacific National)
+
+---
+
+!citation The Salt Lake Tribune @ 1909-04-28; page 13
+
+#20200425_002 Hammond, Eddie
+player 1909 Salt Lake City (Inter-Mountain); TR
+note picture
+
+---
+
+!citation The Salt Lake Tribune @ 1909-04-30; page 10
+
+#20200425_003 McIntosh, R. W.
+player 1909 Salt Lake City (Inter-Mountain); @C TR
+note picture
+
+---
+
+!citation The Salt Lake Tribune @ 1909-05-01; page 11
+
+#20200425_004 Hunt, [Slim]
+player 1909 Salt Lake City (Inter-Mountain); @P TL
+note picture
+
+---
+
+!citation The Salt Lake Tribune @ 1909-05-03; page 7
+
+#20200425_005 Annis, [Shorty]
+player 1909 Salt Lake City (Inter-Mountain); @P TL
+note picture
+
+#20200425_006 McKibbon, Byron
+umpire 1909 Inter-Mountain
+
+---
+
+!citation The Salt Lake Tribune @ 1909-05-04; page 10
+
+#20200425_007 Thomas
+player 1909 Salt Lake City (Inter-Mountain); @P TR
+note picture; belongs to Chicago Nationals
+
+---
+
+!citation The Independent-Record @ 1909-05-03; page 7
+
+#20200425_008 King, Jimmy
+player 1909 Helena (Inter-Mountain)
+
+#20200425_009 Smith, [Mixer]
+player 1909 Helena (Inter-Mountain)
+
+#20200425_010 Huston, Jack
+manager 1909 Helena (Inter-Mountain)
+
+---
+
+!citation The Salt Lake Herald @ 1909-05-11; page 7
+
+#20200425_011 Hall, Clyde [Slim]
+player 1909 Salt Lake City (Inter-Mountain)
+
+---
+
+!citation The Butte Miner @ 1909-05-05; page 2
+
+#20200425_012 Campbell, Willie
+player 1909 Butte (Inter-Mountain)
+
+---
+
+!citation The Butte Daily Post @ 1909-05-05; page 6
+
+#20200425_013 Dell, [Weezer]
+player 1909 Butte (Inter-Mountain)
+
+#20200425_014 Osburn, [Tamp]
+player 1909 Boise (Inter-Mountain)
+player <1909 Spokane (Northwestern)
+
+---
+
+!citation The Independent-Record @ 1909-05-12; page 7
+
+#20200425_015 Cahill
+player 1909 Helena (Inter-Mountain)
+player 1908 (Pacific Coast League)
+
+#20200425_016 Houston, Ash
+player 1909 Boise (Inter-Mountain)
+
+---
+
+!citation The Independent-Record @ 1909-05-13; page 7
+
+#20200425_017 Shea, Danny
+player 1909 Boise (Inter-Mountain)
+
+---
+
+!citation The Independent-Record @ 1909-05-16; page 7
+
+#20200425_018 Ames
+player 1909 Butte (Inter-Mountain)
+player 1909 Helena (Inter-Mountain)
+
+---
+
+!citation The Salt Lake Tribune @ 1909-05-24; page 7
+
+#20200425_019 Sturgeon, [Rabbit]
+player 1909 Salt Lake City (Inter-Mountain)
+player 1909 Webb City (Western Association)
+
+---
+
+!citation The Butte Miner @ 1909-05-22; page 2
+
+#20200425_020 Moore
+player 1909 Helena (Inter-Mountain)
+player 1909 Boise (Inter-Mountain)
+
+---
+
+!citation The Butte Miner @ 1909-05-25; page 2
+
+#20200425_021 Gardner, [Pepper]
+player 1909 Butte (Inter-Mountain)
+note picture
+
+---
+
+!citation The Independent-Record @ 1909-05-20; page 2
+
+#20200425_022 Elsey, Charles
+player 1909 Butte (Inter-Mountain)
+
+#20200425_023 Hoon, Kirby
+player 1909 Butte (Inter-Mountain)
+
+---
+
+!citation The Independent-Record @ 1909-05-21; page 2
+
+#20200425_024 Johnson
+player 1909 Helena (Inter-Mountain); @P TL
+
+---
+
+!citation The Independent-Record @ 1909-05-24; page 2
+
+#20200425_025 Reed, [Zeke]
+player 1909 Helena (Inter-Mountain)
+
+---
+
+!citation The Salt Lake Tribune @ 1909-05-27; page 12
+
+#20200425_026 Smith, [Mixer]
+player 1909 Helena (Inter-Mountain)
+player 1909 Boise (Inter-Mountain)
+
+#20200425_027 King, Jimmy
+player 1909 Helena (Inter-Mountain)
+player 1909 Boise (Inter-Mountain)
+
+---
+
+!citation The Salt Lake Herald @ 1909-05-26; page 5
+
+#20200425_028 Marshall, Joe
+player 1909 Boise (Inter-Mountain)
+
+#20200425_029 Thomas, [Jocko]
+player 1909 Helena (Inter-Mountain): @P
+
+---
+
+!citation The Salt Lake Herald @ 1909-05-27; page 5
+
+#20200425_030 Marshal, Joe
+player 1909 Boise (Inter-Mountain)
+player 1909 Helena (Inter-Mountain)
+player 1908 St. Louis (National)
+
+---
+
+!citation The Salt Lake Herald @ 1909-05-30; page 8
+
+#20200425_031 Marshal, Joe
+manager 1909 Boise (Inter-Mountain)
+
+---
+
+!citation The Butte Miner @ 1909-06-04; page 2
+
+#20200425_032 Pender
+player 1909 Butte (Inter-Mountain)
+traded 1909-06-03; leave=Butte (Inter-Mountain); join=Boise (Inter-Mountain); for=Osborn
+
+#20200425_033 Osborn
+player 1909 Boise (Inter-Mountain)
+traded 1909-06-03; leave=Boise (Inter-Mountain); join=Butte (Inter-Mountain); for=Pender
+
+---
+
+!citation The Butte Miner @ 1909-06-06; page 2
+
+#20200425_034 Nehring, Fred
+player 1909 Butte (Inter-Mountain)
+
+---
+
+!citation The Rock Island Argus @ 1907-08-16; page 3
+
+#20200425_035 O'Leary, Dan
+player 1907 Rock Island (Illinois-Indiana-Iowa)
+player 1902 Rock Island (Illinois-Indiana-Iowa)
+player 1903 Rock Island (Illinois-Indiana-Iowa)
+player 1904 Duluth (Northern)
+player 1904 Minneapolis (American Association)
+player 1905 Wichita (Western Association)
+player 1906 Wichita (Western Association)
+player 1907 Atlanta (Southern Association)
+birth 1880-02-26 @ US/IL/Orion
+
+---
+
+!citation The Rock Island Argus @ 1907-08-17; page 3
+
+#20200425_036 Landin, Arthur
+player 1907 Rock Island (Illinois-Indiana-Iowa)
+birth 1879-03-25 @ US/IL/Orion
+player 1902 Keokuk; location=US/IA/Keokuk; caliber=semipro
+player 1903 Keokuk; location=US/IA/Keokuk; caliber=semipro
+player 1904 Rock Island (Illinois-Indiana-Iowa)
+player 1905 Rock Island (Illinois-Indiana-Iowa)
+
+---
+
+!citation The Rock Island Argus @ 1907-08-19; page 3
+
+#20200425_037 Wilson, Christy
+player 1907 Rock Island (Illinois-Indiana-Iowa)
+birth 1883-12-11 @ US/IA/Davenport
+player 1904 Rock Island (Illinois-Indiana-Iowa)
+player 1905 Rock Island (Illinois-Indiana-Iowa)
+player 1906 Rock Island (Illinois-Indiana-Iowa)
+
+---
+
+!citation The Rock Island Argus @ 1907-08-20; page 3
+
+#20200425_038 Scott, Joe
+player 1907 Rock Island (Illinois-Indiana-Iowa)
+birth 1878-01-23 @ US/MO/St. Louis
+player 1904 Davenport (Illinois-Indiana-Iowa)
+player 1905 Davenport (Illinois-Indiana-Iowa)
+
+---
+
+!citation The Rock Island Argus @ 1907-08-22; page 3
+
+#20200425_039 Howard, Harry
+player 1907 Rock Island (Illinois-Indiana-Iowa)
+birth 1886-04-08 @ US/IL/Cordova
+
+---
+
+!citation The Rock Island Argus @ 1907-08-23; page 3
+
+#20200425_040 Eng, Gus
+player 1907 Rock Island (Illinois-Indiana-Iowa)
+birth 1884-02-29 @ US/IL/Moline
+player 1905 Rock Island (Illinois-Indiana-Iowa)
+player 1906 Clinton; location=US/IA/Clinton; caliber=semipro
+
+---
+
+!citation The Rock Island Argus @ 1907-09-02; page 3
+
+#20200425_041 Swalm, Albert
+player 1907 Rock Island (Illinois-Indiana-Iowa)
+birth 1883-09-21 @ US/IA/Belle Plaine
+college Grinnell College
+player 1902 Grinnell College; caliber=college
+player 1903 Grinnell College; caliber=college
+player 1904 Davenport (Illinois-Indiana-Iowa)
+player 1905 Davenport (Illinois-Indiana-Iowa)
+player 1906 Rock Island (Illinois-Indiana-Iowa)
+brother of Swalm, Harry
+
+---
+
+!citation The Rock Island Argus @ 1907-09-04; page 3
+
+#20200425_042 Dowers, Roy
+player 1907 Rock Island (Illinois-Indiana-Iowa)
+birth 1883-05-04 @ US/IL/Stromburg
+player 1902 Baker City (Inland Empire)
+player 1904 Keokuk (Iowa)
+player 1905 Keokuk (Iowa)
+player 1906 Rock Island (Illinois-Indiana-Iowa)
+
+---
+
+!citation The Austin American @ 1935-04-19; page 13
+
+#20200425_043 Raidy, Joe
+death 1935-04-18 @ US/MA/Cheshire
+
+---
+
+!citation The Rock Island Argus @ 1910-03-26; page 11
+
+#20200425_044 Lakaff, Frank
+player 1910 Rock Island (Illinois-Indiana-Iowa); TL BL; age 25
+player 1909 Rock Island (Illinois-Indiana-Iowa)
+resides 1910 @ US/IA/Delmar
+
+#20200425_045 Vogel, Otto
+player 1910 Rock Island (Illinois-Indiana-Iowa); TR BR; age 24
+player 1909 Rock Island (Illinois-Indiana-Iowa)
+resides 1910 @ US/MO/St. Louis
+
+#20200425_046 Kelly, Harry
+player 1910 Rock Island (Illinois-Indiana-Iowa); TR BR; age 26
+player 1909 Rock Island (Illinois-Indiana-Iowa)
+resides 1910 @ US/NY/Buffalo
+
+#20200425_047 Jacobsen, William
+player 1910 Rock Island (Illinois-Indiana-Iowa); TR BR; age 21
+player 1909 Rock Island (Illinois-Indiana-Iowa)
+resides 1910 @ US/IL/Geneseo
+
+#20200425_048 O'Leary, Dan
+player 1910 Rock Island (Illinois-Indiana-Iowa); TR BR; age 31
+player 1909 Memphis (Southern Association)
+resides 1910 @ US/IL/Orion
+
+#20200425_049 Fisher, Fred
+player 1910 Rock Island (Illinois-Indiana-Iowa); TR BR; age 20
+player 1909 Buffalo; caliber=semipro
+resides 1910 @ US/NY/Buffalo
+
+#20200425_116 Cavet, Pug
+player 1910 Rock Island (Illinois-Indiana-Iowa); TL BL; age 20
+player 1909 Muskogee (Western Association)
+resides 1910 @ US/TX/Canyon City
+
+#20200425_050 Brosieus, C. C.
+player 1910 Rock Island (Illinois-Indiana-Iowa); TR BR; age 20
+player 1909 Chillicothe; caliber=semipro; location=US/OH/Chillicothe
+resides 1910 @ US/TX/Rotan
+
+#20200425_051 Mathewson, B. J.
+player 1910 Rock Island (Illinois-Indiana-Iowa); TR BR; age 20
+player 1909 University of Virginia; caliber=college
+resides 1910 @ US/VA/Danville
+
+#20200425_052 Janicki, P. P.
+player 1910 Rock Island (Illinois-Indiana-Iowa); TL BL; age 21
+player 1909 (Ohio Trolley); caliber=semipro; TL BL; age 21
+resides 1910 @ US/NY/Buffalo
+
+#20200425_053 Queisser, Walter
+player 1910 Rock Island (Illinois-Indiana-Iowa); TR BR; age 24
+player 1909 Memphis (Southern Association)
+resides 1910 @ US/IN/Indianapolis
+
+#20200425_054 Comingore, Marshall
+player 1910 Rock Island (Illinois-Indiana-Iowa); TR BR; age 21
+player 1909 Mansfield (Ohio State)
+resides 1910 @ US/IN/Danville
+
+#20200425_055 Engman, Grover
+player 1910 Rock Island (Illinois-Indiana-Iowa); TR BR; age 20
+player 1909 Cedar Rapids (Illinois-Indiana-Iowa)
+resides 1910 @ US/MS/Pass Christian
+
+#20200425_056 Davey, James
+player 1910 Rock Island (Illinois-Indiana-Iowa); TR BR; age 21
+player 1909 Mansfield (Ohio State)
+resides 1910 @ US/NY/Troy
+
+#20200425_057 Kohl, Eddie
+player 1910 Rock Island (Illinois-Indiana-Iowa); TR BR; age 20
+player 1909 Duluth (Minnesota-Wisconsin)
+resides 1910 @ US/MN/St. Paul
+
+#20200425_058 McIver, E. C.
+player 1910 Rock Island (Illinois-Indiana-Iowa); TR BR; age 23
+player 1909 San Antonio (Texas)
+resides 1910 @ US/TX/Dallas
+
+#20200425_059 Ochs, Fred
+player 1910 Rock Island (Illinois-Indiana-Iowa); TR BR; age 22
+player 1909 Paris (Blue Grass)
+resides 1910 @ US/OH/Cincinnati
+
+#20200425_060 Hunter, William
+player 1910 Rock Island (Illinois-Indiana-Iowa); TL BL; age 23
+player 1909 Charlotte (Carolina Association)
+resides 1910 @ US/NY/Buffalo
+
+#20200425_061 Thomas, E. C.
+player 1910 Rock Island (Illinois-Indiana-Iowa); TR BR; age 22
+player 1909 University of Virginia; caliber=college
+resides 1910 @ US/VA/Danville
+
+---
+
+!citation Herald and Review @ 1914-03-31; page 4
+
+#20200425_062 Simpson, Harry
+player 1914 Davenport (Illinois-Indiana-Iowa); TR BR
+resides 1914 @ US/CA/Visalia
+
+#20200425_063 Becker, Jesse
+player 1914 Davenport (Illinois-Indiana-Iowa); TL BL
+resides 1914 @ US/IA/Davenport
+
+#20200425_064 Wentz, J. B.
+player 1914 Davenport (Illinois-Indiana-Iowa); TR BR
+resides 1914 @ US/OH/Anna
+
+#20200425_065 Wilson, Joe
+player 1914 Davenport (Illinois-Indiana-Iowa); TR BR
+resides 1914 @ US/PA/Altoona
+
+#20200425_066 Hendrix, Roddy
+player 1914 Davenport (Illinois-Indiana-Iowa); TR BR
+resides 1914 @ US/IA/Davenport
+
+#20200425_067 Crouch, Paul
+player 1914 Davenport (Illinois-Indiana-Iowa); TR BR
+resides 1914 @ US/OH/Salem
+
+#20200425_068 Wells, Frank
+player 1914 Davenport (Illinois-Indiana-Iowa); TR BR
+resides 1914 @ US/NE/South Omaha
+
+#20200425_069 Marshall, Bob
+player 1914 Davenport (Illinois-Indiana-Iowa); TR BR
+resides 1914 @ US/IL/Viola
+
+---
+
+!citation Herald and Review @ 1915-04-04; page 18
+
+#20200425_070 Wilkes, Joe
+player 1915 Davenport (Illinois-Indiana-Iowa); TR BL
+resides 1915 @ US/WI/Waupan
+
+---
+
+!citation Argus-Leader @ 1924-05-08; page 9
+
+#20200425_071 Chesterfield, Roy M.
+player 1924 Sioux Falls (Tri-State); TR BR H71 W185; age 21
+
+#20200425_072 Harkins, Pat
+player 1924 Sioux Falls (Tri-State); TL BL H70.5 W175; age 33
+
+#20200425_073 Mapel, John A.
+player 1924 Sioux Falls (Tri-State); TR BR H73 W175; age 24
+
+#20200425_074 Snow, Graeme
+player 1924 Sioux Falls (Tri-State); TR BS H71 W190; age 28
+
+#20200425_075 Thompsen, Fred
+player 1924 Sioux Falls (Tri-State); TR BR H70 W183; age 24
+
+#20200425_076 Meier, Thomas
+player 1924 Sioux Falls (Tri-State); TR BR H67.5 W145; age 26
+
+#20200425_077 Menard, Arville
+player 1924 Sioux Falls (Tri-State); TR BR H72 W175; age 22
+
+#20200425_078 Conner, Ben
+player 1924 Sioux Falls (Tri-State); TR BR H68 W172; age 22
+
+#20200425_079 Pappio, Joe
+player 1924 Sioux Falls (Tri-State); TR BR H72 W185; age 23
+
+#20200425_080 Fleury, Solomon
+player 1924 Sioux Falls (Tri-State); TL BL H69 W170; age 22
+
+---
+
+!citation The Salt Lake Herald @ 1909-06-15; page 5
+
+#20200425_081 Wells, Albert
+player 1909 Boise (Inter-Mountain)
+
+---
+
+!citation The Butte Miner @ 1909-06-09; page 2
+
+#20200425_082 Fortier, William
+player 1909 Butte (Inter-Mountain)
+
+#20200425_083 Kelly, W. A.
+player 1909 Salt Lake City (Inter-Mountain)
+
+---
+
+!citation The Butte Miner @ 1909-06-10; page 2
+
+#20200425_084 Elsey
+player 1909 Butte (Inter-Mountain)
+released 1909-06-09; leave=Butte (Inter-Mountain)
+
+---
+
+!citation The Butte Miner @ 1909-06-11; page 2
+
+#20200425_085 Gordon
+player 1909 Butte (Inter-Mountain)
+player 1909 Helena (Inter-Mountain)
+
+#20200425_086 Irby, Charles
+player 1909 Helena (Inter-Mountain)
+
+---
+
+!citation The Butte Miner @ 1909-06-12; page 2
+
+
+#20200425_087 Dunn, Bert
+player 1909 Butte (Inter-Mountain)
+
+---
+
+!citation The Butte Miner @ 1909-06-14; page 2
+
+
+#20200425_088 Marshall, Clarence
+player 1909 Butte (Inter-Mountain)
+
+---
+
+!citation The Butte Miner @ 1909-06-15; page 3
+
+
+#20200425_089 Moore
+player 1909 Helena (Inter-Mountain)
+player 1909 Butte (Inter-Mountain)
+
+---
+
+!citation The Butte Daily Post @ 1909-06-14; page 2
+
+#20200425_090 Corbin, Eddie
+player 1909 Salt Lake City (Inter-Mountain)
+
+---
+
+!citation The Independent-Record @ 1909-06-10; page 7
+
+#20200425_091 McIntosh
+player 1909 Helena (Inter-Mountain)
+player 1909 Salt Lake City (Inter-Mountain)
+
+#20200425_092 Herwig
+player 1909 Boise (Inter-Mountain)
+player <1909 (Northwestern)
+
+#20200425_093 Manley, A. E.
+player 1909 Butte (Inter-Mountain)
+player 1908 Murray (Utah State)
+player 1908 Salt Lake City (Utah State)
+
+---
+
+!citation The Salt Lake Tribune @ 1909-06-17; page 10
+
+#20200425_094 Pender, Arthur
+player 1909 Boise (Inter-Mountain)
+player 1909 Butte (Inter-Mountain)
+
+#20200425_095 Marshall
+player 1909 Butte (Inter-Mountain); @P
+player 1909 Seattle (Northwestern)
+
+---
+
+!citation The Salt Lake Herald @ 1909-06-22; page 5
+
+#20200425_096 Dell, [Weezer]
+player 1909 Butte (Inter-Mountain)
+released 1909-06-21; leave=Butte (Inter-Mountain)
+
+#20200425_097 Roberts, [Rube]
+player 1909 Butte (Inter-Mountain)
+released 1909-06-21; leave=Butte (Inter-Mountain)
+
+#20200425_098 Westall
+player 1909 Boise (Inter-Mountain)
+released 1909-06-21; leave=Boise (Inter-Mountain)
+
+#20200425_099 Hutchinson
+player 1909 Boise (Inter-Mountain)
+released 1909-06-21; leave=Boise (Inter-Mountain)
+
+---
+
+!citation The Butte Miner @ 1909-06-19; page 2
+
+#20200425_100 Buckels
+player 1909 Boise (Inter-Mountain); TL
+player 1909 Caldwell; location=US/ID/Caldwell; caliber=semipro
+
+---
+
+!citation The Independent-Record @ 1909-06-21; page 7
+
+#20200425_101 Annis, Fred
+player 1909 Salt Lake City (Inter-Mountain)
+
+---
+
+!citation The Salt Lake Tribune @ 1909-06-27; page 15
+
+#20200425_102 Wasson, Dave
+player 1909 Boise (Inter-Mountain)
+
+---
+
+!citation The Salt Lake Herald @ 1909-06-27; page 8
+
+#20200425_103 Whaling, Bert
+player 1909 Salt Lake City (Inter-Mountain)
+
+---
+
+!citation The Independent-Record @ 1909-07-05; page 7
+
+
+#20200425_104 Butler, Pat
+player 1909 Boise (Inter-Mountain)
+
+---
+
+!citation The Independent-Record @ 1909-07-11; page 7
+
+#20200425_105 Ralston
+player 1909 Livingston (Inter-Mountain); @P TL
+
+#20200425_106 Case, Jack
+player 1909 Boise (Inter-Mountain)
+player 1909 Butte (Inter-Mountain)
+
+---
+
+!citation The Independent-Record @ 1909-07-12; page 7
+
+#20200425_107 Stis, Charley
+player 1909 Helena (Inter-Mountain)
+
+#20200425_108 Doyle, Tommy
+player 1909 Livingston (Inter-Mountain)
+
+---
+
+!citation The Independent-Record @ 1909-07-13; page 7
+
+#20200425_109 Irby
+player 1909 Helena (Inter-Mountain)
+purchased 1909; leave=Helena (Inter-Mountain); join=Tacoma (Northwestern)
+
+#20200425_110 Marshall
+player 1909 Butte (Inter-Mountain); @P
+player 1909 Bozeman (Inter-Mountain)
+
+#20200425_111 Morse, Peter
+player 1909 Helena (Inter-Mountain)
+
+#20200425_112 Campbell, Willie
+player 1909 Butte (Inter-Mountain)
+player 1909 Medicine Hat (Western Canada)
+
+#20200425_113 Dunn, Bert
+player 1909 Butte (Inter-Mountain)
+player 1909 Medicine Hat (Western Canada)
+
+---
+
+!citation The Independent-Record @ 1909-07-17; page 7
+
+#20200425_114 Fink
+player 1909 Livingston (Inter-Mountain)
+umpire 1909 Inter-Mountain
+
+#20200425_115 Gordon
+player 1909 Helena (Inter-Mountain)
+player 1909 Livingston (Inter-Mountain)
+
+---
+
