@@ -2789,3 +2789,202 @@ birth 1929-08-29 @ US/IL/Albers
 death 2017-12-26 @ US/IL/Aviston 
 military US Army @ Korean War
 burial St. Bernard's Cemetery @ US/IL/Albers
+
+---
+
+!citation Gaylord Community Funeral Home @ 2020-04-27
+!url https://www.gaylordfuneralhome.com/obituary/PhilipPeter-Olsen
+!file Olsen_Pete.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-27
+
+#202004_222 Olsen, Philip Peter [Pete]
+birth 1934-12-21 @ US/MI/Reed City
+death 2020-04-16 @ US/MI/Gaylord
+college University of Wisconsin at Madison
+
+---
+
+!citation Page Funeral Home @ 2020-04-27
+!url https://www.pagefuneralhome.com/obituaries/Joseph-Brotz/#!/Obituary
+!file Brotz_Gary.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-27
+
+#202004_223 Brotz, Joseph Gary [Gary]
+birth @ US/NJ/Burlington
+death 2020-04-24
+highschool Wilbur Watts HS @ US/NJ/Burlington
+college Drexel University
+
+---
+
+!citation French Funeral Home @ 2020-04-27
+!url https://www.frenchfunerals.com/obituary/Robert-Garrecht
+!file Garrecht_Bob.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-27
+
+#202004_224 Garrecht, Robert Edwin [Bob]
+birth 1930-07-17
+death 2020-04-22
+highschool Nyack HS @ US/NY/Nyack 
+
+---
+
+!citation A.A. Mariani and Son Funeral Home @ 2020-04-28
+!url https://www.marianiandson.com/tributes/Richard-Hardy
+!file Hardy_Dick.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-28
+
+#202004_225 Hardy, Richard J., Jr. [Dick]
+birth 1940-09-11
+death 2020-04-22
+highschool La Salle Academy @ US/RI/Providence
+college Dean College
+
+---
+
+!citation Wood Funeral Home @ 2020-04-28
+!url http://www.woodfuneralhomeinc.com/obits/obituary.php?id=717803
+!file Jillson_Allen.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-28
+
+#202004_226 Jillson, Allen W., Sr.
+birth 1948-10-02 @ US/NJ/Tuckerton
+death 2020-04-24 @ US/NJ/Tuckerton
+highschool Southern Regional HS @ US/NJ/Stafford Township
+military US Army @ Vietnam War
+
+---
+
+!citation Murdoch Funeral Homes @ 2020-04-28
+!url https://www.murdochfuneralhome.com/obituaries/Estol-Jip-Fleming/#!/Obituary
+!file Fleming_Jip.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-28
+
+#202004_227 Fleming, Estol R. [Jip]
+birth 1930-07-28 @ US/IA/Stockport
+death 2020-04-25 @ US/IA/Marion
+highschool Stockport HS @ US/IA/Stockport
+college Parsons College
+military US Army @ Korean War
+burial Cedar Memorial Park Cemetery @ US/IA/Cedar Rapids
+
+---
+
+!citation Moll Funeral Home @ 2020-04-28
+!url http://www.mollfuneralhome.com/obituary/brian-fuess
+!file Fuess_Brian.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-28
+
+#202004_228 Fuess, Brian Paul
+birth 1977-03-08 @ US/IL/Belleville
+death 2020-04-25 @ US/IL/Jacksonville
+highschool Belleville West HS @ US/IL/Belleville
+college Southwestern Illinois College
+college Missouri State University
+burial Shepherd Hills Cemetery @ US/MO/Barnhart
+
+---
+
+!citation Porto Funeral Homes @ 2020-04-29
+!url https://www.portofuneralhomes.net/obituary/Vito-J.-DeVito/Orange-CT./1872463
+!file DeVito_Vito.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-29
+
+#202004_229 DeVito, Vito Joseph
+birth 1925-12-17 @ US/CT/Stamford
+death 2020-04-25 @ US/CT/Bristol
+highschool Stamford HS @ US/CT/Stamford
+military US Army @ World War II
+burial Orange Center Cemetery @ US/CT/Orange
+
+---
+
+!citation Herald-Tribune @ 2020-04-28
+!url https://www.heraldtribune.com/sports/20200427/long-time-baseball-scout-george-zuraw-dies
+!file Zuraw_George.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-29
+
+#202004_230 Zuraw, George
+death 2020-04-24 @ US/FL
+highschool Charleroi HS @ US/PA/Charleroi
+military US Navy @ Korean War
+
+---
+
+!citation Sunset Memorial Gardens@ 2020-04-29
+!url https://www.sunsetodessa.com/printnotice/William-Lovera/1o/0c/0q/0d/0b
+!file Lovera_Bill.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-29
+
+#202004_231 Lovera, William [Bill]
+birth 1932-08-31 @ US/TX/Strawn
+death 2017-12-25 @ US/TX/Odessa
+military US Army @ Korean War
+burial Sunset Memorial Gardens @ US/TX/Odessa
+
+---
+
+!citation Driscoll Funeral Home @ 2020-04-29
+!url http://driscollfuneralhome.tributes.com/obituary/read/Aram-Mooradian-105616288
+!file Mooradian_Aram.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-29
+
+#202004_232 Mooradian, Aram George
+birth 1930-12-12 @ US/MA/Haverhill 
+death 2017-12-20 @ US/MA/Haverhill
+highschool Haverhill HS @ US/MA/Haverhill
+military US Air Force @ Korean War
+burial Linwood Cemetery @ US/MA/Haverhill
+
+---
+
+!citation Wichmann Funeral Home @ 2020-04-29
+!url https://wichmannfuneralhomes.com/obituary/allen-jorgen-hansen/
+!file Hansen_Allen.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-29
+
+#202004_233 Hansen, Allen Jorgen
+birth 1930-04-18 @ US/WI/Gillett
+death 2017-12-21 @ US/WI/Appleton
+highschool Menasha HS @ US/WI/Menasha
+military US Army @ Korean War
+burial Riverside Cemetery @ US/WI/Appleton
+
+---
+
+!citation Wellman Funeral Homes @ 2020-04-30
+!url https://www.wellmanfuneralhomes.com/obituary/Jerry-Pritchard
+!file Pritchard_Jerry.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-30
+
+#202004_234 Pritchard, Jerry Lee
+birth 1934-03-12 @ US/OH/Circleville
+death 2020-04-27 @ US/OH/Circleville
+highschool Circleville HS @ US/OH/Circleville
+college Otterbein University
+military US Army
+burial Reber Hill Cemetery @ US/OH/Ashville
+
+---
+
+!citation Craig Flagler Palms Funeral Home @ 2020-04-30
+!url https://www.dignitymemorial.com/obituaries/flagler-beach-fl/eugene-engholm-7680303
+!file Engholm_Gene.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-30
+
+#202004_235 Engholm, Eugene H.
+birth 1929-06-17 @ US/NY/Brooklyn
+death 2017-12-08
+military US Army
+
+---
+
+!citation Lancaster Depew Bee @ 2017-12-07
+!url https://www.lancasterbee.com/articles/salvatore-a-valvo-buffalo-police-officer/
+!file Valvo_Salvatore.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-30
+
+#202004_236 Valvo, Salvatore A.
+death 2017-11-30
+highschool Grover Cleveland HS @ US/NY/Buffalo
+military US Army

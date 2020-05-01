@@ -1,0 +1,86 @@
+!citation King Bailey biography
+!url https://sabr.org/bioproj/person/465bb1eb
+
+#20200430_001 Bailey, King
+player 1911 Gadsden (Southeastern)
+
+---
+
+!citation Chillicothe Gazette @ 1914-08-25; page 6
+
+#20200430_002 McDaniels, John [Chuck]
+player 1914 Ironton (Ohio State)
+player 1914 Manistee (Michigan State)
+
+---
+
+!citation Charleston (WV) Daily Mail @ 1915-04-27; page 6
+
+#20200430_003 Coffindaffer, Joe
+player 1915 Charleston (Ohio State); TR
+resides 1915@US/WV/Gassaway
+
+#20200430_004 McLean, H. R.
+player 1915 Charleston (Ohio State); TL
+
+#20200430_005 Hudson, Homer
+player 1915 Charleston (Ohio State); TL
+resides 1915@US//Leesvale
+
+#20200430_006 Evans, Ray
+player 1915 Charleston (Ohio State)
+resides 1915@US/OH/New Straitsville
+
+#20200430_007 Abner, Russell
+player 1915 Charleston (Ohio State)
+resides 1915@US/WV/Charleston
+
+#20200430_008 Hoffman, Lawrence
+player 1914 Clarksburg (Pennsylvania-West Virginia)
+resides 1915@US/WV/Charleston
+
+---
+
+!citation Chillicothe Gazette @ 1915-06-08; page 2
+
+#20200430_009 Bennett, Harley
+player 1915 Charleston (Ohio State)
+resides 1915@US/OH/Columbus
+
+---
+
+!citation Portsmouth Daily Times @ 1915-09-01; page 10
+
+#20200430_010 Hoffman, Lawrence
+player 1915 Charleston (Ohio State)
+
+---
+
+!citation Charleston (WV) Daily Mail @ 1915-04-09; page 8
+
+#20200430_011 McLean
+player 1915 Charleston (Ohio State); TL H71 W180
+resides 1915@US//Eldamore
+
+---
+
+!citation Charleston (WV) Daily Mail @ 1915-05-29; page 8
+
+#20200430_012 Ford
+player 1915 Charleston (Ohio State); BR TL @LF
+
+---
+
+!citation Abilene Weekly Chronicle @ 1915-03-30; page 1
+
+#20200430_013 Briney, Earl
+player 1915 Frankfort (Ohio State)
+resides 1915@US/KS/Abilene
+
+---
+
+!citation Montgomery Advertiser @ 1916-05-27; page 9
+
+#20200430_014 Kuhlman
+player 1916 Valdosta (Dixie); @2B
+manager 1916 Valdosta (Dixie)
