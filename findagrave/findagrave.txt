@@ -921,3 +921,15 @@ sameas findagrave:33328325
 birth 1887-04-28
 death 1918-11-19 @ US/AL/Florala
 burial Euchee Valley Cemetery @ US/FL/Eucheeanna
+
+---
+
+!citation findagrave.com @ 2020-05-04
+!url https://www.findagrave.com/memorial/132110973/roger-lee-smoot
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-04-25
+ 
+#0076 Smoot, Roger Lee
+sameas findagrave:132110973
+birth 1905
+death 1948
+burial Glen Haven Memorial Park @ US/MD/Glen Burnie
