@@ -135,3 +135,117 @@ death 2020-04-28 @ US/ID/Boise
 highschool Wausau East HS @ US/WI/Wausau 
 military US Air Force
 burial Cremated
+
+---
+
+!citation G.L. Hills Funeral Home @ 2020-05-05
+!url https://www.glhillsfuneralhome.com/obituary/david-kennedy
+!file Kennedy_David.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-05
+
+#202005_013 Kennedy, David R.
+birth 1927-04-17
+death 2020-04-29 @ US/MS
+military US Navy @ World War II
+
+---
+
+!citation Rossi Family Funeral Home @ 2020-05-06
+!url https://www.rossifuneralhomeinc.com/obituary/Kenneth-Bandi
+!file Bandi_Ken.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-06
+
+#202005_014 Bandi, Kenneth Paul [Ken]
+birth 1936-05-03 @ US/OH/Steubenville
+death 2020-05-02
+highschool McKinley HS @ US/OH/Canton
+college Ohio State University
+military US Army
+burial Calvary Cemetery @ US/OH/Massillon
+
+---
+
+!citation Greenoaks Funeral Home @ 2020-05-06
+!url https://www.dignitymemorial.com/obituaries/baton-rouge-la/jack-goetzmann-7636284
+!file Goetzmann_Jack.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-06
+
+#202005_015 Goetzmann, Jack Felix
+birth 1923-07-05
+death 2017-11-11
+military US Army @ World War II
+burial Greenoaks Memorial Park @ US/LA/Baton Rouge
+
+---
+
+!citation St. Louis Post-Dispatch  @ 2017-11-07
+!url https://www.legacy.com/obituaries/stltoday/obituary.aspx?n=henry-theodore-likes-ted&pid=187167442
+!file Likes_Ted.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-06
+
+#202005_016 Likes, Henry Theodore [Ted]
+death 2017-11-03
+college Washington University
+military US Army @ Korean War
+
+---
+
+!citation Davison-Fulton Woodland Chapel @ 2020-05-06
+!url https://www.dignitymemorial.com/obituaries/peoria-il/william-durr-7625398
+!file Durr_Bill.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-06
+
+#202005_017 Durr, William Danley, Jr. [Bill]
+birth 1935-05-31 @ US/IL/Macomb
+death 2017-11-02 @ US/IL/Washington
+burial Parkview Cemetery @ US/IL/Peoria
+
+---
+
+!citation El Paso Times @ 1992-10-27
+!file Ochoa_Jimmy.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-07
+
+#202005_018 Ochoa, Jimmy
+death 1992-10-25
+military US @ Korean War
+burial Fort Bliss National Cemetery @ US/TX/El Paso
+
+---
+
+!citation Roberson Funeral Home @ 2020-05-07
+!url https://www.robersonfh.com/obituary/richard-e-verbanic/
+!file Verbanic_Richard.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-07
+
+#202005_019 Verbanic, Richard E.
+birth 1928-05-07 @ US/PA/Merrittstown
+death 2017-10-21 @ US/FL/Port Charlotte
+highschool Redstone HS @ US/PA/Republic
+college Waynesburg University
+military US Marines
+
+---
+
+!citation Calaveras Enterprise @ 2017-10-25
+!url http://www.calaverasenterprise.com/news/obituaries/article_8f6e39fc-b9ce-11e7-9a46-9fc4706d1150.html
+!file Stone_Babe.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-07
+
+#202005_020 Stone, James [Babe]
+birth 1926-07-24 @ US/CA/Copperopolis
+death 2017-10-15 @ US/CA/Merced
+military US Navy @ World War II
+
+---
+
+!citation Fitzgerald Funeral Home @ 2020-05-07
+!url https://www.fitzgeraldfh.com/obituaries/Harold--Bob--Falkenstein?obId=2631740#/celebrationWall
+!file Falkenstein_Bob.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-07
+
+#202005_021 Falkenstein, Harold Robert [Bob]
+birth 1931-02-13 @ US/IL/Astoria
+death 2017-10-13 @ US/IL/Rockford
+highschool Belvidere HS @ US/IL/Belvidere
+burial Belvidere Cemetery @ US/IL/Belvidere

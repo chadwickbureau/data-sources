@@ -933,3 +933,29 @@ sameas findagrave:132110973
 birth 1905
 death 1948
 burial Glen Haven Memorial Park @ US/MD/Glen Burnie
+
+---
+
+!citation findagrave.com @ 2020-05-05
+!url https://www.findagrave.com/memorial/15654565
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-05
+ 
+#0077 Koewing, Wilson Carl
+sameas findagrave:15654565
+birth 1912-01-27
+death 1990-10-31
+burial Gumbo Cemetery @ US/MO/Chesterfield
+
+---
+
+!citation findagrave.com @ 2020-05-07
+!url https://www.findagrave.com/memorial/3325894
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-07
+ 
+#0078 Ochoa, Jimmy
+sameas findagrave:3325894
+birth 1930-07-14
+death 1992-10-25
+military US Army @ Korean War
+burial Fort Bliss National Cemetery @ US/TX/El Paso
+

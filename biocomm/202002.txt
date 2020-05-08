@@ -1,158 +1,128 @@
 !citation SABR Biographical Committee Newsletter @ 2020-02
 
-#profile Antonelli, John August
-key 202002_001
+#202002_001 Antonelli, John August
 describe ; mlbplayed=1948/
 death 2020-02-28 @ US/NY/Rochester
 
-#profile Aviles (Miranda), Ramon Antonio
-key 202002_002
+#202002_002 Aviles (Miranda), Ramon Antonio
 describe ; mlbplayed=1977/
 death 2020-01-28 @ PR//Manati
 burial Cementerio Municipal Histórico de Vega Baja @ PR//Vega Baja
 
-#profile Beam, Ernest Joseph
-key 202002_003
+#202002_003 Beam, Ernest Joseph
 describe ; mlbplayed=1895/
 death 1918-09-12
 
-#profile Bell, Ralph Albert
-key 202002_004
+#202002_004 Bell, Ralph Albert
 describe ; mlbplayed=1912/
 birth 1890-11-16 @ US/IA/Argyle
 
-#profile Blackburn, George W.
-key 202002_005
+#202002_005 Blackburn, George W.
 describe ; mlbplayed=1897/
 death 1938-12-29 @ US/OK/Oklahoma City
 burial ; note=Body donated to medical school
 
-#profile Brady, William Aloysius
-key 202002_006
+#202002_006 Brady, William Aloysius
 describe ; mlbplayed=1912/
 burial Calvary Cemetery @ US/NY/Woodside
 
-#profile Cedeno (Encarnacion), Cesar Eugenio
-key 202002_007
+#202002_007 Cedeno (Encarnacion), Cesar Eugenio
 describe ; mlbplayed=1970/
 
-#profile Chervinko, Paul
-key 202002_008
+#202002_008 Chervinko, Paul
 describe ; mlbplayed=1937/
 burial Santa Barbara Cemetery @ US/IL/Witt
 
-#profile Coan, Gilbert Fitzgerald
-key 202002_009
+#202002_009 Coan, Gilbert Fitzgerald
 describe ; mlbplayed=1946/
 death 2020-02-04 @ US/NC/Hendersonville
 
-#profile Conde (Roman), Ramon Luis
-key 202002_010
+#202002_010 Conde (Roman), Ramon Luis
 describe ; mlbplayed=1962/
 death 2020-02-23 @ US/FL/West Palm Beach
 burial Cementerio Municipal de Juana Diaz, PR//Juana Diaz
 
-#profile Coughlin, Edward E.
-key 202002_011
+#202002_011 Coughlin, Edward E.
 describe ; mlbplayed=1884/
 burial Moun5 St. Benedict Cemetery @ US/CT/Bloomfield
 
-#profile Echevarria, Angel Santos
-key 202002_012
+#202002_012 Echevarria, Angel Santos
 describe ; mlbplayed=1996/
 death 2020-02-07 @ US/CT/Bridgeport
 burial St. Michael Cemetery @ US/CT/Stratford
 
-#profile Elvira (Delgado), Narciso Chicho
-key 202002_013
+#202002_013 Elvira (Delgado), Narciso Chicho
 describe ; mlbplayed=1990/
 death 2020-01-28 @ MX/Veracruz/Paso del Toro
 burial Panteon Municipal @ MX/Veracruz/Tlalixcoyan
 
-#profile Fernandez (Castro), Octavio Antonio
-key 202002_014
+#202002_014 Fernandez (Castro), Octavio Antonio
 describe ; mlbplayed=1983/
 death 2020-02-16 @ US/FL/Weston
 burial Cementerio Municipal @ DO/San Pedro de Macoris/San Pedro de Macoris
 
-#profile Gilroy, John N.
-key 202002_015
+#202002_015 Gilroy, John N.
 describe ; mlbplayed=1895/
 birth 1875-10-26
 
-#profile Hankins, Jay Nelson
-key 202002_016
+#202002_016 Hankins, Jay Nelson
 describe ; mlbplayed=1961/
 death 2020-01-20 @ US/MO/Kansas City
 burial Green Lawn Cemetery @ US/MO/Kansas City
 
-#profile Hasenmayer, Donald Irvin
-key 202002_017
+#202002_017 Hasenmayer, Donald Irvin
 describe ; mlbplayed=1945/
 death 2020-01-28 @ US/PA/Warrington
 burial Forest Hills Cemetery @ US/PA/Philadelphia
 
-#profile Hinds, Samuel Russell
-key 202002_018
+#202002_018 Hinds, Samuel Russell
 describe ; mlbplayed=1977/
 death 2019-09-19 @ US/CA/Hanford
 
-#profile Holmes, Howard Elbert
-key 202002_019
+#202002_019 Holmes, Howard Elbert
 describe ; mlbplayed=1906/
 burial Calvary Cemetery @ US/OH/Dayton
 
-#profile Lehan, James Francis
-key 202002_020
+#202002_020 Lehan, James Francis
 describe ; mlbplayed=1884/
 death 1946-07-16
 
-#profile Manning, James Benjamin
-key 202002_021
+#202002_021 Manning, James Benjamin
 describe ; mlbplayed=1962/
 death 2020-01-01 @ US/NC/Asheville
 
-#profile McManus, Francis Edward
-key 202002_022
+#202002_022 McManus, Francis Edward
 describe ; BR H70 W180; mlbplayed=1899/
 birth 1874-09-23
 
-#profile Meyer, Lee
-key 202002_023
+#202002_023 Meyer, Lee
 describe ; BL; mlbplayed=1909/
 
-#profile Monroe, Frank C.
-key 202002_024
+#202002_024 Monroe, Frank C.
 describe ; mlbplayed=1884/
 
-#profile Newcombe, Donald
-key 202002_025
+#202002_025 Newcombe, Donald
 describe ; mlbplayed=1949/
 burial Los Angeles National Cemetery @ US/CA/Los Angeles
 
-#profile O'Neil, Michael
-key 202002_026
+#202002_026 O'Neil, Michael
 describe ; mlbplayed=1874/
 birth @ US/NY/Hudson
 burial Mount St. Benedict Cemetery @ US/CT/Bloomfield
 
-#profile Scott, Richard Lewis
-key 202002_027
+#202002_027 Scott, Richard Lewis
 describe ; mlbplayed=1963/
 death 2020-02-10 @ US/GA/Carrollton
 
-#profile Smith, Harold Wayne
-key 202002_028
+#202002_028 Smith, Harold Wayne
 describe ; mlbplayed=1955/
 death 2020-01-09 @ US/TX/Columbus
 
-#profile Sprague, Edward Nelson, Sr.
-key 202002_029
+#202002_029 Sprague, Edward Nelson, Sr.
 describe ; mlbplayed=1968/
 death 2020-01-10 @ US/CA/Lodi
 
-#profile Yankowski, George Edward
-key 202002_030
+#202002_030 Yankowski, George Edward
 describe ; mlbplayed=1942/
 death 2020-02-25 @ US/FL/The Villages
 

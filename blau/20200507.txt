@@ -1,0 +1,69 @@
+!citation Maysville Public Ledger @ 1916-04-11; page 4
+
+#20200507_001 Brown, Burt
+player 1915 Ironton (Ohio State)
+player 1916 Huntington (Ohio State)
+resides 1916@US/OH/Newark
+
+---
+
+!citation Dayton Herald @ 1915-06-09; page 12
+
+#20200507_002 Jones, Jimmy
+player 1914 Lexington (Ohio State); @OF
+player 1914 Chillicothe (Ohio State); @OF
+player 1915 Dayton (Central)
+
+---
+
+!citation Philadelphia Press @ 1895-04-29
+
+#20200507_003 Moore, Zeke
+player 1895 Hazleton (Pennsylvania State); H68 W170
+
+
+---
+
+!citation Maysville Public Ledger @ 1916-06-09; page 4
+
+#20200507_004 Reed, Plack
+player 1916 Maysville (Ohio State); @C
+
+---
+
+!citation Lexington Herald @ 1915-07-07; page 8
+
+#20200507_005 Thomas, Ad
+player 1915 Lexington (Ohio State); TL
+college University of Kentucky
+
+---
+
+!citation Lexington Herald @ 1915-05-15; page 7
+
+#20200507_006 Pacey
+player 1915 Lexington (Ohio State); @P TL
+resides 1915@US/KY/Lawrenceberg
+
+---
+
+!citation Lexington Herald @ 1915-06-16; page 7
+
+#20200507_007 Elliott, Ross
+player 1915 Lexington (Ohio State); TR
+note has photograph
+
+---
+
+!citation Lexington Herald @ 1915-06-06; page 1
+
+#20200507_008 Wall, Joe
+player 1915 Frankfort (Ohio State); @1B
+manager 1915 Frankfort (Ohio State)
+
+---
+
+!citation Lexington Herald @ 1915-07-21; page 7
+
+#20200507_009 Potter
+player 1915 Frankfort (Ohio State); TL

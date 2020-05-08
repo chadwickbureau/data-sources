@@ -1,0 +1,322 @@
+!citation SABR Biographical Committee Newsletter @ 2020-04
+
+#202004_001 Anderson, Walter Carl
+describe ; mlbplayed=1917/
+burial Fairplains Cemetery @ US/MI/Grand Rapids
+
+#202004_002 Aviles (Miranda), Ramon Antonio
+describe ; mlbplayed=1977/
+death 2020-01-27
+
+#202004_003 Becker, Charles Schlagel
+describe ; mlbplayed=1911/; BR
+
+#202004_004 Becker, Martin Henry
+describe ; mlbplayed=1915/
+birth 1889-12-25
+
+#202004_005 Beckert, Glenn Alfred
+describe ; mlbplayed=1965/
+death 2020-04-12 @ US/FL/Englewood
+burial Cremated
+
+#202004_006 Bolger, James Cyril
+describe ; mlbplayed=1950/
+death 2020-04-09 @ US/OH/Green Township; county=Hamilton
+burial St. Joseph New Cemetery @ US/OH/Cincinnati
+
+#202004_007 Chervinko, Paul
+describe ; mlbplayed=1937/
+burial St. Barbara Cemetery @ US/IL/Witt
+
+#202004_008 Claire, David Matthew
+describe ; mlbplayed=1920/
+burial Mountain View Cemetery @ US/AZ/Kingman
+
+#202004_009 Conyers, Herbert Leroy
+describe ; mlbplayed=1950/
+burial Knollwood Cemetery @ US/OH/Mayfield Heights
+
+#202004_010 Corriden, John Michael, Sr.
+describe ; mlbplayed=1910/
+burial Mount Hope Cemetery @ US/IN/Logansport
+
+#202004_011 Cox, William Ted
+describe ; mlbplayed=1977/
+death 2020-03-11 @ US/OK/Oklahoma City
+
+#202004_012 Cuppy, George Joseph
+describe ; mlbplayed=1892/
+birth @ US/OH/Washington Township; county=Preble
+
+#202004_013 Demeter, Stephen
+describe ; mlbplayed=1959/
+burial Holy Cross Cemetery @ US/OH/Brook Park
+
+#202004_014 DeVormer, Albert E.
+describe ; mlbplayed=1918/
+burial Fairplains Cemetery @ US/MI/Grand Rapids
+
+#202004_015 Diaz, Carlos Antonio
+describe ; mlbplayed=1982/
+burial Valley of the Temples Memorial Park @ US/HI/Kaneohe
+
+#202004_016 Divis, Edward George
+describe ; mlbplayed=1916/
+burial Holy Cross Cemetery @ US/OH/Brook Park
+
+#202004_017 Farmer, Edward Joseph
+describe ; mlbplayed=1971/
+death 2020-04-01 @ US/CA/Los Angeles
+
+#202004_018 Ferris, Albert Samuel
+describe ; mlbplayed=1901/
+burial Roseland Park Cemetery @ US/MI/Berkley
+
+#202004_019 Frey, James Gottfried
+describe ; mlbmanaged=1980/
+death 2020-04-12 @ US/FL/Ponte Vedra Beach
+
+#202004_020 Garcia (Sanchez), Damaso Domingo
+describe ; mlbplayed=1978/
+death 2020-04-15 @ DO/Distrito Nacional/Santo Domingo
+burial Cementerio Puerta del Cielo @ DO/Distrito Nacional/Santo Domingo
+
+#202004_021 George, Alex Thomas Michael
+describe ; mlbplayed=1955/
+
+#202004_022 Gilbert, Harry H.
+describe ; mlbplayed=1890/
+burial Evergreen Cemetery @ US/PA/Pottstown
+
+#202004_023 Goetz, John Hardy
+describe ; mlbplayed=1960/
+burial White Chapel Memorial Park Cemetery @ US/MI/Troy
+
+#202004_024 Goliat, Michael Mitchell
+describe ; mlbplayed=1949/
+burial All Saints Cemetery @ US/OH/Northfield
+
+#202004_025 Hacker, Richard Warren
+describe ; mlbplayed=1971/
+death 2020-04-22 @ US/IL/Fairview Heights
+burial Oak Ridge Cemetery @ US/IL/New Athens
+
+#202004_026 Hageman, Kurt Moritz
+describe ; mlbplayed=1911/
+burial Mount Calvary Cemetery @ US/MI/Grand Rapids
+
+#202004_027 Hankins, Jay Nelson
+describe ; mlbplayed=1961/
+burial Park Lawn Cemetery @ US/MO/Kansas City
+
+#202004_028 Hasenmayer, Donald Irvin
+describe ; mlbplayed=1945/
+burial Forest Hills Cemetery @ US/PA/Huntingdon Valley
+
+#202004_029 Healy, Thomas Fitzgerald
+describe ; mlbplayed=1915/
+death 1974-01-15
+
+#202004_030 Horner, William Frank
+describe ; mlbplayed=1894/; TR
+
+#202004_031 Houtteman, Arthur Joseph
+describe ; mlbplayed=1945/
+burial Guardian Angels Cemetery @ US/MI/Rochester
+
+#202004_032 Hutchinson, Ira Kendall
+describe ; mlbplayed=1933/
+burial Chapel Hill Gardens South Cemetery @ US/IL/Oak Lawn
+
+#202004_033 Hyde, Richard Elde
+describe ; mlbplayed=1955/
+death 2020-04-15 @ US/IL/Champaign
+burial Grandview Memorial Gardens @ US/IL/Champaign
+
+#202004_034 Johns, William R.
+describe ; mlbplayed=1915/
+burial Knollwood Cemetery @ US/OH/Mayfield Heights
+
+#202004_035 Johnson, Clair Barth
+describe ; mlbplayed=1969/
+death 2020-04-22 @ US/IL/Palos Heights
+
+#202004_036 Kaline, Albert William
+describe ; mlbplayed=1953/
+death 2020-04-06 @ US/MI/Bloomfield Hills
+
+#202004_037 Koecher, Richard Finlay
+describe ; mlbplayed=1946/
+death 2020-02-04 @ US/FL/Naples
+
+#202004_038 Koshorek, Clement John
+describe ; mlbplayed=1952/
+burial White Chapel Memorial Park Cemetery @ US/MI/Troy
+
+#202004_039 Kreeger, Edward F.
+describe ; mlbplayed=1884/
+death 1899-07-12
+
+#202004_040 Kucab, John Albert
+describe ; mlbplayed=1950/
+burial St. John Catholic Cemetery @ US/OH/Coltsville
+
+#202004_041 Kustus, Joseph Julius
+describe ; mlbplayed=1909/
+burial Sacred Heart of St. Mary Cemetery @ US/MI/Detroit
+
+#202004_042 Lee, Robert Dean
+describe ; mlbplayed=1964/
+death 2020-03-25 @ US/AZ/Lake Havasu City
+
+#202004_043 Luff, Henry Thomas [Harry]
+describe ; mlbplayed=1875/
+
+#202004_044 Matias, John Roy
+describe ; mlbplayed=1970/
+death 2020-04-07 @ US/HI/Aiea
+uncle of DeSa, Joe
+
+#202004_045 Mattis, Ralph
+describe ; mlbplayed=1914/; BL
+
+#202004_046 McKinney, Robert Francis
+describe ; mlbplayed=1901/
+burial Annunciation of the Blessed Virgin Mary Cemetery @ US/PA/McSherrytown
+
+#202004_047 Millies, Walter Louis
+describe ; mlbplayed=1934/
+burial Chapel Hill Gardens South Cemetery @ US/IL/Oak Lawn
+
+#202004_048 Miller, William Alexander
+describe ; mlbplayed=1892/
+alias Moeller, William; type=legal
+death 1957-09-08
+
+#202004_049 Morgan, Edwin Willis
+describe ; mlbplayed=1936/
+burial Hillcrest Memorial Park @ US/OH/Bedford Heights
+
+#202004_050 Mulvey, Joseph Henry
+describe ; mlbplayed=1883/
+
+#202004_051 Murray, Thomas Aloysius
+describe ; mlbplayed=1894/
+birth 1867-03-23 @ US/NJ/Paterson
+death 1939-06-26 @ US/OH/Columbus
+burial Union Cemetery @ US/OH/Columbus
+
+#202004_052 Mussill, Bernard James
+describe ; mlbplayed=1944/
+burial White Chapel Memorial Park Cemetery @ US/MI/Troy
+
+#202004_053 Northrup, James Thomas
+describe ; mlbplayed=1964/
+burial Ridgelawn Cemetery @ US/MI/Breckenridge
+
+#202004_054 Oliver, Robert Lee
+describe ; mlbplayed=1965/
+death 2020-04-19 @ US/CA/Rio Linda
+
+#202004_055 Oyler, Raymond Francis
+describe ; mlbplayed=1965/
+birth 1937-08-04
+
+#202004_056 Patterson, Jarrod Zane
+describe ; mlbplayed=2001/
+death 2020-03-11 @ US/AL/Chilton County
+burial Martin Memorial Cemetery @ US/AL/Clanton
+
+#202004_057 Pavletich, Donald Stephen
+describe ; mlbplayed=1957/
+death 2020-03-05 @ US/WI/Brookfield
+burial Wisconsin Memorial Park @ US/WI/Brookfield
+
+#202004_058 Poat, Raymond Willis
+describe ; mlbplayed=1942/
+burial Chapel Hill Gardens South Cemetery @ US/IL/Oak Lawn
+
+#202004_059 Rainey, John M.
+describe ; mlbplayed=1887/
+burial Greenwood Cemetery @ US/MI/Birmingham
+
+#202004_060 Redmond, Harry John
+describe ; mlbplayed=1909/
+burial Holy Cross Cemetery @ US/OH/Brook Park
+
+#202004_061 Roach, Wilbur Charles
+describe ; mlbplayed=1910/
+burial Memory Garden Cemetery @ US/MI/Tawas City
+
+#202004_062 Rowe, David Elwood
+describe ; mlbplayed=1877/
+birth @ US/PA/Cold Spring
+
+#202004_063 Rowe, John Charles
+describe ; mlbplayed=1879/
+birth @ US/PA/Cold Spring
+
+#202004_064 Schmidt, David Frederick
+describe ; mlbplayed=1981/; H74 W215
+
+#202004_065 Shanks, Howard Samuel
+describe ; mlbplayed=1912/; BL
+
+#202004_066 Sheehan, Thomas Clancy
+describe ; mlbplayed=1915/
+burial St. Joseph Cemetery @ US/OH/Lockbourne
+
+#202004_067 Sherdel, William Henry
+describe ; mlbplayed=1918/
+burial Annunciation of the Blessed Virgin Mary Cemetery @ US/PA/McSherrytown
+
+#202004_068 Sherman, Lester Daniel
+describe ; mlbplayed=1914/
+burial White Chapel Memorial Park Cemetery @ US/MI/Troy
+
+#202004_069 Stephenson, Robert Loyd
+describe ; mlbplayed=1955/
+death 2020-03-20 @ US/OK/Norman
+
+#202004_070 Talbot, Robert Dale
+describe ; mlbplayed=1953/
+burial Visalia Cemetery @ US/CA/Visalia
+
+#202004_071 Turner, Terrance Lamont
+describe ; mlbplayed=1901/
+burial Knollwood Cemetery @ US/OH/Mayfield Heights
+
+#202004_072 Veach, Robert Hayes
+describe ; mlbplayed=1912/
+burial White Chapel Memorial Park Cemetery @ US/MI/Troy
+
+#202004_073 Walters, Daniel Gene
+describe ; mlbplayed=1992/
+death 2020-04-23 @ US/CA/San Diego
+
+#202004_074 Weaver, William B.
+describe ; mlbplayed=1888/
+burial Hillside Memorial Park @ US/OH/Akron
+
+#202004_075 Wertz, Dwight Lyman Moody
+describe ; mlbplayed=1914/
+burial Highland Cemetery @ US/IN/South Bend
+
+#202004_076 Winkles, Bobby Brooks
+describe ; mlbmanaged=1973/
+death 2020-04-17 @ US/CA/Indian Wells
+burial El Toro Memorial Park @ US/CA/Lake Forest
+
+#202004_077 Workman, Henry Kilgariff
+describe ; mlbplayed=1950/
+death 2020-03-16 @ US/CA/Santa Monica
+burial Holy Cross Cemetery and Mausoleum @ US/CA/Culver City
+
+#202004_078 Wynn, James Sherman
+describe ; mlbplayed=1963/
+death 2020-03-26 @ US/TX/Houston
+
+#202004_079 Yankowski, George Edward
+describe ; mlbplayed=1942/
+burial Florida National Cemetery @ US/FL/Bushnell
