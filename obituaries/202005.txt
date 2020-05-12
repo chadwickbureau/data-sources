@@ -249,3 +249,306 @@ birth 1931-02-13 @ US/IL/Astoria
 death 2017-10-13 @ US/IL/Rockford
 highschool Belvidere HS @ US/IL/Belvidere
 burial Belvidere Cemetery @ US/IL/Belvidere
+
+---
+
+!citation Forastiere Family Funeral Home @ 2020-05-08
+!url https://www.forastiere.com/tributes/Francis-DeVivo
+!file DeVivo_Francis.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-08
+
+#202005_007 DeVivo, Francis Angelo
+birth 1929-04-20 @ US/MA/Springfield
+death 2017-10-14 @ US/MA/Springfield
+military US Army @ Korean War
+
+---
+
+!citation Marin Independent Journal @ 2017-10-15
+!url https://www.legacy.com/obituaries/marinij/obituary.aspx?n=dominic-a-pomilia&pid=186956228&fhid=24159
+!file Pomilia_Dominic.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-08
+
+#202005_022 Pomilia, Dominic A., Sr.
+birth 1930-09-17 @ US/CA/San Francisco
+death 2017-10-07 @ US/CA/Corte Madera
+highschool Galileo HS @ US/CA/San Francisco
+military US Army
+
+---
+
+!citation Berry Funeral Home @ 2020-05-08
+!url https://www.dignitymemorial.com/obituaries/knoxville-tn/marion-nolan-7592952
+!file Nolan_Bud.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-08
+
+#202005_023 Nolan, Marion Edward [Bud]
+birth 1929-04-14 @ US/OH/DeGraff
+death 2017-10-06
+highschool Huntsville HS @ US/OH/Huntsville
+military US Air Force
+burial East Tennessee State Veterans Cemetery @ US/TN/Knoxville
+
+---
+
+!citation Holman Mortuaries @ 2020-05-08
+!url https://www.holmanmortuaries.com/obituary/thomas-l-barton
+!file Barton_Thomas.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-08
+
+#202005_024 Barton, Thomas L.
+birth 1933-08-30 @ US/FL/Caryville
+death 2017-10-05 @ US/AL/Abbeville
+highschool Abbeville HS @ US/AL/Abbeville
+military US Army
+
+---
+
+!citation Southern Illinoisan @ 1969-06-05
+!file Jansco_George.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-08
+
+#202005_025 Jansco, George
+birth 1915-08-08
+death 1969-06-04 @ US/IL/West Frankfort
+
+---
+
+!citation HeffnerCare.com @ 2020-05-08
+!url https://www.heffnercare.com/obituaries/Gregory-Reed-King?obId=12882302#/obituaryInfo
+!file King_Gregory.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-08
+
+#202005_026 King, Gregory Reed
+birth 1946-06-10 @ US/PA/York
+death 2020-05-04 @ US/PA/Manchester 
+highschool Northeastern HS @ US/PA/Manchester
+military US Navy @ Vietnam War
+burial Susquehanna Memorial Gardens @ US/PA/York
+
+---
+
+!citation Boston Globe @ 1955-07-20
+!file Harrison_Edwin.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-08
+
+#202005_027 Harrison, Edwin R.
+death 1955-07-18
+burial Holy Cross Cemetery @ US/MA/Malden
+
+---
+
+!citation Frye Chapel @ 2020-05-09
+!url https://www.fryechapel.com/obituary/clarence-jaime
+!file Jaime_Clarence.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-09
+
+#202005_028 Jaime, Clarence Edward "Tito"
+birth 1922-03-22 @ US/CA/Redlands
+death 2020-05-06 @ US/AZ/Mesa
+highschool Colton Union HS @ US/CA/Colton
+military US Army @ World War II
+burial Palo Verde Cemetery @ US/CA/Blythe
+
+---
+
+!citation J. F. Floyd Mortuary @ 2020-05-09
+!url https://www.floydmortuary.com/obituaries/James-Toney-5/#!/Obituary
+!file Toney_Ping.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-09
+
+#202005_029 Toney, James Edward [Ping]
+birth 1929-04-16 @ US/SC/Pacolet
+death 2017-10-07 @ US/SC/Inman
+highschool Pacolet HS @ US/SC/Pacolet
+burial Greenlawn Memorial Gardens @ US/SC/Spartanburg
+
+---
+
+!citation Tribune-Democrat @ 2020-05-09
+!url https://obituaries.tribdem.com/obituary/joseph-skibo-985952421
+!file Skibo_Joseph.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-09
+
+#202005_030 Skibo, Joseph P.
+birth 1928-10-26
+death 2017-10-04 @ US/PA/Colver
+burial Holy Name Cemetery @ US/PA/Ebensburg
+
+---
+
+!citation Schiavone Funeral Home @ 2020-05-09
+!url https://www.schiavonefh.com/obituary/Stephen-Sheronovich
+!file Sheronovich_Stpehen.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-09
+
+#202005_031 Sheronovich, Stephen J.
+birth 1931-12-13
+death 2017-09-29 @ US/OH/Boardman
+military US Marines @ Korean War
+
+---
+
+!citation Smith Family Funeral Homes @ 2020-05-09
+!url https://www.smithfamilyfuneralhomes.com/obituary/Carl-Bowles
+!file Bowles_Carl.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-09
+
+#202005_032 Bowles, Carl Gaylord
+birth 1930-09-12 @ US/MI/Antrim Township
+death 2017-10-02 @ US/MI/Ashley
+highschool Morrice HS @ US/MI/Morrice
+
+---
+
+!citation Houston Chronicle @ 2017-10-03
+!url https://www.legacy.com/obituaries/houstonchronicle/obituary.aspx?n=gary-stevenson&pid=186827956
+!file Stevenson_Gary.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-09
+
+#202005_033 Stevenson, Gary Thomas
+birth 1952-10-02 @ US/TX/Houston
+death 2017-09-30
+highschool Sharpstown HS @ US/TX/Houston
+college Blinn College
+
+---
+
+!citation J.J. Duffy Funeral Home @ 2020-05-10
+!url https://www.jjduffyfuneralhome.com/obituary/paul-donovan
+!file Donovan_Paul.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-10
+
+#202005_034 Donovan, Paul F.
+birth 1929-02-04 @ US/RI/Providence
+death 2020-05-06 @ US/RI/Providence
+highschool La Salle Academy @ US/RI/Providence
+military US Marines
+burial Resurrection Cemetery @ US/RI/Cumberland
+
+---
+
+!citation Crowell Brothers Funeral Home @ 2020-05-10
+!url https://www.crowellbrothers.com/obituaries/Barry-Alan-Fullerton?obId=12924628#/celebrationWall
+!file Fullerton_Bobby.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-10
+
+#202005_035 Fullerton, Barry Alan
+birth 1935-08-12 @ US/PA/Pittsburgh
+death 2020-05-06
+college Michigan State University
+military US Marines
+
+---
+
+!citation Hillis, Combs & Nestor Funeral Home @ 2020-05-10
+!url https://www.hilliscombsnestor.com/obituaries/Francis-Carpenter-2/#!/Obituary
+!file Carpenter_Frank.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-10
+
+#202005_036 Carpenter, Francis Harold [Frank]
+birth 1923-08-20
+death 2017-09-23 @ US/OH/Zanesville
+military US Navy @ World War II
+burial Memorial Park Cemetery @ US/OH/Zanesville
+
+---
+
+!citation Tributes.com @ 2020-05-10
+!url http://www.tributes.com/obituary/show/Gary-Lee-Torgeson-105217409
+!file Torgeson_Gary.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-10
+
+#202005_037 Torgeson, Gary Lee
+birth 1934-08-31 @ US/OR/Albany
+death 2017-09-19 @ US/OR/Albany
+military US Army 
+
+---
+
+!citation MyLeaderPaper.com @ 2020-05-11
+!url https://www.myleaderpaper.com/obituaries/leman-genedale-mahurin-sr-85-hillsboro/article_52184e42-932b-11ea-910d-efc71452f4e7.html
+!file Mahurin_Leman.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-11
+
+#202005_038 Mahurin, Leman Genedale
+death 2020-05-09 @ US/MO/Cape Girardeau
+military US Army
+burial St. Francois Memorial Park @ US/MO/Bonne Terre
+
+---
+
+!citation Hultgren Funeral Home @ 2020-05-11
+!url https://www.hultgrenfh.com/obituary/russell-ditusa
+!file DiTusa_Russell.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-11
+
+#202005_039 DiTusa, Russell S.
+birth 1922-11-28 @ US/IL/Chicago
+death 2020-05-05
+military US Army @ World War II
+
+---
+
+!citation Blyth Funeral Home @ 2020-05-11
+!url https://www.blythfuneralhome.com/obituaries/Benjamin-Franklin-Ben-Johnson-Jr-?obId=12974958#/obituaryInfo
+!file Johnson_Ben.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-11
+
+#202005_040 Johnson, Benjamin Franklin, Jr. [Ben]
+birth 1931-05-16 @ US/SC/Greenwood
+death 2020-05-08
+military US Marines
+burial Greenwood Memorial Gardens @ US/SC/Hodges
+
+---
+
+!citation Fox Funeral Homes @ 2020-05-11
+!url https://www.foxfuneralhomes.com/obituary/George-Drummond
+!file Drummond_George.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-11
+
+#202005_041 Drummond, George Ronald 
+birth 1935-10-05 @ US/VA/Eastville Station
+death 2020-05-08 @ US/VA/Nassawadox
+burial Belle Haven Cemetery @ US/VA/Belle Haven
+
+---
+
+!citation Roberts Funeral & Cremation Chapel @ 2020-05-11
+!url https://robertsfuneralandcremation.com/onischuk-william-bill/
+!file Onischuk_Bill.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-11
+
+#202005_042 Onischuk, William [Bill]
+birth 1927-01-23 @ US/MN/South St. Paul
+death 2020-04-15
+military US Army
+burial General Lutheran Cemetery @ US/MN/South St. Paul
+
+---
+
+!citation Rainey Family Funeral Services @ 2020-05-11
+!url https://www.raineyfuneral.com/obituaries/James-Reginald-Barry-Jr?obId=12831091#/obituaryInfo
+!file Barry_Reginald.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-11
+
+#202005_043 Barry, James Reginald, Jr. [Reginald]
+death 2020-05-02 @ US/GA/Cordele
+highschool West Crisp HS @ US/GA/Cordele
+highschool Gordon Military College HS @ US/GA/Barnesville
+college Mercer University
+college Georgia Institute of Technology
+military US Navy @ World War II
+
+---
+
+!citation Huntsman Funeral Home @ 2020-05-11
+!url http://huntsmanfuneralhomes.com/2020/05/05/william-a-dunn-sr/
+!file Dunn_William.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-11
+
+#202005_044 Dunn, William A., Sr.
+birth 1932-02-16 @ US/PA/Sheridan
+death 2020-05-03 @ US/PA/Wexford
+burial Sewickley Cemetery @ US/PA/Sewickley

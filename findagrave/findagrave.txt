@@ -959,3 +959,15 @@ death 1992-10-25
 military US Army @ Korean War
 burial Fort Bliss National Cemetery @ US/TX/El Paso
 
+---
+
+!citation findagrave.com @ 2020-05-09
+!url https://www.findagrave.com/memorial/128132702
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-09
+ 
+#0079 Corzine, Bert Worth, Sr.
+sameas findagrave:128132702
+birth 1889-06-13 @ US/TX
+death 1968-11-17 @ US/TX/Cleburne
+burial Rosehill Cemetery @ US/TX/Cleburne
+

@@ -1,0 +1,249 @@
+!citation Nashville Tennessean 1915-03-30; page 10
+
+#20200427_001 Diamond, Jack
+describe ; BR
+player 1915 Nashville (Southern Association)
+player 1914 (Kentucky-Illinois-Tennessee)
+player 1914 Nashville (Southern Association)
+note picture
+
+#20200427_002 Goalby, Kitty
+player 1912 Nashville (Southern Association)
+player 1914 Roanoke (Virginia)
+
+---
+
+!citation Nashville Tennessean 1915-04-01; page 12
+
+#20200427_003 King, Albert [Bert] "Tom"
+birth  @ US/IL/Herrick
+describe ; H66 W150 BL
+player 1915 Nashville (Southern Association); @OF
+player 1914 Nashville (Southern Association)
+resides 1915 @ US/IL/Cowden
+
+---
+
+!citation Nashville Tennessean 1915-04-04; page 37
+
+#20200427_004 McGill, Billy
+player 1915 Mobile (Southern Association); @OF
+player 1915 San Antonio (Texas)
+
+#20200427_005 Brown, Larry
+player 1915 Mobile (Southern Association); @C
+player 1914 Mobile (Southern Association)
+player 1913 Mobile (Southern Association)
+player 1915 Fort Worth (Texas)
+player 1913 Anniston (Georgia-Alabama)
+
+#20200427_006 Hudnall, Abe 
+player 1914 Mobile (Southern Association)
+player 1914 Cleveland (American)
+player 1915 Dallas (Texas)
+
+#20200427_007 Berger, Ernest
+player 1915 Mobile (Southern Association); @C
+player 1915 San Antonio (Texas)
+
+#20200427_008 Brown, Phinney
+player 1915 Mobile (Southern Association); @C
+player 1915 San Antonio (Texas)
+note semi-pro player from Mobile
+
+#20200427_009 Wheatley
+player 1914 Montgomery (Southern Association); @P TR
+player 1914 Mobile (Southern Association)
+player 1915 Dallas (Texas)
+note dog bit pitching hand three weeks prior
+
+#20200427_010 Harkins
+player 1915 Mobile (Southern Association); @P TL
+player 1914 (Georgia-Alabama)
+
+#20200427_011 Cunningham, Joe
+player 1915 Mobile (Southern Association); @P 
+
+#20200427_012 Powell
+player 1915 Mobile (Southern Association); @OF
+player 1914 Vancouver (Northwestern) 
+
+#20200427_013 Burke
+player 1915 Mobile (Southern Association); @C
+
+#20200427_014 Tepe, George
+player 1915 Mobile (Southern Association); @IF
+player 1914 Evansville (Central)
+
+---
+
+!citation Asheville Citizen-Times 1911-03-14; page 12
+
+#20200427_015 Gudger, Jim
+player 1911 Asheville (Appalachian); @P
+resides 1911 @ US/NC/Candler
+
+#20200427_016 Stuart
+player 1911 Asheville (Appalachian); @C
+player <=1911 Guilford College; caliber=college
+
+#20200427_017 Hayes, Jimmie
+player 1911 Asheville (Appalachian); @P
+resides 1911 @ US/NC/Charlotte
+
+#20200427_018 Barnes, B. J.
+player 1911 Asheville (Appalachian); @P
+resides 1911 @ US/VA/Suffolk
+
+#20200427_019 Harper, Frank
+player 1911 Asheville (Appalachian); @P
+resides 1911 @ US/SC/Seneca
+
+#20200427_020 Baxter
+player 1911 Asheville (Appalachian); @P
+resides 1911 @ US/GA/Atlanta
+
+#20200427_021 Curiton, George
+player 1911 Asheville (Appalachian); @3B
+resides 1911 @ US/SC/Greenville 
+
+#20200427_022 Barnes, John
+player 1911 Asheville (Appalachian); @SS
+resides 1911 @ US/PA/Chambersburg
+
+#20200427_023 Kluttz
+player 1911 Asheville (Appalachian); @OF
+resides 1911 @ US/NC/Wilmington
+
+#20200427_024 Parnilla
+player 1911 Asheville (Appalachian); @OF
+resides 1911 @ US/NC/Charlotte
+
+#20200427_025 Sheridan
+player 1911 Asheville (Appalachian); @OF
+resides 1911 @ US/NC/Wilson
+
+---
+
+!citation Asheville Citizen-Times 1911-05-11; page 12
+
+#20200427_026 White, Bob
+player 1911 Asheville (Appalachian); @2B
+
+#20200427_027 Landgraf, Luke
+player 1911 Asheville (Appalachian); @2B
+player 1910 Richmond (Virginia)
+
+#20200427_028 Williams, Bill
+player 1911 Asheville (Appalachian); @SS
+resides 1911 @ US/NJ/Blairstown
+
+#20200427_029 Bowers, John
+player 1911 Asheville (Appalachian); @3B
+resides 1911 @ US/PA/Chambersburg
+
+#20200427_030 Cureton, George
+player 1911 Asheville (Appalachian); @3B
+resides 1911 @ US/SC/Greenville
+
+#20200427_031 Bone, D. S.
+player 1911 Asheville (Appalachian); @C
+resides 1911 @ US/TN/Fayetteville
+
+#20200427_032 Wickline, Dennis K.
+player 1911 Asheville (Appalachian); @3B
+resides 1911 @ US/VA/Richmond
+
+#20200427_033 Kluttz, Dewitt
+player 1911 Asheville (Appalachian); @OF
+player 1910 Davidson College; caliber=college
+
+#20200427_034 Parnella, J. A.
+player 1911 Asheville (Appalachian); @OF
+resides 1911 @ US/NC/Charlotte
+
+#20200427_035 Hayes, E. J.
+player 1911 Asheville (Appalachian); @OF
+resides 1911 @ US/NC/Charlotte
+
+#20200427_036 Hayes, Jimmie
+player 1911 Asheville (Appalachian); @P
+player 1910 Charlotte (Carolina Association)
+
+#20200427_037 Smith, Charlie
+player 1911 Asheville (Appalachian); @P
+player <1911 China Grove; caliber=semipro
+player <1911 Concord; caliber=semipro
+
+#20200427_038 Humphries, Al
+player 1911 Asheville (Appalachian); @P
+player 1911 Atlanta (Southern Association)
+player <1911 Concord; caliber=semipro
+
+#20200427_039 Gudger, Jim
+player 1911 Asheville (Appalachian); @P
+resides 1911 @ US/NC/Candler
+
+#20200427_040 Harker, Frank
+player 1911 Asheville (Appalachian); @P
+resides 1911 @ US/SC
+
+#20200427_041 Alexander
+player 1911 Asheville (Appalachian); @P
+resides 1911 @ US/SC
+
+---
+
+!citation Tulsa Democrat 1915-03-13; page 15
+
+#20200427_042 Falsken, J. W.
+player 1915 Tulsa (Western Association); @P
+player 1914 Emporia (Kansas State)
+resides 1915 @ US/MO/Kansas City
+
+#20200427_043 Morris, Lee
+player 1915 Tulsa (Western Association); @SS
+player 1914 Tulsa (Western Association)
+resides 1915 @ US/PA/Pittsburgh
+
+---
+
+!citation Corsicana Daily Dun 1915-05-10; page 4
+
+#20200427_044 Angel, James
+player 1915 Temple (Middle Texas)
+player 1914 Emporia (Central Texas); @P
+
+---
+
+!citation Corsicana Daily Dun 1915-05-10; page 4
+
+#20200427_045 Morton, Roy
+manager 1915 Corsicana (Central Texas)
+resides 1915 @ US/TX/Jacksboro
+
+---
+
+!citation Dallas Morning News 1915-06-17; page 9
+
+#20200427_046 Hendley, Johnny
+umpire 1915 Western Association
+manager 1914 McAlester (Western Association)
+
+#20200427_047 Spencer, Dit
+umpire 1915 Western Association
+
+#20200427_048 Womack, Harry
+umpire 1915 Western Association
+
+#20200427_049 Pontius, Roy
+umpire 1915 Western Association
+
+---
+
+!citation Dallas Morning News 1915-06-17; page 8
+
+#20200427_050 Nichols, Jitney
+player 1915 Dallas (Texas); @P H72 W185 TR
+player <=1915 Purdue University; caliber=college
+
