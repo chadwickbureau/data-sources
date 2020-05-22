@@ -552,3 +552,293 @@ military US Navy @ World War II
 birth 1932-02-16 @ US/PA/Sheridan
 death 2020-05-03 @ US/PA/Wexford
 burial Sewickley Cemetery @ US/PA/Sewickley
+
+---
+
+!citation Vanderplaat Funeral Home @ 2020-05-12
+!url https://www.tributearchive.com/obituaries/13049584/Charles-Silverstein-Jr
+!file Silverstein_Charlie.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-12
+
+#202005_045 Silverstein, Charles, Jr. [Charlie]
+birth 1933-03-08 @ US/NY/Valley Stream
+death 2020-05-11
+college Hofstra University
+military US Army @ Korean War
+burial Brigadier General William C. Doyle Veterans Memorial Cemetery @ US/NJ/Wrightstown
+
+---
+
+!citation Duggan's Serra Mortuary @ 2020-05-12
+!url https://www.duggans-serra.com/obituaries/Thomas-Edwin-Teshara?obId=3345872#/obituaryInfo
+!file Teshara_Tom.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-12
+
+#202005_046 Teshara, Thomas Edwin [Tom]
+birth 1927-12-31 @ US/CA/San Francisco
+death 2017-09-06
+highschool Lincoln HS @ US/CA/San Francisco
+
+---
+
+!citation Shea Funeral Home @ 2020-05-13
+!url https://www.sheafuneralhome.com/obituary/Albin-Malinowski
+!file Malinowski_Albin.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-13
+
+#202005_047 Malinowski, Albin J.
+birth 1922-12-08 @ US/NJ/Carteret
+death 2017-08-29
+burial Vestal Hills Memorial Park @ US/NY/Vestal
+
+---
+
+!citation Mowell Funeral Home @ 2020-05-13
+!url http://www.mowells.com/obituaries/Jesse-Havis-Smith?obId=2494365#/obituaryInfo
+!file Smith_Jesse.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-13
+
+#202005_048 Smith, Jesse Havis
+birth 1928-02-26 @ US/GA/Hapeville
+death 2017-08-20 @ US/GA/Fayetteville
+highschool Hapeville HS @ US/GA/Hapeville
+burial College Park Cemetery @ US/GA/College Park
+
+---
+
+!citation Republican & Herald @ 2020-05-14
+!url https://www.legacy.com/obituaries/schuylkill/obituary.aspx?n=robert-e-bassler-bobby&pid=196187584&fhid=22913
+!file Bassler_Bobby.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-14
+
+#202005_049 Bassler, Robert E. [Bobby]
+birth 1928-10-12 @ US/PA/Brockton
+death 2020-05-12 @ US/PA/Whitehall
+highschool Tamaqua HS @ US/PA/Tamaqua
+
+---
+
+!citation Daily Chronicle @ 2003-03-30
+!file Bruder_Hank.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-14
+
+#202005_050 Bruder, Henry J. [Hank]
+birth 1930-04-17 @ US/IL/LaSalle
+death 2003-03-28 @ US/IL/Genoa
+highschool St. Bede Academy @ US/IL/Peru
+
+---
+
+!citation Stitzel Family Funeral Home @ 2020-05-14
+!url https://www.stitzelfuneralhome.com/obituary/Raymond-Keller
+!file Keller_Ray.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-14
+
+#202005_051 Keller, Raymond Wixon [Ray]
+birth 1926-10-07 @ US/PA/Reading
+death 2017-08-14
+highschool Muhlenberg HS @ US/PA/Reading
+military US Army @ World War II
+burial Alsace Lutheran Church Cemetery @ US/PA/Reading
+
+---
+
+!citation Arizona Republic @ 2017-08-20
+!url https://www.legacy.com/obituaries/azcentral/obituary.aspx?n=william-thomas-mcbay&pid=186429194
+!file McBay_Bill.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-14
+
+#202005_052 McBay, William Thomas [Bill]
+birth 1929-03-16 @ US/AL/Florence
+death 2017-08-11
+military US Army
+
+---
+
+!citation Purse Funeral Home @ 2020-05-14
+!url https://www.pursefuneralhome.com/obituary/OttoOC-Leu
+!file Leu_OC.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-14
+
+#202005_053 Leu, Otto Charles [O. C.]
+birth 1926-02-14 @ US/OH/Toledo
+death 2017-08-09
+highschool Lambertville HS @ US/MI/Lambertville
+college Bowling Green State University
+military US Army @ World War II
+burial Lake Township Cemetery @ US/OH/Walbridge
+
+---
+
+!citation Costello-Greiner Funeral Home @ 2020-05-15
+!url https://www.costello-greiner.com/memsol.cgi?user_id=1992794
+!file Dobos_John.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-15
+
+#202005_054 Dobos, John R.
+birth 1935-08-25 @ US/NJ/Woodbridge
+death 2017-08-01 @ US/NJ/Edison
+military US Army
+
+---
+
+!citation Watson-Hunt Funeral Home @ 2020-05-15
+!url https://www.watsonhunt.com/obituaries/Billy-Irwin-37312/#!/Obituary
+!file Irwin_Billy.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-15
+
+#202005_055 Irwin, Billy Hugh, Sr.
+birth 1928-12-31 @ US/AL/Jefferson County
+death 2017-08-02
+college Middle Georgia State University
+military US Army @ Korean War
+burial Walnut Cemetery @ US/GA/Unadilla
+
+---
+
+!citation Albuquerque Journal @ 2020-05-17
+!url https://www.legacy.com/obituaries/abqjournal/obituary.aspx?n=john-toledo&pid=196204601
+!file Toledo_John.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-18
+
+#202005_056 Toledo, John George
+death 2020-05-02 @ US/AZ/Marana
+highschool Albuquerque HS @ US/NM/Albuquerque
+
+---
+
+!citation Kiesay-Lee Funeral Home @ 2020-05-18
+!url https://www.lee-funeralhomes.com/obituaries/Wayne-Ellis-Goucher?obId=13710258
+!file Goucher_Wayne.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-18
+
+#202005_057 Goucher, Wayne Ellis
+birth 1933-04-03 @ US/OK/Clinton
+death 2020-05-15 @ US/OK/Oklahoma City
+highschool Clinton HS @ US/OK/Clinton
+burial Clinton Cemetery @ US/OK/Clinton
+
+---
+
+!citation Los Angeles Times @ 2020-05-19
+!url https://www.legacy.com/obituaries/latimes/obituary.aspx?n=gerald-l-haines-jerry&pid=196211152
+!file Haines_Jerry.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-19
+
+#202005_058 Haines, Gerald L. [Jerry]
+birth 1927-09-10 @ US/CA/Oakland
+death 2020-04-24
+highschool Stockton HS @ US/CA/Stockton
+college College of the Pacific
+
+---
+
+!citation The Telegraph @ 2020-05-19
+!url https://www.legacy.com/obituaries/thetelegraph/obituary.aspx?n=kenneth-retzer&pid=196208766
+!file Retzer_Ken.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-19
+
+#202005_059 Retzer, Kenneth Leo [Ken]
+birth 1934-04-30 @ US/IL/Wood River
+death 2020-05-17 @ US/AZ/Sun City
+
+---
+
+!citation Huff-Guthrie Funeral Home @ 2020-05-19
+!url https://www.huffchapel.com/obituaries/David-Voit/#!/Obituary
+!file Voit_Dave.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-19
+
+#202005_060 Voit, David Thomas [Dave]
+birth 1965-09-27
+death 2020-05-16
+highschool Henry Clay HS @ US/KY/Lexington
+college University of Kentucky
+
+---
+
+!citation Gent Funeral Home @ 2020-05-20
+!url https://www.gentfuneralhome.com/obituaries/William-Ackerman-4/#!/Obituary
+!file Ackerman_Bill.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-20
+
+#202005_061 Ackerman, William Charles [Bill]
+birth 1938-10-17 @ US/IL/Alton
+death 2020-05-17 @ US/IL/Alton
+highschool Alton HS @ US/IL/Alton
+
+---
+
+!citation Niebur Funeral Homes @ 2020-05-20
+!url https://www.nieburfh.com/obits/obituary.php?id=648253
+!file Pool_Lyle.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-20
+
+#202005_062 Pool, Lyle Metz
+birth 1930-01-19 @ US/IL/Chambersburg
+death 2017-07-29 @ US/IL/Quincy
+highschool Chambersburg HS @ US/IL/Chambersburg
+college Western Illinois University 
+military US Army @ Korean War
+burial Griggsville Cemetery @ US/IL/Griggsville
+
+---
+
+!citation Observer Advocate @ 2017-07-20
+!url https://www.legacy.com/obituaries/wickedlocal-observeradvocate/obituary.aspx?n=lorne-w-thomas&pid=186139244
+!file Thomas_Lorne.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-20
+
+#202005_063 Thomas, Lorne William, Jr.
+birth 1933-06-06 @ US/MA/Medford
+death 2017-07-16 @ US/MA/Chelmsford
+highschool Medford HS @ US/MA/Medford
+military US Air Force @ Korean War
+
+---
+
+!citation Marshall Marra Funeral Home @ 2020-05-20
+!url https://www.marshallmarrafuneralhome.com/obituary/4308348
+!file Norris_Jim.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-20
+
+#202005_064 Norris, James D. [Jim]
+birth 1944-02-01 @ US/PA/Clearfield
+death 2017-07-17 @ US/PA/Monongahela
+highschool Curwensville High School @ US/PA/Curwensville
+military US Army @ Vietnam War
+burial Mon Valley Memorial Park @ US/PA/Donora
+
+---
+
+!citation AZCentral.com @ 2020-05-14
+!url https://www.azcentral.com/story/sports/high-school/2020/05/14/former-centennial-stanford-athlete-zach-hoffpauir-dies-26/5196275002/
+!file Hoffpauir_Zach.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-20
+
+#202005_065 Hoffpauir, Zach
+death 2020-05-14
+highschool Centennial HS @ US/AZ/Peoria
+college Stanford University
+
+---
+
+!citation Hazleton Standard Speaker @ 1969-08-13
+!file Morgan_Cy.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-21
+
+#202005_066 Morgan, William P. [Cy}
+birth @ US/PA/Slatington
+death 1969-08-12 @ US/PA/Allentown
+
+---
+
+!citation Fayetteville Observe @ 2020-05-21
+!url https://www.legacy.com/obituaries/fayettevilleobserver/obituary.aspx?n=donald-smith-gene&pid=196218948
+!file Smith_Gene.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-21
+
+#202005_067 Smith, Donald Gene [Gene]
+death 2020-05-20
+burial Garland Cemetery @ US/NC/Garland
+military US Army @ Korean War

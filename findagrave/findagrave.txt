@@ -971,3 +971,64 @@ birth 1889-06-13 @ US/TX
 death 1968-11-17 @ US/TX/Cleburne
 burial Rosehill Cemetery @ US/TX/Cleburne
 
+---
+
+!citation findagrave.com @ 2020-05-14
+!url https://www.findagrave.com/memorial/135294367
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-14
+ 
+#0080 Bruder, Henry J. [Hank]
+sameas findagrave:135294367
+birth 1930
+death 2003
+burial St. Catherine Cemetery @ US/IL/Genoa
+
+---
+
+!citation findagrave.com @ 2020-05-14
+!url https://www.findagrave.com/memorial/38118693
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-14
+ 
+#0081 Wainwright, James Archie
+sameas findagrave:38118693
+birth 1892-10-24 @ US/LA/Bernice
+death 1943-05-12 @ US/AR/Russellville
+burial Farmerville Cemetery @ US/LA/Farmerville
+
+---
+
+!citation findagrave.com @ 2020-05-20
+!url https://www.findagrave.com/memorial/264131/robert-beaumont-akenhead
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-20
+ 
+#0082 Akenhead, Robert Beaumont
+sameas findagrave:264131
+birth 1927-08-14
+death 1993-09-06
+military US Army @ World War II
+burial Springfield National Cemetery @ US/MO/Springfield
+
+---
+
+!citation findagrave.com @ 2020-05-20
+!url https://www.findagrave.com/memorial/108855055
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-20
+ 
+#0083 Crowson, Howell Jessie
+sameas findagrave:108855055
+birth 1886-09-04 @ US/TX/Honey Grove
+death 1929-02-07
+burial Oakwood Cemetery @ US/TX/Honey Grove
+
+---
+
+!citation findagrave.com @ 2020-05-20
+!url https://www.findagrave.com/memorial/61047146
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-20
+ 
+#0084 Breaux. Russell Joseph, Sr.
+sameas findagrave:61047146
+birth 1894-12-08 @ US/LA
+death 1954-08-05 @ US/LA
+military US Army @ World War I
+burial Franklin Cemetery @ US/LA/Franklin

@@ -1,0 +1,190 @@
+!citation utrockets.com
+!url https://utrockets.com/news/2010/2/24/Don_Whiting_Baseball_1977_81_.aspx
+!file Whiting_Don.pdf
+!contributor Alex Bonilla <ab@sports-reference.com> @ 2020-03-13
+
+#202005_001 Whiting, Don
+college University of Toledo; dates=1978/1981; degree=graduated
+player 1982 Macon (South Atlantic)
+
+---
+
+!citation Clarion-Ledger @ 1970-06-28; page B2
+!url https://www.newspapers.com/clip/46621802/morley-jennings/
+!file Jennings_Morley.pdf
+!contributor Alex Bonilla <ab@sports-reference.com> @ 2020-03-13
+
+#202005_002 Jennings, Morley
+birth @ US/MI/Holland
+highschool Albion HS @ US/MI/Albion
+college Albion College
+college Mississippi State University
+player 1912 Knoxville (Appalachian League)
+player 1913 Washington (American League)
+player 1913 Hartford (Eastern Association)
+player 1922 Minneapolis (American Association)
+
+---
+
+!citation Dallas Morning News @ 1930-05-30; page 9
+!file Murray_George.png
+!contributor Alex Bonilla <ab@sports-reference.com> @ 2020-03-13
+
+#202005_003 Murray, George
+player 1929 Kansas City (American Association)
+player 1930 Kansas City (American Association)
+player 1930 Dallas (Texas League)
+
+---
+
+!citation Helibroner Baseball Bureau Index Card @ 1939
+!file Hickey_Jim.jpg
+!contributor Alex Bonilla <ab@sports-reference.com> @ 2020-03-12
+
+#202005_004 Hickey, James Robert
+birth 1920-10-22
+describe 1939; @P BR TR H73 W204
+player 1938 Beckley (Mountain State League)
+player 1939 Hot Springs (Cotton States League)
+
+---
+
+!citation Arizona Republic @ 2003-02-14
+!url https://www.newspapers.com/clip/46590629/billy-parker/
+!file Parker_Billy.pdf
+!contributor Alex Bonilla <ab@sports-reference.com> @ 2020-03-12
+
+#202005_005 Parker, William David
+birth 1942-01-14 @ US/AL/Hayneville
+death 2003-02-09 @ US/AZ/Sun City West
+highschool Central HS @ US/AL/Hayneville
+college Alabama State University
+player 1971 Salt Lake City (Pacific Coast League)
+player 1972 California Angels (American League)
+player 1973 California Angels (American League)
+player 1974 Syracuse (International League)
+player 1975 Syracuse (International League) 
+player 1976 Syracuse (International League)
+
+---
+
+!citation The Athletic @ 2018-05-01
+!url https://theathletic.com/336427/2018/05/01/tony-santillan-leads-the-next-wave-of-reds-pitching-prospects/?redirected=1&redirected=1
+!file Santillan_Tony.pdf
+!contributor Alex Bonilla <ab@sports-reference.com> @ 2020-03-12
+
+#202005_006 Santillan, Tony
+highschool Seguin HS @ US/TX/Arlington
+drafted 2015; join=Cincinnati (National)
+
+---
+
+!citation Cambria County Sports Hall of Fame
+!url https://ccshof.org/member/pete-vuckovich/
+!file Vuckovich_Pete.pdf
+!contributor Alex Bonilla <ab@sports-reference.com> @ 2020-03-11
+
+#202005_007 Vuckovich, Pete
+highschool Conemaugh Valley HS @ US/PA/Johnstown
+college Clarion University of Pennsylvania
+drafted 1974; join=Chicago (American)
+
+---
+
+!citation mlive.com @ 2019-07-12
+!url https://www.mlive.com/highschoolsports/2019/07/holland-christian-pitcher-chris-mokma-signs-with-marlins.html
+!file Mokma_Chris.pdf
+!contributor Alex Bonilla <ab@sports-reference.com> @ 2020-03-10
+
+#202005_008 Mokma, Chris
+highschool Holland Christian HS @ US/MI/Holland
+describe 2019; @P TR H77
+drafted 2019; join=Miami (National)
+
+---
+
+!citation William J. Weiss questionnaire @ 1957-07-29
+!file Barbee_James.jpg
+!contributor Alex Bonilla <ab@sports-reference.com> @ 2020-03-05
+
+#202005_009 Barbee, James Larry
+describe 1957; @P BR TR H74 W203
+birth 1939-06-08 @ US/NC/Durham
+highschool Hanes HS @ US/NC/Winston-Salem
+
+---
+
+!citation The Sporting News @ 1973-11-03; page 27
+!file Wilson_Icehouse.png
+!contributor Alex Bonilla <ab@sports-reference.com> @ 2020-03-05
+
+#202005_010 Wilson, George P.
+death 1973-10-13 @ US/CA/Moraga
+describe 1934; @OF
+player 1934 Detroit (American League)
+player 1934 Sioux City (Western League)
+player 1934 Duluth (Northern League)
+college Saint Mary's College of California
+
+---
+
+!citation Hickory Daily Record @ 2009-05-04
+!url https://www.hickoryrecord.com/news/dedication-puts-flash-in-spotlight/article_5811df82-35c6-549f-9f92-d9fd4c32a55f.html
+!file Arndt_Leonard.pdf
+!contributor Alex Bonilla <ab@sports-reference.com> @ 2020-03-05
+
+#202005_011 Arndt, Leonard
+highschool Claremont HS @ US/NC/Hickory
+college Catawba
+college Lenoir-Rhyne
+player 1948 DeLand (Florida State)
+
+---
+
+!citation William J. Weiss questionnaire @ 1956-04-21
+!file Lee_Eugene.jpg
+!contributor Alex Bonilla <ab@sports-reference.com> @ 2020-02-27
+
+#202005_012 Lee, Eugene Roger
+birth 1933-12-12 @ US/MN/St. Paul
+describe 1956; @P BR TR H77 W210
+college University of St. Thomas @ US/MN/St. Paul
+player 1952 Sheboygan (Wisconsin State League)
+player 1955 Shawnee (Sooner State League)
+
+---
+
+!citation William J. Weiss questionnaire @ 1960-08-22
+!file Mutert_Carl.jpg
+!contributor Alex Bonilla <ab@sports-reference.com> @ 2020-02-27
+
+#202005_013 Mutert, Carl
+birth 1941-01-01 @ US/IL/Chicago
+describe 1960; @C BR TR H72 W185
+highschool Lake View HS @ US/IL/Chicago
+college Rollins College
+
+---
+
+!citation Corvallis Gazette-Times @ 1966-04-14; page 7
+!url https://www.newspapers.com/clip/45350316/jon-baker-sunset/
+!file Baker_Jon.pdf
+!contributor Alex Bonilla <ab@sports-reference.com> @ 2020-02-26
+
+#202005_014 Baker, Jon
+highschool Sunset HS @ US/OR/Portland
+college Columbia Basin College
+drafted 1966-01; join=St. Louis (National)
+
+---
+
+!citation The Globe and Mail @ 1981-01-27; page 47
+!file Montana_Ricky.pdf
+!contributor Alex Bonilla <ab@sports-reference.com> @ 2020-02-26
+
+#202005_015 Montana, Ricky
+alias Fagnani, Ricky; type=birth
+describe 1981; @P TL
+drafted 1981-01; join=Toronto (American)
+college Westchester Community College
+
