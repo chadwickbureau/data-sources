@@ -1032,3 +1032,15 @@ birth 1894-12-08 @ US/LA
 death 1954-08-05 @ US/LA
 military US Army @ World War I
 burial Franklin Cemetery @ US/LA/Franklin
+
+---
+
+!citation findagrave.com @ 2020-05-28
+!url https://www.findagrave.com/memorial/98007826/russell-alfred-awkard
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-28
+ 
+#0085 Awkard, Russell Alfred, Sr.
+sameas findagrave:98007826
+birth 1917-10-07 @ US/MD/Howard County
+death 2002-04-01 @ US/KY/Louisville
+burial Gate of Heaven Cemetery @ US/MD/Silver Spring
