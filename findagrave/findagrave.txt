@@ -1044,3 +1044,147 @@ sameas findagrave:98007826
 birth 1917-10-07 @ US/MD/Howard County
 death 2002-04-01 @ US/KY/Louisville
 burial Gate of Heaven Cemetery @ US/MD/Silver Spring
+
+---
+
+!citation findagrave.com @ 2020-05-31
+!url https://www.findagrave.com/memorial/197225515/james-f-mcgeehan
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-31
+ 
+#0086 McGeehan, James F.
+sameas findagrave:197225515
+birth 1877-06-21 @ US/PA/Lansford
+death 1951-10-02 @ US/PA/Jim Thorpe
+burial Sacred Heart Cemetery @ US/PA/Nesquehoning
+
+---
+
+!citation findagrave.com @ 2020-05-31
+!url https://www.findagrave.com/memorial/205342514/george-william-andreas
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-31
+ 
+#0087 Andreas, George William [Red]
+sameas findagrave:205342514
+birth 1879-08-23 @ US/OH/Portsmouth
+death 1959-02-18 @ US/IA/Sioux City
+burial Calvary Cemetery @ US/IA/Sioux City
+
+---
+
+!citation findagrave.com @ 2020-05-31
+!url https://www.findagrave.com/memorial/114726212/basil-workman
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-31
+ 
+#0088 Workman, Basil
+sameas findagrave:114726212
+birth 1897-12-17
+death 1960-04-20
+burial Boone Memorial Park @ US/WV/Madison
+
+---
+
+!citation findagrave.com @ 2020-05-31
+!url https://www.findagrave.com/memorial/8067484
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-31
+ 
+#0089 Jennings, William Morley
+sameas findagrave:8067484
+birth 1890-01-23 @ US/MI/Holland
+death 1985-05-13 @ US/TX/Lubbock
+burial City of Lubbock Cemetery @ US/TX/Lubbock
+
+---
+
+!citation findagrave.com @ 2020-05-31
+!url https://www.findagrave.com/memorial/148590555/stephen-p_-regan
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-05-31
+ 
+#0090 Regan, Stephen P.
+sameas findagrave:148590555
+birth 1890-12-26
+death 1942-08-22
+burial Sacred Heart Cemetery @ US/NY/Wellsville
+
+---
+
+!citation findagrave.com @ 2020-06-01
+!url https://www.findagrave.com/memorial/73500111
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-01
+ 
+#0091 Barton, Larry, Sr.
+sameas findagrave:73500111
+birth 1912-11-21 @ US/CO/Pueblo
+death 1992-03-05
+highschool Freemont HS @ US/CA/Los Angeles
+burial Maple Park Cemetery @ US/MO/Springfield
+
+---
+
+!citation findagrave.com @ 2020-06-01
+!url https://www.findagrave.com/memorial/115244563
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-01
+ 
+#0092 Curlee, William A., Sr. [Bill]
+sameas findagrave:115244563
+birth 1916-10-08 @ US/AL/Piper
+death 1994-06-07 @ US/VA/Martinsville
+military US Navy @ World War II
+burial Roselawn Burial Park @ US/VA/Martinsville
+
+---
+
+!citation findagrave.com @ 2020-06-01
+!url https://www.findagrave.com/memorial/74007004
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-01
+ 
+#0093 Fleming, George Washington, Jr. [Pete]
+sameas findagrave:74007004
+birth 1910-08-24
+death 1983-08-16
+burial Pine Crest Cemetery @ US/AL/Jackson
+
+---
+
+!citation findagrave.com @ 2020-06-01
+!url https://www.findagrave.com/memorial/39495047
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-01
+ 
+#0094 Hader, George, Jr. [Pete]
+sameas findagrave:39495047
+birth 1917-03-02 @ US/OH/Groesbeck
+death 1973-12-16 @ US/OH/Cincinnati
+military US Navy @ World War II
+burial Oak Hill Cemetery @ US/OH/Glendale
+
+---
+
+!citation findagrave.com @ 2020-06-01
+!url https://www.findagrave.com/memorial/82384151
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-01
+ 
+#0095 Horn, Vernon Thomas
+sameas findagrave:82384151
+birth 1917-01-31 @ US/KS/Jefferson County
+death 2005-03-15 @ US/FL/Pensacola
+burial Pensacola Memorial Gardens @ US/FL/Pensacola
+
+---
+
+!citation findagrave.com @ 2020-06-01
+!url https://www.findagrave.com/memorial/47980857
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-01
+ 
+#0096 Lowery, Milton James
+sameas findagrave:47980857
+birth 1914-11-04 @ US/MO
+death 1979-03-29
+burial Calvary Cemetery and Mausoleum @ US/MO/St. Louis
+
+
+
+ 
+ 
+
+
+
+
