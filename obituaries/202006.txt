@@ -281,4 +281,352 @@ death 2020-05-30 @ US/AL/Auburn
 highschool Baylor School @ US/TN/Chattanooga
 burial Memorial Park Cemetery @ US/AL/Auburn
 
+---
 
+!citation Witty's Funeral Home @ 2020-06-02
+!url https://www.wittyfuneralhome.com/obituary/WilliamJBill-Rogers
+!file Rogers_Bill.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-02
+
+#202006_024 Rogers, William J. [Bill]
+birth 1944-12-11 @ US/ME/York
+death 2020-05-26 @ US/VT/Bennington
+highschool Portsmouth HS @ US/NH/Portsmouth
+military US Coast Guard
+burial South Cemetery @ US/MA/Orange
+
+---
+
+!citation R T Foard Funeral Home @ 2020-06-02
+!url http://rtfoard.tributes.com/obituary/read/James-Otis-Monger-Jim--104774954
+!file Monger_Jim.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-02
+
+#202006_025 Monger, James Otis [Jim]
+birth 1931-04-05 @ US/MD/Elkton
+death 2017-05-11 @ US/MD/Port Deposit
+highschool Rising Sun HS @ US/MD/Rising Sun
+military US Army @ Korean War
+burial Brookview Cemetery @ US/MD/Rising Sun
+
+---
+
+!citation Witzler-Shank Funeral Home @ 2020-06-02
+!url https://www.witzlershankfh.com/obituaries/Frederick-A-Sloyer?obId=12578681#/celebrationWall
+!file Sloyer_Fred.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-02
+
+#202006_026 Sloyer, Frederick A. [Fred]
+birth 1948-07-18 @ US/OH/Galion
+death 2017-05-09 @ US/OH/Toledo
+highschool Lake HS @ US/OH/Millbury
+military US Air Force @ Vietnam War
+burial Restlawn Memorial Park @ US/OH/Perrysburg
+
+---
+
+!citation Herald-News @ 2017-05-07
+!url https://www.legacy.com/obituaries/theherald-news/obituary.aspx?n=Edward-Stephen-Rutkowski&pid=185317309
+!file Rutkowski_Ed.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-02
+
+#202006_027 Rutkowski, Edward Stephen [Ed]
+describe ; TR
+death 2017-05-04
+highschool Joliet Township HS @ US/IL/Joliet
+military US Navy @ Korean War
+burial Abraham Lincoln National Cemetery @ US/IL/Elwood
+
+---
+
+!citation Forest Hill Funeral Home @ 2020-06-02
+!url https://www.foresthillfh.com/obituary/john-hunter-jr
+!file Hunter_John.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-02
+
+#202006_028 Hunter, John Braden, Jr.
+birth 1936-01-07 @ US/TN/Memphis
+death 2020-05-27 @ US/TN/Memphis
+highschool South Side HS @ US/TN/Memphis
+
+---
+
+!citation Hansen Mortuaries @ 2020-06-03
+!url https://www.hansenmortuary.com/obituary/457902/William-Hatcher/
+!file Hatcher_William.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-03
+
+#202006_029 Hatcher, William F.
+birth 1935-09-01 @ US/AZ/Tucson
+death 2020-05-30 
+highschool West HS @ US/AZ/Phoenix
+college Phoenix College
+
+---
+
+!citation Reeves Funeral Home @ 2020-06-03
+!url https://www.dignitymemorial.com/obituaries/hope-mills-nc/francis-estadt-7391956
+!file Estadt_Fran.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-03
+
+#202006_030 Estadt, Francis Harry, Sr. [Fran]
+birth 1924-08-19 @ US/NJ/Cedarville
+death 2017-05-01 @ US/NC/Hope Mills
+military US @ World War II
+burial Lafayette Memorial Park @ US/NC/Fayetteville
+
+---
+
+!citation Moss Funeral Home @ 2020-06-03
+!url http://mossfuneralhome.com/obituaries/david-e-neff/
+!file Neff_Dave.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-03
+
+#202006_031 Neff, David E. [Dave]
+birth 1931-06-12 @ US/IL/Germantown
+death 2017-05-01 @ US/MO/Creve Coeur
+military US Navy @ Korean War
+burial St. Boniface Cemetery @ US/IL/Germantown
+
+---
+
+!citation Fentress Mortuary @ 2020-06-04
+!url https://www.dignitymemorial.com/obituaries/fort-smith-ar/richard-delong-9207068
+!file DeLong_Dick.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-04
+
+#202006_032 DeLong, Richard Sidney [Dick]
+birth 1933-10-21 @ US/PA/Hamburg
+death 2020-06-03 @ US/AR/Fort Smith
+highschool Hamburg HS @ US/PA/Hamburg
+military US Army
+burial Fort Smith National Cemetery @ US/AR/Fort Smith
+
+---
+
+!citation Shreveport Times @ 2020-06-04
+!url https://www.legacy.com/obituaries/shreveporttimes/obituary.aspx?n=david-baldwin-clyde&pid=196294070&fhid=5721
+!file Baldwin_Clyde.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-04
+
+#202006_033 Baldwin, David Clyde, Jr. [Clyde]
+birth 1928-07-21 @ US/LA/Monroe
+death 2020-05-25 @ US/TX/Richardson
+highschool Byrd HS @ US/LA/Shreveport
+college Louisiana State University
+burial Forest Park Cemetery @ US/LA/Shreveport
+
+---
+
+!citation Affinty Funeral Service @ 2020-06-04
+!url https://affinityfuneralservice.com/obituaries/henry-mason/
+!file Mason_Henry.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-04
+
+#202006_034 Mason, Henry "Pistol"
+birth 1931-06-19 @ US/MO/Marshall
+death 2020-05-29 
+
+---
+
+!citation McDonald Funeral Homes @ 2020-06-04
+!url http://hosting-6792.tributes.com/obituary/show/Eugene-N.-Ruggiero-104739187
+!file Ruggiero_Eugene.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-04
+
+#202006_035 Ruggiero, Eugene N. 
+birth 1929-04-05 @ US/MA/Boston
+death 2017-05-01 @ US/MA/Melrose
+military US Army
+burial Forest Glade Cemetery @ US/MA/Wakefield
+
+---
+
+!citation Daily Sentinel @ 2017-04-26
+!url https://www.legacy.com/obituaries/gjsentinel/obituary.aspx?n=Richard-Reimer&pid=185208814
+!file Reimer_Dick.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-04
+
+#202006_036 Reimer, Richard E. [Dick]
+birth 1932-09-22 @ US/MO/St. Louis
+death 2017-04-22
+military US Air Force
+
+---
+
+!citation Halley-Olsen-Murphy Funeral Home@ 2020-06-04
+!url https://www.halleyolsen.com/memorials/Burckle-Arthur/2907864/obituary.php
+!file Burckle_John.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-04
+
+#202006_037 Burckle, Arthur John [John]
+birth 1927-12-02 @ US/IL/Waukegan
+death 2017-04-19 @ US/CA/Lancaster
+military US @ Korean War
+burial Joshua Memorial Park @ US/CA/Lancaster
+
+---
+
+!citation Heritage Gardens Funeral Home @ 2020-06-05
+!url https://www.heritagegardensfuneralhome.com/obituary/Robert-Jingling
+!file Jingling_Bob.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-05
+
+#202006_038 Jingling, Robert G. [Bob]
+birth 1933-06-16 @ US/IL/Chicago
+death 2020-05-29
+college University of Wyoming
+military US Air Force
+burial Heritage Gardens @ US/FL/Niceville
+
+---
+
+!citation Wilmington Star-News @ 2017-04-23
+!url https://www.legacy.com/obituaries/starnewsonline/obituary.aspx?n=Edward-Marecek-Ed&pid=185180308
+!file Marecek_ED.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-05
+
+#202006_039 Marecek, Edward [Ed]
+birth 1929-09-13 @ US/MA/Northampton
+death 2017-03-11 @ US/NC/Wilmington
+military US Army @ Korean War
+
+---
+
+!citation Woodlawn Funeral Home  @ 2020-06-05
+!url https://www.woodlawnri.com/obituary/Vincent-Graziano
+!file Graziano_Vincent.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-05
+
+#202006_040 Graziano, Vincent W.
+birth @ US/RI/Providence
+death 2017-04-20
+highschool La Salle Academy @ US/RI/Providence
+military US Army
+burial St. Ann Cemetery @ US/RI/Cranston
+
+---
+
+!citation Shook's Cedar Grove Funeral Home @ 2020-06-05
+!url https://shookscedargrove.com/book-of-memories/2908048/Werner-John/obituary.php
+!file Werner_John.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-05
+
+#202006_041 Werner, John E.
+death 2017-04-20
+military US Army
+burial Glendale Cemetery @ US/NJ/Bloomfield
+
+---
+
+!citation Lowell Sun @ 2017-04-16
+!url https://www.legacy.com/obituaries/lowellsun/obituary.aspx?n=Edward-F-Slattery-Bud&pid=185107531
+!file Slattery_Bud.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-05
+
+#202006_042 Slattery, Edward F. [Bud]
+birth 1937-04-10 @ US/MA/Lowell
+death 2017-04-13 @ US/NH/Hampton
+highschool Lowell HS @ US/MA/Lowell
+college Providence College
+burial St. Patrick Cemetery @ US/MA/Lowell
+
+---
+
+!citation The Tennessean @ 1978-11-29
+!file Thompson_Averett.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-05
+
+#202006_043 Thompson, James Edgar Averett
+death 1978-11-28 @ US/TN/Clarksville
+military US Army @ World War II
+burial Greenwood Cemetery @ US/TN/Clarksville
+
+---
+
+!citation Haky Funeral Home @ 2020-06-06
+!url https://www.hakyfuneralhome.com/obituary/lawrence-donald-bobby-locke
+!file Locke_Bobby.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-06
+
+#202006_044 Locke, Lawrence Donald [Bobby]
+birth 1934-03-03 @ US/PA/Rowes Run
+death 2020-06-04
+military US Army
+burial Sylvan Heights Cemetery @ US/PA/Oliver
+
+---
+
+!citation Tidd Family Funeral Home @ 2020-06-06
+!url https://www.tiddfuneralservice.com/obituary/4190003
+!file McCreary_Bud.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-06
+
+#202006_045 McCreary, Arthur C. [Bud]
+birth 1935-09-15 @ US/OH/Youngstown
+death 2017-04-06 @ US/OH/Boardman
+highschool Boardman HS @ US/OH/Boardman
+
+---
+
+!citation J&J Spratt Funeral Home @ 2020-06-06
+!url https://www.jjsprattfh.com/notices/Rudolph-Smolar
+!file Smolar_Rudy.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-06
+
+#202006_046 Smolar, Rudolph W. [Rudy]
+birth 1929-05-26 @ US/PA/New Brighton
+death 2017-03-31 @ US/PA/Beaver Falls
+highschool New Brighton HS @ US/PA/New Brighton
+military US Air Force
+burial St. Joseph Catholic Cemetery @ US/PA/New Brighton
+
+---
+
+!citation Becker Ritter Funeral Home @ 2020-06-06
+!url https://www.beckerritter.com/tributes/John-Richmond
+!file Richmond_John.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-06
+
+#202006_047 Richmond, John W.
+birth 1926-04-29
+death 2017-03-13
+military US Army @ World War II
+
+---
+
+!citation Lowell Sun @ 1975-12-27
+!file Archinski_Tony.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-06
+
+#202006_048 Archinski, Anthony L. [Tony]
+birth @ US/MA/Westford
+death 1975-12-25 @ US/MA/Lowell
+highschool Lowell HS @ US/MA/Lowell
+military US Army @ World War II
+
+---
+
+!citation Tampa Bay Times @ 2020-06-07
+!url https://www.legacy.com/obituaries/tampabaytimes/obituary.aspx?n=fredrick-hasselman&pid=196310340
+!file Hasselman_Fred.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-07
+
+#202006_049 Hasselman, Fredrick Lee [Fred]
+birth @ US/IL/Chicago
+death 2020-05-25
+highschool New Trier HS @ US/IL/Winnetka
+military US Army @ Korean War
+
+---
+
+!citation San Diego Union-Tribune @ 2020-06-07
+!url https://www.legacy.com/obituaries/sandiegouniontribune/obituary.aspx?n=edward-andrew-serrano&pid=196309157
+!file Serrano_Ed.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-07
+
+#202006_050 Serrano, Edward Andrew [Ed]
+birth 1931-12-08 @ US/CA/San Diego
+death 2020-05-30
+highschool Point Loma HS @ US/CA/San Diego
+military US Army

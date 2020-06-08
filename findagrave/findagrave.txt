@@ -1180,6 +1180,86 @@ birth 1914-11-04 @ US/MO
 death 1979-03-29
 burial Calvary Cemetery and Mausoleum @ US/MO/St. Louis
 
+---
+
+!citation findagrave.com @ 2020-06-02
+!url https://www.findagrave.com/memorial/176630393
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-02
+ 
+#0097 Sherrill, Lee Woodrow, Sr.
+sameas findagrave:176630393
+birth 1914-09-10 @ US/NC/Statesville
+death 1992-02-02 @ US/FL/Charlotte County
+college High Point University
+military US Army @ World War II
+
+---
+
+!citation findagrave.com @ 2020-06-02
+!url https://www.findagrave.com/memorial/46825009
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-02
+ 
+#0098 Sturdy, Maurice C. [Jack]
+sameas findagrave:46825009
+birth 1913-01-31
+death 1999-12-01
+burial Sturdy Cemetery @ US/MO/Crestwood
+
+---
+
+!citation findagrave.com @ 2020-06-05
+!url https://www.findagrave.com/memorial/47114596
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-05
+ 
+#0099 Tichacek, Richard F., Jr.
+sameas findagrave:47114596
+birth 1917-08-30
+death 1971-12-30
+military US Army
+burial Calvary Cemetery and Mausoleum @ US/MO/St. Louis
+
+---
+
+!citation findagrave.com @ 2020-06-05
+!url https://www.findagrave.com/memorial/7655273
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-05
+ 
+#0100 Thompson, Averett
+sameas findagrave:7655273
+birth 1912-01-14 @ US/TN
+death 1978-11-28 @ US/TN/Montgomery County
+military US Army @ World War II
+burial Greenwood Cemetery @ US/TN/Clarksville
+
+---
+
+!citation findagrave.com @ 2020-06-06
+!url https://www.findagrave.com/memorial/17180505
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-06
+ 
+#0101 Archinski, Anthony L.
+sameas findagrave:17180505
+birth 1915-11-07
+death 1975-12
+burial St. Mary Cemetery @ US/MA/Tewksbury
+
+---
+
+!citation findagrave.com @ 2020-06-06
+!url https://www.findagrave.com/memorial/157987677
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-06
+ 
+#0102 Blackburn, Wayne Tennyson
+sameas findagrave:157987677
+birth 1914-07-10 @ US/OH/Mount Joy
+death 2000-02-16 @ US/OH/Portsmouth
+military US Army @ World War II
+burial Greenlawn Cemetery @ US/OH/Portsmouth
+
+
+
+
+
 
 
  
