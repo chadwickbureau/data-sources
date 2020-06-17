@@ -1256,6 +1256,271 @@ death 2000-02-16 @ US/OH/Portsmouth
 military US Army @ World War II
 burial Greenlawn Cemetery @ US/OH/Portsmouth
 
+---
+
+!citation findagrave.com @ 2020-06-08
+!url https://www.findagrave.com/memorial/35393126
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-08
+ 
+#0103 French, Donald Davis [Don]
+sameas findagrave:35393126
+birth 1911-08-31 @ US/MI/Mount Pleasant
+death 1991-11-19 @ US/MI/Grand Rapids
+military US @ World War II
+burial Portland Cemetery @ US/MI/Portland
+
+---
+
+!citation findagrave.com @ 2020-06-08
+!url https://www.findagrave.com/memorial/39348141
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-08
+ 
+#0104 Harrington, Roland Vann
+sameas findagrave:39348141
+birth 1917-11-02
+death 2009-04-24
+military US Army @ World War II
+burial Woodlawn Cemetery @ US/TX/Houston
+
+---
+
+!citation findagrave.com @ 2020-06-08
+!url https://www.findagrave.com/memorial/30437341
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-08
+ 
+#0105 Hunt, Allen Asa
+sameas findagrave:30437341
+birth 1911-10-17 @ US/MO
+death 1995-08-16 @ US/MO
+burial Ozarks Memorial Park @ US/MO/Branson
+
+---
+
+!citation findagrave.com @ 2020-06-08
+!url https://www.findagrave.com/memorial/180613886/jesse-f_-newman
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-08
+ 
+#0106 Newman, Jesse F.
+sameas findagrave:180613886
+birth 1915-01-01
+death 1988-10-29
+military US Army @ World War II
+burial Gran View Memorial Park @ US/TX/Pasadena
+
+---
+
+!citation findagrave.com @ 2020-06-08
+!url https://www.findagrave.com/memorial/13591900
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-08
+ 
+#0107 Wolfe, Harry E.
+sameas findagrave:13591900
+birth 1917-04-27 @ US/MI
+death 1985-06-25
+burial Grand Lawn Cemetery @ US/MI/Detroit
+
+---
+
+!citation findagrave.com @ 2020-06-10
+!url https://www.findagrave.com/memorial/82210558
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-10
+ 
+#0108 Long, George Webber [Webber] “GW”
+sameas findagrave:82210558
+birth 1888-07-08 @ US/AR/Boone County
+death 1961-06-20 @ US/CA/Los Angeles
+burial Fort Rosecrans National Cemetery @ US/CA/San Diego
+
+---
+
+!citation findagrave.com @ 2020-06-10
+!url https://www.findagrave.com/memorial/7848667
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-10
+ 
+#0109 Burge, Harry
+sameas findagrave:7848667
+birth 1889-07-26
+death 1937-12-22
+burial Oak Hill Memorial Park @ US/OK/McAlester
+
+---
+
+!citation findagrave.com @ 2020-06-10
+!url https://www.findagrave.com/memorial/182620124
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-10
+ 
+#0110 Gill, William
+sameas findagrave:182620124
+birth 1918-12-11 @ US/TN
+death 1986-05-01 @ US/CA/Los Angeles County
+burial Roosevelt Memorial Park @ US/CA/Gardena
+
+---
+
+!citation findagrave.com @ 2020-06-10
+!url https://www.findagrave.com/memorial/96329814
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-10
+ 
+#0111 Shestak, George W.
+sameas findagrave:96329814
+birth 1914-10-03 @ US/PA/Fayette County
+death 1952-07-23 @ US/PA/O’Hara Township
+military US Army @ World War II
+burial New St. Joseph’s Roman Catholic Cemetery @ US/PA/Connellsville
+
+---
+
+!citation findagrave.com @ 2020-06-10
+!url https://www.findagrave.com/memorial/96329814
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-10
+ 
+#0112 Haley, John R.
+sameas findagrave:96329814
+birth 1914-10-03 @ US/PA/Fayette County
+death 1952-07-23 @ US/PA/O’Hara Township
+military US Army @ World War II
+burial New St. Joseph’s Roman Catholic Cemetery @ US/PA/Connellsville
+
+---
+
+!citation findagrave.com @ 2020-06-10
+!url https://www.findagrave.com/memorial/85911972
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-10
+ 
+#0113 Matheson, Willard F.
+sameas findagrave:85911972
+birth 1914-07-09 @ US/CA/Alameda
+death 1985-04-05 @ US/CA/Valley Village
+burial Forest Lawn Memorial Park (Hollywood Hills) @ US/CA/Los Angeles
+
+---
+
+!citation findagrave.com @ 2020-06-10
+!url https://www.findagrave.com/memorial/90908564
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-10
+ 
+#0114 Nicholson, James Orr
+sameas findagrave:90908564
+birth 1917-07-17
+death 1998-12-03
+burial Wenatchee City Cemetery @ US/WA/Wenatchee
+
+---
+
+!citation findagrave.com @ 2020-06-10
+!url https://www.findagrave.com/memorial/122115981
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-10
+ 
+#0115 Caldwell, Herman, Jr. [Blackie]
+sameas findagrave:122115981
+birth 1915-12-25
+death 1981-05-18
+military US Air Force
+burial Rose Hill Cemetery @ US/AL/Tallassee
+
+---
+
+!citation findagrave.com @ 2020-06-12
+!url https://www.findagrave.com/memorial/94272103
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-12
+ 
+#0116 Dunlap, Joseph Paul
+sameas findagrave:94272103
+birth 1910-04-08 @ US/NC/Chatham County
+death 1982-01-04 @ US/VA/Hampton
+burial Loves Creek Baptist Church Cemetery @ US/NC/Siler City
+
+---
+
+!citation findagrave.com @ 2020-06-12
+!url https://www.findagrave.com/memorial/115289761
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-12
+ 
+#0117 Herring, William A.
+sameas findagrave:115289761
+birth 1911-09-24
+death 1996-09-29
+burial Greenlawn Memorial Park @ US/SC/Columbia
+
+---
+
+!citation findagrave.com @ 2020-06-14
+!url https://www.findagrave.com/memorial/87759570
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-14
+ 
+#0118 Barnacle, William James
+sameas findagrave:87759570
+birth 1918-09-09
+death 2009-12-25 @ US/MN/Longville
+military US Navy @ World War II
+burial Riverside Cemetery @ US/MN/Longville
+
+---
+
+!citation findagrave.com @ 2020-06-14
+!url https://www.findagrave.com/memorial/69250056
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-14
+ 
+#0119 Sowada, Ernest Joseph
+sameas findagrave:69250056
+birth 1914-02-24 @ US/MN/Holdingford
+death 2011-04-29 @ US/MN/St. Paul
+college St. John's University @ US/MN/St. Joseph
+military US Navy @ World War II
+burial Fort Snelling National Cemetery @ US/MN/Minneapolis
+
+---
+
+!citation findagrave.com @ 2020-06-16
+!url https://www.findagrave.com/memorial/189198268
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-16
+ 
+#0120 Fogg, Floyd Collins
+sameas findagrave:189198268
+birth 1926-05-24 @ US/LA/Lacombe
+death 2018-04-23 @ US/LA/Pearl River
+highschool Slidell HS @ US/LA/Slidell
+military US Marines @ World War II
+burial Forest Lawn Cemetery @ US/LA/Slidell
+
+---
+
+!citation findagrave.com @ 2020-06-16
+!url https://www.findagrave.com/memorial/138706479/arthur-mcconnell
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-16
+ 
+#0121 McConnell, Arthur [A. J.]
+sameas findagrave:138706479
+birth 1927-08-30
+death 2005-12-28
+burial St. Patrick Cemetery #1 @ US/LA/New Orleans
+
+---
+
+!citation findagrave.com @ 2020-06-16
+!url https://www.findagrave.com/memorial/154056663
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-16
+ 
+#0122 Mordarski, Edward Leonard
+sameas findagrave:154056663
+birth 1925-06-02
+death 1999-07-19 @ US/MI/Dearborn
+burial St. Hedwig Cemetery @ US/MI/Dearborn Heights
+
+---
+
+!citation findagrave.com @ 2020-06-16
+!url https://www.findagrave.com/memorial/58906736
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-16
+ 
+#0123 Neville, Edward Joseph [Eddie]
+sameas findagrave:58906736
+birth 1922-09-25 @ US/MD/Baltimore
+death 1989-01-23 @ US/NC/Durham
+burial Maplewood Cemetery @ US/NC/Durham
+
+
+
 
 
 
