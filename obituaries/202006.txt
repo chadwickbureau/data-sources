@@ -1196,3 +1196,232 @@ burial Flint Ridge Baptist Church Cemetery @ US/SC/Heath Springs
 birth 1928-01-13
 death 2016-07-12
 
+---
+
+!citation San Francisco Examiner @ 2020-06-15
+!url https://www.legacy.com/obituaries/sfexaminer/obituary.aspx?n=claudell-washintgon&pid=196350487
+!file Washington_Claudell.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-17
+
+#202006_096 Washington, Claudell
+death 2020-06-10
+highschool Berkeley HS @ US/CA/Berkeley
+
+---
+
+!citation Shelly Funeral Home @ 2020-06-17
+!url https://memorials.shellyfuneralhomes.com/vincent-huber/2810458/obituary.php
+!file Huber_Lou.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-17
+
+#202006_097 Huber, Vincent L., Jr. [Lou]
+birth 1931-07-13 @ US/PA/Jim Thorpe
+death 2016-12-30 @ US/PA/Warrington
+military US Navy
+burial St. John Neumann Cemetery @ US/PA/Chalfont
+
+---
+
+!citation Swaim Funeral Chapels @ 2020-06-17
+!url https://www.swaimfuneralhome.com/obituary/4059313
+!file Chappell_Louis.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-17
+
+#202006_098 Chappell, Louis Ivan
+birth 1961-04-06 @ US/KS/Plevna
+death 2017-01-03 @ US/KS/Dodge City
+highschool Plains HS @ US/KS/Plains
+military US Army @ World War II
+burial Plains Cemetery @ US/KS/Plains
+
+---
+
+!citation Hot Springs Funeral Home @ 2020-06-17
+!url https://www.hotspringsfh.com/obituaries/Le-Alexander/#!/Obituary
+!file Alexander_Le.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-17
+
+#202006_099 Alexander, Le
+birth 1929-04-21 @ US/LA/Shreveport
+death 2016-12-25
+military US Air Force
+
+---
+
+!citation Mitchell-Hughes Funeral Home @ 2020-06-17
+!url https://hughesfuneralhomes.com/2016/robert-bob-harris-reimer/
+!file Reimer_Bob.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-17
+
+#202006_100 Reimer, Robert Harris [Bob]
+birth 1935-01-20 @ US/MO/St. Louis
+death 2016-12-30 @ US/IL/Marion
+military US Army
+burial Tower Heights Cemetery @ US/IL/West Frankfort
+
+---
+
+!citation San Francisco Examiner @ 1969-11-18
+!file Clifford_Neil.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-17
+
+#202006_101 Clifford, Cornelius [Neil]
+death 1969-11-15 @ US/CA/Oakland
+burial Golden Gate National Cemetery @ US/CA/San Bruno
+
+---
+
+!citation Squeezeplay.mx @ 2020-06-15
+!url http://squeezeplay.mx/2020/06/15/muere-el-exlanzador-jorge-rubio/
+!file Rubio_Jorge.pdf 
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-17
+
+#202006_102 Rubio, Jorge "El Payo"
+death 2020-06-14
+
+---
+
+!citation Hulke Family Funeral Home @ 2020-06-18
+!url https://www.hulkefamilyfh.com/obituaries/1335-Kronenberg-Harold-Diz-J
+!file Kronenberg_Diz.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-18
+
+#202006_103 Kronenberg, Harold John James "Diz"
+birth 1924-08-19 @ US/WI/Eau Claire
+death 2020-06-13 @ US/WI/Eau Claire
+highschool Eau Claire HS @ US/WI/Eau Claire
+college University of Wisconsin
+military US Army @ World War II
+burial Rest Haven Cemetery @ US/WI/Washington
+
+---
+
+!citation Fears Family Funeral Home @ 2020-06-18
+!url https://www.fearsfamilyfuneralhome.com/memorials/grover-barham/3969785/obituary.php
+!file Barham_Grover.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-18
+
+#202006_104 Barham, Grover Maddon
+birth 1931-06-15
+death 2016-12-23
+military US Marines @ Korean War
+burial Randolph Memorial Gardens @ US/AR/Pocahontas
+
+---
+
+!citation Kaul Funeral Home @ 2020-06-18
+!url https://www.dignitymemorial.com/obituaries/wilmington-nc/elverton-shands-7229925
+!file Shands_Curly.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-18
+
+#202006_105 Shands, Elverton Anderson "Curly"
+birth 1922-01-09 @ US/NC/Wilmington
+death 2016-12-26
+highschool New Hanover HS @ US/NC/Wilmington
+military US Navy @ World War II
+military US Navy @ Korean War
+
+---
+
+!citation Legacy.com @ 2020-06-18
+!url https://www.legacy.com/obituaries/name/edmond-huntzinger-obituary?pid=183119540
+!file Huntzinger_Edmond.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-18
+
+#202006_106 Huntzinger, Edmond M.
+death 2016-12-16 @ US/PA/Reading
+highschool Hegins Township HS @ US/PA/Valley View
+military US Army @ World War II
+
+---
+
+!citation Seaside Funeral Home @ 2020-06-19
+!url https://www.seasidefuneral.com/tributes/Willis-Carruth
+!file Carruth_Bill.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-19
+
+#202006_107 Carruth, Willis Frank [Bill]
+alias Moore, Willis Monroe [Bill]; type=birth
+birth 1922-09-30 @ US/TX/Bosqueville
+death 2020-06-14 @ US/TX/Allen
+military US Army @ World War II
+burial Seaside Memorial Park @ US/TX/Corpus Christi
+
+---
+
+!citation Ryan Funeral Homes @ 2020-06-19
+!url https://www.ryanfuneralservice.com/obituary/Chalmers-Goodyear
+!file Goodyear_Goody.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-19
+
+#202006_108 Goodyear, Chalmers McKinley "Goody"
+birth 1928-09-06 @ US/PA/Harrisburg
+death 2016-12-07 @ US/WI/Waunakee
+highschool William Penn HS @ US/PA/Harrisburg
+military US Air Force
+burial St. Stephen's Lutheran Cemetery @ US/PA/Mifflintown
+
+---
+
+!citation @ 2020-06-19
+!url https://www.barr-price.com/obituary/Vincent-Piazzola
+!file Piazzola_Vinny.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-19
+
+#202006_109 Piazzola, Vincent Paul [Vinny]
+birth 1939-01-10 @ US/NY/Queens
+death 2016-12-02
+highschool Center Moriches HS @ US/NY/Center Moriches
+military US Air Force @ Vietnam War
+
+---
+
+!citation Main Line Media News @ 2016-12-06
+!url https://www.legacy.com/obituaries/mainlinemedianews/obituary.aspx?n=William-H-Wilson&pid=183000699
+!file Wilson_Willie.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-19
+
+#202006_110 Wilson, William H. [Willie]
+death 2016-12-02 @ US/PA/Newtown Square
+highschool Phillips Exeter Academy @ US/NH/Exeter
+college Amherst College
+
+---
+
+!citation Cutler-O'Neill Funeral Homes @ 2020-06-19
+!url https://www.cutleroneill.com/obituaries/John-L-Mohr?obId=1213919#/obituaryInfo
+!file Mohr_John.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-19
+
+#202006_111 Mohr, John L.
+birth 1953-10-28 @ US/NE/Omaha
+death 2016-11-26 @ US/IA/Council Bluffs
+highschool Omaha South HS @ US/NE/Omaha
+burial Allen Cemetery @ US/IA/Honey Creek
+
+---
+
+!citation Harper-Morris Memorial Chapel @ 2020-06-19
+!url https://www.harpermorrismemorialchapel.com/obituary/brandon-harmon
+!file Harmon_BJ.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-19
+
+#202006_112 Harmon, Brandon Jacob [BJ]
+birth 1994-12-08 @ US/GA/Atlanta
+death 2020-06-13
+highschool Mill Creek HS @ US/GA/Hoschton
+college Valdosta State University
+college College of Central Florida
+college University of West Florida
+burial Holman Cemetery @ US/AL/Titus
+
+---
+
+!citation Chicago Tribune @ 1984-01-04
+!file Madura_Frank.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-17
+ 
+#200606_113 Madura, Frank
+death 1984-01-03 @ US/IL/Chicago Heights
+
+

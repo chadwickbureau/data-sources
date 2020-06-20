@@ -29,10 +29,31 @@ death 1991-02-14
 ---
 
 !citation Calfornia DI
-!contributor Jack Morris <jackmo77@comcast.net> @ 2018-06-12
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-12
  
-#20206_004 Wilburn, Chester Franklin
+#202006_004 Wilburn, Chester Franklin
 sameas ssn:383-01-1200
 birth 1906-09-27 @ US/CA
 death 1982-01-23 @ US/CA/San Diego
+
+---
+
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-17
+ 
+#202006_005 Madura, Frank
+sameas ssn:402-14-6142
+birth 1911-03-01
+death 1984-01
+
+---
+
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-06-18
+ 
+#202006_006 Payton, Armond F.
+sameas ssn:555-10-6548
+birth 1912-07-28
+death 2000-09-17
+
 

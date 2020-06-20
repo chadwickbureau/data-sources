@@ -1519,6 +1519,163 @@ birth 1922-09-25 @ US/MD/Baltimore
 death 1989-01-23 @ US/NC/Durham
 burial Maplewood Cemetery @ US/NC/Durham
 
+---
+
+!citation findagrave.com @ 2020-06-17
+!url https://www.findagrave.com/memorial/140857308/chester-r_-zara
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-17
+ 
+#0124 Zara, Chester R.
+sameas findagrave:140857308
+birth 1925-02-14
+death 2010-06-15
+burial St. Ann's Cemetery @ US/SD/Ramona
+
+---
+
+!citation findagrave.com @ 2020-06-17
+!url https://www.findagrave.com/memorial/22791861
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-17
+ 
+#0125 Beddingfield, Marcus E.
+sameas findagrave:22791861
+birth 1913-05-09 @ US/MS
+death 1972-01-18 @ US/MS/Meridian
+burial Magnolia Cemetery @ US/MS/Meridian
+
+---
+
+!citation findagrave.com @ 2020-06-17
+!url https://www.findagrave.com/memorial/151675333/howard-alwyn-belknap
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-17
+ 
+#0126 Belknap, Howard Alwyn
+sameas findagrave:151675333
+birth 1917
+death 2007
+burial Deepdale Memorial Park @ US/MI/Delta Township
+
+---
+
+!citation findagrave.com @ 2020-06-17
+!url https://www.findagrave.com/memorial/107981344/keith-f-bissonnette
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-17
+ 
+#0127 Bissonnette, Keith F.
+sameas findagrave:107981344
+birth 1920-11-07 @ US/ND/Cass County
+death 1945-03-28 @ MM//Kengtung
+military US Army @ World War II
+burial Calvary Cemetery @ US/MN/St. Paul
+
+---
+
+!citation findagrave.com @ 2020-06-17
+!url https://www.findagrave.com/memorial/3561793
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-17
+ 
+#0128 Clifford, Neil Edward
+sameas findagrave:3561793
+birth 1915-09-20
+death 1969-11-15
+military US Navy @ World War II
+burial Golden Gate National Cemetery @ US/CA/San Bruno
+
+---
+
+!citation findagrave.com @ 2020-06-17
+!url https://www.findagrave.com/memorial/81304671
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-17
+ 
+#0129 Fisher, Albert B.
+sameas findagrave:81304671
+birth 1912-09-03
+death 1976-08-16
+military US Navy @ World War II
+burial Jefferson Barracks National Cemtery @ US/MO/Lemay
+
+---
+
+!citation findagrave.com @ 2020-06-17
+!url https://www.findagrave.com/memorial/76362302
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-17
+ 
+#0130 Hoffman, Grant E.
+sameas findagrave:76362302
+birth 1918-06-11
+death 1996-11-23
+military US Coast Guard @ World War II
+burial Fort Snelling National Cemetery @ US/MN/Minneapolis
+
+---
+
+!citation findagrave.com @ 2020-06-17
+!url https://www.findagrave.com/memorial/29458775
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-17
+ 
+#0131 Jackson, Rufus Malloy, Jr.
+sameas findagrave:29458775
+birth 1915-12-04
+death 1968-04-22
+burial Sunset Memorial Park @ US/SC/Bennettsville
+
+---
+
+!citation findagrave.com @ 2020-06-18
+!url https://www.findagrave.com/memorial/193729131
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-18
+ 
+#0132 Bailey, Harry Ray, Sr.
+sameas findagrave:193729131
+birth 1918-01-27 @ US/MI/McBride
+death 2014-02-15 @ US/NY/Janesville
+college Western Michigan University
+military US @ World War II
+burial Greenlawn Cemetery @ US/NY/Warners
+
+---
+
+!citation findagrave.com @ 2020-06-18
+!url https://www.findagrave.com/memorial/91591576
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-18
+ 
+#0133 Mackie, Vernon R. [Vody]
+sameas findagrave:91591576
+birth 1901-11-15
+death 1980-11-23
+burial Yadkinville Cemetery @ US/NC/Yadkinville
+
+---
+
+!citation findagrave.com @ 2020-06-18
+!url https://www.findagrave.com/memorial/67813336/charles-edmund-wagener
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-18
+ 
+#0134 Wagener, Charles Edmund [Chili]
+sameas findagrave:67813336
+birth 1914-10-30 @ US/TX/Guadalupe County
+death 1973-07-10 @ US/TX/Seguin
+burial San Geronimo Cemetery @ US/TX/Seguin
+
+---
+
+!citation findagrave.com @ 2020-06-18
+!url https://www.findagrave.com/memorial/34448153
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-18
+ 
+#0135 Wirkkala, Lester R.
+sameas findagrave:34448153
+birth 1913-10-09 @ US/MN/Sebeka
+death 1944-09-06 @ FR//Gravelotte
+military US Army @ World War II
+burial Mantyla Cemetery @ US/MN/Sebeka
+
+
+
+
+
+
+
 
 
 
