@@ -1670,9 +1670,67 @@ death 1944-09-06 @ FR//Gravelotte
 military US Army @ World War II
 burial Mantyla Cemetery @ US/MN/Sebeka
 
+---
 
+!citation findagrave.com @ 2020-06-24
+!url https://www.findagrave.com/memorial/172995850/robert-s-johnson
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-24
+ 
+#0136 Johnson, Robert S.
+sameas findagrave:172995850
+birth 1923-07-04
+death 2016-10-22
+military US Marines @ World War II
+burial New Hampshire State Veterans Cemetery @ US/NH/Boscawen
 
+---
 
+!citation findagrave.com @ 2020-06-24
+!url https://www.findagrave.com/memorial/104980740
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-24
+ 
+#0137 Hamilton, Robert Lee
+sameas findagrave:104980740
+birth 1918-04-20 @ US/CA/Los Angeles County
+death 1987-08-24 @ US/CA/Visalia
+burial Exeter District Cemetery @ US/CA/Exeter
+
+---
+
+!citation findagrave.com @ 2020-06-24
+!url https://www.findagrave.com/memorial/7242146
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-24
+ 
+#0138 Johnson, Guy B.
+sameas findagrave:7242146
+birth 1914-07-23
+death 1982-06-11
+military US Army @ World War II
+burial Brownsville Missionary Baptist Church Cemetery @ US/KY/Brownsville
+
+---
+
+!citation findagrave.com @ 2020-06-25
+!url https://www.findagrave.com/memorial/96912234
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-25
+ 
+#0139 McCollum, Fred W.
+sameas findagrave:96912234
+birth 1931
+death 1957
+burial Chapel Hill Memorial Gardens @ US/KS/Kansas City
+
+---
+
+!citation findagrave.com @ 2020-06-26
+!url https://www.findagrave.com/memorial/188545440
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-26
+ 
+#0140 Harnick, William J.
+sameas findagrave:188545440
+birth 1916
+death 1946
+burial Holy Cross Cemetery @ US/NY/Lackawanna
 
 
 

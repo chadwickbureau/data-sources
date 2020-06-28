@@ -56,4 +56,100 @@ sameas ssn:555-10-6548
 birth 1912-07-28
 death 2000-09-17
 
+---
+
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-06-24
+ 
+#202006_007 Lauenstein, Charles
+sameas ssn:217-03-1782
+birth 1916-04-02
+death 1974-06
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-06-24
+ 
+#202006_008 Springer, Earl Victor
+birth 1918-11-19 @ US/MD/Hagerstown
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-06-26
+ 
+#202006_009 Angell, Peter
+alias Angelovich, Peter; type=birth
+birth 1918-07-14 @ US/NY/Hastings-On-Hudson
+
+---
+
+!citation US Dept of Veterans Affairs BIRLS Death File
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-06-26
+ 
+#202006_010 Angelovich, Peter
+sameas ssn:075-09-9351
+birth 1918-07-14
+death 1975-04-06
+
+---
+
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-06-26
+ 
+#202006_011 Carnegie, Ollie
+sameas ssn:171-18-7306
+birth 1899-06-29
+death 1976-10
+
+---
+
+!citation California, Death Index 1940-1997
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-06-26
+ 
+#202006_012 Lee, Quinn O.
+sameas ssn:435-09-2424
+birth 1910-11-16 @ US/AR
+death 1976-04-19 @ US/CA/Los Angeles
+
+---
+
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-06-26
+ 
+#202006_013 Ogiego, Walter
+sameas ssn:306-09-3120
+birth 1914-04-27
+death 1980-08
+
+---
+
+!citation US WWII Draft Cards, Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-06-26
+ 
+#202006_014 Roche, Raymond Joseph
+birth 1912-05-17 @ US/PA/Old Forge
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-06-27
+ 
+#202006_015 Wilson, Edward Leslie
+birth 1911-08-15 @ US/MO/St. Louis
+
+---
+
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2018-06-27
+ 
+#202006_016 Murdock, Wayne Morgan
+sameas ssn:576-10-8632
+birth 1917-07-28 @ US/CA/Monolith
+death 2004-11-16
+
+
+
+
 
