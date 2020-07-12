@@ -1,0 +1,176 @@
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-29
+ 
+#202007_001 Neff, Benjamin
+sameas ssn:510-01-9849
+birth 1911-09-24
+death 1994-09-27
+
+---
+
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-02
+ 
+#202007_002 Bergmann, Russell
+sameas ssn:149-01-1042
+birth 1916-09-20
+death 1993-01-31
+
+---
+
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-02
+ 
+#202007_003 White, Herbert E.
+sameas ssn:097-10-5823
+birth 1917-07-28
+death 2000-08-09
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-07
+ 
+#202007_004 Kaczynski, Walter Edward
+birth 1908-09-29 @ US/NY/Niagara Falls
+ 
+---
+
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-07
+ 
+#202007_005 Templeton, Archie
+sameas ssn:237-16-0458
+birth 1918-05-16
+death 1984-04 
+
+---
+
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-08
+ 
+#202007_006 George, James Lloyd
+sameas ssn:4848-07-8649
+birth 1918-07-18
+death 2003-12-26
+
+---
+
+!citation Florida Death Index, 1877-1998
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-08
+ 
+#202007_007 Harig, Charles Nicholas
+birth 1914-03-07
+death 1984-09-28 @ US/FL/Marion County
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-08
+ 
+#202007_008 Jungman, Maury
+birth 1914-06-05
+
+---
+
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-08
+ 
+#202007_009 Richards, Lloyd V.
+sameas ssn:541-07-4663
+birth 1914-07-04
+death 1988-12-29
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-08
+ 
+#202007_010 Scudder, Daniel William
+birth 1916-12-09 @ US/MI/Detroit
+
+---
+
+!citation US Department of Veterans Affairs BIRLS Death File, 1850-2010
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-08
+ 
+#202007_011 Scudder, Daniel
+birth 1916-12-09
+death 2002-10-07
+military US Army @ World War II
+
+---
+
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-08
+ 
+#202007_012 Harrison, Robert E.
+sameas ssn:552-26-9802
+birth 1922-01-28
+death 2001-03-11
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-08
+ 
+#202007_013 House, Beverly Roy
+birth 1917-04-03 @ US/CA/Venice
+
+---
+
+!citation California, Death Index, 1940-1997
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-08
+ 
+#202007_014 House, Beverly R.
+sameas ssn:465-07-7979
+birth 1917-04-03 @ US/CA
+death 1974-11-27 @ US/CA/Los Angeles
+
+---
+
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-08
+ 
+#202007_015 Monzo, Vincent J., Jr.
+sameas ssn:572-05-3264
+birth 1914-12-14
+death 1973-03
+ 
+---
+ 
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-08
+ 
+#202007_016 Morehouse, Frank Lorenzo
+birth 1912-06-12 @ US/MI/Detroit
+ 
+---
+ 
+!citation California, Death Index, 1940-1997
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-08
+ 
+#202007_017 Morehouse, Frank L.
+sameas ssn:564-03-2858
+birth 1912-06-12 @ US/MI
+death 1981-03-08 @ US/CA/San Diego
+
+---
+
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-08
+ 
+#202007_018 Wolin, Donald
+sameas ssn:548-12-0240
+birth 1920-04-02
+death 1963-03
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-09
+ 
+#202007_019 Spackman, Robert Reeser
+birth 1917-12-18 @ US/PA/Phoenixville
+ 
+ 

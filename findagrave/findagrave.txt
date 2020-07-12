@@ -1732,8 +1732,193 @@ birth 1916
 death 1946
 burial Holy Cross Cemetery @ US/NY/Lackawanna
 
+---
 
+!citation findagrave.com @ 2020-06-28
+!url https://www.findagrave.com/memorial/34835730
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-29
+ 
+#0141 Benintendi, Donald M.
+sameas findagrave:34835730
+birth 1901-07-19
+death 1943-01-06
+burial Granby Memorial Cemetery @ US/MO/Granby
 
+---
+
+!citation findagrave.com @ 2020-06-28
+!url https://www.findagrave.com/memorial/154192159
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-29
+ 
+#0142 Neff, Ben
+sameas findagrave:154192159
+birth 1911
+death 1994
+burial Mechanicsville Cemetery @ US/PA/Buckingham
+
+---
+
+!citation findagrave.com @ 2020-06-28
+!url https://www.findagrave.com/memorial/185610916
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-29
+ 
+#0143 Woods, Samuel N., Jr.
+sameas findagrave:185610916
+birth 1922
+death 2003
+burial West Laurel Hill Cemetery @ US/PA/Bala Cynwyd
+
+---
+
+!citation findagrave.com @ 2020-07-02
+!url https://www.findagrave.com/memorial/188538640
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-02
+ 
+#0144 Bergmann, Russell
+sameas findagrave:188538640
+birth @ US/NJ/Madison
+death 1993-01-31 @ US/NC/Lincolnton
+burial Gaston Memorial Park @ US/NC/Gastonia
+
+---
+
+!citation findagrave.com @ 2020-07-06
+!url https://www.findagrave.com/memorial/22131263
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-07
+ 
+#0145 McLaughlin, William Edward
+sameas findagrave:22131263
+birth 1916-10-19 @ US/PA/St. Marys
+death 1955-03-09 @ QS
+military US Navy @ World War II
+military US Navy @ Korean War
+burial Arlington National Cemetery @ US/VA/Arlington
+
+---
+
+!citation findagrave.com @ 2020-07-07
+!url https://www.findagrave.com/memorial/25143759
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-07
+ 
+#0146 Redmond, Henry Dorman
+sameas findagrave:25143759
+birth 1918-04-06 @ US/NY/Rochester
+death 1968-12-19 @ US/NY/Scottsville
+burial Grove Place Cemetery @ US/NY/Chili Center
+
+---
+
+!citation findagrave.com @ 2020-07-07
+!url https://www.findagrave.com/memorial/199851313
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-07
+ 
+#0147 Riel, Francis J.
+sameas findagrave:199851313
+birth 1914
+death 2007
+burial Evergreen Cemetery @ US/TN/Murfreesboro
+
+---
+
+!citation findagrave.com @ 2020-07-07
+!url https://www.findagrave.com/memorial/82595911
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-07
+ 
+#0148 Seinsoth, William Welty
+sameas findagrave:82595911
+birth 1918-02-05 @ US/UT
+death 1984-02-03 @ US/CA/Los Angeles County
+burial Rose Hills Memorial Park @ US/CA/Whittier
+
+---
+
+!citation findagrave.com @ 2020-07-08
+!url https://www.findagrave.com/memorial/29909774
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-08
+ 
+#0149 George, James L.
+sameas findagrave:29909774
+birth 1918-07-18 @ US/IA/Dubuque
+death 2003-12-26 @ US/IA/Dubuque
+highschool Dubuque HS @ US/IA/Dubuque
+college University of Iowa
+military US Marines @ World War II
+burial Mount Calvary Cemetery @ US/IA/Dubuque
+
+---
+
+!citation findagrave.com @ 2020-07-08
+!url https://www.findagrave.com/memorial/181365348
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-08
+ 
+#0150 Harig, Charles N. [Chuck]
+sameas findagrave:181365348
+birth 1914-03-07 @ US
+death 1984-09-28 @ US
+military US Army @ World War II
+burial Beverly Hills Memorial Park @ US/WV/Morgantown
+
+---
+
+!citation findagrave.com @ 2020-07-08
+!url https://www.findagrave.com/memorial/148361555
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-08
+ 
+#0151 Gay, Frederick Leonard
+sameas findagrave:148361555
+birth 1914-01-14 @ US/GA/Savannah
+death 1989-08-23 @ US/TX/Plano
+military US Navy @ World War II
+burial Plano Mutual Cemetery @ US/TX/Plano
+
+---
+
+!citation findagrave.com @ 2020-07-08
+!url https://www.findagrave.com/memorial/173017355
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-08
+ 
+#0152 Monzo, Vincent J., Jr.
+sameas findagrave:173017355
+birth 1914
+death 1973
+burial Mountain View Cemetery @ US/CA/Oakland
+
+---
+
+!citation findagrave.com @ 2020-07-08
+!url https://www.findagrave.com/memorial/180039529
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-08
+ 
+#0153 Morehouse, Frank L.
+sameas findagrave:180039529
+birth 1912
+death 1981
+burial Greenwood Memorial Park @ US/CA/San Diego
+
+---
+
+!citation findagrave.com @ 2020-07-08
+!url https://www.findagrave.com/memorial/59423290
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-08
+ 
+#0154 Storch, Harry H.
+sameas findagrave:59423290
+birth 1886
+death 1947
+burial North Canton Cemetery @ US/OH/North Canton
+
+---
+
+!citation findagrave.com @ 2020-07-09
+!url https://www.findagrave.com/memorial/167575809
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-09
+ 
+#0155 Allman, John Clarence [Jack]
+sameas findagrave:167575809
+birth 1923-07-27 @ US/WY/Midwest
+death 2016-07-25 @ US/CA/Riverside
+military US Army @ World War II
+burial Riverside National Cemetery @ US/CA/Riverside
 
 
 

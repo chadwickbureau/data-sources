@@ -1,0 +1,532 @@
+!citation Cheatham County Funeral Home @ 2020-06-29
+!url https://www.cheathamcountyfh.com/obituaries/Richard-Smithson-2/#!/Obituary
+!file Smithson_Rich.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-29
+
+#202007_001 Smithson, Richard A. [Rich] "Soap"
+birth 1935-12-30 @ US/NJ/Upper Dearfield Township
+death 2020-06-22 @ US/TN/Nashville
+
+---
+
+!citation Ferguson Funeral Home @ 2020-06-29
+!url https://www.fergusonfhc.com/obituaries/Jack-Sutherland-3/#!/Obituary
+!file Sutherland_Jack.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-29
+
+#202007_002 Sutherland, Jack C.
+birth 1926-01-29 @ US/PA/Speers
+death 2020-06-22
+military US Army @ World War II
+burial Belle Vernon Cemetery @ US/PA/Belle Vernon
+
+---
+
+!citation Valley Breeze @ 2020-06-23
+!url https://www.valleybreeze.com/2020-06-23/north-providence/fossa-was-upstanding-individual#.XvnzTihKiUk
+!file Fossa_Dick.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-29
+
+#202007_003 Fossa, Dick
+death 2020-06-13
+highschool La Salle Academy @ US/RI/Providence
+
+---
+
+!citation Pontarelli-Marino Funeral Home @ 2020-06-29
+!url https://www.dignitymemorial.com/obituaries/providence-ri/richard-fossa-9219752
+!file Fossa_Dick_2.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-29
+
+#202007_004 Fossa, Richard David
+birth 1959-02-02
+death 2020-06-13
+
+---
+
+!citation Church & Chapel Funeral Home @ 2020-06-29
+!url https://www.churchandchapel.com/obituaries/Roland-Rollie-Lee-Sterns?obId=15162722#/obituaryInfo
+!file Sterns_Rollie.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-29
+
+#202007_005 Sterns, Roland Lee [Rollie]
+birth 1933-07-21
+death 2020-06-22
+military US Army
+burial Holy Sepulcher Cemetery @ US/WI/Cudahy
+ 
+---
+
+!citation Miami News-Record @ 1943-01-07
+!file Benn_Don.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-29
+
+#202007_006 Benn, Don
+alias Benintendi, Don; type=birth
+death 1943-01-06 @ US/OK/Tulsa
+
+---
+
+!citation Tampa Bay Times @ 2020-06-29
+!file Neff_Ben.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-29
+
+#202007_007 Neff, Benjamin G.
+death 1994-09-27 @ US/FL/New Port Richey
+military US Army @ World War II
+
+---
+
+!citation Parker Mortuary @ 2020-06-30
+!url https://www.parkermortuary.com/obituary/terry-wilson
+!file Wilson_Terry.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-30
+
+#202007_008 Wilson, Terry Norman
+birth 1935-03-05 @ US/KS/Wichita
+death 2020-06-24 @ US/MO/Joplin
+burial Mount Hope Cemetery @ US/MO/Webb City
+
+---
+
+!citation Courier-Journal @ 2016-10-05
+!url https://www.legacy.com/obituaries/louisville/obituary.aspx?n=Vincent-Dan-Ochs&pid=181730320
+!file Ochs_Dan.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-30
+
+#202007_009 Ochs, Vincent Dan [Dan]
+birth 1940-07-28 @ US/MO/St. Charles
+death 2016-10-01
+
+---
+
+!citation Fort Wayne Newspapers @ 2016-09-29
+!url https://www.legacy.com/obituaries/fortwayne/obituary.aspx?n=WILLIAM-E-REPLOGLE&pid=181654560
+!file Replogle_Bill.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-30
+
+#202007_010 Replogle, William E. [Bill]
+birth @ US/IN/LaPorte
+death 2016-09-26
+
+---
+
+!citation Courier Express @ 2016-09-27
+!url https://www.legacy.com/obituaries/thecourierexpress/obituary.aspx?n=Thomas-Alan-Korthaus&pid=181623864
+!file Korthaus_Tom.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-06-30
+
+#202007_011 Korthaus, Thomas Alan [Tom]
+birth 1933-08-26 @ US/IN/Indianapolis
+death 2016-09-25 @ US/PA/DuBois
+military US Air Force @ Korean War
+burial St. Catherine Cemetery @ US/PA/DuBois
+
+---
+
+!citation Wages & Sons Funeral Homes @ 2020-07-01
+!url https://www.wagesandsons.com/obits/paul-adrian-devine/
+!file Devine_Adrian.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-01
+
+#202007_012 Devine, Paul Adrian
+birth 1951-12-02 @ US/TX/Galveston
+death 2020-06-27
+highschool Ball HS @ US/TX/Galveston
+
+---
+
+!citation Snyder & Hollenbaugh Funeral Home @ 2020-07-01
+!url https://www.sandhfuneralservice.com/obituary/Albert-Heckenberg
+!file Heckenberg_Albert.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-01
+
+#202007_013 Heckenberg, Albert Bernard
+birth 1923-01-03 @ US/IA/Sperry
+death 2016-09-16 @ US/IA/Sperry
+highschool Sperry HS @ US/IA/Sperry
+military US Marines @ World War II
+burial St. Mary's Catholic Cemetery @ US/IA/Kingston
+
+---
+
+!citation Jacob Schoen & Son Funeral Home @ 2020-07-01
+!url https://www.schoenfh.com/tributes/Robert-Gibbens
+!file Gibbens_Bob.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-01
+
+#202007_014 Gibbens, Robert Day [Bob]
+birth 1923-12-23
+death 2016-09-21 @ US/LA/Reserve
+highschool St. Stanislaus College @ US/MS/Bay St. Louis
+college Loyola University New Orleans
+military US Marines @ World War II
+burial Hope Mausoleum @ US/LA/New Orleans
+
+---
+
+!citation Miami Herald @ 2016-09-07
+!url https://www.legacy.com/obituaries/herald/obituary.aspx?n=David-H-French&pid=181325558
+!file French_Dave.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-02
+
+#202007_015 French, David H. [Dave]
+death 2016-08-25 @ US/FL/Southwest Ranches
+highschool Miami Edison HS @ US/FL/Miami
+military US Army
+
+---
+
+!citation Wilmington Funeral Home @ 2020-07-02
+!url https://www.wilmingtoncares.com/obituary/george-william-barley/
+!file Barley_George.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-02
+
+#202007_016 Barley, George W.
+birth 1914-11-30
+death 2011-02-28 @ US/NC/Wilmington
+
+---
+
+!citation Washington Evening Star @ 1965-07-08
+!file Evening_Star_1965)7_08_28.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-02
+
+#202007_017 Bassin, Harry
+death 1965-07-07 @ US/DC/Washington
+highschool Eastern HS @ US/DC/Washington
+college Georgetown University
+burial King David Memorial Gardens @ US/VA/Falls Church
+
+---
+
+!citation Morristown (NJ) Daily Record @ 1993-02-02
+!file Bergmann_Russell.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-02
+
+#202007_018 Bergmann, Russell
+birth @ US/NJ/Madison
+death 1993-01-31 @ US/NC/Lincolnton
+highschool Madison HS @ US/NJ/Madison
+college Duke University
+military US Coast Guard @ World War II
+
+---
+
+!citation Farley Estes & Dowdle Funeral Home @ 2020-07-04
+!url http://hosting-7303.tributes.com/obituary/show/Carl-Kris-Angelo-108489265
+!file Angelo_Carl.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-04
+
+#202007_019 Angelo, Carl Kris
+birth 1932-04-25 @ US/MI/Battle Creek
+death 2020-07-01 @ US/MI/Battle Creek
+highschool Battle Creek Central HS @ US/MI/Battle Creek
+college Michigan State University
+college Lawrence Technological University
+military US Army
+burial Memorial Park Cemetery @ US/MI/Battle Creek
+
+---
+
+!citation Chicago Tribune @ 2020-07-04
+!url https://www.legacy.com/obituaries/chicagotribune/obituary.aspx?n=robert-c-thompson&pid=196442337
+!file Thompson_Bob.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-04
+
+#202007_020 Thompson, Robert C. [Bob]
+death 2020-06-29
+
+---
+
+!citation Duker & Haugh Funeral Home @ 2020-07-06
+!url https://www.dukerandhaugh.com/services/july-2020/rollie-e-thomas-sr
+!file Thomas_Rollie.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-06
+
+#202007_021 Thomas, Rollie E., Sr.
+birth 1931-11-01 @ US/MO/St. Louis
+death 2020-07-02 @ US/IL/Quincy
+highschool St. Mary's HS @ US/MO/St. Louis
+college Quincy University
+military US Army
+burial Calvary Cemetery @ US/IL/Quincy
+
+---
+
+!citation Colonial Funeral Home @ 2020-07-06
+!url https://www.colonial-funeralhome.com/obituary/David-Lowenthal
+!file Lowenthal_David.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-06
+
+#202007_022 Lowenthal, David H.
+birth 1935-01-04 @ US/OH/Cleveland
+death 2020-06-27 @ US/NV/Reno
+highschool North Hollywood HS @ US/CA/North Hollywood
+burial Mountain View Cemetery @ US/ID/Pocatello
+
+---
+
+!citation Harry & Bryant Company @ 2020-07-06
+!url https://www.dignitymemorial.com/obituaries/charlotte-nc/rocco-miralia-9244892
+!file Miralia_Rock.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-06
+
+#202007_023 Miralia, Rocco Joseph [Rock]
+alias Miraglia, Rocco Joseph [Rock]; type=birth
+birth 1932-02-02 @ US/NY/Brooklyn
+death 2020-06-30 @ US/NC/Charlotte
+military US Coast Guard @ Korean War
+
+---
+
+!citation Greenwood Funeral Homes @ 2020-07-06
+!url https://www.greenwoodfuneralhomes.com/obituaries/Ronald-Paul-7/#!/Obituary
+!file Paul_Ronnie.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-06
+
+#202007_024 Paul, Ronald Eugene [Ronnie]
+birth 1945-06-10
+death 2020-06-29
+highschool Paschal HS @ US/TX/Fort Worth
+college Texas Christian University
+
+---
+
+!citation Baltimore Sun @ 2020-07-02
+!url https://www.baltimoresun.com/obituaries/bs-md-ob-frank-sliwka-jr-20200702-azbjvxeu4vee7jemc6a3oksxfq-story.html
+!file Sliwka_Frank.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-06
+
+#202007_025 Sliwka, Francis Edward [Frank]
+death 2020-06-11 @ US/MD/Bel Air
+highschool Baltimore City College @ US/MD/Baltimore
+military US Coast Guard @ Korean War
+burial Holy Rosary Cemetery @ US/MD/Baltimore
+
+---
+
+!citation tributearchive.com @ 2020-07-06
+!url https://www.tributearchive.com/obituaries/15019454/Francis-Edward-Sliwka-Jr
+!file Sliwka_Frank_2.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-06
+
+#202007_026 Sliwka, Francis Edward, Jr.
+birth 1933-03-23
+death 2020-06-11
+burial Holy Rosary Cemetery @ US/MD/Baltimore
+
+---
+
+!citation James A. Reed Funeral Home @ 2020-07-06
+!url https://www.reedfh.com/obituaries/Jack-Hepler/#!/Obituary
+!file Hepler_Jack.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-06
+
+#202007_027 Hepler, Jack A. 
+birth 1931-02-03 @ US/PA/Gratz
+death 2020-07-03 @ US/PA/Harrisburg
+military US Navy @ Korean War
+
+---
+
+!citation Butler Eagle @ 2020-07-04
+!url https://www.legacy.com/obituaries/butlereagle/obituary.aspx?n=leo-parisi-bucky&pid=196445241&fhid=9722
+!file Parisi_Bucky.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-06
+
+#202007_028 Parisi, Leo [Bucky]
+birth 1939-02-12 @ US/PA/Ridgway
+death 2020-07-01 @ US/PA/Butler
+military US Army
+
+---
+
+!citation Star-Telegram @ 2016-08-13
+!url https://www.legacy.com/obituaries/dfw/obituary.aspx?n=james-miller-bud&pid=181060181&fhid=2985
+!file Miller_Bud.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-07
+
+#202007_029 Miller, James [Bud]
+birth 1932-10-04 @ US/TX/Joshua
+death 2016-08-11 @ US/TX/Joshua
+highschool Joshua HS @ US/TX/Joshua
+college Cisco College
+
+---
+
+!citation Charlotte Observer @ 2001-01-14
+!file Beal_Floyd.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-07
+
+#202007_030 Beal, Floyd Augustus, Sr.
+birth 1917-10-16
+death 2001-01-12
+military US Navy @ World War II
+burial Cherryville City Memorial Cemetery @ US/NC/Cherryville
+
+---
+
+!citation Lockport Union-Sun & Journal @ 1946-05-09
+!file Cazen_Walter.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-07
+
+#202007_031 Cazen, Walter
+alias Kaczynski, Walter; type=birth
+death 1946-05-07 @ US/NY/Lockport
+burial Gate of Heaven Cemetery @ US/NY/Lewiston
+
+---
+
+!citation Rochester Democrat & Chronicle @ 1968-12-23
+!file Remond_Henry.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-07
+
+#202007_032 Redmond, Henry D.
+death 1968-12-19 @ US/NY/Rochester
+highschool Scottsville HS @ US/NY/Scottsville
+military US Army @ World War II
+
+---
+
+!citation Sacramento Bee @ 2020-07-08
+!url https://www.legacy.com/obituaries/sacbee/obituary.aspx?n=edward-fitzgerald&pid=196462327
+!file FitzGerald_Ed.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-08
+
+#202007_033 FitzGerald, Edward Raymond [Ed]
+birth 1924-05-21 @ US/CA/Santa Ynez
+death 2020-06-14
+highschool Santa Ynez HS @ US/CA/Santa Ynez
+college Saint Mary's College of California
+military US Army @ World War II
+burial Calvary Cemetery @ US/CA/Citrus Heights
+
+---
+
+!citation Avink Funeral Home @ 2020-07-08
+!url https://www.avinkcremation.com/obituaries/Edward-Jordan-9/#!/Obituary
+!file Jordan_Ed.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-08
+
+#202007_034 Jordan, Edward Gerald [Ed]
+birth 1929-06-12 @ US/NH/North Conway
+death 2016-08-11 @ US/MI/Kalamazoo
+highschool Kennett HS @ US/NH/North Conway
+military US Army @ Korean War
+burial Fort Custer National Cemetery @ US/MI/Augusta
+
+---
+
+!citation DignityMemorial.com @ 2020-07-08
+!url http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Benjamin-Craig&lc=5067&pid=180967657&mid=7037389
+!file Craig_Ben.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-08
+
+#202007_035 Craig, Benjamin Day, Jr.
+birth 1929-05-05 @ US/OK/Hockerville
+death 2016-08-05
+military US Air Force @ Korean War
+
+---
+
+!citation Pflanz Mantey Mendrala Funeral Home @ 2020-07-08
+!url http://www.pmmfh.com/obits2016/aaobitMullenbachJohn.html
+!file Mullenbach_John.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-08
+
+#202007_036 Mullenbach, John L.
+birth 1920-01-24 @ US/WI/Portage
+death 2016-07-27 @ US/WI/Wyocena
+military US Army @ World War II
+burial St. Mary's Cemetery @ US/WI/Portage
+
+---
+
+!citation Howe-Peterson Funeral Home @ 2020-07-08
+!url https://www.howepeterson.com/obituary/michael-yuskowatz
+!file Yuskowatz_Mike.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-08
+
+#202007_037 Yuskowatz, Mike S.
+birth 1927-02-12
+death 2020-07-03
+highschool Fordson HS @ US/MI/Dearborn
+military US Army
+
+---
+
+!citation Lancaster New Era @ 1988-12-31
+!file Richards_Verne.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-08
+
+#202007_038 Richards, Verne
+birth @ US/OR/Portland
+death 1988-12-29 @ US/FL/Sarasota
+military US Navy @ World War II
+
+---
+
+!citation Los Angeles Times @ 2001-03-16
+!file Harrison_Bob.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-08
+ 
+#202007_039 Harrison, Robert Edward [Bob]
+death 2001-03-11 @ US/CA/Santa Monica
+
+---
+
+!citation San Francisco Examiner @ 1973-03-11
+!file Monzo_Vince.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-08
+ 
+#202007_040 Monzo, Vincent J., Jr.
+death 1973-03-07 @ US/CA/Walnut Creek
+burial Mountain View Cemetery @ US/CA/Oakland
+
+---
+
+!citation Southern Illinoisan @ 1984-01-18
+!file Spackman_Robert.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-09
+
+#202007_041 Spackman, Robert R. "Doc"
+birth 1917-12-18 @ US/PA/Phoenixville
+death 1984-01-17 @ US/IL/Carbondale
+
+---
+
+!citation News Journal @ 2016-08-04
+!url https://www.legacy.com/obituaries/delawareonline/obituary.aspx?n=george-i-holmes&pid=180911523&fhid=7886&eid=sp_ommatch
+!file Holmes_George.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-09
+
+#202007_042 Holmes, George I.
+death 2016-08-02
+highschool Dupont HS @ US/DE/Wilmington
+military US Army @ Korean War
+burial Lower Brandywine Presbyterian Church Cemetery @ US/DE/Owls Nest
+
+---
+
+!citation Press-Enterprise @ 2016-07-27
+!url https://www.legacy.com/obituaries/pe/obituary.aspx?n=john-clarence-allman-jack&pid=180801089&eid=sp_ommatch
+!file Allman_Jack.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-09
+
+#202007_043 Allman, John Clarence [Jack]
+birth @ US/WY
+death 2016-07-25 @ US/CA/Riverside
+military US Army @ World War II
+
+---
+
+!citation Preston & Simons Mortuary @ 2020-07-09
+!url https://www.preston-simonsmortuary.com/obituary/3824594
+!file Allman_Jack_2.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-09
+
+#202007_044 Allman, John Clarence [Jack]
+birth 1923-07-27
+death 2016-07-25
+burial Riverside National Cemetery @ US/CA/Riverside

@@ -1,0 +1,317 @@
+!citation SABR Biographical Committee Newsletter @ 2020-04
+
+#202006_001 Adams, Earl John
+describe ; mlbplayed=1922/
+burial St. Peter Church of Christ Cemetery @ US/PA/Tremont
+
+#202006_002 Andrews, James Pratt
+describe ; mlbplayed=1890/
+burial Arms Cemetery @ US/MA/Shelburne Falls
+
+#202006_003 Barton, Harry Lamb
+describe ; mlbplayed=1905/
+burial Mount Hope Cemetery @ US/PA/Aston
+
+#202006_004 Beck, Ervin F.
+describe ; mlbplayed=1899/
+burial Mount Carmel Cemetery @ US/OH/Toledo
+
+#202006_005 Briggs, Grant
+describe ; mlbplayed=1890/
+burial Christ Our Redeemer Catholic Cemetery @ US/PA/Pittsburgh
+
+#202006_006 Brown, Oscar Lee
+describe ; mlbplayed=1969/
+death 2020-06-03 @ US/CA/Carson
+
+#202006_007 Cargo, Robert J.
+describe ; mlbplayed=1892/
+birth 1868-10-01 @ US/PA/Pittsburgh
+
+#202006_008 Carroll, Frederick Herbert
+describe ; mlbplayed=1884/
+burial ; note=Cremated
+
+#202006_009 Christensen, Walter Neils
+describe ; mlbplayed=1926/
+burial Alta Mesa Memorial Park @ US/CA/Palo Alto
+
+#202006_010 Clarke, Horace Meredith
+describe ; mlbplayed=1965/
+birth 1939-06-02
+
+#202006_011 Cummings, John William
+describe ; mlbplayed=1926/
+burial Christ Our Redeemer Catholic Cemetery @ US/PA/Pittsburgh
+
+#202006_012 DePhillips, Anthony Andrew
+describe ; mlbplayed=1943/
+burial Mount St. Mary Cemetery @ US/NY/Flushing
+
+#202006_013 Derrington, Charles James
+describe ; mlbplayed=1956/
+death 2020-03-12 @ US/CA/Pomona
+
+#202006_014 Devine, Paul Adrian
+describe ; mlbplayed=1973/
+death 2020-06-27 @ US/CA/Dacula
+
+#202006_015 Donahue, John Augustine
+describe ; mlbplayed=1900/
+
+#202006_016 Dorsey, James Edward
+describe ; H74; mlbplayed=1980/
+
+#202006_017 Doyle, Paul Sinnott
+describe ; mlbplayed=1969/
+death 2020-05-06 @ US/CA/Huntington Beach
+burial ; note=Cremated, ashes scattered in Pacific Ocean
+
+#202006_018 Dundon, Augustus Joseph
+describe ; mlbplayed=1904/
+burial Christ Our Redeemer Catholic Cemetery @ US/PA/Pittsburgh
+
+#202006_019 Etchebarren, Andrew Auguste
+describe ; mlbplayed=1962/
+burial Queen of Heaven Cemetery @ US/CA/Rowland Heights
+
+#202006_020 Geer, William H.
+describe ; H66; mlbplayed=1874/
+birth @ US/NY/New York
+death 1928-09-30 @ US/IL/Chicago
+burial ; note=Body donated to Worsham Mortuary School
+
+#202006_021 Gowell, Lawrence Clyde
+describe ; mlbplayed=1972/
+death 2020-05-11 @ US/ME/Auburn
+
+#202006_022 Griffith, Bartholomew Joseph
+describe ; mlbplayed=1922/
+burial Crocker Cemetery @ US/CA/Big Pine
+
+#202006_023 Hanlon, William Joseph
+describe ; mlbplayed=1903/
+burial Calvary Cemetery @ US/CA/Los Angeles
+
+#202006_024 Hauger, John Arthur
+describe ; mlbplayed=1912/
+burial Oakmont Cemetery @ US/PA/Waynesburg
+
+#202006_025 Hogan, Robert Edward [Bob]
+describe ; mlbplayed=1882/
+birth 1860-04-06
+
+#202006_026 Holling, Carl Theodore
+describe ; mlbplayed=1921/
+burial Oak Mound Cemetery @ US/CA/Healdsburg
+
+#202006_027 Holly, Edwward William
+describe ; mlbplayed=1906/
+burial Wildwood Cemetery @ US/PA/Williamsport
+
+#202006_028 Hopkins, Michael Joseph
+describe ; mlbplayed=1902/
+burial Calvary Cemetery @ US/PA/Pittsburgh
+
+#202006_029 Jarvis, Raymond Arnold
+describe ; mlbplayed=1969/
+death 2020-04-24 @ US/TX/Austin
+
+#202006_030 Johnson, Benjamin Franklin
+describe ; mlbplayed=1959/
+death 2020-05-08 @ US/SC/Greenwood
+burial Greenwood Memorial Gardens @ US/SC/Greenwood
+
+#202006_031 Jorgens, Arndt Ludwig
+describe ; mlbplayed=1929/
+alias Jorgensen, Arndt Ludwig; type=legal
+
+#202006_032 Kasko, Edward Michael
+describe ; mlbplayed=1957/
+death 2020-06-24 @ US/VA/Richmond
+
+#202006_033 Kemmler, Rudolph
+describe ; mlbplayed=1879/
+burial Graceland Cemetery @ US/IL/Chicago
+
+#202006_034 Kent, Edward Clarence
+describe ; mlbplayed=1884/
+
+#202006_035 Keough, Matthew Lon
+describe ; mlbplayed=1977/
+death 2020-05-01 @ US/CA/Trabuca Canyon
+
+#202006_036 Kocher, Bradley Wilson
+describe ; mlbplayed=1912/
+burial St. Johns Cemetery @ US/PA/St. Johns
+
+#202006_037 Kremer, Remy Peter
+describe ; mlbplayed=1924/
+birth 1895-03-23
+
+#202006_038 Landis, James Henry
+describe ; mlbplayed=1957/
+burial Tulocay Cemetery @ US/CA/Napa
+
+#202006_039 Latimer, Clifford Wesley
+describe ; mlbplayed=1898/
+birth 1875-11-30
+
+#202006_040 Leheny, Regis Francis
+describe ; mlbplayed=1932/
+burial Calvary Cemetery @ US/PA/Pittsburgh
+
+#202006_041 Lindemann, John Frederick Mann
+describe ; mlbplayed=1901/
+burial Wildwood Cemetery @ US/PA/Williamsport
+
+#202006_042 Lobert, Frank John
+describe ; mlbplayed=1914/
+burial St. John Vianney Cemetery @ US/PA/Carrick
+
+#202006_043 Locke, Lawrence Donald
+describe ; mlbplayed=1959/
+death 2020-06-04 @ US/PA/Dunbar
+burial Sylvan Heights Cemetery @ US/PA/Uniontown
+
+#202006_044 Marshall, David Lewis
+describe ; mlbplayed=1967/
+burial Green Hills Memorial Park @ US/CA/Rancho Palos Verdes
+
+#202006_045 Mason, Henry
+describe ; mlbplayed=1958/
+death 2020-05-29 @ US/VA/Richmond
+
+#202006_046 Masters, Walter Thomas
+describe ; mlbplayed=1931/
+burial Fairview Cemetery @ US/PA/Pen Argyl
+
+#202006_047 McCormick, Michael Francis
+describe ; mlbplayed=1956/
+death 2020-06-13 @ US/NC/Cornelius
+
+#202006_048 Miklos, John Joseph
+describe ; mlbplayed=1944/
+burial Mount Greenwood Cemetery @ US/IL/Chicago
+
+#202006_049 Miller, John Ernest
+describe ; mlbplayed=1962/
+death 2020-06-05 @ US/MD/Westminster
+
+#202006_050 Miller, Raymond Peter
+describe ; mlbplayed=1917/
+burial St. Mary Cemetery @ US/PA/Pittsburgh
+
+#202006_051 Mills, Frank LeMoyne
+describe ; mlbplayed=1914/
+burial Forest Lawn Cemetery @ US/OH/Boardman
+
+#202006_052 Mullin, Patrick Joseph
+describe ; mlbplayed=1940/
+burial Lafayette Memorial Park @ US/PA/Brier Hill
+
+#202006_053 Norris, Leo John
+describe ; mlbplayed=1936/
+burial Resthaven Cemetery @ US/LA/Oakdale
+
+#202006_054 O'Brien, Thomas J.
+describe ; mlbplayed=1897/
+burial St. Mary Catholic Cemetery @ US/PA/Pittsburgh
+
+#202006_055 Oster, William Charles
+describe ; mlbplayed=1954/
+death 2020-06-06 @ US/NY/Centerport
+burial ; note=Cremated
+
+#202006_056 Pepper, Robert Ernest
+describe ; mlbplayed=1915/
+burial Appleby Manor Presbyterian Church Cemetery @ US/PA/Ford City
+
+#202006_057 Peters, Raymond James
+describe ; mlbplayed=1970/
+burial Sacred Heart of Jesus Cemetery @ US/AR/Hot Springs Village
+
+#202006_058 Pocoroba, Biff Benedict
+describe ; mlbplayed=1975/
+death 2020-05-24 @ US/GA/Grayson
+
+#202006_059 Retzer, Kenneth Leo
+describe ; mlbplayed=1961/
+death 2020-05-17 @ US/AZ/Sun City
+
+#202006_060 Ritterson, Edward West
+describe ; mlbplayed=1876/
+burial St. Stephens UCC Cemetery @ US/PA/Perkasie
+
+#202006_061 Roach, Michael Stephen
+describe ; mlbplayed=1899/
+burial St. Joseph Cemetery @ US/PA/Renovo
+
+#202006_062 Roarke, Michael Thomas
+describe ; mlbplayed=1961/
+burial St. Mary Cemetery @ US/RI/West Warwick
+
+#202006_063 Rogalski, Joseph Anthony
+describe ; mlbplayed=1938/
+burial St. Joseph Cemetery @ US/PA/West Mifflin
+
+#202006_064 Rubio (Chavez), Jorge Jesus
+describe ; mlbplayed=1966/
+death 2020-06-14 @ MX/Baja California/Mexicali
+
+#202006_065 Schalk, LeRoy John
+describe ; mlbplayed=1932/
+burial Fairview Cemetery @ US/TX/Gainesville
+
+#202006_066 Schappert, John
+describe ; mlbplayed=1882/
+birth 1853-11
+
+#202006_067 Schettler, Louis Martin
+describe ; mlbplayed=1910/
+burial Forest Lawn Cemetery @ US/OH/Boardman
+
+#202006_068 Shanks, Howard Samuel
+describe ; BR; mlbplayed=1912/
+burial Union Cemetery @ US/PA/Monaca
+
+#202006_069 Stuart, William Alexander
+describe ; mlbplayed=1895/
+burial Spring Creek Presbyterian Cemetery @ US/PA/State College
+
+#202006_070 Umbach, Arnold William
+describe ; mlbplayed=1964/
+death 2020-05-30 @ US/AL/Auburn
+burial Memorial Park Cemetery @ US/AL/Auburn
+
+#202006_071 Walker, Cleotha
+describe ; mlbplayed=1980/
+birth 1957-11-25
+
+#202006_072 Washington, Claudell
+describe ; mlbplayed=1974/
+death 2020-06-10 @ US/CA/Orinda
+
+#202006_073 Watson, Robert Jose
+describe ; mlbplayed=1966/
+death 2020-05-14 @ US/TX/Houston
+
+#202006_074 Winchell, Frederick Russell
+describe ; mlbplayed=1909/
+burial Mount Auburn Cemetery @ US/MA/Cambridge
+
+#202006_075 Young, Joseph B.
+describe ; mlbplayed=1892/
+burial St. Mary Cemetery @ US/PA/Mount Carmel
+
+#202006_076 Young, Robert George
+describe ; mlbplayed=1948/
+death 1985-02-04
+
+#202006_077 Zimmerman, Roy Franklin
+describe ; mlbplayed=1945/
+burial St. Peter Church of Christ Cemetery @ US/PA/Tremont
+
+
+
+
