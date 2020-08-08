@@ -1920,16 +1920,552 @@ death 2016-07-25 @ US/CA/Riverside
 military US Army @ World War II
 burial Riverside National Cemetery @ US/CA/Riverside
 
+---
 
-
-
-
-
-
-
+!citation findagrave.com @ 2020-07-15
+!url https://www.findagrave.com/memorial/103262608/charles-paul-eisenmann
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-15
  
+#0156 Eisenmann, Charles Paul [Chuck]
+sameas findagrave:103262608
+birth 1918-10-22 @ US/WI/Hawthorne
+death 2010-09-06 @ US/OR/Roseburg
+military US Army @ World War II
+burial Roseburg National Cemetery @ US/OR/Roseburg
+
+---
+
+!citation findagrave.com @ 2020-07-15
+!url https://www.findagrave.com/memorial/111123377
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-15
  
+#0157 DeLucia, Angelo P.
+sameas findagrave:111123377
+birth 1918
+death 2004-06-18
+burial Gethsemane Cemetery @ US/PA/Laureldale
 
+---
 
+!citation findagrave.com @ 2020-07-15
+!url https://www.findagrave.com/memorial/64476594
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-15
+ 
+#0158 Carroll, Wallace D.
+sameas findagrave:64476594
+birth 1918
+death 1989
+burial Pacific Crest Cemetery @ US/CA/Redondo Beach
 
+---
 
+!citation findagrave.com @ 2020-07-15
+!url https://www.findagrave.com/memorial/5458
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-15
+ 
+#0159 Frankovich, Mitchell J. [Mike]
+sameas findagrave:5458
+birth 1909-09-29 @ US/AZ/Bisbee
+death 1992-01-01 @ US/CA/Los Angeles
+burial Forest Lawn Memorial Park  @ US/CA/Glendale
+
+---
+
+!citation findagrave.com @ 2020-07-15
+!url https://www.findagrave.com/memorial/141784682
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-15
+ 
+#0160 Hanson, Jack
+sameas findagrave:141784682
+birth 1919-06-28
+death 1990-06-28
+burial Westwood Memorial Park @ US/CA/Los Angeles
+
+---
+
+!citation findagrave.com @ 2020-07-15
+!url https://www.findagrave.com/memorial/191632290
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-15
+ 
+#0161 Isekite, Floyd Gill "Lefty"
+sameas findagrave:191632290
+birth 1909-04-12
+death 1992-04-09
+burial New Tacoma Cemetery @ US/WA/University Place
+
+---
+
+!citation findagrave.com @ 2020-07-15
+!url https://www.findagrave.com/memorial/184110738
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-15
+ 
+#0162 Mallory, Elmer E.
+sameas findagrave:184110738
+birth 1919-09-10
+death 1972-05-06
+burial Pacific View Memorial Park @ US/CA/Corona del Mar
+
+---
+
+!citation findagrave.com @ 2020-07-15
+!url https://www.findagrave.com/memorial/6461472
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-15
+ 
+#0163 Ruby, Harry
+sameas findagrave:6461472
+birth 1895-01-27 @ US/NY/Manhattan
+death 1974-02-23 @ US/CA/Woodland Hills
+burial Chapel of the Pines Crematory @ US/CA/Los Angeles
+
+---
+
+!citation findagrave.com @ 2020-07-15
+!url https://www.findagrave.com/memorial/131037402
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-15
+ 
+#0164 Samhammer, Ralph Edward
+sameas findagrave:131037402
+birth 1918-01-19 @ US/CA
+death 1986-03-31 @ US/CA/Ventura County
+burial Ivy Lawn Memorial Park @ US/CA/Ventura
+
+---
+
+!citation findagrave.com @ 2020-07-16
+!url https://www.findagrave.com/memorial/91344230
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-16
+ 
+#0165 Christoff, Michael W.
+sameas findagrave:91344230
+birth 1912-09-29 @ US/PA/Northampton
+death 1998-02-25 @ US/PA/Allentown
+burial Our Lady of Hungary Cemetery @ US/PA/Northampton
+
+---
+
+!citation findagrave.com @ 2020-07-16
+!url https://www.findagrave.com/memorial/86969475
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-16
+ 
+#0166 Corbett, Stanley R.
+sameas findagrave:86969475
+birth 1911-12-04
+death 1980-11-10
+burial Gate of Heaven Cemetery @ US/OH/Montgomery
+
+---
+
+!citation findagrave.com @ 2020-07-16
+!url https://www.findagrave.com/memorial/44227353/ernest-e-devaurs
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-16
+ 
+#0167 DeVaurs, Ernest E., Jr.
+sameas findagrave:44227353
+birth 1916-11-13
+death 1997-10-11
+burial Calvary Cemetery @ US/CA/Merced
+
+---
+
+!citation findagrave.com @ 2020-07-16
+!url https://www.findagrave.com/memorial/50644262
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-16
+ 
+#0168 Dunn, Cecil A.
+sameas findagrave:50644262
+birth 1911-05-13
+death 1981-08-09
+burial Linden Memorial Park @ US/AL/Linden
+
+---
+
+!citation findagrave.com @ 2020-07-16
+!url https://www.findagrave.com/memorial/121156707
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-16
+ 
+#0169 Escobar, Daniel D.
+sameas findagrave:121156707
+birth 1916
+death 1985
+burial Oak Hill Cemetery @ US/CA/Red Bluff
+
+---
+
+!citation findagrave.com @ 2020-07-16
+!url https://www.findagrave.com/memorial/194804291
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-16
+ 
+#0170 Raimondi, Ernest
+sameas findagrave:194804291
+birth 1919
+death 1945
+burial St. Mary's Cemetery @ US/CA/Oakland
+
+---
+
+!citation findagrave.com @ 2020-07-16
+!url https://www.findagrave.com/memorial/10792360
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-16
+ 
+#0171 Simmons, Thomas Gayle
+sameas findagrave:10792360
+birth 1912-10-01
+death 1993-04-08
+burial Gardens of Memory @ US/IN/Huntington
+
+---
+
+!citation findagrave.com @ 2020-07-17
+!url https://www.findagrave.com/memorial/209894774/glen-j_-gabler
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-17
+ 
+#0172 Gabler, Glen J.
+sameas findagrave:209894774
+birth 1909
+death 1980
+military US Army @ World War II
+burial Westminster Memorial Park @ US/CA/Westminster
+
+---
+
+!citation findagrave.com @ 2020-07-17
+!url https://www.findagrave.com/memorial/103325047
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-17
+ 
+#0173 Hawkins, Francis Milton [Frankie]
+sameas findagrave:103325047
+birth 1915
+death 1978
+burial Rogue River Cemetery @ US/OR/Gold Beach
+
+---
+
+!citation findagrave.com @ 2020-07-17
+!url https://www.findagrave.com/memorial/58726383
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-17
+ 
+#0174 Schwab, Arland Albert [Babe]
+sameas findagrave:58726383
+birth 1917-10-16
+death 2005-09-08
+burial Valley View Cemetery @ US/OR/Silverton
+
+---
+
+!citation findagrave.com @ 2020-07-20
+!url https://www.findagrave.com/memorial/197509837/harry-roe-hughes
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-20
+ 
+#0175 Hughes, Harry Roe
+sameas findagrave:197509837
+birth 1926-11-13 @ US/MD/Easton
+death 2019-03-13 @ US/MD/Denton
+burial Denton Cemetery @ US/MD/Denton
+
+---
+
+!citation findagrave.com @ 2020-07-20
+!url https://www.findagrave.com/memorial/24632733
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-20
+ 
+#0176 Medler, Herman Palmer
+sameas findagrave:24632733
+birth 1911-09-05 @ US/MD/Chevy Chase
+death 2004-03-24
+burial Green Hills Cemetery @ US/NC/Asheville
+
+---
+
+!citation findagrave.com @ 2020-07-23
+!url https://www.findagrave.com/memorial/171806474
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-23
+ 
+#0177 Bedore, Frederick G.
+sameas findagrave:171806474
+birth 1904
+death 1983
+burial St. Mary Catholic Cemetery and Mausoleum @ US/IL/Evergreen Park
+
+---
+
+!citation findagrave.com @ 2020-07-23
+!url https://www.findagrave.com/memorial/74316517
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-23
+ 
+#0178 Cromer, Harold N.
+sameas findagrave:74316517
+birth 1918-10-13 @ US
+death 1998-07-01
+military US @ World War II
+military US @ Korean War
+burial St. Michael Cemetery @ US/IL/Schererville
+
+---
+
+!citation findagrave.com @ 2020-07-24
+!url https://www.findagrave.com/memorial/62323121
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-24
+ 
+#0179 Humphries, Bertram Elijah
+sameas findagrave:62323121
+birth 1910-02-01 @ US/PA
+death 1971-04-03 @ US/NY
+burial East Greenwich Cemetery @ US/RI/East Greenwich
+
+---
+
+!citation findagrave.com @ 2020-07-25
+!url https://www.findagrave.com/memorial/188415170
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-25
+ 
+#0180 Harrington, Walter Ray
+sameas findagrave:188415170
+birth 1919-09-22 @ US/MI/Owosso
+death 1962-01-22 @ US/MI/Lansing
+military US Navy @ World War II
+burial Deepdale Memorial Park @ US/MI/Delta Township
+
+---
+
+!citation findagrave.com @ 2020-07-27
+!url https://www.findagrave.com/memorial/173702109
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-27
+ 
+#0181 Blazo, Michael
+sameas findagrave:173702109
+birth 1917
+death 1988-04-24
+burial Holy Redeemer Cemetery and Mausoleum @ US/NJ/South Plainfield
+
+---
+
+!citation findagrave.com @ 2020-07-27
+!url https://www.findagrave.com/memorial/196635234
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-27
+ 
+#0182 Garrison, Robert Martin
+sameas findagrave:196635234
+birth 1922-01-22 @ US/IL/Benton
+death 2018-03-20 @ US/IL/Benton
+military US Army @ World War II
+military US Air Force @ Korean War
+military US Air Force @ Vietnam War
+burial Masonic and Odd Fellows Cemetery @ US/IL/Benton
+
+---
+
+!citation findagrave.com @ 2020-07-27
+!url https://www.findagrave.com/memorial/46666343
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-27
+ 
+#0183 Gehrke, Stanley Ernest
+sameas findagrave:46666343
+birth 1917-09-29 @ US/IA/Bremer County
+death 1976-02-11 @ US/IA/Readlyn
+burial St. Paul's Cemetery @ US/IA/Readlyn
+
+---
+ 
+!citation findagrave.com @ 2020-07-27
+!url https://www.findagrave.com/memorial/97012918
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-27
+ 
+#0184 Hershey, Robert Kistler
+sameas findagrave:97012918
+birth 1915-08-14 @ US/PA/Universal
+death 1943-08-31
+highschool Union HS @ US/PA/Turtle Creek
+military US Navy @ World War II
+burial Plum Creek Cemetery @ US/PA/Plum
+
+---
+
+!citation findagrave.com @ 2020-07-27
+!url https://www.findagrave.com/memorial/19056346
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-27
+ 
+#0185 Johnson, Winlow O. [Windy]
+sameas findagrave:19056346
+birth 1913-01-14 @ US/KS
+death 1994-01-23 @ US/KS
+burial Burlingame City Cemetery @ US/KS/Burlingame
+
+---
+ 
+!citation findagrave.com @ 2020-07-27
+!url https://www.findagrave.com/memorial/64726458
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-27
+ 
+#0186 Jones, Delbert Leon
+sameas findagrave:64726458
+birth 1918
+death 1965-11-24
+burial Visalia Public Cemetery @ US/CA/Visalia
+
+---
+
+!citation findagrave.com @ 2020-07-27
+!url https://www.findagrave.com/memorial/53865229
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-27
+ 
+#0187 Marleau, Edward C.
+sameas findagrave:53865229
+birth 1910-03-25
+death 1974-11-02
+burial Memorial Park Cemetery @ US/OK/Oklahoma City
+
+---
+
+!citation findagrave.com @ 2020-07-27
+!url https://www.findagrave.com/memorial/19561581
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-27
+ 
+#0188 Reid, Kenneth William
+sameas findagrave:19561581
+birth 1918-03-25 @ US/IA/What Cheer
+death 2007-05-26 @ US/NE/Grand Island
+burial Ottumwa Cemetery @ US/IA/Ottumwa
+
+---
+ 
+!citation findagrave.com @ 2020-07-27
+!url https://www.findagrave.com/memorial/83241443
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-27
+ 
+#0189 Voirol, Louis Vernon
+sameas findagrave:83241443
+birth 1918-04-20 @ US/IN/New Haven
+death 1999-09-25 @ US/IN/Fort Wayne
+burial Catholic Cemetery @ US/IN/Fort Wayne
+
+---
+
+!citation findagrave.com @ 2020-07-27
+!url https://www.findagrave.com/memorial/168995265
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-27
+ 
+#0190 Wessels, Carl E.
+sameas findagrave:168995265
+birth 1915-11-23
+death 1955-12-09
+burial St. Paul Lutheran Cemetery @ US/IA/Palmer
+
+---
+ 
+!citation findagrave.com @ 2020-07-29
+!url https://www.findagrave.com/memorial/81094506
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-29
+ 
+#0191 Marler, Ralph Wesley
+sameas findagrave:81094506
+birth 1924-01-29
+death 1978-07-03
+burial Maple Park Cemetery @ US/MO/Springfield
+
+---
+
+!citation findagrave.com @ 2020-07-23
+!url https://www.findagrave.com/memorial/36555528
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-23
+ 
+#0192 Tully, George Emmett
+sameas findagrave:36555528
+birth 1906-04-21 @ US/AL/Eufaula
+death 1943-01-13 @ US/GA/Savannah
+burial Prospect United Methodist Church Cemetery @ US/GA/Jackson County
+
+---
+
+!citation findagrave.com @ 2020-07-31
+!url https://www.findagrave.com/memorial/157823811
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-31
+ 
+#0193 Matejka, Walter J.
+sameas findagrave:157823811
+birth 1922-01-17
+death 1982-07-24 @ US/NE/Omaha
+burial Bohemian Cemetery @ US/NE/Omaha
+
+---
+
+!citation findagrave.com @ 2020-07-31
+!url https://www.findagrave.com/memorial/11201953
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-31
+ 
+#0194 Anderson, Herbert
+sameas findagrave:11201953
+birth 1914-07-11
+death 1969-07-30
+burial Woodlawn Cemetery @ US/NJ/Chatsworth
+
+---
+
+!citation findagrave.com @ 2020-07-31
+!url https://www.findagrave.com/memorial/75688702
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-31
+ 
+#0195 Feille, Gerald Harold
+sameas findagrave:75688702
+birth 1915-09-15 @ US/TX/San Antonio
+death 1985-04-23 @ US/TX/Houston
+military US Army @ World War II
+burial Forest Park Westheimer Cemetery @ US/TX/Houston
+
+---
+ 
+!citation findagrave.com @ 2020-07-31
+!url https://www.findagrave.com/memorial/121754631
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-31
+ 
+#0196 Frank, Theodore J.
+sameas findagrave:121754631
+death 1964-06-04 @ US/MN/Rochester
+burial Lakewood Cemetery @ US/MN/Minneapolis
+
+---
+
+!citation findagrave.com @ 2020-07-31
+!url https://www.findagrave.com/memorial/104855590
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-31
+ 
+#0197 Garnero, Joseph
+sameas findagrave:104855590
+birth 1918-05-05
+death 1960-07-16
+burial Fairland Cemetery @ US/IL/Maryville
+
+---
+ 
+!citation findagrave.com @ 2020-07-31
+!url https://www.findagrave.com/memorial/154147341
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-31
+ 
+#0198 Henrichs, Robert
+sameas findagrave:154147341
+birth 1917-05-30
+death 1993-10-28
+burial Little Sister Cemetery @ US/WI/Sister Bay
+
+---
+ 
+!citation findagrave.com @ 2020-07-31
+!url https://www.findagrave.com/memorial/99773183
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-31
+ 
+#0199 Lupescu, Chic I.
+sameas findagrave:99773183
+birth 1915-09-14
+death 1999-12-10
+burial Star of David Cemetery @ US/FL/North Fort Lauderdale
+
+---
+
+!citation findagrave.com @ 2020-07-31
+!url https://www.findagrave.com/memorial/182193913
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-31
+ 
+#200 Martinovich, Nicholas
+sameas findagrave:182193913
+birth 1917-11-11
+death 2002-10-31
+burial Forest Lawn Cemetery @ US/MI/Detroit

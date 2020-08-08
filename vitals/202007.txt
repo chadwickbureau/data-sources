@@ -173,4 +173,344 @@ death 1963-03
 #202007_019 Spackman, Robert Reeser
 birth 1917-12-18 @ US/PA/Phoenixville
  
+---
+
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-15
+ 
+#202007_020 Delucia, Angelo Philip
+sameas ssn:187-10-7195
+birth 1918-05-25
+death 2004-06-18
+
+---
+
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-15
+ 
+#202007_021 Carroll, Wallace D.
+sameas ssn:537-01-5470
+birth 1918-04-20
+death 1989-08-20
+
+---
+
+!citation California, Death Index, 1940-1997
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-15
+ 
+#202007_022 Frankovich, Mitchell John
+sameas ssn:570-10-4321
+birth 1909-09-29 @ US/AZ
+death 1992-01-01 @ US/CA/Orange County
+
+---
+
+!citation Washington, Death Index, 1940-2017
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-15
+ 
+#202007_023 Isekite, Floyd G.
+sameas ssn:533-07-2237
+death 1992-04-09 @ US/WA/Tacoma
+
+---
+
+!citation US World War II Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-15
+ 
+#202007_024 Powell, Robert Clyde
+birth 1920-03-02 @ US/CA/Alhambra
+
+---
+
+!citation Ohio, Death Records, 1908-1932, 1938-2018
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-16
+ 
+#202007_025 Corbett, Stanley R.
+birth @ US/OH
+death 1980-11-10 @ US/OH/Montgomery
+
+---
+
+!citation SSDI California, Death Index, 1940-1997
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-16
+ 
+#202007_026 Escobar, Daniel Deleon
+sameas ssn:554-05-6884
+birth 1916-09-29 @ US/CA
+death 1985-05-19 @ US/CA/Tehama County
+
+---
+
+!citation California, Death Index, 1940-1997
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-16
+ 
+#202007_027 Johnson, Vernon
+sameas ssn:572-18-1769
+birth 1914-05-06 @ US/CA
+death 1957-12-09 @ US/CA/Alameda County
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-16
+ 
+#202007_028 Johnson, Vernon
+birth 1914-05-06 @ US/CA/San Jose
+
+---
+
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-17
+ 
+#202007_029 Strohmeyer, F. G.
+sameas ssn:704-01-5861
+birth 1921-08-13
+death 2004-12-01
+
+---
+
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-17
+ 
+#202007_030 Adams, Edward Francis
+sameas ssn:540-09-2540
+birth 1916-04-13
+death 1973-11
+
+---
+
+!citation US Dept of Veterans Affairs BIRLS Death File, 1850-2010
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-17
+ 
+#202007_031 Adams, Edward
+sameas ssn:540-09-2540
+birth 1916-04-13
+death 1973-11-12
+military US Coast Guard @ World War II
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-17
+ 
+#202007_032 Deniston, Shannon Willis
+birth 1919-02-28 @ US/CA/Long Beach
+
+---
+
+!citation California, Death Index, 1940-1997
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-17
+ 
+#202007_033 Gabler, Glen James
+sameas ssn:550-10-7175
+birth 1909-11-30
+death 1980-02-29 @ US/CA/Los Angeles
+
+---
+
+!citation California, Death Index, 1940-1997
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-17
+ 
+#202007_034 Radonits, William S.
+sameas ssn:561-18-9351
+birth 1906-12-07 @ US/CA
+death 1962-03-05 @ US/CA/Los Angeles
+
+---
+ 
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-17
+ 
+#202007_035 Radonits, William Saint Patrick
+birth 1906-12-07 @ US/CA/Los Angeles
+
+---
+
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-17
+ 
+#202007_036 Schwab, Arland Albert
+sameas ssn:543-03-5940
+birth 1917-10-16 @ US/OR/Gervais
+death 2005-09-08
+
+---
+
+!citation California, Death Index, 1940-1997
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-17
+ 
+#202007_037 Swope, John Burton
+sameas ssn:536-07-6156
+birth 1916-04-15 @ US/OR
+death 1994-02-08
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-17
+ 
+#202007_038 Swope, Burton
+birth 1916-04-15 @ US/OR/Portland
+
+---
+ 
+!citation Indiana, Birth Certificates, 1907-1940
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-23
+ 
+#202007_039 Cromer, Harold Nicholas
+birth 1917-10-13 @ US/IL/Schererville
+
+---
+ 
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-27
+ 
+#202007_040 Blazo, Michael
+sameas ssn:144-07-8970
+birth 1916-01-30 @ US/NJ/Dunellen
+death 1988-04-24
+ 
+---
+ 
+!citation WWII Draft Cards, Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-27
+ 
+#202007_041 Blazo, Michael
+birth 1917-01-30 @ US/NJ/Dunellen
+
+---
+ 
+!citation WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-27
+ 
+#202007_042 Gehrke, Stanley
+birth 1917-09-29 @ US/IA/Readlyn
+
+---
+
+!citation WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-27
+ 
+#202007_043 Hershey, Robert Kistler
+birth 1915-08-14 @ US/PA/Universal
+
+---
+
+!citation WWII Draft Cards Young  Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-27
+ 
+#202007_044 Johnson, Winlow Oke
+birth 1913-01-14 @ US/KS/Burlingame
+
+---
+
+!citation WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-27
+ 
+#202007_045 Jones, Delbert Leon
+birth 1918-04-28 @ US/CA/Arlington
+
+---
+
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-27
+ 
+#202007_046 Jones, Delbert L.
+sameas ssn:502-07-0981
+birth 1918-04-28
+death 1965-11
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-27
+ 
+#202007_047 Reid, Kenneth William
+birth 1918-03-25 @ US/IA/Rose Hill
+
+---
+
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-27
+ 
+#202007_048 Semczak, Henry A.
+sameas ssn:375-03-0607
+birth 1917-09-21
+death 1971-04
+ 
+---
+ 
+!citation Michigan, Death Index, 1971-1996
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-27
+ 
+#202007_049 Semczak, Henry A.
+birth 1917-09-21
+death 1971-04-22 @ US/MI/Detroit
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-27
+ 
+#202007_050 Voirol, Louis Vernon
+birth 1918-04-26 @ US/IN/New Haven
+
+---
+
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-31
+ 
+#202007_051 Earl, Leslie L.
+sameas ssn:218-26-5649
+birth 1929-09-01
+death 2010-02-18
+
+---
+ 
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-31
+ 
+#202007_052 Anderson, Herbert
+birth 1914-07-11 @ US/NJ/Chatsworth
+
+---
+ 
+!citation Minnesota, Death Index, 1908-2017
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-31
+ 
+#202007_053 Frank, Theodore J.
+birth 1913-05-06
+death 1964-06-04 @ US/MN/Olmsted County
+
+---
+ 
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-31
+ 
+#202007_054 Garnero, Joseph
+birth 1918-05-05 @ US/IL/Maryville
+
+---
+
+!citation USWWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-31
+ 
+#202007_055 Henrichs, Robert Fred
+birth 1917-05-30 @ US/IN/Michigan City
+ 
+---
+ 
+!citation USWWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-31
+ 
+#202007_056 Lupescu, Chic
+birth 1915-09-14 @ US/NY/Manhattan
+
+---
+
+!citation USWWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-07-31
+ 
+#202007_057 Martinovich, Nickolas
+birth 1917-11-11 @ US/MI/Detroit
  
