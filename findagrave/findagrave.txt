@@ -2469,3 +2469,89 @@ sameas findagrave:182193913
 birth 1917-11-11
 death 2002-10-31
 burial Forest Lawn Cemetery @ US/MI/Detroit
+
+---
+
+!citation findagrave.com @ 2020-08-13
+!url https://www.findagrave.com/memorial/171592395
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-08-13
+ 
+#201 Grabowski, Richard J.
+sameas findagrave:171592395
+birth 1932-07-17
+death 2001-11-01
+burial Floral Hills Memory Gardens @ US/GA/Tucker
+
+---
+
+!citation findagrave.com @ 2020-08-16
+!url https://www.findagrave.com/memorial/168725162
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-08-16
+ 
+#202 Snyder, Edward Thatcher
+sameas findagrave:168725162
+birth 1926
+death 1967
+burial Northampton Memorial Shrine @ US/PA/Palmer Township
+
+---
+
+!citation findagrave.com @ 2020-08-17
+!url https://www.findagrave.com/memorial/154942785
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-08-17
+ 
+#203 Hornsby, William Pennington [Bill]
+son of Hornsby, Rogers
+sameas findagrave:154942785
+birth 1925-06-02 @ US/MO/St. Louis
+death 1984-06-29 @ US/TN/Nashville
+military US Marines @ World War II
+burial Nashville National Cemetery @ US/TN/Madison
+
+---
+
+!citation findagrave.com @ 2020-08-17
+!url https://www.findagrave.com/memorial/76426173/virgil-j-brown
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-08-17
+ 
+#204 Brown, Virgil J. "Hook"
+sameas findagrave:76426173
+birth 1909-08-02
+death 1985-11-29
+burial White Chapel Memorial Gardens @ US/MO/Springfield
+
+---
+
+!citation findagrave.com @ 2020-08-17
+!url https://www.findagrave.com/memorial/119225605/james-cullinane
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-08-17
+ 
+#205 Cullinane, James
+sameas findagrave:119225605
+death 1992
+burial Oakwood Cemetery @ US/NY/Penfield
+
+---
+
+!citation findagrave.com @ 2020-08-17
+!url https://www.findagrave.com/memorial/148225749/howard-k_-la_flamme
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-08-17
+ 
+#206 La Flamme, Howard K.
+sameas findagrave:148225749
+birth 1908
+death 1971
+burial Memory Gardens Cemetery and Memorial Park @ US/NY/Colonie
+
+---
+
+!citation findagrave.com @ 2020-08-18
+!url https://www.findagrave.com/memorial/159091079/james-ferrell-snider
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-08-18
+ 
+#207 Snider, James Ferrell "Bubber"
+sameas findagrave:159091079
+birth 1928-02-13 @ US/AL/Chambers County
+death 2016-03-07 @ US/AL/Lanett
+burial Fairfax Cemetery @ US/AL/Valley
+

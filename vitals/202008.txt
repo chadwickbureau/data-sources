@@ -1,0 +1,18 @@
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-08-16
+ 
+#202008_001 Snyder, Edward
+sameas ssn:201-16-9712
+birth 1926-09-20
+death 1967-01
+
+---
+
+ 
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-08-17
+ 
+#202008_002 Cullinane, James Ralph
+sameas ssn:011-12-4649
+birth 1918-02-28 @ US/MA/Concord
+death 1992-06-26
