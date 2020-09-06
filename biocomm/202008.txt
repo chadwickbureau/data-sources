@@ -1,0 +1,348 @@
+!citation SABR Biographical Committee Newsletter @ 2020-08
+
+#202008_001 Ables, Harry Terrell
+describe ; mlbplayed=1905-09-02/
+
+#202008_002 Acosta (Fernandez), Baldomero Pedro
+describe ; mlbplayed=1913-06-05/
+
+#202008_003 Arellanes, Frank Julian
+describe ; mlbplayed=1908-07-17/
+
+#202008_004 Bailey, William F.
+describe ; mlbplayed=1907-09-11/
+
+#202008_005 Ball, Cornelius
+describe ; mlbplayed=1907-09-11/
+
+#202008_006 Beck, Zinn Bertram
+describe ; mlbplayed=1913-09-13/
+
+#202008_007 Bell, Jack
+describe ; mlbplayed=1907-09-14/
+
+#202008_008 Bolling, Francis Elmore
+describe ; mlbplayed=1954/
+death 2020-07-11 @ US/AL/Mobile
+burial Spring Hill Memorial Gardens @ US/AL/Mobile
+
+#202008_009 Brockett, Lewis Albert
+describe ; mlbplayed=1907-04-13/
+
+#202008_010 Brummett, Tyson Colby
+describe ; mlbplayed=2012/
+death 2020-07-03 @ US/UT/American Fork Canyon
+
+#202008_011 Choi, Ji-Man
+describe ; mlbplayed=2016/; BS
+
+#202008_012 Clarke, Horace Meredith
+describe ; mlbplayed=1965/
+death 2020-08-05 @ US/MD/Laurel
+burial Frederiksted Cemetery @ VI/St. Croix/Frederiksted
+
+#202008_013 Cortazzo, John Francis
+describe ; mlbplayed=1923/
+burial St. Joseph Cemetery @ US/PA/North Versailles
+
+#202008_014 Davis, Frank Talmadge
+describe ; mlbplayed=1912-07-11/
+
+#202008_015 DiPietro, Robert Louis Paul
+describe ; mlbplayed=1951/
+burial Terrace Heights Memorial Park @ US/WA/Yakima
+
+#202008_016 Dodge, John Lewis
+describe ; mlbplayed=1912/
+birth 1893-04-27 @ US/MS/Bolivar
+
+#202008_017 Donahue, Charles Michael
+describe ; mlbplayed=1904-04-19/
+
+#202008_018 Drury, Brandon S.
+describe ; mlbplayed=2015/; W230
+
+#202008_019 Fewster, Wilson Lloyd
+describe ; mlbplayed=1917/
+birth 1896-11-10
+
+#202008_020 Fiene, Louis Henry
+describe ; mlbplayed=1906-04-21/
+
+#202008_021 Fisher, Donald Raymond
+describe ; mlbplayed=1945/
+burial Acacia Masonic Memorial Park @ US/OH/Mayfield Heights
+
+#202008_022 Fisher, John Gustave
+describe ; mlbplayed=1910-04-21/
+
+#202008_023 FitzGerald, Edward Raymond
+describe ; mlbplayed=1948/
+death 2020-06-14 @ US/CA/Folsom
+burial Calvary Cemetery @ US/CA/Citrus Heights
+
+#202008_024 Fusselman, Lester Leroy
+describe ; mlbplayed=1952/
+burial Acacia Masonic Memorial Park @ US/OH/Mayfield Heights
+
+#202008_025 Garber, Robert Mitchell
+describe ; mlbplayed=1956/
+burial New St. Joseph Catholic Cemetery @ US/PA/Connellsville
+
+#202008_026 Gardner, Miles Glenn
+describe ; mlbplayed=1945/
+burial Gardner Cemetery @ US/NC/Pensacola
+
+#202008_027 Gaspar, Harry Lambert
+describe ; mlbplayed=1909-04-17/
+
+#202008_028 Gatins, Frank Anthony
+describe ; mlbplayed=1898/
+burial St. John Gualbert Roman Catholic Church Cemetery @ US/PA/Geistown
+
+#202008_029 McGovern
+describe ; mlbplayed=1874/
+
+#202008_030 Gessler, Henry Homer
+describe ; mlbplayed=1903-04-22/
+
+#202008_031 Gilbreth, William Freeman
+describe ; mlbplayed=1971/
+death 2020-07-12 @ US/TX/Abilene
+
+#202008_032 Graham, Charles Henry
+describe ; mlbplayed=1906-04-14/
+
+#202008_033 Graham, Oscar Marion
+describe ; mlbplayed=1907-04-13/
+
+#202008_034 Hardy, Carroll William
+describe ; mlbplayed=1958/
+death 2020-08-09 @ US/CO/Highlands Ranch
+
+#202008_035 Hahn, Frederick Aloys
+describe ; mlbplayed=1952/
+burial Tappan Cemetery @ US/NY/Tappan
+
+#202008_036 Hahn, William Edgar
+describe ; mlbplayed=1905-08-29/
+
+#202008_037 Hermoso, Angel Remigio
+describe ; mlbplayed=1967/
+birth @ VE/Carabobo/Puerto Cabello
+death 2020-08-22 @ VE/Carabobo/Puerto Cabello
+
+#202008_038 Hogan, Malachi Sylvanus
+describe ; mlbplayed=1901/
+birth 1878-04-16 @ US/OH/Broadway
+death 1945-03-04 @ US/OH/Cleveland
+burial Knollwood Cemetery @ US/OH/Mayfield Heights
+
+#202008_039 Hogreiver, George C.
+describe ; mlbplayed=1895/
+
+#202008_040 Horton, Elmer E.
+describe ; mlbplayed=1898/
+burial Cedar Hill Cemetery @ US/OH/Newark
+
+#202008_041 Hurley, Jeremiah
+describe ; mlbplayed=1901-09-22/
+
+#202008_042 Jacobs, Arthur Evan
+describe ; mlbplayed=1939/
+
+#202008_043 Johnson, Ellis Walter
+describe ; mlbplayed=1912-07-06/
+
+#202008_044 Jordan, Milton Mignot
+describe ; mlbplayed=1953/
+burial Spring Valley Cemetery @ US/PA/Spring Valley
+
+#202008_045 Judson, Howard Kolls
+describe ; mlbplayed=1948/
+birth 1925-02-16
+death 2020-08-18 @ US/FL/Winter Haven
+burial Linn-Hebron Cemetery @ US/IL/Hebron
+
+#202008_046 Karns, William Arthur
+describe ; mlbplayed=1901-08-01/
+
+#202008_047 Katoll, Johann [John]
+describe ; mlbplayed=1898/; BL
+birth 1875-06-24 @ PL/Warmia-Masuria/Kamieniec
+note Birthplace was known as Finckenstein, Prussia at time of birth
+
+#202008_048 Keegan, Robert Charles
+describe ; mlbplayed=1953/
+burial Holy Sepulchre Cemetery @ US/NY/Rochester
+
+#202008_049 Keliher, Maurice Michael
+describe ; mlbplayed=1911-09-09/
+
+#202008_050 Kellett, Alfred Henry
+describe ; mlbplayed=1923/
+burial Ferncliff Cemetery @ US/NY/Hartdale
+
+#202008_051 Krug, Henry Charles
+describe ; mlbplayed=1902-07-25/
+
+#202008_052 Lauer, Eric Lance
+describe ; mlbplayed=2018/; W228
+
+#202008_053 Lawrence, Robert Andrew
+describe ; mlbplayed=1924/
+burial Mount St. Mary Cemetery @ US/NY/Flushing
+
+#202008_054 Lejeune, Sheldon Adalbert
+describe ; mlbplayed=1911/
+burial Michigan Memorial Park @ US/MI/Flat Rock
+
+#202008_055 Lindsay, Christian Haller
+describe ; mlbplayed=1905-07-05/
+
+#202008_056 Lowdermilk, Louis Bailey
+describe ; mlbplayed=1911-04-23/
+
+#202008_057 Lush, John Charles
+describe ; mlbplayed=1904-04-16/
+
+#202008_058 McCredie, Walter Henry
+describe ; mlbplayed=1903-04-17/
+
+#202008_059 McNamara, John Francis
+describe ; mlbmanaged=1969/
+death 2020-07-28 @ US/TN/Brentwood
+
+#202008_060 Meier, Arthur Ernst
+describe ; mlbplayed=1906-04-19/
+
+#202008_061 Meyers, John Tortes
+describe ; mlbplayed=1909-04-15/
+
+#202008_062 Morgan, James Edward
+describe ; mlbplayed=1906/
+burial Ferncliff Cemetery @ US/NY/Hartdale
+
+#202008_063 Morris, John Walter
+describe ; mlbplayed=1908-04-30/
+
+#202008_064 Murphy, Sean Michael
+describe ; mlbplayed=2019/
+birth 1994-10-04
+
+#202008_065 Nicholl, Samuel Anderson
+describe ; mlbplayed=1888/
+burial Mount Calvary Cemetery @ US/WV/Wheeling
+
+#202008_066 O'Brien, Peter J.
+describe ; mlbplayed=1901-09-17/
+
+#202008_067 O'Rourke, James Francis
+describe ; mlbplayed=1912-06-11/
+
+#202008_068 Peckinpaugh, Roger Thorpe
+describe ; mlbplayed=1910/
+burial Acacia Masonic Memorial Park @ US/OH/Mayfield Heights
+
+#202008_069 Phelps, Edward Jaykill
+describe ; mlbplayed=1902-09-02/
+
+#202008_070 Posada (Villeta), Jorge Rafael
+describe ; mlbplayed=1995/
+birth 1970-08-17
+
+#202008_071 Prescott, George Bertrand
+describe ; mlbplayed=1961/
+death 2020-08-02 @ PA/Panama/Panama
+
+#202008_072 Rariden, William Angle
+describe ; mlbplayed=1909-08-09/
+
+#202008_073 Reed, Milton D.
+describe ; mlbplayed=1911-09-19/
+
+#202008_074 Riggert, Joseph Aloysius
+describe ; mlbplayed=1911-04-12/
+
+#202008_075 Roach, Wilbur Charles
+describe ; mlbplayed=1910-04-26/
+
+#202008_076 Ryan, Michael James
+describe ; mlbplayed=1964/
+death 2020-07-07 @ US/NH/Wolfeboro
+
+#202008_077 Schultz, Joseph Charles, Sr.
+describe ; mlbplayed=1912-09-27/
+
+#202008_078 Schumann, Charles J.
+describe ; mlbplayed=1906-09-18/
+
+#202008_079 Sebra, Robert Bush
+describe ; mlbplayed=1985/
+death 2020-07-22 @ US/FL/Miami
+
+#202008_080 Shannon, Owen Dennis Ignatius
+describe ; mlbplayed=1903-09-05/
+
+#202008_081 Shaw, Alfred Louis
+describe ; mlbplayed=1901-06-10/
+
+#202008_082 Snyder, Frank Elton
+describe ; mlbplayed=1912-08-18/
+
+#202008_083 Stahl, Garland
+describe ; mlbplayed=1903-06-06/
+
+#202008_084 Stevens, Edward Lee
+describe ; mlbplayed=1945-07-20/
+
+#202008_085 Strief, George Andrew
+describe ; mlbplayed=1879/
+burial Acacia Masonic Memorial Park @ US/OH/Mayfield Heights
+
+#202008_086 Taylor (Sanchez), Antonio Nemesio
+describe ; mlbplayed=1958/
+death 2020-07-16 @ US/FL/Hialeah
+
+#202008_087 Taylor, Harry Leonard
+describe ; mlbplayed=1890/
+burial Halsey Valley Cemetery @ US/NY/Halsey Valley
+
+#202008_088 Thiel, Maynard Bert
+describe ; mlbplayed=1952/
+death 2020-07-31 @ US/WI/Pella
+burial St. Mary Catholic Church Cemetery @ US/WI/Leopolis
+
+#202008_089 Thielman, John Peter
+describe ; mlbplayed=1905-04-19/
+
+#202008_090 Walker, George A.
+describe ; mlbplayed=1888/
+birth 1860
+
+#202008_091 Walsh, Joseph Francis
+describe ; mlbplayed=1910-07-07/
+
+#202008_092 Webster, Raymond George
+describe ; mlbplayed=1959/
+death 2020-06-03 @ US/CA/Browns Valley
+
+#202008_093 Welday, Lyndon Earl
+describe ; mlbplayed=1907-04-17/
+
+#202008_094 Wicker, Robert Kitridge
+describe ; mlbplayed=1901-07-22/
+
+#202008_095 Wilson, Lester Wilbur
+describe ; mlbplayed=1911-07-09/
+
+#202008_096 Wolf, Walter Beck
+describe ; mlbplayed=1969/
+death 2020-07-07 @ US/CA/Los Angeles
+
+#202008_097 Young, Joseph Bartholomew
+describe ; mlbplayed=1892/
+
+#202008_098 Zinn, Guy
+describe ; mlbplayed=1911/
+death @ US/WV/Nutter Fort

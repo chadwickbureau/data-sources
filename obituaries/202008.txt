@@ -850,3 +850,315 @@ death 2020-07-09 @ US/CA/San Bernardino
 highschool Cajon HS @ US/CA/San Bernardino
 burial Mount View Mortuary and Cemetery @ US/CA/San Bernardino
 
+---
+
+!citation Kilpatrick Funeral Homes @ 2020-08-26
+!url https://www.kilpatrickfuneralhomes.com/obituary/robert-v-lockwood/
+!file Lockwood_Robert.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-08-26
+
+#202008_067 Lockwood, Robert V.
+birth 1942-04-13 @ US/LA/Spearsville
+death 2020-08-23 @ US/LA/Shreveport
+highschool Spearsville HS @ US/LA/Spearsville
+college Centenary College of Louisiana
+burial Liberty Cemetery @ US/LA/Spearsville
+
+---
+
+!citation Geisel Funeral Home @ 2020-08-26
+!url https://memorials.geiselfuneralhome.com/fred-fore/2431297/obituary.php
+!file Fore_Fred.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-08-26
+
+#202008_068 Fore, Fred Barmont
+birth 1926-04-19 @ US/PA/McConnelsburg
+death 2016-03-12 @ US/PA/Chambersburg
+highschool McConnelsburg HS @ US/PA/McConnelsburg
+college Lebanon Valley College
+military US Army @ World War II
+
+---
+
+!citation Swanson Funeral Home @ 2020-08-26
+!url https://clswansonfuneralhome.com/tribute/details/390/Ronald-Thomas/obituary.html#tribute-start
+!file Thomas_Ron.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-08-26
+
+#202008_069 Thomas, Ronald Lee [Ron]
+birth 1931-12-12 @ US/PA/Hunlock Creek
+death 2016-03-13 @ US/PA/Hunlock Creek
+highschool Lehman HS @ US/PA/Lehman
+military US Army @ Korean War
+
+---
+
+!citation Cape News @ 2016-03-11
+!url https://www.capenews.net/bourne/obituaries/john-a-sanford/article_99f9eed1-c909-528c-9bb1-141f16c7701c.html
+!file Sanford_John.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-08-26
+
+#202008_070 Sanford, John Alfred 
+death 2016-03-05 @ US/MA/Wareham
+military US Army @ Korean War
+
+---
+ 
+!citation Nickerson-Bourne Funeral Home @ 2020-08-26
+!url https://www.dignitymemorial.com/obituaries/bourne-ma/john-sanford-6833430
+!file Sanford_Jack.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-08-26
+
+#202008_071 Sanford, John Alfred [Jack]
+birth 1928-10-26
+death 2016-03-05 @ US/MA/Wareham
+
+---
+
+!citation Mather-Hodge Funeral Home @ 2020-08-26
+!url https://matherhodge.com/tribute/details/803/Thomas-O-Connell/obituary.html#tribute-start
+!file OConnell_Thomas.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-08-26
+
+#202008_072 O'Connell, Thomas P. 
+birth 1933-03-10 @ US/MA/Boston
+death 2016-03-07
+college University of Connecticut
+military US Army
+
+---
+
+!citation Lodi-News Sentinel @ 2016-03-11
+!url https://www.legacy.com/obituaries/lodinews/obituary.aspx?n=Donald-Richard-Reynolds-Don&pid=178009525
+!file Reynolds_Don.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-08-26
+
+#202008_073 Reynolds, Donald Richard [Don]
+birth 1928-10-16 @ US/CA/Lodi
+death 2016-03-07 @ US/CA/Woodbridge
+highschool Modesto HS @ US/CA/Modesto
+
+---
+
+!citation Pineville (MO) Herald @ 1940-07-25
+!file Harmon_Prophet.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-08-26
+
+#202008_074 Harmon, Daniel C. "Profit"
+birth 1884-03-24 @ US/MO/Erie
+death 1940-07-22 @ US/KS/Pittsburg
+burial Harmon Cemetery @ US/MO/McDonald County
+
+---
+
+!citation San Antonio Express @ 1967-11-08
+!file Peters_George.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-08-26
+
+#202008_075 Peters, George H., Sr.
+death 1967-11-06 @ US/TX/Cotulla
+military US Navy @ World War I
+burial Cotulla Cemetery @ US/TX/Cotulla
+
+---
+
+!citation Fuller Funeral Home @ 2020-08-26
+!url https://www.fullersfh.com/obituary/Frank-Crews
+!file Crews_Frank.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-08-26
+
+#202008_076 Crews, Frank D.
+birth 1933-12-01 @ US/IN/Pigeon Switch
+death 2020-08-22 @ US/IN/Boonville
+military US Army
+
+---
+
+!citation Tuttle Funeral Home @ 2020-08-27
+!url https://tuttlefh.com/tribute/details/681/Don-Soisson/obituary.html#tribute-start
+!file Soisson_Don.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-08-27
+
+#202008_077 Soisson, Don B.
+birth @ US/PA/South Connellsville
+death 2016-03-07 @ US/NJ/Randolph
+military US Army @ Korean War
+
+---
+
+!citation Green Hills Funeral Home @ 2020-08-27
+!url https://www.greenhillsfuneralhome.net/obituary/James-Gibson
+!file Gibson_Pete.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-08-27
+
+#202008_078 Gibson, James Loren [Pete]
+birth 1935-01-04
+death 2016-03-02
+military US Army
+burial Elam-Davison Memorial Cemetery @ US/AL/Goshen
+
+---
+
+!citation E. Alvin Small Funeral Home @ 2020-08-27
+!url https://www.ealvinsmall.com/obituary/James-Roberts
+!file Roberts_James.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-08-27
+
+#202008_079 Roberts, James Iver
+birth 1929-11-29 @ US/GA/Irwinville
+death 2016-02-25
+highschool Irwin County HS @ US/GA/Ocilla
+military US Air Force
+burial Virginia Veterans Cemetery @ US/VA/Amelia Court House
+
+---
+
+!citation Stevens Funeral Home  @ 2020-08-29
+!url https://www.stevensfuneralhome.net/obituaries/Elmer-Lindsey/#!/Obituary
+!file Lindsey_Elmer.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-08-29
+
+#202008_080 Lindsey, Elmer B. "B"
+birth 1940-02-22
+death 2020-08-26
+highschool Forrest City HS @ US/AR/Forrest City
+burial Lindsey Cemetery @ US/AR/Forrest City
+
+---
+
+!citation Providence Journal @ 1952-12-03
+!file Rivard_George.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-08-29
+
+#202008_081 Rivard, George H. "Iron Man Leftie"
+birth 1888-02-27
+death 1952-12-02 @ US/RI/Providence
+military US @ World War I
+burial St. Ann Cemetery @ US/RI/Cranston
+
+---
+
+!citation Asbury Park Press @ 1965-10-10
+!file Astbury_Thomas.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-08-29
+ 
+#202008_082 Astbury, Thomas F.
+birth @ US/NJ/Trenton
+death 1965-10-08 @ US/NJ/Toms River
+
+---
+
+!citation Winona Daily News @ 1981-09-01
+!file Burmeister_Gerald.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-08-29
+ 
+#202008_083 Burmeister, Gerald William
+death 1981-08-25 @ US/TX/Houston
+burial Forest Park Westheimer Cemetery @ US/TX/Houston
+
+---
+
+!citation Weed Corley Fish Funeral Homes @ 2020-08-30
+!url https://www.dignitymemorial.com/obituaries/leander-tx/michael-gazella-9328082
+!file Gazella_Michael.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-08-30
+
+#202008_084 Gazella, Michael John
+birth 1927-08-16 @ US/NY/New York
+death 2020-08-26
+son of Gazella, Michael
+college University of California, Los Angeles
+military US Army @ World War II
+burial Sunset Memorial Gardens @ US/TX/Odessa
+
+---
+
+!citation Bevis Funeral Home @ 2020-08-30
+!url https://www.bevisfh.com/obituaries/Arthur-Art-Southall-Jr/#!/Obituary
+!file Southall_Art.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-08-30
+
+#202008_085 Southall, Arthur Willard, Jr. [Art]
+birth 1929-04-09 @ US/GA/Lake Park
+death 2020-08-16 @ US/FL/Tallahassee
+military US Air Force @ Korean War
+burial Tallahassee National Cemetery @ US/FL/Tallahassee
+
+---
+
+!citation Alton (IL) Telegraph @ 2014-07-03
+!file Dallape_Levo.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-08-30
+
+#202008_086 Dallape, Levo "Lee"
+birth 1920-06-01 @ IT//Stravino
+death 2014-07-02 @ US/OK/Skiatook
+highschool Collinsville HS @ US/IL/Collinsville
+burial Rose Lawn Memory Gardens @ US/IL/Bethalto
+
+---
+
+!citation Sanvito Funeral Homes @ 2020-08-31
+!url https://www.sanvitofuneralhome.com/obituary/Paul-Tesla
+!file Tesla_Paul.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-08-31
+
+#202008_087 Tesla, Paul
+birth 1927-08-15 @ US/PA/Coraopolis
+death 2020-08-23
+highschool Moon HS @ US/PA/Coraopolis
+college Eastern Kentucky University
+
+---
+
+!citation Pittsburgh Post-Gazette @ 2020-08-26
+!url https://obituaries.post-gazette.com/obituary/matthew-thomas-szykowny-1079904025
+!file Szykowny_Matt.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-08-31
+
+#202008_088 Szykowny, Matthew Thomas [Matt]
+birth @ US/PA/Bellevue
+death 2020-07-27
+highschool North Catholic HS @ US/PA/Pittsburgh
+college University of Iowa
+
+---
+
+!citation R.M. Ferguson Funeral Service @ 2020-08-31
+!url https://www.fergusonfs.com/obituary/David-Price
+!file Price_David.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-08-31
+
+#202008_089 Price, David Walter
+birth 1928-05-19 @ US/NC/Angier
+death 2020-08-24
+highschool Angier HS @ US/NC/Angier
+military US Air Force @ Korean War
+
+---
+
+!citation Boulger Funeral Home@ 2020-08-31
+!url https://boulgerfuneralhome.com/obituaries/dan-kittelson/
+!file Kittelson_Dan.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-08-31
+
+#202008_090 Kittelson, Dan Howard
+birth 1935-08-22 @ US/ND/Fargo
+death 2020-08-25
+highschool Enderlin HS @ US/ND/Enderlin
+burial Enderlin City Cemetery @ US/ND/Enderlin
+
+---
+
+!citation ABC Newspapers @ 2020-08-19
+!url https://www.hometownsource.com/abc_newspapers/obituaries/dale-howard-slupe/article_f4ebeedd-e5c7-5c23-b83d-910fb497e884.html
+!file Slupe_Dale.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-08-24
+
+#202008_091 Slupe, Dale Howard
+birth 1935-07-09 
+death 2020-07-23
+highschool Austin HS @ US/MN/Austin
+college Hamline University
+
+

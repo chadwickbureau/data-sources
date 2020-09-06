@@ -7,7 +7,6 @@ birth 1926-09-20
 death 1967-01
 
 ---
-
  
 !citation SSACI
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-08-17
@@ -16,3 +15,74 @@ death 1967-01
 sameas ssn:011-12-4649
 birth 1918-02-28 @ US/MA/Concord
 death 1992-06-26
+
+---
+
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-08-29
+ 
+#202008_003 Rivard, George
+sameas ssn:037-03-2796
+birth 1888-02-27 @ US/RI/Providence
+death 1952-12-02
+
+---
+
+!citation US WWII Draft Cards Young men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-08-30
+ 
+#202008_004 Hart, Ray
+birth 1914-09-02 @ US/PA/Washington
+ 
+---
+ 
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-08-30
+ 
+#202008_005 Hart, Ray
+sameas ssn:178-09-5238
+birth 1914-09-02
+death 1993-05-02
+ 
+---
+ 
+!citation US Department of Veterans Affairs BIRLS Death File, 1850-2010
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-08-30
+ 
+#202008_006 Hart, Ray
+sameas ssn:178-09-5238
+birth 1914-09-02
+death 1993-05-02
+military US Army @ World War II
+
+---
+
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-08-27
+ 
+#202008_007 Collins, Fred
+sameas ssn:118-01-9521
+birth 1916-09-08
+death 1986-11
+ 
+---
+ 
+!citation Georgia, Death Index, 1919-1998
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-08-27
+ 
+#202008_008 Collins, Frederick J.
+birth 1916
+death 1986-11-26
+
+---
+
+ 
+!citation US Department of Veterans Affairs BIRLS Death File, 1850-2010
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-08-27
+ 
+#202008_009 Collins, Fred
+sameas ssn:118-01-9521
+birth 1916-09-09
+death 1986-11-26
+military US Navy @ World War II
+

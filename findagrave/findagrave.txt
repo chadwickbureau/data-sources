@@ -2555,3 +2555,174 @@ birth 1928-02-13 @ US/AL/Chambers County
 death 2016-03-07 @ US/AL/Lanett
 burial Fairfax Cemetery @ US/AL/Valley
 
+---
+
+!citation findagrave.com @ 2020-08-27
+!url https://www.findagrave.com/memorial/47836046/lewis-ellsworth_lew_-hummel
+!contributor Ted Turocy <ted.turocy@gmail.com> @ 2020-08-27
+
+#208 Hummel, Lewis Ellsworth [Lew]
+sameas findagrave:47836046
+birth 1918-04-05
+death 2006-09-20 @ US/PA/Northumberland
+burial Riverview Cemetery @ US/PA/Northumberland
+highschool Northumberland HS @ US/PA/Northumberland; span=/1937
+
+---
+
+!citation findagrave.com @ 2020-08-26
+!url https://www.findagrave.com/memorial/5981153/daniel-curtis-harmon
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-08-26
+ 
+#209 Harmon, Daniel Curtis [Prophet]
+sameas findagrave:5981153
+birth 1884-03-24
+death 1940-07-22
+burial Harmon Cemetery @ US/MO/McDonald County
+
+---
+ 
+!citation findagrave.com @ 2020-08-26
+!url https://www.findagrave.com/memorial/44431210/george-herman-peters
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-08-26
+ 
+#210 Peters, George Herman
+sameas findagrave:44431210
+birth 1900-07-14 @ US/TX/Chester
+death 1967-11-06 @ US/TX/Cotulla
+burial Cotulla Cemetery @ US/TX/Cotulla
+
+---
+
+!citation findagrave.com @ 2020-08-27
+!url https://www.findagrave.com/memorial/25118971/john-joseph-bianco
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-08-27
+ 
+#211 Bianco, John Joseph
+sameas findagrave:25118971
+birth 1920-02-02 @ US/NY/Manhattan
+death 1977-01-14 @ US/ID/Caldwell
+burial Canyon Hill Cemetery @ US/ID/Caldwell
+
+---
+
+!citation findagrave.com @ 2020-08-27
+!url https://www.findagrave.com/memorial/98780669/john-francis-cannon
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-08-27
+ 
+#212 Cannon, John Francis, Sr.
+sameas findagrave:98780669
+birth 1915-12-01
+death 1988-12-30
+burial Georgetown Cemetery @ US/KY/Georgetown
+
+---
+
+!citation findagrave.com @ 2020-08-29
+!url https://www.findagrave.com/memorial/158535565/george-henry-rivard
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-08-29
+ 
+#213 Rivard, George Henry
+sameas findagrave:158535565
+birth 1888-02-27
+death 1952-12-02
+military US @ World War I
+burial St. Ann Cemetery @ US/RI/Cranston
+
+---
+
+!citation findagrave.com @ 2020-08-29
+!url https://www.findagrave.com/memorial/78777007/thomas-f-astbury
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-08-29
+ 
+#214 Astbury, Thomas F.
+sameas findagrave:78777007
+birth 1920-12-15
+death 1965-10-08
+burial St. Joseph's Catholic Cemetery and Mausoleums @ US/NJ/Toms River
+
+---
+
+!citation findagrave.com @ 2020-08-29
+!url https://www.findagrave.com/memorial/153922528/gerald-w-burmeister
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-08-29
+ 
+#215 Burmeister, Gerald W.
+sameas findagrave:153922528
+birth 1916-08-11
+death 1981-08-25
+burial Forest Park Westheimer Cemetery @ US/TX/Houston
+
+---
+
+!citation findagrave.com @ 2020-08-29
+!url https://www.findagrave.com/memorial/144596504/jack-w_-card
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-08-29
+ 
+#216 Card, Jack W.
+sameas findagrave:144596504
+birth 1915-09-30
+death 2000-11-15
+burial Washington Heights Memorial Park @ US/UT/Ogden
+
+---
+
+!citation findagrave.com @ 2020-08-30
+!url https://www.findagrave.com/memorial/118387257/harold-bud-dobson
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-08-30
+ 
+#217 Dobson, Harold Bud
+sameas findagrave:118387257
+birth 1919-10-15 @ US/NE/Lincoln
+death 1943-05-23 @ US/CA/San Bernardino County
+burial Fairmount Cemetery @ US/CO/Denver
+
+---
+
+!citation findagrave.com @ 2020-08-30
+!url https://www.findagrave.com/memorial/130626208/roy-r_-drasites
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-08-30
+ 
+#218 Drasites, Roy R.
+sameas findagrave:130626208
+birth 1916-08-31 @ US/IL/Chicago
+death 2014-05-30 @ US/IL/Galesburg
+burial East Linwood Cemetery @ US/IL/Galesburg
+
+---
+
+!citation findagrave.com @ 2020-08-30
+!url https://www.findagrave.com/memorial/88696713/robert-a_-eisiminger
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-08-30
+ 
+#219 Eisiminger, Robert A.
+sameas findagrave:88696713
+birth 1920-09-01 @ US/MO/St. Joseph
+death 2011-12-08 @ US/MI/Canton
+burial Cremated
+
+---
+
+!citation findagrave.com @ 2020-09-02
+!url https://www.findagrave.com/memorial/75148018/samuel-wesley-freeny
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-09-02
+ 
+#220 Freeny, Samuel Wesley
+sameas findagrave:75148018
+birth 1896-08-26 @ US/MD/Salisbury
+death 1944-12-22 @ PH//Olongapo
+burial United States Naval Academy Cemetery @ US/MD/Annapolis
+
+---
+ 
+!citation findagrave.com @ 2020-08-27
+!url https://www.findagrave.com/memorial/167966212/fred-j-collins
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-08-27
+ 
+#221 Collins, Fred J. “Rip”
+sameas findagrave:167966212
+birth 1916
+death 1986
+burial Peachtree Memorial Park @ US/GA/Norcross
+
+
