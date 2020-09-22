@@ -1,0 +1,271 @@
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-09-16
+ 
+#202009_001 Brunner, Sheldon George
+birth 1914-01-21 @ US/IL/Chicago
+ 
+---
+ 
+!citation Cook County, Illinois Birth Certificates Index, 1871-1922
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-09-16
+ 
+#202009_002 Brunner, Sheldon
+birth 1915-01-21 @ US/IL/Chicago
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-09-10
+ 
+#202009_003 Templeton, Archie Leland
+birth 1918-05-16 @ US/NC/Charlotte
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-09-10
+ 
+#202009_004 Wein, Russell Carl
+birth 1915-09-05 @ US/MI/Detroit
+
+---
+
+!citation US WWII Draft Cards Young men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-09-10
+ 
+#202009_005 Maren, Robert John
+birth 1918-05-10 @ US/IL/Joliet
+
+---
+
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-09-10
+ 
+#202009_006 Cott, Orval Edward
+sameas ssn:118-05-7336
+birth 1918-07-17 @ US/NY/Buffalo
+death 2003-12-26
+ 
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-09-10
+ 
+#202009_007 Gabbard, John, Jr.
+birth 1923-08-17 @ US/OH/New Miami
+ 
+---
+
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-09-09
+ 
+#202009_008 Gravin, James P.
+sameas ssn:338-10-2146
+birth 1913-02-07
+death 1992-12-06
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-09-09
+ 
+#202009_009 Gravin, James Patrick
+birth 1913-02-07 @ US/IL/Chicago
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-09-09
+ 
+#202009_010 Yurocko, Michael Andrew
+birth 1914-11-02 @ US/OH/Roswell
+ 
+---
+ 
+!citation Florida Death Index, 1877-1998
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-09-09
+ 
+#202009_011 Yurocko, Michael A.
+birth 1914-11-02
+death 1993-12-19 @ US/FL/Dade County
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-09-09
+ 
+#202009_012 Von Ahnen, William Henry
+birth 1918-07-23 @ US/NY/Brooklyn
+ 
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-09-09
+ 
+#202009_013 Pecora, Alexander Joseph
+birth 1918-04-06 @ US/NY/New York
+ 
+---
+ 
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-09-09
+ 
+#202009_014 Pecora, Alexander Joseph
+sameas ssn:103-03-5009
+birth 1918-04-06 @ US/NY/New York
+death 2005-07-11
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-09-10
+ 
+#202009_015 Niedson, Joseph George
+birth 1918-04-06 @ US/MI/Detroit
+
+---
+
+!citation SUS Dept. of Veterans Affairs BIRLS Death File, 1850-2010
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-09-10
+ 
+#202009_016 Niedson, Joseph
+sameas ssn:378-03-0628
+birth 1918-04-06
+death 1993-12-16
+military US Army @ World War II
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-09-10
+ 
+#202009_017 Schmiel, Harry George
+birth 1914-02-22 @ US/IL/Chicago
+ 
+---
+ 
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-09-10
+ 
+#202009_018 Schmiel, Harry George
+sameas ssn:337-01-4015
+birth 1914-02-22
+death 2004-09-01
+
+---
+
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-09-10
+ 
+#202009_019 Smith, Raymond Valentine
+sameas ssn:054-14-2265
+birth 1920-02-14 @ US/CT/Windsor Locks
+death 2005-12-09
+
+---
+
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-09-10
+ 
+#202009_020 Wright, Claude Watson
+sameas ssn:411-10-2835
+birth 1915-08-14 @ US/TN/Eidson
+death 1993-08-15
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-09-10
+ 
+#202009_021 Yarewick, William
+birth 1916-11-15 @ US/NJ/Bayonne
+
+---
+
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-09-10
+ 
+#202009_022 Wachtler, Elmer John
+sameas ssn:505-09-9567
+birth 1918-07-16 @ US/NE/Omaha
+death 1945-01
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-09-14
+ 
+#202009_023 Groseclose, Bailey Scott
+birth 1906-02-16 @ US/WV/Bluefield
+ 
+---
+ 
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-09-14
+ 
+#202009_024 Groseclose, Bailey
+sameas ssn:233-09-8581
+birth 1906-02-16
+death 1981-09
+
+---
+
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-09-14
+ 
+#202009_025 Derose, Carl G.
+sameas ssn:552-24-3354
+birth 1923-04-12 @ US/MN/Milaca
+death 1989-01-02
+
+---
+
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-09-21
+ 
+#202009_026 Smerek, Raymond
+sameas ssn:494-26-7823
+birth 1927-03-10
+death 1989-04
+
+---
+
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-09-22
+ 
+#202009_027 Hornig, Robert David
+sameas ssn:534-03-3489
+birth 1916-04-20 @ US/WA/Tacoma
+death 2003-05-01
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-09-22
+ 
+#202009_028 Costello, Robert Anthony
+birth 1917-05-09 @ US/WA/Sprague
+
+---
+ 
+!citation Washington, Death Index, 1940-2017
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-09-22
+ 
+#202009_029 Costello, Robert A.
+death 1988-05-21 @ US/WA/Spokane
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-09-22
+ 
+#202009_030 Hope, Edward Walter
+birth 1913-10-22 @ US/IL/Chicago
+
+---
+
+!citation Cook County, Illinois, Birth Certificates Index, 1871-1922
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-09-22
+ 
+#202009_031 Hope, Edward
+birth 1913-10-22 @ US/IL/Chicago
