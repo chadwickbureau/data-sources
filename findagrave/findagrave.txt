@@ -2991,3 +2991,38 @@ sameas findagrave:189053975
 birth 1911-05-07
 death 1974-02-04
 burial St. Columba Cemetery @ US/NY/Chester
+
+---
+
+!citation findagrave.com @ 2020-09-25
+!url https://www.findagrave.com/memorial/162241250/jerome-p.-barta
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-09-25
+ 
+#244 Barta, Jerome P.
+sameas findagrave:162241250
+birth 1922-10-01
+death 2004-10-11
+burial Riverview Abbey Mausoleum & Crematory @ US/OR/Portland
+
+---
+
+!citation findagrave.com @ 2020-09-30
+!url https://www.findagrave.com/memorial/145811640/joseph-krakowski
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-09-30
+ 
+#245 Krakowski, Joseph
+sameas findagrave:145811640
+death 1999-11-24
+burial Mount St. Mary's Cemetery @ US/RI/Pawtucket
+
+---
+ 
+!citation findagrave.com @ 2020-10-02
+!url https://www.findagrave.com/memorial/131539709/george-j.-kromer
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-02
+ 
+#246 Kromer, George J.
+sameas findagrave:131539709
+birth 1876-08-25 @ US/WI/Kaukauna
+death 1970-11-20 @ US/WI/Hartland
+burial Union Cemetery @ US/WI/Kaukauna

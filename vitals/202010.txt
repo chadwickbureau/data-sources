@@ -1,0 +1,33 @@
+!citation WWI Draft Registration Cards, 1917-1918
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-02
+ 
+#202010_001 Rohrer, William U.
+birth 1889-11-02 @ US/NE/Hastings
+ 
+---
+ 
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-02
+ 
+#202010_002 Rohrer, William, Sr.
+sameas ssn:570-22-8101
+birth 1888-11-02
+death 1970-08
+ 
+---
+ 
+!citation California, Death Index, 1940-1997
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-02
+ 
+#202010_003 Rohrer, William U.
+sameas ssn:570-22-8101
+birth 1888-11-02 @ US/NE
+death 1970-08-08 @ US/CA/Los Angeles County
+ 
+---
+ 
+!citation WWII Draft Registration Cards, 1942
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-02
+ 
+#202010_004 Rohrer, William Ur
+birth 1888-11-02 @ US/NE/Hastings

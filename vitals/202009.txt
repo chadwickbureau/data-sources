@@ -269,3 +269,47 @@ birth 1913-10-22 @ US/IL/Chicago
  
 #202009_031 Hope, Edward
 birth 1913-10-22 @ US/IL/Chicago
+
+---
+
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-09-22
+ 
+#202009_032 Hvisdos, John Joseph, Sr.
+sameas ssn:286-01-7171
+birth 1911-01-02
+death 1969-01-14
+ 
+---
+ 
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-09-22
+ 
+#202009_033 Hvisdos, John Joseph
+birth 1911-01-02 @ US/PA/Scranton
+ 
+---
+ 
+!citation Ohio, Death Records, 1908-1932, 1938-2018
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-09-22
+ 
+#202009_034 Hvisdos, John J.
+death 1969-01-14 @ US/OH/Cleveland
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-09-25
+ 
+#202009_035 Barta, Jerry Peter
+birth 1922-10-01 @ US/OR/Portland
+
+---
+
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-09-30
+ 
+#202009_036 Krakowski, Joseph Walter
+sameas ssn:036-10-1001
+birth 1916-09-01 @ US/RI/Valley Falls
+death 1999-11-24

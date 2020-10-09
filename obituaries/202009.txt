@@ -748,3 +748,222 @@ burial Graceland Cemetery @ US/AR/Pine Bluff
 #202009_060 Hope, Edward [Eddie]
 death 1952-12-13 @ US/WI/Racine
 burial Holy Cross Cemetery & Mausoleum @ US/WI/Milwaukee
+
+---
+
+!citation Groce Funeral Home @ 2020-09-23
+!url https://www.grocefuneralhome.com/obits/larry-joe-carter/
+!file Carter_Larry.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-09-23
+
+#202009_061 Carter, Larry Joe
+birth 1930-02-22
+death 2016-01-30 @ US/NC/Mills River
+
+---
+
+!citation Wheelan-Pressly Family Funeral Homes @ 2020-09-24
+!url https://www.wheelanpressly.com/obituary/Philip-White
+!file White_Philip.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-09-24
+
+#202009_062 White, Philip J.
+birth 1936-10-01 @ US/MA/Leominster
+death 2020-09-23 @ US/IL/East Moline
+highschool St. Bernard's HS @ US/MA/Fitchburg
+military US Army
+burial Rock Island Memorial Park Cemetery @ US/IL/Rock Island
+
+---
+
+!citation Bucks County Courier Times @ 2016-01-24
+!url https://www.buckscountycouriertimes.com/article/20160124/OBITUARIES/301249892
+!file Lebegern_Jack.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-09-25
+
+#202009_063 Lebegern, John H., Jr. [Jack]
+birth @ US/PA/Morrisville
+death 2016-01-19 @ US/PA/Newtown
+highschool Morrisville HS @ US/PA/Morrisville
+
+---
+
+!citation McNabb Funeral Home @ 2020-09-25
+!url https://www.mcnabbfh.com/obituaries/Lafayette-L-Bennett?obId=1170100#/obituaryInfo
+!file Bennett_Lafayette.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-09-25
+
+#202009_064 Bennett, Lafayette L.
+birth 1926-05-03 @ US/AR/Jonesboro
+death 2016-01-16 @ US/AR/Jonesboro
+military US Navy @ World War II
+burial Jonesboro Memorial Park Cemetery @ US/AR/Jonesboro
+
+---
+
+!citation Leete-Stevens Funeral Home @ 2020-09-25
+!url https://www.leetestevens.com/memorials/theodore-mucha/2363764/obituary.php
+!file Mucha_Chucky.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-09-25
+
+#202009_065 Mucha, Theodore Frank [Chucky]
+birth 1924-01-27 @ US/MA/Turners Falls
+death 2016-01-22 @ US/CT/Windsor
+highschool Turners Falls HS @ US/MA/Turners Falls
+military US Navy @ World War II
+burial St. Mary's Cemetery @ US/CT/Windsor Locks
+
+---
+
+!citation Miami Herald @ 2016-01-21
+!url https://www.legacy.com/obituaries/herald/obituary.aspx?n=John-Joseph-Stevens-Jack&pid=177380430
+!file Stevens_Jack.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-09-25
+
+#202009_066 Stevens, John Joseph, Jr. [Jack]
+birth @ US/MA/Dorchester
+death 2016-01-15
+military US Army
+burial Woodlawn Park Cemetery South @ US/FL/Miami
+
+---
+
+!citation Roche Funeral Home @ 2020-09-25
+!url https://www.rochefuneralhome.com/obituaries/William-Lahart/#!/Obituary
+!file Lahart_Duke.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-09-25
+
+#202009_067 Lahart, William T., Jr. [Duke]
+birth 1929-12-10 @ US/MA/Pittsfield
+death 2016-01-15 @ US/NY/Albany
+highschool Lenox HS @ US/MA/Lenox
+burial St. Ann's Cemetery @ US/MA/Lenox
+
+---
+
+!citation Solfanelli-Fiorillo Funeral Home @ 2020-09-28
+!url https://www.solfanellifiorillofuneralhome.com/book-of-memories/4341877/Del-Santro-Albert/obituary.php
+!file Del_Santro_Al.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-09-28
+
+#202009_068 Del Santro, Albert D. [Al]
+birth 1935-01-24 @ US/NJ/Newark
+death 2020-09-23 @ US/PA/West Scranton
+military US Army
+burial Cathedral Cemetery @ US/PA/Scranton
+
+---
+
+!citation Dobbling, Muehlenkamp-Erschell Funeral Home @ 2020-09-28
+!url https://www.dmefuneral.com/obituaries/Paul-J-Martini?obId=18443463#/obituaryInfo
+!file Martini_Paul.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-09-28
+
+#202009_069 Martini, Paul J.
+birth 1928-08-23
+death 2020-09-23 @ US/KY/Taylor Mill
+military US @ Korean War
+burial St. Stephen Cemetery @ US/KY/Fort Thomas
+
+---
+
+!citation Leete-Stevens Funeral Home @ 2020-09-28
+!url https://www.leetestevens.com/memorials/robert-shannon/3675209/index.php
+!file Shannon_Bob.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-09-28
+
+#202009_070 Shannon, Robert F. [Bob]
+birth 1929-07-08 @ US/CT/Hartford
+death 2020-09-25
+military US Army @ Korean War
+burial St. Mary's Cemetery @ US/CT/Windsor Locks
+
+---
+
+!citation Newsday @ 2020-09-27
+!url https://www.legacy.com/obituaries/newsday/obituary.aspx?n=robert-w-quinn&pid=196858970&fhid=6901
+!file Quinn_Bob.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-09-28
+
+#202009_071 Quinn, Robert W. [Bob]
+death 2020-09-26
+military US Navy
+burial St. Patrick's Cemetery @ US/NY/Huntington
+
+---
+
+!citation Providence Journal @ 1999-11-25
+!file Krakowski_Joe.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-09-30
+
+#202009_072 Krakowski, Joseph W. [Joe] "Ge Ge"
+birth @ US/RI/Cumberland
+death 1999-11-24 @ US/RI/Providence
+highschool Central Falls HS @ US/RI/Central Falls
+burial Mount St. Mary's Cemetery @ US/RI/Pawtucket
+
+---
+
+!citation The Ledger @ 2020-09-30
+!url https://www.legacy.com/obituaries/theledger/obituary.aspx?n=robert-e-kelly-bob&pid=196877442
+!file Kelly_Bob.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-09-30
+
+#202009_073 Kelly, Robert E. [Bob]
+birth 1926-11-14 @ US/FL/Eaton Park
+death 2020-09-26 @ US/FL/Lakeland
+highschool Summerlin Institute @ US/FL/Bartow
+military US Army @ World War II
+burial Wildwood Cemetery @ US/FL/Bartow
+
+---
+
+!citation Eckersell Funeral Home @ 2020-10-01
+!url https://www.eckersellfuneralhome.com/obituary/kent-geisler
+!file Geisler_Kent.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-01
+
+#202009_074 Geisler, Kent Lindsay
+birth 1936-09-28
+death 2020-09-29 @ US/ID/Idaho Falls
+highschool Rigby HS @ US/ID/Rigby
+burial Little Butte Cemetery @ US/ID/Annis
+
+---
+
+!citation East Bay Times @ 2020-09-25
+!url https://www.legacy.com/obituaries/eastbaytimes/obituary.aspx?n=michael-antone-mike&pid=196820170
+!file Antone_Mike.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-01
+
+#202009_075 Antone, Michael [Mike]
+birth 1955-06-05 @ US/CA/Oakland
+death 2020-09-11
+highschool San Leandro HS @ US/CA/San Leandro
+college Chabot College
+
+---
+
+!citation Appleton Post-Crescent @ 1970-11-21
+!file Kromer_Stormy.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-02
+
+#202009_076 Kromer, George J. [Stormy]
+birth 1876-08-25 @ US/WI/Kaukauna
+death 1970-11-20
+burial Union Cemetery @ US/WI/Kaukauna
+
+---
+
+!citation Bowser-Minich Funeral Home @ 2020-10-02
+!url https://www.bowserminich.com/obituary/theodore-pallone
+!file Pallone_Ted.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-02
+
+#202009_077 Pallone, Theodore J. [Ted]
+birth 1931
+death 2020-09-30 @ US/PA/Shelocta
+highschool Elderton HS @ US/PA/Elderton
+military US Army @ Korean War
+burial Elderton Cemetery @ US/PA/Elderton
+
