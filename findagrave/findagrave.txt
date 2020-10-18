@@ -3026,3 +3026,164 @@ sameas findagrave:131539709
 birth 1876-08-25 @ US/WI/Kaukauna
 death 1970-11-20 @ US/WI/Hartland
 burial Union Cemetery @ US/WI/Kaukauna
+
+---
+
+!citation findagrave.com @ 2020-10-10
+!url https://www.findagrave.com/memorial/176103182/theodore-kakoliris
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-10
+ 
+#247 Kakoliris, Theodore
+sameas findagrave:176103182
+birth 1918-08-18
+death 2004-07-01
+burial Elmwood Cemetery @ US/AL/Birmingham
+
+---
+
+!citation findagrave.com @ 2020-10-10
+!url https://www.findagrave.com/memorial/11268445/charles-rex-carr
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-10
+ 
+#248 Carr, Charles Rex
+sameas findagrave:11268445
+birth 1915-11-30
+death 1993-05-27
+burial Neeley Cemetery @ US/TX/Pone
+
+---
+
+!citation findagrave.com @ 2020-10-10
+!url https://www.findagrave.com/memorial/88335615/donald-william-devault
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-10
+ 
+#249 DeVault, Donald William "Jiggs"
+sameas findagrave:88335615
+birth 1915-08-02 @ US/IN/Vanderburgh County
+death 1997-09-03 @ US/IN/Evansville
+burial St. Joseph Catholic Cemetery @ US/IN/Evansville
+ 
+---
+
+!citation findagrave.com @ 2020-10-12
+!url https://www.findagrave.com/memorial/25232348/victor-l-george
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-12
+ 
+#250 George, Victor L.
+sameas findagrave:25232348
+birth 1913-03-11 @ US/KS/Altamont
+death 2008-03-12 @ US/KS/Parsons
+burial Mount Pleasant Cemetery @ US/KS/Altamont
+
+---
+
+!citation findagrave.com @ 2020-10-16
+!url https://www.findagrave.com/memorial/91941785/clarence-lee-tiner
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-16
+ 
+#251 Tiner, Clarence Lee
+sameas findagrave:91941785
+birth 1899-11-05
+death 1979-02-08
+military US Army @ World War II
+burial Wharton City Cemetery @ US/TX/Wharton
+
+---
+ 
+!citation findagrave.com @ 2020-10-16
+!url https://www.findagrave.com/memorial/14536320/jack-baer
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-16
+ 
+#252 Baer, Jack
+sameas findagrave:14536320
+birth 1914-10-29
+death 2002-03-08
+military US Navy @ World War II
+burial IOOF Cemetery @ US/OK/Norman
+
+---
+ 
+!citation findagrave.com @ 2020-10-16
+!url https://www.findagrave.com/memorial/179303160/john-e-casey
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-16
+ 
+#253 Casey, John E., Sr.
+sameas findagrave:179303160
+birth 1913-02-08
+death 2003-12-23
+military US Army @ World War II
+burial Massachusetts National Cemetery @ US/MA/Bourne
+
+---
+
+!citation findagrave.com @ 2020-10-16
+!url https://www.findagrave.com/memorial/132614826/william-decarlo
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-16
+ 
+#254 DeCarlo, William
+sameas findagrave:132614826
+birth 1916-10-12
+death 1992-11-16
+burial Valhalla Memorial Park @ US/CA/North Hollywood
+
+---
+
+!citation findagrave.com @ 2020-10-16
+!url https://www.findagrave.com/memorial/38078673/leo-william-eastham
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-16
+ 
+#255 Eastham, Leo William
+sameas findagrave:38078673
+birth 1918-11-15 @ US/MA/Lowell
+death 1975-01-20 @ PA
+burial Corozal American Cemetery and Memorial @ PA//Corozal
+
+---
+
+!citation findagrave.com @ 2020-10-17
+!url https://www.findagrave.com/memorial/86162493/leland-e.-heller
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-17
+ 
+#256 Heller, Leland E.
+sameas findagrave:86162493
+birth 1913-06-04
+death 1985-12-27
+military US Navy @ World War II
+burial Vestal Hills Memorial Park @ US/NY/Vestal
+
+---
+ 
+!citation findagrave.com @ 2020-10-17
+!url https://www.findagrave.com/memorial/38847821/william-emerson-jackson
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-17
+ 
+#257 Jackson, William Emerson
+alias Cutlip, Alva; type=birth
+sameas findagrave:38847821
+birth 1911-04-11 @ US/WA
+death 1974-08-03 @ US/CA/Stanislaus County
+burial Acacia Memorial Park @ US/CA/Modesto
+
+---
+ 
+!citation findagrave.com @ 2020-10-17
+!url https://www.findagrave.com/memorial/188600523/wilbur-c-mcelroy
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-17
+ 
+#258 McElroy, Wilbur G.
+sameas findagrave:188600523
+birth 1920
+death 1993
+burial Highland Memorial Gardens @ US/TN/Jackson
+
+---
+ 
+!citation findagrave.com @ 2020-10-17
+!url https://www.findagrave.com/memorial/188189142/constant-w-myska
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-17
+ 
+#259 Myska, Constant W.
+sameas findagrave:188189142
+death 1949-02-01
+military US Navy @ World War II
+burial Sacred Heart Cemetery @ US/CT/New Britain

@@ -31,3 +31,154 @@ death 1970-08-08 @ US/CA/Los Angeles County
  
 #202010_004 Rohrer, William Ur
 birth 1888-11-02 @ US/NE/Hastings
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-10
+ 
+#202010_005 Koewing, Wilson Carl
+birth 1912-01-27 @ US/MO/Chesterfield
+
+---
+
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-10
+ 
+#202010_006 Kuipers, Samuel
+sameas ssn:154-03-9849
+birth 1917-07-23 @ US/NJ/Fair Lawn
+death 1998-04-16
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-10
+ 
+#202010_007 Coughlin, James Bernard
+birth 1917-12-20 @ US/MA/Worcester
+resides @ US/MA/Somerville, address=79 Ossipee Road
+ 
+---
+ 
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-10
+ 
+#202010_008 Coughlin, James Bernard
+sameas ssn:032-10-7123
+birth 1917-12-20 @ US/MA/Worcester
+death 1991-01-17
+ 
+---
+ 
+!citation Massachusetts, Death Index, 1970-2003
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-10
+ 
+#202010_009 Coughlin, James B.
+birth 1917-12-20
+death 1991-01-17 @ US/MA/Arlington
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-12
+ 
+#202010_010 Gondira, George Washington
+birth 1914-02-23 @ US/PA/Smithton
+ 
+---
+ 
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-12
+ 
+#202010_011 Gondira, George W.
+sameas ssn:272-09-9468
+birth 1914-02-23
+death 1997-09-25
+
+---
+ 
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-16
+ 
+#202010_012 Baer, Jack
+sameas ssn:446-09-6771
+birth 1914-10-29 @ US/OK/Shawnee
+death 2002-03-08
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-16
+ 
+#202010_013 Casey, John Edward
+birth 1913-02-08 @ US/MA/Cambridge
+ 
+---
+ 
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-16
+ 
+#202010_014 Casey, John Edward
+sameas ssn:029-09-2303
+birth 1913-02-08 @ US/MA/Cambridge
+death 2003-12-23
+
+---
+ 
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-17
+ 
+#202010_015 Heller, Leland Emerick
+birth 1913-06-04 @ US/PA/Souderton
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-17
+ 
+#202010_016 Jackson, William Emerson
+birth 1912-04-11 @ US/WA/Mays
+
+---
+
+!citation Washington Birth Index, 1907-1919
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-17
+ 
+#202010_017 Cutlip, Alva Emerson
+birth 1911-04-11 @ US/WA/Lewis County
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-17
+ 
+#202010_018 McElroy, Wilbur Glenn
+birth 1920-06-26 @ US/CA/Los Angeles
+
+---
+ 
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-17
+ 
+#202010_019 McElroy, Wilbur G.
+sameas ssn:571-10-7886
+birth 1920-06-26
+death 1993-04-10
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-17
+ 
+#202010_020 McLaughlin, John Herbert
+birth 1916-09-02 @ US/MA/Jamaica Plain
+resides @ US/MA/Allston; address=25 Riverdale Street
+
+---
+ 
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-17
+ 
+#202010_021 Myska, Constant Walter
+birth 1916-02-10 @ US/CT/New Britain

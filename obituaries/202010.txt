@@ -197,3 +197,242 @@ birth 1941-08-26 @ US/NJ/Bound Brook
 death 2020-10-06 @ US/NJ/Branchburg
 highschool Somerville HS @ US/NJ/Somerville
 burial Redfield Village Cemetery @ US/NY/Redfield
+
+---
+
+!citation Journal News @ 2020-10-10
+!url https://obits.lohud.com/obituaries/lohud/obituary.aspx?n=joseph-j-grillo&pid=196923863&fhid=21959
+!file Grillo_Joe.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-10
+
+#202010_017 Grillo, Joseph J., Jr. [Joe]
+birth 1950-10-14 @ US/NY/Bronx
+death 2020-10-06
+highschool James Monroe HS @ US/NY/Bronx
+college Kansas Wesleyan University
+college Long Island University, Brooklyn Campus
+burial Gate of Heaven Cemetery @ US/NY/Hawthorne
+
+---
+
+!citation Times-Standard @ 2020-10-10
+!url https://www.legacy.com/obituaries/times-standard/obituary.aspx?n=hugo-papstein&pid=196925610
+!file Papstein_Hugo.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-10
+
+#202010_018 Papstein, Hugo
+birth 1938 @ US/CT/Westport
+death 2020-10-06
+highschool Staples HS @ US/CT/Westport
+
+---
+
+!citation Evansville Courier & Press @ 1997-09-04
+!file DeVault_Don
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-10
+ 
+#202010_019 DeVault, Donald W. "Jiggs"
+death 1997-09-03 @ US/IN/Evansville
+burial St. Joseph Catholic Cemetery @ US/IN/Evansville
+
+---
+
+!citation Bradley's Funeral Home @ 2020-10-11
+!url https://www.bradleysfh.com/obituary/3393423
+!file Colley_Wiley.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-11
+
+#202010_020 Colley, Wiley Braxton
+birth 1929-05-03
+death 2015-11-27 @ US/VA/Marion
+burial Rosewood Memorial Gardens @ US/VA/Rural Retreat
+
+---
+
+!citation Paul A. Shaker Funeral Home @ 2020-10-12
+!url https://shakerfuneralhome.com/book-of-memories/4352864/Scott-Tary-N./index.php
+!file Scott_Tary.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-12
+
+#202010_021 Scott, Tary N. "Boomer"
+birth 1963-09-13
+death 2020-10-02
+highschool David Crockett HS @ US/TN/Jonesborough
+college Walters State Community College
+burial Unknown Cemetery @ US/TN/Jonesborough
+
+---
+
+!citation Frietag Funeral Home @ 2020-10-12
+!url https://www.freitagfuneralhome.com/obit_search.asp?ID=4230
+!file Hornberger_Bob.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-12
+
+#202010_022 Hornberger, Robert Milton [Bob]
+birth 1927-12-22 @ US/PA/Christiana
+death 2020-10-03 @ US/PA/West Grove
+highschool Scott HS @ US/PA/Coatesville
+military US Army @ Korean War
+burial Middle Octorara Cemetery @ US/PA/Quarryville
+
+---
+
+!citation Benefield Funeral Home @ 2020-10-12
+!url https://benefieldfhwedowee.com/tribute/details/2646/John-Valmas-Sr/obituary.html
+!file Valmas_Joe.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-12
+
+#202010_023 Valmas, John James, Sr. [Joe]
+birth 1933-11-09 @ US/NY/Yonkers
+death 2020-10-11 @ US/AL/Wedowee
+military US Army @ Korean War
+burial Old Wedowee City Cemetery @ US/AL/Wedowee
+
+---
+
+!citation Conner & Koch Funeral Home @ 2020-10-12
+!url https://www.connerandkoch.com/memorials/harold-perrin/4352788/index.php
+!file Perrin_Harold.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-12
+
+#202010_024 Perrin, Harold Smith
+birth 1922-03-12 @ US/KY/Berry
+death 2020-10-08 @ US/OH/Dayton
+military US Army @ World War II
+burial Bellbrook Cemetery @ US/OH/Bellbrook
+
+---
+
+!citation J. E. Foster Funeral Home @ 2020-10-12
+!url https://www.jefosterfh.com/obituary/Stephen-Romey
+!file Romey_Steve.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-12
+
+#202010_025 Romey, Stephen Mark [Steve]
+birth 1957-02-27 @ US/OH/Steubenville
+death 2020-10-05 @ US/OH/Steubenville
+
+---
+
+!citation Central Florida Casket Store & Funeral Chapel @ 2020-10-12
+!url https://www.casketstore.net/obituaries/lynn-m-adams/1263/
+!file Adams_Lynn.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-12
+
+#202010_026 Adams, Lynn M.
+birth 1949-11-27 @ US/CA/Oakland
+death 2020-10-01 
+highschool St. Elizabeth HS @ US/CA/Oakland
+military US Army
+
+---
+
+!citation Egelhof, Siegert & Casper Funeral Home @ 2020-10-12
+!url https://www.egelhofsiegertcasper.com/memorials/robert-schlueter/2347327/obituary.php
+!file Schlueter_Bob.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-12
+
+#202010_027 Schlueter, Robert L. [Bob]
+birth 1926-09-26 @ US/IA/Dubuque
+death 2016-01-16 @ US/IA/Dubuque
+highschool Loras Academy @ US/IA/Dubuque
+college Loras College
+burial Mount Calvary Cemetery @ US/IA/Dubuque
+
+---
+
+!citation Deseret News @ 2020-10-13
+!url https://www.legacy.com/obituaries/deseretnews/obituary.aspx?n=arlen-ray-peacock&pid=196935989&fhid=11609
+!file Peacock_Arlen.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-13
+
+#202010_028 Peacock, Arlen Ray
+birth 1932-08-07 @ US/UT/Salt Lake City
+death 2020-10-10
+highschool South HS @ US/UT/Salt Lake City
+college University of Utah
+military US Army @ Korean War
+burial Wasatch Lawn Memorial Park @ US/UT/Millcreek
+
+---
+
+!citation Williams Funeral Home @ 2020-10-13
+!url https://www.williamsfh.com/obituaries/Jimmie-Haney/#!/Obituary
+!file Haney_Jim.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-13
+
+#202010_029 Haney, Jimmie Hudson, Jr. [Jim]
+birth 1929-08-30 @ US/TN/Marshall County
+death 2020-10-10 @ US/TN/Columbia
+highschool Forrest HS @ US/TN/Chapel Hill
+military US Navy @ Korean War
+burial Polk Memorial Gardens @ US/TN/Columbia
+
+---
+
+!citation Mitchell Funeral Home @ 2020-10-14
+!url https://www.dignitymemorial.com/obituaries/raleigh-nc/hugh-jackson-9658359
+!file Jackson_Don.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-14
+
+#202010_030 Jackson, Hugh Donald [Don]
+birth 1936-12-18 @ US/NC/Carthage
+death 2020-10-11 @ US/NC/Louisburg
+college University of North Carolina at Chapel Hill
+military US Army
+
+---
+
+!citation Dunbar Funeral Home @ 2020-10-16
+!url https://www.dignitymemorial.com/obituaries/columbia-sc/deva-mccarter-9731248
+!file McCarter_Deva.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-16
+
+#202010_031 McCarter, Deva Leslie "Devastatin' Deva"
+birth 1919-10-19 @ US/SC/York County
+death 2020-10-12 @ US/SC/Columbia
+highschool Winthrop Training School @ US/SC/Rock Hill
+military US Marines @ World War II
+burial Mount Hope Cemetery @ US/SC/Florence
+
+---
+
+!citation Daily Oklahoman @ 2002-03-11
+!file Baer_Jack.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-16
+ 
+#202010_032 Baer, Jack
+death 2002-03-08
+college University of Oklahoma
+burial IOOF Cemetery @ US/OK/Norman
+
+---
+ 
+!citation Binghamton Press & Sun-Bulletin @ 1985-12-28
+!file Heller_Lee.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-17
+ 
+#202010_033 Heller, Leland E.
+death 1985-12-27 @ US/NY/Binghamton
+burial Vestal Hills Memorial Park @ US/NY/Vestal
+
+---
+ 
+!citation Jackson Sun @ 1993-04-12
+!file McElroy_Wilbur.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-17
+ 
+#202010_034 McElroy, Wilbur Glenn
+burial Highland Memorial Gardens @ US/TN/Jackson
+
+---
+
+!citation Hartford Courant @ 1949-01-03
+!file Myska_Constant.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-17
+ 
+#202010_035 Myska, Constant "Coxy"
+death 1949-02-01 @ US/CT/New Britain
+military US Navy @ World War II
+burial Sacred Heart Cemetery @ US/CT/New Britain
+
