@@ -436,3 +436,253 @@ death 1949-02-01 @ US/CT/New Britain
 military US Navy @ World War II
 burial Sacred Heart Cemetery @ US/CT/New Britain
 
+---
+
+!citation Bozeman Daily Chronicle @ 2020-10-18
+!url https://www.legacy.com/obituaries/bozemandailychronicle/obituary.aspx?n=frank-albert-lucy&pid=196962922
+!file Lucy_Frank.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-18
+
+#202010_036 Lucy, Frank Albert, III
+birth 1955-04-12 @ US/PA/Washington
+death 2020-10-03
+college Arizona State University
+burial Cremated
+
+---
+
+!citation Louisville Memorial Gardens & Funeral Home West @ 2020-10-18
+!url https://www.louisvillemgwest.com/obituary/ALvinAl-Watkins
+!file Watkins_Al.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-18
+
+#202010_037 Watkins, Alvin Lee [Al]
+birth 1933-08-24 @ US/KY/Louisville
+death 2020-10-14
+highschool Valley HS @ US/KY/Louisville
+
+---
+
+!citation A. E. Carter Funeral Home @ 2020-10-18
+!url https://www.aecarterfuneralhome.com/obituary/Ronald-Crook
+!file Crook_Butch.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-18
+
+#202010_038 Crook, Ronald Douglas [Butch]
+birth 1946-04-20 @ US/GA/Madison
+death 2020-10-07
+highschool Murphy HS @ US/GA/Atlanta
+college Georgia Institute of Technology
+
+---
+
+!citation Stone County Enterprise @ 2020-10-14
+!url https://www.stonecountyenterprise.com/obituaries/charles-kennedy/article_3d210a06-0d7e-11eb-9ef2-83c5848c7b3f.html
+!file Kennedy_Charlie.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-18
+
+#202010_039 Kennedy, Charles Woodrow [Charlie]
+birth 1946-12-15 @ US/MS/Quitman
+death 2020-10-07 @ US/MS/Centreville
+highschool Stone County HS @ US/MS/Wiggins
+
+---
+
+!citation Tribune-Democrat @ 2020-10-18
+!url https://obituaries.tribdem.com/obituary/charles-mastervich-1080470504
+!file Mastervich_Charles.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-18
+
+#202010_040 Mastervich, Charles R.
+birth 1930-11-19 @ US/PA/Johnstown
+death 2020-10-12
+highschool Johnstown HS @ US/PA/Johnstown
+military US Army @ Korean War
+burial Grandview Cemetery @ US/PA/Southmont
+
+---
+
+!citation Lawson-Rollins Purple Shield Funeral Home @ 2020-10-18
+!url https://www.lawsonandrollinspurpleshield.com/obituary/kimothy-kim-batiste
+!file Batiste_Kim.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-18
+
+#202010_041 Batiste, Kimothy Emil [Kim]
+birth 1968-03-15
+death 2020-10-08 @ US/LA/Baton Rouge
+burial Mount Gillion Baptist Church Cemetery @ US/LA/Prairieville
+
+---
+
+!citation TC Palm @ 2020-10-20
+!url https://www.legacy.com/obituaries/tcpalm/obituary.aspx?n=john-r-whitton&pid=196967036
+!file Whitton_John.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-20
+
+#202010_042 Whitton, John R., Jr.
+birth 1929-06-08 @ US/NJ/Orange
+death 2020-10-12 @ US/FL/Vero Beach
+highschool Mamaroneck HS @ US/NY/Mamaroneck
+highschool Salisbury School @ US/CT/Salisbury
+college Middlebury College
+military US Air Force
+
+---
+
+!citation The Oregonian @ 2020-10-20
+!url https://obits.oregonlive.com/obituaries/oregon/obituary.aspx?n=keith-lampard&pid=196967453
+!file Lampard_Keith.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-20
+
+#202010_043 Lampard, Keith
+birth 1945-12-20 @ GB//Warrington
+death 2020-08-30
+highschool Madison HS @ US/OR/Portland
+college University of Oregon
+
+---
+
+!citation Commercial Appeal @ 2020-10-20
+!url https://www.legacy.com/obituaries/commercialappeal/obituary.aspx?n=earl-charles-porter&pid=196967519
+!file Porter_Earl.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-20
+
+#202010_044 Porter, Earl Charles
+birth 1940-04-23 @ US/TN/Memphis
+death 2020-10-08 @ US/FL/Fort Walton Beach
+highschool South Side HS @ US/TN/Jackson
+
+---
+
+!citation Deseret News @ 2020-10-20
+!url https://www.legacy.com/obituaries/deseretnews/obituary.aspx?n=robert-ray-thornton-bob&pid=196968840
+!file Thornton_Bob.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-20
+
+#202010_045 Thornton, Robert Ray [Bob]
+birth 1938-02-22
+death 2020-10-01
+highschool East HS @ US/UT/Salt Lake City
+
+---
+
+!citation Fait Funeral Home @ 2020-10-20
+!url https://www.faitfuneralhome.com/obits/obituary.php?id=685006
+!file Harris_Bob.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-20
+
+#202010_046 Harris, Robert W. [Bob]
+birth 1950-10-10 @ US/PA/Bloomsburg
+death 2020-10-16
+highschool Central Columbia HS @ US/PA/Bloomsburg
+college Susquehanna University
+
+---
+
+!citation Saul Funeral Home @ 2020-10-20
+!url https://www.saulfuneralhomes.com/obituaries/Charles-Giambelluca?obId=18595039#/obituaryInfo
+!file Giambelluca_Chuck.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-20
+
+#202010_047 Giambelluca, Charles [Chuck]
+birth 1942-12-05 @ US/NJ/Trenton
+death 2020-10-09
+highschool Steinert HS @ US/NJ/Trenton
+military US Army
+burial Our Lady of Lourdes Cemetery @ US/NJ/Trenton
+
+---
+
+!citation Hansons Arbor Funeral Chapel @ 2020-10-23
+!url https://www.hansonsfuneral.ca/obituary/Wendell-Clifton
+!file Clifton_Wendell.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-23
+
+#202010_048 Clifton, Wendell James
+birth 1931-07-18
+death 2020-05-09
+
+---
+
+!citation Gillies Funeral Chapel @ 2020-10-23
+!url https://www.gfc-utah.com/obituary/512389/Fred-Leebert/
+!file Leebert_Fred.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-23
+
+#202010_049 Leebert, Fred D.
+birth 1935-08-17 @ UC/CA/Los Angeles
+death 2020-10-16 @ US/UT/Brigham City
+highschool Bell Gardens HS @ US/CA/Bell Gardens
+burial Menifee Valley Cemetery @ US/CA/Sun City
+
+---
+
+!citation Palm Beach Post @ 2020-10-23
+!url https://www.legacy.com/obituaries/palmbeachpost/obituary.aspx?n=jw-porter&pid=196977994
+!file Porter_JW.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-23
+
+#202010_050 Porter, JW
+birth 1933-01-17 @ US/OK/Bugscuffle
+death 2020-10-11 @ US/FL/Jupiter
+burial Unknown Cemetery @ US/GA/Atlanta
+
+---
+
+!citation Kasper-Hahn Funeral Home@  2020-10-25
+!url http://www.kasperhahn.com/obituaries/michael-g-scheer
+!file Scheer_Michael.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-25
+
+#202010_051 Scheer, Michael G.
+death 2020-10-22
+describe ; TL
+
+---
+
+!citation Ledger @ 2020-10-25
+!url https://www.legacy.com/obituaries/theledger/obituary.aspx?n=robert-lee-henne&pid=196995583
+!file Henne_Bob.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-25
+
+#202010_052 Henne, Robert Lee
+sameas sr_cbb:robert-henne-1
+birth @ US/IL/Chicago
+death 2020-10-07 @ US/FL/Lake Wales
+college University of Kentucky
+military US Army @ Korean War
+
+---
+
+!citation Greenville (SC) News @ 1998-09-19
+!file Rampey_Paul.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-25
+
+#202010_053 Rampey, Paul Spencer
+birth @ US/SC/Pickens County
+death 1998-09-18 @ US/SC/Columbia
+highschool Easley HS @ US/SC/Easley
+college University of South Carolina
+burial Greenlawn Memorial Park @ US/SC/Easley
+
+---
+ 
+!citation Scranton Tribune @ 1992-03-12
+!file Rzucidlo_Joseph.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-25
+ 
+#202010_054 Rzucidlo, Joseph T.
+birth @ US/PA/Mayfield
+death 1992-03-11 @ US/PA/Peckville
+military US Marines @ World War II
+burial Sacred Hearts of Jesus and Mary Cemetery @ US/PA/Scranton
+
+---
+
+!citation Auburn (CA) Journal @ 1942-05-07
+!file Younker_Ralph.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-25
+ 
+#202010_055 Younker, Ralph Emmanuel
+birth 1919-09-02 @ US/CA/Los Angeles
+death 1942-04-26 @ US/VA/Waverly

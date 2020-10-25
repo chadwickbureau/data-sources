@@ -182,3 +182,100 @@ resides @ US/MA/Allston; address=25 Riverdale Street
  
 #202010_021 Myska, Constant Walter
 birth 1916-02-10 @ US/CT/New Britain
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-18
+ 
+#202010_022 Cairns, Ray Bernard, Jr.
+birth 1921-07-01 @ US/OK/Oklahoma City
+ 
+---
+ 
+!citation US Dept. of Veterans Affairs BIRL Death File, 1850-2010
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-18
+ 
+#202010_023 Cairns, Ray Bernard, Jr.
+birth 1921-07-01
+death 1976-04-03
+military US Army @ World War II
+
+---
+
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-24
+ 
+#202010_024 Corso, Gene Edgar
+sameas ssn:573-40-7449
+birth 1932-03-29 @ US/CA/Los Angeles
+death 1996-05-23
+
+---
+
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-25
+ 
+#202010_025 Rampey, Paul S.
+sameas ssn:248-16-1961
+birth 1913-10-13
+death 1998-09-18
+
+---
+
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-25
+ 
+#202010_026 Rucidlo, Joseph Ted
+sameas ssn:199-03-8514
+birth 1917-02-16 @ US/PA/Mayfield
+death 1992-03-11
+ 
+---
+ 
+!citation Pennsylvania, Veterans Burial Cards, 1777-2012
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-25
+ 
+#202010_027 Rzucidlo, Joseph T.
+birth 1916-02-16
+death 1992-03-22
+military US Marines @ World War II
+burial Sacred Hearts of Jesus and Mary Cemetery @ US/PA/Scranton
+ 
+---
+ 
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-25
+ 
+#202010_028 Rzucidlo, Joseph T.
+sameas ssn:199-03-8514
+birth 1916-02-16
+death 1992-03-11
+
+---
+ 
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-25
+ 
+#202010_029 Whitehead, Lewis Willard
+birth 1912-08-14 @ US/NC/Scotland Neck
+ 
+---
+ 
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-25
+ 
+#202010_030 Whitehead, Lewis
+sameas ssn:415-05-8666
+birth 1912-08-14
+death 1986-08
+ 
+---
+ 
+!citation North Carolina, Death Indexes, 1908-2004
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-25
+ 
+#202010_031 Whitehead, Lewis Willard
+sameas ssn:415-05-8666
+birth 1912-08-14 @ US/NC
+death 1986-08-11 @ US/NC/Chapel Hill

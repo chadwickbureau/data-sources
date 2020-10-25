@@ -3187,3 +3187,39 @@ sameas findagrave:188189142
 death 1949-02-01
 military US Navy @ World War II
 burial Sacred Heart Cemetery @ US/CT/New Britain
+
+---
+
+!citation findagrave.com @ 2020-10-25
+!url https://www.findagrave.com/memorial/136261655/paul-spencer-rampey
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-25
+ 
+#260 Rampey, Paul Spencer
+sameas findagrave:136261655
+birth 1913-10-13
+death 1998-09-18
+burial Greenlawn Memorial Park @ US/SC/Easley
+
+---
+
+!citation findagrave.com @ 2020-10-25
+!url https://www.findagrave.com/memorial/198643434/lewis-willard-whitehead
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-25
+ 
+#261 Whitehead, Lewis Willard
+sameas findagrave:198643434
+birth 1912-08-14 @ US/NC/Bertie County
+death 1986-08-11
+burial St. Thomas Episcopal Church Cemetery @ US/NC/Windsor
+
+---
+
+!citation findagrave.com @ 2020-10-25
+!url https://www.findagrave.com/memorial/9693951/ralph-emmanuel-younker
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-25
+ 
+#262 Younker, Ralph Emmanuel
+sameas findagrave:9693951
+birth 1919-09-02 @ US/CA/Los Angeles County
+death 1942-04-26 @ US/VA/Waverly
+burial New Auburn Cemetery @ US/CA/Auburn
