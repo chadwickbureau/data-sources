@@ -686,3 +686,254 @@ burial Sacred Hearts of Jesus and Mary Cemetery @ US/PA/Scranton
 #202010_055 Younker, Ralph Emmanuel
 birth 1919-09-02 @ US/CA/Los Angeles
 death 1942-04-26 @ US/VA/Waverly
+
+---
+
+!citation Keefe Funeral Home @ 2020-10-26
+!url https://www.keefefuneralhome.com/memorials/thomas-yewcic/4364247/obituary.php
+!file Yewcic_Tom.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-26
+
+#202010_056 Yewcic, Thomas [Tom]
+sameas key-sr-nfl:YewcTo00
+sameas key-sr-cfb:tom-yewcic-1
+birth 1932-05-09 @ US/PA/Conemaugh
+death 2020-10-20
+highschool Conemaugh Valley HS @ US/PA/Johnstown
+college Michigan State University
+military US Army
+
+---
+
+!citation Concordia Sentinel @ 2020-10-26
+!url https://www.hannapub.com/concordiasentinel/obituaries---oct-21-2020/article_5356f080-13d0-11eb-a5c2-57194faa7653.html
+!file McNew_Red.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-21
+
+#202010_057 McNew, James [Red]
+birth 1934-04-20 @ US/MS/Lake
+death 2020-10-17 @ US/LA/Shreveport
+highschool Ferriday HS @ US/LA/Ferriday
+college Northwestern State University
+
+---
+
+!citation A. W. Rich Funeral Home @ 2020-10-26
+!url https://awrichfuneralhomes.com/book-of-memories/4364387/Jacobson-Milton/index.php
+!file Jacobson_Milt.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-26
+
+#202010_058 Jacobson, Milton Bernard [Milt]
+birth 1930-06-13 @ US/PA/Philadelphia
+death 2020-10-16
+highschool Central HS @ US/PA/Philadelphia
+military US Army @ Korean War
+
+---
+
+!citation Johnson Brown-Service Funeral Home @ 2020-10-26
+!url https://www.johnsonbrownservicefh.com/obituary/WalterJosephStanley-Okrutny
+!file Okrutny_Walter.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-26
+
+#202010_059 Okrutny, Walter Joseph Stanley
+birth 1922-08-29 @ US/PA/Carnegie
+death 2020—10-21 
+military US Army @ World War II
+
+---
+
+!citation Gross Funeral Home @ 2020-10-26
+!url https://www.dignitymemorial.com/obituaries/hot-springs-ar/jack-mcmahan-9846118
+!file McMahan_Jack.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-26
+
+#202010_060 McMahan, Jack W.
+birth 1932-07-22
+death 2020-10-16
+highschool Hot Springs HS @ US/AR/Hot Springs
+
+---
+
+!citation Downing Funeral Home @ 2020-10-26
+!url https://www.downingfuneralhomeandcremation.com/obituary/Allen-Blake
+!file Blake_Al.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-26
+
+#202010_061 Blake, Allen Montgomery [Al]
+birth 1939-10-20 @ US/NJ/Montclair
+death 2020-09-10
+highschool Taber Academy @ US/MA/Marion
+college Kenyon College
+military US Army
+burial Unknown Cemetery @ US/NY/Shelter Island
+
+---
+
+!citation Barkes, Weaver & Glick Funeral Home @ 2020-10-26
+!url https://www.barkesweaverglick.com/obituaries/Charles-Barrix/#!/Obituary
+!file Barrix_Charles.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-26
+
+#202010_062 Barrix, Charles, Jr.
+birth 1934-05-21 @ US/IN/Hammond
+death 2020-09-24 @ US/IN/Columbus
+military US Army
+burial Maple Grove Cemetery @ US/IN/Argos
+
+---
+
+!citation Boles Funeral Home @ 2020-10-26
+!url https://www.bolesfuneralhome.com/obituaries/Gary-Michael-Moston?obId=18678434#/celebrationWall
+!file Moston_Gary.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-26
+
+#202010_063 Moston, Gary Michael
+birth 1940-11-04 @ US/IL/Chicago
+death 2020-10-19 @ US/NC/Pinehurst
+highschool Edgewood HS @ US/WI/Madison
+college University of Wisconsin at Madison
+military US Army @ Vietnam War
+burial Pinelawn Memorial Park @ US/NC/Southern Pines
+
+---
+
+!citation Allentown Morning Call @ 2012-10-01
+!file Ferraioli_Bernard.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-26
+ 
+#202010_064 Ferraioli, Bernard J.
+death 2012-09-28
+burial Pinelawn Memorial Park @ US/NY/East Farmingdale
+
+---
+
+!citation Oakley-Cook Funeral Home @ 2020-10-28
+!url https://www.oakley-cook.com/obituaries/Paul-Musselman/#!/Obituary
+!file Musselman_Paul.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-28
+
+#202010_065 Musselman, Paul William
+birth 1926-01-09 @ US/VA/Salem
+death 2020-10-26 @ US/TN/Bristol
+college East Tennessee State University
+military US Navy @ World War II
+burial Glenwood Cemetery and Chapel Mausoleum @ US/TN/Bristol
+
+---
+
+!citation Boston Globe @ 2020-10-29
+!url https://www.legacy.com/obituaries/bostonglobe/obituary.aspx?n=donald-wayne-moon&pid=197011362&fhid=15200
+!file Moon_Don.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-29
+
+#202010_066 Moon, Donald Wayne [Don]
+birth 1931-05-05 @ US/PA/McKeesport
+death 2020-10-27
+military US Coast Guard @ Korean War
+burial Woodlawn Cemetery @ US/MA/Wellesley
+
+---
+
+!citation Simons Funeral Home @ 2020-10-30
+!url https://www.simonsfuneralhome.com/obituaries/John--Merle--Brideweser?obId=18775608#/celebrationWall
+!file Brideweser_John.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-30
+
+#202010_067 Brideweser, John Merle
+birth 1935-10-02 @ US/OH/Massillon
+death 2020-10-28 @ US/PA/Pittsburgh
+college Purdue University
+
+---
+
+!citation Harris Funeral Home @ 2020-10-30
+!url https://www.harris-fh.com/obituary/Harry-Rapenske
+!file Rapenske_Harry.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-30
+
+#202010_068 Rapenske, Harry G. "Rip"
+birth 1927-08-05 @ US/NY/Richfield Springs
+death 2020-10-26
+highschool Richfield Springs Central @ US/NY/Richfield Springs
+military US Army
+burial Sullivan County Veterans Cemetery @ US/NY/Liberty
+
+---
+
+!citation Andrews Mortuary & Crematory @ 2020-10-30
+!url https://www.andrewsmortuary.com/obituary/blaine-deabenderfer-jr
+!file Deabenderfer_Blaine.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-30
+
+#202010_069 Deabenderfer, Blaine Leroy, Jr.
+birth 1964-06-16 @ US/PA/Indiana
+death 2020-10-18 @ US/NC/Leland
+highschool Marion Center Area HS @ US/PA/Marion Center
+college Louisburg College
+college University of North Carolina at Chapel Hill
+
+---
+
+!citation Bakersfield Californian @ 2020-10-23
+!url https://www.legacy.com/obituaries/bakersfield/obituary.aspx?n=walter-napier&pid=196985707
+!file Napier_Walt.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-30
+
+#202010_070 Napier, Walter Gene [Walt]
+birth 1935-10-15
+death 2020-10-19
+highschool Wasco HS @ US/CA/Wasco
+college Bakersfield College
+college California State University, Fresno
+
+---
+
+!citation The Columbian @ 2020-10-27
+!url https://www.legacy.com/obituaries/columbian/obituary.aspx?n=jay-raulley-mitcham&pid=197003586
+!file Mitcham_Jay.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-30
+
+#202010_071 Mitcham, Jay Raulley
+birth 1930-12-31 @ US/OR/Hines
+death 2020-10-18
+highschool Battle Ground HS @ US/WA/Battle Ground
+military US Air Force @ Korean War
+
+---
+
+!citation Weber Funeral Home @ 2020-10-30
+!url https://www.weberfh.net/obituaries/Donald-Mcgue/#!/Obituary
+!file McGue_Don.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-30
+
+#202010_072 McGue, Donald E.
+birth 1938-10-23
+death 2020-10-21 @ US/OH/Delphos
+highschool Fort Jennings HS @ US/OH/Fort Jennings
+burial New St. John's Catholic Cemetery @ US/OH/Delphos
+
+---
+
+!citation Kostanski Funeral Home @ 2020-10-31
+!url https://www.kostanskifuneralhome.com/obituary/Roland-Leveille
+!file Leveille_Rollie.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-31
+
+#202010_073 Leveille, Roland James [Rollie]
+birth 1928-03-25 @ US/MA/Turners Falls
+death 2020-10-27 @ US/MA/Greenfield
+highschool Turners Falls HS @ US/MA/Turners Falls
+military US Army @ Korean War
+
+---
+
+!citation Hartford Courant @ 2020-11-01
+!url https://www.legacy.com/obituaries/hartfordcourant/obituary.aspx?n=frank-neves&pid=197022463
+!file Neves_Frank.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-31
+
+#202010_074 Neves, Frank
+birth @ US/CT/Danbury
+death 2020-10-22
+

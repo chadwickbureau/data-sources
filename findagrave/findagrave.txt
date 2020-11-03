@@ -3223,3 +3223,54 @@ sameas findagrave:9693951
 birth 1919-09-02 @ US/CA/Los Angeles County
 death 1942-04-26 @ US/VA/Waverly
 burial New Auburn Cemetery @ US/CA/Auburn
+
+---
+
+!citation findagrave.com @ 2020-10-26
+!url https://www.findagrave.com/memorial/17450851/eldon-laclair-breese
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-26
+ 
+#263 Breese, Eldon LaClair [Bid]
+sameas findagrave:17450851
+birth 1910-10-22
+death 2000-11-30
+burial Graceland Cemetery @ US/IA/Creston
+
+---
+
+!citation findagrave.com @ 2020-10-26
+!url https://www.findagrave.com/memorial/199264457/patrick-f.-colgan
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-26
+ 
+#264 Colgan, Patrick F.
+sameas findagrave:199264457
+birth 1914 @ US/NY/Brooklyn
+death 1992-06-20 @ US/PA/Carbondale
+highschool Brooklyn Technical HS @ US/NY/Brooklyn
+military US Navy @ World War II
+burial Our Mother of Sorrows Catholic Cemetery @ US/PA/Carbondale
+
+---
+
+!citation findagrave.com @ 2020-10-27
+!url https://www.findagrave.com/memorial/129051179/kenneth-eugene-myers
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-27
+ 
+#265 Myers, Kenneth Eugene
+sameas findagrave:129051179
+birth 1920-08-26 @ US/CA
+death 1972-07-23 @ US/CA/Los Angeles County
+burial Rose Hills Memorial Park @ US/CA/Whittier
+
+---
+
+!citation findagrave.com @ 2020-10-27
+!url https://www.findagrave.com/memorial/148042385/penrose-roosevelt-miller
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-27
+ 
+#266 Miller, Penrose Roosevelt
+sameas findagrave:148042385
+birth 1914-06-24
+death 2006-09-10
+burial Manchester Union Cemetery @ US/PA/Manchester
+
