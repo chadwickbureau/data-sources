@@ -3274,3 +3274,41 @@ birth 1914-06-24
 death 2006-09-10
 burial Manchester Union Cemetery @ US/PA/Manchester
 
+---
+
+!citation findagrave.com @ 2020-10-26
+!url https://www.findagrave.com/memorial/62885815/leslie-angeious-dunkle
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-26
+ 
+#267 Dunkle, Leslie Angelous
+sameas findagrave:62885815
+birth 1914-04-26 @ US/OK/Hydro
+death 1988-08-11 @ US/AL/Russellville
+burial Franklin Memory Gardens @ US/AL/Russellville
+
+---
+ 
+!citation findagrave.com @ 2020-10-29
+!url https://www.findagrave.com/memorial/125249572/orion-lester-masters
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-29
+ 
+#268 Masters, Orion Lester "Lefty"
+sameas findagrave:125249572
+birth 1892-01-09 @ US/KS/Columbus
+death 1961-05-07 @ US/OK/Watonga
+military US Army @ World War I
+burial Watonga IOOF Cemetery @ US/OK/Watonga
+
+---
+
+!citation findagrave.com @ 2020-11-02
+!url https://www.findagrave.com/memorial/126242001/nathan-brown-braly
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-02
+ 
+#269 Braly, Nathan Brown
+sameas findagrave:126242001
+birth 1903-11-07 @ US/TN/Pulaski
+death 1976-08-12 @ US/TN/Sumner County
+burial Gallatin City Cemetery @ US/TN/Gallatin
+
+

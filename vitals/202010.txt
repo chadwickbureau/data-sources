@@ -279,3 +279,46 @@ death 1986-08
 sameas ssn:415-05-8666
 birth 1912-08-14 @ US/NC
 death 1986-08-11 @ US/NC/Chapel Hill
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-26
+ 
+#202010_032 Dunkle, Leslie Angelous
+birth 1914-04-26 @ US/OK/Hydro
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-26
+ 
+#202010_033 Ferraioli, Bernard John
+birth 1913-09-05 @ US/NY/Brooklyn
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-26
+ 
+#202010_034 Fiarito, Henry Tony
+birth 1913-12-25 @ US/TX/Beaumont
+
+---
+
+!citation US WWI Draft Registration Cards, 1917-1918
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-29
+ 
+#202010_035 Masters, Orion L.
+birth 1895-01-09 @ US/KS/Columbus
+
+---
+ 
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-10-29
+ 
+#202010_036 Masters, Orion Leslie
+sameas ssn:441-05-2712
+birth 1892-01-09
+
+ 
