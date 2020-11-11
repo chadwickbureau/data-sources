@@ -1,0 +1,60 @@
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-04
+ 
+#202011_001 Kadis, George Joseph
+sameas ssn:239-12-3366
+birth 1916-10-01 @ US/MA/Worcester
+death 2006-11-14
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-04
+ 
+#202011_002 Reed, Thomas Richard
+birth 1915-06-27 @ US/TX/Houston
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-04
+ 
+#202011_003 Spencer, Paul
+birth 1909-02-19 @ US/AR/Trumann
+
+---
+
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-04
+ 
+#202011_004 Ulrich, Marvin Hugh
+sameas ssn:246-10-3059
+birth 1913-10-28 @ US/OH/Farmersville
+death 1999-03-02
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-04
+ 
+#202011_005 Waite, Ralph Jesse
+birth 1916-10-27 @ US/OH/Brunswick
+
+---
+ 
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-10
+ 
+#202011_006 Cobb, Bernard Joseph
+birth 1909-03-30 @ US/PA/Scranton
+
+---
+
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-10
+ 
+#202011_007 Murry, William Terry
+sameas ssn:439-54-4799
+birth 1937-09-16 @ US/LA/Bastrop
+death 2002-02-13
+

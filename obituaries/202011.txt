@@ -62,3 +62,157 @@ death 2020-10-29 @ US/MD/West Ocean City
 highschool Wicomico HS @ US/MD/Salisbury
 college Virginia Commonwealth University 
 burial Cremated
+
+---
+
+!citation Troy B Smith Professional Services @ 2020-11-04
+!url https://www.troybsmith.com/obituary/james-hicks
+!file Hicks_Jim.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-04
+
+#202011_006 Hicks, James Edward [Jim]
+birth 1939-05-18 @ US/MS/Claiborne County
+death 2020-10-29 @ US/TX/Missouri City
+highschool Roosevelt HS @ US/IN/East Chicago
+college University of Illinois at Urbana-Champaign
+military US Army
+burial Houston Memorial Gardens @ US/TX/Pearland
+
+---
+
+!citation Worcester Telegram & Gazette @ 2006-11-17
+!file Kadis_George.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-04
+ 
+#202011_007 Kadis, George J.
+birth @ US/MA/Worcester
+death 2006-11-14 @ US/MA/Worcester
+highschool Classical HS @ US/MA/Worcester
+burial Notre Dame Cemetery @ US/MA/Worcester
+
+---
+
+!citation Sacramento Bee @ 2000-03-23
+!file Schang_Robert.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-05
+
+#202011_008 Schang, Robert John, Sr.
+son of Schang, Robert Martin
+birth 1917-08-12 @ US/IN/Indianapolis
+death 2000-02-15
+military US Marines @ World War II
+burial St. Mary's Catholic Cemetery and Mausoleum @ US/CA/Sacramento
+
+---
+
+!citation Sullivan-King Mortuary @ 2020-11-07
+!url https://www.sullivanking.com/obituaries/print?o_id=7205989
+!file Nunnally_Doyle.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-07
+
+#202011_009 Nunnally, Doyle Jackson
+birth 1922-11-03 @ US/GA/Banks County
+death 2020-11-06 @ US/SC/Anderson
+military US Army @ World War II
+burial Mount Tabor Baptist Church Cemetery @ US/SC/Anderson
+
+---
+
+!citation Soobituaries.com @ 2020-11-09
+!url https://www.soobituaries.com/adportal/listingView.html?id=2822
+!file Altman_Jack.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-09
+
+#202011_010 Altman, Jack, Jr.
+birth 1935-01-04 @ US/HI/Honolulu
+death 2020-07-31
+highschool Punahou School @ US/HI/Honolulu
+college California State University, Freson
+military US Army
+
+---
+
+!citation Cartmell-Davis Funeral Home @ 2020-11-10
+!url https://www.cartmelldavis.com/obituaries/James-P-Hanabury?obId=3365651#/obituaryInfo
+!file Hanabury_James.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-10
+
+#202011_011 Hanabury, James P.
+death 2008-01-22 @ US/MA/Yarmouth 
+highschool North Quincy HS @ US/MA/Quincy
+military US Navy @ World War II
+
+---
+
+!citation Fond du Lac Commonwealth Reporter @ 1999-01-12
+!file Adlam_James.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-10
+ 
+#202011_012 Adlam, James A.
+birth 1914-06-17 @ US/WI/Milwaukee
+death 1999-01-10 @ US/WI/Fond du Lac
+military US Army @ World War II
+burial Calvary Cemetery @ US/WI/Fond du Lac
+
+---
+
+!citation Wilkes-Barre Times Leader @ 1962-05-19
+!file Cobb_Bernard.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-10
+ 
+#202011_013 Cobb, Bernard J.
+birth @ US/PA/Scranton
+death 1962-05-19 @ US/PA/Wilkes-Barre
+college Bloomsburg University of Pennsylvania
+
+---
+
+!citation Hamilton's Funeral Home @ 2020-11-07
+!url http://www.hamiltonsfuneralhome.com/services/services_detail.aspx?rid=56129
+!file Mally_Gene.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-07
+
+#202011_014 Mally, Robert Eugene [Gene]
+birth 1929-01-31 @ US/IA/Des Moines
+death 2020-11-04 @ US/IA/Des Moines
+highschool Woodside HS @ US/IA/Des Moines
+burial Berwick Cemetery @ US/IA/Delaware Township
+
+---
+
+!citation H. M. Patterson & Son-Arlington Chaptel @ 2020-11-09
+!url https://www.dignitymemorial.com/obituaries/sandy-springs-ga/r-maxwell-9887946
+!file Maxwell_Blake.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-09
+
+#202011_015 Maxwell, R. Blake [Blake]
+birth 1937-03-29 @ US/GA/Atlanta
+death 2020-11-03
+highschool Bass HS @ US/GA/Atlanta
+burial Arlington Memorial Park @ US/GA/Sandy Springs
+
+---
+
+!citation Baltimore Sun @ 2020-11-10
+!url https://www.legacy.com/obituaries/baltimoresun/obituary.aspx?n=robert-buckheit&pid=197075973
+!file Buckheit_Robert.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-10
+
+#202011_016 Buckheit, Robert Walter
+death 2020-11-09 @ US/FL/Englewood
+
+---
+
+!citation Cozean Memorial Chapel & Crematory @ 2020-11-11
+!url https://www.cozeanfuneralhome.com/obituary/harold-loughary
+!file Loughary_Hal.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-11
+
+#202011_017 Loughary, Harold Lee [Hal]
+birth 1928-05-26 @ US/MO/Esther
+death 2020-11-09 @ US/MO/Caledonia
+college Murray State University 
+
+
+
+

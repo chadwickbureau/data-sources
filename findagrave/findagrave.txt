@@ -3311,4 +3311,143 @@ birth 1903-11-07 @ US/TN/Pulaski
 death 1976-08-12 @ US/TN/Sumner County
 burial Gallatin City Cemetery @ US/TN/Gallatin
 
+---
+
+!citation findagrave.com @ 2020-11-04
+!url https://www.findagrave.com/memorial/17648478/charles-frederick-haas
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-04
+ 
+#270 Haas, Charles Frederick
+sameas findagrave:17648478
+birth 1917-02-02 @ US/TX
+death 2007-01-22 @ US/TX/Corpus Christi
+burial Seaside Memorial Park @ US/TX/Corpus Christi
+
+---
+
+!citation findagrave.com @ 2020-11-04
+!url https://www.findagrave.com/memorial/109555791/charles-redward-pescod
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-04
+ 
+#271 Pescod, Charles Redward
+sameas findagrave:109555791
+birth 1913-12-08 @ EC//Salinas
+death 1944-12-02 @ FR//Eckartswiller
+military US Army @ World War II
+
+---
+
+!citation findagrave.com @ 2020-11-04
+!url https://www.findagrave.com/memorial/60804204/alex-william-petrushkin
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-04
+ 
+#272 Petrushkin, Alex William Matthew
+sameas findagrave:60804204
+birth 1913-12-25 @ US/CA/Los Angeles
+death 2009-08-26 @ US/CA/Montebello
+burial Russian Molokan Cemetery @ US/CA/Commerce
+
+---
+ 
+!citation findagrave.com @ 2020-11-04
+!url https://www.findagrave.com/memorial/40078533/thomas-reed
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-04
+ 
+#273 Reed, Thomas
+sameas findagrave:40078533
+birth 1915-06-27 @ US/TX/Houston
+death 1969-05-14 @ US/TX/Houston
+burial Body donated to science
+
+---
+
+!citation findagrave.com @ 2020-11-04
+!url https://www.findagrave.com/memorial/179074700/paul-spencer
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-04
+ 
+#274 Spencer, Paul
+sameas findagrave:179074700
+birth 1909 @ US/AR
+death 1969-08-23 @ US/MI/Warren
+burial Cadillac Memorial Gardens East @ US/MI/Clinton Township
+
+---
+ 
+!citation findagrave.com @ 2020-11-04
+!url https://www.findagrave.com/memorial/30217565/ralph-jesse-waite
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-04
+ 
+#275 Waite, Ralph Jesse
+sameas findagrave:30217565
+birth 1914-10-27
+death 1997-09-06
+burial Andalusia Memorial Cemetery @ US/AL/Andalusia
+
+---
+ 
+!citation findagrave.com @ 2020-11-05
+!url https://www.findagrave.com/memorial/146995030/robert-schang
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-05
+ 
+#276 Schang, Robert J.
+sameas findagrave:146995030
+birth 1917-08-12
+death 2000-02-15
+burial St. Mary's Catholic Cemetery and Mausoleum @ US/CA/Sacramento
+
+---
+ 
+!citation findagrave.com @ 2020-11-10
+!url https://www.findagrave.com/memorial/72775507/james-p-hanabury
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-10
+ 
+#277 Hanabury, James P.
+sameas findagrave:72775507
+birth 1923-07-21
+death 2008-01-22
+burial Massachusetts National Cemetery @ US/MA/Bourne
+
+---
+
+!citation findagrave.com @ 2020-11-10
+!url https://www.findagrave.com/memorial/27331497/adrain-francis-miller
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-10
+ 
+#278 Miller, Adrain Francis, Jr. [Cookie]
+sameas findagrave:27331497
+birth 1926-04-20
+death 2000-04-07
+military US Air Force
+burial Florida National Cemetery @ US/FL/Bushnell
+
+---
+ 
+!citation findagrave.com @ 2020-11-10
+!url https://www.findagrave.com/memorial/19360241/william-terry-murry
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-10
+ 
+#279 Murry, William Terry
+sameas findagrave:19360241
+birth 1937-09-16 @ US/LA/Bastrop
+death 2002-02-13 @ US/AL/Birmingham
+highschool Bastrop HS @ US/LA/Bastrop
+burial Causey Cemetery @ US/LA/Beekman
+
+---
+
+!citation findagrave.com @ 2020-11-10
+!url https://www.findagrave.com/memorial/42324244/kermit-reuben-aase
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-10
+ 
+#280 Aase, Kermit Reuben
+sameas findagrave:42324244
+birth 1914-07-25 @ US/MN/Kenyon
+death 2003-09-04 @ US/MN/Brainerd
+burial Evergreen Memorial Gardens @ US/MN/Brainerd
+
+
+
+
+
+
 

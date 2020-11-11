@@ -1,0 +1,188 @@
+!citation SABR Biographical Committee Newsletter @ 2020-10
+
+#202010_001 Baldwin, Rickey Alan
+describe ; mlbplayed=1975/
+death 2020-10-30 @ US/CA/Modesto
+
+#202010_002 Barnes, Matthew David
+describe ; mlbplayed=2014/
+
+#202010_003 Batiste, Kimothy Emil
+describe ; mlbplayed=1991/
+death 2020-10-08 @ US/LA/Baton Rouge
+burial Mount Gillion B. C. Cemetery @ US/LA/Prairieville
+
+#202010_004 Becquer (Villegas), Julio
+describe ; mlbplayed=1955/
+death 2020-11-01 @ US/MN/Hopkins
+
+#202010_005 Benintendi, Andrew Sebastian
+describe ; mlbplayed=2016/
+
+#202010_006 Brock, Louis Clark
+describe ; mlbplayed=1961/
+death 2020-09-06 @ US/MO/St. Louis
+burial Forever Bellerive Cemetery @ US/MO/Creve Coeur
+
+#202010_007 Brockett, Lewis Albert [King]
+describe ; mlbplayed=1907/
+death @ US/IL/Eldorado
+
+#202010_008 Carl, John
+describe ; mlbplayed=1874/
+birth 1854-05-28 @ US/MD/Baltimore
+death 1927-10-02 @ US/MD/Baltimore
+burial Baltimore Cemetery @ US/MD/Baltimore
+
+#202010_009 Comstock, Ralph Remick
+describe ; mlbplayed=1913/
+birth 1887-11-24 @ US/MI/Riga
+
+#202010_010 Daily, Hugh
+describe ; mlbplayed=1882/
+note Record advises removal of middle name Ignatius and birth name of Criss, Harry
+
+#202010_011 Daviault, Raymond Joseph Robert
+describe ; mlbplayed=1962/
+death 2020-11-06 @ CA/QC/Notre-Dame-de-la-Merci
+
+#202010_012 Dues, Hal Joseph
+describe ; mlbplayed=1977/
+death 2020-10-20 @ US/TX/Dickinson
+
+#202010_013 Farrell, Richard Joseph
+describe ; mlbplayed=1956/
+father of Dotson, Richard Elliott
+
+#202010_014 Fisher, John Gustave
+describe ; mlbplayed=1910/; BS
+
+#202010_015 Ford, Edward Charles
+describe ; mlbplayed=1950/
+death 2020-10-08 @ US/NY/Lake Success
+burial Locust Valley Cemetery @ US/NY/Locust Valley
+
+#202010_016 Gibson, Robert
+describe ; mlbplayed=1959/
+death 2020-10-02 @ US/NE/Omaha
+
+#202010_017 Gray, David Alexander
+describe ; mlbplayed=1964/
+death 2020-07-29 @ US/UT/South Ogden
+
+#202010_018 Haeger, Charles Wallis
+describe ; mlbplayed=2006/
+death 2020-10-03 @ US/AZ/South Rim Grand Canyon
+
+#202010_019 Hall, Edwin James
+describe ; mlbplayed=1872/1874-05-15
+note Record for 1875 Keokuk now to be attributed to Jones, Charles Wesley
+
+#202010_020 Hasney, Peter Hames
+describe ; mlbplayed=1890/
+birth 1864-05-26
+
+#202010_021 Hicks, James Edward
+describe ; mlbplayed=1964/
+birth 1939-05-18 @ US/MS/Claiborne County
+death 2020-10-29 @ US/TX/Missouri City
+burial Houston Memorial Gardens @ US/TX/Pearland
+
+#202010_022 Horton, Ellis Elmer [Elmer]
+describe ; mlbplayed=1896/
+birth 1866-09-04
+note Record advises removal of previously-listed cemetery
+
+#202010_023 Jasper, Henry
+describe ; mlbplayed=1914/
+note Record advises removal of middle initial W.
+
+#202010_024 Johnson, Louis Brown
+describe ; mlbplayed=1960/
+death 2020-10-01 @ US/CA/Los Angeles
+
+#202010_025 Johnstone, John William
+describe ; mlbplayed=1966/
+death 2020-09-26 @ US/CA/Granada Hills
+
+#202010_026 Lampard, Christopher Keith
+describe ; mlbplayed=1969/
+death 2020-08-30 @ US/OR/Lincoln City
+
+#202010_027 Macha, Kenneth Edward
+describe ; mlbplayed=1974/
+note Record advises not the brother of Macha, Michael
+
+#202010_028 McMahan, Jack Wally
+describe ; mlbplayed=1956/
+death 2020-10-16 @ US/AR/Hot Springs
+burial Hollywood Cemetery @ US/AR/Hot Springs
+
+#202010_029 McNamara, John Francis
+describe ; mlbmanaged=1969/
+burial Harpeth Hills Memory Gardens @ US/TN/Nashville
+
+#202010_030 Morgan, Joe Leonard
+describe ; mlbplayed=1963/
+death 2020-10-11 @ US/CA/Danville
+
+#202010_031 Nealon, James Joseph
+describe ; mlbplayed=1906/
+birth @ US/CA/San Francisco
+
+#202010_032 Owens, James Philip
+describe ; mlbplayed=1955/
+death 2020-09-08 @ US/TX/Houston
+
+#202010_033 Paredes (Isambert), Johnny Alfonso
+describe ; mlbplayed=1988/
+death 2020-11-04 @ VE/Zulia/Maracaibo
+
+#202010_034 Perranoski, Ronald Peter
+describe ; mlbplayed=1961/
+death 2020-10-02 @ US/FL/Vero Beach
+
+#202010_035 Pettit, George William Paul
+describe ; mlbplayed=1951/
+death 2020-09-24 @ US/CA/Canyon Lake
+
+#202010_036 Porter, J W
+describe ; mlbplayed=1952/
+death 2020-10-11 @ US/FL/Jupiter
+burial Cremated
+
+#202010_037 Raether, Harold Herman
+describe ; mlbplayed=1954/
+death 2020-09-26 @ US/MN/Spring Park
+burial Fort Snelling National Cemetery @ US/MN/Minneapolis
+
+#202010_038 Seaver, George Thomas
+describe ; mlbplayed=1967/
+death 2020-08-31 @ US/CA/Calistoga
+
+#202010_039 Simpson, Thomas Leo [Tom]
+describe ; mlbplayed=1953/
+
+#202010_040 Smith, Joshua Allen
+describe ; mlbplayed=2015/
+
+#202010_041 Thomas, Derrel Osbon
+describe ; mlbplayed=1971/
+
+#202010_042 Wenz, Frederick Charles
+describe ; mlbplayed=1968/
+death 2020-10-06 @ US/NJ/Branchburg
+burial Redfield Cemetery @ US/NY/Redfield
+
+#202010_043 Williams, David Owen
+describe ; mlbplayed=1902/
+birth 1880-02-07 @ GB//Swansea
+
+#202010_044 Wolters, Reinder Albertus
+describe ; mlbplayed=1871/
+birth 1844-03-17
+
+#202010_045 Yewcic, Thomas J.
+describe ; mlbplayed=1957/
+death 2020-10-20 @ US/MA/Arlington
+burial Mount Pleasant Cemetery @ US/MA/Arlington
