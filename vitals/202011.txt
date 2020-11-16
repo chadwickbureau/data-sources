@@ -58,3 +58,41 @@ sameas ssn:439-54-4799
 birth 1937-09-16 @ US/LA/Bastrop
 death 2002-02-13
 
+---
+
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-11
+ 
+#202011_008 Waytula, Edward J.
+sameas ssn:358-14-1464
+birth 1927-01-05
+death 2010-04-23
+ 
+---
+ 
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-11
+ 
+#202011_009 Waytula, Edward Joseph
+birth 1927-01-05 @ US/IL/Chicago
+ 
+---
+ 
+!citation US World War II Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-11
+ 
+#202011_010 Flora, William Marvin
+birth 1914-02-25 @ US/AL/Birmingham
+
+---
+ 
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-11
+ 
+#202011_011 Mayor, Eleno Agapito
+sameas ssn:248-24-1905
+birth 1916-08-18 @ CU//Sagua La Grande
+death 2005-04-18
+
+
+

@@ -213,6 +213,313 @@ birth 1928-05-26 @ US/MO/Esther
 death 2020-11-09 @ US/MO/Caledonia
 college Murray State University 
 
+---
+
+!citation Connor-Healy Funeral Home @ 2020-11-11
+!url https://www.connorhealy.com/obituary/kenneth-mcdonald
+!file McDonald_Ken.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-11
+
+#202011_018 McDonald, Kenneth Daniel [Ken]
+birth 1926-06-28 @ US/NH/Manchester
+death 2020-11-08 @ US/NH/Manchester
+highschool La Salle Academy @ US/RI/Providence
+military US Navy @ World War II
+burial St. Joseph Cemetery @ US/NH/Bedford
+
+---
+ 
+!citation Chicago Sun-Times @ 2010-04-25
+!file Waytula_Edward.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-11
+ 
+#202011_019 Waytula, Edward J.
+death 2010
+burial Queen of Heaven Catholic Cemetery @ US/IL/Hillside
+
+---
+
+!citation Cress Funeral & Cremation Services @ 2020-11-11
+!url https://www.cressfuneralservice.com/obituary/Ronald-Nieman
+!file Nieman_Ronald.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-11
+
+#202011_020 Nieman, Ronald J.
+birth 1936-01-12 @ US/WI/Oconomowoc
+death 2020-11-03 @ US/WI/Madison
+college University of Wisconsin at Madison
+
+---
+
+!citation Asbury Park Press @ 2020-11-07
+!url https://www.legacy.com/obituaries/app/obituary.aspx?n=edward-j-ralston&pid=197067173&fhid=31271
+!file Ralston_Ed.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-11
+
+#202011_021 Ralston, Edward J., Sr. [Ed]
+birth 1929-12-25 @ US/NY/Geneva
+death 2020-11-04 @ US/NJ/Waretown
+college Syracuse University
+military US Marines @ Korean War
+
+---
+
+!citation Tampa Tribune @ 2005-04-21
+!file Mayor_Agapito.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-11
+ 
+#202011_022 Mayor, Agapito
+death 2005-04-18 @ US/FL/Tampa
+burial Garden of Memories Cemetery @ US/FL/Tampa
+
+---
+
+!citation York Daily Record @ 2016-01-08
+!url https://www.legacy.com/obituaries/york/obituary.aspx?n=Howard-Kerns&pid=177197705
+!file Kerns_Howard.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-12
+
+#202011_023 Kerns, Howard P.
+birth 1920-03-28 @ US/PA/York
+death 2016-01-06 @ US/PA/York
+military US Army @ World War II
+burial Mount Rose Cemetery @ US/PA/York
+
+---
+
+!citation Konrad-Behlman Funeral Homes @ 2020-11-12
+!url https://www.konrad-behlman.com/obituaries/George-Roger-Berrell?obId=2718882#/obituaryInfo
+!file Berrell_George.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-12
+
+#202011_024 Berrell, George Roger "Buzz"
+birth 1937-11-16 @ US/WI/Oshkosh
+death 2015-12-31 
+highschool Oshkosh HS @ US/WI/Oshkosh
+
+---
+
+!citation Platt's Funeral Home @ 2020-11-12
+!url https://www.plattsfuneralhome.com/obituaries/Franklin-Morris?obId=13098289#/obituaryInfo
+!file Morris_Franklin.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-12
+
+#202011_025 Morris, Franklin R.
+death 2016-01-04 @ US/GA/Augusta
+burial Bellevue Memorial Gardens @ US/GA/Grovetown
+
+---
+
+!citation Washington Post @ 2016-01-05
+!url https://www.legacy.com/obituaries/washingtonpost/obituary.aspx?n=JAMES-NORBERG&pid=177147893
+!file Norberg_James.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-12
+
+#202011_026 Norberg, James
+death 2015-10-27 @ US/CO/Denver
+highschool South HS @ US/CO/Denver
+military US Army
+
+---
+
+!citation Cremation & Funeral Gallery @ 2020-11-12
+!url https://www.cfgbillings.com/obituaries/Les-Norvin-Rohr?obId=18929792#/celebrationWall
+!file Rohr_Les.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-12
+
+#202011_027 Rohr, Les Norvin
+birth 1946-03-05 @ GB//Lowestoft
+death 2020-11-06
+highschool Billings West HS @ US/MT/Billings
+
+---
+
+!citation Tezak Funeral Home @ 2020-11-12
+!url https://www.tezakfuneralhome.com/obituary/Bernard-Gerl
+!file Gerl_Bernie.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-12
+
+#202011_028 Gerl, Bernard F. [Bernie]
+birth 1926-10-12 @ US/IL/Joliet
+death 2020-11-07 @ US/IL/Crest Hill
+highschool Joliet Township HS @ US/IL/Joliet
+military US Army
+
+---
+
+!citation Hough Funeral Homes @ 2020-11-12
+!url https://www.houghfuneralhome.com/obituary/Robert-House
+!file House_Bob.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-12
+
+#202011_029 House, Robert Eugene
+birth 1937-07-10 @ US/IL/Litchfield
+death 2020-10-15 @ US/CA/Laguna Beach
+highschool Raymond HS @ US/IL/Raymond
+college Illinois Wesleyan University
+burial Asbury Cemetery @ US/IL/Raymond
+
+---
+
+!citation Wshburn-McReavy Funeral Home @ 2020-11-12
+!url https://www.washburn-mcreavy.com/obituaries/Julio-Becquer/#!/Obituary
+!file Becquer_Julio.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-12
+
+#202011_030 Becquer, Froilan Julio
+birth 1931-12-20
+death 2020-11-01
+burial Glen Haven Memorial Gardens @ US/MN/Crystal
+
+---
+
+!citation Sigs Funeral Services @ 2020-11-13
+!url https://www.sigsfuneralservices.com/obituary/JudithRobert-Raymond
+!file Raymond_Robert.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-13
+
+#202011_031 Raymond, Robert H. [Bobby] "Bucky"
+birth 1932-07-19 @ US/WA/Bellingham
+death 2020-11-04 @ US/WA/Bellingham
+highschool Meridian HS @ US/WA/Bellingham
+military US Army @ Korean War
+burial Enterprise Cemetery @ US/WA/Ferndale
+
+---
+
+!citation Reading Eagle @ 2020-11-13
+!url https://www.legacy.com/obituaries/readingeagle/obituary.aspx?n=vernon-j-hecker&pid=197095627&fhid=12113
+!file Hecker_Smoke.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-13
+
+#202011_032 Hecker, Vernon J. [Smoke]
+birth @ US/PA/Reading
+death 2020-11-11 @ US/PA/Reading
+highschool Ontelaunee HS @ US/PA/Leesport
+
+---
+
+!citation Grand Strand Funeral Home @ 2020-11-13
+!url https://www.grandstrandcremation.com/obituary/steve-santa
+!file Santa_Steve.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-13
+
+#202011_033 Santa, Steve John
+birth 1947-07 @ US/OH/Martins Ferry
+death 2020-11-09 @ US/SC/Conway
+highschool Yorkville HS @ US/OH/Yorkville
+military US Army
+
+---
+
+!citation Pocono Record @ 2020-11-13
+!url https://www.poconorecord.com/article/20151231/OBITUARIES/151239938
+!file Weirich_Robert.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-13
+
+#202011_034 Weirich, Robert A.
+birth 1925-05-20 @ US/PA/Middletown
+death 2015-12-28 @ US/PA/East Stroudsburg
+military US Marines @ World War II
+burial Laurelwood Cemetery @ US/PA/Stroudsburg
+
+---
+
+!citation Flanner Buchanan Funeral Home @ 2020-11-13
+!url https://flannerbuchanan.com/obit/donald-bays-jr/
+!file Bays_Donald.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-13
+
+#202011_035 Bays, Donald, Jr.
+birth 1929-03-15 @ US/IN/Greene County
+death 2015-12-23 @ US/IN/Indianpolis
+highschool Bloomfield HS @ US/IN/Bloomfield
+military US Air Force @ Korean War
+burial Lincoln Memory Gardens @ US/IN/Whitestown
+
+---
+
+!citation Edwards Funeral Home @ 2020-11-14
+!url https://www.dignitymemorial.com/obituaries/fort-smith-ar/danny-greenfield-9901313
+!file Greenfield_Danny.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-14
+
+#202011_036 Greenfield, Danny Ray
+birth 1940-06-16 @ US/AR/Fort Smith
+death 2020-11-11 @ US/AR/Fort Smith
+highschool Van Buren HS @ US/AR/Van Buren
+college Southern Arkansas University
+military US Army
+burial Cremated
+
+---
+
+!citation Skelton Funeral Home @ 2020-11-14
+!url https://www.legacy.com/obituaries/tuscaloosa/obituary.aspx?n=bobby-owen-perrigin&pid=197100517&fhid=8383
+!file Perrigin_Bobby.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-14
+
+#202011_037 Perrigin, Bobby Owen
+birth 1944-06-14 @ US/AL/Pickens County
+death 2020-11-12 @ US/AL/Tuscaloosa
+highschool Gordo HS @ US/AL/Gordo
+military US Army
+burial Tuscaloosa Memorial Park @ US/AL/Tuscaloosa
+
+---
+
+!citation Hoffmeister South County Chapel @ 2020-11-15
+!url https://www.dignitymemorial.com/obituaries/saint-louis-mo/ralph-kolb-9901319
+!file Kolb_Ralph.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-15
+
+#202011_038 Kolb, Ralph Otto
+birth 1926-10-06
+death 2020-10-12
+military US Navy @ World War II
+
+---
+
+!citation Gunderson Funeral Home @ 2020-11-15
+!url https://www.gundersonfh.com/obituaries/Donald-Howard--Doc-Vike?obId=18949888#/obituaryInfo
+!file Vike_Doc.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-15
+
+#202011_039 Vike, Donald Howard [Doc]
+birth 1949-08-14 @ US/WI/Stoughton
+death 2020-11-12 @ US/WI/Stoughton
+highschool Stoughton HS @ US/WI/Stoughton
+military US Air Force @ Korean War
+burial Lutheran East Cemetery @ US/WI/Stoughton
+
+---
+
+!citation Decker-Givnish Funeral Home @ 2020-11-15
+!url https://lifecelebration.tributes.com/obituary/show/Charles-E.-Donnelly-108500368
+!file Donnelly_Charles.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-15
+
+#202011_040 Donnelly, Charles E., Sr. [Chuck]
+birth @ US/PA/Munhall
+death 2020-11-10 @ US/PA/Abington
+military US Army @ Korean War
+burial Doylestown Cemetery @ US/PA/Doylestown
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -3445,6 +3445,45 @@ birth 1914-07-25 @ US/MN/Kenyon
 death 2003-09-04 @ US/MN/Brainerd
 burial Evergreen Memorial Gardens @ US/MN/Brainerd
 
+---
+
+!citation findagrave.com @ 2020-11-11
+!url https://www.findagrave.com/memorial/56774425/richard-l-williams
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-11
+ 
+#281 Williams, Richard L.
+sameas findagrave:56774425
+birth 1921-03-30 @ CA/ON/Lindsay
+death 1945-02-21 @ PH//Capital District
+burial Manila American Cemetery and Memorial @ PH//Manila
+
+---
+
+!citation findagrave.com @ 2020-11-11
+!url https://www.findagrave.com/memorial/127339566/william-m.-flora
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-11
+ 
+#282 Flora, William M.
+sameas findagrave:127339566
+birth 1914-02-25
+death 1969-09-05
+burial Willow Dale Cemetery @ US/NC/Goldsboro
+
+---
+
+ 
+!citation findagrave.com @ 2020-11-11
+!url https://www.findagrave.com/memorial/10824941/agapito-mayor
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-11
+ 
+#283 Mayor, Agapito
+sameas findagrave:10824941
+birth 1916
+death 2005-04-18 @ US/FL/Hillsborough Cunty
+burial Garden of Memories Cemetery @ US/FL/Tampa
+
+
+
 
 
 

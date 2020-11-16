@@ -186,3 +186,45 @@ birth 1844-03-17
 describe ; mlbplayed=1957/
 death 2020-10-20 @ US/MA/Arlington
 burial Mount Pleasant Cemetery @ US/MA/Arlington
+
+#202010_046 Abreu (Dias), Albert Enmanuel
+describe ; BR TR H74 W190; mlbplayed=2020-08-08/
+birth 1995-09-26 @ DO/Monte Cristi/Guayubin
+
+#202010_047 Adell, Jordan Scott
+describe ; BR TR H75 W215; mlbplayed=2020-08-04/
+birth 1999-04-08 @ US/NC/Shelby
+
+#202010_048 Akin, Keegan Lee
+describe ; BL TL H72 W225; mlbplayed=2020-08-14/
+birth 1995-04-01 @ US/MI/Alma
+
+#202010_049 Akiyama, Shogo
+describe ; BL TR H72 W190; mlbplayed=2020-07-24/
+birth 1988-04-16 @ JP/Kanagawa/Yokosuka
+
+#202010_050 Alcantara (Hernandez), Sergio Junior
+describe ; BS TR H69 W151; mlbplayed=2020-09-06/
+birth 1996-07-10 @ DO/Santo Domingo/Santo Domingo Este
+
+#202010_051 Alvarez, Eduard Cortes
+describe ; BS TR H69 W185; mlbplayed=2020-08-05/
+birth 1990-01-30 @ US/FL/Miami
+
+#202010_052 Anderson, Ian Theodore
+describe ; BR TR H75 W170; mlbplayed=2020-08-26/
+birth 1998-05-02 @ US/NY/Rexford
+
+#202010_053 Antone, Tejay Anthony
+describe ; BR TR H76 W230; mlbplayed=2020-07-27/
+birth 1993-12-05 @ US/OK/Oklahoma City
+
+#202010_054 Apostel (Rollins), Sherten Wimbert Ramiro
+describe ; BR TR H76 W235; mlbplayed=2020-09-12/
+birth 1999-03-11 @ CW//Willemstad
+
+#202010_055 Arauz (Morales), Jonathan Aldair
+describe ; BS TR H72 W195; mlbplayed=2020-07-24/
+birth 1998-08-03 @ US/PA/Alanje
+
+
