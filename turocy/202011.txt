@@ -1,0 +1,77 @@
+!citation Retrosheet @ 2020-11
+
+#202011_001 Blake, Matt
+sameas retro:blakm801
+birth 1985 @ US/NH/Concord
+
+#202011_002 Cepeda, Wellington
+sameas retro:cepew801
+birth 1973-11-25 @ DO//La Vega
+
+#202011_003 Correa, Kainoa T. [Kai]
+sameas retro:corrk801
+birth @ US/HI/Hilo
+
+#202011_004 DeHart, Jarret
+sameas retro:dehaj801
+birth 1994-10-02 @ US/NJ/New Brunswick
+
+#202011_005 Driver, Craig
+sameas retro:drivc801
+birth 1988-09-21 @ US/WA/Seattle
+
+#202011_006 Ellis, Ryan D.
+sameas retro:ellir801
+birth 1978-07-19 @ US/PA/Pittsburgh
+
+#202011_007 Fatse, Peter C.
+sameas retro:fatsp801
+birth 1987-10-03 @ US/MA/Holyoke
+
+#202011_008 Frasier, Josh
+sameas retro:frasj801
+
+#202011_009 Fritz, Ben Scott
+sameas retro:fritb801
+birth 1981-03-29 @ US/CA/San Jose
+
+#202011_010 Lopez, Omar E.
+sameas retro:lopeo801
+birth 1977-01-03 @ VE//Valencia
+
+#202011_011 Martins, Anthony Eric [Eric]
+sameas retro:marte801
+birth 1972-11-19 @ US/CA/East Los Angeles
+
+#202011_012 Martinez, Guillermo Enrique
+sameas retro:martg801
+birth 1984-10-05 @ US/FL/Miami
+
+#202011_013 Ragsdale, William Corey [Corey]
+sameas retro:ragsc801
+birth 1982-11-10 @ US/AR/Jonesboro
+
+#202011_014 Rodriguez, Robert John
+sameas retro:rodrr801
+birth 1980-12-17 @ US/FL/Miami
+
+#202011_015 Urueta (Romano), Luis Felipe
+sameas retro:uruel801
+birth 1981-01-09 @ CO//Barranquilla
+
+#202011_016 Viele, Justin Paul
+sameas retro:vielj801
+birth 1990-11-13 @ US/CA/Fullerton
+
+#202011_017 Whiting, Mikel Brant [Brant]
+sameas retro:whitb801
+birth 1992-02-026 @ US/CA/Fullerton
+
+#202011_018 Woodworth, Pete Graham
+sameas retro:woodp801
+birth 1988-07-29 @ US/FL/St. Petersburg
+
+#202011_019 Tingler, Jayce Michael
+sameas retro:tingj801
+birth 1980-11-28 @ US/MO/Smithville
+

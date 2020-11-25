@@ -94,5 +94,111 @@ sameas ssn:248-24-1905
 birth 1916-08-18 @ CU//Sagua La Grande
 death 2005-04-18
 
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-19
+ 
+#202011_012 Mellendick, Joseph Robert
+birth 1917-02-13 @ US/NJ/Bayonne
+
+---
+
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-19
+ 
+#202011_013 Muhr, William Anthony
+sameas ssn:341-03-7206
+birth 1916-01-27 @ US/IL/Chicago
+death 1997-01-03
+
+---
+
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-19
+ 
+#202011_014 Quimby, Charles M.
+sameas ssn:220-09-0071
+birth 1917-01-31
+death 2013-08-08
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-19
+ 
+#202011_015 Remorenko, Edward Martin
+birth 1915-03-03 @ US/PA/Wallingford
+ 
+---
+ 
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-19
+ 
+#202011_016 Remorenko, Edward Martin
+sameas ssn:217-05-9384
+birth 1915-03-03 @ US/PA/Wallingford
+death 1998-08-02
+
+---
+
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-20
+ 
+#202011_017 Cook, Robert William
+sameas ssn:296-24-3722
+birth 1927-04-12 @ US/MI/Detroit
+death 2004-12-20
+
+---
+
+!citation US Headstone Applications for Military Veterans, 1925-1970
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-20
+ 
+#202011_018 Roche, Raymond Joseph
+birth 1912-05-17
+death 1963-04-07
+military US Navy @ World War II
+burial Old Forge Cemetery @ US/PA/Old Forge
+
+---
+
+!citation US Headstone Applications for Military Veterans, 1925-1970
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-20
+ 
+#202011_019 Sheehan, Edward T.
+birth 1915-08-21
+death 1950-07-26
+military US Army @ World War II
+burial St. Lawrence Cemetery @ US/CT/West Haven
+ 
+---
+ 
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-20
+ 
+#202011_020 Sheehan, Edward Thomas
+birth 1915-08-21 @ US/CT/New Haven
+
+---
+ 
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-20
+ 
+#202011_021 Teliskey, John, Jr.
+birth 1910-12-19 @ AT
+
+---
+
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-20
+ 
+#202011_022 Zachar, Martin, Jr.
+sameas ssn:363-12-7920
+birth 1915-07-27 @ US/MI/Detroit
+death 1999-12-23
+
+
+
 
 

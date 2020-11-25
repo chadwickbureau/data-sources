@@ -3471,7 +3471,6 @@ burial Willow Dale Cemetery @ US/NC/Goldsboro
 
 ---
 
- 
 !citation findagrave.com @ 2020-11-11
 !url https://www.findagrave.com/memorial/10824941/agapito-mayor
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-11
@@ -3479,9 +3478,84 @@ burial Willow Dale Cemetery @ US/NC/Goldsboro
 #283 Mayor, Agapito
 sameas findagrave:10824941
 birth 1916
-death 2005-04-18 @ US/FL/Hillsborough Cunty
+death 2005-04-18 @ US/FL/Hillsborough County
 burial Garden of Memories Cemetery @ US/FL/Tampa
 
+---
+
+!citation findagrave.com @ 2020-11-19
+!url https://www.findagrave.com/memorial/135989586/joseph-r.-mellendick
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-19
+ 
+#284 Mellendick, Joseph R. [Joe]
+sameas findagrave:135989586
+birth 1917-02-13 @ US/NJ/Bayonne
+death 1975-08-19 @ US/MD/Baltimore County
+highschool Loyola HS @ US/MD/Baltimore
+college Georgetown University
+burial New Cathedral Cemetery @ US/MD/Baltimore
+
+---
+
+!citation findagrave.com @ 2020-11-19
+!url https://www.findagrave.com/memorial/204861559/anthony-bernard-novak
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-19
+ 
+#285 Novak, Anthony Bernard
+sameas findagrave:204861559
+birth 1918-06-01 @ US/MA/Montague
+death 1958-12 @ US/CT/Newington
+burial Our Lady of Czestochowa Cemetery @ US/MA/Montague
+
+---
+
+!citation findagrave.com @ 2020-11-19
+!url https://www.findagrave.com/memorial/40792591/teddy-ratenski
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-19
+ 
+#286 Ratenski, Teddy
+sameas findagrave:40792591
+birth 1915-02-12
+death 1983-01-25
+burial Greenville Memorial Gardens @ US/SC/Piedmont
+
+---
+ 
+!citation findagrave.com @ 2020-11-20
+!url https://www.findagrave.com/memorial/1357706/martin-zachar
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-20
+ 
+#287 Zachar, Martin
+sameas findagrave:1357706
+birth 1915-07-27
+death 1999-12-23
+military US Army @ World War II
+military US Army @ Korean War
+military US Army @ Vietnam War
+burial Fort Sam Houston National Cemetery @ US/TX/San Antonio
+
+---
+
+!citation findagrave.com @ 2020-11-23
+!url https://www.findagrave.com/memorial/8963121/wilmer-leon-fields
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-23
+ 
+#288 Fields, Wilmer Leon
+sameas findagrave:8963121
+birth 1922-08-02 @ US/VA/Manassas
+death 2004-06-05 @ US/VA/Manassas
+
+---
+
+!citation findagrave.com @ 2020-11-23
+!url https://www.findagrave.com/memorial/40948054/ralph-l.-abington
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-23
+ 
+#289 Abington, Ralph L. "Buge"
+sameas findagrave:40948054
+birth 1893-06-28 @ US/AR
+death 1975-02-19 @ US/FL/Pompano Beach
+burial Calvary Cemetery @ US/AR/Fort Smith
 
 
 
