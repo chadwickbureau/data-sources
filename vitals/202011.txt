@@ -198,7 +198,46 @@ sameas ssn:363-12-7920
 birth 1915-07-27 @ US/MI/Detroit
 death 1999-12-23
 
+---
+ 
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-27
+ 
+#202011_023 Stefano, Nicholas Charles
+birth 1928-09-13 @ US/NJ/Paterson
 
+---
 
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-27
+ 
+#202011_024 Bauder, Charles Joseph
+birth 1913-12-12 @ US/PA/Erie
+ 
+---
+ 
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-27
+ 
+#202011_025 Bauder, Charles J.
+sameas ssn:175-09-1644
+birth 1913-12-12
+death 1973-11
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-29
+ 
+#202011_026 Parmer, William Walter
+birth 1921-01-06 @ US/PA/Philadelphia
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-30
+ 
+#202011_027 Umscheid, Donald Arthur
+birth 1923-12-13 @ US/NJ/Newark
 
 

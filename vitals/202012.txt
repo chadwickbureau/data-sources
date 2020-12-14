@@ -1,0 +1,332 @@
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-03
+ 
+#202012_001 Bessom, Raymond Lewis
+birth 1920-06-07 @ US/MA/Lynn
+
+---
+ 
+!citation North Carolina Death Indexes, 1908-2004
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-03
+ 
+#202012_002 Fletcher, Guy
+birth 1911
+death 1974-05-02 @ US/NC/Winston-Salem
+
+---
+ 
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-03
+ 
+#202012_003 Gruzdis, James Vincent
+sameas ssn:246-09-8281
+birth 1913-11-03 @ US/PA/Minersville
+death 1989-11
+
+---
+ 
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-03
+ 
+#202012_004 Hannahoe, Gerald Patrick
+birth 1912-07-26 @ US/PA/Reading
+
+---
+ 
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-03
+ 
+#202012_005 Neborak, William
+sameas ssn:180-01-7702
+birth 1916-09-18
+death 1964-10
+ 
+---
+ 
+!citation Pennsylvania U.S. Veterans Burial Cards, 1777-2012
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-03
+ 
+#202012_006 Neborak, William, Jr.
+birth 1916-09-18
+death 1964-10-04
+ 
+---
+ 
+!citation Pennsylvania Death Certificates, 1906-1967
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-03
+ 
+#202012_007 Neborak, William, Jr.
+birth 1916-09-18 @ US/PA/Philadelphia
+death 1964-10-04 @ US/PA/Camp Hill
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-04
+ 
+#202012_008 Kilmer, Mark James
+birth 1917-05-15 @ US/OH/Brookville
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-04
+ 
+#202012_009 Wolf, Jewett Carl
+birth 1915-11-26 @ US/NY/Williamsville
+ 
+---
+ 
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-04
+ 
+#202012_010 Wolf, Jewett Carl
+sameas ssn:134-03-1312
+birth 1915-11-26 @ US/NY/Williamsville
+death 1997-03-06
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-05
+ 
+#202012_011 O'Malley, John Francis
+birth 1901-09-08 @ US/NY/Buffalo
+ 
+---
+ 
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-05
+ 
+#202012_012 O'Malley, John
+sameas ssn:070-09-5817
+birth 1901-09-08
+death 1979-04
+ 
+---
+ 
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-05
+ 
+#202012_013 Gehrt, Fred Edward, Jr.
+sameas ssn:329-12-7262
+birth 1921-05-25 @ US/IL/Bloomington
+death 1988-09-10
+
+---
+
+!citation Cook County, IL Birth Certificates Index, 1871-1922
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-06
+ 
+#202012_014 Hayes, James C.
+alias Hais, Amedio C.
+alias Hais, James C.
+birth 1912-12-18 @ US/IL/Cicero
+
+---
+ 
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-06
+ 
+#202012_015 Hayes, James Charles
+birth 1912-12-18 @ US/IL/Cicero
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-07
+ 
+#202012_016 Bruhn, Edward Ralph
+birth 1919-05-02 @ US/IL/Glenview
+
+---
+ 
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-07
+ 
+#202012_017 Dziura, John Joseph
+sameas ssn:361-07-7209
+birth 1916-09-13 @ US/IL/Chicago
+death 2006-02-20
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-09
+ 
+#202012_018 Hixson, August
+birth 1915-12-20 @ US/IL/Chicago
+ 
+---
+ 
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-09
+ 
+#202012_019 Hixson, August
+sameas ssn:302-03-2766
+birth 1915-12-20
+death 1980-09
+
+---
+ 
+!citation Florida Death Index, 1877-1998
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-09
+ 
+#202012_020 Hixson, August
+birth 1915-12-20
+death 1980-09-10 @ US/FL/Lee County
+
+---
+ 
+!citation Ohio Death Recrods, 1908-1932, 1938-2018
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-09
+ 
+#202012_021 Kohler, Charles Vernon
+birth 1919-08-17 @ US/OH/Cincinnati
+death 2002-04-02 @ US/OH/Fairfield
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-11
+ 
+#202012_022 Stahlman, Richard Fred
+birth 1902-10-20 @ US/IL/Chicago
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-12
+ 
+#202012_023 Gustafson, Hugh Edward
+birth 1915-02-08 @ US/MN/Hibbing
+ 
+---
+ 
+!citation Iron Range Research Center
+!url https://www.ironrangeresearchcenter.org/details/8/78583/
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-12
+ 
+#202012_024 Gustafson, Hugh E.
+birth @ US/MN/Hibbing
+death 1977-01-03 @ CA/MB/Winnipeg
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-12
+ 
+#202012_025 Hendrix, Ralph Wilson
+birth @ US/TN/Lawrenceburg
+
+---
+ 
+!citation Florida Death Index, 1877-1998
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-12
+ 
+#202012_026 Hendrix, Ralph Wilson
+birth 1914-12-01
+death 1982-11-26 @ US/FL/Escambia
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-12
+ 
+#202012_027 Martin, Edward Boozer
+birth 1917-04-03 @ US/AL/Coal City
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-12
+ 
+#202012_028 Mitchell, Curtis Homer
+birth 1915-05-16 @ US/WV/McDowell County
+ 
+---
+ 
+!citation Florida Death Index, 1877-1998
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-12
+ 
+#202012_029 Mitchell, Curtis Homer
+birth 1915-05-16
+death 1983-03-03 @ US/FL/Dade County
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-12
+ 
+#202012_030 Skurski, Joseph Alexander
+birth 1912-03-01 @ US/IL/Rockford
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-12
+ 
+#202012_031 Stencel, Stanley Joseph
+birth 1917-05-02 @ US/WI/Milwaukee
+
+---
+ 
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-12
+ 
+#202012_032 Stencel, Stanley J.
+sameas ssn:389-16-4018
+birth 1917-05-02
+death 2008-05-27
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-12
+ 
+#202012_033 Stroud, Heber Leborde
+birth 1916-08-14 @ US/SC/Columbia
+
+---
+ 
+!citation South Carolina Death Records, 1821-1968
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-12
+ 
+#202012_034 Stroud, Heber L.
+birth 1916-08-14 @ US/SC/Columbia
+death 1962-12-24 @ US/SC/Charleston
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-12
+ 
+#202012_035 Stroupe, Winslow Francis
+birth 1922-04-19 @ US/NC/Gastonia
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-12
+ 
+#202012_036 Swanson, Harold Arthur
+birth 1914-09-06 @ US/IN/La Porte
+ 
+---
+ 
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-12
+ 
+#202012_037 Swanson, Harold Arthur
+sameas ssn:334-10-1229
+birth 1914-09-06 @ US/IN/La Porte
+death 1990-04-09
+
+---
+ 
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-12
+ 
+#202012_038 Tighe, Thomas Morse
+birth 1915-02-23 @ US/MI/Big Rapids
+

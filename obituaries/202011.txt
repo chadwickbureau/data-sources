@@ -1014,7 +1014,276 @@ death 2020-11-21 @ US/SD/Sioux Falls
 highschool Newman Grove HS @ US/NE/Newman Grove
 burial Ponca Cemetery @ US/NE/Ponca
 
+---
 
+!citation Nimsgern Funeral & Cremation Services @ 2020-11-24
+!url https://www.nimsgernfuneral.com/obituaries/Norman-D-Ellenberger?obId=672940#/obituaryInfo
+!file Ellenberger_Norm.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-24
+
+#202011_080 Ellenberger, Norman Dale [Norm]
+birth 1932-08-02
+death 2015-11-15 @ US/MI/Watersmeet
+highschool New Haven HS @ US/IN/New Haven
+college Butler University
+military US Army
+
+---
+
+!citation Scranton Times-Tribune @ 2015-11-19
+!file Lukowski_Stanley.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-24
+
+#202011_081 Lukowski, Stanley Joseph "Sta"
+death 2015-11-17
+highschool Throop HS @ US/PA/Throop
+military US Army @ Korean War
+burial St. Mary's Old Visitation Cemetery @ US/PA/Dickson City
+
+---
+
+!citation Dover Post @ 2015-11-16
+!url https://www.legacy.com/obituaries/doverpost/obituary.aspx?n=Roger-C-Doll&pid=176526638
+!file Doll_Roger.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-24
+
+#202011_082 Doll, Roger C.
+death 2015-11-11 @ US/DE/Dover
+highschool Liberty HS @ US/PA/Bethlehem
+college Moravian College
+military US Army @ World War II
+burial Delaware Veterans Memorial Cemetery @ US/DE/Bear
+
+---
+
+!citation The Reporter @ 2015-11-08
+!url https://www.legacy.com/obituaries/thereporter/obituary.aspx?n=Champ-Boykin&pid=176391322
+!file Boykin_Champ.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-24
+
+#202011_083 Boykin, Champ
+birth 1947-08-20 @ US/CA/Ripon
+death 2015-10-21
+highschool Vacaville HS @ US/CA/Vacaville
+
+---
+
+!citation Floral Haven @ 2020-11-24
+!url https://www.floralhaven.com/obituaries/Gary-Reeves-5/#!/Obituary
+!file Reeves_Gary.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-24
+
+#202011_084 Reeves, Gary LaDell
+birth 1930-03-06 @ US/MO/Clarkton
+death 2020-11-22 
+
+---
+
+!citation Muehlebach Funeral Care @ 2020-11-25
+!url https://www.muehlebachchapel.com/obituary/joseph-stasi
+!file Stasi_Joseph.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-25
+
+#202011_085 Stasi, Joseph R.
+birth 1926-06-26
+death 2020-11-24 @ US/KS/Olathe
+military US Army
+
+---
+
+!citation Muehlebach Funeral Care@ 2020-11-25
+!url https://www.muehlebachchapel.com/obituary/joseph-stasi
+!file Stasi_Joseph.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-25
+
+#202011_086 Stasi, Joseph R.
+birth 1926-06-26
+death 2020-11-24 @ US/KS/Olathe
+military US Army
+
+---
+
+!citation Martin Funeral Home @ 2020-11-27
+!url https://www.martinfh.net/obituary/eugene-houllion
+!file Houllion_Gene.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-27
+
+#202011_087 Houllion, Eugene John [Gene]
+birth 1930-03-11 @ US/PA/Butler
+death 2020-11-24 @ US/PA/Cabot
+highschool Butler HS @ US/PA/Butler
+military US Navy @ Korean War
+
+---
+
+!citation Airsman-Hires Funeral Homes @ 2020-11-27
+!url https://www.airsman-hires.com/obituaries/Francis-L-Butch-Bunch?obId=3447671#/obituaryInfo
+!file Bunch_Butch.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-27
+
+#202011_088 Bunch, Francis L. [Butch]
+birth 1931-01-01 @ US/IL/Jacksonville
+death 2015-11-04 @ US/IL/Jacksonville
+highschool Jacksonville HS @ US/IL/Jacksonville
+military US Navy @ Korean War
+burial Jacksonville Memorial Lawn Cemetery @ US/IL/Jacksonville
+
+---
+
+!citation Record/Herald News @ 2020-05-21
+!url https://www.legacy.com/obituaries/northjersey/obituary.aspx?n=nicholas-c-stefano&pid=196225405
+!file Stefano_Nicholas.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-27
+
+#202011_089 Stefano, Nicholas C.
+birth @ US/NJ/Paterson
+death 2020-05-18
+
+---
+
+!citation J.M. Dunbar Funeral Home @ 2020-11-28
+!url https://www.jmdunbar.com/obituary/claude-culbreth
+!file Culbreth_Claude.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-28
+
+#202011_090 Culbreth, Claude Lee
+birth 1934-02-25 
+death 2020-11-26
+burial Fairforest Baptist Church Cemetery @ US/SC/Union
+
+---
+
+!citation Ryan Funeral Homes @ 2020-11-29
+!url https://www.ryanfuneralservice.com/obituary/Franklin-OswaldJr
+!file Oswald_Frank.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-29
+
+#202011_091 Oswald, Franklin P., Jr. [Frank]
+birth 1934-06-19 @ US/WI/LaCrosse
+death 2020-11-25
+highschool Bagley HS @ US/WI/Bagley
+burial Highland Memory Gardens @ US/WI/Cottage Grove
+
+---
+
+!citation Hansen-Spear Funeral Home @ 2020-11-29
+!url https://www.hansenspear.com/obituary/523243/Jimmie-L.-Hiland/
+!file Hiland_Jim.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-29
+
+#202011_092 Hiland, Jimmie Lee [Jim]
+birth 1934-05-21 @ US/IL/Augusta
+death 2020-11-27 @ US/IL/Quincy
+highschool Augusta HS @ US/IL/Augusta
+college Western Illinois University
+military US Army
+
+---
+
+!citation Schrader Funeral Home @ 2020-11-29
+!url https://www.schrader.com/obituary/fred-applegate
+!file Applegate_Fred.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-29
+
+#202011_093 Applegate, Fred J.
+birth 1930-10-14 @ US/MO/St. Louis
+death 2020-11-24 @ US/MO/Chesterfield
+highschool Fairview HS @ US/MO/St. Louis
+military US Army @ Korean War
+burial Jefferson Barracks National Cemetery @ US/MO/Lemay
+
+---
+
+!citation Passaic Herald-News @ 2014-02-02
+!file Parmer_William.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-29
+ 
+#202011_094 Parmer, William Walter [Bill]
+birth @ US/PA/Philadelphia
+death 2014-01-27
+highschool Belleville HS @ US/NJ/Belleville
+college Dartmouth College
+military US Army @ World War II
+
+---
+
+!citation Cremation Society of Virginia @ 2020-11-29
+!url https://www.vacremationsociety.com/obituary/walter-trollinger/
+!file Trollinger_Walt.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-29
+
+#202011_095 Trollinger, Walter Burton [Walt]
+birth 1939-10-27 @ US/DC/Washington
+death 2020-11-25
+highschool Oxon Hill HS @ US/MD/Oxon Hill
+
+---
+
+!citation Brockman-Boeckman Funeral Home @ 2020-11-30
+!url http://www.brockmanboeckmanfh.com/obituary/dale-bruns
+!file Bruns_Dale.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-30
+
+#202011_096 Bruns, Dale J.
+birth 1936-11-24 @ US/OH/Fort Recovery
+death 2020-11-20 @ US/OH/Coldwater
+highschool Fort Recovery HS @ US/OH/Fort Recovery
+military US Army
+burial St. Peter Catholic Cemetery @ US/OH/Fort Recovery
+
+---
+
+!citation Examiner @ 2020-11-24
+!url https://www.theexaminernews.com/kurt-m-beger/
+!file Beger_Kurt.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-30
+
+#202011_097 Beger, Kurt M.
+birth 1941-07-26 @ US/NY/Baldwin Place
+death 2020-11-10
+highschool Mahopac HS @ US/NY/Mahopac
+
+---
+
+!citation Greater Cincinnati Police Museum @ 2020-11-30
+!url https://police-museum.org/2020/11/25/police-officer-timothy-v-dinkelacker-p-117-1935-2020/
+!file Dinkelacker_Tim.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-30
+
+#202011_098 Dinkelacker, Timothy V. [Tim]
+birth 1935-08-31
+death 2020-11-24
+highschool Roger Bacon HS @ US/OH/Cincinnati
+military US Army
+burial Gate of Heaven Cemetery @ US/OH/Montgomery
+
+---
+
+!citation Snow's Memorial Chapel @ 2020-11-30
+!url https://www.dignitymemorial.com/obituaries/macon-ga/phil-gilbert-9919068
+!file Gilbert_Phil.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-30
+
+#202011_099 Gilbert, Phil Jimmy "Chicken"
+birth 1932-12-13 @ US/GA/Dublin
+death 2020-11-25
+highschool Dexter HS @ US/GA/Dexter
+burial Riverside Cemetery @ US/GA/Macon
+
+---
+ 
+!citation Tucson Citizen @ 1998-07-20
+!file Umscheid_Donald.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-11-30
+ 
+#202011_100 Umscheid, Donald Arthur
+birth @ US/NJ/Newark
+death 1998-07-17 @ US/AZ/Tucson
+highschool Nutley HS @ US/NJ/Nutley
+military US Army @ World War II
+
+
+ 
 
 
 
