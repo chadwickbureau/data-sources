@@ -1,0 +1,51 @@
+!citation Boston Globe @ 1916-04-29; page 4
+
+#20201126_001 Downey, Thomas
+player 1916 Lowell (Eastern)
+
+____
+
+!citation Hartford Courant @ 1916-07-15; page 17
+
+#20201126_002 Downey, Tom
+player 1916 Lowell (Eastern)
+player 1916 Harrisburg (New York State)
+
+____
+
+!citation Fitchburg Sentinel @ 1916-09-05; page 6
+
+#20201126_003 Kane, Joe
+player 1916 Lowell (Eastern)
+player 1915 Manchester (New England)
+
+____
+
+!citation Fitchburg Sentinel @ 1916-05-23; page 6
+
+#20201126_004 Robinson
+player 1916 Portland (Eastern)
+player 1916 Lawrence (Eastern)
+player 1915 Fitchburg (New England)
+
+____
+
+!citation Fitchburg Sentinel @ 1916-07-08; page 7
+
+#20201126_005 Robinson
+player 1916 Lowell (Eastern)
+player 1915 Fitchburg (New England)
+
+____
+
+!citation Hartford Courant @ 1916-06-16
+
+#20201126_006 Whalen, John Dot
+player 1916 Worcester (Eastern)
+
+____
+
+!citation Brattleboro Reformer @ 1916-07-05; page 5
+
+#20201126_007 Volk, Wally
+player 1916 Worcester (Eastern)

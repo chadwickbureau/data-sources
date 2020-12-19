@@ -330,3 +330,27 @@ death 1990-04-09
 #202012_038 Tighe, Thomas Morse
 birth 1915-02-23 @ US/MI/Big Rapids
 
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-14
+ 
+#202012_039 McCrobe, Roy Campbell
+birth 1928-03-14 @ US/NY/Oswego
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-14
+ 
+#202012_040 Bojak, Edward Joseph
+birth 1916-02-02 @ US/IL/Chicago
+
+---
+ 
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-14
+ 
+#202012_041 Bytnar, Henry Andrew
+birth 1919-01-02 @ US/IL/Nokomis
+

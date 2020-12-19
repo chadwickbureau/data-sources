@@ -655,7 +655,324 @@ birth 1928-12-13 @ US/OH/Springfield
 death 2020-12-09 
 military US Army
 
+---
 
+!citation Courier-Journal @ 2020-12-14
+!url https://www.legacy.com/obituaries/louisville/obituary.aspx?n=john-robert-blake-mason&pid=197279236
+!file Mason_John.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-14
+
+#202012_054 Mason, John Robert Blake
+birth 1945-02-14 @ US/TX/Kingsville
+death 2020-12-02
+brother of Mason, Jeffrey W.
+highschool San Juan Capistrano HS @ US/CA/San Juan Capistrano
+
+---
+
+!citation Buranich Funeral Home @ 2020-12-14
+!url https://www.buranichfuneralhome.com/obituaries/Roger-Rada?obId=19240400#/obituaryInfo
+!file Rada_Roger.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-14
+
+#202012_055 Rada, Roger
+birth 1929-08-12 @ US/IL/Chicago
+death 2020-12-06
+college DePauw University
+military US Marines
+
+---
+
+!citation Johnson Funeral Home & Crematory @ 2020-12-14
+!url http://www.johnsonfuneralhomeandcrematory.com/obituary/Donald-Davis-Roth-II/Locust-Grove-Virginia/1882336
+!file Roth_Don.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-14
+
+#202012_056 Roth, Donald Davis, II [Don]
+birth 1945-09-13 @ US/CO/Colorado Springs
+death 2020-12-07
+
+---
+
+!citation Inside NOVA @ 2020-12-14
+!url https://www.insidenova.com/news/people/former-madison-coach-remembered-for-sincerity-dedication/article_e444e352-3baf-11eb-a04d-4b08bc9208d9.html
+!file Roth_Don_2.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-14
+
+#202012_057 Roth, Don
+death 2020-12-07
+highschool George Mason HS @ US/VA/Falls Church
+college Spring Arbor University
+
+---
+
+!citation Adams Funeral Home @ 2020-12-14
+!url https://www.adamsfuneralhome.org/obituaries/Arthur-Kelly-4/#!/Obituary
+!file Kelly_Art.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-14
+
+#202012_058 Kelly, Arthur Robert [Art]
+birth 1927-08-13 @ US/NJ/Bridgeton
+death 2020-12-05
+highschool Bridgeton HS @ US/NJ/Bridgeton
+military US Marines
+burial Chestnut Grove Cemetery @ US/NJ/Elmer
+
+---
+
+!citation New York Times @ 2020-12-07
+!url https://www.nytimes.com/2020/12/07/sports/baseball/dick-allen-dead.html
+!file Allen_Dick.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-14
+
+#202012_059 Allen, Richard Anthony [Dick]
+birth 1942-03-08 @ US/PA/Wampum
+death 2020-12-07 @ US/PA/Wampum
+
+---
+
+!citation Sutherland Funeral Homes @ 2020-12-14
+!url https://www.sutherlandfuneralhome.com/obituaries/Thomas-Gansauer/#!/Obituary
+!file Gansauer_Tom.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-14
+
+#202012_060 Gansauer, Thomas J. [Tom]
+birth 1940-10-18 @ US/IN/Gary
+death 2020-12-04 @ US/IL/Mount Vernon
+highschool Centralia HS @ US/IL/Centralia
+burial Hillcrest Memorial Park @ US/IL/Centralia
+ 
+---
+ 
+!citation Syracuse Post-Standard  @ 1999-06-21
+!file McCrobie_Mike.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-14
+ 
+#202012_061 McCrobie, Roy C. [Mike]
+birth @ US/NY/Oswego
+death 1999-06-20 @ US/NY/Oswego
+highschool Oswego HS @ US/NY/Oswego
+burial St. Paul Cemetery @ US/NY/Oswego
+
+---
+ 
+!citation Pasadena Police Officer's Association @ 2020-12-14
+!url https://pasadenapoa.com/the-ppoa/our-association/our-fallen
+!file Washington_Keith.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-14
+
+#202012_062 Washington, Keith O'Neal
+birth 1963-11-20
+death 1988-04-13
+highschool Crenshaw HS @ US/CA/Los Angeles
+college Los Angeles Southwest College
+
+---
+
+!citation Flickes Funeral Home @ 2020-12-14
+!url https://www.tributearchive.com/obituaries/18444007/John-James-Meyer/Jeromesville/Ohio/Fickes-Funeral-Home
+!file Meyer_John.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-14
+
+#202012_063 Meyer, John James
+birth 1925-05-25 @ US/OH/Stryker
+death 2020-09-24
+highschool Ashland HS @ US/OH/Ashland
+military US Navy @ World War II
+burial Dickey Church Cemetery @ US/OH/Ashland
+
+---
+
+!citation Davis-Watkins Funeral Home @ 2020-12-15
+!url https://www.daviswatkins.com/obituary/Larry-King
+!file King_Larry.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-15
+
+#202012_064 King, Larry Ray
+birth 1949-12-09 @ US/TN/Knoxville
+death 2020-12-13 @ US/FL/Panama City
+burial Gulf Cemetery @ US/FL/Santa Rosa Beach
+
+---
+
+!citation The Enterprise @ 2020-12-15
+!url https://www.legacy.com/obituaries/southofboston-enterprise/obituary.aspx?n=vincent-j-hayes&pid=197294008&fhid=25382
+!file Hayes_Vinnie.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-15
+
+#202012_065 Hayes, Vincent J. [Vinnie]
+birth 1921 @ US/MA/Brockton
+death 2020-12-13
+highschool Brockton HS @ US/MA/Brockton
+military US Army @ World War II
+burial Calvary Cemetery @ US/MA/Brockton
+
+---
+
+!citation Seattle Times @ 2020-12-14
+!url https://www.seattletimes.com/sports/gary-seefried-former-ballard-high-sports-star-and-owner-of-sluggers-sports-bars-dies-of-covid-19/
+!file Seefried_Gary.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-15
+
+#202012_066 Seefried, Gary
+death 2020-12-03
+highschool Ballard HS @ US/WA/Seattle
+military US Coast Guard
+
+---
+
+!citation Bernard Suess Funeral Home @ 2020-12-15
+!url https://www.suessfuneralhome.net/obituary/charles-guenst
+!file Guenst_Charles.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-15
+
+#202012_067 Guenst, Charles H.
+birth 1933-05-12 @ US/PA/West Rockhill Township
+death 2020-12-13 @ US/PA/Sellersville
+highschool Sell-Perk HS @ US/PA/Perkasie
+military US Army @ Korean War
+
+---
+
+!citation Fellows, Helfenbein & Newnam Funeral Home @ 2020-12-15
+!url https://www.fhnfuneralhome.com/obituaries/Joseph-Oliffe/#!/Obituary
+!file Oliffe_Joe.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-15
+
+#202012_068 Oliffe, Joseph Barwick, Jr. [Joe]
+birth 1932-10-16 @ US/MD/Worton
+death 2020-11-20 @ US/FL/Pembroke Pines
+military US Navy
+burial Crumpton Cemetery @ US/MD/Crumpton
+
+---
+
+!citation Ann Arbor News @ 2020-12-16
+!url https://obits.mlive.com/obituaries/annarbor/obituary.aspx?n=william-macinnes&pid=197298048
+!file MacInnes_Bill.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-16
+
+#202012_069 MacInnes, William Robert, II [Bill]
+birth 1942-11-26 @ US/MI/Alma
+death 2020-12-13 @ UF/FL/Fort Myers
+highschool Pioneer HS @ US/MI/Ann Arbor
+military US Marines @ Vietnam War
+
+---
+
+!citation Coxe & Graziano Funeral Home @ 2020-12-16
+!url https://www.coxeandgraziano.com/obituaries/Lawrence-J-Pugliese?obId=622002#/celebrationWall
+!file Pugliese_Lawrence.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-16
+
+#202012_070 Pugliese, Lawrence J.
+birth 1929-07-27
+death 2015-09-12
+military US Marines @ Korean War
+burial St. Mary's Cemetery @ US/CT/Greenwich
+
+---
+
+!citation Russon Mortuary @ 2020-12-16
+!url https://www.russonmortuary.com/obituaries/raymond-neishan-enjaian/8786/
+!file Enjaian_Ray.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-16
+
+#202012_071 Enjaian, Raymond Neishan [Ray]
+birth 1926-05-31 @ US/CA/San Francisco
+death 2015-09-11
+highschool Commerce HS @ US/CA/San Francisco
+college San Francisco State University
+military US Navy @ World War II
+burial Salt Lake City Cemetery @ US/UT/Salt Lake City
+
+---
+ 
+!citation Heckart Funeral Home @ 2020-12-16
+!url http://www.heckartfuneralhomesedalia.com/foster-mcguire/
+!file McGuire_Foster.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-16
+
+#202012_072 McGuire, Foster
+birth 1930-10-27 @ US/MO/Knob Noster
+death 2015-09-05 @ US/MO/Sedalia
+highschool Knob Noster HS @ US/MO/Knob Noster
+college Nebraska Wesleyan University
+military US Army @ Korean War
+
+---
+
+!citation Commercial Appeal @ 2015-09-06
+!url https://www.legacy.com/obituaries/commercialappeal/obituary.aspx?n=CARL-NELSON-ROE&pid=175752190
+!file Roe_Carl.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-16
+
+#202012_073 Roe, Carl Nelson
+birth 1929-03-10 @ US/TN/Memphis
+death 2015-08-29
+highschool Central HS @ US/TN/Memphis
+
+---
+
+!citation Daily Breeze @ 2020-12-17
+!url https://www.legacy.com/obituaries/dailybreeze/obituary.aspx?n=joseph-medina-lou&pid=197310102
+!file Medina_Lou.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-17
+
+#202012_074 Medina, Joseph Lou [Lou]
+birth 1932-09-16 @ US/CA/San Pedro
+death 2020-12-07
+highschool San Pedro HS @ US/CA/San Pedro
+
+---
+
+!citation Krause Funeral Home @ 2020-12-17
+!url https://www.krausefuneralhome.com/obituary/charles-b-monfre-chuck/
+!file Monfre_Chuck.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-17
+
+#202012_075 Monfre, Charles B. [Chuck]
+death 2015-08-25
+
+---
+
+!citation Davison-Fulton/Bartonville Chapel @ 2020-12-17
+!url https://www.dignitymemorial.com/obituaries/bartonville-il/john-jack-harrmann-6574581
+!file Harrmann_Jack.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-17
+
+#202012_076 Harrmann, John W. [Jack] "Red Hot"
+birth 1927-04-24 @ US/KS/Wichita
+death 2015-08-29 @ US/IL/Peoria
+highschool Manual HS @ US/IL/Peoria
+military US Navy @ World War II
+
+---
+
+!citation Vander Plaat-Caggiano Funeral Home @ 2020-12-18
+!url http://www.vpfairlawn.com/Obituary/1108/Michael+Paul+Colina
+!file Colina_Michael.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-18
+
+#202012_077 Colina, Michael Paul
+birth @ US/NJ/Paterson
+death 2014-08-12
+
+---
+
+!citation Wilson's Funeral Homes @ 2020-12-18
+!url https://www.wilsonsfuneralhome.net/obituary/james-qualls?lud=961030EB88969D606496EDE1B1785694
+!file Qualls_James.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-18
+
+#202012_078 Qualls, James L.
+birth 1931-01-31 @ US/IL/Jacob
+death 2020-12-15 @ US/IL/Sparta
+burial Caledonia Cemetery @ US/IL/Sparta
+
+
+college University of Tulsa
+military US Air Force
 
 
 

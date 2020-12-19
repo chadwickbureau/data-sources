@@ -1,0 +1,105 @@
+!citation Alexandria Town Talk @ 1947-05-10; page 10
+
+#20201112_001 Benning, Joseph
+manager 1946 Hammond (Evangeline)
+notes resigned as manager during spring training 1947
+____
+
+!citation Baseball Research Journal @ 2020, Number 2
+
+#20201112_002 Holloway, William
+player 1927 Miami (Florida State)
+player 1922 Bloomington (Illinois-Indiana-Iowa)
+
+#20201112_003 Turner, Rip
+player 1927 Miami (Florida State)
+
+#20201112_004 Knaupp, Cotton
+player 1927 Miami (Florida State)
+
+#20201112_005 Wetsell, Lefty
+player 1927 Miami (Florida State)
+
+#20201112_006 Dean, Eddie
+player 1927 Miami (Florida State)
+
+#20201112_007 Vincent, C. E.
+player 1927 Miami (Florida State)
+
+#20201112_008 Hymel, Heinie
+player 1927 Miami (Florida State)
+
+#20201112_009 Richards, J. W.
+player 1927 Miami (Florida State)
+
+#20201112_010 Maloney, Mike
+player 1927 Miami (Florida State)
+
+#20201112_011 Bingham, Clint
+player 1927 Miami (Florida State)
+
+#20201112_012 Tatum, Cotton
+player 1927 Miami (Florida State)
+
+#20201112_013 Davis, Chad
+player 1927 Miami (Florida State)
+
+#20201112_014 Brown, Lefty
+player 1927 Miami (Florida State)
+
+#20201112_015 McBee, Pryor
+player 1927 Miami (Florida State)
+player 1926 Chicago (American)
+
+____
+
+!citation Miami Daily News and Metropolis @ 1927-07-22; page 11
+
+#20201112_016 Holloway, William
+player 1927 Miami (Florida State); @P
+
+____
+
+!citation Charlotte Observer @ 1926-05-29; page 12
+
+#20201112_017 Knaupp, Chick
+player 1926 Little Rock (Southern Association)
+player 1926 Knoxville (South Atlantic)
+notes brother of Knaupp, Cotton
+
+____
+
+!citation Lexington Herald @ 1915-06-06; page 1
+
+#20201112_018 Wall, Joe
+player 1915 Frankfort (Ohio State)
+manager 1915 Frankfort (Ohio State)
+
+____
+
+!citation Birmingham News @ 1921-04-08; page 16
+
+#20201112_019 McDonald, Eddie
+player 1921 Little Rock (Southern Association)
+player <1921 Birmingham (Southern Association)
+obtained 1921-04-07 by Little Rock (Southern Association) from Wichita Falls (Texas) by purchase
+
+
+____
+
+!citation Birmingham News @ 1921-07-18; page 1
+
+#20201112_020 McDonald, Eddie
+player 1921 Little Rock (Southern Association)
+player 1921 Chattanooga (Southern Association)
+manager 1921 Chattanooga (Southern Association)
+released 1921-07-16 by Little Rock (Southern Association) by own purchase
+
+____
+
+!citation Hartford Courant @ 1916-03-14; page 18
+
+#20201112_021 Carroll, Philip
+player 1916 Worcester (Eastern)
+resides 1916@US/NY/Bronx
+

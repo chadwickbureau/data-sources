@@ -3938,3 +3938,100 @@ birth 1915-02-23
 death 2006-02-08
 military US Army @ World War II
 burial Mount Carmel Cemetery @ US/MI/Big Rapids
+
+---
+
+!citation findagrave.com @ 2020-12-14
+!url https://www.findagrave.com/memorial/111555161/barton-grether
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-14
+ 
+#321 Grether, Barton
+sameas findagrave:111555161
+birth 1857-12-25
+death 1928-09-30
+burial Bellefontaine Cemetery @ US/MO/St. Louis
+
+---
+
+!citation findagrave.com @ 2020-12-14
+!url https://www.findagrave.com/memorial/79181297/roy-campbell-mccrobie
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-14
+ 
+#322 McCrobie, Roy Campbell
+sameas findagrave:79181297
+birth 1928-03-14 @ US/NY/Oswego
+death 1999-06-20
+burial St. Paul Cemetery @ US/NY/Oswego
+
+---
+
+!citation findagrave.com @ 2020-12-14
+!url https://www.findagrave.com/memorial/85954111/keith-o'neal-washington
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-14
+ 
+#323 Washington, Keith O'Neal
+sameas findagrave:85954111
+birth 1963-11-20
+death 1988-04-13
+burial Forest Lawn Memorial Park @ US/CA/Los Angeles
+
+---
+
+!citation findagrave.com @ 2020-12-14
+!url https://www.findagrave.com/memorial/178064661/burton-brooks-barkelew
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-14
+ 
+#324 Barkelew, Burton Brooks
+sameas findagrave:178064661
+birth 1917-04-03
+death 2010-07-08
+burial Forest Lawn Memorial Park @ US/CA/Glendale
+
+---
+ 
+!citation findagrave.com @ 2020-12-14
+!url https://www.findagrave.com/memorial/205077941/edward-j.-bojak
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-14
+ 
+#325 Bojak, Edward J.
+sameas findagrave:205077941
+birth 1916-02-02 @ US/IL
+death 1987-11-28 @ US/IL/Chicago
+burial St. Adalbert Catholic Cemetery @ US/IL/Niles
+
+---
+
+!citation findagrave.com @ 2020-12-14
+!url https://www.findagrave.com/memorial/157118875/henry-andrew-bytnar
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-14
+ 
+#326 Bytnar, Henry Andrew
+sameas findagrave:157118875
+birth 1919-01-02 @ US/IL
+death 1995-10-27 @ US/FL
+burial Fountains Memorial Park @ US/FL/Homosassa Springs
+
+---
+
+!citation findagrave.com @ 2020-12-16
+!url https://www.findagrave.com/memorial/168814407/emerson-foster-mcguire
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-16
+ 
+#327 McGuire, Emerson Foster
+sameas findagrave:168814407
+birth 1930-10-27
+death 2015-09-05
+burial Knob Noster Cemetery @ US/MO/Knob Noster
+
+---
+
+!citation findagrave.com @ 2020-12-18
+!url https://www.findagrave.com/memorial/140455264/urban-anthony-pfeffer
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-18
+ 
+#328 Pfeffer, Urban Anthony "Nigg"
+sameas findagrave:140455264
+birth 1921-01-30 @ US/IN/Jasper
+death 1972-02-14 @ US/IN/Huntingburg
+highschool Jasper HS @ US/IN/Jasper
+burial Fairview Cemetery @ US/IN/Jasper

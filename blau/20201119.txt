@@ -1,0 +1,132 @@
+!citation Waco News-Tribune @ 1927-08-11; page 6
+
+#20201119_001 Evans, Ernest
+player 1927 Laredo (Texas Valley)
+resides 1927@US/TX/Waco
+____
+
+!citation Waco News-Tribune @ 1928-04-28; page 10
+
+#20201119_002 Evans, Ernest
+player 1928 Portsmouth (Virginia)
+notes SS
+
+____
+
+!citation Waco News-Tribune @ 1928-06-08; page 15
+
+#20201119_003 Evans, Ernest
+player 1928 Portsmouth (Virginia)
+obtained <=1928-06-08 by New York (National) from Portsmouth (Virginia) for cash
+
+____
+
+!citation New York Daily News @ 1928-06-10; page 58
+
+#20201119_004 Evans, Ernest
+player 1928 New York (National); BR TR
+
+____
+
+!citation New York Daily News @ 1928-06-16; page 28
+
+#20201119_005 Evans, Ernest
+player 1928 Buffalo (International)
+assigned <=1928-06-16 to Buffalo (International) by New York (National) on option
+
+
+____
+
+!citation Reading Times @ 1929-02-27; page 15
+
+#20201119_006 Evans, Ernest
+player 1928 Scranton (New York-Pennsylvania)
+
+
+____
+
+!citation Scranton Tribune @ 1929-05-01; page 19
+
+#20201119_007 Evans, Ernie
+player 1929 Scranton (New York-Pennsylvania)
+
+____
+
+!citation Waco News-Tribune @ 1975-08-28; page 20
+
+#20201119_008 Evans, Ernie
+player 1931 Galveston (Texas)
+notes had switched to pitching
+
+____
+
+!citation Wausau Daily Herald @ 1929-09-06; page 12
+
+#20201119_009 Evans, Ernest [Red]
+player 1929 Two Rivers (Wisconsin State)
+notes voted MVP of league
+
+____
+
+!citation Wisconsin State Journal @ 1930-04-15; page 12
+
+#20201119_010 Evans, Ernest
+player 1930 Bloomington (Illinois-Indiana-Iowa)
+
+
+____
+
+!citation Rutland Daily Herald @ 1924-06-06; page 6
+
+#20201119_011 Graves, Joe
+player 1924 Montreal (Quebec-Ontario-Vermont)
+notes has brother on team
+
+____
+
+!citation Montreal Gazette @ 1924-06-26; page 13
+
+#20201119_012 Graves, Sid
+player 1924 Montreal (Quebec-Ontario-Vermont)
+
+____
+
+!citation Rutland Daily Herald @ 1924-09-08; page 12
+
+#20201119_013 Graves, Joe
+player 1924 Montreal (Quebec-Ontario-Vermont)
+player 1924 Albany (Eastern)
+
+____
+
+!citation Salt Lake Tribune @ 1915-03-14
+
+#20201119_014 Eastley, Pat
+player 1915 Salt Lake City (Pacific Coast); BR TR H70 W165
+
+#20201119_015 Faye, Ed
+player 1915 Salt Lake City (Pacific Coast); BR TR H69 W165
+
+#20201119_016 Shinn, James
+player 1915 Salt Lake City (Pacific Coast); BR TR H68 W150
+
+____
+
+!citation Hartford Courant @ 1916-05-19; page 18
+
+#20201119_017 Smith, Don
+player 1916 Hartford (Eastern)
+
+#20201119_018 Smith, Ted
+player 1916 Hartford (Eastern)
+player 1916 Portland (Eastern)
+notes to replace Don Smith at first base
+acquired <=1916-05-19 by Hartford (Eastern) from Portland (Eastern)
+
+____
+
+!citation Hartford Courant @ 1916-04-14; page 16
+
+#20201119_019 Hogan, J. L.
+player 1916 New Haven (Eastern)
+player 1915 New Haven (Colonial)

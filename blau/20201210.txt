@@ -1,0 +1,34 @@
+!citation Baltimore Sun @ 1916-09-06; page 5
+
+#20201210_001 Mangen, Charles
+player 1916 Newark (International)
+resides 1916@US/PA/Homesdale
+
+____
+
+!citation Rochester Democrat and Chronicle @ 1916-08-23; page 15
+
+#20201210_002 Test, Hubert
+player 1916 Rochester (International)
+player 1915 Portsmouth (Ohio State)
+college West Virginia Wesleyan University
+notes has picture
+
+____
+
+!citation Buffalo Courier @ 1916-06-03; page 8
+
+#20201210_003 Hogan, Jack
+player 1916 Providence (International)
+player 1916 Toronto (International)
+player 1915 (Colonial)
+
+
+____
+
+!citation Hopkinsville Kentuckian @ 1911-08-03; page 8
+
+#20201210_004 Brown, Raymond Troy
+player 1911 Paducah (Kentucky-Illinois-Tennessee)
+player 1911 Philadelphia (National)
+notes real name Puckett
