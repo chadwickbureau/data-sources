@@ -1,0 +1,32 @@
+!citation Louisville Courier-Journal @ 1916-03-09; page 7
+
+#20201008_001 Wright, William
+player 1915 Columbus (American Association)
+player 1916 Grand Rapids (Central)
+
+____
+
+!citation Fort Worth Star-Telegram @ 1916-12-17; page 46
+
+#20201008_002 Wright, William
+player 1916 Columbus (American Association)
+acquired <=1916-12-17 by Waco (Texas) from Columbus (American Association)
+
+
+____
+
+!citation Kansas City Times @ 1916-07-12; page 6
+
+#20201008_003 Fillingim, Dana
+player 1916 Columbus (American Association)
+
+
+____
+
+!citation Portsmouth (OH) Daily Times @ 1916-07-24; page 14
+
+#20201008_004 Kohlberger, Frank
+player 1916 Milwaukee (American Association)
+player 1916 Maysville (Ohio State)
+acquired 1916-07-23 by Milwaukee (American Association) with Stanley Tinin from 
+Maysville (Ohio State) for cash

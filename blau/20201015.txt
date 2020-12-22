@@ -1,0 +1,147 @@
+!citation Springfield News-Leader @ 1916-08-18; page 7
+
+#20201015_001 Nee, Tom
+player 1916 Cedar Rapids (Central Association)
+player 1916 Henderson (Kentucky-Illinois-Tennessee)
+acquired <=1916-08-18 by Cedar Rapids (Central Association) from Henderson 
+(Kentucky-Illinois-Tennessee) for cash
+
+____
+
+!citation Cedar Rapids Gazette @ 1916-07-10; page 6
+
+#20201015_002 Harmon
+player 1916 Burlington (Central Association)
+player 1916 Cedar Rapids (Central Association)
+acquired 1916-08-18 by Cedar Rapids (Central Association) with Harry Shanley
+and Grover Baichley from Burlington (Central Association)
+
+____
+
+!citation Cedar Rapids Gazette @ 1917-04-13; page 6
+
+#20201015_003 Harmon, Prophet
+player 1917 Cedar Rapids (Central Association)
+
+
+____
+
+!citation Buffalo Times @ 1923-04-12; page 15
+
+#20201015_004 Manning, William
+player 1922 Portsmouth (Virginia); BR TR
+
+#20201015_005 Connolly, Charles
+player 1921 Rock Island (Illinois-Indiana-Iowa); BR TR
+
+#20201015_006 Kaunaus, Bernard J.
+player 1922 Waynesboro (Blue Ridge); BR TR
+
+#20201015_007 Kane, Leo
+player 1922 Hartford (Eastern); BR TR
+
+____
+
+!citation Buffalo Times @ 1923-04-12; page 15
+
+#20201015_008 Klinger, Joe
+player 1925 Clarksburg (Middle Atlantic)
+acquired <=1925-08-25 by New York (National) from Clarksburg (Middle Atlantic) for
+cash
+
+____
+
+!citation Marshalltown Times-Republican @ 1916-08-28; page 8
+
+#20201015_009 Wanner, Jack
+player 1916 Marshalltown (Central Association)
+player 1910 Memphis (Southern Association)
+
+____
+
+!citation Marshalltown Times-Republican @ 1916-07-27; page 10
+
+#20201015_010 Claire, Clinton
+manager 1916 Mason City (Central Association)
+resigned 1916-07-26
+
+#20201015_011 Fagg, George
+player 1916 Mason City (Central Association)
+player 1916 Wilkes-Barre (New York State)
+
+____
+
+!citation Cedar Rapids Gazette @ 1916-08-15; page 6
+
+#20201015_012 Audler, Bill
+player 1916 Mason City (Central Association)
+
+____
+
+!citation Marshalltown Times-Republican @ 1917-05-09; page 10
+
+#20201015_013 Murphy, Robert
+player 1916 Marshalltown (Central Association)
+player 1917 Marshalltown (Central Association)
+
+____
+
+!citation Muscatine News-Tribune @ 1916-06-16; page 8
+
+#20201015_014 Taylor, Dave
+player 1916 Muscatine (Central Association)
+
+
+____
+
+!citation Cedar Rapids Gazette @ 1916-05-13; page 10
+
+#20201015_015 Kool, Olin
+player 1916 Burlington (Central Association)
+player 1916 Mason City (Central Association)
+
+____
+
+!citation Waterloo Courier @ 1916-08-17; page 8
+
+#20201015_016 Klein, Eddie
+player 1916 Waterloo (Central Association)
+player 1914 Sioux City (Western)
+
+____
+
+!citation St. Joseph Gazette @ 1910-05-18; page 7
+
+#20201015_017 Oyler, Andy
+player 1910 Minneapolis (American Association)
+player 1916 Cedar Rapids (Central Association)
+
+____
+
+!citation Dayton Herald @ 1916-04-06; page 14
+
+#20201015_018 Leibrock, Paul
+player 1916 Dayton (Central)
+
+____
+
+!citation Dayton Daily News @ 1916-06-25; page 26
+
+#20201015_019 Leibrock, Ansel
+player 1916 Dayton (Central)
+player 1916 Huntington (Ohio State); TR
+notes has drawing of him
+
+____
+
+!citation Dayton Herald @ 1916-07-22; page 10
+
+#20201015_020 Varley, Bill
+player 1916 Dayton (Central)
+
+____
+
+!citation Belding (MI) Banner @ 1916-06-28; page 4
+
+#20201015_021 Bailey, Paul [Lefty]
+player 1916 Grand Rapids (Central)

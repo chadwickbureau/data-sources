@@ -969,12 +969,207 @@ death 2014-08-12
 birth 1931-01-31 @ US/IL/Jacob
 death 2020-12-15 @ US/IL/Sparta
 burial Caledonia Cemetery @ US/IL/Sparta
-
-
 college University of Tulsa
 military US Air Force
 
+---
 
+!citation Union Leader @ 2020-12-20
+!url https://www.legacy.com/obituaries/unionleader/obituary.aspx?n=edward-francis-flanagan&pid=197318956&fhid=4802
+!file Flanagan_Edward.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-19
+
+#202012_079 Flanagan, Edward Francis, Jr.
+birth 1923 @ US/NH/Manchester
+death 2020-12-13 
+highschool Central HS @ US/NH/Manchester
+military US Navy @ World War II 
+
+---
+
+!citation Ellinger-Kunz & Park Funeral Home @ 2020-12-19
+!url https://www.parkfuneralhomesinc.com/obituary/Robert-Kyes
+!file Kyes_Bob.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-19
+
+#202012_080 Kyes, Robert Henry [Bob]
+birth 1925-11-28 @ US/IL/Rochester
+death 2020-12-14 @ US/IL/Springfield
+highschool Rochester HS @ US/IL/Rochester
+military US Navy @ World War II
+
+---
+
+!citation Sacramento Bee @ 2020-12-19
+!url https://www.legacy.com/obituaries/sacbee/obituary.aspx?n=geoffrey-craig-brandt&pid=197320888&fhid=14233
+!file Brandt_Geoff.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-19
+
+#202012_081 Brandt, Geoffrey Craig [Geoff]
+birth 1951-12-20 @ US/UT/Salt Lake City
+death 2020-11-29 @ US/CA/Roseville
+highschool El Camino Fundamental HS @ US/CA/Sacramento
+
+---
+
+!citation East Bay Times @ 2020-12-20
+!url https://www.legacy.com/obituaries/eastbaytimes/obituary.aspx?n=randal-wayne-hooper&pid=197319349
+!file Hooper_Randal.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-19
+
+#202012_082 Hooper, Randal Wayne
+birth 1952-11-01
+death 2020-12-03
+highschool Miramonte HS @ US/CA/Orinda
+college University of California, Berkeley
+
+---
+
+!citation GoSanAngelo @ 2020-12-19
+!url https://www.legacy.com/obituaries/gosanangelo/obituary.aspx?n=norman-wayne-rousselot&pid=197320978&fhid=32251
+!file Rousselot_Norm.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-19
+
+#202012_083 Rousselot, Norman Wayne [Norm]
+birth 1930-11-28 @ US/CA/Los Angeles
+death 2020-12-12
+highschool South Pasadena HS @ US/CA/South Pasadena
+college Principia College
+military US Army
+
+---
+
+!citation Brugger Funeral Homes @ 2020-12-20
+!url https://www.bruggerfuneralhomes.com/obituaries/Harry-C-Figurski?obId=19342183#/obituaryInfo
+!file Figurski_Harry.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-20
+
+#202012_084 Figurski, Harry C.
+birth 1927-08-14 @ US/PA/Erie
+death 2020-12-15 @ US/PA/Erie
+military US Army
+
+---
+
+!citation Keplinger Funeral Home @ 2020-12-20
+!url https://www.keplingerfuneralhome.com/obituaries/Eugene-William-Hess?obId=19331694#/celebrationWall
+!file Hess_Bill.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-20
+
+#202012_085 Hess, Eugene William [Bill]
+birth 1939-10-26 @ US/OH/Newark
+death 2020-12-17 @ US/IN/Hartford City
+highschool Jackson Township HS @ US/OH/Massillon
+burial Cremated
+
+---
+
+!citation Yates Funeral Homes @ 2020-12-20
+!url https://www.yatesfuneralhomes.com/obituaries/Robert--Mack-Ehrlich?obId=18250034
+!file Ehrlich_Bob.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-20
+
+#202012_086 Ehrlich, Robert Mack [Bob]
+birth 1925-09-19 @ US/KS/Topeka
+death 2020-08-31
+military US Marines @ World War II
+military US Marines @ Korean War
+
+---
+
+!citation Emerson Funeral Home @ 2020-12-20
+!url https://www.emersonfuneralhome.com/obituaries/print?o_id=7270512
+!file Brooks_Joe.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-20
+
+#202012_087 Brooks, Joe Edd
+birth 1932-07-21 @ US/AR/Caraway
+death 2020-12-16 @ US/AR/Jonesboro
+highschool Caraway HS @ US/AR/Caraway
+military US Army 
+
+---
+
+!citation Pittman Funeral Home @ 2020-12-21
+!url https://www.tributearchive.com/obituaries/19275629/Paul-Whigham
+!file Whigham_Paul.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-21
+
+#202012_088 Whigham, Paul
+birth 1937-06-27 @ US/AL/Kinston
+death 2020-12-14
+highschool Samson HS @ US/AL/Samson
+
+---
+
+!citation Associated Press @ 2020-12-15
+!url https://www.latrobebulletinnews.com/covid19/charley-pride-a-country-music-black-superstar-dies-at-86/article_991fa76a-10a8-5504-919e-a9286729483f.html
+!file Pride_Charley.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-21
+
+#202012_089 Pride, Charley
+death 2020-12-12 @ US/TX/Dallas
+
+---
+
+!citation Charles F. Snyder Funeral Homes @ 2020-12-21
+!url https://www.snyderfuneralhome.com/obituary/joseph-f-brady
+!file Brady_Joseph.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-21
+
+#202012_090 Brady, Joseph F.
+birth @ US/PA/Philadelphia
+death 2020-12-08 @ US/PA/East Petersburg
+military US Army @ Korean War
+burial Indiantown Gap National Cemetery @ US/PA/Annville
+
+---
+
+!citation Bagnasco & Calcaterra Funeral Homes @ 2020-12-21
+!url https://www.bcfhshores.com/tributes/Donald-Martz
+!file Martz_Butch.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-21
+
+#202012_091 Martz, Donald John [Butch]
+birth 1928-03-01 @ US/MI/Detroit
+death 2020-12-17
+highschool Denby HS @ US/MI/Detroit
+military US Navy 
+burial Great Lake National Cemetery @ US/MI/Holly
+
+---
+
+!citation Samaritan Affordable Funeral Home @ 2020-12-21
+!url https://www.samaritanfunerals.com/obituary/Bennie-Kiburis
+!file Kiburis_Bennie.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-21
+
+#202012_092 Kiburis, Bennie
+birth 1929-07-23
+death 2020-12-15 @ US/IN/Parke County
+highschool Garfield HS @ US/IN/Terre Haute
+military US Army
+burial Roselawn Memorial Park @ US/IN/Terre Haute
+
+---
+ 
+!citation Bloomington (IL) Pantagraph @ 1960-04-03
+!file Dorley_Carl.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-21
+ 
+#202012_093 Dorley, Carl E.
+birth 1908-02-16 @ US/PA/Philadelphia
+death 1960-04-02 @ US/IL/Bloomington
+
+---
+
+!citation Los Angeles Times @ 1963-01-24
+!file Pulford_Don.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-21
+ 
+#202012_094 Pulford, Don, Sr.
+death 1963-01-22 @ US/CA/Los Angeles
+burial San Fernando Mission Cemetery @ US/CA/Mission Hills
 
 
 

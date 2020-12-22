@@ -1,0 +1,47 @@
+!citation Ottawa Citizen @ 1914-07-08; page 8
+
+#20200723_001 Thrailkill
+player 1914 St. Thomas (Canadian)
+player 1914 Brantford (Canadian)
+
+____
+
+!citation Cleveland Plain Dealer @ 1913-05-01
+
+#20200723_002 Patton, Bernard
+player 1913 Cleveland (Federal)
+player <1913 San Antonio (Texas)
+
+____
+
+!citation San Antonio Gazette @ 1909-04-24; page 2
+
+#20200723_003 Patton, Bernard
+player 1909 San Antonio (Texas)
+released <=1909-04-24 by San Antonio (Texas)
+
+___
+
+!citation Wilkes-Barre News @ 1909-04-07; page 11
+
+#20200723_004 Patton
+player 1909 Atlanta (Southern Association)
+released <=1909-04-07 by Atlanta (Southern Association)
+resides 1909@US/OH/Cleveland
+
+___
+
+!citation New Castle News @ 1912-04-29; page 11
+
+#20200723_005 Patton, Lefty
+player 1912 Sharon (Ohio-Pennsylvania)
+player 1911 New Castle (Ohio-Pennsylvania)
+
+___
+
+!citation Rock Island Argus @ 1922-06-26; page 4
+
+#20200723_006 Henges
+player 1922 Dubuque (Mississippi Valley)
+manager 1922 Dubuque (Mississippi Valley)
+notes replaced Larry Mullen who resigned

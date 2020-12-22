@@ -354,3 +354,111 @@ birth 1916-02-02 @ US/IL/Chicago
 #202012_041 Bytnar, Henry Andrew
 birth 1919-01-02 @ US/IL/Nokomis
 
+---
+ 
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-21
+ 
+#202012_042 Dorley, Carl Edward
+birth 1908-02-16 @ US/PA/Philadelphia
+
+---
+ 
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-21
+ 
+#202012_043 Beazley, Hoke S.
+sameas ssn:050-03-6743
+birth 1905-06-06
+death 1993-04-04
+
+---
+ 
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-21
+ 
+#202012_044 Gockel, August Otto
+birth 1898-10-22 @ US/IL/Staunton
+
+---
+ 
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-21
+ 
+#202012_045 Lemone, Nicholas Joseph
+birth 1914-05-12 @ US/CT/Noroton Heights
+ 
+---
+ 
+!citation Connecticut Death Index, 1949-2012
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-21
+ 
+#202012_046 Lemone, Nicholas J.
+birth 1914-05-12 @ US/CT
+death 1993-12-21 @ US/CT/Stamford
+ 
+---
+ 
+!citation California Death Index, 1940-1997
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-21
+ 
+#202012_047 Pulford, Burt D.
+sameas ssn:570-18-8297
+birth 1916-04-01
+death 1963-01-22 @ US/CA/Los Angeles
+ 
+---
+ 
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-21
+ 
+#202012_048 Pulford, Burt Donald
+birth 1916-04-01 @ US/MN/Minneapolis
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-21
+ 
+#202012_049 Ahearn, Charles Emil
+birth 1909-12-21 @ US/CT/Derby
+
+---
+ 
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-21
+ 
+#202012_050 Ahearn, Charles
+sameas ssn:044-09-2725
+birth 1908-12-21
+death 1981-05
+ 
+---
+ 
+!citation Connecticut Death Index
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-21
+ 
+#202012_051 Ahearn, Charles E.
+birth 1910-12-20 @ US/CT/Derby
+death 1981-05-28 @ US/CT/Derby
+
+---
+
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-21
+ 
+#202012_052 Bartola, Louis
+sameas ssn:545-38-8141
+birth 1917-10-14
+death 1984-02
+ 
+---
+ 
+!citation US Department of Veterans Affairs BIRLS Death File, 1850-2010
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-21
+ 
+#202012_053 Bartola, Louis
+sameas ssn:545-38-8141
+birth 1917-10-14
+death 1984-02-27
+military US Army @ World War II

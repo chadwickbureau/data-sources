@@ -1,0 +1,16 @@
+!citation Indianapolis News @ 1911-01-14; page 10
+
+#20200716_001 Harris
+player 1911 Portland (Northwestern)
+notes catcher
+acquired <1911-01-14 by Toledo (American Association) from (Southern Michigan)
+acquired <=1911-01-14 by Portland (Northwestern) from Toledo (American Association) for cash
+____
+
+!citation Spokane Chronicle @ 1913-05-20; page 16
+
+#20200716_002 Harris
+player 1913 Portland (Northwestern)
+player 1913 Tacoma (Northwestern)
+notes catcher
+

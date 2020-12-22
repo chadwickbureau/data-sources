@@ -4035,3 +4035,93 @@ birth 1921-01-30 @ US/IN/Jasper
 death 1972-02-14 @ US/IN/Huntingburg
 highschool Jasper HS @ US/IN/Jasper
 burial Fairview Cemetery @ US/IN/Jasper
+
+---
+
+!citation findagrave.com @ 2020-12-21
+!url https://www.findagrave.com/memorial/144451176/carl-e-dorley
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-21
+ 
+#329 Dorley, Carl E.
+sameas findagrave:144451176
+birth 1908 @ US/PA
+death 1960-04-02 @ US/IL
+burial St. Joseph's Cemetery @ US/IL/Bloomington
+
+---
+
+!citation findagrave.com @ 2020-12-21
+!url https://www.findagrave.com/memorial/98371620/hoke-s-beazley
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-21
+ 
+#330 Beazley, Hoke S.
+sameas findagrave:98371620
+birth 1905-06-06
+death 1993-04-04
+military US Navy @ World War II
+military US Navy @ Korean War
+military US Navy @ Vietnam War
+burial Marietta National Cemetery @ US/GA/Marietta
+
+---
+
+!citation findagrave.com @ 2020-12-21
+!url https://www.findagrave.com/memorial/45744674/august-o-gockel
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-21
+ 
+#331 Gockel, August O.
+sameas findagrave:45744674
+birth 1898-10-22
+death 1974-07-18
+military US Army
+burial Mount Olive Cemetery @ US/IL/Mount Olive
+
+---
+
+!citation findagrave.com @ 2020-12-21
+!url https://www.findagrave.com/memorial/24698478/albert-harold-sheriff
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-21
+ 
+#332 Sheriff, Albert Harold [Al]
+sameas findagrave:24698478
+birth 1926-02-07 @ US/KS/Kansas City
+death 2005-04-29 @ US/CO/Glenwood Springs
+military US Navy @ World War II
+college Kansas State University
+burial Fort Logan National Cemetery @ US/CO/Denver
+
+---
+
+!citation findagrave.com @ 2020-12-21
+!url https://www.findagrave.com/memorial/131365424/nicholas-j-lemone
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-21
+ 
+#333 Lemone, Nicholas J.
+sameas findagrave:131365424
+birth 1914-05-12
+death 1993-12-21
+burial St. John Cemetery @ US/CT/Darien
+
+---
+ 
+!citation findagrave.com @ 2020-12-21
+!url https://www.findagrave.com/memorial/83301324/charles-e.-ahearn
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-21
+ 
+#334 Ahearn, Charles E.
+sameas findagrave:83301324
+birth 1910-12-21
+death 1981-05-28
+burial Pine Grove Cemetery @ US/CT/Ansonia
+
+---
+ 
+!citation findagrave.com @ 2020-12-21
+!url https://www.findagrave.com/memorial/104952859/louis-joseph-bartola
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-21
+ 
+#335 Bartola, Louis Joseph
+sameas findagrave:104952859
+birth 1917
+death 1984
+burial Sterling Cemetery @ US/KS/Sterling

@@ -1,0 +1,52 @@
+!citation Dayton Daily News @ 1916-04-27; page 12
+
+#20201022_001 Martin, Erve
+player 1916 Dayton (Central)
+notes Making arrangements to send him to Bradford (Interstate)
+
+____
+
+!citation Fort Wayne Sentinel @ 1916-02-08; page 8
+
+#20201022_002 Beyers, Paul [Buck]
+player 1916 Muskegon (Central)
+player 1915 Fort Wayne (Central)
+
+____
+
+!citation South Bend Tribune @ 1916-05-03; page 10
+
+#20201022_003 Fisher, John
+player 1916 South Bend (Central); BS; TR
+player 1914 Jersey City (International)
+
+____
+
+!citation Hartford Courant @ 1912-06-10; page 16
+
+#20201022_004 Fisher, Red
+player 1912 Hartford (Connecticut)
+player 1912 Bridgeport (Connecticut)
+
+____
+
+!citation Kansas City Star @ 1912-02-25; page 14
+
+#20201022_005 Fisher, Red
+player 1912 Hartford (Connecticut)
+acquired <=1912-02-24 by Hartford (Connecticut) with Clyde Geist from Louisville (American Association) for cash
+
+____
+
+!citation Shreveport Times @ 1916-06-09; page 4
+
+#20201022_006 Andrews, Pat
+player 1916 Marlin (Central Texas); TL
+
+______
+
+!citation Muskogee Daily Phoenix @ 1916-06-15; page 9
+
+#20201022_007 Landry, C.
+player 1916 Dallas (Texas)
+player 1916 Sherman (Western Association)
