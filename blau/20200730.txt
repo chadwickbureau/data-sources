@@ -6,7 +6,7 @@ player 1910 Jackson (Cotton States)
 resides 1914@US/MO/St. Louis
 notes 21 years old, hasn't played professionally since 1910, signed provisional contract with Pittsburgh (National) 1914-01-13
 
-____
+---
 
 !citation Pittsburgh Press @ 1914-04-05; page 52
 
@@ -14,7 +14,7 @@ ____
 player 1914 Pittsburgh (National); TR
 notes has photograph
 
-____
+---
 
 !citation Ogden Standard @ 1921-03-11; page 10
 
@@ -22,7 +22,7 @@ ____
 player 1921 Logan (Northern Utah)
 player <1921 Murray (Union Association)
 
-____
+---
 
 !citation Ogden Standard-Examiner @ 1926-05-27; page 7
 
@@ -30,14 +30,14 @@ ____
 player 1926 Pocatello (Utah-Idaho)
 player <1926 Helena (Union Association)
 
-____
+---
 
 !citation Richmond (IN) Item @ 1914-04-27; page 5
 
 #20200730_005 Day, Oscar
 player 1914 Springfield (Central)
 
-____
+---
 
 !citation Appleton Post-Crescent @ 1913-08-04; page 8
 

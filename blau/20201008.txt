@@ -4,7 +4,7 @@
 player 1915 Columbus (American Association)
 player 1916 Grand Rapids (Central)
 
-____
+---
 
 !citation Fort Worth Star-Telegram @ 1916-12-17; page 46
 
@@ -13,7 +13,7 @@ player 1916 Columbus (American Association)
 acquired <=1916-12-17 by Waco (Texas) from Columbus (American Association)
 
 
-____
+---
 
 !citation Kansas City Times @ 1916-07-12; page 6
 
@@ -21,7 +21,7 @@ ____
 player 1916 Columbus (American Association)
 
 
-____
+---
 
 !citation Portsmouth (OH) Daily Times @ 1916-07-24; page 14
 

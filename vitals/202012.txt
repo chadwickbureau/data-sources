@@ -462,3 +462,129 @@ sameas ssn:545-38-8141
 birth 1917-10-14
 death 1984-02-27
 military US Army @ World War II
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-22
+ 
+#202012_054 Belanger, Lucien Adolphe
+birth 1917-06-11 @ US/MA/Beverly
+ 
+---
+ 
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-22
+ 
+#202012_055 Belanger, Lucien Adolphe
+sameas ssn:010-01-3714
+birth 1917-06-11 @ US/MA/Beverly
+death 2006-04-30
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-22
+ 
+#202012_056 Blumette, Peter Stanislaus
+birth 1911-01-03 @ US/NJ/Orange
+ 
+---
+ 
+!citation US Department of Veterans Affairs BIRLS Death File, 1850-2010
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-22
+ 
+#202012_057 Blumette, Peter
+sameas ssn:134-09-3510
+birth 1911-01-03
+death 1987-12-10
+military US Navy @ World War II
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-22
+ 
+#202012_058 Butcher, Nick
+birth 1917-01-06 @ US/PA/Duquesne
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-22
+ 
+#202012_059 Cordell, John Wesley
+birth 1909-12-06 @ US/MO/Howell County
+
+---
+ 
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-23
+ 
+#202012_060 George, Charles Lawrence
+birth 1911-04-29 @ US/MO/St. Louis
+ 
+---
+ 
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-23
+ 
+#202012_061 George, Charles
+sameas ssn:497-03-6094
+birth 1911-04-10
+death 1975-01
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-23
+ 
+#202012_062 Harris, Robert Norman
+birth 1912-07-29 @ US/OH
+
+---
+ 
+!citation Ohio Death Records, 1908-1932, 1938-2018
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-23
+ 
+#202012_063 Harris, Robert Norman
+birth 1912-07-29 @ US/OH/Washington County
+death 1995-12-01 @ US/OH/Marietta
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-23
+ 
+#202012_064 Kolberg, Irvin Russell
+birth 1916-07-23 @ US/MI/Lansing
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-23
+ 
+#202012_065 Kyle, Leon Edward
+birth 1915-04-29 @ US/LA/Marion
+ 
+---
+ 
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-23
+ 
+#202012_066 Kyle, Leon Edward
+sameas ssn:434-07-5867
+birth 1914-04-29 @ US/LA/Marion
+death 1997-06-05
+ 
+---
+ 
+!citation US Department of Veterans Affairs VIRLS Death File, 1850-2010
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-23
+ 
+#202012_067 Kyle, Leon
+sameas ssn:434-07-5867
+birth 1912-04-29
+death 1997-06-05
+military US Army @ World War II
+

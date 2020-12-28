@@ -3,7 +3,7 @@
 #20200813_001 Schaufele, Bernard
 birth 1890-12-05 @ US/MD/Baltimore
 
-____
+---
 
 !citation Ed Moyer Biography
 !URL https://sabr.org/bioproj/person/ed-moyer/
@@ -12,7 +12,7 @@ ____
 player 1914 Springfield (Eastern Association)
 notes played as More from 1913 on
 
-____
+---
 
 !citation "Fair Crews, 'Whitsett Wonder'"
 !URL http://www.diamondsinthedusk.com/

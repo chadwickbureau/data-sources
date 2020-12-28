@@ -3,7 +3,7 @@
 #20201112_001 Benning, Joseph
 manager 1946 Hammond (Evangeline)
 notes resigned as manager during spring training 1947
-____
+---
 
 !citation Baseball Research Journal @ 2020, Number 2
 
@@ -51,14 +51,14 @@ player 1927 Miami (Florida State)
 player 1927 Miami (Florida State)
 player 1926 Chicago (American)
 
-____
+---
 
 !citation Miami Daily News and Metropolis @ 1927-07-22; page 11
 
 #20201112_016 Holloway, William
 player 1927 Miami (Florida State); @P
 
-____
+---
 
 !citation Charlotte Observer @ 1926-05-29; page 12
 
@@ -67,7 +67,7 @@ player 1926 Little Rock (Southern Association)
 player 1926 Knoxville (South Atlantic)
 notes brother of Knaupp, Cotton
 
-____
+---
 
 !citation Lexington Herald @ 1915-06-06; page 1
 
@@ -75,7 +75,7 @@ ____
 player 1915 Frankfort (Ohio State)
 manager 1915 Frankfort (Ohio State)
 
-____
+---
 
 !citation Birmingham News @ 1921-04-08; page 16
 
@@ -85,7 +85,7 @@ player <1921 Birmingham (Southern Association)
 obtained 1921-04-07 by Little Rock (Southern Association) from Wichita Falls (Texas) by purchase
 
 
-____
+---
 
 !citation Birmingham News @ 1921-07-18; page 1
 
@@ -95,7 +95,7 @@ player 1921 Chattanooga (Southern Association)
 manager 1921 Chattanooga (Southern Association)
 released 1921-07-16 by Little Rock (Southern Association) by own purchase
 
-____
+---
 
 !citation Hartford Courant @ 1916-03-14; page 18
 

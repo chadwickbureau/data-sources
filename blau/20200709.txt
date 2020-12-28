@@ -3,14 +3,14 @@
 #20200709_001 Thiesing, Dutch
 player 1915 Wichita (Western)
 
-____
+---
 
 !citation Wichita Eagle @ 1916-02-23; page 7
 
 #20200709_002 Buster, Arthur
 player 1915 Wichita (Western)
 
-____
+---
 
 !citation Sioux City Journal @ 1916-04-23; page 31
 
@@ -19,7 +19,7 @@ player 1915 Sioux City (Western)
 player 1916 Sioux City (Western)
 resides 1916@US/IA/Sioux City
 
-____
+---
 
 !citation Sioux City Journal @ 1915-07-31; page 12
 
@@ -30,7 +30,7 @@ player 1915 Sioux City (Western); @RF
 released 1915-07-29 by Topeka (Western)
 signed 1915-07-30 by Sioux City (Western)
 
-___
+---
 
 !citation Des Moines Register @ 1915-04-11; page 7
 
@@ -39,7 +39,7 @@ player 1915 Des Moines (Western)
 player 1915 Sioux City (Western)
 resides 1915@US/CA/Oakland
 
-____
+---
 
 !citation Sioux City Journal @ 1915-08-06; page 10
 
@@ -47,7 +47,7 @@ ____
 player 1915 Sioux City (Western)
 resides 1915@US/IA/Moville
 
-____
+---
 
 !citation Waterloo Courier @ 1925-02-02; page 10
 
@@ -58,7 +58,7 @@ notes high school friend of Cletus Dixon, rookie
 #20200709_008 Kelsey, Archie
 player 1925 Waterloo (Mississippi Valley); TL
 
-___
+---
 
 !citation St. Joseph News-Press @ 1915-08-07; page 5
 
@@ -67,14 +67,14 @@ player 1915 St. Joseph (Western)
 player 1914 Columbia (South Atlantic)
 resides 1915@US/NY
 
-___
+---
 
 !citation St. Joseph Gazette @ 1915-05-29; page 7
 
 #20200709_010 Page, Billy
 player 1915 St. Joseph (Western)
 
-___
+---
 
 !citation Wichita Eagle @ 1915-07-18; page 7
 
@@ -83,7 +83,7 @@ player 1915 St. Joseph (Western)
 player 1915 Wichita (Western)
 notes catcher returned to St. Joseph
 
-___
+---
 
 !citation St. Joseph News-Press @ 1915-03-31; page 10
 
@@ -91,7 +91,7 @@ ___
 player 1915 St. Joseph (Western)
 
 
-___
+---
 
 !citation Wichita Eagle @ 1915-08-06; page 7
 

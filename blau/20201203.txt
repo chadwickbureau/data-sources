@@ -3,7 +3,7 @@
 #20201203_001 Daringer, Cliff
 player 1916 Hannibal (Illinois-Indiana-Iowa)
 
-____
+---
 
 !citation Moline Dispatch @ 1916-06-28; page 12
 
@@ -11,7 +11,7 @@ ____
 player 1916 Hannibal (Illinois-Indiana-Iowa)
 player 1916 Quincy (Illinois-Indiana-Iowa)
 
-____
+---
 
 !citation Cedar Rapids Gazette @ 1916-07-29; page 6
 
@@ -19,7 +19,7 @@ ____
 player 1916 Waterloo (Central Association)
 player 1916 Rock Island (Illinois-Indiana-Iowa)
 
-____
+---
 
 !citation Moline Dispatch @ 1916-07-17; page 10
 
@@ -27,14 +27,14 @@ ____
 player 1915 Virginia (Northern)
 player 1916 Rockford (Illinois-Indiana-Iowa)
 
-____
+---
 
 !citation Davenport Democrat and Leader @ 1916-05-28; page 22
 
 #20201203_005 Garner, Clayborn
 player 1916 Rockford (Illinois-Indiana-Iowa)
 
-____
+---
 
 !citation Davenport Democrat and Leader @ 1916-07-18; page 8
 

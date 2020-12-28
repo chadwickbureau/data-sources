@@ -4,21 +4,21 @@
 player 1915 Anniston (Georgia-Alabama)
 player 1916 Anniston (Georgia-Alabama)
 
-____
+---
 
 !citation Anniston Star @ 1916-04-30; page 3
 
 #20200827_002 Morrison, Jim
 player 1916 Anniston (Georgia-Alabama)
 
-____
+---
 
 !citation Montgomery Advertiser @ 1917-05-07; page 6
 
 #20200827_003 Morrison, "Big Jim"
 player 1917 Anniston (Georgia-Alabama)
 
-____
+---
 
 !citation Hanover Evening Sun @ 1917-08-09; page 7
 
@@ -26,7 +26,7 @@ ____
 player 1917 Hanover (Blue Ridge); TR
 resides 1917@US/WV/Charleston
 
-____
+---
 
 !citation Hanover Evening Sun @ 1917-08-15; page 3
 

@@ -1,0 +1,55 @@
+!citation stories.eku.edu @ 2018-07-30
+!url https://stories.eku.edu/events/athletics-hall-fame-induct-eight
+!file White_Randy.pdf
+!contributor Alex Bonilla <ab@sports-reference.com> @ 2019-11-12
+
+#2019_001 White, Randy
+college Eastern Kentucky
+describe 1989; @P TR
+player 1989 Idaho Falls (Pioneer League)
+
+---
+
+!citation 2019 Georgia Baseball Media Guide @ page 48-50
+!file Turner_Jim.pdf
+!contributor Alex Bonilla <ab@sports-reference.com> @ 2019-09-23
+
+#2019_002 Turner, James
+drafted 1974 by Cincinnati (NL) from University of Georgia
+college University of Georgia
+
+#2019_003 Wysocki, Michael
+drafted 1966 by San Francisco (NL) from University of Georgia
+college University of Georgia
+
+#2019_004 Copeland, Buddy
+drafted 1968 by Oakland (AL) from University of Georgia
+college University of Georgia
+
+#2019_005 Harrelson, Michael
+drafted 1971 by Los Angeles (NL) from University of Georgia
+college University of Georgia
+
+#2019_006 Nevinger, Gary
+drafted 1973 by New York (NL) from University of Georgia
+college University of Georgia
+
+#2019_007 Saber, Mark
+drafted 1975 by Pittsburgh (NL) from University of Georgia
+college University of Georgia
+
+#2019_008 Wilson, Duane
+drafted 1976 by Cleveland (AL) from University of Georgia
+college University of Georgia
+
+#2019_009 Kizer, Hal
+drafted 1978 by Chicago (NL) from University of Georgia
+college University of Georgia
+
+#2019_010 Lanning, David
+drafted 1979 by Los Angeles (NL) from University of Georgia
+college University of Georgia
+
+#2019_011 Benedict, Scott
+drafted 1979 by New York (AL) from University of Georgia
+college University of Georgia

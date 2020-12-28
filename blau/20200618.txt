@@ -6,7 +6,7 @@ player 1915 Fort Smith (Western Association)
 player 1916 Sherman (Western Association)
 player 1916 (Central Texas)
 
-____
+---
 
 !citation McAlester News-Capital @ 1915-04-16; page 6
 
@@ -14,7 +14,7 @@ ____
 player 1915 McAlester (Western Association); TL
 resides 1915@US/WA/Seattle
 
-____
+---
 
 !citation McAlester News-Capital @ 1915-03-10; page 6
 
@@ -22,7 +22,7 @@ ____
 player 1915 McAlester (Western Association)
 college University of Arkansas
 
-____
+---
 
 !citation McAlester News-Capital @ 1915-03-20; page 6
 
@@ -33,7 +33,7 @@ resides 1915@US/OK/Davenport
 #20200618_005 Mickey, Floyd
 player 1915 McAlester (Western Association); TR
 
-____
+---
 
 !citation McAlester News-Capital @ 1915-04-01; page 6
 
@@ -41,7 +41,7 @@ ____
 player 1914 McAlester (Western Association)
 player 1915 Muskogee (Western Association)
 
-____
+---
 
 !citation McAlester News-Capital @ 1915-04-14; page 6
 
@@ -49,7 +49,7 @@ ____
 player 1915 Muskogee (Western Association)
 notes had 2 hits in 3 at bats
 
-____
+---
 
 !citation McAlester News-Capital @ 1915-04-16; page 6
 
@@ -63,14 +63,14 @@ manager 1915 McAlester (Western Association)
 #20200618_010 Taylor, Buzz
 player 1915 McAlester (Western Association); @P
 
-____
+---
 
 !citation McAlester News-Capital @ 1915-04-24; page 6
 
 #20200618_011 Houston, Cecil
 player 1915 McAlester (Western Association); @SS
 
-____
+---
 
 !citation McAlester News-Capital @ 1915-05-12; page 6
 

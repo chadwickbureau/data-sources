@@ -5,7 +5,7 @@ player 1916 Bradford (Interstate)
 player 1915 Pittsburgh (Federal)
 player 1916 Binghamton (New York)
 
-____
+---
 
 !citation Wilkes-Barre Record @ 1916-05-19; page 9
 
@@ -13,7 +13,7 @@ ____
 player 1916 Bradford (Interstate)
 player 1916 Binghamton (New York)
 
-____
+---
 
 !citation Warren Evening Times @ 1916-06-06; page 3
 
@@ -21,14 +21,14 @@ ____
 player 1916 Bradford (Interstate)
 player 1915 (Interstate)
 
-____
+---
 
 !citation Buffalo Evening News @ 1913-09-08; page 1
 
 #20201217_004 Brown
 player 1913 Buffalo (International); @P
 
-____
+---
 
 !citation Buffalo Evening News @ 1913-09-18; page 16
 
@@ -36,7 +36,7 @@ ____
 player 1913 Buffalo (International)
 resides 1913@US/NY/Bemus Point
 
-____
+---
 
 !citation Buffalo Times @ 1914-03-29; page 64
 
@@ -44,7 +44,7 @@ ____
 player 1913 Buffalo (International); TR
 notes has picture
 
-____
+---
 
 !citation Ottawa Citizen @ 1914-04-21; page 4
 
@@ -52,14 +52,14 @@ ____
 player 1914 Erie (Canadian)
 player <=1914 Buffalo (International)
 
-____
+---
 
 !citation Elmira Star-Gazette @ 1916-04-11; page 9
 
 #20201217_008 Brown, Carl
 player 1916 Syracuse (New York State); TR
 
-____
+---
 
 !citation Scranton Tribune @ 1916-06-12; page 12
 
@@ -67,7 +67,7 @@ ____
 player 1916 Syracuse (New York State)
 acquired <=1916-06-12 by Utica (New York State) as free agent
 
-____
+---
 
 !citation Wilkes-Barre Record @ 1916-06-23; page 21
 
@@ -75,7 +75,7 @@ ____
 player 1916 Bradford (Interstate)
 notes Utica notified he had agreed to terms with Bradford first
 
-____
+---
 
 !citation Wilmington (NC) Morning Star @ 1916-06-13; page 3
 
@@ -84,7 +84,7 @@ player 1916 Rocky Mount (Virginia)
 acquired <=1916-06-13 by Rocky Mount (Virginia) from Memphis (Southern Association)
 notes on option from New York (American)
 
-____
+---
 
 !citation Clarence "Cack: Henleym "Human Flag Pole"
 !URL https://www.diamondsinthedusk.com/uploads/articles/464-Zhl70wb-HENLEY_Cack.pdf
@@ -93,14 +93,14 @@ ____
 player 1907 San Francisco (Pacific Coast)
 birth 1884-06-21@US/CA/Sacramento
 
-____
+---
 
 !citation Encyclopedia of Minor League Baseball, 3rd Edition; page 262
 
 #20201217_013 Holland, Jack
 manager 1916 St. Joseph (Western)
 
-____
+---
 
 !citation Montgomery Advertiser @ 1916-04-12; page 9
 
@@ -108,7 +108,7 @@ ____
 player 1916 Albany (South Atlantic)
 acquired <=1916-04-12 by Albany (South Atlantic) from Mobile (Southern Association)
 
-____
+---
 
 !citation Montgomery Advertiser @ 1916-04-17; page 6
 
@@ -116,14 +116,14 @@ ____
 player 1916 Albany (South Atlantic)
 notes semi-pro from Mobile
 
-____
+---
 
 !citation Asheville Citizen @ 1917-05-03; page 8
 
 #20201217_016 Brown, Carl
 player 1917 Asheville (North Carolina State)
 
-____
+---
 
 !citation Asheville Citizen @ 1917-05-25; page 8
 
@@ -131,14 +131,14 @@ ____
 player 1917 Asheville (North Carolina State)
 player 1917 Mobile (Southern Association)
 
-____
+---
 
 !citation Asheville Citizen @ 1917-05-03; page 8
 
 #20201217_018 Brown, Carl
 player 1917 Asheville (North Carolina State)
 
-____
+---
 
 !citation Warren Evening Times @ 1916-07-10; page 3
 
@@ -146,7 +146,7 @@ ____
 player 1916 Bradford (Interstate)
 player 1915 Buffalo (Federal)
 
-____
+---
 
 !citation Washington Times @ 1916-08-08; page 10
 
@@ -155,7 +155,7 @@ player 1916 Bradford (Interstate)
 player 1916 Harrisburg (New York State)
 acquired 1916-08-07 by Bradford (Interstate) from Harrisburg (New York State)
 
-____
+---
 
 !citation Olean Evening Herald @ 1916-07-19; page 6
 
@@ -163,14 +163,14 @@ ____
 player 1916 Bradford (Interstate)
 player 1916 Olean (Interstate)
 
-____
+---
 
 !citation Olean Evening Herald @ 1916-11-11; page 6
 
 #20201217_022 Smith, James W.
 player 1916 Bradford (Interstate)
 
-____
+---
 
 !citation Warren Evening Times @ 1916-04-06; page 5
 
@@ -178,42 +178,42 @@ ____
 player 1916 Bradford (Interstate)
 player 1915 (Federal)
 
-____
+---
 
 !citation Warren Evening Times @ 1916-06-09; page 5
 
 #20201217_024 Adams, Jack
 player 1916 Erie (Interstate)
 
-____
+---
 
 !citation Warren Evening Times @ 1916-05-22; page 3
 
 #20201217_025 Chrystal, Bill
 player 1916 Erie (Interstate)
 
-____
+---
 
 !citation Wilkes-Barre Record @ 1917-03-29; page 17
 
 #20201217_026 Halt, Al
 player 1917 Reading (New York State)
 
-____
+---
 
 !citation Pittsburgh Gazette Times @ 1916-05-07; page 20
 
 #20201217_027 Delahanty, Frank
 player 1916 Erie (Interstate)
 
-____
+---
 
 !citation Warren Evening Times @ 1916-07-26; page 3
 
 #20201217_028 Myers, Joe
 player 1916 Warren (Interstate)
 
-____
+---
 
 !citation Warren Evening Times @ 1916-04-29; page 3
 
@@ -226,7 +226,7 @@ player <1916 St. Louis (American)
 player 1916 Erie (Interstate)
 player 1915 Pittsburgh (Federal)
 
-____
+---
 
 !citation Warren Evening Times @ 1916-06-15; page 2
 
@@ -235,7 +235,7 @@ player 1916 Johnsonburg (Interstate)
 player 1915 Philadelphia (American)
 player 1916 Wheeling (Central)
 
-____
+---
 
 !citation Warren Evening Times @ 1916-06-30; page 3
 
@@ -243,7 +243,7 @@ ____
 manager 1916 Johnsonburg (Interstate)
 notes replaced Tom Jones
 
-____
+---
 
 !citation Warren Evening Times @ 1916-08-02; page 3
 
@@ -251,7 +251,7 @@ ____
 player 1916 Ridgway (Interstate)
 player <1916 (Federal)
 
-____
+---
 
 !citation Warren Evening Times @ 1916-07-09; page 58
 
@@ -259,7 +259,7 @@ ____
 manager 1916 Olean (Interstate)
 notes first game 1916-07-08
 
-____
+---
 
 !citation Warren Evening Times @ 1916-08-19; page 2
 

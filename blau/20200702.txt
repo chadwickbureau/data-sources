@@ -36,7 +36,7 @@ resides 1915@US/OK/Mangum
 player 1915 McAlester (Western Association); BL TR
 resides 1915@US/MS/Vicksburg
 
-____
+---
 
 !citation Nineteenth Century Notes @ Summer 1920; page 1
 

@@ -4,7 +4,7 @@
 player 1916 Newark (International)
 resides 1916@US/PA/Homesdale
 
-____
+---
 
 !citation Rochester Democrat and Chronicle @ 1916-08-23; page 15
 
@@ -14,7 +14,7 @@ player 1915 Portsmouth (Ohio State)
 college West Virginia Wesleyan University
 notes has picture
 
-____
+---
 
 !citation Buffalo Courier @ 1916-06-03; page 8
 
@@ -24,7 +24,7 @@ player 1916 Toronto (International)
 player 1915 (Colonial)
 
 
-____
+---
 
 !citation Hopkinsville Kentuckian @ 1911-08-03; page 8
 

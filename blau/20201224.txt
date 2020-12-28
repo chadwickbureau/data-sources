@@ -4,7 +4,7 @@
 manager 1916 Olean (Interstate)
 notes replaced Dundon who resigned
 
-____
+---
 
 !citation Olean Evening Herald @ 1916-05-02; page 9
 
@@ -12,7 +12,7 @@ ____
 player 1916 Olean (Interstate)
 player 1915 Olean (Interstate)
 
-____
+---
 
 !citation Pittsburgh Gazette Times @ 1916-08-04; page 8
 
@@ -21,14 +21,14 @@ player 1916 Ridgway (Interstate)
 player <=1916 Brooklyn (National)
 
 
-____
+---
 
 !citation Warren Evening Times @ 1916-07-11; page 3
 
 #20201224_004 Young, [Soup]
 player 1916 Ridgway (Interstate); @P
 
-____
+---
 
 !citation SABR Biography for George Dunlop
 !URL https://sabr.org/bioproj/person/george-dunlop/
@@ -38,7 +38,7 @@ player 1916 Ridgway (Interstate)
 player 1914 Cleveland (American)
 player 1914 Cleveland (American Association)
 
-____
+---
 
 !citation Allentown Morning Call @ 1916-07-08; page 9
 
@@ -46,7 +46,7 @@ ____
 player 1916 Wellsville (Interstate)
 player 1916 Allentown (Atlantic)
 
-____
+---
 
 !citation Allentown Morning Call @ 1916-07-08; page 9
 
@@ -55,7 +55,7 @@ ____
 player 1916 Wellsville (Interstate)
 resides 1916@US/MA/Boston
 
-____
+---
 
 !citation Reading Times @ 1916-07-03; page 9
 
@@ -65,7 +65,7 @@ player 1916 York (Pennsylvania State)
 player 1916 Allentown (Atlantic)
 player 1916 Wellsville (Interstate)
 
-____
+---
 
 !citation York Gazette @ 1916-04-21; page 6
 
@@ -73,7 +73,7 @@ ____
 player 1916 York (Pennsylvania State)
 player 1913 (New York State)
 
-____
+---
 
 !citation Warren Evening Times @ 1916-05-30; page 5
 
@@ -83,7 +83,7 @@ player 1916 Warren (Interstate); @RF
 #20201224_011 Walsh, Jim
 player 1916 Warren (Interstate); @P
 
-____
+---
 
 !citation Warren Evening Times @ 1916-06-05; page 3
 
@@ -92,7 +92,7 @@ player 1916 Warren (Interstate)
 resides 1916@US/PA/Carbondale
 college St. Bonaventure College
 
-____
+---
 
 !citation Warren Evening Times @ 1916-08-16; page 3
 
@@ -100,7 +100,7 @@ ____
 player 1916 Wellsville (Interstate); @P TL
 college Columbia University
 
-____
+---
 
 !citation South Bend News-Times @ 1916-04-21; page 8
 
@@ -108,7 +108,7 @@ ____
 player 1916 Wellsville (Interstate)
 released <=1916-04-21 by South Bend (Central)
 
-____
+---
 
 !citation Baltimore Sun @ 1916-07-02; page 25
 
@@ -116,7 +116,7 @@ ____
 player 1916 Reading (Atlantic)
 player 1916 Portsmouth (Virginia); @RF
 
-____
+---
 
 !citation Reading Times @ 1916-06-27; page 9
 
@@ -124,21 +124,21 @@ ____
 player 1916 Reading (Atlantic)
 player 1916 Newport News (Virginia)
 
-____
+---
 
 !citation Scranton Tribune @ 1916-08-07; page 10
 
 #20201224_017 Gilpin, Andy
 player 1916 Reading (Atlantic)
 
-____
+---
 
 !citation Warren Evening Times @ 1916-08-11; page 3
 
 #20201224_018 Gough
 player 1916 Wellsville (Interstate); @RF
 
-____
+---
 
 !citation Warren Evening Times @ 1916-06-12; page 7
 
@@ -147,7 +147,7 @@ player 1916 Bradford (Interstate)
 player 1916 Richmond (International)
 recalled <=1916-06-12 by Richmond (International) from Bradford (Interstate)
 
-____
+---
 
 !citation Wellsville Daily Reporter @ 1916-06-10; page 8
 
@@ -155,21 +155,21 @@ ____
 player 1916 Wellsville (Interstate)
 notes playing as Hooper
 
-____
+---
 
 !citation Wellsville Daily Reporter @ 1916-06-24; page 6
 
 #20201224_021 Armstrong, Bob
 player 1916 Wellsville (Interstate)
 
-____
+---
 
 !citation Wellsville Daily Reporter @ 1916-06-14; page 6
 
 #20201224_022 Crawford, Whit
 player 1916 Wellsville (Interstate)
 
-____
+---
 
 !citation Wellsville Daily Reporter @ 1916-06-28; page 6
 
@@ -177,7 +177,7 @@ ____
 player 1916 Wellsville (Interstate)
 player 1916 Olean (Interstate)
 
-____
+---
 
 !citation Wellsville Daily Reporter @ 1916-07-05; page 6
 
@@ -185,7 +185,7 @@ ____
 player 1916 Wellsville (Interstate)
 player 1916 Reading (Atlantic)
 
-____
+---
 
 !citation Wellsville Daily Reporter @ 1916-07-07; page 6
 
@@ -193,7 +193,7 @@ ____
 player 1916 Wellsville (Interstate)
 released 1916-07-06 by Wellsville (Interstate)
 
-____
+---
 
 !citation Wellsville Daily Reporter @ 1916-07-11; page 6
 
@@ -201,7 +201,7 @@ ____
 player 1916 Wellsville (Interstate)
 player 1916 Utica (New York State)
 
-____
+---
 
 !citation Wellsville Daily Reporter @ 1916-07-31; page 6
 
@@ -213,7 +213,7 @@ player 1915 Jersey City (International)
 player 1916 Wellsville (Interstate)
 player <=1916 (New York State)
 
-____
+---
 
 !citation Wellsville Daily Reporter @ 1916-08-02; page 10
 
@@ -232,7 +232,7 @@ player 1916 Wellsville (Interstate); BR
 #20201224_033 Ramsey, Hank
 manager 1916 Wellsville (Interstate)
 
-____
+---
 
 !citation Wellsville Daily Reporter @ 1916-08-07; page 6
 

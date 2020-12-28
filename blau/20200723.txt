@@ -4,7 +4,7 @@
 player 1914 St. Thomas (Canadian)
 player 1914 Brantford (Canadian)
 
-____
+---
 
 !citation Cleveland Plain Dealer @ 1913-05-01
 
@@ -12,7 +12,7 @@ ____
 player 1913 Cleveland (Federal)
 player <1913 San Antonio (Texas)
 
-____
+---
 
 !citation San Antonio Gazette @ 1909-04-24; page 2
 
@@ -20,7 +20,7 @@ ____
 player 1909 San Antonio (Texas)
 released <=1909-04-24 by San Antonio (Texas)
 
-___
+---
 
 !citation Wilkes-Barre News @ 1909-04-07; page 11
 
@@ -29,7 +29,7 @@ player 1909 Atlanta (Southern Association)
 released <=1909-04-07 by Atlanta (Southern Association)
 resides 1909@US/OH/Cleveland
 
-___
+---
 
 !citation New Castle News @ 1912-04-29; page 11
 
@@ -37,7 +37,7 @@ ___
 player 1912 Sharon (Ohio-Pennsylvania)
 player 1911 New Castle (Ohio-Pennsylvania)
 
-___
+---
 
 !citation Rock Island Argus @ 1922-06-26; page 4
 

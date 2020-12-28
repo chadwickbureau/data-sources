@@ -1,0 +1,31 @@
+!citation http://articles.orlandosentinel.com/1991-09-25/sports/9109250790_1_peeping-tom-white-sox-chicago-white
+!citation http://news.google.com/newspapers?nid=2506&dat=19910925&id=r3NJAAAAIBAJ&sjid=4woNAAAAIBAJ&pg=5141,2169892
+
+#2014_001 Marrero, David
+birth 1974
+death 1991-09-23 @ US/FL/Hialeah
+
+---
+
+!citation Minnesota Death Records
+!contributor Stew Thornley @ 2014-02-12
+!file Stemig-ONeill.pdf
+
+#2014_002 Stemig, Adolph [Ade]
+birth 1898-06-09 @ US/MN
+death 1973-04-13 @ US/MN/Maplewood
+burial Salem Cemetery @ US/MN/Stillwater
+brother of Stemig, John
+
+#2014_003 Stemig, John
+birth 1900-09-30 @ US/MN/St. Paul
+death 1988-12-06 @ US/MN/Crosby
+burial Salem Cemetery @ US/MN/Stillwater
+brother of Stemig, Adolph
+
+#2014_004 O'Neill, Martin H. [Marty]
+birth 1908-02-18 @ US/MN/St. Paul
+death 1983-02-07 @ US/MN/St. Paul
+burial Resurrection Cemetery @ US/MN/Mendota Heights
+
+

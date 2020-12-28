@@ -1,0 +1,67 @@
+!citation SABR bioproject
+!citation Tampa Bay Times @ 2010-03-23
+!citation Oakland Press @ 2018-09-04
+!contributor Gary Gillette @ 2018-09-25
+
+#2018_001 Freehan, Bill
+highschool Bishop Barry @ US/FL/St. Petersburg; dates=1956/1959
+
+---
+
+!citation Musee de Sports de Gatineau
+!contributor Gary Gillette @ 2018-09-25
+
+#2018_002 Cloutier, Louis
+birth 1928 @ CA/QC/Windsor
+death @ CA/QC/Hull
+
+---
+
+!citation http://zenithcity.com/archive/people-biography/wally-gilbert/
+!citation https://sabr.org/bioproj/person/e0cef5d6
+!citation http://denfeldalumni.com/denfeld-hall-of-fame-wally-gilbert.cfm
+!citation http://www.duluthnewstribune.com/news/2250510-why-we-all-should-know-wally-gilbert
+!contributor Gary Gillette @ 2018-10-20
+
+#2018_003 Gilbert, Wally
+highschool Denfield HS @ US/MN/Duluth; dates=1920
+
+---
+
+!citation https://s3.amazonaws.com/sidearm.sites/ualr.sidearmsports.com/documents/2018/2/16/2018_Record_Book.pdf
+!citation https://lrtrojans.com/news/2008/7/26/UALR_Baseball_Award_Winners.aspx
+!citation https://www.millardunited.com/page/show/1085806-millard-united-instructors
+!contributor Gary Gillette @ 2018-10-20
+
+#2018_004 Centeno, Sean
+college Arkansas-Little Rock; dates=1994/1996
+
+---
+
+!citation https://static.hardingsports.com/custompages/baseball/2008/2008-baseball-guide14-24.pdf
+!citation https://www.harding.edu/
+!citation http://www.greatest21days.com/2015/09/interview-part-1-darwin-pennye-better.html
+!citation https://www.mlb.com/mlb-youth-academy/kansas-city/staff-bios
+!citation https://txstatebobcats.com/documents/2017/5/2/Texas_State_Draft_History_2016.pdf
+!citation https://www.txstate.edu/about/history-traditions
+
+#2018_005 Pennye, Darwin
+college Harding University; dates=1985
+college Blinn College; dates=1986
+college Southwest Texas State University; dates=1987/1988
+
+---
+
+!citation https://sfstategators.com/roster.aspx?rp_id=3034
+!citation http://gcbobcats.com/sports/bsb/2014-15/bios/wheeler_matt_k0d7?view=bio
+!citation http://saguarosbaseball.com/tucson.asp?page=4&year=2018
+!citation http://www.pecosleague.com/pecosleague.asp?year=2018&page=39&id=3235
+!citation http://www.cccaasports.org/sports/bsb/2013-14/teams/monterey?view=lineup&r=0&pos=
+!citation http://www.cccaasports.org/sports/bsb/2012-13/teams/monterey?view=lineup&r=0&pos=
+
+#2018_006 Wheeler, Matthew
+describe ; BL TL H76 W225
+college San Francisco State University; dates=2017
+college Georgia College; dates=2015
+college Monterey Peninsula College; dates=2013/2014
+highschool Cardinal Newman HS @ US/CA/Santa Rosa

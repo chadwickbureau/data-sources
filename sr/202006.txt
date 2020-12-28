@@ -1,0 +1,33 @@
+!citation Los Angeles Times @ 1990-06-10
+!url https://www.latimes.com/archives/la-xpm-1990-06-10-sp-589-story.html
+!file Bradish_Mike.pdf
+!contributor Alex Bonilla <ab@sports-reference.com> @ 2020-06-09
+
+#202006_001 Bradish, Mike
+college Concordia University Irvine
+drafted 1990 by Chicago (AL) from Concordia University Irvine
+
+---
+
+!citation "Gold on the Diamond: Sacramento's Great Baseball Players, 1886 to 1976"
+!url https://books.google.com/books?id=DDvo6F01ce4C&pg=PA133&lpg=PA133&dq=jim+westlake+mcclatchy&source=bl&ots=rRRzFGd0hR&sig=ACfU3U1pHN4yCV9iT_7-Qz7iVK5v3gMiWw&hl=en&sa=X&ved=2ahUKEwjv76rn9_TpAhX5lXIEHb-7Bu4Q6AEwBHoECAsQAQ#v=onepage&q=jim%20westlake%20mcclatchy&f=false
+!file Westlake_Jim.PNG
+!contributor Alex Bonilla <ab@sports-reference.com> @ 2020-06-09 
+
+#202006_002 Westlake, James
+birth 1930-07-03 @ US/CA/Sacramento
+highschool McClatchy HS @ US/CA/Sacramento
+describe ; H72 W190 BL
+player 1948 Salt Lake City (Pioneer League)
+player 1959 Portland (Pacific Coast League)
+death 2003-01-03 @ US/CA/Sacramento
+
+---
+
+!citation 2020 Chicago White Sox Media Guide; page 162
+!file Robert_Luis.PNG
+!contributor Alex Bonilla <ab@sports-reference.com> @ 2020-07-01
+
+#202006_003 Robert Moirán, Luis
+birth 1997-08-03 @ CU//Ciego de Ávila
+describe 2020; @OF TR BR H74 W210

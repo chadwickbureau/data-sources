@@ -5,7 +5,8 @@ player 1911 Portland (Northwestern)
 notes catcher
 acquired <1911-01-14 by Toledo (American Association) from (Southern Michigan)
 acquired <=1911-01-14 by Portland (Northwestern) from Toledo (American Association) for cash
-____
+
+---
 
 !citation Spokane Chronicle @ 1913-05-20; page 16
 

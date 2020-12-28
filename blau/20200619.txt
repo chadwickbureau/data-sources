@@ -1,0 +1,643 @@
+!citation "Demons, Colts, Giants and Drybugs", Zeigler, Mark C., The National Pastime @ 2020
+
+#20200619_001 Deal, Harry
+manager 1916 Cumberland (Potomac)
+player 1916 Cumberland (Potomac)
+resides 1916@US/PA/Bedford
+
+#20200619_002 Geatz, George [Sonny]
+player 1916 Cumberland (Potomac)
+
+#20200619_003 Schafer, Clarence
+player 1916 Cumberland (Potomac)
+
+#20200619_004 Marean, John
+player 1916 Cumberland (Potomac)
+
+#20200619_005 Koroly, Mike
+player 1916 Cumberland (Potomac)
+
+#20200619_006 Lippold, Frank
+player 1916 Cumberland (Potomac)
+brother of Lippold, Charley
+
+#20200619_007 Lippold, Charley
+player 1916 Cumberland (Potomac)
+
+#20200619_008 Stafford, Jonny
+player 1916 Cumberland (Potomac)
+
+#20200619_009 Price, Eddie
+player 1916 Cumberland (Potomac)
+
+#20200619_010 East, Johnny
+player 1916 Cumberland (Potomac)
+
+#20200619_011 Tannehill, Merle
+player 1916 Cumberland (Potomac)
+
+#20200619_012 Long, George [Brindle]
+player 1916 Cumberland (Potomac)
+
+#20200619_013 Dye, Charles
+player 1916 Cumberland (Potomac)
+player 1916 Toronto (International)
+resides 1916@US/MD/Barton
+
+#20200619_014 Fike, John [Lefty]
+player 1916 Cumberland (Potomac)
+
+#20200619_015 Heatwole, Kirk
+player 1916 Cumberland (Potomac); TL
+birth @ US/VA
+
+#20200619_016 Muster, Frank [War Horse]
+player 1916 Lonaconing (Potomac); TL
+
+#20200619_017 Keener, Roy [Shotgun]
+player 1916 Lonaconing (Potomac)
+manager 1916 Lonaconing (Potomac)
+
+#20200619_018 Phillips, Joe
+player 1916 Lonaconing (Potomac)
+
+#20200619_019 Cobb, Joe [Serafin]
+player 1916 Lonaconing (Potomac)
+
+#20200619_020 Knode, Kenny [Mike]
+player 1916 Lonaconing (Potomac)
+
+#20200619_021 McGuire, James
+manager 1916 Lonaconing (Potomac)
+
+#20200619_022 Flynn, Owen
+player 1916 Lonaconing (Potomac)
+
+#20200619_023 Nagle, John
+player 1916 Lonaconing (Potomac)
+
+#20200619_024 Brown, John [Stub]
+player 1916 Lonaconing (Potomac)
+
+#20200619_025 Baylor, R. S. [John]
+player 1916 Frostburg (Potomac)
+
+#20200619_026 Stair, Bill
+player 1916 Frostburg (Potomac)
+
+#20200619_027 Brophy, Pat
+manager 1916 Frostburg (Potomac)
+
+#20200619_028 Salb, John
+player 1916 Frostburg (Potomac)
+birth @ US/DC/Washington
+
+#20200619_029 Doyle, John [Shuck]
+player 1916 Frostburg (Potomac)
+
+#20200619_030 Anderson, Fay
+player 1916 Frostburg (Potomac)
+
+#20200619_031 Morgan, John [Sammy]
+player 1916 Frostburg (Potomac)
+
+#20200619_032 Harris, Owen
+manager 1916 Piedmont (Potomac)
+birth @ US/MD/Baltimore
+
+#20200619_033 Schaufele, Ben
+player 1916 Piedmont (Potomac)
+player 1918 Piedmont (Blue Ridge)
+
+#20200619_034 Smith, Arthur T. [Shorty]
+player 1916 Piedmont (Potomac)
+manager 1918 Piedmont (Blue Ridge)
+
+#20200619_035 Zinnell, Frederick [Jake]
+player 1916 Piedmont (Potomac)
+
+#20200619_036 Plaxico, G. C.
+player 1916 Piedmont (Potomac)
+
+#20200619_037 Wamsley, Porter
+player 1916 Piedmont (Potomac)
+
+#20200619_038 Bruff, Leroy
+player 1916 Piedmont (Potomac)
+
+#20200619_039 Verecker, Tommy
+player 1916 Piedmont (Potomac)
+
+#20200619_040 Morseberger, E. L.
+player 1916 Piedmont (Potomac)
+
+#20200619_041 Whitworth, Don
+player 1916 Piedmont (Potomac)
+
+---
+
+!citation 1916 Potomac League player notes
+!contributor Mark Ziegler <boysoftheblueridge@gmail.com> @ 2020-07-13
+
+#20200619_042 Barnard, Fuller, Jr.
+executive 1916 Potomac League; title=President
+resides @ US/MD/Lonaconing
+birth 1887
+death 1937-03-23
+
+#20200619_043 Anderson, Fay "Yank"
+player 1916 (Potomac); @3B
+resides @ US/PA/Vandegrift
+
+#20200619_044 Anderson, James "Jack"
+player 1916 (Potomac); @3B
+resides @ US/PA/Vandegrift
+birth 1891-11-07
+death 1966-03-01
+
+#20200619_045 Archer, Raymond [Ray]
+player 1916 (Potomac); @OF
+resides @ US/MA/Boston
+
+#20200619_046 Baylor, Ross S. "John"
+player 1916 (Potomac); @P TR
+resides @ US/PA/Somerset
+birth 1891-09-21
+death 1972-09-01
+
+#20200619_047 Boyd
+player 1916 (Potomac); @P TR
+
+#20200619_048 Boyle, Michael [Mike]
+player 1916 (Potomac); @2B
+resides @ US/PA
+
+#20200619_049 Brophy, Patrick [Pat]
+player 1916 (Potomac); @OF
+manager 1916 Frostburg (Potomac)
+resides @ US/WV/Franklin
+birth 1874
+death 1920-12-26
+
+#20200619_050 Brown, John "Stub"
+player 1916 (Potomac); @P-3B TR
+resides @ US/MD/Lonaconing
+birth 1894-06-27
+death 1947-01-22
+
+#20200619_051 Bruff, Leroy
+player 1916 (Potomac); @C
+resides @ US/MD/Baltimore
+birth 1895-08-01
+death 1918-09-29
+
+#20200619_052 Burns
+player 1916 (Potomac); @C
+
+#20200619_053 Causin, Ray
+player 1916 (Potomac); @1B
+
+#20200619_054 Cobb, Joe
+player 1916 (Potomac); @C-OF
+resides @ US/PA/Hudson
+birth 1895-01-24
+death 1947-12-24
+
+#20200619_055 Costello, W. H.
+player 1916 (Potomac); @OF
+
+#20200619_056 Cotter, Harry J. "Lefty"
+player 1916 (Potomac); @P TL
+resides @ US/MD/Baltimore
+birth 1893-06-15
+
+#20200619_057 Craycroft, Robert L. B.
+player 1916 (Potomac); @OF
+resides @ US/MD/Baltimore
+birth 1891-05-11
+
+#20200619_058 Deal, Harry L.
+player 1916 (Potomac); @1B
+resides @ US/PA/Bedford
+birth 1887
+death 1939
+
+#20200619_059 Doeppe, William [Bill]
+player 1916 (Potomac); @C
+resides @ US/VA/Richmond
+birth 1889-01-12
+death 1951-10-21
+
+#20200619_060 Doll, Willard
+player 1916 (Potomac); @P
+
+#20200619_061 Doyle, John T. "Shuck"
+player 1916 (Potomac); @2B
+resides @ US/PA/Aliquippa
+birth 1889-06-15
+death 1961-05-02
+
+#20200619_062 Dreyer, Nathaniel [Nate]
+player 1916 (Potomac); @P TR
+resides @ US/MD/Cumberland
+
+#20200619_063 Dye, Charles S.
+player 1916 (Potomac); @P
+resides @ US/MD/Barton
+birth 1892-05-16
+death 1943-04-04
+
+#20200619_064 East, John R. [Johnny]
+player 1916 (Potomac); @P TR
+resides @ US/VA/Vanport
+birth 1894-04-19
+
+#20200619_065 Eddy, R. L. "Tuck"
+player 1916 (Potomac); @OF
+resides @ US/MI/Battle Creek
+birth 1897-04-29
+death 1969
+
+#20200619_066 Edwards
+player 1916 (Potomac); @C
+resides @ US/OH
+
+#20200619_067 Farley, John A. "Buck"
+player 1916 (Potomac); @P
+resides @ US/MD/Baltimore
+birth 1893-02-10
+
+#20200619_068 Fike, John H. "Lefty"
+player 1916 (Potomac); P@P TL
+resides @ US/PA/Mattawana
+birth 1895-10-21
+death 1982-01-08
+
+#20200619_069 Flynn, Owen
+player 1916 (Potomac); @SS
+resides @ US/PA
+
+#20200619_070 Francis, John
+player 1916 (Potomac); @2B
+resides @ US/MD
+
+#20200619_071 Freeny, Samuel W. [Sammy]
+player 1916 (Potomac); @1B
+resides @ US/MD/Hebron
+birth 1896-08-26
+death 1944-12-21
+
+#20200619_072 Gaffney, William J.
+player 1916 (Potomac); @3B
+resides @ US/MD/Baltimore
+birth 1893-12-24
+death 1950-01-24
+
+#20200619_073 Geatz, George "Sonny"
+player 1916 (Potomac); @3B
+resides @ US/MD/Cumberland
+birth 1890-10-12
+death 1944-08-23
+
+#20200619_074 Grayce, Clarence
+player 1916 (Potomac)
+
+#20200619_075 Gruber, David
+player 1916 (Potomac); @3B
+
+#20200619_076 Harris, Bernard
+player 1916 (Potomac); @2B
+resides @ US/MD/Baltimore
+birth 1891-10-05
+death 1956-01-22
+
+#20200619_077 Harris, Owen J. L.
+player 1916 (Potomac); @1B
+manager 1916 Piedmont (Potomac)
+resides @ US/MD/Baltimore
+birth 1894-09-15
+
+#20200619_078 Heatwole, Kirkley R. [Kirk]
+player 1916 (Potomac); @P TL
+resides @ US/VA/Mount Clifton
+birth 1896-10
+death 1945
+
+#20200619_079 Herbert, John A. [Allen], Sr.
+player 1916 (Potomac); @P TR
+resides @ US/MD/Newport
+birth 1906-08-26
+death 1931-04-13
+
+#20200619_080 Hood, Robin A. [Bobbie]
+player 1916 (Potomac); @IF
+resides @ US/WV/Rivesville
+birth 1893-12-22
+death 1959
+
+#20200619_081 Howe, Oscar
+player 1916 (Potomac); @C
+resides @ US/PA/Harrisburg
+birth 1890
+death 1945-06-12
+
+#20200619_082 Jamison, Bruce "Soldier"
+player 1916 (Potomac); @P TR
+
+#20200619_083 Johnson, Humphrey [Hump]
+player 1916 (Potomac); @P
+resides @ US/MD/Cumberland
+
+#20200619_084 Jones, Charles L.
+player 1916 (Potomac); @OF
+
+#20200619_085 Jones, "Sleepy"
+player 1916 (Potomac); @P TR
+
+#20200619_086 Kane, Howard E. "Dutch; Paddy"
+player 1916 (Potomac); @C-OF-1B
+manager 1916 Piedmont (Potomac)
+resides @ US/MD/Baltimore
+birth 1889-09-22
+death 1918-12-09
+
+#20200619_087 Keener, Ray "Shotgun"
+player 1916 (Potomac); @OF
+manager 1916 Lonaconing (Potomac)
+resides @ US/WV/Taylor County
+birth 1884-04-24
+death 1947-05-17
+
+#20200619_088 Kelly, John
+player 1916 (Potomac); @OF
+
+#20200619_089 Kenny, Frank F.
+player 1916 (Potomac); @P TR
+resides @ US/WV/Piedmont
+
+#20200619_090 Knode, Kenneth T. "Mike"
+player 1916 (Potomac); @SS
+resides @ US/WV/Martinsburg
+birth 1895-11-08
+death 1980-12-20
+
+#20200619_091 Koroly, Michael J. [Mike]
+player 1916 (Potomac); @IF
+resides @ US/OH/Powhatan
+birth 1893-11-03
+death 1954-10-27
+
+#20200619_092 Laughlin, Joseph C. [Joe] "Mike"
+player 1916 (Potomac); @OF
+resides @ US/VA/Warren County
+birth 1878-11-16
+death 1957-04-01
+
+#20200619_093 Lee, Robert [Bobby]
+player 1916 (Potomac); @OF
+
+#20200619_094 Lippold, Charles R. "Hun"
+player 1916 (Potomac); @IF
+resides @ US/MD/Cumberland
+birth 1890-03-26
+death 1967-11-21
+
+#20200619_095 Lippold, Frank C. "Jock"
+player 1916 (Potomac); @C
+resides @ US/MD/Cumberland
+birth 1888-05-14
+death 1936
+
+#20200619_096 Long, George "Brindle"
+player 1916 (Potomac); @3B
+resides @ US/MD/Cumberland
+birth 1897-06-17
+death 1968-08-01
+
+#20200619_097 Marean, John E.
+player 1916 (Potomac); @OF
+resides @ US/MD/Cumberland
+birth 1887
+death 1947-05-07
+
+#20200619_098 Marshberger, Emory L. "Buck"
+player 1916 (Potomac); @P TR
+resides @ US/MD/Baltimore
+birth 1895-06-21
+death 1957-10-29
+
+#20200619_099 Martin, Louis F.
+player 1916 (Potomac); @SS
+resides @ US/MD/Baltimore
+birth 1892-12-27
+
+#20200619_100 McAndrews, Frank A.
+player 1916 (Potomac); @SS
+resides @ US/PA/Avoca
+birth 1896
+death 1952-08-22
+
+#20200619_101 McGuire, James F.
+manager 1916 Lonaconing (Potomac)
+resides @ US/MD/Cumberland
+birth 1887
+death 1955-09-23
+
+#20200619_102 McGuire, William [Bill]
+player 1916 (Potomac); @OF
+
+#20200619_103 McMullen, Eddie
+player 1916 (Potomac)
+
+#20200619_104 Miller
+player 1916 (Potomac); @P TR
+
+#20200619_105 Mitchell
+player 1916 (Potomac); @SS
+resides @ US/MD/Baltimore
+
+#20200619_106 Morgan, John P. [Jack]
+player 1916 (Potomac); @C
+resides @ US/IL/Clark
+birth 1888-07-01
+
+#20200619_107 Mortimer, George "Mick"
+player 1916 (Potomac); @IF
+
+#20200619_108 Mullen, Charles J. "Bill"
+player 1916 (Potomac); @SS
+resides @ US/PA/Harwood
+death 1994-08-18
+
+#20200619_109 Muster, Frank L. "War Horse"
+player 1916 (Potomac); @P TL
+resides @ US/OH/Powatan
+birth 1882-06-22
+death 1978-04-13
+
+#20200619_110 Nagle, John [Johnny]
+player 1916 (Potomac); @SS
+resides @ US/PA/Lancaster
+birth 1892
+
+#20200619_111 Needham, Patrick S.
+player 1916 (Potomac); @OF
+resides @ US/MA/Adams
+birth 1886-12-01
+
+#20200619_112 Newton, Solomon W. [Sol] "Doc"
+player 1916 (Potomac); @P
+resides @ US/NC/Thomasville
+birth 1893-09-25
+death 1970-06-20
+
+#20200619_113 Parmesano
+player 1916 (Potomac); @3B
+resides @ US/MD/Baltimore
+
+#20200619_114 Phillips, Joe "Hooker"
+player 1916 (Potomac); @OF-1B
+resides @ US/PA/Waynesburg
+birth 1882-10-24
+death 1956-08-25
+
+#20200619_115 Plaxico, G. C.
+player 1916 (Potomac); @OF
+resides @ US/MD/Baltimore
+
+#20200619_116 Porter, Charles C.
+player 1916 (Potomac); @SS
+
+#20200619_117 Price, Eddie
+player 1916 (Potomac); @P
+resides @ US/MD/Cumberland
+
+#20200619_118 Raab, Charles A., Sr.
+player 1916 (Potomac); @OF-P
+resides @ US/MD/Baltimore
+death 1954-04-26
+
+#20200619_119 Riggins, William M. [Bill]
+player 1916 (Potomac); @3B
+resides @ US/PA/Aliquippa
+birth 1889-08-18
+death 1955-04-29
+
+#20200619_120 Robinson
+player 1916 (Potomac); @P
+resides @ US/OH
+
+#20200619_121 Russler, J. Nelson W.
+manager 1916 Cumberland (Potomac)
+executive 1916 Cumberland (Potomac); title=President
+resides @ US/WV/Martinsburg
+birth 1878
+death 1957-08-13
+
+#20200619_122 Ryan, J.
+player 1916 (Potomac); @3B
+
+#20200619_123 Ryan, Edward [Eddie]
+player 1916 (Potomac); @C
+resides @ US/PA
+birth 1891-07-12
+death 1965-08-05
+
+#20200619_124 Salb, John Burke
+player 1916 (Potomac); @1B
+resides @ US/DC/Washington
+birth 1889-08-27
+death 1972-09-21
+
+#20200619_125 Salb, Leonard J. [Len]
+player 1916 (Potomac); @P TR
+resides @ US/DC/Washington
+birth 1896-04-28
+death 1980-01-25
+
+#20200619_126 Schafer, Clarence
+player 1916 (Potomac); @OF
+resides @ US/MD/Cumberland
+birth 1889
+death 1960-03-29
+
+#20200619_127 Schaufele, Benjamin [Ben]
+player 1916 (Potomac); @P
+resides @ US/MD/Baltimore
+birth 1890-12-05
+death 1968-06-09
+
+#20200619_128 Sisler
+player 1916 (Potomac); @C
+
+#20200619_129 Smith, Arthur T., Sr. "Shorty"
+player 1916 (Potomac); @SS
+resides @ US/MD/Relay
+birth 1895-01-17
+death 1986-12-26
+
+#20200619_130 Stafford, John Edward [Johnny]
+player 1916 (Potomac); @P TL
+resides @ US/PA/Philadelphia
+birth 1878-10-20
+death 1946-05-19
+
+#20200619_131 Stair, William H. [Bill]
+player 1916 (Potomac); @P TR
+resides @ US/PA/Huntingdon
+birth 1890
+death 1946-06-19
+
+#20200619_132 Tannehill, Alva Meade "Merle"
+player 1916 (Potomac); @P TR
+resides @ US/PA/Scottdale
+birth 1892-07-19
+death 1962-02-11
+
+#20200619_133 Tobey, Vernon B.
+player 1916 (Potomac); @P TR
+
+#20200619_134 Uhrig, Charles
+player 1916 (Potomac); @C
+resides @ US/KY/Louisville
+
+#20200619_135 Vereker, John "Tommy"
+player 1916 (Potomac); @P TR
+resides @ US/MD/Baltimore
+birth 1893-12-02
+death 1974-04-02
+
+#20200619_136 Wamsley, Porter G.
+player 1916 (Potomac); @OF
+resides @ US/MD/Baltimore
+birth 1891-06-20
+death 1962-10-01
+
+#20200619_137 Weisner
+player 1916 (Potomac); @2B
+resides @ US/MD/Balitmore
+
+#20200619_138 Whitworth, Donald P. [Don]
+player 1916 (Potomac); @OF
+resides @ US/WV/Ridgely
+birth 1891-04-29
+death 1969
+
+#20200619_139 Williams, J.
+player 1916 (Potomac); @P
+resides @ US/OH/Marietta
+
+#20200619_140 Williams, Bennie
+player 1916 (Potomac); @2B
+
+#20200619_141 Williams, Elmer E.
+player 1916 (Potomac); @1B
+resides @ US/MD/Hagerstown
+birth 1895
+death 1959-01-09
+
+#20200619_142 Zinnell, Frederick "Jake"
+player 1916 (Potomac); @OF
+resides @ US/MD/Baltimore
+birth 1894-08-07
+death 1967-01-01

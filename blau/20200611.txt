@@ -5,7 +5,7 @@ player 1914 Battle Axes of Richmond (Independent)
 player 1915 Savannah (Southern Association)
 notes on trial with Savannah
 
-____
+---
 
 !citation Newport News Daily Press @ 1915-08-12; page 5
 
@@ -13,7 +13,7 @@ ____
 player 1915 Battle Axes of Richmond (Independent)
 player 1915 Suffolk (Virginia)
 
-____
+---
 
 !citation Gettysburg Star and Sentinel @ 1915-06-17; page 2
 
@@ -22,7 +22,7 @@ player 1915 Hagerstown (Blue Ridge)
 player 1915 Petersburg (Virginia)
 notes signed with Hagerstown
 
------
+---
 
 !citation Roanoke World News @ 1915-04-10; page 6
 

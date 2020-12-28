@@ -3,7 +3,7 @@
 #20201126_001 Downey, Thomas
 player 1916 Lowell (Eastern)
 
-____
+---
 
 !citation Hartford Courant @ 1916-07-15; page 17
 
@@ -11,7 +11,7 @@ ____
 player 1916 Lowell (Eastern)
 player 1916 Harrisburg (New York State)
 
-____
+---
 
 !citation Fitchburg Sentinel @ 1916-09-05; page 6
 
@@ -19,7 +19,7 @@ ____
 player 1916 Lowell (Eastern)
 player 1915 Manchester (New England)
 
-____
+---
 
 !citation Fitchburg Sentinel @ 1916-05-23; page 6
 
@@ -28,7 +28,7 @@ player 1916 Portland (Eastern)
 player 1916 Lawrence (Eastern)
 player 1915 Fitchburg (New England)
 
-____
+---
 
 !citation Fitchburg Sentinel @ 1916-07-08; page 7
 
@@ -36,14 +36,14 @@ ____
 player 1916 Lowell (Eastern)
 player 1915 Fitchburg (New England)
 
-____
+---
 
 !citation Hartford Courant @ 1916-06-16
 
 #20201126_006 Whalen, John Dot
 player 1916 Worcester (Eastern)
 
-____
+---
 
 !citation Brattleboro Reformer @ 1916-07-05; page 5
 

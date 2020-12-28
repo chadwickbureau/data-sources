@@ -6,7 +6,7 @@ player 1916 Henderson (Kentucky-Illinois-Tennessee)
 acquired <=1916-08-18 by Cedar Rapids (Central Association) from Henderson 
 (Kentucky-Illinois-Tennessee) for cash
 
-____
+---
 
 !citation Cedar Rapids Gazette @ 1916-07-10; page 6
 
@@ -16,7 +16,7 @@ player 1916 Cedar Rapids (Central Association)
 acquired 1916-08-18 by Cedar Rapids (Central Association) with Harry Shanley
 and Grover Baichley from Burlington (Central Association)
 
-____
+---
 
 !citation Cedar Rapids Gazette @ 1917-04-13; page 6
 
@@ -24,7 +24,7 @@ ____
 player 1917 Cedar Rapids (Central Association)
 
 
-____
+---
 
 !citation Buffalo Times @ 1923-04-12; page 15
 
@@ -40,7 +40,7 @@ player 1922 Waynesboro (Blue Ridge); BR TR
 #20201015_007 Kane, Leo
 player 1922 Hartford (Eastern); BR TR
 
-____
+---
 
 !citation Buffalo Times @ 1923-04-12; page 15
 
@@ -49,7 +49,7 @@ player 1925 Clarksburg (Middle Atlantic)
 acquired <=1925-08-25 by New York (National) from Clarksburg (Middle Atlantic) for
 cash
 
-____
+---
 
 !citation Marshalltown Times-Republican @ 1916-08-28; page 8
 
@@ -57,7 +57,7 @@ ____
 player 1916 Marshalltown (Central Association)
 player 1910 Memphis (Southern Association)
 
-____
+---
 
 !citation Marshalltown Times-Republican @ 1916-07-27; page 10
 
@@ -69,14 +69,14 @@ resigned 1916-07-26
 player 1916 Mason City (Central Association)
 player 1916 Wilkes-Barre (New York State)
 
-____
+---
 
 !citation Cedar Rapids Gazette @ 1916-08-15; page 6
 
 #20201015_012 Audler, Bill
 player 1916 Mason City (Central Association)
 
-____
+---
 
 !citation Marshalltown Times-Republican @ 1917-05-09; page 10
 
@@ -84,7 +84,7 @@ ____
 player 1916 Marshalltown (Central Association)
 player 1917 Marshalltown (Central Association)
 
-____
+---
 
 !citation Muscatine News-Tribune @ 1916-06-16; page 8
 
@@ -92,7 +92,7 @@ ____
 player 1916 Muscatine (Central Association)
 
 
-____
+---
 
 !citation Cedar Rapids Gazette @ 1916-05-13; page 10
 
@@ -100,7 +100,7 @@ ____
 player 1916 Burlington (Central Association)
 player 1916 Mason City (Central Association)
 
-____
+---
 
 !citation Waterloo Courier @ 1916-08-17; page 8
 
@@ -108,7 +108,7 @@ ____
 player 1916 Waterloo (Central Association)
 player 1914 Sioux City (Western)
 
-____
+---
 
 !citation St. Joseph Gazette @ 1910-05-18; page 7
 
@@ -116,14 +116,14 @@ ____
 player 1910 Minneapolis (American Association)
 player 1916 Cedar Rapids (Central Association)
 
-____
+---
 
 !citation Dayton Herald @ 1916-04-06; page 14
 
 #20201015_018 Leibrock, Paul
 player 1916 Dayton (Central)
 
-____
+---
 
 !citation Dayton Daily News @ 1916-06-25; page 26
 
@@ -132,14 +132,14 @@ player 1916 Dayton (Central)
 player 1916 Huntington (Ohio State); TR
 notes has drawing of him
 
-____
+---
 
 !citation Dayton Herald @ 1916-07-22; page 10
 
 #20201015_020 Varley, Bill
 player 1916 Dayton (Central)
 
-____
+---
 
 !citation Belding (MI) Banner @ 1916-06-28; page 4
 

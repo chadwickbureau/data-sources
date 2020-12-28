@@ -1,6 +1,16 @@
-!citation Glens Falls Post-Star 1937-08-04; page 8
+!citation Glens Falls Post-Star @ 1937-08-04; page 8
  
 #202011_001 Telisky, John "Bull"
 describe ; TR
 player 1937 Trenton (New York-Pennsylvania); @P
 resides 1937 @ US/NY/Granville
+
+---
+
+!citation Blackwell Daily News @ 1914-09-15
+!file Clarence_Vaught_is_Cy_Morgan.pdf
+
+#202011_002 Vaught, Clarence
+alias Morgan, Cy; dates=1914/
+player 1914 Muskogee (Western Association)
+player 1914 Wichita (Western)
