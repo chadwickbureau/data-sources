@@ -1,0 +1,132 @@
+!citation McAlester News-Capital @ 1915-08-28; page 6
+
+#20200702_001 Lewis, Shelby
+player 1915 McAlester (Western Association); BR TL
+resides 1915@US/TX/Waco
+
+#20200702_002 Ownby, Ralph
+player 1915 McAlester (Western Association); BL TL
+resides 1915@US/TX/Trenton
+
+#20200702_003 Jordan, Walker
+player 1915 McAlester (Western Association); BL TR
+resides 1915@US/TX/Grandview
+
+#20200702_004 Mickey, Floyd
+player 1915 McAlester (Western Association); BR TR
+resides 1915@US/OK/Comanche
+
+#20200702_005 Herriott, Frank
+player 1915 McAlester (Western Association); BL TL
+resides 1915@US/IL/Canton
+
+#20200702_006 McGee, Walter
+player 1915 McAlester (Western Association); BR TR
+resides 1915@US/MS/Jackson
+
+#20200702_007 Yardley, Finley
+player 1915 McAlester (Western Association); BL TR
+resides 1915@US/TX/Waco
+
+#20200702_008 Heatley, Ralph
+player 1915 McAlester (Western Association); BR TR
+resides 1915@US/OK/Mangum
+
+#20200702_009 Besse, Otto
+player 1915 McAlester (Western Association); BL TR
+resides 1915@US/MS/Vicksburg
+
+____
+
+!citation Nineteenth Century Notes @ Summer 1920; page 1
+
+#20200702_010 Thompson, Tug
+player 1882 Philadelphia (League Alliance)
+player 1882 Cincinnati (American Association)
+
+----
+
+!citation Muskogee Times-Democrat @ 1915-08-12; page 7
+
+#20200702_011 O'Neal, Dude
+player 1915 Muskogee (Western Association); TL
+
+
+----
+
+!citation Muskogee Times-Democrat @ 1915-11-01; page 7
+
+#20200702_012 Grigg, Cecil
+player 1915 Sherman (Western Association)
+
+#20200702_013 Halley, Arthur
+player 1915 Muskogee (Western Association)
+
+----
+
+!citation Muskogee Times-Democrat @ 1915-07-23; page 9
+
+#20200702_014 Halley, Jip
+player 1915 Muskogee (Western Association)
+player <1915 (Nebraska State)
+
+----
+
+!citation Muskogee Times-Democrat @ 1915-04-29; page 7
+
+#20200702_015 Powell, Sam
+player 1915 Muskogee (Western Association)
+
+----
+
+!citation Detroit Free Press @ 1927-05-19; page 17
+
+#20200702_016 Meade, Eddie
+player 1927 St. Paul (American Association)
+death 1927-05-18@US/MN/St. Paul
+notes suicide
+
+----
+
+!citation Muskogee Times-Democrat @ 1915-05-11; page 7
+
+#20200702_017 Samuels
+player 1915 Sherman (Western Association); @C
+
+----
+
+!citation Blackwell (OK) Daily News @ 1915-05-07; page 3
+
+#20200702_018 Samuels, Bill
+player 1915 Sherman (Western Association)
+player <=1915 Hutchinson (Kansas State)
+
+----
+
+!citation Daily Arkansas Gazette @ 1915-06-29; page 9
+
+#20200702_019 Farrell, Morris
+player 1915 Paris (Western Association)
+player 1915 Little Rock (Southern Association)
+
+----
+
+!citation Tulsa Democrat @ 1915-02-18; page 7
+
+#20200702_020 Kelsey, George
+player 1915 Tulsa (Western Association)
+manager 1915 Tulsa (Western Association)
+
+----
+
+!citation Dallas Morning News @ 1915-02-28; page 8
+
+#20200702_021 Brooks, Dugan
+player 1915 Denison (Western Association)
+
+----
+
+!citation Bryan County Democrat @ 1913-05-08; page 3
+
+#20200702_022 Brooks, B. L. [Dugan]
+player 1913 Denison (Texas-Oklahoma)

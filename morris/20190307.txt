@@ -1,0 +1,55 @@
+!citation  Salina Daily Union 1916-03-24; page 7
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#20190307_001 Lamb, Bert
+player 1916 Tulsa (Western Association); @3B
+
+---
+
+!citation  Salina Daily Union 1916-05-25; page 1
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#20190307_002 Lamb, Bert
+player 1916 Tulsa (Western Association); @3B
+
+#20190307_003 McCoy
+player 1916 Tulsa (Western Association); @P
+player 1914 Salina (Kansas State)
+
+---
+
+!citation  Muskogee Times-Democrat 1916-08-30; page 11
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#20190307_004 Lamb, Bert
+player 1916 Tulsa (Western Association); @3B
+
+---
+
+!citation  Lincoln Star 1916-04-18; page 9
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#20190307_005 Lamb, Lyman
+player 1916 Saratogas (Lincoln City) [caliber=semi-pro]
+player 1915 Wichita (Western)
+player 1915 Keokuk (Central Association)
+
+---
+
+!citation  Lincoln Star 1916-05-07; page 9
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#20190307_006 Lamb, Lyman
+player 1916 Lincoln Cleaing & Dye Works (Lincoln City) [caliber=semi-pro]
+player 1915 Fairbury (Nebraska State)
+player 1915 Wichita (Western)
+player 1915 Keokuk (Central Association)
+
+---
+
+!citation  Lincoln Star 1916-07-04; page 8
+!contributor Jack Morris <jackmo77@comcast.net>
+
+#20190307_007 Lamb, Lyman
+player 1916 Saratogas (Lincoln City) [caliber=semi-pro]
+

@@ -1,0 +1,4057 @@
+!citation Hartford Courant @ 1910-06-14; page 10
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+
+#20201005_001 Hoernle, Charles
+player 1910 Hartford (Connecticut State)
+player 1910 Lowell (New England)
+college Tufts University
+player < 1910 Brown University; caliber=college
+
+---
+
+!citation Hartford Courant @ 1910-06-21; page 14
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_002 Vann, J. S.
+player 1910 New Britain (Connecticut State)
+player 1910 University of Arkansas; caliber=college
+player < 1910 Hutchinson (Western Association)
+note: photo
+
+#20201005_003 Moore, Eugene
+player 1910 New Britain (Connecticut State); @P TL
+player < 1910 Dallas (Texas)
+note: photo
+
+---
+
+!citation Hartford Courant @ 1910-07-09; page 14
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_004 Genest
+player 1910 New Britain (Connecticut State)
+player 1910 Utica (New York State)
+
+---
+
+!citation Hartford Courant @ 1910-07-26; page 10
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_005 Smith, Sammy
+player 1910 Hartford (Connecticut State); @P TR
+note: picture
+
+#20201005_006 Colvin, Charles
+player 1910 Hartford (Connecticut State)
+note: picture
+
+---
+
+!citation Hartford Courant @ 1910-04-21; page 16
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_007 Plummer, Tom
+player 1910 New Britain (Connecticut State)
+resides 1910 @ US/OH/Van Wert
+
+---
+
+!citation Hartford Courant @ 1910-04-22; page 16
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_008 Petrick, E. L.
+player 1910 New Britain (Connecticut State); age 22
+resides 1910 @ US/NJ/Jersey City
+
+#20201005_009 O'Brien, F.
+player 1910 New Britain (Connecticut State); @C age 24
+resides 1910 @ US/MA/Sullivan Falls
+player 1908 Biddeford (Maine State)
+player 1907 Portland (Maine State)
+
+#20201005_010 Wood, John
+player 1910 New Britain (Connecticut State); age 21
+resides 1910 @ US/NY/Syracuse
+player 1909 Syracuse; caliber=semi-pro
+
+#20201005_011 Gorman, James
+player 1910 New Britain (Connecticut State)
+resides 1910 @ US/PA/Warren
+
+---
+
+!citation Fort Worth Record and Register @ 1905-05-21; page 16
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_012 Harris
+player 1905 Fort Worth (Texas)
+player 1905 Temple (Texas)
+
+---
+
+!citation Fort Worth Record and Register @ 1905-06-25; page 13
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_013 Killila
+player 1905 Austin (Texas)
+player 1905 Dallas (Texas)
+
+#20201005_014 Bridges
+player 1905 Dallas (Texas)
+player 1905 New Orleans (Southern Assocition)
+
+---
+
+!citation Fort Worth Record and Register @ 1905-07-01; page 2
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_015 Moran
+player 1905 Galveston (South Texas)
+player 1905 Fort Worth (Texas)
+
+---
+
+!citation Fort Worth Record and Register @ 1905-07-02; page 6
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_016 Spencer, Edward
+player 1905 Waco
+sold 1905-07-01 by Waco (Texas) to St. Louis (American)
+
+#20201005_017 Railing, Tom
+player 1905 Dallas (Texas)
+sold 1905-07-01 by Dallas (Texas) to Milwaukee (American Association)
+
+---
+
+!citation The Galveston Daily News @ 1911-03-12; page 8
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_018 Thebo, Tony
+player 1911 Dallas (Texas); W170
+
+#20201005_019 Hirsch, Waller
+player 1911 Dallas (Texas); W190
+
+#20201005_020 Fulmer, C. J.
+player 1911 Dallas (Texas); W167 age 22
+resides 1911 @ US/PA/Johnson
+
+---
+
+!citation The Galveston Daily News @ 1911-03-19; page 8
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_021 Hoyt, Harry
+describe H66 W155 TL
+player 1911 San Antonio (Texas); @P 
+resides 1911 @ US/MI/Hastings
+
+#20201005_022 Carr, James
+describe H70 W165
+player 1911 San Antonio (Texas); @P 
+player 1910 Carr's Blues; caliber=semi-pro; location=US/MO/St. Louis
+resides 1911 @ US/MO/St. Louis
+
+#20201005_023 Lemon, Lee
+describe H68 W155
+player 1911 San Antonio (Texas); @C 
+resides 1911 @ US/IN/Anderson
+
+#20201005_024 Metz, Frank
+describe H74 W200 BB
+player 1911 San Antonio (Texas); @1B 
+resides 1911 @ US/CO/Boulder
+
+#20201005_025 Firestine, Omar
+describe H70 W155
+player 1911 San Antonio (Texas); @3B 
+resides 1911 @ US/IN/Indianapolis
+
+#20201005_026 Wallace, Robert
+describe H68 W150 BL
+player 1911 San Antonio (Texas); @SS 
+player 1909 Galveston (Texas)
+player 1910 Logan Squares; location=US/IL/Chicago
+
+#20201005_027 Thrailkill, L. C.
+describe H69 W170
+player 1911 San Antonio (Texas); @3B 
+player 1907 Chanute (Kansas State)
+player 1908 Hutchinson (Kansas State)
+player 1910 Minneapolis (American Association)
+resides 1911 @ US/OK/Chickasha
+
+#20201005_028 Altmann, Hugo
+describe H69 W155
+player 1911 San Antonio (Texas); @3B 
+resides 1911 @ US/TX/San Antonio
+
+#20201005_029 Brewer, Arthur
+describe H66 W150
+player 1911 San Antonio (Texas); @OF 
+resides 1911 @ US/OH/Dayton
+
+---
+
+!citation Altoona Times @ 1903-10-05; page 3
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_030 Davis, Elmer E.
+describe H72 W176
+player 1903 Altoona; caliber=semi-pro; age 27
+player 1902 Altoona; caliber=semi-pro
+player 1901 Homestead; caliber=semi-pro; location=US/PA/Homestead
+player 1900 Punxsutawney; caliber=semi-pro
+player 1899 Schenectady (New York State)
+player 1898 Flood City; caliber=semi-pro; location=US/PA/Flood City
+player 1896 Belle Vernon; caliber=semi-pro; location=US/PA/Belle Vernon
+player 1895 Sharon (Iron And Oil)
+resides 1903 @ US/PA/Homestead
+
+#20201005_031 Doherty, James J.
+player 1903 Altoona; caliber=semi-pro; H67.5 W150
+player 1903 Williamsport; caliber=semi-pro
+player 1903 Wilmington; caliber=semi-pro; location=US/DE/Wilmington
+player 1902 Altoona; caliber=semi-pro
+player 1901 Jamestown; caliber=semi-pro
+player 1900 Dubois; caliber=semi-pro
+player 1899 Morris Plains; caliber=semi-pro; location=US/NY/Morris Plains
+player 1898 Honesdale; caliber=semi-pro; location=US/PA/Honesdale
+birth @ US/PA/Scranton
+
+#20201005_032 Cooper, James
+birth @ US/PA/Pittsburgh
+player 1903 Altoona; caliber=semi-pro
+player 1903 Nashville (Southern Association)
+player 1902 Wheeling; caliber=semi-pro
+player 1900 Painesville; caliber=semi-pro; location=US/OH/Painesville
+player 1899 Milwaukee (Western)
+player 1898 Youngstown (Interstate)
+player 1897 Youngstown (Interstate)
+player 1896 Hazleton (Pennsylvania State)
+player 1896 Warren; caliber=semi-pro
+
+#20201005_033 Hollis, Harvey C.
+player 1903 Altoona; caliber=semi-pro; @P H72 W190; age 30
+player 1902 Toronto (Eastern)
+player 1902 Amsterdam-Gloversville-Johnstown (New York State)
+player 1901 Homestead; caliber=semi-pro; location=US/PA/Homestead
+player 1896 Greensburg; caliber=semi-pro; location=US/PA/Greensburg
+player 1895 Elmira (New York State)
+player 1895 Jamestown; caliber=semi-pro; location=US/NY/Jamestown
+player 1894 Harrisburg (Pennsylvania State)
+
+---
+
+!citation The Shreveport Journal @ 1929-03-26; page 10
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_034 Galeria, Arthur Francis
+birth 1906-10-10 @ US/CA/Oakland
+describe H71 W160 BR TL
+player 1928 Abilene (West Texas)
+player 1928 Wichita Falls (Texas)
+player 1929 Wichita Falls (Texas)
+
+---
+
+!citation The Tennessean @ 1923-02-17; page 12
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_035 Kohlbecker, Frank
+describe H70 W170 BR TR
+player 1919 Nashville (Southern Association)
+player 1920 Nashville (Southern Association)
+player 1920 Little Rock (Southern Association)
+player 1921 Little Rock (Southern Association)
+player 1921 Meridian (Cotton States)
+player 1922 Meridian (Cotton States)
+manager 1922 Meridian (Cotton States)
+player 1923 Memphis (Southern Association); 
+birth 1896-12-05 @ US/OH/Cincinnati
+
+---
+
+!citation The Birmingham News @ 1923-02-23; page 18
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_036 Guess, Carl
+birth 1897-08-20 @ US/OH/Carrollton
+describe H72 W195 BR TR
+player 1922 Cleveland (American)
+player 1922 Nashville (Southern Association)
+player 1922 Corsicana (Texas-Oklahoma)
+player 1923 Chattanooga (Southern Association); 
+
+---
+
+!citation The Birmingham News @ 1923-02-25; page 54
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_037 Morgan, George
+birth 1896-06-21 @ US/OH/Batesville
+describe H71 W165 BR TR
+player 1919 Newport News (Virginia)
+player 1920 Newport News (Virginia)
+player 1920 Birmingham (Southern Association)
+player 1921 Philadelphia (National)
+player 1921 Rochester (International)
+player 1922 Philadelphia (National)
+player 1922 Albany (Eastern)
+player 1923 Nashville (Southern Association); @P 
+
+---
+
+!citation The Birmingham News @ 1923-03-07; page 15
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_038 Polson, Harold G.
+birth 1896-04-02 @ US/IA/Hiteman
+describe H71 W170 BR TR
+player 1915 Hopkinsville (Kentucky-Illinois-Tennessee)
+player 1916 Fort Dodge (Central Association)
+player 1917 Denison (Western Association)
+player 1918 Shreveport (Texas)
+player 1919 San Antonio (Texas)
+player 1920 Detroit (American)
+player 1920 Portland (Pacific Coast)
+player 1921 Portland (Pacific Coast)
+player 1921 Salt Lake (Pacific Coast)
+player 1923 New Orleans (Southern Association); @P 
+
+---
+
+!citation The Birmingham News @ 1923-03-09; page 24
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_039 Meekin, William James
+birth 1901-06-04 @ US/AL/Wylam
+describe H70.5 W160 BL TR
+player 1919 Ensley; caliber=semi-pro; location=US/AL/Ensley
+player 1920 Sipsey; caliber=semi=pro; location=US/AL/Sipsey
+player 1921 Sipsey; caliber=semi=pro; location=US/AL/Sipsey
+player 1922 Talladega; caliber=semi-pro; location=US/AL/Talladega
+player 1922 Leeds; caliber=semi-pro; location=US/AL/Leeds
+player 1923 Birmingham (Southern Association); @2B 
+
+---
+
+!citation The Birmingham News @ 1923-03-11; page 37
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_040 Green, Paul Ervin
+birth 1899-08-16 @ US/IN/Terre Haute
+describe H66.5 W155 BR TR
+player 1922 Edmonton (Western International)
+player 1923 Chattanooga (Southern Association); @3B 
+
+---
+
+!citation The Birmingham News @ 1923-03-12; page 11
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_041 Gordonier, Raymond G.
+birth 1896-04-11 @ US/NY/Rochester
+describe H68 W179 BB TR
+player 1915 Philadelphia (American)
+player 1915 Newport News (Virginia)
+player 1916 Newport News (Virginia)
+player 1917 St. Louis (National)
+player 1917 Lincoln (Western)
+player 1917 Springfield (Eastern)
+player 1918 Rochester (International)
+player 1919 Houston (Texas)
+player 1919 Buffalo (International)
+player 1920 Buffalo (International)
+player 1921 Buffalo (International)
+player 1921 Brooklyn (National)
+player 1922 Brooklyn (National)
+player 1922 Rochester (International)
+player 1922 Reading (International)
+player 1923 Memphis (Southern Association); @P 
+
+---
+
+!citation The Birmingham News @ 1923-03-15; page 16
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_042 Randolph, Harry Fritz
+birth 1900-04-10 @ US/PA/Dickerson Run
+describe H72 W200 BR TR
+player 1922 Greenville (Cotton States)
+player 1923 Birmingham (Southern Association); @P 
+college Bethany College
+
+---
+
+!citation The Birmingham News @ 1923-03-21; page 17
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_043 Gray, William Elmer
+birth 1902-03-26 @ US/TN/Baileyton
+describe H72 W190 BR TR
+player 1922 Johnson City (Appalachian)
+player 1923 Birmingham (Southern Assocation); @P 
+college Maryville College @ US/TN
+
+---
+
+!citation The Birmingham News @ 1923-03-26; page 10
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_044 Daniels, Thomas Carroll
+birth 1889-08-09 @ US/MS/Meridian
+describe H70 W170 BR TR
+player 1921 Meridian (Cotton States)
+player 1922 Spartanburg (South Atlantic)
+player 1923 Birmingham (Southern Association); @P 
+
+---
+
+!citation The Birmingham News @ 1923-03-28; page 17
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_045 Boyd, Hugh William
+birth 1897-07-16 @ US/IA/Russell
+describe H68 W142 BR TR
+player 1919 Des Moines (Western)
+player 1920 Des Moines (Western)
+player 1921 Memphis (Southern Association)
+player 1921 Greenwood (Cotton States)
+player 1922 Greenwood (Cotton States)
+player 1923 Memphis (Southern Association); @P 
+
+---
+
+!citation The Birmingham News @ 1923-03-29; page 19
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_046 Smith, Lloyd R.
+birth 1897-01-26 @ US/NC/Greensboro
+describe H71 W164 BL TR
+player 1920 Greensboro (Piedmont)
+player 1921 Greensboro (Piedmont)
+player 1922 Boston (National)
+player 1922 Galveston (Texas)
+player 1922 Shreveport (Texas)
+player 1923 New Orleans (Southern Association); @1B 
+
+#20201005_047 Spates, Fred
+describe BR TR
+player 1923 New York (American); @P 
+college Brown University
+
+#20201005_048 Suggs, John
+describe BL TL
+player 1922 Memphis (Southern Association)
+player 1923 New York (American); @P 
+
+---
+
+!citation The Birmingham News @ 1923-04-03; page 16
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_049 Schulte, Leo W.
+birth 1900-06-03 @ US/IN/Holland
+describe H68.5 W147 BR TR
+player 1922 Madisonville (Kentucky-Illinois-Tennessee)
+player 1923 Chattanooga (Southern Association); @OF 
+
+---
+
+!citation The Birmingham News @ 1923-04-04; page 15
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_050 Bates, D. J.
+describe BL TR
+player 1922 Birmingham (Southern Association)
+player 1923 Detroit (American); @P 
+
+#20201005_051 Gillman, Charles H.
+describe BR TR
+player 1922 Spartanburg (South Atlantic)
+player 1923 Detroit (American); @P 
+
+---
+
+!citation The Birmingham News @ 1923-04-06; page 29
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_052 Feigert, A. E.
+describe BL TL
+player 1922 Flint (Michigan-Ontario)
+player 1923 Pittsburgh (National); @P 
+
+#20201005_053 Foulk, D.
+describe BR TR
+player 1922 Grand Island (Nebraska State)
+player 1923 Pittsburgh (National); @P 
+
+#20201005_054 Fulweiler, Harold
+describe BR TR
+player 1922 Grand Rapids (Central)
+player 1923 Pittsburgh (National); @P 
+
+---
+
+!citation The Birmingham News @ 1923-04-10; page 15
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_055 Brenner, Herbert
+birth 1900-09-13 @ US/OH/Cincinnati
+describe H71 W174 BR TR
+player 1921 Lindale (Georgia State)
+player 1921 Atlanta (Southern Association)
+player 1921 Birmingham (Southern Association)
+player 1922 Meridian (Cotton States)
+player 1923 Birmingham (Southern Association); @1B 
+
+#20201005_056 Brown, Clarence
+describe BR TR
+player 1922 Danville (Illinois-Indiana-Iowa)
+player 1923 Brooklyn (National); @P 
+
+---
+
+!citation The Birmingham News @ 1923-04-11; page 13
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_057 Eiffert, Paul
+birth 1895-03-17 @ US/IA/Westside
+describe H71 W185 BL TR
+player 1917 Lincoln (Western)
+player 1919 Sioux City (Western)
+player 1920 Sioux City (Western)
+player 1921 Houston (Texas)
+player 1922 Houston (Texas)
+player 1923 Nashville (Southern Association); @C 
+college Morningside College
+
+#20201005_058 Beach, Henry K.
+describe BR TR
+player 1922 Cairo (Kentucky-Illinois-Tennessee)
+player 1923 Washington (American); @P 
+
+#20201005_059 Brogan, Godfrey
+describe BL TL
+player 1922 Charleston (South Atlantic)
+player 1923 Washington (American); @P 
+
+---
+
+!citation The Birmingham News @ 1923-04-13; page 28
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_060 Manning, William A.
+describe BR TR
+player 1922 Portsmouth (Virginia)
+player 1923 Philadelphia (National); @P 
+
+#20201005_061 Kaunas, Bernard
+describe BR TR
+player 1922 Waynesboro (Blue Ridge)
+player 1923 Philadelphia (National)
+
+#20201005_062 Kane, Leo
+describe BR TR
+player 1922 Hartford (Eastern)
+player 1923 Philadelphia (National)
+
+---
+
+!citation The Tennessean @ 1924-01-17; page 9
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_063 Fort, Charles Franklin
+birth 1904-07-18 @ US/MO/St. Joseph
+describe H73.5 W185 BL TL
+player 1923 Paducah (Kentucky-Illinois-Tennessee)
+player 1924 Chattanooga (Southern Association); @P 
+
+---
+
+!citation The Tennessean @ 1924-01-19; page 9
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_064 Sanders, Wayland
+birth 1901-02-16 @ US/TX/Plainview
+describe H72 W155 BL TL
+player 1923 Little Rock (Southern Association)
+player 1924 Little Rock (Southern Association); @1B 
+college Southern Methodist University
+
+---
+
+!citation The Tennessean @ 1924-01-25; page 15
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_065 Young, Alfred James
+birth 1901-12-04 @ US/PA/Philadelphia
+describe H72 W162 BR TR
+player 1921 Bethlehem (Bethlehem Steel); caliber=semi-pro; location=US/PA/Bethlehem
+player 1922 Reading (International)
+player 1922 Newark (International)
+player 1923 Augusta (South Atlantic)
+player 1924 Birmingham (Southern Association); @1B 
+college Swarthmore College
+
+---
+
+!citation The Tennessean @ 1924-02-01; page 12
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_066 Newberry, Frederick Samuel
+birth 1902-11-18 @ US/TN/Wartburg
+describe H74 W176 BL TL
+player 1923 Charleston (South Atlantic)
+player 1924 Atlanta (Southern Association); @P 
+
+---
+
+!citation The Tennessean @ 1924-02-13; page 10
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_067 Brake, Dewey Hobson
+birth 1899-05-24 @ US/AL/Watson
+describe H71 W180 BR TL
+player 1923 Little Rock (Southern Association)
+player 1924 Little Rock (Southern Association); @P 
+
+---
+
+!citation The Tennessean @ 1924-02-14; page 13
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_068 McBride, Edgar Hastings
+birth 1893-04-11 @ US/AL/Mobile
+describe H69.5 W148 BR TR
+player 1917 Anniston (Georgia-Alabama)
+player 1920 New Iberia (Louisiana State)
+player 1920 Augusta (South Atlantic)
+player 1921 High Point (Piedmont)
+player 1922 High Point (Piedmont)
+player 1922 Jackson (Cotton States)
+player 1923 Jackson (Cotton States)
+player 1923 Little Rock (Southern Association)
+player 1924 Mobile (Southern Association); @P 
+
+---
+
+!citation The Tennessean @ 1925-02-15; page 13
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_069 Saladna, John George
+birth 1898-05-26 @ US/PA/United
+describe H75.5 W195 BR TR
+player 1922 Brantford (Michigan-Ontario)
+player 1923 Kansas City (American Association)
+player 1924 Kansas City (American Association)
+player 1924 Oklahoma City (American Association)
+player 1925 Little Rock (Southern Association); @P 
+
+---
+
+!citation The Tennessean @ 1925-02-16; page 8
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_070 McCay, Charles Earl
+birth 1900-06-20 @ US/TN/Ducktown
+describe H71.5 W190 BR TR
+player 1921 (Chattanooga City League); caliber=semi-pro; location=US/TN/Chattanooga
+player 1922 (Chattanooga City League); caliber=semi-pro; location=US/TN/Chattanooga
+player 1923 Piedmont; caliber=semi-pro; location=US/AL/Piedmont
+player 1924 Piedmont; caliber=semi-pro; location=US/AL/Piedmont
+player 1924 Cynthiana (Blue Grass)
+player 1925 Chattanooga (Southern Association); @P 
+
+---
+
+!citation The Tennessean @ 1925-02-19; page 11
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_071 Thompson, Bernice
+birth 1903-12-28 @ US/SC/McColl
+describe H71 W170 BR TR
+player 1924 New York (American); note=spring training
+player 1924 Winston-Salem (Piedmont)
+player 1925 Atlanta (Southern Association); @P 
+college Georgia School of Technology
+
+---
+
+!citation The Tennessean @ 1925-02-25; page 10
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_072 Sloan, Thomas Francis
+birth 1895-12-12 @ US/PA/Pittsburgh
+describe H72 W175 BR TR
+player 1915 Valdosta (Florida-Alabama-Georgia)
+player 1916 Baltimore (International)
+player 1916 Gettysburg (Blue Ridge)
+player 1920 Hartford (Eastern)
+player 1921 Hartford (Eastern)
+player 1922 Hartford (Eastern)
+player 1923 Hartford (Eastern)
+player 1924 Hartford (Eastern)
+player 1925 New Orleans (Southern Association); @P 
+
+---
+
+!citation The Tennessean @ 1925-02-28; page 12
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_073 Williams, Luke Arthur
+birth 1902-09-28 @ US/MS/Chicord
+describe H73 W180 BL TL
+player 1923 Jackson (Cotton States)
+player 1923 Portsmouth (Virginia)
+player 1924 Bartlesville (Western Association)
+player 1924 Little Rock (Southern Association)
+player 1925 Little Rock (Southern Association); @1B 
+
+---
+
+!citation The Tennessean @ 1925-03-15; page 13
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_074 Kelly, Francis Patrick
+birth 1904-04-17 @ US/CO/Glenwood Springs
+describe H67 W166 BL TR
+player 1924 Waco (Texas Association)
+player 1925 Atlanta (Southern Association); @OF 
+college University of Arizona
+
+---
+
+!citation The Tennessean @ 1925-03-19; page 10
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_075 Jolliff, James Taylor
+birth 1898-01-19 @ US/VA/Cape Charles
+describe H71 W185 BR TR
+player 1917 Richmond (International)
+player 1918 Richmond (Virginia)
+player 1919 Richmond (Virginia)
+player 1919 Newport News (Virginia)
+player 1920 Wilson (Virginia)
+player 1921 Wilson (Virginia)
+player 1922 Wilson (Virginia)
+player 1923 Wilson (Virginia)
+player 1923 Portsmouth (Virginia)
+player 1924 Portsmouth (Virginia)
+player 1925 Mobile (Southern Association); @P 
+college Richmond University
+
+---
+
+!citation The Tennessean @ 1925-03-25; page 10
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_076 Klindworth, Martin Ethbert
+birth 1901-09-28 @ US/KS/Kansas City
+describe H70.5 W163 BR TR
+player 1921 Greenville (Delta)
+player 1922 St. Louis (National)
+player 1922 Paducah (Kentucky-Illinois-Tennessee)
+player 1923 Brookhaven; caliber=semi-pro; location=US/MS/Brookhaven
+player 1924 Brookhaven (Cotton States)
+player 1925 Memphis (Southern Association); @C 
+college Mississippi Agricultural and Mechanical College
+
+---
+
+!citation The Tennessean @ 1925-04-01; page 9
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_077 Rhinehardt, George Bennett
+birth 1900-11-04 @ US/SC/Spartanburg
+describe H71 W180 BL TL
+player 1920 Charlotte (South Atlantic)
+player 1923 Greenville (South Atlantic)
+player 1923 Atlanta (Southern Association)
+player 1924 Greenville (South Atlantic)
+player 1925 Memphis (Southern Association); @OF 
+
+---
+
+!citation The Tennessean @ 1925-04-06; page 9
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_078 Lind, Otto
+birth 1903-04-25 @ US/TX/Austin
+describe H71 W170 BR TR
+player 1923 Austin (Texas Association)
+player 1923 Roswell (Panhandle-Pecos Valley)
+player 1924 Temple (Texas Association)
+player 1925 New Orleans (Southern Association); @1B 
+
+---
+
+!citation The Tennessean @ 1925-04-07; page 8
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_079 Ewing, Alvan Falls
+birth 1903-08-17 @ US/TN/Hartsville
+describe H72 W185 BR TR
+player 1924 Cynthiana (Blue Grass)
+player 1924 Lexington (Blue Grass)
+player 1924 Chattanooga (Southern Association)
+player 1925 Chattanooga (Southern Association); @P 
+
+---
+
+!citation The Tennessean @ 1925-04-08; page 5
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_080 Lewis, Edward
+birth 1903-12-08 @ US/MO/St. Louis
+describe H65 W145 BL TL
+player 1922 Cedar Rapids (Mississippi Valley)
+player 1922 Pittsburgh (National)
+player 1923 Peoria (Illinois-Indiana-Iowa)
+player 1923 Moline (Illinois-Indiana-Iowa)
+player 1924 Burlington (Mississippi Valley)
+player 1924 Marshalltown (Mississippi Valley)
+player 1924 Cedar Rapids (Mississippi Valley)
+player 1925 Nashville (Southern Association); @OF 
+
+---
+
+!citation The Post-Standard @ 1955-02-13; page 60
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_081 Battavio, Paul
+birth 1930-07-03 @ US/PA/Lansdale
+describe H70 W170 BR TR
+player 1954 Trois-Rivieres (Provincial)
+player 1955 Syracuse (International)
+
+#20201005_082 Pedretti, John
+birth 1932-10-03 @ US/NY/Woodside
+describe H73 W200 BR TR
+player 1954 Bradford (PONY)
+player 1955 Syracuse (International)
+
+---
+
+!citation The Minneapolis Star @ 1928-01-12; page 13
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_083 Doljack, John Ferd
+birth 1907-02-01 @ US/OH/Cleveland
+describe H68 W153 BB TR
+player 1927 Fairmont (Middle Atlantic)
+player 1928 Columbus (American Association)
+college Western Reserve University
+
+---
+
+!citation The Minneapolis Star @ 1928-01-14; page 16
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_084 Ferebee, Willoughby Dozier
+birth 1905-04-06 @ US/NC/Stonewall
+describe H71 W155 BR TR
+player 1927 Kinston (Virginia)
+player 1928 St. Paul (American Association)
+college University of North Carolina
+
+---
+
+!citation The Minneapolis Star @ 1928-01-24; page 13
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_085 Hicks, Carl
+birth 1904-08-23 @ US/KY/Hustonville
+describe H70.5 W174 BR TR
+player 1927 Vicksburg (Cotton States)
+player 1928 Louisville (American Association)
+college Cumberland University
+
+---
+
+!citation The Minneapolis Star @ 1928-01-28; page 18
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_086 Ellis, Alfred E.
+birth 1895-12-05 @ US/MN/Harmony
+describe H73 W175 BR TR
+player 1915 Fargo (Northern)
+player 1916 Fargo (Northern)
+player 1917 Birmingham (Southern Association)
+player 1919 Birmingham (Southern Association)
+player 1920 Birmingham (Southern Association)
+player 1921 Louisville (American Association)
+player 1922 Louisville (American Association)
+player 1926 Louisville (American Association)
+player 1927 Louisville (American Association)
+player 1928 Louisville (American Association)
+
+---
+
+!citation The Minneapolis Star @ 1928-02-25; page 19
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_087 Gantz, Paul William
+birth 1901-06-17 @ US/OH/Cleveland
+describe H69.5 W165 BB TL
+player 1927 Indianpolis (American Association)
+player 1928 Indianpolis (American Association)
+
+---
+
+!citation The Minneapolis Star @ 1928-03-27; page 14
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_088 Wicker, Otis Temple
+birth 1901-10-05 @ US/TX/Waxahachie
+describe H72 W190 BR TR
+player 1927 Asheville (South Atlantic)
+player 1927 Louisville (American Association)
+player 1928 Louisville (American Association)
+college Trinity University; location=US/TX
+
+---
+
+!citation The Minneapolis Star @ 1928-04-10; page 15
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_089 Delashmit, Lester Burlan
+birth 1907-08-07 @ US/IN/Carthage
+describe H72 W160 BL TL
+player 1927 Greenfield; caliber=semi-pro; location=US/IN/Greenfield
+player 1928 Indianpolis (American Association)
+
+---
+
+!citation The Kansas City Star @ 1928-12-19; page 22
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_090 Winters, Lawrence W.
+birth 1907-03-29 @ US/MI/Detroit
+describe H71 W165 BR TR
+player 1926 Flint (Michigan State)
+player 1928 Columbus (American Association)
+
+---
+
+!citation The Kansas City Star @ 1929-01-12; page 8
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_091 Nicolai, Fred William
+birth 1905-05-07 @ US/MO/Kansas City
+describe H67 W145 BL TR
+player 1924 Martinsburg (Blue Ridge)
+player 1924 Columbus (American Association)
+player 1925 Columbus (American Association)
+player 1926 Evansville (Illinois-Indiana-Iowa)
+player 1926 Columbus (American Association)
+player 1927 Columbus (American Association)
+player 1928 Columbus (American Association)
+
+---
+
+!citation The Kansas City Star @ 1929-02-08; page 22
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_092 Horn, James A.
+birth 1905-10-13 @ US/MO/Kansas City
+describe H70.5 W170 BR TR
+player 1922 Topeka (Southwestern)
+player 1924 Bartlesville (Western Association)
+player 1924 Blackwell (Oklahoma State)
+player 1925 Springfield (Illinois-Indiana-Iowa)
+player 1925 Columbus (American Association)
+player 1926 Elmira (New York-Pennsylvania)
+player 1926 Columbus (American Association)
+player 1927 Columbus (American Association)
+player 1928 Columbus (American Association)
+
+---
+
+!citation The Shreveport Journal @ 1925-03-24; page 10
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_093 Brennan, Joseph Henry
+birth 1902-07-08 @ US/LA/New Orleans
+describe H72 W171 BB TR
+player 1921 Beaumont (Texas)
+player 1922 Beaumont (Texas)
+player 1923 Des Moines (Western)
+player 1923 Spartanburg (South Atlantic)
+player 1923 Macon (South Atlantic)
+player 1924 Macon (South Atlantic)
+player 1925 Beaumont (Texas)
+
+---
+
+!citation The Shreveport Journal @ 1925-02-21; page 8
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_094 Davis, Cecil Austin
+birth 1900-10-10 @ US/KY/Cobin
+describe H70 W165 BR TR
+player 1921 Cleveland (Appalachian)
+player 1921 Little Rock (Southern Association)
+player 1922 Joplin (Western Association)
+player 1923 Okmulgee (Western Association)
+player 1923 Tulsa (Western Association)
+player 1924 Okmulgee (Western Association)
+player 1925 Fort Worth (Texas)
+
+---
+
+!citation The Shreveport Journal @ 1926-01-07; page 12
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_095 Vigare, Felix John
+birth 1900-01-22 @ US/CA/San Gabriel
+describe H68 W170 BR TR
+player 1924 Mesa (Arizona State)
+player 1925 Raleigh (Piedmont)
+player 1926 Houston (Texas)
+
+---
+
+!citation The Shreveport Journal @ 1926-01-11; page 8
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_096 Chalk, Preston Tammen
+birth 1905-06-10 @ US/TX/Fort Worth
+describe H71.5 W152 BL TL
+player 1926 Dallas (Texas); @P 
+
+---
+
+!citation The Shreveport Journal @ 1926-01-15; page 12
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_097 Glass, Clyde J.
+birth 1902-08-18 @ US/AR/Gentry
+describe H67.5 W165 BL TR
+player 1922 Rogers; caliber=semi-pro; location=US/AR/Rogers
+player 1923 Gentry; caliber=semi-pro; location=US/AR/Gentry
+player 1924 Coffeyville (Southwestern)
+player 1925 Mexia (Texas Association)
+player 1925 Waco (Texas Association)
+player 1926 Waco (Texas)
+
+---
+
+!citation The Shreveport Journal @ 1926-02-01; page 8
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_098 Wilder, Fred John
+birth 1895-03-06 @ US/MA/Maynard
+describe H71 W172 BR TR
+player 1916 Buffalo (International)
+player 1917 Worcester (Eastern)
+player 1919 Springfield (Eastern)
+player 1920 Springfield (Eastern)
+player 1921 Springfield (Eastern)
+player 1922 Omaha (Western)
+player 1923 Omaha (Western)
+player 1924 Omaha (Western)
+player 1925 Omaha (Western)
+player 1926 Shreveport (Texas)
+
+---
+
+!citation The Shreveport Journal @ 1926-02-19; page 15
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_099 Hamel, Joseph Leroy
+birth 1899-05-03 @ US/DC/Washington
+describe H72 W180 BR TR
+player 1918 Cumberland (Blue Ridge)
+player 1920 Rochester (International)
+player 1920 Muskegon (Central)
+player 1920 Grand Rapids (Central)
+player 1920 Ludington (Central)
+player 1921 Ludington (Central)
+player 1922 Muskegon (Central)
+player 1922 Indianapolis (American Association)
+player 1923 Louisville (American Association)
+player 1924 Buffalo (International)
+player 1924 Hamilton (Michigan-Ontario)
+player 1924 Flint (Michigan-Ontario)
+player 1925 Flint (Michigan-Ontario)
+player 1926 Dallas (Texas)
+
+---
+
+!citation The Shreveport Journal @ 1926-03-11; page 8
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_100 Jennings, Kelsey Gorman
+birth 1899-04-25 @ US/VA/Star
+describe H70.5 W165 BR TR
+player 1924 Knoxville (Appalachian)
+player 1925 Terrell (Texas Association)
+player 1926 San Antonio (Texas)
+
+---
+
+!citation The Shreveport Journal @ 1926-03-30; page 12
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_101 Ross, Samuel
+birth 1895-06-15 @ US/CA/San Rafael
+describe H73 W155 BL TL
+player 1914 Chattanooga (Southern Association)
+player 1915 Ottawa (Canadian)
+player 1916 Richmond (International)
+player 1917 New York (American)
+player 1917 Newark (International)
+player 1918 Memphis (Southern Association)
+player 1919 Vernon (Pacific Coast)
+player 1920 Portland (Pacific Coast)
+player 1921 Portland (Pacific Coast)
+player 1922 Des Moines (Western)
+player 1923 Des Moines (Western)
+player 1923 Fort Worth (Texas)
+player 1924 St. Joseph (Western)
+player 1925 St. Joseph (Western)
+player 1926 Beaumont (Texas); @P 
+
+---
+
+!citation The Shreveport Journal @ 1926-04-09; page 12
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_102 Lance, Samuel S.
+birth 1901-10-22 @ US/NE/Grant
+describe H68 W155 BL TR
+player 1924 Waco (Texas Association)
+player 1925 Temple (Texas Association)
+player 1926 San Antonio (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1928-01-15; page 25
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_103 Meyers, Frank B.
+birth 1900-09-19 @ US/IL/Chicago
+describe H68 W160 BB TL
+player 1921 Muskegon (Central)
+player 1922 Muskegon (Central)
+player 1923 Muskegon (Michigan-Ontario)
+player 1924 Muskegon (Michigan-Ontario)
+player 1925 Springfield (Western Association)
+player 1926 Omaha (Western)
+player 1927 Omaha (Western)
+player 1928 San Antonio (Texas)
+
+---
+
+!citation The Shreveport Journal @ 1928-02-01; page 10
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_104 Crenshaw, Charles Denzel
+birth 1907-12-05 @ US/TX/Bynum
+describe H70.5 W166 BR TR
+player 1927 Paris (Lone Star)
+player 1927 Fort Worth (Texas)
+player 1928 Fort Worth (Texas)
+
+---
+
+!citation The Shreveport Journal @ 1928-02-09; page 10
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_105 Clancy, Thomas Christopher
+birth 1904-01-01 @ US/MA/Cambridge
+describe H71 W145 BR TR
+player 1925 Dover (Eastern Shore)
+player 1926 Meridian (Cotton States)
+player 1927 Meridian (Cotton States)
+player 1928 Fort Worth (Texas)
+
+---
+
+!citation The Shreveport Journal @ 1928-03-05; page 8
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_106 Baker, John Fred
+birth 1905-12-04 @ US/TX/Kenedy
+describe H68.5 W160 BL TR
+player 1927 Mission (Texas Valley)
+player 1927 Topeka (Western Association)
+player 1928 Houston (Texas)
+
+---
+
+!citation The Shreveport Journal @ 1928-03-28; page 11
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_107 Skidmore, Leo
+birth 1904-05-04 @ US/WV/Franklin
+describe H72 W178 BR TR
+player 1924 Hagerstown (Blue Ridge)
+player 1925 Hagerstown (Blue Ridge)
+player 1925 Cumberland (Middle Atlantic)
+player 1926 Baltimore (International)
+player 1926 Knoxville (South Atlantic)
+player 1927 Baltimore (International)
+player 1927 Knoxville (South Atlantic)
+player 1928 Dallas (Texas); @P 
+
+---
+
+!citation The Shreveport Journal @ 1929-02-11; page 8
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_108 Gordon, Milton
+birth 1907-10-03 @ US/DC/Washington
+describe H67.5 W165 BR TR
+player 1925 Laurel (Cotton States)
+player 1926 Tupelo (Tri-State)
+player 1927 Petersburg (Virginia)
+player 1927 Wilmington (Eastern Carolina)
+player 1927 Wilkes-Barre (New York-Pennsylvania)
+player 1928 Wilmington (Eastern Carolina)
+player 1928 Wilkes-Barre (New York-Pennsylvania)
+player 1929 Wichita Falls (Texas)
+
+---
+
+!citation The Shreveport Journal @ 1929-02-11; page 10
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_109 Krenek, Otto
+birth 1904-09-18 @ US/TX/Fayetteville
+describe H72 W170 BR TR
+player 1925 Beaumont (Texas)
+player 1926 Beaumont (Texas)
+player 1927 Alexandria (Cotton States)
+player 1928 Alexandria (Cotton States)
+player 1928 Shreveport (Texas); @P 
+
+---
+
+!citation The Shreveport Journal @ 1929-02-22; page 17
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_110 Rose, Floyd Elwood
+birth 1906-07-24 @ US/KS/Topeka
+describe H68 W145 BR TR
+player 1928 Topeka (Western Association)
+player 1929 Houston (Texas); @P 
+
+---
+
+!citation The Shreveport Journal @ 1928-01-24; page 17
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_111 Pace, Eddie Jackson
+birth 1905-03-13 @ US/AL/West Bend
+describe H72.5 W182 BR TR
+player 1927 Alexandria (Cotton States)
+player 1928 Shreveport (Texas); @P 
+college Birmingham Southern College
+
+---
+
+!citation Fort Worth Star-Telegram @ 1928-01-06; page 20
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_112 Hinkle, George William Dewey
+birth 1902-08-31 @ US/TN/Bluff City
+describe H73.5 W185 BR TL
+player 1922 Norfolk (Virginia)
+player 1923 St. Petersburg (Florida State)
+player 1923 Lakeland (Florida State)
+player 1924 Oneonta (New York-Pennsylvania)
+player 1925 Buffalo (International)
+player 1925 Albany (Eastern)
+player 1926 Albany (Eastern)
+player 1927 Albany (Eastern)
+player 1928 San Antonio (Texas); @P 
+
+---
+
+!citation Fort Worth Star-Telegram @ 1928-01-18; page 15
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_113 Davis, Foster
+birth 1904-11-08 @ US/TX/St. Augustine
+describe H71 W157 BL TR
+player 1927 Beaumont (Texas)
+player 1928 Beaumont (Texas)
+college Southwestern University
+
+---
+
+!citation Fort Worth Star-Telegram @ 1928-01-21; page 3
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_114 Cimpi, John Joseph
+birth 1903-09-18 @ US/NY/Auburn
+describe H68 W150 BL TR
+player 1927 (Middle Atlantic)
+player 1928 Beaumont (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1928-01-27; page 18
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_115 Young, George
+birth 1902-12-16 @ US/OH/Cincinnati
+describe H68 W160 BR TR
+player 1922 Flint (Michigan-Ontario)
+player 1923 Terre Haute (Illinois-Indiana-Iowa)
+player 1924 Moline (Mississippi Valley)
+player 1925 Moline (Mississippi Valley)
+player 1926 Burlington (Mississippi Valley)
+player 1927 Burlington (Mississippi Valley)
+player 1928 Fort Worth (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1928-01-30; page 11
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_116 McClung, Eugene
+birth 1906-02-09 @ US/TX/Hamlin
+describe H71.5 W175 BR TR
+player 1925 Sulphur Springs (East Texas)
+player 1926 Marshalltown (Mississippi Valley)
+player 1926 Corsicana (Lone Star)
+player 1927 Corsicana (Lone Star)
+player 1928 Waco (Texas); @P 
+
+---
+
+!citation Fort Worth Star-Telegram @ 1928-02-02; page 17
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_117 Woods, Richard Horton
+birth 1907-04-27 @ US/TN/Cold Creek
+describe H72 W188 BL TR
+player 1927 Hattiesburg (Cotton States)
+player 1927 Vicksburg (Cotton States)
+player 1927 Laurel (Cotton States)
+player 1927 Dallas (Texas)
+player 1928 Dallas (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1928-02-03; page 18
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_118 Mitchell, Merwyn
+birth 1904-03-16 @ US/LA/New Orleans
+describe H74 W174 BL TL
+player 1927 Alexandria (Cotton States)
+player 1928 Shreveport (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1928-02-09; page 16
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_119 Royston, Langdon Clifford
+birth 1906-02-17 @ US/GA/Royston
+describe H73 W200 BR TR
+player 1927 Fairmount (Middle Atlantic)
+player 1927 Wheeling (Middle Atlantic)
+player 1928 Beaumont (Texas); @P 
+note: property of Detroit (American)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1928-02-10; page 20
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_120 Cross, Lloyd
+birth 1906-08-14 @ US/TX/McGregor
+describe H72 W180 BR TR
+player 1927 McGregor; caliber=semi-pro; location=US/TX/McGregor
+player 1928 San Antonio (Texas); @P 
+
+---
+
+!citation Fort Worth Star-Telegram @ 1928-02-13; page 11
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_121 Edgar, Vernon Goodrum
+birth 1905-04-24 @ US/MI/Croswell
+describe H71.5 W175 BL TR
+player 1927 Waco (Texas)
+player 1927 Mexia (Lone Star)
+player 1928 Waco (Texas); @C 
+college University of Michigan
+
+---
+
+!citation Fort Worth Star-Telegram @ 1928-02-14; page 21
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_122 Yeargin, Rush A.
+birth 1907-02-16 @ US/SC/Greenville
+describe H71 W180 BR TR
+player 1927 Alexandria (Cotton States)
+player 1928 Beaumont (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1928-03-01; page 16
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_123 Benson, Louis Arthur
+birth 1902-02-18 @ US/MN/Appleton
+describe H68 W168 BL TR
+player 1922 Aberdeen (Dakota)
+player 1923 Aberdeen (Dakota)
+player 1924 Cedar Rapids (Mississippi Valley)
+player 1924 Sioux City (Tri-State)
+player 1925 Fort Smith (Western Association)
+player 1926 Fort Smith (Western Association)
+player 1926 Syracuse (International)
+player 1927 Syracuse (International)
+player 1928 Houston (Texas)
+college Carleton College
+
+---
+
+!citation Fort Worth Star-Telegram @ 1928-03-03; page 3
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_124 Jones, John R.
+birth 1906-07-28 @ US/TX/Bowie
+describe H72 H160 BL TR
+player 1927 Sarasota (Florida State)
+player 1928 Wichita Falls (Texas); @P 
+college Haskell Indian Institute
+
+---
+
+!citation Fort Worth Star-Telegram @ 1928-03-07; page 14
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_125 Crotty, James P.
+birth 1904-09-16 @ US/IA/Dumont
+describe H73 W196 BR TR
+player 1925 Waterloo (Mississippi Valley)
+player 1925 Marshalltown (Mississippi Valley)
+player 1926 Cedar Rapids (Mississippi Valley)
+player 1927 Spencer; caliber=semi-pro; location=US/IA/Spencer
+player 1928 Waco (Texas); @P 
+
+---
+
+!citation Fort Worth Star-Telegram @ 1928-03-08; page 16
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_126 Ferrell, Thomas Owen
+birth 1902-05-02 @ US/VA/Montvale
+describe H73 W195 BR TR
+player 1925 Winston-Salem (Piedmont)
+player 1926 Marshall (East Texas)
+player 1927 Asheville (South Atlantic)
+player 1928 Beaumont (Texas); @P 
+
+---
+
+!citation Fort Worth Star-Telegram @ 1928-03-12; page 11
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_127 Vogel, Frank
+birth 1904-05-29 @ US/TX/San Saba
+describe H73 W172 BR TR
+player 1927 Edinburg (Texas Valley)
+player 1927 San Antonio (Texas)
+player 1928 San Antonio (Texas); @P 
+
+---
+
+!citation Fort Worth Star-Telegram @ 1928-03-15; page 23
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_128 Swanson, Rudolph
+birth 1902-09-27 @ US/IL/Chicago
+describe H73 W175 BL TR
+player 1924 Burlington (Mississippi Valley)
+player 1925 Burlington (Mississippi Valley)
+player 1925 Minneapolis (American Association)
+player 1926 Danville (Illinois-Indiana-Iowa)
+player 1927 Decatur (Illinois-Indiana-Iowa)
+player 1928 Fort Worth (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1928-03-17; page 3
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_129 Jackson, Lawrence
+birth 1900-09-24 @ US/IL/Berwyn
+describe H72.5 W182 BR TR
+player 1923 Fort Smith (Western Association)
+player 1923 Syracuse (International)
+player 1924 Baltimore (International)
+player 1925 Baltimore (International)
+player 1926 Baltimore (International)
+player 1927 Baltimore (International)
+player 1927 Jersey City (International)
+player 1927 Memphis (Southern Association)
+player 1928 Dallas (Texas)
+college University of Illinois
+
+---
+
+!citation Fort Worth Star-Telegram @ 1928-03-19; page 10
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_130 Toner, Stephen J.
+birth 1908-01-22 @ US/PA/Philadelphia
+describe H70 W160 BL TL
+player 1926 Salisbury (Eastern Shore)
+player 1927 Salisbury (Eastern Shore)
+player 1928 Beaumont (Texas)
+
+#20201005_131 Shuman, Richard E.
+describe H70 W175 BL TL age 27
+player 1927 Dallas (Texas)
+player 1928 Dallas (Texas)
+
+#20201005_132 Owens, Homer T.
+describe H74.5 W200 BR TR age 27
+player 1927 Minneapolis (American Association)
+player 1927 Dallas (Texas)
+player 1928 Dallas (Texas)
+
+#20201005_133 Hooten, W. B.
+describe H71 W175 BL TR age 22
+player 1928 Dallas (Texas)
+college Texas University
+
+---
+
+!citation Fort Worth Star-Telegram @ 1928-03-20; page 18
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_134 McNair, Joseph Thomas
+birth 1906-09-24 @ US/TX/Eddy
+describe H74 W194 BL TR
+player 1927 Muskogee (Western Association)
+player 1928 Waco (Texas)
+
+#20201005_135 Wilkins, Henry
+describe @P H70 W177 BR TR age 25
+player 1927 Shreveport (Texas)
+player 1928 Shreveport (Texas)
+
+#20201005_136 Karpp, Francis
+describe @P H70.5 W155 BL TR age 31
+player 1927 Shreveport (Texas)
+player 1928 Shreveport (Texas)
+
+#20201005_137 Clark, Maurice
+describe @P H72 W165 BL TR age 20
+player 1927 Texarkana (Lone Star)
+player 1927 Shreveport (Texas)
+player 1928 Shreveport (Texas)
+
+#20201005_138 Cason, William
+describe @P H72 W165 BL TL age 24
+player 1927 Montgomery (Southeastern)
+player 1927 Shreveport (Texas)
+player 1928 Shreveport (Texas)
+
+#20201005_139 Bloxsam, Daniel
+describe H70.5 W148 BR TR age 22
+player 1927 Texarkana (Lone Star)
+player 1927 Shreveport (Texas)
+player 1928 Shreveport (Texas)
+
+#20201005_140 Phipps, Leslie
+describe H73 W185 BL TR age 23
+player 1927 San Antonio (Texas)
+player 1928 Shreveport (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1928-03-21; page 17
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_141 Luciano, Joseph Andrew
+birth 1907-04-26 @ US/PA/Philadelphia
+describe H68 W150 BL TR
+player 1925 Cambridge (Eastern Shore)
+player 1926 Dover (Eastern Shore)
+player 1927 Martinsburg (Blue Ridge)
+player 1928 Wichita Falls (Texas)
+
+#20201005_142 Ward, William
+describe @P H71 W154 BB TL age 27
+player 1927 San Antonio (Texas)
+player 1928 San Antonio (Texas)
+
+#20201005_143 Agricola, Herbert
+describe @P H71 W175 BR TR age 23
+player 1927 Monroe (Cotton States)
+player 1927 Mission (Texas Valley)
+player 1928 San Antonio (Texas)
+
+#20201005_144 Philbin, Frank
+describe H72 W167 BB TR age 24
+player 1927 San Antonio (Texas)
+player 1928 San Antonio (Texas)
+
+#20201005_145 Olle, Edward
+describe H70 W170 BR TR age 21
+player 1927 San Antonio (Texas)
+player 1928 San Antonio (Texas)
+
+#20201005_146 Harris, Robert
+describe H69 W165 BR TR age 21
+player 1927 San Antonio (Texas)
+player 1928 San Antonio (Texas)
+
+#20201005_147 Maderas, Alfred
+describe H67 W160 BR TR age 27
+player 1927 Shreveport (Texas)
+player 1928 San Antonio (Texas)
+
+#20201005_148 Nason, Lyman
+describe H73 W185 BR TR age 27
+player 1927 Shreveport (Texas)
+player 1928 San Antonio (Texas) 
+
+---
+
+!citation Fort Worth Star-Telegram @ 1928-03-22; page 21
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_149 Hanson, Elmer
+describe H72 W187 BL TL age 28
+player 1927 Beaumont (Texas)
+player 1928 Beaumont (Texas)
+
+#20201005_150 Holzhauser, Adolph
+describe H72 W190 BR TR age 29
+player 1927 Beaumont (Texas)
+player 1928 Beaumont (Texas)
+
+#20201005_151 Williams, Clarence
+describe H72 W180 BR TR age 22
+player 1927 Texarkana (Lone Star)
+player 1927 San Antonio (Texas)
+player 1928 Beaumont (Texas)
+
+#20201005_152 Kent, George
+describe H71 W161 BL TL age 20
+player 1928 Beaumont (Texas)
+
+#20201005_153 Klein, Joseph
+describe H70 W170 BB TR
+player 1927 San Antonio (Texas)
+player 1928 Beaumont (Texas)
+
+#20201005_154 Payne, Dillard
+describe H72 W175 BL TR age 24
+player 1927 Palestine (Lone Star)
+player 1927 Beaumont (Texas)
+player 1928 Beaumont (Texas)
+
+#20201005_155 Cheadle, Yi Yi
+describe H72 W170 BR TR age 21
+player 1928 Beaumont (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1928-03-23; page 24
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_156 Murphy, Dennis John
+birth 1895-12-27 @ US/CT/Taftville
+describe H70.5 W180 BR TR
+player 1916 Lawrence (New England)
+player 1916 Hartford (Eastern)
+player 1917 Lawrence (New England)
+player 1919 Toledo (American Association)
+player 1920 Toledo (American Association)
+player 1921 Vernon (Pacific Coast)
+player 1922 Vernon (Pacific Coast)
+player 1923 Vernon (Pacific Coast)
+player 1924 Vernon (Pacific Coast)
+player 1925 Vernon (Pacific Coast)
+player 1926 Mission (Pacific Coast)
+player 1927 Hollywood (Pacific Coast)
+player 1928 Fort Worth (Texas)
+
+#20201005_157 Stein, Ralph
+describe H71 W170 BL TL age 23
+player 1927 Kinston (Virginia)
+player 1928 Waco (Texas)
+
+#20201005_158 Love, Rex
+describe H71 W170 BR TR age 21
+player 1927 Kinston (Virginia)
+
+#20201005_159 Molenda, John J.
+describe H72 W175 BR TR age 22
+player 1928 Waco (Texas)
+college University of Michigan
+
+#20201005_160 Biggerstaff, M. C.
+describe H71 W170 BR TR age 23
+player 1928 Waco (Texas)
+
+#20201005_161 Etie, Alba J.
+describe H70 W165 BR TR age 19
+player 1928 Waco (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1928-03-25; page 17
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_162 Whitworth, Richard
+describe H70 W155 BR TR age 31
+player 1927 Houston (Texas)
+player 1928 Houston (Texas)
+
+#20201005_163 Larson, Glen
+describe H71 W175 BR TL age 23
+player 1927 Joplin (Western Association)
+player 1928 Houston (Texas)
+
+#20201005_164 Munn, John
+describe H74 W170 BR TR age 23
+player 1927 Jackson (Cotton States)
+player 1928 Houston (Texas)
+
+#20201005_165 Novak, Frank
+describe H72 W175 BR TR age 20
+player 1928 Houston (Texas)
+
+#20201005_166 Collard, Charles
+describe H71 W170 BR TR age 21
+player 1928 Houston (Texas)
+
+#20201005_167 Crump, Harold
+describe H70 W170 BR TR age 24
+player 1927 Edinburg (Texas Valley)
+player 1928 Houston (Texas)
+
+#20201005_168 Murphy, Franklin
+describe H67.5 W155 BB TR
+player 1927 Danville (Illinois-Indiana-Iowa)
+player 1928 Houston (Texas)
+
+#20201005_169 Reider, John
+describe H68 W165 BL TL age 25
+player 1927 Springfield (Western)
+player 1928 Houston (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1928-03-26; page 12
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_170 Jacoway, Walter Henderson
+birth 1903-10-01 @ US/AR/Ola
+describe H71 W185 BR TR
+player 1926 Fort Smith (Western Association)
+player 1927 Reading (International)
+player 1927 Petersburg (Virginia)
+player 1927 Albany (Eastern)
+player 1927 Marshalltown (Mississippi Valley)
+player 1928 Waco (Texas)
+college Ouachita College
+
+---
+
+!citation Fort Worth Star-Telegram @ 1928-03-26; page 13
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_171 Swenson, Walter
+describe H71 W165 BR TR age 24
+player 1927 Wichita Falls (Texas)
+player 1928 Wichita Falls (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1928-03-30; page 24
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_172 Crozier, Edward Ramsey
+birth 1905-11-10 @ US/NM/Carlsbad
+describe H72 W170 BR TR
+player 1927 Fort Bayard (Copper); caliber=semi-pro; location=US/NM/Fort Bayard
+highschool El Paso HS @ US/TX/El Paso
+
+---
+
+!citation Fort Worth Star-Telegram @ 1928-04-01; page 23
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_173 Hillin, Harold Ashley
+birth 1904-09-07 @ US/TX/Mount Calm
+describe H74 W185 BL TR
+player 1927 Palestine (Lone Star)
+player 1927 Wichita Falls (Texas)
+player 1928 Wichita Falls (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1928-04-03; page 14
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_174 Pollan, Waynie Rhea
+birth 1906-07-05 @ US/TX/Rice
+describe H73.75 W172 BR TR
+player 1927 Corsicana (Lone Star)
+player 1928 Waco (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1928-04-05; page 17
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_175 Beard, John Watt
+birth 1901-12-23 @ US/NC/Matthews
+describe H70 W159 BL TL
+player 1923 Martinsburg (Blue Ridge)
+player 1926 Reading (International)
+player 1927 Baltimore (International)
+player 1927 Portland (New England)
+player 1928 Wichita Falls (Texas)
+college Erskine College
+
+---
+
+!citation Fort Worth Star-Telegram @ 1928-04-08; page 14
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_176 Harris, Daniel Francis
+birth 1904-01-18 @ US/MA/Gloucester
+describe H74 W175 BR TR
+player 1926 Dover (Eastern Shore)
+player 1927 Wichita Falls (Texas)
+player 1928 Beaumont (Texas)
+college Dartmouth College
+
+#20201005_177 Bondurant, Dewey W.
+birth 1902-07-03 @ US/KS/Brazine
+describe H71 W170 BR TR
+player 1923 Lincoln (Nebraska State)
+player 1924 Beatrice (Nebraska State)
+player 1924 Salina (Southwestern)
+player 1925 Waco (Texas Association)
+player 1925 Terrell (Texas Association)
+player 1926 Temple (Texas Association)
+player 1927 Kinston (Virginia)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1928-04-10; page 13
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_178 Arzati, Peter
+birth 1904 @ US/AZ/Douglas
+describe H70 W170 BR TR
+player 1927 Laredo (Texas Valley)
+player 1927 San Antonio (Texas)
+player 1928 San Antonio (Texas)
+
+#20201005_179 Steed, Herbert
+birth 1902-04-26 @ US/AL/Lineville
+describe H71 W150 BR TR
+player 1924 Mobile (Southern Association)
+player 1925 Chattanooga (Southern Association)
+player 1925 Sebring; caliber=semi-pro; location=US/FL/Sebring
+player 1926 Sebring; caliber=semi-pro; location=US/FL/Sebring
+player 1926 Houston (Texas)
+player 1926 Monroe (Cotton States)
+player 1927 Monroe (Cotton States)
+player 1928 Shreveport (Texas)
+college University of Alabama
+
+---
+
+!citation Fort Worth Star-Telegram @ 1929-01-01; page 12
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_180 Smith, Cyrus
+birth 1904-05-09 @ US/NC/Kernersville
+describe H74 W185 BR TR @P
+player 1926 Salisbury (Piedmont)
+player 1927 Winston-Salem (Piedmont)
+player 1927 Wilkes-Barre (New York-Pennsylvania)
+player 1928 Winston-Salem (Piedmont)
+player 1929 Wichita Falls (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1929-01-04; page 14
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_181 Johnson, Earl C.
+birth 1903-06-22 @ US/TX/Palestine
+describe H69 W162 BL TR
+player 1927 Salisbury (Piedmont)
+player 1928 Salisbury (Piedmont)
+player 1929 Dallas (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1929-01-08; page 14
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_182 Ballew, Harvey Conway
+birth 1907-09-15 @ US/TX/Frost
+describe H71 W175 BL TR
+player 1928 Paris (Lone Star)
+player 1928 San Antonio (Texas)
+player 1929 San Antonio (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1929-01-09; page 13
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_183 Stewart, Cecil Oliver
+birth 1902-10-13 @ US/AL/Munford
+describe H66 W155 BR TR
+player 1926 High Point (Piedmont)
+player 1926 Birmingham (Southern Association)
+player 1927 High Point (Piedmont)
+player 1928 High Point (Piedmont)
+player 1929 Shreveport (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1929-01-10; page 16
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_184 Thurman, Clarence Oliver
+birth 1904-10-11 @ US/TX/Comanche
+describe H70 W170 BR TR
+player 1928 Vicksburg (Cotton States)
+player 1928 Waco (Texas)
+player 1929 Waco (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1929-01-11; page 12
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_185 Speirs, George Archibald
+birth 1896-11-21 @ US/PA/Pittsburgh
+describe H70 W165 BL TR
+player 1920 Rochester (International)
+player 1924 Scranton (New York-Pennsylvania)
+player 1925 Wilson (Virginia)
+player 1925 Atlanta (Southern Association)
+player 1926 Greenville (South Atlantic)
+player 1927 Greenville (South Atlantic)
+player 1928 Greenville (South Atlantic)
+player 1929 Wichita Falls (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1929-01-25; page 15
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_186 Pierce, Fay
+birth 1905-01-17 @ US/AR/Scranton
+describe H68.5 W152 BR TR
+player 1928 Fort Smith (Western Association)
+player 1929 Fort Worth (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1929-01-29; page 12
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_187 Krauss, Adolph Thomas
+birth 1903-10-17 @ US/MO/St. Louis
+describe H70 W170 BB TR
+player 1924 Fort Smith (Western Association)
+player 1924 Texarkana (East Texas)
+player 1924 Waco (East Texas)
+player 1925 Marshall (East Texas)
+player 1925 Houston (Texas)
+player 1926 Austin (Texas Association)
+player 1927 Corsicana (Lone Star)
+player 1928 Texarkana (Lone Star)
+player 1929 Shreveport (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1929-02-01; page 14
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_188 Pollan, Waynie Rhea
+birth 1906-07-05 @ US/TX/Rice
+describe H74 W172 BR TR
+player 1927 Corsicana (Lone Star)
+player 1928 Mexia (Lone Star)
+player 1928 Waco (Texas)
+player 1929 Waco (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1929-02-06; page 12
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_189 Urban, Karl William
+birth 1899-07-02 @ US/OK/Enid
+describe H68 W155 BR TR
+player 1920 Wessington Springs (Dakota)
+player 1921 Mitchell (Dakota)
+player 1922 Terre Haute (Illinois-Indiana-Iowa)
+player 1923 Terre Haute (Illinois-Indiana-Iowa)
+player 1924 Terre Haute (Illinois-Indiana-Iowa)
+player 1925 Terre Haute (Illinois-Indiana-Iowa)
+player 1925 Rochester (International)
+player 1926 Rochester (International)
+player 1926 Syracuse (International)
+player 1927 Syracuse (International)
+player 1927 Houston (Texas)
+player 1927 Danville (Illinois-Indiana-Iowa)
+player 1928 Rochester (International)
+player 1929 Fort Worth (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1929-02-07; page 16
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_190 Price, Thomas Andrew
+birth 1907-12-12 @ US/AR/Doddridge
+describe H71 W175 BR TL @P
+player 1927 Texarkana (Lone Star)
+player 1927 Shreveport (Texas)
+player 1928 Texarkana (Lone Star)
+player 1929 Shreveport (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1929-02-09; page 23
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_191 Stebbins, Lee
+birth 1903-01-12 @ US/MO/West Plains
+describe H75 W175 BL TL
+player 1926 Blackwell (Southwestern)
+player 1927 Corpus Christi (Texas Valley)
+player 1928 Coleman (West Texas)
+player 1929 San Antonio (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1929-02-21; page 15
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_192 White, Lester David
+birth 1906-04-18 @ US/CA/Long Beach
+describe H74 W195 BR TR
+player 1926 Wichita Falls (Texas)
+player 1927 Macon (South Atlantic)
+player 1927 Wichita Falls (Texas)
+player 1928 Muskogee (Western Association)
+player 1928 Bridgeport (Eastern)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1929-02-22; page 17
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_193 Hopkins, Edward
+birth 1899-02-11 @ US/TX/Alvarado
+describe H69 W180 BR TR @P
+player 1922 Bonham (Texas-Oklahoma)
+player 1922 Paris (Texas-Oklahoma)
+player 1923 Marshall (East Texas)
+player 1923 Paris (East Texas)
+player 1924 Paris (East Texas)
+player 1925 Paris (East Texas)
+player 1925 Marshall (East Texas)
+player 1926 Marshall (East Texas)
+player 1927 Marshall (East Texas)
+player 1927 Texarkana (Lone Star)
+player 1928 Texarkana (Lone Star)
+player 1928 Shreveport (Texas)
+player 1929 Shreveport (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1929-02-23; page 20
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_194 Kregel, Herbert
+birth 1905-11-13 @ US/AR/Fort Smith
+describe H70 W180 BR TR
+player 1927 Fort Smith (Western Association)
+player 1928 Fort Smith (Western Association)
+player 1929 Fort Worth (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1929-02-28; page 14
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_195 Ford, Walter Ormand
+birth 1907-01-16 @ US/AL/Birmingham
+describe H69 W160 BR TR
+player 1928 High Point (Piedmont)
+player 1929 Shreveport (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1929-03-05; page 13
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_196 Broiles, Hiram
+birth 1905-01-17 @ US/TX/Dallas
+describe H70 W170 BR TR
+player 1928 Alexandria (Cotton States)
+player 1928 Beaumont (Texas)
+player 1929 Beaumont (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1929-03-07; page 16
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_197 Taylor, Harry
+birth 1905-05-11 @ US/OK/Renfrow
+describe H69 W165 BR TR
+player 1928 Coleman (West Texas)
+player 1929 San Antonio (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1929-03-10; page 44
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_198 Sullivan, Richard Joseph
+birth 1907-04-19 @ US/TX/Denison
+describe H70 W155 BL TL
+player 1928 Abilene (West Texas)
+player 1928 Wichita Falls (Texas)
+player 1929 Wichita Falls (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1929-03-12; page 12
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_199 Benn, Don
+describe H71 W155 BR TR
+player 1928 Akron (Central)
+player 1929 Dallas (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1929-03-13; page 20
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_200 Starr, Bernard Francis
+birth 1901-09-01 @ US/VT/Barre
+describe H70 W170 BL TR
+player 1922 Montreal (Eastern Canada)
+player 1922 Bridgeport (Eastern)
+player 1924 Pittsfield (Eastern)
+player 1925 Pittsfield (Eastern)
+player 1925 Bridgeport (Eastern)
+player 1926 Shamokin (New York-Pennsylvania)
+player 1927 Salem (New England)
+player 1928 Lynn (New England)
+player 1929 Shreveport (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1929-03-16; page 22
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_201 Bray, Elmer John
+birth 1906-01-27 @ US/WA/Bellingham
+describe H72 W180 BR TR @P
+player 1928 Palestine (Lone Star)
+player 1929 Dallas (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1929-03-24; page 17
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_202 Best, Cameron
+birth 1908-07-01 @ US/CA/Santa Clara
+describe H73.5 W185 BR TR
+player 1928 Abilene (West Texas)
+player 1929 Wichita Falls (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1929-03-26; page 11
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_203 Windsor, William
+birth 1907-10-01 @ US/OR/Bandon
+describe H74 W170 BR TR @P
+player 1928 Palestine (Lone Star)
+player 1929 Dallas (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1929-04-07; page 18
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_204 Burt, William Floyd
+birth 1907-07-14 @ US/TX/Itasca
+describe H72 W166 BL TR
+player 1928 Beaumont (Texas)
+player 1929 Beaumont (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1929-04-09; page 12
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_205 Clements, Dallas
+birth 1907-01-24 @ US/TX/Milford
+describe H72 W175 BB TR
+player 1925 Danville (Piedmont)
+player 1925 Tupelo (Tri-State)
+player 1925 Austin (Texas Association)
+player 1926 Jackson (Tri-State)
+player 1926 Monroe (Cotton States)
+player 1927 Monroe (Cotton States)
+player 1928 Fort Smith (Western Association)
+player 1928 Evansville (Illinois-Indiana-Iowa)
+player 1928 Fort Worth (Texas)
+player 1929 Wichita Falls (Texas)
+
+#20201005_206 Beasley, Clifton
+birth 1908-11-08 @ US/TX/Kilgore
+describe H74 W185 BL TR @P
+player 1928 Beaumont (Texas); P_G 4 P_W 0 P_L 3 P_IP 23 P_BB 20 P_SO 7 P_H 27 B_AVG .100 F_PCT 1.000
+player 1929 Beaumont (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1929-04-10; page 18
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_207 Devaney, James Vincent
+describe BR TR
+player 1928 Tyler (Lone Star)
+player 1928 Fort Worth (Texas)
+
+#20201005_208 Wood, George
+birth 1903-08-18 @ US/TX/Houston
+describe H72 W180 BR TR @P
+player 1927 Palestine (Lone Star)
+player 1928 Texarkana (Lone Star)
+player 1928 Shreveport (Texas); P_G 1 P_W 0 P_L 0 P_IP 5 P_BB 6 P_SO 0 P_H 9 B_AVG .500 F_PCT 1.000
+player 1929 Shreveport (Texas)
+college Rice Institute
+
+---
+
+!citation Fort Worth Star-Telegram @ 1929-04-14; page 28
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_209 Mellano, Joseph Peter
+birth 1907-03-11 @ US/CA/Oakland
+describe H70 W175 BB TR
+player 1926 Wilson (Virginia)
+player 1927 Wilson (Virginia)
+player 1927 Philadelphia (American)
+player 1928 Portland (Pacific Coast); B_G 5 B_AB 3 B_R 0 B_H 0 F_PO 1 F_A 1 F_E 0 F_PCT 1.000
+player 1928 Des Moines (Western); B_G 2 B_AB 2 B_R 0 B_H 0 F_E 1 F_PCT 0.000
+player 1928 Waterbury (Eastern); B_G 6 B_AB 16 B_R 2 B_H 4 B_3B 1 B_AVG .250 F_PO 18 F_A 14 F_E 2 F_PCT .941
+player 1929 Dallas (Texas)
+player 1929 Waco (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1929-04-14; page 28
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_210 Schelberg, John William
+birth 1901-12-03 @ US/MD/Queenstown
+describe H71 W168 BR TR @P
+player 1922 Flint (Michigan-Ontario)
+player 1923 Hamilton (Michigan-Ontario)
+player 1925 Pittsfield (Eastern)
+player 1926 Crisfield (Eastern Shore)
+player 1926 Reading (International)
+player 1927 Syracuse (International)
+player 1927 Houston (Texas)
+player 1928 Rochester (International)
+player 1928 Dayton (Central); P_G 8 P_W 6 P_L 1 P_IP 58 P_BB 23 P_SO 23 P_H 44 
+player 1929 Houston (Texas)
+college Washington College @ US/MD
+
+---
+
+!citation Fort Worth Record-Telegram @ 1924-02-18; page 12
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_211 Lybrand, Galiton Kearby
+birth 1896-01-02 @ US/TX/Grand Saline
+describe H71 W170 BR TL
+player 1921 San Antonio (Texas)
+player 1922 Ranger (West Texas)
+player 1923 Sulphur Springs (East Texas)
+player 1923 San Antonio (Texas)
+player 1924 San Antonio (Texas)
+
+---
+
+!citation Fort Worth Record-Telegram @ 1924-02-21; page 14
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_212 Clauser, Earl W.
+birth 1897-03-14 @ US/PA/Reading
+describe H70.5 W168 BR TR
+player 1918 Lebanon (Bethlehem Steel); caliber=semi-pro; location=US/PA/Lebanon
+player 1919 Lebanon (Bethlehem Steel); caliber=semi-pro; location=US/PA/Lebanon
+player 1920 Lebanon (Bethlehem Steel); caliber=semi-pro; location=US/PA/Lebanon
+player 1921 Rochester (International)
+player 1921 Charleston (South Atlantic)
+player 1922 Charleston (South Atlantic)
+player 1922 Columbia (South Atlantic)
+player 1923 Richmond (Virginia)
+player 1924 San Antonio (Texas)
+
+---
+
+!citation Fort Worth Record-Telegram @ 1924-02-25; page 13
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_213 Wolgamot, Clinton Earl
+birth 1897-12-21 @ US/IA/Fairbank
+describe H68.5 W162 BR TR
+player 1919 San Antonio (Texas)
+player 1920 Los Angeles (Pacific Coast)
+player 1920 Edmonton (Western Canada)
+player 1922 Toledo (American Association)
+player 1922 Kalamazoo (Michigan-Ontario)
+player 1923 Kalamazoo (Michigan-Ontario)
+player 1924 Fort Worth (Texas)
+
+---
+
+!citation Fort Worth Record-Telegram @ 1924-03-02; page 37
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_214 Williams, Chalmers
+birth 1900-09-09 @ US/TX/Wylie
+describe H70.5 W164 BL TR
+player 1922 Clovis (West Texas)
+player 1923 Paris (East Texas)
+player 1924 Wichita Falls (Texas)
+
+---
+
+!citation Fort Worth Record-Telegram @ 1924-03-02; page 37
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_215 Ellis, Alfred Benjamin
+birth 1902-07-06 @ US/TX/Houston
+describe H72 W168 BL TL
+player 1921 Cleburne (Texas-Oklahoma)
+player 1924 Houston (Texas)
+
+---
+
+!citation Fort Worth Record-Telegram @ 1924-03-26; page 11
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_216 Osborn, John Robert
+birth 1903-04-17 @ US/TX/San Diego
+describe H73 W175 BR TR @P
+player 1923 Paris (East Texas)
+player 1924 Wichita Falls (Texas)
+
+---
+
+!citation Fort Worth Record-Telegram @ 1925-02-20; page 13
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_217 Gransbach, Howard Griffith
+birth 1902-03-16 @ US/PA/Frankford
+describe H70 W168 BL TL @P
+player 1924 St. Louis (National)
+player 1924 Binghamton (New York-Pennsylvania)
+
+---
+
+!citation Fort Worth Record-Telegram @ 1925-04-06; page 11
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_218 Field, Clarence David
+birth 1902-11-08 @ US/LA/Lutcher
+describe H71 W165 BR TR @C
+player 1923 San Antonio (Texas)
+player 1924 Tyler (East Texas)
+player 1925 Waco (Texas)
+
+---
+
+!citation The Indianapolis News @ 1925-01-09; page 37
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_219 Minogue, Joseph Patrick
+birth 1905-12-01 @ US/KY/Ludlow
+describe H75 W190 BL TL @P
+player 1923 Lexington (Blue Grass)
+player 1924 Lebanon; caliber=semi-pro; location=US/KY/Lebanon
+player 1925 Louisville (American Association)
+college St. Mary's College @ US/KY
+
+---
+
+!citation The Indianapolis News @ 1925-01-09; page 37
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_220 Farquhar, George
+birth 1906-06-11 @ GB//Dundee
+describe H72 W185 BL TL @P
+player 1924 Arkansas City (Southwestern)
+player 1925 St. Paul (American Association)
+
+#20201005_221 Bird, Joseph Alexander
+birth 1903-10-03 @ US/MD/Baltimore
+describe H69 W165 BB TR
+player 1921 Parksley (Eastern Shore)
+player 1922 Tarboro (Eastern Carolina)
+player 1922 Baltimore (International)
+player 1923 Baltimore (International)
+player 1924 Cambridge (Eastern Shore)
+player 1925 Columbus (American Association)
+
+---
+
+!citation The Indianapolis News @ 1925-01-14; page 21
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_222 Adamson, Harlan Clell
+birth 1900-12-01 @ US/MO/Miller
+describe H72 W175 BR TR @P
+player 1923 Orlando (Florida State)
+player 1924 Frederick (Blue Ridge)
+player 1924 Martinsburg (Blue Ridge)
+player 1925 Columbus (American Association)
+
+#20201005_223 Townsend, Arnold Earl
+birth 1896-01-26 @ US/TN/Calhoun
+describe H70 W155 BL TR @C
+player 1915 Gastonia (Eastern Carolina)
+player 1916 Florence (Pee Dee); caliber=semi-pro; location=US/SC/Florence
+player 1920 Chattanooga (Southern Association)
+player 1923 Morristown (Appalachian)
+player 1924 High Point (Piedmont)
+player 1925 Minneapolis (American Association)
+
+---
+
+!citation The Indianapolis News @ 1925-01-17; page 15
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_224 Hammond, Thomas
+birth 1902-03-31 @ US/CA/Alameda
+describe H73 W160 BR TR @P
+player 1923 Portland (Pacific Coast)
+player 1924 Peoria (Illinois-Indiana-Iowa)
+player 1924 Minneapolis (American Association); P_G 3 P_W 2 P_L 1
+player 1925 Minneapolis (American Association)
+
+---
+
+!citation The Indianapolis News @ 1925-01-19; page 23
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_225 Lewis, John Thomas
+birth 1901-02-09 @ US/TX/McKinney
+describe H66 W143 BR TR
+player 1921 Sherman (Texas-Oklahoma)
+player 1922 Sherman (Texas-Oklahoma)
+player 1923 Fort Smith (Western Association)
+player 1923 Waco (Texas Association)
+player 1924 Waco (Texas Association)
+player 1925 St. Paul (American Association)
+
+---
+
+!citation The Indianapolis News @ 1925-01-21; page 21
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_226 Shoots, Carl
+birth 1900-08-20 @ US/MO/Webb City
+describe H70.5 W150 BB TR
+player 1918 Spokane (Pacific International)
+player 1920 Spokane (Pacific International)
+player 1921 Victoria (Pacific International)
+player 1922 Vancouver (Pacific International)
+player 1923 Hutchinson (Western Association)
+player 1924 Hutchinson (Western Association)
+player 1925 Kansas City (American Association)
+
+---
+
+!citation The Indianapolis News @ 1925-01-22; page 29
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_227 Dunlap, Adrian Arthur
+birth 1906-01-12 @ US/KS/Caney
+describe H73 W174 BR TR @P
+player 1924 Newton (Southwestern)
+player 1925 Louisville (American Association)
+
+---
+
+!citation The Indianapolis News @ 1925-01-23; page 33
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_228 Koob, Clarence George
+birth 1906-04-23 @ US/IA/Cedar Rapids
+describe H71 W160 BL TL @P
+player 1922 Cedar Rapids (Mississippi Valley)
+player 1925 Minneapolis (American Association)
+college Columbia College
+
+---
+
+!citation The Indianapolis News @ 1925-01-24; page 15
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_229 Walters, Fred Raymond
+birth 1902-03-23 @ US/IL/Chicago
+describe H70.5 W158 BR TL @SS
+player 1922 Baltimore (International)
+player 1922 La Crosse; caliber=semi-pro; location=US/WI/La Crosse
+player 1923 La Crosse; caliber=semi-pro; location=US/WI/La Crosse
+player 1924 La Crosse; caliber=semi-pro; location=US/WI/La Crosse; B_G 36 B_AVG .351 F_PCT .904
+player 1925 Minneapolis (American Association)
+
+---
+
+!citation The Indianapolis News @ 1925-01-26; page 21
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_230 Fox, George Elmer
+birth 1900-01-23 @ US/PA/Evans City
+describe H67 W150 BL TR
+player 1923 Elmira (New York-Pennsylvania)
+player 1924 Elmira (New York-Pennsylvania)
+player 1925 Columbus (American Association)
+college Pennsylvania State Normal College
+
+---
+
+!citation The Indianapolis News @ 1925-01-28; page 21
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_231 Peterson, Otto
+birth 1897-08-19 @ US/PA/Johnstown
+describe H72 W175 BB TR @P
+player 1921 Parsons (Southwestern)
+player 1921 Sapulpa (Southwestern)
+player 1922 Sapulpa (Southwestern)
+player 1923 Sapulpa (Southwestern)
+player 1924 Hutchinson (Western Association)
+player 1925 Kansas City (American Association)
+
+---
+
+!citation The Indianapolis News @ 1925-01-29; page 27
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_232 Redman, August
+birth 1899-12-10 @ US/MA/North Andover
+describe H70 W175 BR TR
+player 1919 Worcester (Eastern)
+player 1920 Worcester (Eastern)
+player 1921 Worcester (Eastern)
+player 1922 Fitchburg (Eastern)
+player 1922 Hartford (Eastern)
+player 1923 Hartford (Eastern)
+player 1924 Hartford (Eastern)
+player 1925 Louisville (American Association)
+college Hebron Academy; location=US/ME/Hebron; note=1 year
+college Purdue University; note=1 year
+college Norwich University; note=2 years
+
+---
+
+!citation The Indianapolis News @ 1925-02-04; page 21
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_233 Six, Franklin Marshal
+birth 1904-06-20 @ US/MD/Frederick
+describe H69 W165 BR TR
+player 1923 Frederick (Blue Ridge)
+player 1924 Frederick (Blue Ridge)
+player 1925 Columbus (American Association)
+
+---
+
+!citation The Indianapolis News @ 1925-02-09; page 23
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_234 Ross, Harold Stacey
+birth 1899-12-29 @ US/PA/Kushequa
+describe H69.75 W165 BR TL
+player 1923 Baltimore (International)
+player 1924 Raleigh (Piedmont)
+player 1925 Milwaukee (American Association)
+
+---
+
+!citation The Indianapolis News @ 1925-02-27; page 35
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_235 Green, Albert Edward
+birth 1897-02-23 @ US/MS/Adrian
+describe H73 W190 BR TR @P
+player 1924 Louisville (American Association); P_G 4
+player 1924 Paris (Blue Grass)
+player 1925 Louisville (American Association)
+
+---
+
+!citation The Indianapolis News @ 1925-03-05; page 27
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_236 Finnerman, Jack Arthur
+birth 1901-08-23 @ US/IL/Chicago
+describe H65.5 W162 BL TL @P
+player 1923 Rhinelander (Northern Wisconsin); caliber=semi-pro; location=US/WI/Rhinelander
+player 1924 Reading (International)
+player 1924 Rhinelander (Northern Wisconsin); caliber=semi-pro; location=US/WI/Rhinelander
+player 1925 Kansas City (American Association)
+
+---
+
+!citation The Indianapolis News @ 1925-03-07; page 17
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_237 Eng, Carl Oscar
+birth 1900-10-22 @ US/MN/Odin
+describe H74 W175 BL TR @P
+player 1923 Marshalltown (Mississippi Valley)
+player 1923 Minneapolis (American Association)
+player 1924 Des Moines (Western)
+player 1925 Minneapolis (American Association)
+
+---
+
+!citation The Indianapolis News @ 1925-03-13; page 35
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_238 Walsh, John Patrick
+birth 1900-01-07 @ US/MA/Brockton
+describe H70 W160 BR TR
+player 1922 Salina (Southwestern)
+player 1925 Louisville (American Association)
+college Holy Cross; attended 1919-1921
+college St. Mary's College; location=US/KS; graduated 1922
+
+---
+
+!citation The Indianapolis News @ 1925-03-24; page 15
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_239 House, Walter Elbert
+birth 1906-02-08 @ US/IA/Farmington
+describe H71.5 W170 BL TL @P
+player 1924 Ottumwa (Mississippi Valley)
+player 1924 Burlington (Mississippi Valley)
+player 1925 Minneapolis (American Association)
+
+---
+
+!citation The Indianapolis News @ 1925-03-19; page 32
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_240 McCracken, James Ovid
+birth 1897-10-17 @ US/IN/Windfall
+describe H72.5 W175 BR TR @P
+player 1921 Cedar Rapids (Illinois-Indiana-Iowa)
+player 1922 Cedar Rapids (Mississippi Valley)
+player 1922 Detroit (American)
+player 1923 Rockford (Illinois-Indiana-Iowa)
+player 1924 Waterloo (Mississippi Valley)
+player 1925 Milwaukee (American Association)
+
+---
+
+!citation The Indianapolis News @ 1925-03-27; page 34
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_241 Sengstock, Fred William
+birth 1898-05-02 @ US/WI/New London
+describe H67 W164 BL TR
+player 1921 Milwaukee (American Association)
+player 1922 Milwaukee (American Association)
+player 1922 Danville (Illinois-Indiana-Iowa)
+player 1923 Danville (Illinois-Indiana-Iowa)
+player 1923 Peoria (Illinois-Indiana-Iowa)
+player 1924 Peoria (Illinois-Indiana-Iowa)
+player 1925 Minneapolis (American Association)
+
+---
+
+!citation The Indianapolis News @ 1925-03-30; page 21
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_242 Quintana, Rafael
+birth 1903-01-12 @ CU//La Habana
+describe H66 W160 BR TR
+player 1923 New York (American)
+player 1923 Albany (Eastern)
+player 1923 Peoria (Illinois-Indiana-Iowa)
+player 1924 Havana; caliber=semi-pro
+player 1925 Columbus (American Association)
+
+---
+
+!citation The Indianapolis News @ 1925-04-01; page 27
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_243 Snyder, Robert A.
+birth 1895-10-15 @ US/CA/Santa Rosa
+describe H76 W175 BR TR
+player 1915 Fresno (California State)
+player 1917 Vernon (Pacific Coast)
+player 1917 Vancouver (Pacific International)
+player 1918 Vancouver (Pacific International)
+player 1918 Vernon (Pacific Coast)
+player 1919 Peoria (Illinois-Indiana-Iowa)
+player 1920 Bloomington (Illinois-Indiana-Iowa)
+player 1921 Regina (Western Canada)
+player 1922 Tacoma (Pacific International)
+player 1923 Sioux City (Western)
+player 1924 Lincoln (Western)
+player 1925 Kansas City (American Association)
+
+---
+
+!citation The Indianapolis News @ 1925-04-06; page 23
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_244 Anderson, Dewey Anton
+birth 1902-11-04 @ US/MN/St. Paul
+describe H71 W170 BR TR @P
+player 1924 St. Paul (American Association); note: spring training
+player 1925 St. Paul (American Association)
+
+---
+
+!citation The Indianapolis News @ 1925-04-13; page 24
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_245 Bailey, Frank P.
+birth 1903-11-06 @ US/IL/Waukegan
+describe H71 W175 BR TR @1B
+player 1924 Waukegan; caliber=semi-pro; location=US/IL/Waukegan
+player 1925 Milwaukee (American Association)
+
+---
+
+!citation The Indianapolis News @ 1926-01-04; page 25
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_246 Montgomery, Alvin Reid
+birth 1902-10-17 @ US/CA/Alameda
+describe H71 W155 BR TL @P
+player 1924 Pittsburgh (National)
+player 1924 Flint (Michigan-Ontario)
+player 1925 Flint (Michigan-Ontario)
+player 1926 Kansas City (American Association)
+college University of California
+
+---
+
+!citation The Indianapolis News @ 1926-01-14; page 21
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_247 Cross, John William
+birth 1900-06-16 @ US/OH/Crestline
+describe H72 W180 BL TL
+player 1921 Rock Island (Illinois-Indiana-Iowa)
+player 1922 London (Michigan-Ontario)
+player 1923 London (Michigan-Ontario)
+player 1924 London (Michigan-Ontario)
+player 1925 London (Michigan-Ontario)
+player 1926 Louisville (American Association)
+
+---
+
+!citation The Indianapolis News @ 1926-01-19; page 23
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_248 Gore, Lane Owen
+birth 1902-11-24 @ US/TN/Thorndale
+describe H70.5 W165 BR TR @P
+player 1925 St. Paul (American Association); P_G 7
+player 1926 St. Paul (American Association)
+college Baylor University
+
+---
+
+!citation The Indianapolis News @ 1926-01-20; page 21
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_249 Stith, Harold Cryder
+birth 1904-08-29 @ US/OH/Columbus
+describe H74 W185 BR TR @P
+player 1925 Frederick (Blue Ridge); P_1 P_IP 9 P_H 9 P_BB 4 P_SO 3 P_W 1 B_AVG .250 F_PCT 1.000
+player 1926 Columbus (American Association)
+
+---
+
+!citation The Indianapolis News @ 1926-01-25; page 19
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_250 Roper, Clarence Patrick
+birth 1900-02-03 @ US/MO/St. Louis
+describe H71 W165 BR TR
+player 1920 Kalamazoo (Central)
+player 1921 Kalamazoo (Central)
+player 1922 Kalamazoo (Central)
+player 1922 Grand Rapids (Michigan-Ontario)
+player 1923 Grand Rapids (Michigan-Ontario)
+player 1924 Grand Rapids (Michigan-Ontario)
+player 1924 Chattanooga (Southern Association)
+player 1925 Hamilton (Michigan-Ontario)
+player 1926 Kansas City (American Association)
+
+---
+
+!citation The Indianapolis News @ 1926-01-27; page 21
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_251 Burke, Vincent D.
+birth 1900-01-09 @ US/IA/Sioux City
+describe H71 W185 BL TR @P
+player 1922 Fairbury (Nebraska State)
+player 1922 Sioux City (Western)
+player 1923 Albert Lea; caliber=semi-pro; location=US/MN/Albert Lea
+player 1924 Albert Lea; caliber=semi-pro; location=US/MN/Albert Lea
+player 1925 Albert Lea; caliber=semi-pro; location=US/MN/Albert Lea
+player 1926 Milwaukee (American Association)
+
+---
+
+!citation The Indianapolis News @ 1926-01-28; page 28
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_252 Hurt, Jacob Inman
+birth 1902-03-27 @ US/TN/Kenton
+describe H68 W150 BR TR
+player 1921 Rockford (Illinois-Indiana-Iowa)
+player 1922 Meridian (Cotton States)
+player 1923 Laurel (Cotton States)
+player 1923 Little Rock (Southern Association)
+player 1924 Galveston (Texas)
+player 1925 Danville (Illinois-Indiana-Iowa)
+player 1926 Minneapolis (American Association)
+
+---
+
+!citation The Indianapolis News @ 1926-02-01; page 22
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_253 Frew, Robert Maurice
+birth 1901-12-02 @ US/NC/Rock Hill
+describe H70.5 W158 BL TR
+player 1922 Lumberton (Interstate Carolina); caliber=semi-pro; location=US/NC/Lumberton
+player 1923 Greenwood (Carolina); caliber=semi-pro; location=US/SC/Greenwood
+player 1924 Detroit (American); note: spring training
+player 1924 Richmond (Virginia)
+player 1925 Pittsburgh (National); note: spring training
+player 1925 Spartanburg (South Atlantic)
+player 1926 Kansas City (American Association)
+college Washington and Lee
+
+---
+
+!citation The Indianapolis News @ 1926-02-09; page 23
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_254 Menoskey, J. C. [Mike]
+birth 1895-08-17 @ US/MI/Flint
+describe H71 W165 BL TR
+player 1913 Allentown (Tri-State)
+player 1914 Pittsburgh (Federal)
+player 1915 New Haven (Colonial)
+player 1916 Duluth (Northern)
+player 1916 Minneapolis (American Association)
+player 1916 Washington (American)
+player 1917 Washington (American)
+player 1919 Washington (American)
+player 1920 Boston (American)
+player 1921 Boston (American)
+player 1922 Boston (American)
+player 1923 Boston (American)
+player 1924 Vernon (Pacific Coast)
+player 1925 Rochester (International)
+player 1926 Columbus (American Association)
+
+#20201005_255 Feigert, Albert Earl
+birth 1902-03-08 @ US/PA/Sharon
+describe H71.5 W170 BL TL
+player 1922 Flint (Michigan-Ontario)
+player 1923 Flint (Michigan-Ontario)
+player 1923 Wichita Falls (Texas)
+player 1923 Pittsburgh (National)
+player 1924 Flint (Michgan-Ontario)
+player 1924 Birmingham (Southern Association)
+player 1925 Flint (Michigan-Ontario)
+player 1926 Kansas City (American Association)
+
+---
+
+!citation The Indianapolis News @ 1926-02-19; page 33
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_256 Coovert, Charles Trumbull
+birth 1905-04-24 @ US/WA/Vancouver
+describe H72 W150 BL TL @P
+player 1926 St. Paul (American Association)
+college Mount Angel; location=US/WA
+
+#20201005_257 Nadolson, Walter Philip
+birth 1906-02-03 @ US/OH/Newark
+describe H71 W165 BR TR @C
+player 1926 Columbus (American Association)
+
+---
+
+!citation The Indianapolis News @ 1926-02-27; page 17
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_258 Mulvey, Emmett J.
+birth 1896-09-16 @ US/MO/St. Louis
+describe H70 W170 BL TL
+player 1916 Davenport (Illinois-Indiana-Iowa)
+player 1917 Fort Worth (Texas)
+player 1917 McAlester (Western Association)
+player 1918 Baltimore (International)
+player 1918 St. Louis (American)
+player 1919 Salt Lake (Pacific Coast)
+player 1920 Mobile (Southern Association)
+player 1921 Mobile (Southern Association)
+player 1922 Mobile (Southern Association)
+player 1923 Mobile (Southern Association)
+player 1924 Mobile (Southern Association)
+player 1925 Mobile (Southern Association)
+player 1926 Louisville (American Association)
+
+---
+
+!citation The Indianapolis News @ 1926-03-02; page 23
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_259 Flippin, Lloyd Allen
+birth 1898-11-13 @ US/TX/Vista
+describe H68.5 W160 BR TR
+player 1921 Sapulpa (Southwestern)
+player 1922 Sapulpa (Southwestern)
+player 1923 Sapulpa (Southwestern)
+player 1924 Tulsa (Western)
+player 1925 Tulsa (Western)
+player 1926 Milwaukee (American Association)
+
+---
+
+!citation The Indianapolis News @ 1926-03-05; page 37
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_260 Harris, James Peter
+birth 1901-11-26 @ US/TN/Union
+describe H71.5 W170 BB TL @P
+player 1921 Greenville (Appalachian)
+player 1922 Grand Rapids (Michigan-Ontario)
+player 1923 Grand Rapids (Michigan-Ontario)
+player 1923 Nashville (Southern Association)
+player 1924 Nashville (Southern Association)
+player 1924 London (Michigan-Ontario)
+player 1925 London (Michigan-Ontario)
+
+---
+
+!citation The Indianapolis News @ 1926-03-10; page 20
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_261 Tice, George
+birth 1901-09-08 @ US/PA/Pittsburgh
+describe H71 W170 BL TL
+player 1921 Pittsburgh (National)
+player 1921 Coffeyville (Southwestern)
+player 1922 Charleston (South Atlantic)
+player 1922 Norfolk (Virginia)
+player 1923 Flint (Michigan-Ontario)
+player 1924 Flint (Michigan-Ontario)
+player 1925 Flint (Michigan-Ontario)
+
+---
+
+!citation The Indianapolis News @ 1926-03-18; page 25
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_262 Baylin, Martin Thomas
+birth 1902-09-01 @ US/PA/Ramey
+describe H71.75 W165 BR TR
+player 1921 Knoxville (Appalachian)
+player 1922 Louisville (American Association)
+player 1923 Louisville (American Association)
+player 1923 Terre Haute (Illinois-Indiana-Iowa)
+player 1924 Louisville (American Association)
+player 1925 Chattanooga (Southern Association)
+
+---
+
+!citation The Indianapolis News @ 1926-03-20; page 17
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_263 Trefz, Arthur
+birth 1903-12-14 @ US/MO/St. Louis
+describe H73 W195 BR TR
+player 1922 Beaumont (Texas)
+player 1922 Okmulgee (Western Association)
+player 1922 Fulton (Kentucky-Indiana-Tennessee)
+player 1924 Arkansas City (Southwestern)
+player 1924 Newton (Southwestern)
+player 1925 Centralia (Central Missouri); caliber=semi-pro
+player 1926 St. Paul (American Association)
+
+---
+
+!citation The Indianapolis News @ 1926-03-24; page 25
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_264 Hruska, Jack E.
+birth 1893-07-07 @ US/WI/Racine
+describe H70 W170 BR TR
+player 1912 Racine (Wisconsin-Illinois)
+player 1913 LaCrosse (Northern)
+player 1914 Galesburg (Central Association)
+player 1915 Muscatine (Central Association)
+player 1916 Muscatine (Central Association)
+player 1917 Waterloo (Central Association)
+player 1920 Cedar Rapids (Illinois-Indiana-Iowa)
+player 1921 Dallas (Texas)
+player 1921 San Antonio (Texas)
+player 1924 Columbus (American Association)
+player 1924 Flint (Michigan-Ontario)
+player 1925 Flint (Michigan-Ontario)
+player 1926 Toledo (American Association)
+
+#20201005_265 Fishbaugh, Harry William
+birth 1905-09-09 @ US/OH/Pickerington
+describe H73 W180 BR TR @P
+player 1925 Martinsburg (Blue Ridge)
+player 1926 Columbus (American Association)
+
+---
+
+!citation The Indianapolis News @ 1926-03-25; page 33
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_266 Reynolds, Arthur Gerard
+birth 1890-07-09 @ US/MA/Stoneham
+describe H70.5 W170 BL TR
+player 1918 Syracuse (International)
+player 1923 Toronto (International)
+player 1924 Toronto (International)
+player 1926 Indianapolis (American Association)
+college Georgetown University
+
+---
+
+!citation The Indianapolis News @ 1926-04-03; page 17
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_267 Lynch, James L.
+birth 1895-08-12 @ US/NY/New York
+describe H72 W175 BL TL @P
+player 1917 Chicago (National)
+player 1917 Toronto (International)
+player 1920 Boston (American)
+player 1920 Indianapolis (American Association)
+player 1920 Peoria (Illinois-Indiana-Iowa)
+player 1923 Jersey City (International)
+player 1923 Baltimore (International)
+player 1924 Newark (International)
+player 1924 Hartford (Eastern)
+player 1925 York (New York-Pennsylvania)
+player 1926 Louisville (American Association)
+college Fordham University
+
+---
+
+!citation The Indianapolis News @ 1926-04-05; page 23
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_268 Moss, Robert Kenneth
+birth 1909-04-02 @ US/KY/Louisville
+describe H71 W157 BR TR
+player 1925 Trinity; caliber=semi-pro; location=US/KY/Louisville; B_G 1 B_AVG .200 F_PCT 1.000
+player 1926 Louisville (American Association)
+
+---
+
+!citation The Indianapolis News @ 1926-04-09; page 41
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_269 Johnson, Elbert
+birth 1900-09-05 @ US/KY/Auburn
+describe H72 W175 BL TR @P
+player 1921 Wahpeton (Dakota)
+player 1922 Aberdeen (Dakota)
+player 1923 Shreveport (Texas)
+player 1923 Norfolk (Virginia)
+player 1924 Des Moines (Western)
+player 1924 Pittsfield (Eastern)
+player 1925 Pittsfield (Eastern)
+player 1926 Columbus (American Association)
+college Bethel College
+
+---
+
+!citation The Indianapolis News @ 1926-04-10; page 15
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_270 Philbin, Frank Eugene
+birth 1903-12-18 @ US/CO/Denver
+describe H72 W167 BB TR
+player 1921 Des Moines (Western)
+player 1922 Mobile (Southern Association)
+player 1923 Mobile (Southern Association)
+player 1923 Little Rock (Southern Association)
+player 1924 Little Rock (Southern Association)
+player 1925 Little Rock (Southern Association)
+college Colorado University; note: attened two years
+
+---
+
+!citation The Indianapolis News @ 1926-04-12; page 22
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_271 Dean, Harry C.
+birth 1900-07-15 @ US/VA/Nicklesville
+describe H70.5 W165 BR TR @P
+player 1921 Greeneville (Appalachian)
+player 1922 Kingsport (Appalachian)
+player 1926 Louisville (American Association)
+
+---
+
+!citation The Gazette @ 1938-04-07; page 15
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_272 Porter, Robert Edward Lee
+birth 1911-07-19 @ US/AR/Jonesboro
+describe H71 W175 BR TR @P
+player 1928 Little Rock (Southern Association)
+player 1929 Little Rock (Southern Association)
+player 1929 Vicksburg (Cotton States)
+player 1929 Monroe (Cotton States)
+player 1930 Vicksburg (Cotton States)
+player 1930 Denver (Western)
+player 1931 Denver (Western)
+player 1932 Elmira (New York-Pennsylvania); P_G 10 P_W 1 P_L 4 P_IP 47 P_SO 12 P_BB 22 P_H 37 P_ERA 3.45
+player 1933 Minneapolis (American Association)
+player 1934 Little Rock (Southern Association)
+player 1935 Little Rock (Southern Association)
+player 1936 Cleveland (Cotton States); P_G 0 P_W 5 P_L 3 P_IP 72 P_SO 35 P_BB 15 P_H 82 P_ERA 2.65
+player 1936 Little Rock (Southern Association)
+player 1937 Little Rock (Southern Association)
+player 1938 Montreal (International)
+
+---
+
+!citation Hartford Courant @ 1930-04-20; page 46
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_273 Dougherty, Neil J.
+birth 1904-09-12 @ US/PA/Hazleton
+describe H70 W160 BL TL
+player 1923 York (New York-Pennsylvania)
+player 1924 York (New York-Pennsylvania)
+player 1925 York (New York-Pennsylvania)
+player 1926 York (New York-Pennsylvania)
+player 1926 Shamokin (New York-Pennsylvania)
+player 1927 Shamokin (New York-Pennsylvania)
+player 1927 Reading (International)
+player 1928 Reading (International)
+player 1928 Waterbury (Eastern)
+player 1929 Springfield (Eastern)
+player 1930 Springfield (Eastern)
+
+---
+
+!citation Hartford Courant @ 1930-04-21; page 14
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_274 Kunesh, Edward John
+birth 1904-10-27 @ US/OH/Cleveland
+describe H71 W170 BL TR
+player 1924 Wichita (Western)
+player 1925 Wichita (Western)
+player 1925 Springfield (Illinois-Indiana-Iowa)
+player 1926 Nashua (New England)
+player 1926 Rochester (International)
+player 1927 Rochester (International)
+player 1928 Jersey City (International)
+player 1929 Jersey City (International)
+player 1930 Providence (Eastern)
+
+---
+
+!citation Hartford Courant @ 1930-05-03; page 15
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_275 Allen, Lou
+birth 1907-02-28 @ US/PA/Duryea
+describe H67.5 W170 BR TR
+player 1927 Hanover (Blue Ridge)
+player 1928 Hanover (Blue Ridge)
+player 1929 Wilkes-Barre (New York-Pennsylvania)
+player 1930 Bridgeport (Eastern)
+
+---
+
+!citation Hartford Courant @ 1930-05-07; page 20
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_276 Albert, John G.
+birth 1905-07-18 @ US/MD/Baltimore
+describe H70 W160
+player 1922 Parksley (Eastern Shore)
+player 1924 Frederick (Blue Ridge)
+player 1924 Baltimore (International)
+player 1925 Hagerstown (Blue Ridge)
+player 1925 Cumberland (Eastern Shore)
+player 1926 Binghamton (New York-Pennsylvania)
+player 1927 Binghamton (New York-Pennsylvania)
+player 1928 Reading (International)
+player 1929 Bridgeport (Eastern)
+player 1930 Bridgeport (Eastern)
+
+---
+
+!citation Hartford Courant @ 1930-05-14; page 9
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_277 Bryant, Herbert Alexander
+birth 1902-07-29 @ US/SC/Rock Hill
+describe H70 W175 BR TR
+player 1927 Raleigh (Piedmont)
+player 1928 Little Rock (Southern Association)
+player 1928 Hartford (Eastern)
+player 1929 Hartford (Eastern)
+player 1930 Hartford (Eastern)
+college Oglethorpe
+
+---
+
+!citation Hartford Courant @ 1930-05-16; page 20
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_278 Brown, Walter Page
+birth 1908-02-02 @ US/NY/New York
+describe H69 W168 BR TR
+player 1927 Toronto (International)
+player 1928 Hartford (Eastern)
+player 1929 Hartford (Eastern)
+player 1929 Bridgeport (Eastern)
+player 1930 Hartford (Eastern)
+college Brown University
+
+---
+
+!citation Hartford Courant @ 1930-05-24; page 15
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_279 Jones, Sam Thomas
+birth 1907-09-15 @ US/TX/Dallas
+describe H71 W177 BR TR
+player 1927 Pittsfield (Eastern)
+player 1928 Spartanburg (Piedmont)
+player 1929 Providence (Eastern)
+player 1930 Providence (Eastern)
+brother of Jones, Percy Lee
+
+---
+
+!citation Hartford Courant @ 1930-05-26; page 14
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_280 Pond, Arthur
+birth 1896-07-30 @ US/AL/Mobile
+describe H71.5 W185 BR TR
+player 1916 Rome (Georgia-Alabama)
+player 1917 Rome (Georgia-Alabama)
+player 1917 Mobile (Southern Association)
+player 1918 Mobile (Southern Association)
+player 1922 Memphis (Southern Association)
+player 1923 Portsmouth (Virginia)
+player 1924 Portsmouth (Virginia)
+player 1925 Buffalo (International)
+player 1926 Buffalo (International)
+player 1927 Buffalo (International)
+player 1928 Buffalo (International)
+player 1928 Providence (Eastern)
+player 1929 Providence (Eastern)
+player 1930 Providence (Eastern)
+
+---
+
+!citation Hartford Courant @ 1930-05-28; page 9
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_281 Watson, Herbert [Skee]
+birth 1907-02-22 @ US/WA/Tacoma
+describe H71 W155 BR TR
+player 1927 Nashua (New England)
+player 1927 Kinston (Virginia)
+player 1927 Easton (Eastern Shore)
+player 1928 Hartford (Eastern)
+player 1929 Hartford (Eastern)
+player 1930 Hartford (Eastern)
+college New York University
+
+---
+
+!citation Hartford Courant @ 1930-06-05; page 10
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_282 Hines, James J.
+birth 1905-11-25 @ US/NY/New York
+describe H72 W170 BR TR
+player 1926 Petersburg (Virginia)
+player 1927 Petersburg (Virginia)
+player 1927 Norfolk (Virginia)
+player 1928 Springfield (Eastern)
+player 1929 Springfield (Eastern)
+player 1930 Pittsfield (Eastern)
+
+---
+
+!citation Hartford Courant @ 1931-05-05; page 14
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_283 Stapleton, Frank Joseph
+birth 1900-06-30 @ US/CT/Bridgeport
+describe H71 W165 BL TL
+player 1921 Pittsfield (Eastern)
+player 1922 Pittsfield (Eastern)
+player 1923 Pittsfield (Eastern)
+player 1924 Pittsfield (Eastern)
+player 1925 Pittsfield (Eastern)
+player 1925 Waterbury (Eastern)
+player 1926 Bridgeport (Eastern)
+manager 1926 Bridgeport (Eastern)
+player 1927 Bridgeport (Eastern)
+player 1928 Montreal (International)
+player 1929 Wichita Falls (Texas)
+player 1930 Beaumont (Texas)
+player 1931 Springfield (Eastern)
+
+---
+
+!citation Hartford Courant @ 1925-03-13; page 14
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_284 Maley, Joseph Patrick
+birth 1907-05-07 @ US/WI/Milwaukee
+describe H74 W175 BR TR
+resides 1925 @ US/IL/Chicago
+player 1924 Richmond (Virginia)
+player 1925 New York (American)
+
+---
+
+!citation The Iola Register @ 1948-04-23; page 8
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_285 Brzycki, Henry Richard [Hank]
+describe H71 W155 BL TL age 20
+player 1948 Iola (Kansas-Oklahoma-Missouri)
+
+#20201005_286 Jordan, John Eugene [Jack]
+describe H67.5 W160 BL TR age 26
+player 1947 Chanute (Kansas-Oklahoma-Missouri)
+player 1948 Iola (Kansas-Oklahoma-Missouri)
+
+#20201005_287 McDaniel, Raymond
+describe H71.5 W185 BR TR age 18
+player 1948 Iola (Kansas-Oklahoma-Missouri)
+
+#20201005_288 Raines, Jesse James [Jess]
+describe H69.5 W160 BR TR age 22
+player 1947 Iola (Kansas-Oklahoma-Missouri)
+player 1948 Iola (Kansas-Oklahoma-Missouri)
+
+#20201005_289 Sullivan, Arthur James [Sully]
+describe H68.5 W168 BR TR age 22
+player 1948 Iola (Kansas-Oklahoma-Missouri)
+
+#20201005_290 Stemme, Lynn Clarence [Stem]
+describe H74 W178 BL TL age 19
+player 1948 Iola (Kansas-Oklahoma-Missouri)
+
+#20201005_291 Swim, William Calvin
+describe H73 W180 BR TR age 25
+player 1948 Iola (Kansas-Oklahoma-Missouri)
+
+#20201005_292 Walz, Howard LeRoy [Buck]
+describe H70 W160 BR TR age 19
+player 1947 Iola (Kansas-Oklahoma-Missouri)
+player 1948 Iola (Kansas-Okalhoma-Missouri)
+
+#20201005_293 Wood, Richard
+describe H73 W175 BB TL age 20
+player 1947 Iola (Kansas-Oklahoma-Missouri)
+player 1948 Iola (Kansas-Oklahoma-Missouri)
+
+#20201005_294 Zinni, Phillip
+describe H72 W195 BL TL age 19
+player 1948 Iola (Kansas-Oklahoma-Missouri)
+
+---
+
+!citation Star Tribune @ 1923-02-15; page 15
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_295 Chestnut, Samuel David
+birth 1896-03-25 @ US/KY/Trenton
+describe H70.5 W155 BL TR
+player 1921 Evansville (Illinois-Indiana-Iowa)
+player 1922 Madisonville (Kentucky-Indiana-Tennessee)
+player 1923 Louisville (American Association)
+college Centre College; attended 1913
+college Cumberland University; attended 1914 and 1915
+
+---
+
+!citation The Tennessean @ 1923-04-04; page 8
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_296 Schulte, Leo William
+birth 1900-06-03 @ US/IN/Holland
+describe H68.5 W147 BR TR
+player 1922 Madisonville (Kentucky-Indiana-Tennessee)
+player 1923 Chattanooga (Southern Association)
+
+---
+
+!citation The Tennessean @ 1923-03-06; page 12
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_297 Henderson, James Hobert
+birth 1901-02-04 @ US/AL/Birmingham
+describe H73 W175 BR TL @P
+player 1921 Meridian (Mississippi State)
+player 1923 Little Rock (Southern Association)
+
+---
+
+!citation The Tennessean @ 1923-04-16; page 6
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_298 Whittaker, Robert William
+birth 1890-09-12 @ US/MO/St. Louis
+describe H67 W175 BR TR
+player 1910 Fort Wayne (Central)
+player 1910 La Crosse (Minnesota-Wisconsin)
+player 1911 Fort Wayne (Central)
+player 1912 Keokuk (Central Association)
+player 1913 Keokuk (Central Association)
+player 1914 Koekuk (Central Association)
+player 1915 Keokuk (Central Association)
+player 1916 Lewiston (New England)
+player 1917 Galveston (Texas)
+player 1917 Fort Worth (Texas)
+player 1918 Fort Worth (Texas)
+player 1919 Fort Worth (Texas)
+player 1920 Fort Worth (Texas)
+player 1920 Boston (American)
+player 1921 Fort Worth (Texas)
+player 1922 Fort Worth (Texas)
+player 1923 New Orleans (Southern Association)
+
+---
+
+!citation Chattanooga Daily Times @ 1925-01-05; page 8
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_299 O'Brinksi, Raymond John
+birth 1903-02-28 @ US/MO/St. Louis
+describe H69 W165 BR TR @SS
+player 1923 Mayfield (Kentucky-Indiana-Tennessee)
+player 1924 Muskegeon (Michigan-Ontario); B_G 57 B_AB 206 B_R 27 B_H 61 B_2B 9 B_3B 4 B_HR 2 B_SB 4 B_AVG .296 F_PO 134 F_A 157 F_E 20 F_PCT .936
+player 1924 Boston (American); note=spring training
+
+---
+
+!citation Chattanooga Daily Times @ 1925-01-06; page 10
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_300 Gilbert, George Howard
+birth 1894-07-20 @ US/IL/Chicago
+describe H73 W168 BB TL @P
+player 1914 Traverse City (Michigan State)
+player 1924 Nashville (Southern Association); P_G 3 P_W 2 P_L 0 B_AVG .333
+player 1925 Nashville (Southern Association)
+
+---
+
+!citation Chattanooga Daily Times @ 1925-01-11; page 22
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_301 Hill, Archie
+birth 1901-10-04 @ US/MI/Capac
+describe H67 W160 BL TR
+player 1921 Flint (Michigan-Ontario)
+player 1922 Port Huron (Michigan-Ontario)
+player 1924 Grand Rapids (Michigan-Ontario)
+player 1925 Birmingham (Southern Association)
+
+---
+
+!citation Chattanooga Daily Times @ 1925-01-19; page 8
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_302 Shepherd, Rosco
+birth 1904-10-14 @ US/TN/Milligan
+describe H78 W185 BR TR @P
+player 1923 Johnson City (Appalachian)
+player 1924 Greenville (South Atlantic)
+player 1925 Atlanta (Southern Association)
+
+---
+
+!citation Chattanooga Daily Times @ 1925-01-21; page 10
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_303 Long, Horace Alfred
+birth 1902-05-27 @ US/SC/Greenville
+describe H73.5 W178 BR TR
+player 1925 Birmingham (Southern Association)
+
+---
+
+!citation Chattanooga Daily Times @ 1925-01-23; page 10
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_304 Bandrimer, Isey
+birth 1900-12-25 @ US/NY/New York
+describe H64 W158 BR TR
+player 1921 Raleigh (Piedmont)
+player 1922 Raleigh (Piedmont)
+player 1923 Little Rock (Southern Association)
+player 1924 Chattanooga (Southern Association)
+player 1924 Galveston (Texas)
+player 1924 Petersburg (Virginia); B_G 21 B_AB 72 B_R 14 B_H 16 B_2B 2 B_SH 5 B_SB 6 B_AVG .250 F_PO 53 F_A 67 F_E 2 F_PCT .984
+player 1925 Chattanooga (Southern Association)
+
+---
+
+!citation Chattanooga Daily Times @ 1925-01-26; page 8
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_305 Underwood, Jesse Ray
+birth 1900-09-16 @ US/MS/Kassuth
+describe H71 W173 BL TR
+player 1924 Laurel (Cotton States)
+player 1925 Chattanooga (Southern Association)
+
+---
+
+!citation Chattanooga Daily Times @ 1925-02-09; page 8
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_306 Dent, Wilbur McNeil
+birth 1902-07-27 @ US/MS/Newton
+describe H73 W170 BR TR @P
+player 1923 Jackson (Cotton States)
+player 1923 Mayfield (Kentucky-Indiana-Tennessee)
+player 1924 Hattiesburg (Cotton States)
+player 1924 New Orleans (Southern Association)
+college Southern Military College
+
+---
+
+!citation Chattanooga Daily Times @ 1925-02-12; page 8
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_307 McKay, Charles Earl
+birth 1900-06-20 @ US/TN/Dustown
+describe H71.5 W190 BR TR @P
+player 1924 Cynthiana (Blue Grass)
+player 1925 Chattanooga (Southern Association)
+
+---
+
+!citation Chattanooga Daily Times @ 1925-02-19; page 8
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_308 Drinket, Edward Jule
+birth 1903-04-21 @ US/PA/Centralia
+describe H70 W160 BR TR
+player 1920 Detroit (American)
+player 1920 Kalamazoo (Central)
+player 1921 Kalamazoo (Central)
+player 1921 Saginaw (Michigan-Ontario)
+player 1922 Ionia (Central)
+player 1925 Atlanta (Southern Association)
+
+---
+
+!citation Chattanooga Daily Times @ 1925-02-21; page 8
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_309 Farrar, Greer
+birth 1902-12-21 @ US/GA/McDonough
+describe H70 W165 BR TR @P
+player 1924 Meritas Mill; caliber=semi-pro; location=US/GA/Columbus
+player 1925 Chattanooga (Southern Association)
+college University of Georgia
+
+---
+
+!citation Chattanooga Daily Times @ 1925-02-22; page 22
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_310 Farrell, Francis Leo
+birth 1901-01-06 @ US/PA/Emporium
+describe H74 W180 BR TR
+player 1921 Baltimore (International)
+player 1921 High Point (Piedmont)
+player 1922 New York (National)
+player 1922 Waterbury (Eastern)
+player 1923 Pittsburgh (National)
+player 1923 Flint (Michigan-Ontario)
+player 1923 Martinsburg (Blue Ridge)
+player 1924 Martinsburg (Blue Ridge)
+player 1924 Chambersburg (Blue Ridge)
+player 1925 Nashville (Southern Association)
+
+---
+
+!citation Chattanooga Daily Times @ 1925-02-23; page 8
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_311 Sloan, Thomas Francis
+birth 1895-11-12 @ US/PA/Pittsburgh
+describe H72 W175 BR TR @P
+player 1915 Valdosta (Florida-Alabama-Georgia)
+player 1916 Baltimore (International)
+player 1916 Gettysburg (Blue Ridge)
+player 1920 Hartford (Eastern)
+player 1921 Hartford (Eastern)
+player 1922 Hartford (Eastern)
+player 1923 Hartford (Eastern)
+player 1924 Hartford (Eastern)
+player 1925 New Orleans (Southern Association)
+
+---
+
+!citation Chattanooga Daily Times @ 1925-02-26; page 14
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_312 Stammerman, Patrick Henry
+birth 1903-04-10 @ US/KY/Louisville
+describe H71 W168 BL TL
+player 1923 Wilmington (South Atlantic)
+player 1923 Milford (Eastern Shore)
+player 1923 Crisfield (Eastern Shore)
+player 1924 Newton (Southwestern)
+player 1925 Chattanooga (Southern Association)
+
+---
+
+!citation Chattanooga Daily Times @ 1925-02-28; page 10
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_313 Klindworth, Martin Ethbert
+birth 1901-09-28 @ US/KS/Kansas City
+describe H70.5 W163 BR TR
+player 1921 Greenville (Delta)
+player 1922 St. Louis (National)
+player 1922 Paducah (Kentucky-Indiana-Tennessee)
+player 1923 Paducah (Kentucky-Indiana-Tennessee)
+player 1924 Brookhaven (Cotton States)
+player 1925 Memphis (Southern Association)
+college Mississippi Agricultural And Mechanical College
+
+---
+
+!citation Chattanooga Daily Times @ 1925-03-06; page 10
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_314 Lackey, Dennis
+birth 1903-11-21 @ US/MS/Leakeville
+describe H70.5 W165 BL TR
+player 1925 Chattanooga (Southern Association)
+
+---
+
+!citation Chattanooga Daily Times @ 1925-03-12; page 10
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_315 Hall, Lewis Newell
+birth 1900-08-31 @ US/AL/Gardo
+describe H68.5 W160 BR TR
+player 1923 Columbus (American Association)
+player 1923 Waco (Texas Association)
+player 1924 Waco (Texas Association)
+player 1925 Atlanta (Southern Association)
+
+---
+
+!citation Chattanooga Daily Times @ 1925-03-23; page 8
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_316 Cooper, Albert Thomas
+birth 1903-02-16 @ US/MO/Flat River
+describe H72.5 W168 BL TR
+player 1922 Cedar Rapids (Mississippi Valley)
+player 1923 Cedar Rapids (Mississippi Valley)
+player 1923 Columbus (American Association)
+player 1924 Williamsport (New York-Pennsylvania)
+player 1925 Birmingham (Southern Association)
+
+---
+
+!citation Chattanooga Daily Times @ 1925-03-28; page 12
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_317 Beese, Raymond Peter
+birth 1903-01-29 @ US/IL/East St. Louis
+describe H67 W145 BR TR
+player 1924 Mayfield (Kentucky-Indiana-Tennessee)
+player 1925 Nashville (Southern Association)
+
+---
+
+!citation Chattanooga Daily Times @ 1925-04-07; page 10
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_318 Carpenter, Herbert Otto
+birth 1902-05-14 @ US/NC/Forest City
+describe H71.5 W158 BL TR
+player 1923 Portsmouth (Virginia)
+player 1924 Dyersburg (Kentucky-Indiana-Tennessee)
+player 1925 New Orleans (Southern Association)
+
+---
+
+!citation Chattanooga Daily Times @ 1925-04-15; page 8
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_319 Fowlkes, Daniel Roy
+birth 1895-12-26 @ US/TN/Dyersburg
+describe H77.25 W225 BR TR
+player 1917 Memphis (Southern Association)
+player 1917 Alton (Illinois-Indiana-Iowa)
+player 1920 Augusta (South Atlantic)
+player 1921 Augusta (South Atlantic)
+player 1922 Memphis (Southern Association)
+player 1923 Boston (American)
+player 1923 Memphis (Southern Association)
+player 1924 Memphis (Southern Association)
+player 1924 Shreveport (Texas)
+player 1924 San Antonio (Texas)
+player 1925 Nashville (Southern Association)
+
+---
+
+!citation Chattanooga Daily Times @ 1925-04-22; page 8
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_320 Lober, Elmer
+birth 1892-03-11 @ US/PA/Pittsburgh
+describe H69 W142 BL TL
+player 1910 Bartlesville (Western Association)
+player 1910 Kewanee (Central Association)
+player 1911 Kewanee (Central Association)
+player 1912 Los Angeles (Pacific Coast)
+player 1913 Los Angeles (Pacific Coast)
+player 1913 Portland (Pacific Coast)
+player 1914 Portland (Pacific Coast)
+player 1915 Portland (Pacific Coast)
+player 1916 Lincoln (Western)
+player 1917 Lincoln (Western)
+player 1918 Sioux City (Western)
+player 1919 Sioux City (Western)
+player 1920 Sioux City (Western)
+player 1921 Sioux City (Western)
+player 1921 Toledo (American Association)
+player 1921 Milwaukee (American Association)
+player 1922 Milwaukee (American Assoication)
+player 1923 Milwaukee (American Association)
+player 1924 Milwaukee (American Association)
+player 1925 Little Rock (Southern Association)
+
+---
+
+!citation Chattanooga Daily Times @ 1925-04-26; page 15
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_321 Chase, Frank
+birth 1904-08-13 @ US/MD/Riverdale
+describe H72 W155 BR TR @P
+player 1925 Mobile (Southern Association)
+
+---
+
+!citation Chattanooga Daily Times @ 1926-02-02; page 8
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_322 Walker, Eugene Thompson
+birth 1903-08-28 @ US/AR/Hamburg
+describe H73 W170 BR TR @P
+player 1925 Brookhaven (Cotton States); P_G 11 P_IP 74 P_H 71 P_BB 37 P_SO 20 P_W 2 P_L 9
+player 1926 Little Rock (Southern Association)
+
+---
+
+!citation Chattanooga Daily Times @ 1926-02-09; page 8
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_323 Horan, John Edward
+birth 1900-11-07 @ US/MA/Pittsfield
+describe H72 W175 BR TR
+player 1920 Springfield (Eastern)
+player 1921 Springfield (Eastern)
+player 1921 Albany (Eastern)
+player 1922 Iona (Central)
+player 1922 Kalamazoo (Central)
+player 1923 Grand Rapids (Michigan-Ontario)
+player 1924 Waterbury (Eastern)
+player 1924 Rochester (International)
+player 1925 Bridgeport (Eastern)
+player 1926 Chattanooga (Southern Association)
+
+---
+
+!citation Chattanooga Daily Times @ 1926-02-19; page 10
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_324 Statham, William Henry
+birth 1896-05-12 @ US/AL/Birmingham
+describe H71 W165 BR TR
+player 1920 Nashville (Southern Association)
+player 1921 Nashville (Southern Association)
+player 1922 Birmingham (Southern Association)
+player 1923 Laurel (Cotton States)
+player 1924 Laurel (Cotton States)
+player 1925 Laurel (Cotton States)
+player 1925 Memphis (Southern Association); P_G 2 P_W 2
+player 1926 Memphis (Southern Association)
+
+#20201005_325 Walsh, John Lee
+birth 1901-09-25 @ US/IL/Chicago
+describe H74 W185 BB TR
+player 1922 Port Huron (Michigan-Ontario)
+player 1922 Chicago (American)
+player 1923 Saginaw (Michigan-Ontario)
+player 1924 Muskegon (Michigan-Ontario)
+player 1924 Grand Rapids (Michigan-Ontario)
+player 1925 Greenville (South Atlantic)
+player 1926 Nashville (Southern Association)
+college University of Illinois
+
+---
+
+!citation Chattanooga Daily Times @ 1926-02-23; page 8
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_326 Euliss, G. Calvin
+birth 1899-07-30 @ US/NC/Greensboro
+describe H71 W175 BL TR
+player 1924 Greensboro (Piedmont)
+player 1925 Raleigh (Piedmont)
+player 1926 Birmingham (Southern Association)
+
+---
+
+!citation Chattanooga Daily Times @ 1926-03-01; page 8
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_327 Brown, Lynwood Earl
+birth 1904-06-30 @ US/NC/Ayden
+describe H72 W165 BR TR
+player 1925 Jonesboro (Tri-State)
+player 1926 Chattanooga (Southern Association)
+college Duke University
+college Atlantic Christian
+
+---
+
+!citation Chattanooga Daily Times @ 1926-03-05; page 10
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_328 Thrash, James Lee
+birth 1898-09-01 @ US/MO/Keytesville
+describe H67 W160 BL TR
+player 1920 Wichita Falls (Texas)
+player 1920 Gorman (West Texas)
+player 1920 Cisco (West Texas)
+player 1921 Cisco (West Texas)
+player 1921 Sweetwater (West Texas)
+player 1921 Galveston (Texas)
+player 1922 Galveston (Texas)
+player 1922 Sweetwater (West Texas)
+player 1923 Rockford (Illinois-Indiana-Iowa)
+player 1923 Kalamazoo (Michigan-Ontario)
+player 1923 Springfield (Western Association)
+player 1924 Waco (Texas)
+player 1925 Macon (Illinois-Missouri)
+player 1926 Nashville (Southern Association)
+
+---
+
+!citation Chattanooga Daily Times @ 1926-03-09; page 8
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_329 Sanders, James Rabern
+birth 1902-09-03 @ US/GA/Penfield
+describe H69.5 W160 BL TR
+player 1923 Orlando (Florida State)
+player 1924 Orlando (Florida State)
+player 1924 Charlotte (South Atlantic)
+player 1925 Salisbury (Piedmont)
+player 1926 Birmingham (Southern Association)
+
+---
+
+!citation Chattanooga Daily Times @ 1926-03-10; page 8
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_330 Johnson, Harvey Belton
+birth 1902-08-27 @ US/NC/Charlotte
+describe H72.5 W195 BR TR
+player 1925 Raleigh (Piedmont)
+player 1926 Chattanooga (Southern Association)
+college Duke University
+
+---
+
+!citation Chattanooga Daily Times @ 1926-03-11; page 8
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_331 Armstrong, George Francis
+birth 1899-05-18 @ US/CA/San Francisco
+describe H71 W170 BB TR
+player 1920 New York (National)
+player 1920 Waterbury (Eastern)
+player 1921 Waterbury (Eastern)
+player 1922 St. Paul (American Association)
+player 1923 St. Paul (American Association)
+player 1923 Kansas City (American Association)
+player 1924 Kansas City (American Association)
+player 1925 Milwaukee (American Association)
+player 1926 Little Rock (Southern Association)
+
+---
+
+!citation Chattanooga Daily Times @ 1926-03-13; page 8
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_332 Ritchie, Peter Dewey
+birth 1899-06-02 @ US/CA/Woodside
+describe H67.5 W168 BR TR
+player 1918 Seattle (Pacific Coast)
+player 1919 Seattle (Pacific Coast)
+player 1920 Seattle (Pacific Coast)
+player 1921 Seattle (Pacific Coast)
+player 1922 Seattle (Pacific Coast)
+player 1923 Seattle (Pacific Coast)
+player 1923 San Francisco (Pacific Coast)
+player 1924 Albany (Eastern)
+player 1924 San Francisco (Pacific Coast)
+player 1925 San Francisco (Pacific Coast)
+player 1926 Mobile (Southern Association)
+
+---
+
+!citation Chattanooga Daily Times @ 1926-03-16; page 10
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_333 Rouprich, Lester
+birth 1906-08-21 @ US/LA/McDonoughville
+describe H70.5 W173 BR TR
+player 1925 New Orleans (Southern Association)
+player 1925 Brookhaven (Cotton States)
+player 1925 Jackson (Tri-State)
+player 1926 New Orleans (Southern Association)
+
+---
+
+!citation Chattanooga Daily Times @ 1926-03-19; page 12
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_334 Cooper, Arthur Lee
+birth 1905-05-28 @ US/GA/Ringgold
+describe H73 W170 BR TL @P
+player 1925 Marshall (East Texas); P_G 14 P_IP 66 P_H 75 P_BB 49 P_SO 30 P_W 5 P_L 3
+player 1926 Chattanooga (Southern Association)
+
+---
+
+!citation Chattanooga Daily Times @ 1926-03-20; page 10
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_335 Cash, Frank
+birth 1906-08-07 @ US/IN/Harmony
+describe H72.5 W190 BR TR @P
+player 1924 Shawnee (Oklahoma State)
+player 1924 Muskogee (Western Association)
+player 1925 Muskogee (Western Association)
+player 1926 Little Rock (Southern Association)
+
+---
+
+!citation Chattanooga Daily Times @ 1926-04-06; page 8
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_336 Joyce, Raymond
+birth 1897-11-09 @ US/CT/Stamford
+describe H71 W168 BR TR @P
+player 1922 New Haven (Eastern)
+player 1923 New Haven (Eastern)
+player 1924 New Haven (Eastern)
+player 1924 Washington (American)
+player 1925 Omaha (Western)
+player 1925 Wichita (Western)
+player 1926 Birmingham (Southern Association)
+
+---
+
+!citation Chattanooga Daily Times @ 1926-04-12; page 12
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_337 Spikes, Lewis Everett
+birth 1903-04-12 @ US/NC/Rutherfordton
+describe H71 W178 BR TR
+player 1925 Asheville (South Atlantic)
+player 1926 Nashville (Southern Association)
+college Duke University
+
+---
+
+!citation Chattanooga Daily Times @ 1926-04-13; page 11
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201005_338 Farber, Edward
+birth 1902-10-12 @ US/IL/Chicago
+describe H71 W165 BB TR
+player 1925 Rock Island (Illinois-Indiana-Iowa)
+player 1926 New Orleans (Southern Association)

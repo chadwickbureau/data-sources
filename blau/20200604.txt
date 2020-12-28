@@ -1,0 +1,141 @@
+!citation South Bend Tribune @ 1915-04-27; page 10
+
+#20200604_001 Broder, Bert
+player 1915 South Bend (Southern Michigan)
+player 1913 Ludington (Michigan State)
+player 1913 Traverse City (Michigan State)
+birth 1890-04-01@US/MI/Grand Rapids
+
+#20200604_002 Lake, Harry
+player 1915 South Bend (Southern Michigan); BR TR H68.5 W170
+player 1909 Newark (Ohio-Pennsylvania)
+birth 1889-10-30@US/OH/Newark
+
+#20200604_003 Williams, Curt
+player 1915 South Bend (Southern Michigan); BL TL H70 W165
+player 1912 (I-I-I)
+player 1914 Battle Creek (Southern Michigan)
+player 1914 South Bend (Southern Michigan)
+obtained 1914-07-16 by South Bend (Southern Michigan) from Battle Creek (Southern Michigan) with Bob Green for Katsy Keifer and George Dobbins
+notes jumped team in 1912 and was suspended for two years
+
+#20200604_004 Beall, George
+player 1915 South Bend (Southern Michigan); BS TL H72 W168
+player 1913 Fort Wayne (Central)
+player 1913 Terre Haute (Central)
+player 1912 Salem (Ohio-Pennsylvania)
+birth 1894-09-15@US/IL/Chicago
+
+#20200604_005 Green, Robert Edward [Bob]
+player 1915 South Bend (Southern Michigan); BS TL H67.5 W155
+player 1910 Lima (Ohio State)
+player 1910 Marion (Northern State of Indiana)
+birth 1888@US/OH/Columbus
+
+#20200604_006 Vallandingham, Charles
+player 1915 South Bend (Southern Michigan); BL TR H72 W165
+player 1913 Fort Wayne (Central)
+resides 1915@US/KY/Winchester
+
+#20200604_007 Hill, Herb
+player 1915 South Bend (Southern Michigan)
+player 1913 Beaumont (Texas)
+player 1914 San Antonio (Texas)
+
+#20200604_008 Claffey, Joseph
+player 1915 South Bend (Southern Michigan); H66 W148
+player 1909 South Bend (Central)
+birth 1889-01-26@US/IN/South Bend
+resides 1915@US/IN/Mishawaka
+
+#20200604_009 Eschen, Jim
+player 1915 South Bend (Southern Michigan)
+player 1912 (Ohio State); @P
+player 1912 (Tri-State); @P
+
+#20200604_010 Helmer, Glenn
+player 1915 South Bend (Southern Michigan); TL H70 W170
+player 1911 Jackson (Southern Michigan)
+birth 1892-04-24@US/MI/Parma
+
+#20200604_011 Hixenbaugh, Calvin
+player 1915 South Bend (Southern Michigan); BR TR H67 W155
+birth 1890-03-31@US/IN/Freedom
+resides 1915@US/IN/Shelburne
+
+#20200604_012 Korfhagen, Lawrence
+player 1915 South Bend (Southern Michigan); BR TR H68 W168
+player 1913 Manistee (Michigan State)
+player 1914 Lynn (New England)
+player 1914 South Bend (Southern Michigan)
+birth 1893-03-28@US/OH/Cincinnati
+resides 1915@US/OH/Cincinnati
+
+#20200604_013 Duffy, Ed
+player 1915 South Bend (Southern Michigan); H71.5 W170
+player 1912 Springfield (Central)
+birth 1892-12-07@US//Washington
+
+#20200604_014 Koehler, Ben
+manager 1915 South Bend (Southern Michigan)
+
+---
+
+!citation South Bend Tribune @ 1915-08-12; page 10
+
+#20200604_015 Koehler, Ben
+manager 1915 St. Joseph (Western)
+notes manger since Southern Michigan League folded
+
+---
+
+!citation South Bend Tribune @ 1915-01-01; page 10
+
+#20200604_016 Smith, Ed
+owner 1915 South Bend (Southern Michigan)
+
+---
+
+!citation South Bend Tribune @ 1915-05-18; page 10
+
+#20200604_017 Williams
+player 1915 South Bend (Southern Michigan); @P
+
+---
+
+!citation Detroit Free Press @ 1915-04-04; page 18
+
+#20200604_018 Gross
+player 1915 South Bend (Southern Michigan); TL
+resides 1915@US/IN/Terre Haute
+
+---
+
+!citation South Bend Tribune @ 1915-04-07; page 10
+
+#20200604_019 Gross, Jess
+player 1915 South Bend (Southern Michigan); TL
+
+---
+
+!citation South Bend Tribune @ 1914-04-01; page 13
+
+#20200604_020 Maltby, Dale
+player 1914 Hastings (Independent)
+college University of Michigan
+
+---
+
+!citation South Bend Tribune @ 1915-06-29; page 10
+
+#20200604_021 Maltby
+player 1915 Saginaw (Southern Michigan)
+college University of Michigan
+
+---
+
+!citation Fort Worth Record @ 1915-07-11; page 13
+
+#20200604_022 Wagner, Billy
+player 1915 Fort Worth (Texas)
+released 1915-07-10 by Fort Worth (Texas)

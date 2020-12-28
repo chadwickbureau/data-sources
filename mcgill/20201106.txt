@@ -1,0 +1,976 @@
+!citation The Courier-Journal @ 1932-02-03; page 13
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201106_001 Larson, Glenn C.
+birth 1906-08-12 @ US/WA/Everett
+describe H71 W176 BL TL @P
+player 1926 Salisbury (Piedmont)
+player 1927 Okmulgee (Western Association)
+player 1927 Joplin (Western Association)
+player 1928 Laurel (Cotton States)
+player 1928 Topeka (Western Association)
+player 1929 Shawnee (Western Association)
+player 1930 St. Joseph (Western)
+player 1930 Omaha (Western)
+player 1931 Springfield (Illinois-Indiana-Iowa)
+player 1931 Kansas City (American Association); P_G 2 P_W 1 P_L 0
+player 1932 Kansas City (American Association)
+
+---
+
+!citation The Courier-Journal @ 1932-02-05; page 14
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201106_002 Campbell, Thaddeus E.
+birth 1904-12-21 @ US/AR/Fort Smith
+describe H71 W160 BR TR
+player 1925 Blytheville (Tri-State)
+player 1926 Springfield (Western Association)
+player 1927 Bloomington (Illinois-Indiana-Iowa)
+player 1928 Peoria (Illinois-Indiana-Iowa)
+player 1929 Nashville (Southern Association)
+player 1930 Nashville (Southern Association)
+player 1930 Mobile (Southern Association)
+player 1930 Springfield (Illinois-Indiana-Iowa)
+player 1931 Decatur (Illinois-Indiana-Iowa)
+player 1932 Minneapolis (American Association)
+
+---
+
+!citation The Courier-Journal @ 1932-02-18; page 13
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201106_003 Brewer, John Mills
+birth 1906-04-06 @ US/GA/Griffin
+describe H74 W185 BL TL
+player 1927 Hartford (Eastern)
+player 1927 Williamsport (New York-Pennsylvania)
+player 1927 Hattiesburg (Cotton States)
+player 1928 Greenville (South Atlantic)
+player 1928 Columbia (South Atlantic)
+player 1929 Dayton (Central)
+player 1930 Dayton (Central)
+player 1931 Springfield (Illinois-Indiana-Iowa)
+player 1932 Kansas City (American Association)
+
+---
+
+!citation The Courier-Journal @ 1932-02-29; page 8
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201106_004 Clements, Charles Cole
+birth 1910-07-10 @ US/MO/Dexter
+describe H71 W167 BL TL
+player 1931 Charleston (Middle Atlantic)
+player 1932 Toledo (American Association)
+
+---
+
+!citation The Courier-Journal @ 1932-03-02; page 13
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201106_005 Snyder, Morgan J.
+birth 1909-12-05 @ US/KS/Clay Center
+describe H71 W185 BB TR
+player 1928 McCook (Nebraska State)
+player 1928 York (Nebraska State)
+player 1929 York (Nebraska State)
+player 1929 Kansas City (American Association)
+player 1930 Kansas City (American Association)
+player 1930 Springfield (Illinois-Indiana-Iowa)
+player 1931 Springfield (Illinois-Indiana-Iowa)
+player 1932 Kansas City (American Association)
+
+---
+
+!citation The Courier-Journal @ 1932-03-09; page 11
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201106_006 Thomas, William Clinton
+birth 1907-01-09 @ US/MS/East Prairie
+describe H72 W171 BL TR
+player 1926 Hanover (Blue Ridge)
+player 1926 Columbus (American Association)
+player 1927 Columbus (American Association)
+player 1927 Charleroi (Middle Atlantic)
+player 1928 Beaumont (Texas)
+player 1928 Wheeling (Middle Atlantic)
+player 1928 Oklahoma City (Western)
+player 1929 Tulsa (Western)
+player 1929 Dayton (Central)
+player 1930 Dayton (Central)
+player 1931 Oklahoma City (Western)
+player 1932 Indianapolis (American Association)
+
+---
+
+!citation The Courier-Journal @ 1932-03-11; page 18
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201106_007 Kelly, Herbert
+birth 1905-08-12 @ US/CA/San Francisco
+describe H73 W170 BR TR
+player 1926 Seattle (Pacific Coast)
+player 1927 San Francisco (Pacific Coast)
+player 1927 Dallas (Texas)
+player 1928 Akron (Central)
+player 1928 Tulsa (Western)
+player 1929 Tulsa (Western)
+player 1930 Topeka (Western)
+player 1931 Denver (Western)
+player 1932 Kansas City (American Association)
+
+---
+
+!citation The Courier-Journal @ 1932-03-13; page 40
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201106_008 Russell, Louis Edward
+birth 1911-12-16 @ US/KY/Louisville
+describe H72 W185 BR TR
+player 1930 Dayton (Central)
+player 1931 Huntington (Middle Atlantic)
+player 1932 Louisville (American Association)
+
+---
+
+!citation The Courier-Journal @ 1932-03-15; page 9
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201106_009 Neisler, Fred [Connie]
+birth 1909-06-05 @ US/MO/St. Louis
+describe H74 W185 BR TR
+player 1930 Vicksburg (Cotton States)
+player 1931 Florence (Palmetto)
+player 1931 Anderson (Palmetto)
+player 1931 Huntington (Middle Atlantic)
+player 1932 Louisville (American Association)
+
+---
+
+!citation The Courier-Journal @ 1932-03-19; page 13
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201106_010 Oberholzer, Daniel
+birth 1907-10-08 @ US/PA/Macungie
+describe H69 W170 BR TR
+player 1927 Marshalltown (Mississippi Valley)
+player 1928 Fort Wayne (Central)
+player 1928 Canton (Central)
+player 1928 Marshalltown (Mississippi Valley)
+player 1929 Burlington (Mississippi Valley)
+player 1931 Nashville (Southern Association)
+player 1931 Des Moines (Western)
+player 1932 Minneapolis (American Association)
+
+---
+
+!citation The Courier-Journal @ 1932-03-24; page 14
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201106_011 Burt, William Floyd
+birth 1907-07-14 @ US/TX/Itasca
+describe H72 W166 BL TL
+player 1928 Beaumont (Texas)
+player 1929 Beaumont (Texas)
+player 1929 Alexandria (Cotton States)
+player 1930 Fort Smith (Western Association)
+player 1931 Fort Smith (Western Association)
+player 1932 Minneapolis (American Association)
+
+---
+
+!citation The Courier-Journal @ 1932-03-26; page 10
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201106_012 Jones, John Paul
+birth 1906-04-14 @ US/OK/Vanoss
+describe H75 W195 BR TR
+player 1929 Denver (Western)
+player 1929 Oklahoma City (Western)
+player 1930 Oklahoma City (Western)
+player 1931 Oklahoma City (Western)
+player 1932 Indianapolis (American Association)
+
+---
+
+!citation The Courier-Journal @ 1932-03-29; page 26
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201106_013 Posewitz, John A.
+birth 1909-08-09 @ US/WI/Sheboygan
+describe H72 W185 BR TR
+player 1930 Waynesboro (Blue Ridge)
+player 1931 Springfield (Western Association)
+player 1932 Columbus (American Association)
+
+---
+
+!citation The Courier-Journal @ 1932-03-30; page 14
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201106_014 Wilson, William
+birth 1908-12-20 @ US/AL/Millport
+describe H74 W185 BL TR
+player 1928 Vicksburg (Cotton States)
+player 1928 Gulfport (Cotton States)
+player 1929 Springfield (Western Association)
+player 1929 Muskogee (Western Association)
+player 1930 Muskogee (Western Association)
+player 1931 Muskogee (Western Association)
+player 1932 Minneapolis (American Association)
+
+---
+
+!citation The Times @ 1933-04-23; page 22
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201106_015 Coppock, Mack
+describe H70 W185 BR TR
+player 1933 Shreveport (Dixie)
+
+#20201106_016 Brigham, William
+describe H73 W192 BR TR
+player 1933 Shreveport (Dixie)
+
+#20201106_017 Hoff, Leslie
+describe H71 W170 BR TR
+player 1933 Shreveport (Dixie)
+
+#20201106_018 Tillinghast, Arthur
+describe H74.5 W195 BL TL
+player 1933 Shreveport (Dixie)
+
+#20201106_019 Catchings, Ben
+describe H70 W165 BL TR
+player 1933 Shreveport (Dixie)
+
+#20201106_020 Thompkins, John
+describe H69 W170 BL TR
+player 1933 Shreveport (Dixie)
+college University of Michigan
+
+#20201106_021 Holliday, Hugh
+describe H70 W185 BR TR
+player 1933 Shreveport (Dixie)
+
+---
+
+!citation Wausau Daily Herald @ 1940-04-22; page 12
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201106_022 Browne, Jack
+describe H72 W160
+player 1940 Wausau (Northern)
+
+#20201106_023 Forisch, Robert
+describe H71 W160
+player 1940 Wausau (Northern)
+
+#20201106_024 Hoag, Arnold
+describe H71 W155
+player 1940 Wausau (Northern)
+
+#20201106_025 Howard, William
+describe H73 W180
+player 1940 Wausau (Northern)
+
+#20201106_026 Malusky, Jack
+describe H72 W200
+player 1940 Wausau (Northern)
+
+#20201106_027 Lemmer, Clarence
+describe H72 W195
+player 1940 Wausau (Northern)
+
+---
+
+!citation Boston Post @ 1904-03-18; page 3
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201106_028 Wolf
+describe H67 W170 age 24 @C
+player 1903 Waco (Texas)
+player 1904 Boston (American); note=spring training
+
+---
+
+!citation Fort Worth Star-Telegram @ 1936-01-28; page 16
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201106_029 Straub, Clarence
+birth 1909-01-18 @ US/NY/Webster
+describe H70.5 W187 BR TR
+player 1930 Hazleton (New York-Pennsylvania)
+player 1930 Chambersburg (Blue Ridge)
+player 1931 Albany (Eastern)
+player 1931 New Haven (Eastern)
+player 1932 Albany (Eastern)
+player 1932 Binghamton (New York-Pennsylvania)
+player 1933 Binghamton (New York-Pennsylvania)
+player 1934 Binghamton (New York-Pennsylvania)
+player 1935 Binghamton (New York-Pennsylvania)
+player 1936 Tulsa (Texas)
+college University of Rochester
+
+---
+
+!citation Fort Worth Star-Telegram @ 1936-01-31; page 22
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201106_030 Krole, Frank J.
+birth 1912-11-09 @ US/WI/Milwaukee
+describe H71 W175 BR TR
+player 1931 Cedar Rapids (Mississippi Valley)
+player 1932 Cedar Rapids (Mississippi Valley)
+player 1932 Des Moines (Western)
+player 1933 El Dorado (Dixie)
+player 1934 El Dorado (East Dixie)
+player 1935 El Dorado (East Dixie)
+player 1935 Fort Worth (Texas)
+player 1936 Fort Worth (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1936-02-04; page 16
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201106_031 Neisler, Fred
+birth 1909-06-05 @ US/MO/St. Louis
+describe H74 W185 BR TR
+player 1927 Sheffield (Alabama State)
+player 1930 Vicksburg (Cotton States)
+player 1931 Florence (Palmetto)
+player 1931 Anderson (Palmetto)
+player 1931 Huntington (Middle Atlantic)
+player 1932 Huntington (Middle Atlantic)
+player 1932 Asheville (Piedmont)
+player 1933 Atlanta (Southern Association)
+player 1934 Atlanta (Southern Association)
+player 1934 Birmingham (Southern Association)
+player 1935 Springfield (Illinois-Indiana-Iowa)
+player 1936 Beaumont (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1936-02-11; page 14
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201106_032 Forsythe, Maurice Glenn
+birth 1914-10-22 @ US/ND/Northville
+describe H71.5 W169 BR TL
+player 1935 Hutchinson (Western Association)
+player 1936 Houston (Texas)
+
+#20201106_033 Yazell, Fred William
+birth 1915 @ US/IL/Springfield
+describe H71 W175 BR TR
+player 1933 Muskogee (Western)
+player 1934 Mount Airy (Bi-State)
+player 1935 El Dorado (East Dixie)
+player 1936 Fort Worth (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1936-02-24; page 12
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201106_034 Kluch, William Aloysius
+birth 1909-10-21 @ US/PA/Allentown
+describe H69 W163 BR TR
+player 1931 Scottdale (Middle Atlantic)
+player 1932 Elmira (New York-Pennsylvania)
+player 1932 Rochester (International)
+player 1933 Elmira (New York-Pennsylvania)
+player 1933 Reading (New York-Pennsylvania)
+player 1934 Reading (New York-Pennsylvania)
+player 1935 Knoxville (Southern Association)
+player 1935 Williamsport (New York-Pennsylvania)
+player 1935 Portsmouth (Middle Atlantic)
+player 1936 Tulsa (Texas)
+college Muhlenberg College
+
+---
+
+!citation Fort Worth Star-Telegram @ 1936-03-14; page 3
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201106_035 Jackson, William
+birth 1912-04-11 @ US/WA/Mays
+describe H74.5 W202 BL TR
+player 1932 North Platte (Nebraska State)
+player 1932 Burlington (Mississippi Valley)
+player 1933 Zanesville (Middle Atlantic)
+player 1934 Cedar Rapids (Western)
+player 1934 Toledo (American Association)
+player 1935 Chattanooga (Southern Association)
+player 1936 Tulsa (Texas)
+college University of Washington
+
+---
+
+!citation Fort Worth Star-Telegram @ 1936-03-18; page 14
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201106_036 Castex, Garland J.
+birth 1913-11-01 @ US/LA/Parks
+describe H72 W180 BR TR
+player 1934 Lafayette (Evangeline)
+player 1935 Rayne (Evangeline)
+player 1936 Dallas (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1936-03-30; page 13
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201106_037 Cumberland, William Logan
+birth 1914-12-04 @ US/MO/St. Louis
+describe H71 W170 BR TR
+player 1934 Zanesville (Middle Atlantic)
+player 1935 Zanesville (Middle Atlantic)
+player 1935 New Orleans (Southern Association)
+player 1936 San Antonio (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1936-04-04; page 3
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201106_038 Fairly, Carl C.
+birth 1911-06-03 @ US/CA/Oakland
+describe H71 W173 BR TR
+player 1932 Phoenix (Arizona-Texas)
+player 1932 Dayton (Central)
+player 1934 Baton Rouge (East Dixie)
+player 1934 Pine Bluff (East Dixie)
+player 1935 Pine Bluff (East Dixie)
+player 1936 Fort Worth (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1937-02-06; page 3
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201106_039 Curry, Donald James
+birth 1911-07-05 @ US/CT/Collinsville
+describe H70.5 W155 BR TR
+player 1931 New Haven (Eastern)
+player 1932 New Haven (Eastern)
+player 1933 Wheeling (Middle Atlantic)
+player 1934 Norfolk (Piedmont)
+player 1935 Binghamton (New York-Pennsylvania)
+player 1936 Binghamton (New York-Pennsylvania)
+player 1937 Galveston (Texas)
+
+#20201106_040 Zimmerman, Ray Henry
+birth 1915-12-20 @ US/NE/Lincoln
+describe H71 W180 BL TR
+player 1933 Lincoln (Nebraska State)
+player 1934 Lincoln (Nebraska State)
+player 1935 Huntington (Middle Atlantic)
+player 1936 Huntington (Middle Atlantic)
+player 1937 Houston (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1937-02-08; page 12
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201106_041 Suydam, John Lewis
+birth 1916-09-03 @ US/AL/Birmingham
+describe H72 W185 BL TR
+player 1936 Tiffin (Ohio State)
+player 1937 Beaumont (Texas)
+college Auburn University
+
+---
+
+!citation Fort Worth Star-Telegram @ 1937-02-15; page 17
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201106_042 Tutaj, Stanley
+birth 1908-12-09 @ US/IL/LaSalle
+describe H70.5 W170 BR TR
+player 1929 Rock Island (Mississippi Valley)
+player 1930 Rock Island (Mississippi Valley)
+player 1930 Moline (Mississippi Valley)
+player 1931 Moline (Mississippi Valley)
+player 1932 Johnstown (Middle Atlantic)
+player 1933 Omaha (Western)
+player 1934 Omaha (Western)
+player 1935 Council Bluffs (Western)
+player 1936 Columbus (South Atlantic)
+player 1937 Houston (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1937-02-18; page 20
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201106_043 Hamel, Charles Clarence
+birth 1904-11-05 @ US/DC/Washington
+describe H71 W155 BR TR
+player 1927 Chambersburg (Blue Ridge)
+player 1928 Goldsboro (Eastern Carolina)
+player 1929 Charlotte (South Atlantic)
+player 1929 Memphis (Southern Association)
+player 1930 Macon (South Atlantic)
+player 1930 Bloomington (Illinois-Indiana-Iowa)
+player 1930 Jackson (Cotton States)
+player 1931 Memphis (Southern Association)
+player 1932 Memphis (Southern Association)
+player 1933 Memphis (Southern Association)
+player 1934 Memphis (Southern Association)
+player 1935 Syracuse (International)
+player 1935 Memphis (Southern Association)
+player 1935 Atlanta (Southern Association)
+player 1936 Atlanta (Southern Association)
+player 1937 Oklahoma City (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1937-02-19; page 27
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201106_044 Petro, Charles Edward
+birth 1914-02-27 @ US/MA/West Hanover
+describe H71 W185 BR TR
+player 1933 Nashua (New England)
+player 1934 Shreveport (East Dixie)
+player 1934 Alexandria (Evangeline)
+player 1935 Springfield (Illinois-Indiana-Iowa)
+player 1936 Marshall (East Texas)
+player 1937 San Antonio (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1937-02-24; page 18
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201106_045 Anderson, Frank
+birth 1915-03-04 @ US/AL/Birmingham
+describe H74.5 W183 BR TR
+player 1935 Thomasville (Georgia-Florida)
+player 1936 Thomasville (Georgia-Florida)
+player 1936 Baltimore (International)
+player 1937 Galveston (Texas)
+
+#20201106_046 Karjalain, Leonard Herman
+birth 1915-07-06 @ US/ND/Gackle
+describe H70.5 W175 BR TR
+player 1936 Ponca City (Western Association)
+player 1936 Los Angeles (Pacific Coast)
+player 1937 Oklahoma City (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1937-02-27; page 3
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201106_047 Bratton, James W.
+birth 1912-03-15 @ US/OH/Ferry
+describe H75 W200 BR TR
+player 1933 Huntington (Middle Atlantic)
+player 1934 Charleston (Middle Atlantic)
+player 1935 Beaumont (Texas)
+player 1936 Beaumont (Texas)
+player 1936 Augusta (South Atlantic)
+player 1937 Beaumont (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1937-03-03; page 14
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201106_048 Moore, William Jerry
+birth 1914-01-17 @ US/NC/Harmony
+describe H69.5 W164 BL TR
+player 1936 Abbeville (Evangeline); B_G 30 B_AB 145 B_R 39 B_H 54
+player 1936 Fort Worth (Texas)
+player 1937 Fort Worth (Texas)
+
+#20201106_049 Paul, Charles Guy
+birth 1907-12-13 @ US/IA/Pollock
+describe H71 W180 BL TR @P
+player 1932 Baton Rouge (Cotton States)
+player 1933 El Dorado (Dixie)
+player 1934 El Dorado (East Dixie)
+player 1934 Pine Bluff (East Dixie)
+player 1935 Pine Bluff (East Dixie)
+player 1935 Gladewater (West Dixie)
+player 1936 Bartlesville (Western Association)
+player 1936 Galveston (Texas)
+player 1937 Galveston (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1937-03-08; page 14
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201106_050 LeBlanc, T. Paul
+birth 1909-06-21 @ US/LA/Abbeville
+describe H71.5 W155 BR TR
+player 1934 Lafayette (Evangeline)
+player 1935 Lafayette (Evangeline)
+player 1936 Abbeville (Evangeline)
+player 1936 Fort Worth (Texas)
+player 1937 Fort Worth (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1937-03-12; page 26
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201106_051 Flippen, Conrad
+birth 1913-06-19 @ US/MO/Aurora
+describe H70 W165 BR TR
+player 1934 Chicago (American)
+player 1935 Alexandria (Evangeline)
+player 1936 Charleston (Middle Atlantic)
+player 1936 Beaumont (Texas)
+player 1936 Alexandria (Evangeline)
+player 1937 Beaumont (Texas)
+college University of Arizona
+
+---
+
+!citation Fort Worth Star-Telegram @ 1937-03-13; page 3
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201106_052 Oetting, Alfred Edward
+birth 1915-04-11 @ US/WI/Trevor
+describe H69 W180 BR TR
+player 1935 Charleston (Middle Atlantic); B_G 5 B_AB 9 B_H 1
+player 1935 Fieldale (Bi-State)
+player 1936 Charleroi (Pennsylvania State Association)
+player 1937 Fort Worth (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1937-03-17; page 21
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201106_053 Oehler, Victor
+birth 1916-02-25 @ US/MO/St. Louis
+describe H71 W170 BR TR
+player 1935 Bloomington (Illinois-Indiana-Iowa); B_G 5
+player 1935 Greenwood (East Dixie)
+player 1935 Albany (Georgia-Florida)
+player 1936 Columbus (South Atlantic)
+player 1937 Houston (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1937-03-22; page 14
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201106_054 McDowell, Clyde
+birth 1910-10-30 @ US/TX/Scotland
+describe H68 W150 BR TR
+player 1935 Gladewater (West Dixie)
+player 1936 Gladewater (East Texas)
+player 1937 Fort Worth (Texas)
+college University of Texas
+
+---
+
+!citation Fort Worth Star-Telegram @ 1937-03-24; page 22
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201106_055 Fisher, Lawrence Lajoie
+birth 1916-02-08 @ US/TN/Lancaster
+describe H74.5 W165 BR TR
+player 1935 Abbeville (Evangeline)
+player 1936 Abbeville (Evangeline)
+player 1937 Fort Worth (Texas)
+
+#20201106_056 Petersen, Norman
+birth 1917-01-21 @ US/NE/Farwell
+describe H70 W165 BL TR
+player 1934 Sioux Falls (Nebraska State)
+player 1935 Lincoln (Nebraska State)
+player 1936 Huntington (Middle Atlantic)
+player 1937 Houston (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1937-04-06; page 18
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201106_057 Friar, Delbert
+birth 1916-06-06 @ US/AL/Huntsville
+describe H71 W185 BR TR
+player 1936 Tallahassee (Georgis-Florida)
+player 1937 Oklahoma City (Texas)
+
+#20201106_058 Netherly, Sidney
+birth 1914-07-10 @ US/LA/Clarks
+describe H76 W203 BR TR
+player 1934 New Orleans (Southern Association)
+player 1934 Lafayette (Evangeline)
+player 1935 Opelousas (Evangeline)
+player 1936 Lafayette (Evangeline)
+player 1937 San Antonio (Texas)
+
+#20201106_059 Quante, Marvin H.
+birth 1916-11-23 @ US/MO/St. Louis
+describe H76 W195 BL TL
+player 1935 Huntington (Middle Atlantic)
+player 1936 Huntington (Middle Atlantic)
+player 1937 Houston (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1937-04-07; page 17
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201106_060 Fleming, George Washington
+birth 1911-08-24 @ US/AL/Rockville
+describe H73 W190 BR TR
+player 1932 New Orleans (Southern Association)
+player 1933 New Orleans (Southern Association)
+player 1934 New Orleans (Southern Association)
+player 1934 Richmond (Piedmont)
+player 1935 Rock Island (Western)
+player 1935 Des Moines (Western)
+player 1936 New Orleans (Southern Association)
+player 1937 Galveston (Texas)
+college University of Alabama
+
+---
+
+!citation Fort Worth Star-Telegram @ 1937-04-14; page 21
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201106_061 Grimes, Bernell
+birth 1913-04-06 @ US/WV/Cameron
+describe H73 W170 BR TR
+player 1933 Huntington (Middle Atlantic)
+player 1934 Huntington (Middle Atlantic)
+player 1934 Beckley (Middle Atlantic)
+player 1934 Charleroi (Pennsylvania State Association)
+player 1935 St. Paul (American Association)
+player 1936 Sioux City (Western)
+player 1937 Galveston (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1937-04-17; page 3
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201106_062 Simmons, Horace Rogers
+birth 1909-09-22 @ US/TN/Mount Pleasant
+describe H71 W178 BR TR
+player 1934 Jacksonville (West Dixie)
+player 1935 Jacksonville (West Dixie)
+player 1936 Jacksonville (East Texas)
+player 1937 Houston (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1938-02-02; page 13
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201106_063 Hill, Alton Robert
+birth 1915-08-20 @ US/TX/Pittsburg
+describe H71 W175 BR TR
+player 1936 Kilgore (East Texas)
+player 1937 Tyler (East Texas)
+player 1937 Oklahoma City (Texas); B_G 7 B_AB 19 B_R 0 B_H 2 B_2B 0 B_3B 0 B_HR 0 B_RBI 1 B_SB 0 B_AVG .105
+player 1938 Oklahoma City (Texas)
+college Baylor University
+
+#20201106_064 Henderson, Carmin Lewis
+birth 1915-08-23 @ US/MO/Poplar Bluff
+describe H76 W205 BR TR
+player 1937 Roswell (West Texas-New Mexico)
+player 1938 Beaumont (Texas)
+college University of Missouri
+
+---
+
+!citation Fort Worth Star-Telegram @ 1938-02-16; page 19
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201106_065 Tregre, Clarence Joseph
+birth 1913-04-17 @ US/LA/New Orleans
+describe H69 W172 BR TR
+player 1934 Lafayette (Evangeline)
+player 1935 Lafayette (Evangeline)
+player 1936 Jackson (Southeastern)
+player 1936 Elmira (New York-Pennsylvania)
+player 1937 Jackson (Southeastern)
+player 1937 Dayton (Middle Atlantic)
+player 1938 Oklahoma City (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1938-02-24; page 19
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201106_066 Steinbeck, Lawrence
+birth 1915-10-10 @ US/OH/Cincinnati
+describe H70 W165 BR TR
+player 1936 Charleroi (Pennsylvania State Association)
+player 1937 Beckley (Mountain State)
+player 1938 Beaumont (Texas)
+
+#20201106_067 Isert, Fred
+birth 1919-12-02 @ US/IN/Indianapolis
+describe H69 W155 BL TL
+player 1937 Thomasville (Georgia-Florida)
+player 1938 Shreveport (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1938-03-03; page 23
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201106_068 Shafer, Walter L.
+birth 1914-07-02 @ US/AL/Tuscumbia
+describe H71.5 W185 BB TL
+player 1936 San Antonio (Texas)
+player 1936 Abbeville (Evangeline)
+player 1936 Henderson (East Texas)
+player 1937 Henderson (East Texas)
+player 1938 Beaumont (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1938-03-14; page 17
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201106_069 Smith, David Lee
+birth 1917-09-17 @ US/OK/Gracemont
+describe H72 W165 BL TR
+player 1936 New Iberia (Evangeline)
+player 1937 Columbus (South Atlantic)
+player 1938 Houston (Texas)
+
+#20201106_070 Schroeder, Michael Henry
+birth 1915-09-23 @ US/IL/DePue
+describe H69 W155 BL TL
+player 1933 Tyler (Dixie)
+player 1934 Tyler (Dixie)
+player 1936 Rock Island (Western)
+player 1936 Davenport (Western)
+player 1937 Davenport (Western)
+player 1938 Oklahoma City (Texas)
+
+#20201106_071 Clawitter, Teddy August George
+birth 1917-05-20 @ US/AR/Ulm
+describe H71 W187 BL TR
+player 1934 Pine Bluff (East Dixie); B_G 9 B_AB 22 B_R 2 B_H 8 B_2B 4 B_3B 0 B_HR 0 B_AVG .242
+player 1935 Helena (East Dixie)
+player 1935 Little Rock (Southern Association)
+player 1936 Little Rock (Southern Association)
+player 1936 Helena (Cotton States)
+player 1937 Yakima (Western International)
+player 1938 Tulsa (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1938-03-24; page 18
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201106_072 Walsh, James Wilbur
+birth 1915-10-09 @ US/CA/San Jose
+describe H73 W190 BL TL
+player 1935 Mount Airy (Bi-State)
+player 1935 Union City (Kentucky-Indiana-Tennessee)
+player 1935 Monessen (Pennsylvania State Association)
+player 1936 Marshall (East Texas)
+player 1936 Durham (Piedmont)
+player 1937 Toronto (International)
+player 1937 Smith Falls (Canadian-American)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1938-03-26; page 3
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201106_073 Lavis, Jack
+birth 1918-11-06 @ US/NY/Rochester
+describe H73 W155 BR TR
+player 1937 Tyler (East Texas)
+player 1938 Fort Worth (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1938-03-31; page 19
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201106_074 Johnson, Curtis Duard
+birth 1916-11-23 @ US/GA/Glenwood
+describe H74.5 W185
+player 1936 Dothan (Alabama-Florida)
+player 1937 Dothan (Alabama-Florida)
+player 1938 San Antonio (Texas)
+college Mount Vernon College; location=US/GA
+
+#20201106_075 Ater, Eugene
+birth 1917-06-26 @ US/CO/Denver
+describe H72 W180 BR TR
+player 1937 Texarkana (East Texas)
+player 1938 Tulsa (Texas)
+
+---
+
+!citation Fort Worth Star-Telegram @ 1938-04-05; page 19
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201106_076 Douglas, William Lyle
+birth 1915-09-03 @ US/IL/Oblong
+describe H74 W165 BR TR
+player 1937 Davenport (Western)
+player 1938 Oklahoma City (Texas)
+
+---
+
+!citation Wilkes-Barre Times Leader @ 1888-03-26; page 1
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201106_077 Kenney, B. F.
+describe H71.5 W180 age 26
+player 1888 Elmira (Central)
+
+#20201106_078 Van Alstine, H.
+describe H70 W155 age 28
+player 1888 Elmira (Central)
+
+#20201106_079 Clayton, E.
+describe H66 W162 age 24 @P
+player 1888 Elmira (Central)
+
+---
+
+!citation Democrat and Chronicle @ 1904-04-17; page 22
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201106_080 Willig, Louis K.
+describe H67.5 W167 age 22
+player 1904 Rochester (Eastern)
+
+---
+
+!citation Buffalo Morning Express and Illustrated Buffalo Express @ 1904-04-10; page 22
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201106_081 Nattress, W. M.
+describe H66.5 W154 BL TR
+player 1904 Buffalo (Eastern)
+
+#20201106_082 Limrie, James
+describe H70.75 W157 BL TL
+player 1904 Buffalo (Eastern)
+
+---
+
+!citation Wilkes-Barre Times Leader @ 1909-02-15; page 11
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20201106_083 King, Charles
+player 1895 Augusta (New England)
+umpire 1904 New England
+umpire 1909 American Association

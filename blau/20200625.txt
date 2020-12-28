@@ -1,0 +1,204 @@
+!citation Atlanta Constitution @ 1921-08-03; page 10
+
+#20200625_001 Schmidt, George
+player 1921 Atlanta (Southern Association); @SS
+player 1921 Rome (Georgia State)
+acquired =<1921-08-03 by Atlanta (Southern Association) from Rome (Georgia State)
+
+---
+
+!citation Atlanta Constitution @ 1921-08-07; page 3
+
+#20200625_002 Smith, Marvin
+player 1921 Atlanta (Southern Association)
+
+---
+
+!citation Oshkosh Northwestern @ 1910-05-20; page 12
+
+#20200625_003 Smith, M.
+player 1910 Madison (Wisconsin-Illinois)
+
+
+---
+
+!citation "Finding Ray Fagan" @ Fangraphs
+!URL https://community.fangraphs.com/finding-ray-fagan-a-minor-league-mystery/
+
+#20200625_004 Fagan, Raymond Leo
+player 1915 Oklahoma City (Western Association)
+player 1915 Austin/Taylor/Brenham (Middle Texas)
+player 1919 Richmond (Virginia)
+birth 1896-10-05@US/TX
+death 1969-04-11@US/TX/San Antonio
+
+
+---
+
+!citation McAlester News-Capital @ 1915-05-18; page 6
+
+#20200625_005 Neely, Joe
+player 1915 Denison (Western Association)
+player 1915 McAlester (Western Association); @P
+
+---
+
+!citation McAlester News-Capital @ 1915-05-20; page 6
+
+#20200625_006 Patterson, Slim
+player 1915 McAlester (Western Association); @LF
+
+---
+
+!citation McAlester News-Capital @ 1915-05-25; page 6
+
+#20200625_007 Dupuy, Harry
+player 1915 McAlester (Western Association)
+
+---
+
+!citation McAlester News-Capital @ 1915-05-29; page 3
+
+#20200625_008 Ryan, Jimmy
+player 1915 McAlester (Western Association)
+player 1914 Regina (Western Canada)
+
+#20200625_009 Diffey
+player 1915 McAlester (Western Association)
+player 1915 Waco (Texas)
+
+---
+
+!citation McAlester News-Capital @ 1915-06-04; page 9
+
+#20200625_010 Bradley, Melvin
+player 1915 Galveston (Texas)
+resides 1915@US/OK/McAlester
+
+---
+
+!citation McAlester News-Capital @ 1915-06-09; page 6
+
+#20200625_011 Spears, Floyd
+player 1915 McAlester (Western Association); @P; TL
+resides 1915@US/OK/Hartshorne
+
+---
+
+!citation McAlester News-Capital @ 1915-06-21; page 6
+
+#20200625_012 Ryan, Jimmy
+player 1915 McAlester (Western Association)
+player 1915 Tulsa (Western Association); @P
+
+
+---
+
+!citation McAlester News-Capital @ 1915-06-14; page 6
+
+#20200625_013 Huey
+player 1915 Muskogee (Western Association); @P; TL
+
+#20200625_014 Smizer
+player 1915 McAlester (Western Association); @1B
+college Oklahoma State University
+
+
+---
+
+!citation McAlester News-Capital @ 1915-06-17; page 6
+
+#20200625_015 Smizer
+player 1915 McAlester (Western Association)
+player 1915 Muskogee (Western Association)
+
+---
+
+!citation McAlester News-Capital @ 1915-06-18; page 6
+
+#20200625_016 Flannigan
+player 1915 McAlester (Western Association); TL
+
+---
+
+!citation McAlester News-Capital @ 1915-07-01; page 6
+
+#20200625_017 Young
+player 1915 McAlester (Western Association)
+player 1915 Belton (Middle Texas)
+
+---
+
+!citation McAlester News-Capital @ 1915-07-08; page 6
+
+#20200625_018 Lewis, Bob
+player 1915 McAlester (Western Association); TL
+player 1915 Phoneix (Rio Grande Association)
+
+---
+
+!citation McAlester News-Capital @ 1915-07-17; page 6
+
+#20200625_019 Gerhardt, Herbert
+player 1915 Muskogee (Western Association)
+
+---
+
+!citation McAlester News-Capital @ 1915-08-02; page 6
+
+#20200625_020 Besse, Otto
+player 1915 McAlester (Western Association); BL
+
+---
+
+!citation McAlester News-Capital @ 1915-08-03; page 5
+
+#20200625_021 Ornsby
+player 1915 McAlester (Western Association); TL
+player 1915 (Middle Texas)
+
+---
+
+!citation The National Pastime 2020
+
+#20200625_022 Youse, Walter
+death 2002
+
+---
+
+!citation McAlester News-Capital @ 1915-08-09; page 6
+
+#20200625_023 Boultes, Jake
+player 1915 Muskogee (Western Association)
+player 1914 Bridgeport (Eastern Association)
+
+#20200625_024 Kearn, Butch
+player 1915 Muskogee (Western Association)
+notes veteran catcher
+
+#20200625_025 Bishop
+player 1915 Muskogee (Western Association)
+player 1914 Superior (Nebraska State); W16 L14
+
+---
+
+!citation McAlester News-Capital @ 1915-08-14; page 6
+
+#20200625_026 Reynolds, Red
+player 1915 Muskogee (Western Association)
+notes has been on five WA teams this year
+
+---
+
+!citation McAlester News-Capital @ 1915-08-16; page 5
+
+#20200625_027 Daniels
+player 1915 Paris (Western Association); TL
+
+---
+
+!citation McAlester News-Capital @ 1915-08-21; page 6
+
+#20200625_028 Watson
+player 1915 Paris (Western Association); @P TR
+
