@@ -4212,3 +4212,40 @@ sameas findagrave:74428779
 birth 1928-10-08
 death 1997-01-22
 burial Guardian Angel Cemetery @ US/WI/Stevens Point
+
+---
+
+!citation findagrave.com @ 2020-12-29
+!url https://www.findagrave.com/memorial/117368809/sam-g-hancock
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-29
+ 
+#343 Hancock, Sam G.
+sameas findagrave:117368809
+birth 1914-08-28
+death 1996-12-02
+military US Marines @ World War II
+burial Green Acres Cemetery @ US/KY/Ermine
+
+---
+
+!citation findagrave.com @ 2020-12-30
+!url https://www.findagrave.com/memorial/169312651/robert-barrow-o'neal
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-30
+ 
+#344 O'Neal, Robert Barrow [Bob]
+sameas findagrave:169312651
+birth 1925-12-08 @ US/IL/Cutler
+death 2006-12-16 @ US/IL/Caseyville
+burial Lake View Memorial Gardens @ US/IL/Fairview Heights
+
+---
+ 
+!citation findagrave.com @ 2020-12-31
+!url https://www.findagrave.com/memorial/193387331/l_r-maxcy
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-31
+ 
+#345 Maxcy, L. R. [Russ]
+sameas findagrave:193387331
+birth 1910
+death 1975
+burial Memorial Park Cemetery @ US/TN/Memphis

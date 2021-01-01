@@ -1,0 +1,94 @@
+!citation Wellsville Daily Reporter @ 1916-08-11; page 6
+
+#20201231_001 Coakley, Andy
+player 1916 Wellsville (Interstate)
+player 1905 Philadelphia (American) 
+
+____
+
+!citation Wellsville Daily Reporter @ 1916-08-14; page 6
+
+#20201231_002 Cooper, Guy
+player 1916 Wellsville (Interstate); @P
+player 1916 Richmond (International)
+ 
+____
+
+!citation Binghamton Press @ 1917-03-21; page 15
+
+#20201231_003 Zimmerman, Eddie
+player 1916 Binghamton (New York State)
+player 1917 Montreal (International)
+
+____
+
+!citation Elmira Star-Gazette @ 1916-07-25; page 8
+
+#20201231_004 Casey, Joe
+player 1916 Elmira (New York State)
+player 1916 Rochester (International)
+
+____
+
+!citation Elmira Star-Gazette @ 1916-08-21; page 8
+
+#20201231_005 O'Connor, Frank
+player 1916 Elmira (New York State)
+college Manhattan College
+
+____
+
+!citation Elmira Star-Gazette @ 1916-06-12; page 8
+
+#20201231_006 Blair, Walter
+owner 1916 Harrisburg (New York State)
+
+#20201231_007 Cockill, George
+owner 1916 Harrisburg (New York State)
+
+____
+
+!citation Elmira Star-Gazette @ 1916-06-28; page 7
+
+#20201231_008 Blair, Walter
+manager 1916 Harrisburg (New York State)
+notes tempoary manager, Cockill to take over
+
+#20201231_009 Cockill, George
+manager 1916 Harrisburg (New York State)
+
+#20201231_010 Elliott
+player 1916 Harrisburg (New York State)
+college Bucknell University
+
+____
+
+!citation Elmira Star-Gazette @ 1916-08-12; page 10
+
+#20201231_011 Blair, Walter
+player 1916 Harrisburg (New York State)
+
+____
+
+!citation Scranton Times @ 1916-06-12; page 14
+
+#20201231_012 Roche, Joe
+player 1916 Scranton (New York State)
+player 1916 Richmond (International)
+player 1915 Wichita (Western)
+
+____
+
+!citation Pittston Gazette @ 1916-06-26; page 2
+
+#20201231_013 Wilder
+player 1916 Wilkes-Barre (New York State)
+player 1916 Buffalo (International)
+
+____
+
+!citation Warren Evening Times @ 1916-10-26; page 7
+
+#20201231_014 Cotter, Dick
+player 1916 Binghamton (New York State)
+player 1916 Warren (Interstate)

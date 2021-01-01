@@ -588,3 +588,58 @@ birth 1912-04-29
 death 1997-06-05
 military US Army @ World War II
 
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-28
+ 
+#202012_068 Rigdon, John William
+birth 1919-04-10 @ US/MS/Meridian
+ 
+---
+ 
+!citation US Department of Veterans Affaris BIRLS Death File, 1850-2010
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-28
+ 
+#202012_069 Rigdon, John
+sameas ssn:420-07-1239
+birth 1919-04-10
+death 1986-07-09
+military US Army @ World War II
+
+---
+ 
+!citation Texas Birth Certificates, 1903-1932
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-29
+ 
+#202012_070 Hancock, Sam Gibson
+birth 1914-08-28 @ US/TX/Bonham
+
+---
+
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-30
+ 
+#202012_071 Silbernagel, Raymond Edward
+sameas ssn:273-26-7697
+birth 1926-08-31 @ US/OH/Cincinnati
+death 1994-06-07
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-31
+ 
+#202012_072 Maxcy, Lee Russell
+birth 1910-05-27 @ US/GA/Winder
+ 
+---
+ 
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-31
+ 
+#202012_073 Maxcy, Lee
+sameas ssn:252-05-4629
+birth 1910-05-27
+death 1975-09
+

@@ -1496,6 +1496,262 @@ birth 1942-05-02 @ US/CA/San Francisco
 death 2020-12-12 @ US/CA/Hanford
 highschool Hanford HS @ US/CA/Hanford
 
+---
+
+!citation Sunset Funeral Home @ 2020-12-28
+!url https://www.sunsetfuneralhome.com/obituary/Carl-Thompson
+!file Thompson_Carl.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-28
+
+#202012_120 Thompson, Carl J.
+birth 1929-09-15 @ US/IL/Westville
+death 2020-12-24 @ US/IN/Covington  
+highschool Georgetown HS @ US/IL/Georgetown
+military US Army @ Korean War
+burial Westville Lithuanian Cemetery @ US/IL/Westville
+
+---
+
+!citation Haky Funeral Home @ 2020-12-28
+!url https://www.hakyfuneralhome.com/obituary/john-paull
+!file Paull_John.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-28
+
+#202012_121 Paull, John David
+birth 1953-08-29
+death 2020-12-21 @ US/WV/Morgantown
+
+---
+
+!citation Meyer & Geiser Funeral Home @ 2020-12-28
+!url https://www.meyergeiser.com/obituary/scott-seger
+!file Seger_Scott.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-28
+
+#202012_122 Seger, Scott
+birth 1941-04-08
+death 2020-12-27
+highschool Elder HS @ US/OH/Cincinnati
+
+---
+
+!citation Short-Cunningham Funeral Homes @ 2020-12-28
+!url https://www.short-cunninghamfh.com/obituary/Jimmy-Warmoth
+!file Warmoth_Jimmy.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-28
+
+#202012_123 Warmoth, Jimmy G.
+birth 1930-06-26 @ US/IL/Mount Carmel
+death 2020-12-21 @ US/MO/Ozark
+
+---
+
+!citation Kutis Funeral Home @ 2020-12-28
+!url https://www.kutisfuneralhomes.com/wilson-james-l/
+!file Wilson_James.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-28
+
+#202012_124 Wilson, James L.
+death 2020-12-26
+
+---
+
+!citation Santa Cruz Sentinel @ 2020-12-30
+!url https://www.legacy.com/obituaries/santacruzsentinel/obituary.aspx?n=mark-b-rosen&pid=197378878&fhid=8818
+!file Rosen_Mark.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-29
+
+#202012_125 Rosen, Mark B.
+birth 1943-07-14 @ US/CT/Hartford
+death 2020-12-18
+highschool Willow Glen HS @ US/CA/San Jose
+college Stanford University
+military US Army @ Vietnam War
+
+---
+
+!citation John-Ridout's Mortuary-Elmwood Chapel @ 2020-12-29
+!url https://www.dignitymemorial.com/obituaries/birmingham-al/edward-long-9968112
+!file Long_Scotty.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-29
+
+#202012_126 Long, Edward Scott [Scotty]
+birth 1943-10-03
+death 2020-12-26 @ US/AL/Birmingham
+highschool Lawton HS @ US/OK/Lawton
+college Auburn University
+
+---
+
+!citation Broadway World @ 2020-12-28
+!url https://www.broadwayworld.com/article/Arthur-P-Siccardi-Broadway-Production-Supervisor-Dies-at-89-20201228
+!file Siccardi_Artie.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-29
+
+#202012_127 Siccardi, Arthur Peter, II [Artie]
+birth 1931-01-18 @ US/NJ/Englewood
+death 2020-12-23 @ US/NY/New York
+highschool Fort Lee HS @ US/NJ/Fort Lee
+
+---
+
+!citation Bradford-O'Keefe Funeral Homes @ 2020-12-29
+!url https://www.bradfordokeefe.com/obituaries/Ralph-Buddy-Beaugez-Jr/#!/Obituary
+!file Beaugez_Buddy.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-29
+
+#202012_128 Beaugez, Ralph M., Jr. [Buddy]
+birth 1924-01-17 @ US/MS/Ocean Springs
+death 2015-08-10 @ US/MS/Biloxi
+military US Navy @ World War II
+burial Evergreen Cemetery @ US/MS/Ocean Springs
+
+---
+
+!citation Hansen Mortuary @ 2020-12-30
+!url Obituary for George Sanford | Hansen Mortuary (hansen-mortuary.com)
+!file Sanford_George.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-30
+
+#202012_129 Sanford, George C.
+birth 1929-03-19 @ US/ID/Paul
+death 2020-12-23
+highschool Paul HS @ US/ID/Paul
+military US Army @ Korean War
+
+---
+
+!citation Waldo Funeral Home @ 2020-12-30
+!url https://www.waldofuneralhome.com/obituary/richard-thoms
+!file Thoms_Rich/pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-30
+
+#202012_130 Thoms, Richard Raymond [Rich]
+birth 1943-09-07 @ US/NY/Staten Island
+death 2020-12-28
+highschool Tottenville HS @ US/NY/Staten Island
+college Austin College
+burial West Hill Cemetery @ US/TX/Sherman
+
+---
+
+!citation Lowell Sun @ 2021-01-05
+!url https://www.legacy.com/obituaries/lowellsun/obituary.aspx?n=mario-v-pagano-mac&pid=197386822&fhid=25332
+!file Pagano_Mac.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-30
+
+#202012_131 Pagano, Mario V. [Mac]
+birth 1943-08-29 @ US/RI/Providence
+death 2020-12-25
+highschool Cranston East HS @ US/RI/Cranston
+military US Army @ Vietnam War
+
+---
+
+!citation Miller Funeral Home @ 2020-12-30
+!url https://www.mfhfuneralhome.com/obituaries/Herbert-Alban/#!/Obituary
+!file Alban_Herbert.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-30
+
+#202012_132 Alban, Herbert Beecher, Jr.
+birth 1918-04-13 @ US/OH/Columbus
+death 2020-12-25 @ US/KY/Ashland
+highschool West HS @ US/OH/Columbus
+military US Navy @ World War II
+
+---
+
+!citation Times Herald-Record @ 2020-12-31
+!url https://www.legacy.com/obituaries/recordonline/obituary.aspx?n=john-higgins&pid=197394081&fhid=5796
+!file Higgins_John.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-31
+
+#202012_133 Higgins, John Lawrence
+birth 1955-09-16
+death 2020-12-21 @ US/NY/Newburgh
+highschool Grosse Pointe South HS @ US/MI/Grosse Pointe Farms
+college Northern Michigan University
+
+---
+
+!citation Daily Gazette @ 2020-12-31
+!url https://www.legacy.com/obituaries/dailygazette/obituary.aspx?n=gary-j-kolod&pid=197398932
+!file Kolod_Gary.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-31
+
+#202012_134 Kolod, Gary J.
+birth 1935
+death 2020-11-19
+military US Army
+burial Sarasota National Cemetery @ US/FL/Sarasota
+
+---
+
+!citation Groce Funeral Home @ 2020-12-31
+!url https://www.grocefuneralhome.com/obits/ebb-c-williams/
+!file Williams_Ebb.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-31
+
+#202012_135 Williams, Ebb C., Jr.
+birth 1929-02-03 @ US/SC/Spartanburg
+death 2020-12-29 @ US/NC/Asheville
+highschool Candler HS @ US/NC/Candler
+burial Pisgah View Memorial Park @ US/NC/Candler
+
+---
+
+!citation Morning Call @ 2015-08-05
+!url https://www.legacy.com/obituaries/mcall/obituary.aspx?n=William-F-Gower&pid=175438153
+!file Gower_William.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-31
+
+#202012_136 Gower, William F.
+birth @ US/PA/Summit Hill
+death 2015-08-04 @ US/PA/Allentown
+highschool Allen HS @ US/PA/Allentown
+military US Navy @ World War II
+
+---
+
+!citation Scranton Times-Tribune @ 2015-08-03
+!file Kowalko_Babe.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-31
+
+#202012_137 Kowalko, Joseph [Babe]
+birth 1935-07-28 @ US/PA/Throop
+death 2015-08-01 @ US/PA/Peckville
+highschool Throop HS @ US/PA/Throop
+military US Army
+burial Prospect Hill Cemetery @ US/PA/Peckville
+
+---
+
+!citation Valley News Dispatch @ 2015-07-31
+!url https://www.legacy.com/obituaries/triblive-valley-news-dispatch/obituary.aspx?n=martin-engler&pid=177906461
+!file Engler_Tony.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-31
+
+#202012_138 Engler, Martin, Jr. [Tony]
+birth 1930-03-25 @ US/PA/New Kensington
+death 2015-07-31 @ US/PA/Pittsburgh
+college Clarion University of Pennsylvania
+military US Marines @ Korean War
+burial St. Mary Cemetery @ US/PA/Lower Burrell
+
+---
+
+!citation William H. Clark Funeral Home @ 2020-12-31
+!url https://www.wmhclarkfuneralhome.com/obituary/3260734
+!file Beagle_Jerry.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2020-12-31
+
+#202012_139 Beagle, Gerald F. [Jerry]
+birth 1929-04-07 @ US/PA/Scranton
+death 2015-07-29 @ US/PA/Effort
+military US Army @ World War II
+burial Prospect Cemetery @ US/PA/East Stroudsburg
+
+
  
 
 
