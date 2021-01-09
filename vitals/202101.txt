@@ -1,0 +1,140 @@
+!citation US WWI Draft Registration Cards, 1917-1918
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-01
+ 
+#202101_001 Somers, Frederick Grant
+birth 1893-04-27 @ US/NJ/Atlantic City
+ 
+---
+ 
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-01
+ 
+#202101_002 Somers, Fred
+sameas ssn:547-10-7073
+birth 1893-04-27
+death 1970-09
+ 
+---
+ 
+!citation California Death Index, 1940-1997
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-01
+ 
+#202101_003 Somers, Fred G.
+sameas ssn:547-10-7073
+birth 1893-04-27 @ US/NJ
+death 1970-09-18 @ US/CA/Los Angeles
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-04
+ 
+#202101_004 Campbell, Raymond Leonard
+birth 1919-11-25 @ US/MN/Minneapolis
+ 
+---
+ 
+!citation Minnesota Death Index, 1908-2017
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-04
+ 
+#202101_005 Campbell, Raymond L.
+birth 1919-11-25
+death 1982-12-14 @ US/MN/Hennepin County
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-04
+ 
+#202101_006 Foth, Gordon Paul
+birth 1916-09-21 @ US/WI/Milwaukee
+
+---
+ 
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-04
+ 
+#202101_007 Foth, Gordon P.
+sameas ssn:387-01-6245
+birth 1916-09-21
+death 2000-01-28
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-04
+ 
+#202101_008 Levandowski, Clarence Joseph
+birth 1915-08-30 @ US/MI/Detroit
+ 
+---
+ 
+!citation Michigan Death Index, 1971-1996
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-04
+ 
+#202101_009 Levandowski, Clarence J.
+birth 1915-08-30
+death 1990-10-07 @ US/MI/Superior
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-06
+ 
+#202101_010 Botts, Glenn
+birth 1910-09-12 @ US/IN/New Albany
+
+---
+
+!citation US WWI Draft Registration Cards, 1917-1918
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-07
+ 
+#202101_011 Moore, Henry P.
+birth 1892-03-19 @ US/AR/Fort Smith
+
+---
+
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-08
+ 
+#202101_012 Olszewski, Stanley Edward
+sameas ssn:170-30-8211
+birth 1932-12-05 @ US/PA/Wilcox
+death 1997-03-01
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-08
+ 
+#202101_013 Rhein, Ralph
+birth 1912-03-31 @ US/CT/Hartford
+ 
+---
+ 
+!citation California Death Index, 1940-1997
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-08
+ 
+#202101_014 Rhein, Ralph
+sameas ssn:562-18-9856
+birth 1912-03-31 @ US/CT
+death 1972-07-03 @ US/CA/Los Angeles
+
+---
+ 
+!citation US Headstone Applications for Military Veterans, 1925-1970
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-08
+ 
+#202101_015 Stanton, Frederick Marvin, Jr.
+birth 1914-02-22
+death 1961-10-13
+military US Army @ World War II
+burial Vale Cemetery @ US/NY/Schenectady
+
+---
+ 
+!citation New Orleans, Louisiana Birth Records Index, 1790-1915
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-08
+ 
+#202101_016 Valenti, Joseph Anthony
+birth 1913-10-27 @ US/LA/New Orleans

@@ -1,0 +1,192 @@
+!citation Harrisburg Telegraph @ 1917-05-08; page 13
+
+#20210107_001 Barnes
+player 1917 Harrisburg (New York State); TL
+
+---
+
+!citation Harrisburg Telegraph @ 1917-05-17; page 12
+
+#20210107_002 Clark, C. R. [Pepper]
+player 1917 Elmira (New York State)
+player 1916 Sioux City (Western)
+player 1917 Sioux City (Western)
+
+---
+
+!citation Elmira Star-Gazette @ 1916-06-28; page 17
+
+#20210107_003 Elliott
+player 1916 Harrisburg (New York State)
+college Bucknell University
+
+---
+
+!citation Hanover Evening Sun @ 1917-07-09; page 1
+
+#20210107_004 Elliott
+player 1916 Harrisburg (New York State)
+player 1917 Harrisburg (New York State)
+player 1917 Hanover (Blue Ridge)
+
+---
+
+!citation Utica Herld-Dispatch @ 1916-05-02; page 10
+
+#20210107_005 Hopper, A. V.
+player 1916 Utica (New York State)
+
+---
+
+!citation Albany Knickerbocker Press @ 1916-04-28; page 11
+
+#20210107_006 McHale, Eddie
+player 1916 Albany (New York State)
+player <1916 (Southern Michigan)
+
+#20210107_007 Wacher
+player 1916 Albany (New York State)
+notes has picture
+
+---
+
+!citation Albany Knickerbocker Press @ 1916-05-13; page 9
+
+#20210107_008 Wacher, Henry
+player 1916 Albany (New York State)
+college Dartmouth College
+
+---
+
+!citation Twin-City Daily Sentinel @ 1921-05-25; page 6
+
+#20210107_009 Allison, Fred
+player 1921 Winston-Salem (Piedmont)
+resides 1921 @ US/OH/Akron
+
+#20210107_010 Karvada, Barney
+player 1921 Winston-Salem (Piedmont)
+resides 1921 @ US/OH/Akron
+
+#20210107_011 Kelley, William "Little Kel"
+player 1921 Winston-Salem (Piedmont)
+resides 1921 @ US/OH/Cleveland
+
+---
+
+!citation Asheville Citizen @ 1916-07-07; page 9
+
+#20210107_012 Busch, Heinie
+manager 1916 Raleigh (North Carolina State)
+player 1916 Asheville (North Carolina State)
+
+---
+
+!citation Fall River Globe @ 1914-07-31; page 7
+
+#20210107_013 Ellison, Brooks
+player 1914 Lowell (New England)
+acquired <=1914-07-31 by Lowell (New England) from Boston (National) for cash
+
+---
+
+!citation Asheville Citizen @ 1916-03-05; page 10
+
+#20210107_014 Harper, Jack
+player 1916 Asheville (North Carolina State)
+player 1915 Raleigh (North Carolina State)
+player 1915 Greensboro (North Carolina State)
+
+---
+
+!citation Asheville Citizen @ 1916-08-10; page 8
+
+#20210107_015 Guthrie, "Bad Eye"
+player 1916 Asheville (North Carolina State)
+
+---
+
+!citation Asheville Citizen @ 1916-05-13; page 8
+
+#20210107_016 Novack
+player 1916 Asheville (North Carolina State)
+player 1916 Maysville (Ohio State)
+player 1915 (Blue Grass)
+notes in 1915 played as Mueller
+
+---
+
+!citation Tampa Times @ 1917-03-23; page 10
+
+#20210107_017 Novack, Charles
+player 1916 Asheville (North Carolina State)
+acquired 1917-03-23 by Columbia (South Atlantic) with Dunning, Guy by trade from 
+Asheville (North Carolina State) for Ferris, Stewart, Brown, Summerlin, Morpeth, Lowe,
+and Anderson
+
+---
+
+!citation Charlotte News @ 1916-08-06; page 12
+
+#20210107_018 Bussell, Roy
+player 1916 Charlotte (North Carolina State); @P
+
+---
+
+!citation Asheville Citizen @ 1916-06-30; page 8
+
+#20210107_019 Woodall, Larry
+player 1916 Asheville (North Carolina State); @C
+
+---
+
+!citation Greenville News @ 1916-09-08; page 2
+
+#20210107_020 Osteen, Bill
+player 1916 Asheville (North Carolina State)
+
+---
+
+!citation (Columbia) State @ 1917-06-22; page 10
+
+#20210107_021 Corbett, Jack
+player 1917 Columbia (South Atlantic)
+
+---
+
+!citation Charlotte News @ 1916-06-20; page 10
+
+#20210107_022 Irwin
+player 1916 Charlotte (North Carolina State); BR TR
+player 1916 Baltimore (International)
+player 1915 (Potomac)
+
+---
+
+!citation Twin-City Daily Sentinel @ 1916-05-17; page 6
+
+#20210107_023 Jabukik, Felix
+player 1916 Winston-Salem (North Carolina State)
+
+---
+
+!citation Twin-City Daily Sentinel @ 1916-08-11; page 6
+
+#20210107_024 Giamico, "Jocko"
+player 1916 Greensboro (North Carolina State)
+
+---
+
+!citation Twin-City Daily Sentinel @ 1916-07-27; page 6
+
+#20210107_025 Giamico
+player 1916 Greensboro (North Carolina State)
+college Georgetown University
+
+---
+
+!citation Greensboro Daily News @ 1916-02-13; page 9
+
+#20210107_026 Haggerty, James
+player 1916 Greensboro (North Carolina State)
+resides 1916 @ US/PA/Plains

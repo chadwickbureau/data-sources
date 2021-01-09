@@ -4249,3 +4249,150 @@ sameas findagrave:193387331
 birth 1910
 death 1975
 burial Memorial Park Cemetery @ US/TN/Memphis
+
+---
+
+!citation findagrave.com @ 2021-01-01
+!url https://www.findagrave.com/memorial/12805890/edgar-hastings-fortney
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-01
+ 
+#346 Fortney, Edgar Hastings
+sameas findagrave:12805890
+birth 1874-08-16 @ US/PA/Middletown
+death 1940-10-22 @ US/DC/Washington
+burial Middletown Cemetery @ US/PA/Middletown
+
+---
+
+!citation findagrave.com @ 2021-01-03
+!url https://www.findagrave.com/memorial/47311354/george-h.-spriggs
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-03
+ 
+#347 Spriggs, George H., Jr.
+sameas findagrave:47311354
+birth 1968-07-02
+death 1988-12-02
+burial Spriggs Cemetery @ US/MD/Dunkirk
+
+---
+
+!citation findagrave.com @ 2021-01-03
+!url https://www.findagrave.com/memorial/195037564/allen-henry-hof
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-03
+ 
+#348 Hof, Allen Henry
+sameas findagrave:195037564
+birth 1932-07-07 @ US/WI/Milwaukee
+death 2018-11-23 @ US/TX/San Antonio
+military US Army @ Korean War
+burial Fort Sam Houston National Cemetery @ US/TX/San Antonio
+
+---
+
+!citation findagrave.com @ 2021-01-04
+!url https://www.findagrave.com/memorial/21249180/marion-kendrick-wilder
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-04
+ 
+#349 Wilder, Marion Kendrick [M. K.]
+sameas findagrave:21249180
+birth 1908-09-09 @ US/SC/Sumter
+death 1997-07-03 @ US/AZ/Page
+burial Page Cemetery @ US/AZ/Page
+
+---
+ 
+!citation findagrave.com @ 2021-01-04
+!url https://www.findagrave.com/memorial/162307637/gordon-p.-foth
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-04
+ 
+#350 Foth, Gordon P.
+sameas findagrave:162307637
+birth 1917
+death 2000-01-28
+burial Mount Olivet Cemetery @ US/WI/Milwaukee
+
+---
+
+!citation findagrave.com @ 2021-01-04
+!url https://www.findagrave.com/memorial/106166695/harold-gustave_emil-hoffmann
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-04
+ 
+#351 Hoffmann, Harold Gustave Emil
+sameas findagrave:106166695
+birth 1913-10-15 @ US/IL/Chicago
+death 1971-03-03
+burial Bethania Cemetery @ US/IL/Justice
+
+---
+ 
+!citation findagrave.com @ 2021-01-06
+!url https://www.findagrave.com/memorial/136329031/glenn-malcolm-botts
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-06
+ 
+#352 Botts, Glenn Malcolm
+sameas findagrave:136329031
+birth 1910-09-12 @ US/IN/New Albany
+death 1980-11-17 @ US/KY/Newport
+burial Floral Hills Memorial Gardens @ US/KY/Taylor Mill
+
+---
+
+!citation findagrave.com @ 2021-01-07
+!url https://www.findagrave.com/memorial/218076346/henry-pierson-moore
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-07
+ 
+#353 Moore, Henry Pierson "Possum"
+sameas findagrave:218076346
+birth 1892-03-19 @ US/AR/Fort Smith
+death 1958-03-26 @ US/AR/Fort Smith
+burial Oak Cemetery @ US/AR/Fort Smith
+
+---
+
+!citation findagrave.com @ 2021-01-08
+!url https://www.findagrave.com/memorial/110780859/sidney-robert-nethery
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-08
+ 
+#354 Nethery, Sidney Robert
+sameas findagrave:110780859
+birth 1914-07-10 @ US/LA/Clarks
+death 1963-06-25 @ US/TX/Houston
+burial Evergreen Cemetery @ US/TX/Orange
+
+---
+
+!citation findagrave.com @ 2021-01-08
+!url https://www.findagrave.com/memorial/103727664/philip-domenic-seghi
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-08
+ 
+#355 Seghi, Philip Domenic
+sameas findagrave:103727664
+birth 1909-03-09 @ US/IL/LaSalle County
+death 1987-01-08 @ US/CA/Thousand Oaks
+burial Pierce Brothers Valley Oaks Memorial Park @ US/CA/Westlake Village
+
+---
+
+!citation findagrave.com @ 2021-01-08
+!url https://www.findagrave.com/memorial/187378277/hal-m-simpson
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-08
+ 
+#356 Simpson, Halbert M., Jr. [Hal]
+sameas findagrave:187378277
+birth 1918-01-19 @ US/TX/Dalby Springs
+death 1984-07-01 @ US/TX/New Boston
+military US Army @ World War II
+burial Ringwood Cemetery @ US/TX/New Boston
+
+---
+
+!citation findagrave.com @ 2021-01-08
+!url https://www.findagrave.com/memorial/6574344/joseph-a.-valenti
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-08
+ 
+#357 Valenti, Joseph A., Sr.
+sameas findagrave:6574344
+birth 1913-10-27
+death 1974-05-05
+burial Metairie Cemetery @ US/LA/New Orleans
+

@@ -1751,6 +1751,18 @@ death 2015-07-29 @ US/PA/Effort
 military US Army @ World War II
 burial Prospect Cemetery @ US/PA/East Stroudsburg
 
+---
+
+!citation Airsman-Hires Funeral Home @ 2021-01-01
+!url https://www.airsman-hires.com/obituaries/William-H-Bill-Cundiff?obId=19479139#/obituaryInfo
+!file Cundiff_Bill.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-01
+
+#202012_140 Cundiff, William H. [Bill]
+birth 1941-12-06 @ US/IL/Springfield
+death 2020-12-28 @ US/IL/Jacksonville
+military US Army
+burial Arenzville North Cemetery @ US/IL/Arenzville
 
  
 

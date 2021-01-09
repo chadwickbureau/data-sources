@@ -1,0 +1,417 @@
+!citation Schantz Funeral Home @ 2021-01-01
+!url https://www.schantzfh.com/obituary/richard-delong
+!file DeLong_Zeke.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-01
+
+#202101_001 DeLong, Richard E. [Zeke]
+birth 1939-09-08 @ US/PA/Allentown
+death 2020-12-29 @ US/PA/Allentown
+highschool Allen HS @ US/PA/Allentown
+college Pennsylvania State University
+military US Army
+burial Jerusalem Western Salisbury Church Cemetery @ US/PA/Allentown
+
+---
+
+!citation Memorial Park Funeral Homes @ 2021-01-02
+!url http://www.memorialparkfuneralhomes.com/obituaries/philip-phil-henry-niekro
+!file Niekro_Phil.pdf 
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-02
+
+#202101_002 Niekro, Philip Henry [Phil]
+birth 1939-04-01 @ US/OH/Blaine
+death 2020-12-27 @ US/GA/Flowery Branch
+
+---
+
+!citation Forest Lake Times @ 2021-01-02
+!url https://www.hometownsource.com/forest_lake_times/obituaries/lawrence-larry-stanley-grahek/article_c8d961b1-76ae-5344-9298-c8f3703aea1b.html
+!file Grahek_Larry.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-02
+
+#202101_003 Grahek, Lawrence Stanley [Larry]
+birth 1957-01-02
+death 2020-12-26 @ US/MN/St. Paul
+highschool Ely Memorial HS @ US/MN/Ely
+college University of Minnesota
+
+---
+
+!citation Montreal Gazette @ 2021-01-02
+!url https://montrealgazette.remembering.ca/obituary/john-elias-1081136230
+!file Elias_John.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-02
+
+#202101_004 Elias, John [Johnny]
+birth 1938-06-14
+death 2020-12-09
+college Michigan State University
+
+---
+
+!citation Memorial Park Funeral Home @ 2021-01-03
+!url https://www.memorialparkfuneralhome.com/obituaries/Jon-Coller/#!/Obituary
+!file Coller_Jon.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-03
+
+#202101_005 Coller, Jon Anthony
+birth 1942-04-24
+death 2020-12-02
+highschool Boca Ciega HS @ US/FL/Gulfport
+burial Royal Palm South Cemetery @ US/FL/St. Petersburg
+
+---
+
+!citation Abilene Reporter News @ 2021-01-03
+!url https://www.legacy.com/obituaries/reporternews/obituary.aspx?n=joe-guilford-vick&pid=197412225
+!file Vick_Joe.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-03
+
+#202101_006 Vick, Joe Guilford
+birth 1936-03-14 @ US/TX/Abilene
+death 2020-12-07
+highschool Abilene HS @ US/TX/Abilene
+college Sul Ross State University
+military US Army
+
+---
+
+!citation Indianapolis Star @ 2021-01-03
+!url https://www.legacy.com/obituaries/indystar/obituary.aspx?n=robert-hildebrand&pid=197413746&fhid=31355
+!file Hildebrand_Bob.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-03
+
+#202101_007 Hildebrand, Robert Eugene [Bob]
+birth 1927-05-26 @ US/IN/Indianapolis
+death 2020-12-30
+highschool Washington HS @ US/IN/Indianapolis
+military US Marines
+
+---
+
+!citation Record/Herald News @ 2021-01-03
+!url https://www.legacy.com/obituaries/northjersey/obituary.aspx?n=edward-w-norton&pid=197414788&fhid=26315
+!file Norton_Edward.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-03
+
+#202101_008 Norton, Edward W., Jr.
+birth 1925 @ US/NJ/Passaic
+death 2020-12-30 @ US/NJ/Wayne
+military US Army @ World War II
+military US Army @ Korean War
+
+---
+
+!citation Smolarek Funeral Home @ 2021-01-03
+!url https://www.smolarekfh.com/obituaries/Ronald-Witkowski/#!/Obituary
+!file Witkowski_Ron.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-03
+
+#202101_009 Witkowski, Ronald [Ron]
+death 2020-12-29
+highschool Sloan HS @ US/NY/Sloan
+
+---
+
+!citation Courier-Journal @ 2021-01-03
+!url https://www.legacy.com/us/obituaries/louisville/name/francis-ford-obituary?pid=197414303
+!file Ford_Curly.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-03
+
+#202101_010 Ford, Francis Harold "Curly"
+birth 1933-06-06
+death 2020-12-17
+military US Army
+
+---
+
+!citation Carlucci-Golden-DeSantis Funeral Home @ 2021-01-03
+!url https://www.nepafuneralhome.com/obituary/Stephen-Sunday
+!file Sunday_Stephen.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-03
+
+#202101_011 Sunday, Stephen
+birth 1992-03-18 @ US/PA/Scranton
+death 2020-12-29 @ US/PA/Scranton
+highschool West Scranton HS @ US/PA/Scranton
+college State University of New York Sullivan @ US/NY/Loch Sheldrake
+college St. Thomas Aquinas College
+
+---
+ 
+!citation Baltimore Evening Sun @ 1988-12-05
+!file Spriggs_Geno.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-03
+ 
+#202101_012 Spriggs, George Herman, Jr. [Geno]
+death 1988-12-02
+highschool Southern HS @ US/MD/Harwood
+college Anne Arundel Community College
+
+---
+
+!citation Sewell Funeral Home @ 2021-01-03
+!url https://www.sewellfuneralhome.com/obituaries/GEORGE-HERMAN-SPRIGGS?obId=19464181#/obituaryInfo
+!file Spriggs_George.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-03
+
+#202101_013 Spriggs, George Herman
+birth 1937-05-23
+death 2020-12-22
+burial Cheltenham Veterans Cemetery @ US/MD/Cheltenham
+
+---
+
+!citation HawkeyeSports.com @ 2020-12-24
+!url https://hawkeyesports.com/news/2020/12/24/former-hawkeye-keith-noreen-passes/
+!file Noreen_Keith.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-03
+
+#202101_014 Noreen, Keith
+death 2020-12-19 @ US/FL
+college University of Iowa
+
+---
+
+!citation Rose Hills Memorial Park & Mortuary @ 2021-01-03
+!url https://www.rosehills.com/obituaries/whittier-ca/donald-mitroff-7777108
+!file Mitroff_Donald.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-03
+
+#202101_015 Mitroff, Donald David
+birth 1928-12-17
+death 2018-01-20
+burial Rose Hills Memorial Park @ US/CA/Whittier
+
+---
+
+!citation Hutchens Funeral Homes @ 2021-01-03
+!url https://hutchensfuneralhomes.com/obituary/richard-allen-hibbeler/
+!file Hibbeler_Dick.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-03
+
+#202101_016 Hibbeler, Richard Allen [Dick]
+birth 1928-11-06
+death 2017-04-15
+highschool De Andreis HS @ US/MO/St. Louis
+
+---
+
+!citation Patch.com @ 2021-01-03
+!url https://patch.com/connecticut/glastonbury/classifieds/announcements/70697/obituary-vincent-gizzy-james-speranza
+!file Speranza_Gizzy.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-03
+
+#202101_017 Speranza, Vincent James [Gizzy]
+birth 1929-06-27 @ IT//Palmi
+death 2019-01-19 @ US/CT/Glastonbury
+highschool Stamford HS @ US/CT/Stamford
+military US Air Force @ Korean War
+
+---
+
+!citation Hardage-Giddens Chapel Hills Funeral Home @ 2021-01-04
+!url https://www.dignitymemorial.com/obituaries/jacksonville-fl/steve-steele-9954001
+!file Steele_Steve.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-04
+
+#202101_018 Steele, Steve Wayne
+birth 1947-05-02 @ US/VA/Richlands
+death 2020-12-16 @ US/FL/Jacksonville
+college University of Tennessee at Martin
+
+---
+
+!citation ESPN Deportes @ 2021-01-01
+!url https://espndeportes.espn.com/beisbol/nota/_/id/7978191/muere-pitcher-venezolano-derian-gonzalez-cardenales-lara-lvbp
+!file Gonzalez_Derian.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-04
+
+#202101_019 Gonzalez, Derian
+death 2020-12-31 @ VE
+
+---
+
+!citation Montreal Gazette @ 2020-12-29
+!url https://montrealgazette.com/sports/baseball/derek-aucoin-remembered-as-compassionate-man-who-put-others-first
+!file Aucoin_Derek.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-04
+
+#202101_020 Aucoin, Derek
+birth @ CA/QC/Lachine
+death 2020-12-26
+
+---
+
+!citation Beaumont Enterprise @ 202-12-23
+!url https://www.beaumontenterprise.com/giants/article/Giants-mourn-passing-of-former-scouting-director-15824976.php
+!file Nerland_Matt.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-04
+
+#202101_021 Nerland, Matt
+death 2020-12-20 @ US/CA/Stockton
+
+---
+
+!citation Hayworth-Miller Funeral Homes @ 2021-01-05
+!url https://www.hayworth-miller.com/obituary/Braxton-BaileyIII
+!file Bailey_Brack.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-05
+
+#202101_022 Bailey, Braxton Richmond, III [Brack]
+birth 1937-11-15
+death 2021-01-02
+highschool Shady Grove HS @ US/NC/Advance
+college Pfeiffer University
+burial Advance United Methodist Church Cemetery @ US/NC/Advance
+
+---
+
+!citation George A. Smith & Sons Funeral Home @ 2021-01-05
+!url https://www.dignitymemorial.com/obituaries/jackson-tn/james-scotty-scott-9979913
+!file Scott_James.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-05
+
+#202101_023 Scott, James C.
+birth 1937-01-23 @ US/TN/Scotts Hill
+death 2021-01-03
+highschool Jackson HS @ US/TN/Jackson
+college Union University
+
+---
+
+!citation Friedrich-Jones Funeral Home @ 2021-01-06
+!url https://www.friedrichjones.com/obituaries/John-E-Bright?obId=2801806#/obituaryInfo
+!file Bright_John.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-06
+
+#202101_024 Bright, John E.
+birth 1925-12-27 @ US/PA/Greenville
+death 2015-07-24 @ US/IL/Naperville
+military US Army @ World War II
+burial Abraham Lincoln National Cemetery @ US/IL/Elwood
+
+---
+
+!citation San Mateo Daily Journal @ 2021-01-07
+!url https://www.legacy.com/obituaries/smdailyjournal/obituary.aspx?n=lou-murgo&pid=197444672&fhid=2353
+!file Murgo_Lou.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-07
+
+#202101_025 Murgo, Lou
+birth 1932-07-22 @ US/RI/Bristol
+death 2021-01-04
+highschool Colt Memorial HS @ US/RI/Bristol
+college Brown University
+military US Army
+
+---
+
+!citation Cook Funeral Home @ 2021-01-07
+!url https://www.dignitymemorial.com/obituaries/grandville-mi/jack-sheridan-9337413
+!file Sheridan_Jack.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-07
+
+#202101_026 Sheridan, Jack Dell
+death 2015-07-16 @ US/MI/Grandville
+highschool Zeeland HS @ US/MI/Zeeland
+
+---
+
+!citation Beck Funeral Home @ 2021-01-07
+!url https://www.beckfuneralhome.com/obituary/John-Findley
+!file Findley_John.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-07
+
+#202101_027 Findley, John Robert
+birth 1930-01-06
+death 2015-07-17 @ US/GA/Tiger
+highschool Norcross HS @ US/GA/Norcross
+burial Bethabara Baptist Church Cemetery @ US/GA/Statham
+
+---
+
+!citation Hardage-Giddens Greenlawn Funeral Home @ 2021-01-07
+!url https://www.dignitymemorial.com/obituaries/jacksonville-fl/norman-wilcox-6515772
+!file Wilcox_Norman.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-07
+
+#202101_028 Wilcox, Norman Stancel, Sr.
+birth 1929-09-13 @ US/FL/Jacksonville
+death 2015-07-12
+military US Army @ Korean War
+burial Greenlawn Cemetery @ US/FL/Jacksonville
+
+---
+
+!citation Ridge Funeral Home @ 2021-01-08
+!url https://www.ridgefuneralhome.com/obituaries/James-Ray-Swiggett?obId=19556550#/obituaryInfo
+!file Swiggett_Jim.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-08
+
+#202101_029 Swiggett, James Ray [Jim]
+birth 1930-09-10 @ US/NC/Randolph County
+death 2021-01-07 @ US/NC/Asheboro
+highschool Trinity HS @ US/NC/Trinity
+college High Point University
+burial Cedar Square Friends Meeting Cemetery @ US/NC/Archdale
+
+---
+
+!citation Bosak Funeral Home @ 2021-01-08
+!url https://www.bosakfuneralhome.com/obituaries/Richard-Moavero/#!/Obituary
+!file Moavero_Richard.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-08
+
+#202101_030 Moavero, Richard John, Sr.
+birth 1939-03-29
+death 2021-01-06
+highschool Stamford HS @ US/CT/Stamford
+burial St. John Cemetery @ US/CT/Darien
+
+---
+
+!citation Statesman Journal @ 2015-07-15
+!url https://www.legacy.com/obituaries/statesmanjournal/obituary.aspx?n=allen-craig&pid=175288950&fhid=17274&eid=sp_ommatch
+!file Craig_Bud.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-08
+
+#202101_031 Craig, Allen, Jr. [Bud]
+birth 1929-07-09 @ US/OR/Salem
+death 2015-07-13
+highschool Salem HS @ US/OR/Salem
+college Oregon State University
+military US Army
+
+---
+
+!citation Doherty Funeral Home @ 2021-01-08
+!url https://gfdoherty.com/Obituaries.html
+!file Macaronis_Nicholas.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-08
+
+#202101_032 Macaronis, Nicholas
+death 2015-06-30
+highschool Lowell HS @ US/MA/Lowell
+military US Army
+
+---
+
+!citation Troy Times Record @ 1961-10-13
+!file Stanton_Fred.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-08
+ 
+#202101_033 Stanton, Frederick, Jr. [Corky]
+death 1961-10-13 @ US/NY/Schenectady
+
+---
+ 
+!citation New Orleans Times-Picayune @ 1974-05-06
+!file Valenti_Joe.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-08
+ 
+#202101_034 Valenti, Joseph A., Sr.
+death 1974-05-05 @ US/LA/New Orleans
+military US @ World War II
+burial Metairie Cemetery @ US/LA/New Orleans
+
