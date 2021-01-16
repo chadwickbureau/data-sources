@@ -4396,3 +4396,105 @@ birth 1913-10-27
 death 1974-05-05
 burial Metairie Cemetery @ US/LA/New Orleans
 
+---
+
+!citation findagrave.com @ 2021-01-09
+!url https://www.findagrave.com/memorial/22218104/william-v-markiewicz
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-09
+ 
+#358 Markiewicz, William V.
+sameas findagrave:22218104
+birth 1933-01-09
+death 2003-12-08
+military US Army @ Korean War
+burial Sunset Memorial Gardens @ US/TN/Cleveland
+
+---
+ 
+!citation findagrave.com @ 2021-01-09
+!url https://www.findagrave.com/memorial/5695605/james-d.-upchurch
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-09
+ 
+#359 Upchurch, James D.
+sameas findagrave:5695605
+birth 1928-07-24
+death 1996-01-22
+burial Kechi Township Cemetery @ US/KS/Park City
+
+---
+ 
+!citation findagrave.com @ 2021-01-09
+!url https://www.findagrave.com/memorial/85669110/charles-asbury-burgess
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-09
+ 
+#360 Burgess, Charles Asbury
+sameas findagrave:85669110
+birth 1914-09-03 @ US/GA/Atlanta
+death 2000-12-29
+burial Greenwood Cemetery @ US/AL/Montgomery
+
+---
+ 
+!citation findagrave.com @ 2021-01-09
+!url https://www.findagrave.com/memorial/138662987/rene-s-cortes
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-09
+ 
+#361 Cortes, Rene S. "Boogie"
+sameas findagrave:138662987
+death 1998-06-24
+burial St. Louis Cemetery Number 3 @ US/LA/New Orleans
+
+---
+
+!citation findagrave.com @ 2021-01-13
+!url https://www.findagrave.com/memorial/210578235/salvatore-j.-ferrara
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-13
+ 
+#362 Ferrara, Salvatore J.
+sameas findagrave:210578235
+birth 1917
+death 2016-04-06
+highschool St. John’s Preparatory School @ US/NY/Queens
+college St. John’s University
+military US Navy @ World War II
+burial New Saint Michael Cemetery @ US/CT/Pawcatuck
+
+---
+ 
+!citation findagrave.com @ 2021-01-13
+!url https://www.findagrave.com/memorial/84083906/frank-charles-haggerty
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-13
+ 
+#363 Haggerty, Frank Charles
+sameas findagrave:84083906
+birth 1918
+death 1942
+highschool Chaminade HS @ US/NY/Mineola
+college St. John’s Univeristy
+military US Navy @ World War II
+burial Cemetery of the Holy Rood @ US/NY/Westbury
+
+---
+
+!citation findagrave.com @ 2021-01-14
+!url https://www.findagrave.com/memorial/119207773/omer-william-hardgrove
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-14
+ 
+#364 Hardgrove, Omer William
+sameas findagrave:119207773
+birth 1885-01-07 @ US/MO/Atlanta
+death 1940-08-07 @ US/IL/Monmouth
+burial Monmouth Cemetery @ US/IL/Monmouth
+
+---
+
+ 
+!citation findagrave.com @ 2021-01-15
+!url https://www.findagrave.com/memorial/39597413/ralph-clarence-locke
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-15
+ 
+#365 Locke, Ralph Clarence
+sameas findagrave:39597413
+birth 1916-07-19 @ US
+death 1990-12-22 @ US/IL/Kankakee County
+burial Mound Grove Cemetery @ US/IL/Kankakee

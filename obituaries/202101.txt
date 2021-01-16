@@ -415,3 +415,283 @@ death 1974-05-05 @ US/LA/New Orleans
 military US @ World War II
 burial Metairie Cemetery @ US/LA/New Orleans
 
+---
+
+!citation Ordoyne Funeral Home @ 2021-01-09
+!url https://www.ordoynefunerals.com/memorials/constant-lagarde-jr/4483896/index.php
+!file LaGarde_Buster.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-09
+
+#202101_035 LaGarde, Constant Joseph, Jr. [Buster]
+birth 1941-01-18 @ US/LA/New Orleans
+death 2021-01-06
+highschool Brusly HS @ US/LA/Brusly
+military US Air Force
+
+---
+
+!citation New Orleans Times-Picayune @ 1998-06-28
+!file Cortes_Rene.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-09
+ 
+#202101_036 Cortes, Rene S.
+death 1998-06-24 @ US/LA/Chalmette
+burial St. Louis Cemetery Number 3 @ US/LA/New Orleans
+
+---
+
+!citation Crawford Funeral Home @ 2021-01-10
+!url https://www.crawfordfh.com/obituary/Bud-Hire
+!file Hire_Bud.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-10
+
+#202101_037 Hire, Ashford Bruce [Bud]
+birth 1933-02-15 @ US/IN/Marion
+death 2021-01-06 @ US/WI/Portage
+
+---
+
+!citation McLaren's Resthaven Chapel @ 2021-01-10
+!url https://www.dignitymemorial.com/obituaries/west-des-moines-ia/charles-kivett-9988737
+!file Kivett_Charles.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-10
+
+#202101_038 Kivett, Charles Eugene
+birth 1930-05-17
+death 2021-01-07
+military US @ Korean War
+
+---
+
+!citation Riverview Abbey Funeral Home @ 2021-01-11
+!url https://www.tributearchive.com/obituaries/19547448/Vincent-Pesky-Paveskovich/Portland/Oregon/Riverview-Abbey-Funeral-Home
+!file Pseky_Vince.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-11
+
+#202101_039 Pesky, Vincent J. [Vince]
+alias Paveskovich, Vincent J. [Vince]; type=birth
+birth 1921-08-21
+death 2021-01-03
+highschool Lincoln HS @ US/OR/Portland
+college University of Portland
+military US Navy @ World War II
+burial Mount Calvary Cemetery @ US/OR/Portland
+
+---
+
+!citation Montreal Gazette @ 2021-01-11
+!url https://montrealgazette.remembering.ca/obituary/george-economides-1081359252
+!file Economides_George.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-11
+
+#202101_040 Economides, George
+birth 1931-07-02 @ CA/QC/Montreal
+death 2021-01-03
+
+---
+
+!citation Vander Plaat-Caggiano Funeral Home @ 2021-01-11
+!url https://www.vpfairlawn.com/Obituary/2557/Thomas+James+Acker
+!file Acker_Tom.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-11
+
+#202101_041 Acker, Thomas James
+birth @ US/NJ/Paterson
+death 2021-01-04
+military US Army @ Korean War
+
+---
+
+!citation Mackey Funeral Home @ 2021-01-11
+!url https://www.mackeyfuneralhome.com/obituary/Joseph-Pascucci
+!file Pascucci_Joe.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-11
+
+#202101_042 Pascucci, Joseph Ernest [Joe]
+birth 1950-01-13 @ US/MA/Revere
+death 2021-01-04
+
+---
+
+!citation Chicago Tribune @ 2015-07-07
+!url https://www.legacy.com/us/obituaries/chicagotribune/name/karman-cusack-obituary?pid=175233893
+!file Cusack_Karman.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-11
+
+#202101_043 Cusack, Karman H.
+birth 1927-01-19 @ US/IL/Chicago
+death 2015-06-30
+highschool Morton HS @ US/IL/Berwyn
+
+---
+
+!citation Nalley-Pickle & Welch Funeral Home @ 2021-01-11
+!url https://npwelch.com/obituary/gerald-wayne-burnett/
+!file Burnett_Gerald.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-11
+
+#202101_044 Burnett, Gerald Wayne
+birth 1932-01-24 @ US/MS/Rienzi
+death 2015-06-27 @ US/TX/Midland
+military US Army
+
+---
+
+!citation Birger A. Freeberg Funeral Home @ 2021-01-12
+!url https://www.birgerafreebergfuneralhome.com/obituary/James-Sherkel
+!file Sherkel_Jim.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-12
+
+#202101_045 Sherkel, James Francis [Jim]
+birth 1935-05-29 @ US/PA/Philipsburg
+death 2021-01-09 @ US/PA/State College
+highschool Houtzdale Woodward Brisbin HS @ US/PA/Houtzdale
+burial St. Lawrence Cemetery @ US/PA/Houtzdale
+
+---
+
+!citation Bosma-Renkes Funeral Home @ 2021-01-12
+!url https://www.bosmarenkes.com/obituaries/Raymond-L--Gilbert?obId=19575534#/obituaryInfo
+!file Gilbert_Ray.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-12
+
+#202101_046 Gilbert, Raymond L. [Ray]
+birth 1930-11-11 @ US/IA/Clinton
+death 2021-01-08 @ US/IA/Clinton
+highschool Clinton HS @ US/IA/Clinton
+college Clinton Community College @ US/IA/Clinton
+college University of Northern Iowa
+military US Army 
+burial Grove Hill Cemetery @ US/IA/Morrison
+
+---
+
+!citation Fiss & Bills-Poklasny Funeral Homes @ 2021-01-12
+!url https://www.fissbillspoklasnyfuneralhome.com/obituaries/Kenneth-Corcoran/#!/Obituary
+!file Corcoran_Ken.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-12
+
+#202101_047 Corcoran, Kenneth Edward [Ken]
+birth 1934-10-10 @ US/WI/Madison
+death 2021-01-09 @ US/WI/Oshkosh
+highschool Edgewood HS @ US/WI/Madison
+
+---
+
+!citation Canale Funeral Directors @ 2021-01-12
+!url https://www.canalefuneraldirectors.com/obituaries/Donald-Leppert-4/#!/Obituary
+!file Leppert_Don.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-12
+
+#202101_048 Leppert, Donald Eugene, Sr. [Don]
+birth 1930-11-20 @ US/TN/Memphis
+death 2021-01-05
+military US Air Force
+burial Memorial Park Cemetery @ US/TN/Memphis
+
+---
+
+!citation Fuller Funeral Home @ 2021-01-12
+!url https://fullerfh.com/tribute/details/2593/James-Ryan/obituary.html
+!file Ryan_Jim.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-12
+
+#202101_049 Ryan, James J. [Jim]
+birth 1927 @ US/NY/New York
+death 2021-01-03 @ US/NY/Canandaigua
+military US Marines @ Korean War
+
+---
+
+!citation O'Connell Funeral Home @ 2021-01-13
+!url https://www.oconnellfh.com/obituary/robert-schmidt
+!file Schmidt_Robert.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-13
+
+#202101_050 Schmidt, Robert W.
+birth 1932-04-29 @ US/WI/Kaukauna
+death 2021-01-08 @ US/WI/Neenah
+military US Army @ Korean War
+burial St. Paul Cemetery @ US/WI/Combined Locks
+
+---
+
+!citation Mueller Funeral Home @ 2021-01-13
+!url https://www.muellerfunerals.com/obituary/cecil-neff-jr
+!file Neff_Gene.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-13
+
+#202101_051 Neff, Cecil Eugene, Jr. [Gene]
+sameas sr-cbb:gene-neff-1
+birth 1932-02-28 @ US/OH/Eaton
+death 2021-01-11
+highschool Eaton HS @ US/OH/Eaton
+college University of Kentucky
+military US Army @ Korean War
+burial West Chester Cemetery @ US/OH/West Chester
+
+---
+
+!citation Globe Funeral Chapel @ 2021-01-13
+!url https://www.globefc.com/obituaries/Benjamin-Ray-Ben--Jordan?obId=19601178
+!file Jordan_Ben.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-13
+
+#202101_052 Jordan, Benjamin Ray [Ben]
+sameas sr-cbb:ben-jordan-1
+birth 1998-06-02 @ US/KY/Boyd County
+death 2021-01-11
+highschool West Carter HS @ US/KY/Olive Hill
+college University of Kentucky
+burial Olive Hill Memory Garden @ US/KY/Olive Hill
+
+---
+
+!citation Hamilton Funeral Home @ 2021-01-14
+!url http://www.hamiltonfuneraloptions.com/obituary/terrence-greene
+!file Greene_Terry.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-14
+
+#202101_053 Greene, Terrence J. [Terry]
+birth 1950-03-22 @ US/MO/Springfield
+death 2021-01-08 @ US/GA/Rising Fawn
+highschool Republic HS @ US/MO/Republic
+college Arizona State University
+college Drury University
+
+---
+
+!citation Trenton Times @ 2021-01-15
+!url https://obits.nj.com/obituaries/trenton/obituary.aspx?n=alfred-p-sikorski-fred&pid=197509700&fhid=21853#_ga=2.170744740.501432620.1610714651-1943587430.1589657855
+!file Sikorski_Fred.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-15
+
+#202101_054 Sikorski, Alfred P. [Fred]
+death 2021-01-10
+military US Air Force
+burial St. Hedwig's Cemetery @ US/NJ/Ewing
+
+---
+
+!citation Alexander Funeral Home @ 2021-01-15
+!url https://www.dignitymemorial.com/obituaries/newburgh-in/prentis-crow-10000766
+!file Crow_Leon.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-15
+
+#202101_055 Crow, Prentis Leon [Leon]
+birth 1940-11-24 @ US/AL/Moulton
+death 2021-01-13
+burial Alexander Memorial Park Cemetery @ US/IN/Evansville
+
+---
+
+!citation Eaton Funeral Service @ 2021-01-15
+!url https://www.eatonfuneralservice.com/obituaries/John-Parker-55/#!/Obituary
+!file Parker_John.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-15
+
+#202101_056 Parker, John Thomas
+birth 1947-05-11 @ US/NC/Rowan Cunty
+death 2021-01-04 @ US/NC/Cooleemee
+highschool Davie County HS @ US/NC/Mocksville
+military US Army

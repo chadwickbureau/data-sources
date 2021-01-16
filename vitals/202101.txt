@@ -138,3 +138,172 @@ burial Vale Cemetery @ US/NY/Schenectady
  
 #202101_016 Valenti, Joseph Anthony
 birth 1913-10-27 @ US/LA/New Orleans
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-04
+ 
+#202101_017 Hanson, John Martin
+birth 1919-06-28 @ US/IL/Evanston
+ 
+---
+ 
+!citation California Death Index, 1940-1997
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-04
+ 
+#202101_018 Hanson, John Martin
+sameas ssn:565-14-3570
+birth 1919-06-28 @ US/IL
+death 1990-06-28 @ US/CA/Los Angeles
+
+---
+
+!citation Texas Death Certificates, 1903-1982
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-09
+ 
+#202101_019 Martin, Jack R.
+birth 1929-11-23 @ US/ID
+death 1972-04-14 @ US/TX/El Paso
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-09
+ 
+#202101_020 Upchurch, James Day
+birth 1928-07-24 @ US/IL/Morgan County
+
+---
+ 
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-09
+ 
+#202101_021 Upchurch, James Day
+sameas ssn:336-22-4755
+birth 1928-07-24 @ US/IL/Alexander
+death 1996-01-22
+
+---
+
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-09
+ 
+#202101_022 Masterson, Donnelly William
+sameas ssn:570-28-2379
+birth 1929-03-08
+death 2006-01-17
+ 
+---
+ 
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-09
+ 
+#202101_023 Masterson, Donnelly William
+birth 1929-03-08 @ US/CA/Woodland
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-09
+ 
+#202101_024 Burgess, Charles Asbury
+birth 1914-10-03 @ US/GA/Atlanta
+ 
+---
+ 
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-09
+ 
+#202101_025 Burgess, Charles Asbury
+sameas ssn:274-07-1355
+birth 1914-09-03 @ US/GA/Atlanta
+death 2000-12-29
+
+---
+ 
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-09
+ 
+#202101_026 Burgess, Charles A.
+sameas ssn:274-07-1355
+birth 1914-10-03
+death 2000-12-29
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-09
+ 
+#202101_027 Cortes, Rene Sabastian
+birth 1922-10-26 @ US/LA/Arabi
+ 
+---
+ 
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-09
+ 
+#202101_028 Cortes, Rene Sebastien
+sameas ssn:260-18-8554
+birth 1922-10-26 @ US/LA/Arabi
+death 1998-06-24
+
+---
+ 
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-13
+ 
+#202101_029 Ferrara, Salvatore J.
+birth 1917-10-06 @ US/NY/Brooklyn
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-13
+ 
+#202101_030 Haggerty, Frank Charles
+birth 1918-06-29
+
+---
+ 
+!citation North Carolina Death Certificates, 1909-1976
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-13
+ 
+#202101_031 Haggerty, Frank C.
+birth 1918-06-29 @ US/NY
+death 1942-09-23 @ US/NC/Steele Creek
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-15
+ 
+#202101_032 Locke, Ralph Clarence
+birth 1917-07-19 @ US/IL/Kankakee
+
+---
+ 
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-15
+ 
+#202101_033 Locke, Ralph C.
+sameas ssn:392-05-3316
+birth 1916-07-19
+death 1990-12-22
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-15
+ 
+#202101_034 Loustalet, Pierre Henry
+birth 1920-05-02 @ US/CA/Berkeley
+ 
+---
+ 
+!citation South Carolina Death Records, 1821-1968
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-15
+ 
+#202101_035 Loustalet, Pierre H.
+birth 1920-05-02 @ US/CA/Berkeley
+death 1942-07-17 @ US/SC/Charleston

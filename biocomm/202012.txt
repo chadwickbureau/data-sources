@@ -1,0 +1,152 @@
+!citation SABR Biographical Committee Newsletter @ 2020-12
+
+#202012_001 Allen, Richard Anthony
+describe ; mlbplayed=1963/
+death 2020-12-07 @ US/PA/Wampum
+
+#202012_002 Arauz (Morales), Jonathan Aldair
+describe ; mlbplayed=2020/
+birth @ PA/Chiriqui/Alanje
+
+#202012_003 Aucoin, Derek Alfred
+describe ; mlbplayed=1996/
+death @ 2020-12-26 @ CA/QC/Montreal
+
+#202012_004 Castleman, Foster Ephraim
+describe ; mlbplayed=1954/
+death @ 2020-11-09 @ US/FL/The Villages
+
+#202012_005 Chavarria (Quijano), Osvaldo
+describe ; mlbplayed=1966/
+birth @ 1937-08-05
+
+#202012_006 Church, Emory Nicholas
+describe ; mlbplayed=1950/
+burial Elmwood Cemetery @ US/AL/Birmingham
+
+#202012_007 Crum, Clarence Newton
+describe ; mlbplayed=1917/
+death 1945-12-07
+
+#202012_008 Darwin, Danny Wayne
+describe ; mlbplayed=1978/
+
+#202012_009 DeMars, William Lester
+describe ; mlbplayed=1948/
+death 2020-12-10 @ US/FL/Clearwater
+burial Bay Pines National Cemetery @ US/FL/Bay Pines
+
+#202012_010 Fernandez (Mosquera), Lorenzo Marto
+describe ; mlbplayed=1968/
+death 2020-11-30 @ US/FL/Miami
+
+#202012_011 Galligan, Peter F.
+describe ; mlbplayed=1886/
+birth 1860-01-20
+
+#202012_012 Gamble, Oscar Charles
+describe ; mlbplayed=1969/
+burial Calvary Baptist Church Cemetery @ US/AL/Montgomery
+
+#202012_013 Grammas, Alexander Peter
+describe ; mlbplayed=1954/
+burial Elmwood Cemetery @ US/AL/Birmingham
+
+#202012_014 Harris, James William
+describe ; mlbplayed=1968/
+death 2020-12-20 @ US/NC/Hampstead
+burial Mary Love Cemetery @ US/NC/Hamlet
+
+#202012_015 Hill, Clifford Joseph [Cliff]
+describe ; mlbplayed=1917/
+
+#202012_016 Hoover, Charles E.
+describe ; mlbplayed=1888/
+death 1905-02-27 @ US/LA/Shreveport
+burial Greenwood Cemetery @ US/LA/Shreveport
+
+#202012_017 Knepper, Charles
+describe ; H74 W202; mlbplayed=1890/
+birth @ US/OH/Pickaway County
+
+#202012_018 Lasorda, Thomas Charles
+describe ; mlbplayed=1954/
+death 2021-01-07 @ US/CA/Fullerton
+
+#202012_019 Linz, Philip Francis
+describe ; mlbplayed=1962/
+death 2020-12-09 @ US/VA/Leesburg
+
+#202012_020 Long, Thomas Augustus
+describe ; mlbplayed=1911/
+burial Elmwood Cemetery @ US/AL/Birmingham
+
+#202012_021 Mahady, James Bernard
+describe ; mlbplayed=1921/
+birth 1902-04-22
+
+#202012_022 McDaniel, Lyndall Dale
+describe ; mlbplayed=1955/
+death 2020-11-14 @ US/TX/Carrollton
+
+#202012_023 Menke, Denis John
+describe ; mlbplayed=1962/
+death 2020-12-01 @ US/FL/Tarpon Springs
+
+#202012_024 Miller, Robert John
+describe ; mlbplayed=1949/
+death 2020-11-27 @ US/MI/Waterford
+
+#202012_025 Moret (Torres), Rogelio
+describe ; mlbplayed=1970/
+death 2020-12-07 @ PR//Guayama
+
+#202012_026 Niekro, Philip Henry
+describe ; mlbplayed=1964/
+death 2020-12-26 @ US/GA/Flowery Branch
+
+#202012_027 Pfister, Daniel Albin
+describe ; mlbplayed=1961/
+death 2020-11-09 @ US/FL/Fort Lauderdale
+
+#202012_028 Rogers, Fraley Westcote
+describe ; mlbplayed=1872/
+
+#202012_029 Rohr, Leslie Norvin
+describe ; mlbplayed=1967/
+death 2020-11-06 @ US/MT/Billings
+burial Cremated
+
+#202012_030 Rundles, Richard Lambert
+describe ; mlbplayed=2008/
+burial Jefferson Memorial Cemetery @ US/TN/Jefferson City
+
+#202012_031 Sandt, Thomas James
+describe ; mlbplayed=1975/
+death 2020-12-01 @ US/OR/Lake Oswego
+
+#202012_032 Smyres, Clarence Melvin
+describe ; mlbplayed=1944/
+birth @ US/KS/Little River
+
+#202012_033 Spanswick, William Henry
+describe ; mlbplayed=1964/
+death 2020-12-02 @ US/FL/Naples
+
+#202012_034 Spriggs, George Herman
+describe ; mlbplayed=1965/
+death 2020-12-22 @ US/MD/Prince Frederick
+burial Cheltenham Veterans Cemetery @ US/MD/Cheltenham
+
+#202012_035 Stevens, Robert Edward
+describe ; mlbplayed=1875/
+burial Lake View Cemetery @ US/WA/Seattle
+
+#202012_036 Sullivan, Michael Joseph
+describe ; mlbplayed=1889/
+death 1906-06-15
+
+#202012_037 Wolter, Harry Meiggs
+describe ; TL; mlbplayed=1907/
+
+

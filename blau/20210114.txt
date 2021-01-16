@@ -1,0 +1,115 @@
+!citation Asheville Citizen @ 1916-06-13; page 8
+
+#20210114_001 Chapman, Charles
+player 1916 Greensboro (North Carolina State); @C
+
+
+#20210114_002 Barron, Jim
+player 1916 Greensboro (North Carolina State); W235
+
+---
+
+!citation Greensboro Daily News @ 1916-04-06; page 7
+
+#20210114_003 Howard
+player 1916 Greensboro (North Carolina State); TL @P
+
+---
+
+!citation Greensboro Daily News @ 1916-04-21; page 7
+
+#20210114_004 Van Horn, Charles
+player 1916 Greensboro (North Carolina State); TL
+
+---
+
+!citation Greensboro Daily News @ 1916-07-29; page 2
+
+#20210114_005 Giamico, Tony
+player 1916 Greensboro (North Carolina State)
+
+---
+
+!citation Raleigh News and Observer @ 1916-06-10; page 7
+
+#20210114_006 Johnson, Roy
+player 1916 Raleigh (North Carolina State)
+player 1915 Portsmouth (Ohio State)
+
+---
+
+!citation Raleigh News and Observer @ 1916-05-04; page 7
+
+#20210114_007 Russell, Benny
+player 1916 Raleigh (North Carolina State)
+
+---
+
+!citation Raleigh News and Observer @ 1916-06-01; page 7
+
+#20210114_008 Scott
+player 1916 Raleigh (North Carolina State)
+player 1916 Newport News (Virginia)
+acquired 1916-05-31 by Raleigh (North Carolina State) from Newport News (Virginia)
+
+---
+
+!citation (Winston-Salem) Twin-City Daily Sentinel @ 1916-06-15; page 11
+
+#20210114_009 Hamilton, Fred
+player 1916 Winston-Salem (North Carolina State); @P
+
+---
+
+!citation Winnipeg Tribune @ 1916-06-16; page 12
+
+#20210114_010 Miller, Hank
+player 1916 Winnipeg (Northern); @CF
+
+---
+
+!citation Winnipeg Tribune @ 1916-06-17; page 12
+
+#20210114_011 Clarke, Jeff
+player 1916 Winnipeg (Northern); @P
+
+#20210114_012 Murphy, Joe
+player 1916 Winnipeg (Northern); @3B
+
+---
+
+!citation Winnipeg Tribune @ 1916-07-07; page 10
+
+#20210114_013 Wright, Bob
+player 1916 Fargo-Moorhead (Northern); @P
+
+---
+
+!citation Moline Dispatch @ 1916-07-17; page 11
+
+#20210114_014 Turner, [Tuck]
+player 1916 (Northern)
+player 1916 Quincy (Illinois-Indiana-Iowa)
+
+---
+
+!citation Edmonton Journal @ 1916-04-18; page 14
+
+#20210114_015 Turner, Floyd
+player 1916 Fort William (Northern)
+
+---
+
+!citation Edmonton Journal @ 1916-04-18; page 14
+
+#20210114_016 Debus
+player 1916 Fort William (Northern)
+player 1916 Fargo-Moorhead (Northern)
+
+#20210114_017 Greitsch
+player 1916 Virginia (Northern)
+player 1916 Duluth (Northern)
+
+#20210114_018 Tierney
+player 1916 Virginia (Northern)
+player 1916 Kansas City (American Association)
