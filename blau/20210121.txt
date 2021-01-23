@@ -1,0 +1,186 @@
+!citation Winnipeg Tribune @ 1916-05-27; page 18
+
+#20210121_001 Johnson, A.
+player 1916 Virginia (Northern)
+notes pitched 5/25
+
+#20210121_002 Johnson, James
+player 1916 Virginia (Northern); @P
+notes shown as F. Johnson in box score
+
+---
+
+!citation Winnipeg Tribune @ 1916-06-30; page 11
+
+#20210121_003 Johnson, Frank
+player 1916 Virginia (Northern)
+
+---
+
+!citation Winnipeg Tribune @ 1916-07-11; page 10
+
+#20210121_004 Johnson, Frank
+player 1916 Virginia (Northern)
+player 1916 Superior (Northern)
+
+#20210121_005 Hewitt, [Lefty]
+player 1916 Virginia (Northern)
+player 1916 Superior (Northern)
+
+---
+
+!citation Wichita Daily Eagle @ 1916-07-28; page 7
+
+#20210121_006 Bennett
+player 1916 Wichita (Western)
+player 1916 (Northern)
+
+---
+
+!citation Little Falls (MN) Herald @ 1916-05-26; page 1
+
+#20210121_007 Greisch
+player 1916 Virginia (Northern)
+
+---
+
+!citation Topeka Daily Capital @ 1916-06-10; page 13
+
+#20210121_008 Doyle
+player 1916 Topeka (Western)
+player 1916 Virginia (Northern)
+
+---
+
+!citation St. Joseph News-Press @ 1916-04-14; page 22
+
+#20210121_009 Forrest, Grig
+player 1916 Virginia (Northern)
+
+#20210121_010 Reiger, Cy
+player 1916 Virginia (Northern)
+
+---
+
+!citation Topeka State Journal @ 1916-05-09; page 8
+
+#20210121_011 Weising, Vincent
+player 1916 Topeka (Western)
+player 1916 Virginia (Northern)
+acquired <=1916-05-09 by Virginia (Northern) from Topeka (Western) on optional assignment
+notes had 1.000 batting average in 2 plate appearances with Topeka
+
+---
+
+!citation Grand Forks Daily Herald @ 1916-05-04; page 8
+
+#20210121_012 Bennett, [Buggs]
+player 1916 Virginia (Northern); TR H71 W180
+resides 1916@US/MO/Kansas City
+
+
+---
+
+!citation Winnipeg Tribune @ 1916-06-10; page 22
+
+#20210121_013 Hewitt, [Bugs]
+player 1916 Fort William (Northern); TL
+
+---
+
+!citation Winnipeg Tribune @ 1916-06-13; page 11
+
+#20210121_014 Davis, Lefty
+player 1916 Virginia (Northern)
+
+---
+
+!citation Winnipeg Tribune @ 1916-05-11; page 12
+
+#20210121_015 Conroy, Bill
+player 1916 Virginia (Northern)
+player 1916 Winnipeg (Northern)
+notes had been loaned to Virginia, now returned to Winnipeg
+
+---
+
+!citation Duluth News-Tribune @ 1916-05-13; page 9
+
+#20210121_016 Kline
+player 1916 Virginia (Northern)
+player 1915 Winnipeg (Northern)
+
+---
+
+!citation Duluth Herald @ 1916-08-14; page 12
+
+#20210121_017 Schaffer, Tom
+player 1916 Duluth (Northern)
+player 1916 Fargo-Moorhead (Northern)
+resides 1916@US/MD/Baltimore
+
+---
+
+!citation Spokane Chronicle @ 1916-07-20; page 14
+
+#20210121_018 McJannett
+player 1916 Butte (Northern)
+college University of Washington
+
+---
+
+!citation Butte Miner @ 1916-06-14; page 12
+
+#20210121_019 Mehlhaf, Dutch
+player 1916 Tacoma (Northwestern)
+
+---
+
+!citation Anaconda Standard @ 1916-09-05; page 3
+
+#20210121_020 Mehlhaf, Dutch
+player 1916 Tacoma (Northwestern)
+player 1916 Butte (Northwestern)
+
+---
+
+!citation Butte Miner @ 1917-05-25; page 12
+
+#20210121_021 Mehlhaf, Dutch
+player 1917 Butte (Northwestern); TR
+released <= 1917-05-25 by Butte (Northwestern)
+
+---
+
+!citation Butte Miner @ 1916-06-28; page 10
+
+#20210121_022 O'Brien, Red
+player 1916 Butte (Northwestern)
+
+
+---
+
+!citation Vancouver Daily World @ 1916-08-01; page 10
+
+#20210121_023 O'Brien, Billy
+player 1916 Butte (Northwestern)
+player 1916 Vancouver (Northwestern)
+resides 1916@US/WA/Seattle
+
+---
+
+!citation Butte Miner @ 1916-06-22; page 9
+
+#20210121_024 Roberts, Skipper
+player 1916 Butte (Northwestern)
+player 1916 Tacoma (Northwestern)
+released <=1916-06-21 by Tacoma (Northwestern)
+
+---
+
+!citation Butte Miner @ 1916-06-22; page 9
+
+#20210121_025 Roberts, Clarence [Skipper]
+player 1914 Pittsburgh (Federal)
+player 1916 Tacoma (Northwestern)
+

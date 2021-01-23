@@ -695,3 +695,266 @@ birth 1947-05-11 @ US/NC/Rowan Cunty
 death 2021-01-04 @ US/NC/Cooleemee
 highschool Davie County HS @ US/NC/Mocksville
 military US Army
+
+---
+
+!citation ForeverMissed.com @ 2021-01-16
+!url https://www.forevermissed.com/melvin-carle-aaron/about
+!file Aaron_Melvin.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-16
+
+#202101_057 Aaron, Melvin Carle
+birth 1949-10-25 @ US/CA/Los Angeles
+death 2020-12-24 @ US/CA/Palmdale 
+highschool Manual Arts HS @ US/CA/Los Angeles
+college Hastings College
+college University of California, Santa Barbara
+
+---
+
+!citation Bradenton Herald @ 2021-01-17
+!url https://www.legacy.com/obituaries/bradenton/obituary.aspx?n=kenneth-and-nancy-magown&pid=197514168
+!file Magown_Ken.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-16
+
+#202101_058 Magown, Kenneth B. [Ken]
+birth 1943-01-19 @ US/MA/Cambridge
+death 2020-12-18 @ US/FL/Bradenton
+highschool Wakefield HS @ US/MA/Wakefield
+military US Army
+burial Sarasota National Cemetery @ US/FL/Sarasota
+
+---
+
+!citation Ithaca Journal @ 1972-07-01
+!file Sidle_Carl.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-15
+ 
+#202101_059 Sidle, Carl K.
+birth @ US/KS/Winfield
+death 1972-06-20 @ US/NY/Ithaca
+burial Calvary Cemetery @ US/NY/Ithaca
+
+---
+
+!citation Kansas City (KS) Times @ 1984-05-12
+!file Rabuse_Frank.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-15
+ 
+#202101_060 Rabuse, Frank J.
+death 1984-05-11 @ US/KS/Kansas City
+burial Mount Calvary Cemetery @ US/KS/Kansas City
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-16
+ 
+#202101_061 Rabuse, Frank Joseph
+birth 1901-01-03 @ US/KS/Kansas City
+ 
+---
+ 
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-16
+ 
+#202101_062 Rabuse, Frank
+sameas ssn:510-05-4564
+birth 1901-01-03
+death 1984-05
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-16
+ 
+#202101_063 Utt, Otto Frederick
+birth 1904-01-13 @ US/CO/Sugar City
+
+---
+
+!citation Carey Hand Colonial Funeral Home @ 2021-01-18
+!url https://www.careyhandcolonialfh.com/obituary/Robert-Hudson
+!file Hudson_Bob.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-18
+
+#202101_064 Hudson, Robert L. [Bob] "Red"
+birth 1932-01-19 @ US/FL/Tampa
+death 2021-01-02
+highschool Sarasota HS @ US/FL/Sarasota
+college Florida State University
+burial Woodlawn Memorial Park @ US/FL/Gotha
+
+---
+
+!citation Stocking Funeral Home @ 2021-01-18
+!url https://stockingfuneralhome.com/book-of-memories/4473474/Lohmann-Richard-/index.php
+!file Lohmann_Richard.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-18
+
+#202101_065 Lohmann, Richard Charles
+birth 1931-07-10 @ US/MI/Detroit
+death 2020-12-26 @ US/MI/Harrison
+highschool Pershing HS @ US/MI/Detroit
+military US Marines @ Korean War
+burial Resurrection Cemetery @ US/MI/Clinton Township
+
+---
+
+!citation Las Vegas Review-Journal @ 2021-01-19
+!url https://obits.reviewjournal.com/us/obituaries/lvrj/name/dundee-jones-obituary?pid=197533769
+!file Jones_Dundee.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-19
+
+#202101_066 Jones, Dundee Lee
+birth 1937-10-12 @ US/TX/Houston
+death 2021-01-12
+highschool Mira Costa HS @ US/CA/Manhattan Beach
+college El Camino College
+
+---
+
+!citation Virginian-Pilot @ 2021-01-19
+!url https://www.legacy.com/obituaries/pilotonline/obituary.aspx?n=gary-s-bulman&pid=197531794
+!file Bulman_Gary.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-19
+
+#202101_067 Bulman, Gary Scott, Jr.
+birth @ US/VA/Virginia Beach
+death 2021-01-14
+highschool Greenbrier Christian Academy @ US/VA/Chesapeake
+
+---
+
+!citation Daily Times @ 2015-06-25
+!url https://www.thedailytimes.com/public_records/obituaries/william-garland-bates/article_c3e0fe23-1716-580c-8329-601bcdf7af19.html
+!file Bates_Bill.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-19
+
+#202101_068 Bates, William Garland [Bill]
+birth 1931-08-21 @ US/TN/Alcoa
+death 2015-06-19
+highschool Alcoa HS @ US/TN/Alcoa
+military US Army
+
+---
+
+!citation Lockport Union-Sun & Journal @ 2021-01-15
+!url https://obituaries.lockportjournal.com/obituary/warren-goehle-1081436777
+!file Goehle_Dick.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-19
+
+#202101_069 Goehle, Warren Richard [Dick]
+birth 1933-07-18
+death 2021-01-03
+military US Marines @ Korean War
+
+---
+
+!citation Sheldon Funeral Home @ 2021-01-19
+!url https://www.sheldonfuneralhomes.com/obituary/eugene-salsman
+!file Salsman_Gene.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-19
+
+#202101_070 Salsman, Eugene Dale [Gene]
+birth 1940-09-18 @ US/PA/Laceyville
+death 2021-01-16 @ US/PA/Laceyville
+highschool Wyalusing Valley HS @ US/PA/Wyalusing
+college Mansfield University of Pennsylvania
+burial North Flat Cemetery @ US/PA/Laceyville
+
+---
+ 
+!citation South Florida Sun Sentinel @ 1993-06-30
+!file Petrino_Patrick.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-19
+ 
+#202101_071 Petrino, Patrick A.
+death 1993-06-27 @ US/FL/Boca Raton
+burial Boca Raton Municipal Cemetery and Mausoleum @ US/FL/Boca Raton
+
+---
+
+!citation Shuler Funeral Home @ 2021-01-20
+!url https://www.shulerfuneralhome.com/obituary/guy-l-wellman/
+!file Wellman_Guy.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-20
+
+#202101_072 Wellman, Guy L.
+birth 1921-07-30 @ US/IN/LaPorte
+death 2021-01-11 @ US/NC/Flat Rock
+college Indiana University Bloomington
+military US Army @ World War II
+military US Army @ Korean War
+
+---
+
+!citation Preston-Schilling Funeral Home @ 2021-01-21
+!url https://www.prestonschilling.com/obituaries/Roger-Lyle-Landreth?obId=19721891#/obituaryInfo
+!file Landreth_Roger.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-21
+
+#202101_073 Landreth, Rogr Lyle
+birth 1935-12-25 @ US/IL/St. Elmo
+death 2021-01-18 @ US/IL/Dixon
+highschool Edwardsville HS @ US/IL/Edwardsville
+military US Marines
+burial St. Patrick Cemetery @ US/IL/Maytown
+
+---
+
+!citation Ferderick (MD) News @ 1953-05-12
+!file Hitchcock_Fern.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-21
+ 
+#202101_074 Hitchcock, Ferne R.
+death 1953-05-09 @ US/MD/Taneytown
+military US Army @ World War I
+burial Grace United Church of Christ Cemetery @ US/MD/Taneytown
+
+---
+
+!citation Pellerin Funeral Homes @ 2021-01-21
+!url https://www.pellerinfuneralhome.com/obituaries/Alton-John-Theard?obId=19720638#/obituaryInfo
+!file Theard_Al.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-21
+
+#202101_075 Theard, Alton John [Al]
+birth 1921-06-21 @ US/LA/New Orleans
+death 2021-01-19
+highschool Peters HS @ US/LA/New Orleans
+college Louisiana State University
+military US Navy @ World War II
+burial St. Roch Cemetery #1 @ US/LA/New Orleans
+
+---
+
+!citation East Bay Times @ 2021-01-28
+!url https://www.legacy.com/obituaries/eastbaytimes/obituary.aspx?n=dan-pinto&pid=197561000
+!file Pinto_Dan.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-22
+
+#202101_076 Pinto, Dan
+birth 1926-09-21 @ US/CA/Richmond
+death 2021-01-18 @ US/CA/Richmond
+military US Army @ World War II
+
+---
+
+!citation Monterey Herald @ 2021-01-24
+!url https://www.legacy.com/obituaries/montereyherald/obituary.aspx?n=ted-bell-charles-gilbert&pid=197560996
+!file Bell_Ted.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-22
+
+#202101_077 Bell, Charles Gilbert [Ted]
+birth 1929-02-10 @ US/CA/Los Angeles
+death 2020-12-16 
+highschool Fremont HS @ US/CA/Los Angeles
+
+---
+
+!citation Lincoln (NE) Star @ 1938-02-28
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-22
+ 
+#profile Mehlhaf, R. H. [Dick]
+death 1938-02-28 @ US/NE/Omaha

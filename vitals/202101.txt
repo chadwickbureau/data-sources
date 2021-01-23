@@ -307,3 +307,202 @@ birth 1920-05-02 @ US/CA/Berkeley
 #202101_035 Loustalet, Pierre H.
 birth 1920-05-02 @ US/CA/Berkeley
 death 1942-07-17 @ US/SC/Charleston
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-16
+ 
+#202101_036 Suggs, Johnie Woods
+birth 1906-07-20 @ US/AL/Sulligent
+
+---
+ 
+!citation Georgia Death Index, 1919-1998
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-16
+ 
+#202101_037 Suggs, Johnie W.
+death 1972-01-20 @ US/GA/Muscogee County
+
+---
+ 
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-16
+ 
+#202101_038 Sidle, Carl
+sameas ssn:093-01-5087
+birth 1904-03-14
+death 1972-06
+
+---
+ 
+!citation US Department of Veterans Affairs BIRLS Death File, 1850-2010
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-16
+ 
+#202101_039 Butler, Paul
+sameas ssn:510-05-5496
+birth 1907-12-14
+death 1984-01-12
+military US @ World War II
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-18
+ 
+#202101_040 Anderson, George Marvin
+birth 1909-03-18 @ US/CO/Denver
+
+---
+
+!citation US Department of Veterans Affairs BIRLS Death File, 1850-2010
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-19
+ 
+#202101_041 Glock, Charles
+sameas ssn:144-09-2849
+birth 1914-12-18
+death 1980-10-17
+military US Navy @ World War II
+ 
+---
+ 
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-19
+ 
+#202101_042 Glock, Charles Fred
+birth 1914-12-18 @ US/NJ/Lyndhurst
+ 
+---
+ 
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-19
+ 
+#202101_043 Lochbaum, Emile Joseph
+birth 1915-02-16 @ US/LA/Kenner
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-19
+ 
+#202101_044 Miller, Lawrence Byron
+birth 1913-07-13 @ US/NJ/Atlantic City
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-19
+ 
+#202101_045 Petrino, Patrick Anthony
+birth 1917-12-10 @ US/NY/New York
+ 
+---
+ 
+!citation Florida Death Index, 1877-1998
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-19
+ 
+#202101_046 Petrino, Patrick Anthony
+birth 1917-12-10
+death 1993-06-27 @ US/FL/Palm Beach County
+
+---
+
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-19
+ 
+#202101_047 Thomason, William Harold
+alias Cooper, Ted; type=stage
+sameas ssn:417-07-1137
+birth 1917-06-15 @ US/GA/Aragon
+death 1994-01-16
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-19
+ 
+#202101_048 Vandegrift, Edwin Francis
+birth 1917-02-14 @ US/PA/Philadelphia
+
+---
+ 
+!citation Pennsylvania Death Certificates, 1906-1967
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-19
+ 
+#202101_049 Vandegrift, Edwin F.
+sameas ssn:221-05-4148
+birth 1917-02-14
+death 1944-06-11 @ US/PA/Philadelphia
+burial Lawnview Cemetery @ US/PA/Rockledge
+
+---
+
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-22
+ 
+#202101_050 Bevell, Edgar Russell
+sameas ssn:437052971
+birth 1918-09-21 @ US/MS/Batesville
+death 1995-03-23
+ 
+---
+ 
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-22
+ 
+#202101_051 Bevell, Edgar Russell
+sameas ssn:437052971
+birth 1917-09-21
+death 1995-03-23
+ 
+---
+ 
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-22
+ 
+#202101_052 Bevell, Edgar Russell
+birth 1917-09-21 @ US/MS/Panola County
+
+---
+
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-22
+ 
+#202101_053 Fletcher, Glen Hamilton
+sameas ssn:273-12-0261
+birth 1917-07-08 @ US/IL/Armstrong
+death 1994-11-09
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-22
+ 
+#202101_054 Hawley, Charles Stanley
+birth 1915-04-03 @ US/IL/Odin
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-22
+ 
+#202101_055 Hinrichs, Eugene Gifford
+birth 1916-11-07 @ US/IA/Pomeroy
+ 
+---
+ 
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-22
+ 
+#202101_056 Hinrichs, Eugene Gifford
+sameas ssn:480-01-9843
+birth 1916-11-07 @ US/IA/Pomeroy
+death 1999-12-19
+
+---
+ 
+!citation US WWI Draft Registration Cards, 1917-1918
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-22
+ 
+#202101_057 Mehlhaf, Richard Henry
+birth 1894-08-24 @ US/NE/Sutton
