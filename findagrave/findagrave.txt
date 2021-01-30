@@ -4754,3 +4754,103 @@ sameas findagrave:103202414
 birth 1894-08-24
 death 1938
 burial Sutton Cemetery @ US/NE/Sutton
+
+---
+
+!citation findagrave.com @ 2021-01-25
+!url https://www.findagrave.com/memorial/90283307/roy-herman-helser
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-25
+ 
+#387 Helser, Roy Herman
+sameas findagrave:90283307
+birth 1911-08-27 @ US/OR/Portland
+death 1994-10-25 @ US/OR/McMinnville
+burial Evergreen Memorial Park @ US/OR/McMinnville
+
+---
+ 
+!citation findagrave.com @ 2021-01-25
+!url https://www.findagrave.com/memorial/45711130/bain-r-hatfield
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-25
+ 
+#388 Hatfield, Bain R.
+sameas findagrave:45711130
+birth 1924-06-26
+death 1977-08-26
+burial Fort Gibson National Cemetery @ US/OK/Fort Gibson
+
+---
+ 
+!citation findagrave.com @ 2021-01-26
+!url https://www.findagrave.com/memorial/190151434/leroy-w.-miller
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-26
+ 
+#389 Miller, Leroy W.
+sameas findagrave:190151434
+birth 1902
+death 1987
+burial Mount Zion Cemetery and Mausoleum @ US/PA/North Coventry Township
+
+---
+
+!citation findagrave.com @ 2021-01-27
+!url https://www.findagrave.com/memorial/192945968/william-bonaface-colligan
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-27
+ 
+#390 Colligan, William Boniface
+sameas findagrave:192945968
+birth 1886-05-14 @ US/NY/Allegany
+death 1960-10-13 @ US/NY/Buffalo
+burial St. Bonaventure Cemetery @ US/NY/Allegany
+
+---
+
+!citation findagrave.com @ 2021-01-28
+!url https://www.findagrave.com/memorial/154476050/glenn-livingston
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-28
+ 
+#391 Livingston, Glenn
+sameas findagrave:154476050
+birth 1917-05-03
+death 2004-09-25
+burial Greenview Cemetery @ US/NC/Reidsville
+
+---
+
+!citation findagrave.com @ 2021-01-29
+!url https://www.findagrave.com/memorial/89872889/edward-francis-duffy
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-29
+ 
+#392 Duffy, Edward Francis
+sameas findagrave:89872889
+birth 1891-12-07 @ US/DE/Wilmington
+death 1952-12-01 @ US/CA/Riverside
+military US Army @ World War I
+burial Coachella Valley Public Cemetery @ US/CA/Coachella
+
+---
+ 
+!citation findagrave.com @ 2021-01-29
+!url https://www.findagrave.com/memorial/184616914/arthur-v.-luce
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-29
+ 
+#393 Luce, Arthur
+sameas findagrave:184616914
+birth 1912-08-11 @ US/NY/West Sayville
+death 1997-02-25 @ US/NY
+highschool Sayville HS @ US/NY/West Sayville
+military US Army @ World War II
+burial Pinelawn Memorial Park @ US/NY/East Farmingdale
+
+---
+ 
+!citation findagrave.com @ 2021-01-29
+!url https://www.findagrave.com/memorial/182447307/william-j.-luce
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-29
+ 
+#394 Luce, William J. [Bill]
+sameas findagrave:182447307
+birth 1914-06-29 @ US/NY/Bay Shore
+death 1994-06-05 @ US/NY/West Sayville
+highschool Sayville HS @ US/NY/West Sayville
+burial St. Lawrence Martyr Roman Catholic Cemetery @ US/NY/Sayville

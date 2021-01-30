@@ -1,0 +1,120 @@
+!citation Great Falls Tribune @ 1916-07-10; page 9
+
+#20210128_001 Crisp
+player 1916 Great Falls (Northwestern)
+player 1916 Kansas City (American Association)
+
+---
+
+!citation Great Falls Tribune @ 1916-09-24; page 12
+
+#20210128_002 White
+player 1916 Great Falls (Northwestern)
+player 1916 Oakland (Pacific Coast)
+
+---
+
+!citation Spokane Spokesman-Review @ 1916-05-31; page 16
+
+#20210128_003 Leonard, Tiny
+player 1916 Spokane (Northwestern)
+player 1916 Tacoma (Northwestern)
+
+---
+
+!citation Spokane Spokesman-Review @ 1916-03-30; page 16
+
+#20210128_004 Leonard, Tiny
+player 1916 Spokane (Northwestern)
+player 1915 (Northwestern)
+player <1916 Philadelphia (American)
+
+---
+
+!citation (Portland) Oregon Daily Journal @ 1915-05-04; page 14
+
+#20210128_005 Leonard, Tiny
+player 1915 Spokane (Northwestern)
+player 1915 Portland (Pacific Coast)
+acquired <=1916-05-04 by Spokane (Northwestern) from Portland (Pacific Coast) for cash
+
+---
+
+!citation Spokane Chronicle @ 1915-05-21; page 3
+
+#20210128_006 Leonard, Tiny
+player 1915 Spokane (Northwestern)
+player 1915 Victoria (Northwestern)
+acquired <=1916-05-21 by Victoria (Northwestern) from Spokane (Northwestern) for cash
+
+---
+
+!citation Tacoma Times @ 1916-08-08; page 6
+
+#20210128_007 Williams, Rickey
+player 1916 Tacoma (Northwestern)
+
+---
+
+!citation Vancouver Sun @ 1916-05-08; page 6
+
+#20210128_008 Follman, Harry
+player 1916 Vancouver (Northwestern)
+
+---
+
+!citation Vancouver Sun @ 1916-08-22; page 6
+
+#20210128_009 Zinke
+player 1916 Vancouver (Northwestern)
+player 1916 Great Falls (Northwestern)
+notes pinch-hit once for Great Falls (8/15)
+resides 1916@US/WA/Bellingham
+
+---
+
+!citation Vancouver Sun @ 1916-08-28; page 10
+
+#20210128_010 Hoffman
+player 1916 Vancouver (Northwestern); TL
+resides 1916@US/MT/Havre
+
+#20210128_011 Ryan, Billy
+player 1916 Vancouver (Northwestern)
+
+#20210128_012 Wolfer
+player 1916 Vancouver (Northwestern)
+player 1916 Tacoma (Northwestern)
+
+---
+
+!citation San Francisco Examiner @ 1916-07-21; page 13
+
+#20210128_013 Tonkin
+player 1916 San Francisco (Pacific Coast)
+resides 1916@US/CA/Pittsburg
+
+---
+
+!citation Portsmouth (OH) Daily Times @ 1916-04-07; page 16
+
+#20210128_014 Beers, Biddy
+player 1916 Charleston (South Atlantic)
+manager 1915 Charleston (Ohio State)
+
+---
+
+!citation Fitchburg Sentinel @ 1933-07-24; page 9
+
+#20210128_015 Benson, Johnnie
+player 1933 Taunton (New England)
+
+---
+
+!citation Brooklyn Eagle @ 1928-07-08; page 5C
+
+#20210128_016 Douthit, Roland
+player 1928 Laurel (Cotton States)
+player 1928 Danville (I-I-I)
+brother of Douthit, Taylor
+

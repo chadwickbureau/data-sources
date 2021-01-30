@@ -506,3 +506,84 @@ death 1999-12-19
  
 #202101_057 Mehlhaf, Richard Henry
 birth 1894-08-24 @ US/NE/Sutton
+
+---
+
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-23
+ 
+#202101_058 Tucker, James Spurrier
+sameas ssn:177-22-2211
+birth 1927-01-18 @ US/NC/Charlotte
+death 1996-07-17
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-25
+ 
+#202101_059 Hatfield, Bain Rex
+birth 1924-06-26 @ US/OK/Muskogee
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-26
+ 
+#202101_060 Miller, LeRoy W.
+birth 1902-01-20 @ US/PA/Bechtelsville
+
+---
+ 
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-26
+ 
+#202101_061 Miller, Leroy
+sameas ssn:184-05-1803
+birth 1902-01-20
+death 1987-12
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-16
+ 
+#202101_062 Rabuse, Frank Joseph
+birth 1901-01-03 @ US/KS/Kansas City
+ 
+---
+ 
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-16
+ 
+#202101_063 Rabuse, Frank
+sameas ssn:510-05-4564
+birth 1901-01-03
+death 1984-05
+
+---
+
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-27
+ 
+#202101_064 Holley, Thomas G.
+sameas ssn:441-05-0223
+birth 1907-01-11
+death 1990-06-06
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-29
+ 
+#202101_065 Luce, Arthur
+birth 1912-08-11 @ US/NY/West Sayville
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-29
+ 
+#202101_066 Luce, William
+birth 1914-06-29 @ US/NY/West Sayville
+
