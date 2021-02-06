@@ -1345,4 +1345,88 @@ death 2021-01-09 @ US/CA/La Jolla
 highschool Montebello HS @ US/CA/Montebello
 military US Marines
 
+---
+
+!citation The Republican @ 2021-01-30
+!url https://obits.masslive.com/obituaries/masslive/obituary.aspx?n=edward-j-koss&pid=197615356&fhid=15513#_ga=2.82919775.874491215.1611061363-635627066.1552232407
+!file Koss_Ed.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-30
+
+#202101_111 Koss, Edward J. [Ed]
+birth 1925-03-13 @ US/MA/Belchertown
+death 2021-01-25 
+highschool Palmer HS @ US/MA/Palmer
+
+---
+
+!citation Musgrove Mortuaries & Cemeteries @ 2021-01-30
+!url https://musgroves.com/tribute/details/205744/Terry-Maddox/obituary.html#tribute-start
+!file Maddox_Terry.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-30
+
+#202101_112 Maddox, Terry
+birth 1934-02-16 @ US/OR/Sandy
+death 2021-01-24
+college University of Oregon
+
+---
+
+!citation Arizona Republic @ 2021-01-30
+!url https://www.legacy.com/obituaries/azcentral/obituary.aspx?n=john-toppi-topp&pid=197618216
+!file Toppi_John.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-30
+
+#202101_113 Toppi, John, Sr.
+birth 1922-03-12 @ US/RI/Providence
+death 2020-12-28
+military US Navy @ World War II
+burial National Memorial Cemetery of Arizona @ US/AZ/Phoenix
+
+---
+
+!citation Houston Chronicle @ 2021-01-29
+!url https://www.legacy.com/obituaries/houstonchronicle/obituary.aspx?n=robert-white&pid=197609645
+!file White_Bob.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-30
+
+#202101_114 White, Robert John [Bob]
+birth 1936 @ US/TX/Houston
+death 2021-01-15
+
+---
+
+!citation Klee Funeral Home @ 2021-01-31
+!url https://www.kleefuneralhome.com/obituary/leon-f-waszk/
+!file Waszk_Leon.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-31
+
+#202101_115 Waszk, Leon F. [Leo]
+birth 1928-07-18 @ US/PA/Reading
+death 2021-01-29 @ US/PA/West Reading
+military US Army @ World War II
+
+---
+
+!citation Daily Tribune News @ 2021-01-31
+!url https://daily-tribune.com/stories/bobby-wade,26875
+!file Wade_Bobby.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-31
+
+#202101_116 Wade, Bobby
+death 2021-01-24
+highschool Cass HS @ US/GA/Cartersville
+
+---
+
+!citation Sunset Funeral Homes @ 2021-01-31
+!url https://www.sunsetfuneralhome.com/obituary/Stephen-Kelly
+!file Kelly_Steve.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-01-31
+
+#202101_117 Kelly, Stephen Bowen [Steve]
+birth 1941-08-25
+death 2021-01-26 @ US/IL/Danville
+highschool Danville HS @ US/IL/Danville
+burial Spring Hill Cemetery and Mausoleum @ US/IL/Danville
+
  

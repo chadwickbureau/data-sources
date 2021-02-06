@@ -1,0 +1,152 @@
+!citation Ogden Standard @ 1941-03-16
+
+#20210204_001 Meierhoff, Cliff
+player 1941 Ogden (Pioneer); BR TR
+
+#20210204_002 Shone, Frank
+player 1941 Ogden (Pioneer); BR TR
+
+#20210204_003 Winseck, Mike
+player 1941 Ogden (Pioneer); BR TR
+
+#20210204_004 Brossart, Robert
+player 1941 Ogden (Pioneer); BR TR
+
+#20210204_005 Canavan, Tommy
+player 1941 Ogden (Pioneer); BL TL
+
+#20210204_006 Tucker, Robert
+player 1941 Ogden (Pioneer); BL TL
+
+#20210204_007 McHugh, Walter
+player 1941 Ogden (Pioneer); BR TR
+
+
+---
+
+!citation Montgomery Advertister @ 1916-04-17; page 6
+
+#20210204_008 Emery, Harry
+player 1916 Columbia (South Atlantic)
+resides 1916@US/MI/Detroit
+
+#20210204_009 Brown, Elmer
+player 1916 Macon (South Atlantic)
+
+#20210204_010 Sweeney, Carrington
+player 1916 Macon (South Atlantic)
+
+---
+
+!citation Anderson Intelligencer @ 1916-06-06; page 6
+
+#20210204_011 Werner, Elmer
+player 1916 Charleston (South Atlantic)
+player 1916 Cedar Rapids (Central Association)
+acquired <1916-06-04 by Charleston (Southern Association) from Cedar Rapids (Central Association) 
+for cash
+
+---
+
+!citation Anderson Intelligencer @ 1916-06-09; page 4
+
+#20210204_012 Webb, St. Claire
+player 1916 Columbia (South Atlantic)
+college Clemson College
+resides 1916@US/SC/Anderson
+
+---
+
+!citation Dothan Eagle @ 1916-04-13; page 1
+
+#20210204_013 Edny
+player 1916 Montgomery (South Atlantic); TL
+
+---
+
+!citation Arkansas Democrat @ 1916-03-28; page 13
+
+#20210204_014 Probst, Bill
+player 1916 Montgomery (South Atlantic)
+player 1915 Little Rock (Southern Association)
+
+---
+
+!citation Tampa Tribune @ 1916-06-02; page 7
+
+#20210204_015 Wyatt, Rupert
+player 1916 Jacksonville (South Atlantic); TL
+resides 1916@US/FL
+
+---
+
+!citation Shreveport Times @ 1916-04-04; page 9
+
+#20210204_016 Ware, Jim [Slim]
+player 1916 Columbia (South Atlantic)
+
+---
+
+!citation Macon Telegraph @ 1917-04-15; page 9
+
+#20210204_017 Hicks, Henry
+player 1917 Augusta (South Atlantic); TL H75
+
+#20210204_018 Styles, Red
+player 1917 Augusta (South Atlantic)
+player 1914 New Orleans (Southern Association)
+
+#20210204_019 Wilson, Mutt
+player 1917 Augusta (South Atlantic)
+player 1916 Eufala (Dixie)
+
+#20210204_020 White, Pinky
+player 1917 Augusta (South Atlantic)
+
+#20210204_021 Moran, Mike
+player 1917 Augusta (South Atlantic)
+
+---
+
+!citation Columbus Daily Enquirer @ 1916-09-06; page 2
+
+#20210204_022 Burke, James
+player 1916 Columbus (South Atlantic)
+
+#20210204_023 Schwartz, Bill
+player 1916 Columbus (South Atlantic)
+
+#20210204_024 Roudebush, George
+player 1916 Columbus (South Atlantic)
+
+---
+
+!citation Lancaster Intelligencer Journal @ 1933-03-15; page 7
+
+#20210204_025 Brown, George
+player 1932 Lancaster (Interstate)
+notes with Phillies in spring training
+
+---
+
+!citation Macon Telegraph @ 1916-07-22; page 6
+
+#20210204_026 Moseley, Clarence
+player 1916 Macon (South Atlantic); @3B
+resides 1916@US/SC/Charleston
+
+---
+
+!citation Macon Telegraph @ 1917-01-14; page 9
+
+#20210204_027 Wright, Ed
+player 1916 Macon (South Atlantic)
+player 1917 Macon (South Atlantic)
+
+---
+
+!citation Macon Telegraph @ 1916-08-11
+
+#20210204_028 Thompson
+player 1916 Macon (South Atlantic); TL
+

@@ -4854,3 +4854,64 @@ birth 1914-06-29 @ US/NY/Bay Shore
 death 1994-06-05 @ US/NY/West Sayville
 highschool Sayville HS @ US/NY/West Sayville
 burial St. Lawrence Martyr Roman Catholic Cemetery @ US/NY/Sayville
+
+---
+
+!citation findagrave.com @ 2021-02-01
+!url https://www.findagrave.com/memorial/80842773/richard-frederick-haack
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-01
+ 
+#395 Haack, Richard Frederick
+sameas findagrave:80842773
+birth 1922-03-31
+death 2009-06-15
+burial Arlington National Cemetery @ US/VA/Arlington
+
+---
+
+!citation findagrave.com @ 2021-02-01
+!url https://www.findagrave.com/memorial/210073271/edgar-hartness
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-01
+ 
+#396 Hartness, Edgar
+sameas findagrave:210073271
+birth 1918-03-12
+death 2007-04-19
+burial Georgia Memorial Park @ US/GA/Marietta
+
+---
+
+!citation findagrave.com @ 2021-02-02
+!url https://www.findagrave.com/memorial/65097363/george-sylvester-sage
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-02
+ 
+#397 Sage, George Sylvester
+sameas findagrave:65097363
+birth 1887-07-04 @ US/MI/Gobles
+death 1964-05
+burial Mount Olivet Cemetery @ US/MI/Eastwood
+
+---
+
+!citation findagrave.com @ 2021-02-05
+!url https://www.findagrave.com/memorial/141126287/leo-skidmore
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-05
+ 
+#398 Skidmore, Leo
+sameas findagrave:141126287
+birth 1901-05-04 @ US/WV/Franklin
+death 1990-02-04 @ US/WV/Franklin
+burial Cedar Hill Cemetery @ US/WV/Franklin
+
+---
+ 
+!citation findagrave.com @ 2021-02-05
+!url https://www.findagrave.com/memorial/50004084/luther-allen-wenrich
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-05
+ 
+#399 Wenrich, Luther Allen
+sameas findagrave:50004084
+birth 1911-12
+death 1995-10-22
+military US Navy @ World War II
+burial Schuylkill Memorial Park @ US/PA/Schuylkill Haven

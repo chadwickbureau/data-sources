@@ -1,0 +1,33 @@
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-04
+ 
+#202102_001 Ermisch, Howard Ogden
+birth 1918-01-13 @ US/PA/Philadelphia
+ 
+---
+ 
+!citation Florida Death Index
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-04
+ 
+#202102_002 Ermisch, Howard Ogden
+birth 1918-01-13
+death 1993-01-20 @ US/FL/Sarasota County
+
+---
+
+!citation Pennsylvania Death Certificates, 1906-1967
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-05
+ 
+#202102_003 Bitting, Erle R.
+birth 1890-06-16 @ US/PA/Philadelphia
+death 1965-06-13 @ US/PA/Philadelphia
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-05
+ 
+#202102_004 Wenrich, Luther Allen
+birth 1911-12-02 @ US/PA/Auburn
+ 
+ 
