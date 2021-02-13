@@ -269,3 +269,330 @@ burial Ridgewood Cemetery @ US/IL/Des Plaines
 death 1995-10-22 @ US/PA/Orwigsburg
 burial Schuylkill Memorial Park @ US/PA/Schuylkill Haven
 
+---
+
+!citation Naples Daily News @ 2021-02-06
+!url https://www.legacy.com/obituaries/naplesnews/obituary.aspx?n=george-montefalcone&pid=197664337
+!file Montefalcone_George.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-06
+
+#202102_022 Montefalcone, George
+death 2021-02-03 @ US/FL/Naples
+highschool Regis HS @ US/NY/New York
+military US Army
+
+---
+
+!citation Blue Funeral Homes @ 2021-02-06
+!url https://bluefuneralhome.com/2021/gerald-jerry-qualls/
+!file Qualls_Jerry.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-06
+
+#202102_023 Qualls, Gerald Philip [Jerry]
+birth 1943-08-03 @ US/IL/Murphysboro
+death 2021-02-04 @ US/IL/Marion
+highschool Gorham HS @ US/IL/Gorham
+college Southern Illinois University Carbondale
+burial @ US/IL/Fieldon
+
+---
+
+!citation Daily Bulletin @ 2021-02-07
+!url https://www.legacy.com/obituaries/ivdailybulletin/obituary.aspx?n=ben-hines&pid=197675252
+!file Hines_Ben.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-07
+
+#202102_024 Hines, Ben
+birth 1935-11 @ US/OK/Yeager
+death 2021-01
+highschool McFarland HS @ US/CA/McFarland
+college University of La Verne
+
+---
+
+!citation Dodger Insider @ 2021-01-14
+!url https://dodgers.mlblogs.com/former-dodger-hitting-coach-ben-hines-has-passed-away-40f23270f1ce
+!file Hines_Ben_2.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-07
+
+#202102_025 Hines, Ben
+birth 1935-11-07 @ US/OK/Yeager
+death 2021-01-13 @ US/CA/Pomona
+college University of La Verne
+
+---
+
+!citation Parrish Funeral Home @ 2021-02-07
+!url https://www.parrishfh.com/obituary/raymond-sugg
+!file Sugg_Raymond.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-07
+
+#202102_026 Sugg, Raymond Massey
+birth 1923-12-23 @ US/NC/Johnston County
+death 2021-01-30 @ US/NC/Princeton
+highschool Oak Ridge Military Academy @ US/NC/Oak Ridge
+college Barton College
+military US Army @ World War II
+
+---
+
+!citation Porter Loring Mortuaries @ 2021-02-07
+!url https://www.porterloring.com/obituaries/Vincent-Zerda?obId=19871437#/obituaryInfo
+!file Zerda_Vincent.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-07
+
+#202102_027 Zerda, Vincent Garcia
+birth 1933-03-06 @ US/TX/Falls City
+death 2021-01-22 @ US/TX/San Antonio
+highschool Falls City HS @ @ US/TX/Falls City
+military US Army @ Korean War
+burial San Fernando Cemetery #2 @ US/TX/San Antonio
+
+---
+
+!citation Nelsen Williamsburg Funeral Home @ 2021-02-07
+!url https://www.dignitymemorial.com/obituaries/williamsburg-va/victor-zodda-10033116
+!file Zodda_Vic.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-07
+
+#202102_028 Zodda, Victor Alfred [Vic]
+birth 1921-07-23
+death 2021-01-31
+highschool Spring Valley HS @ US/NY/Spring Valley
+college Elon University
+military US Navy @ World War II
+
+---
+
+!citation Las Vegas Review-Journal @ 2021-02-07
+!url https://obits.reviewjournal.com/us/obituaries/lvrj/name/larry-hammer-obituary?n=larry-hammer&pid=197671540
+!file Hammer_Larry.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-07
+
+#202102_029 Hammer, Larry W.
+birth 1948 @ US/IL/Chicago
+death 2021-01-24
+college New Mexico Highlands University
+
+---
+
+!citation New York Times @ 2021-02-03
+!url https://www.nytimes.com/2021/02/03/sports/baseball/wayne-terwilliger-dead.html
+!file Terwilliger_Wayne.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-08
+
+#202102_030 Terwilliger, Willard Wayne [Wayne] "Twig"
+birth 1925-06-27 @ US/MI/Clare
+death 2021-02-03 @ US/TX/Weatherford
+college Western Michigan University
+military US Marines @ World War II
+
+---
+
+!citation New York Times @ 2021-02-04
+!url https://www.nytimes.com/2021/02/04/obituaries/grant-jackson-dead-coronavirus.html
+!file Jackson_Grant.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-08
+
+#202102_031 Jackson, Grant Dwight
+birth 1942-09-28 @ US/OH/Fostoria
+death 2021-02-02 @ US/PA/Canonsburg
+
+---
+
+!citation Orange County Register @ 2007-04-11
+!file Catron_John.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-08
+ 
+#202102_032 Catron, John Charles
+birth 1926-08-20 @ US/CA/Los Angeles
+death 2007-04-04 @ US/CA/Long Beach
+college University of Southern California
+military US Navy @ World War II
+
+---
+
+!citation Barto Funeral Home @ 2021-02-08
+!url https://www.meaningfulfunerals.net/?action=obituaries.obit_view&o_id=3102690&fh_id=14710
+!file Pienta_Joe.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-08
+
+#202102_033 Pienta, Joseph James [Joe]
+birth 1931-08-05 @ US/IL/Spring Valley
+death 2015-05-10 @ US/IL/Spring Valley
+highschool Hall HS @ US/IL/Spring Valley
+military US Marines @ Korean War
+burial Valley Memorial Park @ US/IL/Spring Valley
+
+---
+
+!citation Buresh Funeral Homes @ 2021-02-09
+!url http://www.bureshfuneralhomes.com/obituaries/theodore-kovaluk/
+!file Kovaluk_Ted.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-09
+
+#202102_034 Kovaluk, Theodore [Ted]
+birth 1927-08-21 @ US/PA/Pottstown
+death 2021-02-06 @ US/MI/West Branch
+highschool Pottstown HS @ US/PA/Pottstown
+military US Marines
+burial St. James Catholic Cemetery @ US/MI/Whittemore
+
+---
+
+!citation Eugene Register-Guard @ 2021-02-09
+!url https://www.legacy.com/obituaries/registerguard/obituary.aspx?n=dean-edmund-hummel&pid=197684235&fhid=6685
+!file Hummel_Dean.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-09
+
+#202102_035 Hummel, Dean Edmund
+birth 1960-04-24 @ US/MT/Billings
+death 2021-02-04 @ US/OR/Eugene
+highschool Marist Catholic HS @ US/OR/Eugene
+
+---
+
+!citation Strano & Feeley Family Funeral Home @ 2021-02-09
+!url https://www.stranofeeley.com/obituaries/Jewel-Walker-2/#!/Obituary
+!file Walker_Jewel.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-09
+
+#202102_036 Walker, Jewel Harrison, Jr.
+birth 1927-05-20
+death 2020-11-16
+
+---
+
+!citation New York Times @ 2021-02-09
+!url https://www.legacy.com/obituaries/nytimes/obituary.aspx?n=jewel-walker&pid=197679340
+!file Walker_Jewel_2.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-09
+
+#202102_037 Walker, Jewel
+birth 1927
+death 2020-11-16
+
+---
+
+!citation Greenwich Time @ 2015-04-30
+!url https://www.legacy.com/obituaries/greenwichtime/obituary.aspx?n=Jerome-Petrizzi&pid=174745968
+!file Petrizzi_Jerry.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-10
+
+#202102_038 Petrizzi, Jerome [Jerry]
+birth 1920-03-26 @ US/CT/Greenwich
+death 2015-01-29 @ US/FL/Sunrise
+highschool Greenwich HS @ US/CT/Greenwich
+college Furman University
+military US Army @ World War II
+
+---
+
+!citation Colonial Funeral Home @ 2021-02-10
+!url https://www.dignitymemorial.com/obituaries/universal-city-tx/cm-sgt-gary-kidder-us-air-force-retired-6407867
+!file Kidder_Gary.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-10
+
+#202102_039 Kidder, Gary Keith
+birth 1931-10-13 @ US/NY/Ilion
+death 2015-04-16
+military US Air Force @ Korean War
+military US Air Force @ Vietnam War
+burial Fort Sam Houston National Cemetery @ US/TX/San Antonio
+
+---
+
+!citation Miles Funeral Home @ 2021-02-11
+!url https://www.milesfuneralhome.com/obituaries/Russell-Johnson-37/#!/Obituary
+!file Johnson_Russ.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-11
+
+#202102_040 Johnson, Russell Edward [Russ]
+birth 1931-02-04 @ US/MA/Worcester
+death 2021-02-05 @ US/MA/Worcester
+highschool South HS @ US/MA/Worcester
+college Harvard University
+military US Army
+
+---
+
+!citation Los Angeles Times @ 2021-02-04
+!url https://www.latimes.com/sports/highschool/story/2021-02-04/former-birmingham-baseball-coach-hy-cohen-dies-at-age-90
+!file Cohen_Hy.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-11
+
+#202102_041 Cohen, Hy
+birth 1931-01-29 @ US/NY/Brooklyn
+death 2021-02-04 @ US/CA/Rancho Mirage
+
+---
+
+!citation Los Angeles Times @ 2021-02-11
+!url https://www.legacy.com/obituaries/latimes/obituary.aspx?n=hyman-cohen-hy&pid=197730762
+!file Cohen_Hy_2.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-11
+
+#202102_042 Cohen, Hyman [Hy]
+birth 1931-01-29 @ US/NY/Brooklyn
+death 2021-02-04 @ US/CA/Rancho Mirage
+military US Army @ Korean War
+
+---
+
+!citation LaFayette (AL) Sun @ 1959-08-12
+!file Schuessler_Zack.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-11
+ 
+#202102_043 Schuessler, Lewis Zach [Zack]
+death 1959-08-09 @ US/FL/West Palm Beach
+highschool LaFayette HS @ US/AL/LaFayette
+college Birmingham-Southern College
+burial @ US/GA/West Point
+
+---
+ 
+!citation St. Louis Post-Dispatch @ 1961-07-06
+!file Smith_Ira.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-11
+ 
+#202102_044 Smith, Ira Delos
+death 1961-07-05 @ US/KS/Wichita
+burial White Chapel Memorial Gardens @ US/KS/Wichita
+
+---
+
+!citation Springfield (MO) News-Leader @ 2004-04-23
+!file Davis_Bill.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-11
+ 
+#202102_045 Davis, Wendell [Bill]
+birth 1914-05-07 @ US/MO/Everton
+death 2004-04-21 @ US/MO/Springfield
+burial Ash Grove Cemetery @ US/MO/Ash Grove
+
+---
+
+!citation Baltimore Sun @ 1989-05-23
+!file Garliss_Joseph.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-11
+ 
+#202102_046 Garliss, Joseph A.
+birth @ US/NJ/Newark
+death 1989-05-20 @ US/MD/Baltimore
+college University of Georgia
+military US Army @ World War II
+
+---
+
+!citation Los Angeles Mortuary @ 2021-02-12
+!url https://www.tributearchive.com/obituaries/19887102/Charles-Sierra
+!file Sierra_Charlie.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-12
+
+#202102_047 Sierra, Charles [Charlie]
+birth 1927-10-05 @ US/CA/Los Angeles
+death 2021-01-27
+describe ; BL TL
+highschool Roosevelt HS @ US/CA/Los Angeles
+military US Air Force @ Korean War
+

@@ -1,0 +1,95 @@
+!citation Macon Telegram @ 1917-03-12; page 8
+
+#20210211_001 Poland
+player 1916 Macon (South Atlantic)
+player 1916 LaGrange (Georgia-Alabama)
+
+
+---
+
+!citation Chattanooga Daily Times @ 1916-05-26; page 8
+
+#20210211_002 Watson, Jules
+player 1916 Chattanooga (Southern Association)
+released 1916-05-25 by Chattanooga (Southern Association)
+
+---
+
+!citation Arkansas Democrat @ 1916-03-16; page 9
+
+#20210211_003 Brooks
+player 1916 Little Rock (Southern Association); BL TR H72 W165
+resides 1916@US/MS/Walnut Grove
+
+#20210211_004 Myers
+player 1916 Little Rock (Southern Association); BR TR H70 W165
+resides 1916@US/OH/East Liverpool
+
+---
+
+!citation Birmingham News @ 1916-04-16; page 27
+
+#20210211_005 Harris
+player 1916 Mobile (Southern Association); TL
+
+---
+
+!citation Chattanooga Daily Times @ 1916-06-02; page 8
+
+#20210211_006 Harris, Edward
+player 1916 Mobile (Southern Association)
+
+---
+
+!citation Arkansas Gazette @ 1926-06-07
+
+#20210211_007 Buckner
+player 1926 McAlester (Western Association)
+acquired <=1926-06-07 by McAlester (Western Association) from St. Louis (American)
+
+
+---
+
+!citation High Point Enterprise @ 1927-04-16; page 2
+
+#20210211_008 Buggy
+player 1927 High Point (Piedmont); TR
+
+#20210211_009 Cebula
+player 1927 High Point (Piedmont); TR
+
+#20210211_010 Buckley
+player 1927 High Point (Piedmont); TR
+
+---
+
+!citation High Point Enterprise @ 1927-04-22; page 10
+
+#20210211_011 Buckley, Tim
+player 1927 High Point (Piedmont)
+
+---
+
+!citation High Point Enterprise @ 1927-04-19; page 8
+
+#20210211_012 Martin
+player 1927 Selma (Southeastern); TL
+
+
+---
+
+!citation Fort Worth Star Telegram @ 1916-07-13; page 5
+
+#20210211_013 Robinson, George
+player 1916 Mexia (Central Texas)
+player 1916 Fort Worth (Texas)
+acquired 1916-07-13 by Fort Worth (Texas) from Mexia (Central Texas) for cash
+
+---
+
+!citation Fort Worth Star Telegram @ 1916-07-20; page 10
+
+#20210211_014 Spellman
+player 1916 Milwaukeee (American Association)
+player 1916 Fort Worth (Texas)
+acquired <1916-07-20 by Fort Worth (Texas) from Milwaukeee (American Association)

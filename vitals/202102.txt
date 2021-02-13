@@ -30,4 +30,108 @@ death 1965-06-13 @ US/PA/Philadelphia
 #202102_004 Wenrich, Luther Allen
 birth 1911-12-02 @ US/PA/Auburn
  
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-06
  
+#202102_005 Vukas, Steve
+birth 1918-03-07 @ US/PA/Slovan
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-06
+ 
+#202102_006 McNulty, Marvin Albert
+birth 1915-04-12 @ US/OK/Dover
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-06
+ 
+#202102_007 Moran, Cyril Martin
+birth 1917-05-12 @ US/CA/San Francisco
+ 
+---
+ 
+!citation California Death Index, 1940-1997
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-06
+ 
+#202102_008 Moran, Cyril
+sameas ssn:558-07-1664
+birth 1917-05-23 @ US/CA
+death 1978-11-12 @ US/CA/Los Angeles
+
+---
+
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-08
+ 
+#202102_009 Steffens, Howard Cyril
+sameas ssn:474-05-3081
+birth 1921-09-08 @ US/MN/Willmar
+death 1993-05-06
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-10
+ 
+#202102_010 Colvard, Max David
+birth 1922-06-08 @ US/GA/Buckhead
+
+---
+ 
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-11
+ 
+#202102_011 Garliss, Joseph A.
+sameas ssn:579-16-0653
+birth 1916-09-08
+death 1989-05-20
+
+---
+
+!citation Michigan Death Index, 1971-1996
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-11
+ 
+#202102_012 Goodell, Gordon L.
+birth 1912-09-08
+death 1979-12-31 @ US/MI/Flint
+
+---
+
+!citation Michigan Death Index, 1971-1996
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-11
+ 
+#202102_013 Hooks, Rufe J.
+birth 1917-07-24
+death 1978-06-09 @ US/MI/Trenton
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-11
+ 
+#202102_014 McAdams, William Ralph
+birth 1904-01-10 @ US/MO/Clever
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-11
+ 
+#202102_015 McDaniel, Ashley Cawthon, Jr.
+birth 1915-05-31 @ US/AL/Phenix City
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-11
+ 
+#202102_016 Mueller, Theodore Henry
+birth 1914-04-02 @ US/MO/Jefferson City
+
+

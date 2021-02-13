@@ -4915,3 +4915,147 @@ birth 1911-12
 death 1995-10-22
 military US Navy @ World War II
 burial Schuylkill Memorial Park @ US/PA/Schuylkill Haven
+
+---
+ 
+!citation findagrave.com @ 2021-02-06
+!url https://www.findagrave.com/memorial/78243015/steve-vukas
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-06
+ 
+#400 Vukas, Steve
+sameas findagrave:78243015
+birth 1918-03-07
+death 1997-08-15
+burial Memorial Park Cemetery @ US/NE/McCook
+
+---
+ 
+!citation findagrave.com @ 2021-02-06
+!url https://www.findagrave.com/memorial/7950233/marvin-mcnulty
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-06
+ 
+#401 McNulty, Marvin A.
+sameas findagrave:7950233
+birth 1915-04-12
+death 1998-01-23
+burial Dover Cemetery @ US/OK/Dover
+
+---
+ 
+!citation findagrave.com @ 2021-02-08
+!url https://www.findagrave.com/memorial/176498890/howard-c.-steffens
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-08
+ 
+#402 Steffens, Howard C.
+sameas findagrave:176498890
+birth 1921-09-08
+death 1993-05-06
+burial Paradise Memorial Gardens @ US/AZ/Scottsdale
+
+---
+ 
+!citation findagrave.com @ 2021-02-10
+!url https://www.findagrave.com/memorial/118316474/max-david-colvard
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-10
+ 
+#403 Colvard, Max David, Sr.
+sameas findagrave:118316474
+birth 1922-06-08 @ US/GA/Buckhead
+death 2005-06-13 @ US/NC/Lincoln County
+burial Forest Lawn Cemetery and Mausoleum @ US/NC/Lincolnton
+
+---
+ 
+!citation findagrave.com @ 2021-02-11
+!url https://www.findagrave.com/memorial/85687805/lewis-zack-schuessler
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-11
+ 
+#404 Schuessler, Lewis Zack, Jr.
+sameas findagrave:85687805
+birth 1911-07-13
+death 1959-08-02
+burial Marseilles Cemetery @ US/GA/West Point
+
+---
+
+!citation findagrave.com @ 2021-02-11
+!url https://www.findagrave.com/memorial/124407059/ira-d.-smith
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-11
+ 
+#405 Smith, Ira D.
+sameas findagrave:124407059
+birth 1905-07-05
+death 1961-07-05
+burial White Chapel Memorial Gardens @ US/KS/Wichita
+
+---
+
+!citation findagrave.com @ 2021-02-11
+!url https://www.findagrave.com/memorial/58983230/earl-b.-bolyard
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-11
+ 
+#406 Bolyard, Earl B.
+sameas findagrave:58983230
+birth 1912-03-24 @ US/IN/Fort Wayne
+death 1988-11-29
+burial IOOF Cemetery @ US/IN/New Haven
+
+---
+ 
+!citation findagrave.com @ 2021-02-11
+!url https://www.findagrave.com/memorial/166911243/gordon-goodell
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-11
+ 
+#407 Goodell, Gordon
+sameas findagrave:166911243
+birth 1912
+death 1979
+burial Crestwood Memorial Cemetery @ US/MI/Grand Blanc
+
+---
+ 
+!citation findagrave.com @ 2021-02-11
+!url https://www.findagrave.com/memorial/108602554/william-ralph-mcadams
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-11
+ 
+#408 McAdams, William Ralph [Ralph]
+sameas findagrave:108602554
+birth 1904-01-10
+death 1985-11-04
+burial Round Hill Cemetery @ US/TN/Belfast
+
+---
+ 
+!citation findagrave.com @ 2021-02-11
+!url https://www.findagrave.com/memorial/84384539/ashley-c.-mcdaniel
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-11
+ 
+#409 McDaniel, Ashley C., Jr.
+sameas findagrave:84384539
+birth 1915-05-31
+death 1977-07-08
+burial Parkhill Cemetery @ US/GA/Columbus
+
+---
+
+!citation findagrave.com @ 2021-02-11
+!url https://www.findagrave.com/memorial/161576574/marion-allen-mcelreath
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-11
+ 
+#410 McElreath, Marion Allen
+sameas findagrave:161576574
+birth 1912-08-04 @ US/OK/Pryor
+death 1996-12-12 @ US/OK/Oklahoma City
+burial Greenhill Cemetery @ US/OK/Muskogee
+
+---
+ 
+!citation findagrave.com @ 2021-02-11
+!url https://www.findagrave.com/memorial/52783409/theodore-henry-mueller
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-11
+ 
+#411 Mueller, Theodore Henry [Ted]
+sameas findagrave:52783409
+birth 1914-04-02
+death 1981-06-16
+burial Pine Crest Cemetery @ US/AL/Mobile
