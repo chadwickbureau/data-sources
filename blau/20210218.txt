@@ -1,0 +1,83 @@
+!citation Charlotte Observer @ 1916-03-01; page 3
+
+#20210218_001 Rowe, [Red]
+manager 1915 Greensboro (North Carolina State)
+player 1916 Hopewell (Virginia)
+
+---
+
+!citation Asheville Times @ 1916-03-03; page 2
+
+#20210218_002 Richmond
+player 1915 Petersburg (Virginia)
+player 1916 Hopewell (Virginia)
+
+---
+
+!citation Newport News Daily Press @ 1916-04-26; page 5
+
+#20210218_003 Klinghoeffer, Smokey Joe
+player 1916 Newport News (Virginia)
+
+---
+
+!citation Newport News Daily Press @ 1916-05-03; page 5
+
+#20210218_004 Springman, Dick
+player 1916 Norfolk (Virginia)
+
+---
+
+!citation Newport News Daily Press @ 1916-06-06; page 5
+
+#20210218_005 Owens
+player 1916 Norfolk (Virginia); TR
+
+---
+
+!citation Washington Post @ 1916-03-19; page 3
+
+#20210218_006 Owen, Lem
+player 1916 Norfolk (Virginia)
+college Georgetown University
+
+---
+
+!citation Wilmington Evening Journal @ 1916-04-06; page 10
+
+#20210218_007 Myers, Harry [Tex]
+player 1916 Charlotte (North Carolina State)
+
+---
+
+!citation Newport News Daily Press @ 1916-08-05; page 5
+
+#20210218_008 Hurd
+player 1916 Norfolk (Virginia); TR
+
+---
+
+!citation Birmingham News @ 1916-03-19; page 11
+
+#20210218_009 King, Ralph S.
+player 1916 Portsmouth (Virginia)
+acquired 1916-03-17 by Portsmouth (Virginia) from Birmingham (Southern Association) for cash
+birth @ US/VA
+notes first year as pro
+
+---
+
+!citation Rocky Mount Telegram @ 1916-07-27; page 2
+
+#20210218_010 Thomas
+player 1916 Norfolk (Virginia); @P TL
+
+---
+
+!citation Greensboro Daily News @ 1916-07-03; page 6
+
+#20210218_011 Russell
+player 1916 Rocky Mount (Virginia)
+player 1916 Charleston (Ohio State)
+acquired <=1916-07-03 by Charleston (Ohio State) with cash from Rocky Mount (Virginia) for 
+Calbert

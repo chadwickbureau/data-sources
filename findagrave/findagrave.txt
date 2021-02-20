@@ -5059,3 +5059,175 @@ sameas findagrave:52783409
 birth 1914-04-02
 death 1981-06-16
 burial Pine Crest Cemetery @ US/AL/Mobile
+
+---
+
+!citation findagrave.com @ 2021-02-13
+!url https://www.findagrave.com/memorial/5724853/james-t.-persons
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-13
+ 
+#412 Persons, James T., Sr.
+sameas findagrave:5724853
+birth 1913-12-23
+death 1982-03-16
+burial Evergreen Memorial Cemetery @ US/AL/Sylacauga
+
+---
+
+!citation findagrave.com @ 2021-02-13
+!url https://www.findagrave.com/memorial/28438962/gilford-dalton-pittman
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-13
+ 
+#413 Pittman, Gilford Dalton
+sameas findagrave:28438962
+birth 1890-05-26 @ US/TN/Gibson County
+death 1964-07-07
+burial Safford City Cemetery @ US/AZ/Safford
+
+---
+
+!citation findagrave.com @ 2021-02-13
+!url https://www.findagrave.com/memorial/93472351/grover-s-resinger
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-13
+ 
+#414 Resinger, Grover S.
+sameas findagrave:93472351
+birth 1914-10-20
+death 1986-01-11
+burial Friedens Cemetery Mausoleum and Chapel @ US/MO/Bellefontaine Neighbors
+
+---
+
+!citation findagrave.com @ 2021-02-13
+!url https://www.findagrave.com/memorial/64711882/dwight-m.-vanfleet
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-13
+ 
+#415 Van Fleet, Dwight M.
+sameas findagrave:64711882
+birth 1907-06-24 @ US/IA/Chequest
+death 1976-03-08
+burial Ogallala Cemetery @ US/NE/Ogallala
+
+---
+
+!citation findagrave.com @ 2021-02-15
+!url https://www.findagrave.com/memorial/92812406/harold-blackstock
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-15
+ 
+#416 Blackstock, Harold
+sameas findagrave:92812406
+birth 1918-03-11
+death 1970-01-13 @ US/GA/Fulton County
+military US Army @ World War II
+burial Marietta National Cemetery @ US/GA/Marietta
+
+---
+ 
+!citation findagrave.com @ 2021-02-15
+!url https://www.findagrave.com/memorial/132573191/william-neil-caldwell
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-15
+ 
+#417 Caldwell, William Neil
+sameas findagrave:132573191
+birth 1904-07-16
+death 1997-01-26
+burial Williamson Memorial Gardens @ US/TN/Franklin
+
+---
+
+!citation findagrave.com @ 2021-02-15
+!url https://www.findagrave.com/memorial/98447543/john-m-hubbell
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-15
+ 
+#418 Hubbell, John M.
+sameas findagrave:98447543
+birth 1915-08-05
+death 1986-11-21
+burial New Hope Cemetery @ US/OK/Meeker
+
+---
+ 
+!citation findagrave.com @ 2021-02-15
+!url https://www.findagrave.com/memorial/65868898/harvey-l.-johnson
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-15
+ 
+#419 Johnson, Harvey L.
+sameas findagrave:65868898
+birth 1918-06-04
+death 1996-02-21
+burial Crestwood Memorial Cemetery @ US/AL/East Gadsden
+
+---
+
+!citation findagrave.com @ 2021-02-15
+!url https://www.findagrave.com/memorial/63102798/garmon-mallory
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-15
+ 
+#420 Mallory, Garman [Pete]
+sameas findagrave:63102798
+birth 1918-07-23
+death 1989-01-13
+burial Crestview Cemetery @ US/AL/Guntersville
+
+---
+
+!citation findagrave.com @ 2021-02-15
+!url https://www.findagrave.com/memorial/117527104/malin-gordon-mcculloch
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-15
+ 
+#421 McCulloch, Malin Gordon
+sameas findagrave:117527104
+birth 1912-01-05
+death 2008-01-24 @ US/TX/Bowie County
+military US Army @ World War II
+burial Chapelwood Memorial Gardens and Mausoleum @ US/TX/Wake Village
+
+---
+ 
+!citation findagrave.com @ 2021-02-15
+!url https://www.findagrave.com/memorial/63985409/mendel-louis-ramsey
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-15
+ 
+#422 Ramsey, Mendel L.
+sameas findagrave:63985409
+birth 1915-03-05
+death 1974-08-08
+military US Marines
+burial Frederick Memorial Gardens @ US/SC/Gaffney
+
+---
+ 
+!citation findagrave.com @ 2021-02-15
+!url https://www.findagrave.com/memorial/186069701/wilmer-bryan-schroeder
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-15
+ 
+#423 Schroeder, Wilmer Bryan [Rip]
+sameas findagrave:186069701
+birth 1908-12-12 @ US/NE/Omaha
+death 1986-10-23 @ US/MN/Gaylord
+burial Valley Cemetery @ US/MN/Shakopee
+
+---
+
+!citation findagrave.com @ 2021-02-15
+!url https://www.findagrave.com/memorial/111665155/samuel-kola-sharp
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-15
+ 
+#424 Sharp, Samuel Kola
+sameas findagrave:111665155
+birth 1906-05-18 @ US/TN/Flat Woods
+death 1982-01-23 @ US/TN/Nashville
+burial Calvary Cemetery @ US/TN/Nashville
+
+---
+ 
+!citation findagrave.com @ 2021-02-19
+!url https://www.findagrave.com/memorial/83409478/robert-f.-beck
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-19
+ 
+#425 Beck, Robert F. [Doodle]
+sameas findagrave:83409478
+birth 1932
+death 2006
+burial Richmond County Memorial Park @ US/NC/Rockingham
+

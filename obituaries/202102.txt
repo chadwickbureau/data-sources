@@ -596,3 +596,309 @@ describe ; BL TL
 highschool Roosevelt HS @ US/CA/Los Angeles
 military US Air Force @ Korean War
 
+---
+
+!citation Leak Memory Chapel @ 2021-02-13
+!url https://www.dignitymemorial.com/obituaries/montgomery-al/royce-chandler-10051432
+!file Chandler_Royce.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-13
+
+#202102_048 Chandler, Royce Wilton
+birth 1928-03-19
+death 2021-02-10
+military US Air Force
+burial Greenwood Cemetery @ US/AL/Montgomery
+
+---
+
+!citation Harrison Daily Times @ 2021-02-13
+!url https://www.legacy.com/obituaries/harrisondaily/obituary.aspx?n=bingham-dozier-bennett-bing&pid=197756524
+!file Bennett_Bing.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-13
+
+#202102_049 Bennett, Bingham Dozier [Bing]
+birth 1932-07-03 @ US/AR/Lee County
+death 2021-02-09 @ US/AR/Conway
+college Mississippi State University
+
+---
+ 
+!citation Alton (IL) Evening Telegraph @ 1972-05-27
+!file Pelton_Marvin.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-13
+ 
+#202102_050 Pelton, Marvin William
+birth 1912-04-30 @ US/IL/Gillespie
+death 1972-05-26 @ US/IL/Gillespie
+burial Gillespie City Cemetery @ US/IL/Gillespie
+
+---
+ 
+!citation Sioux City Journal @ 1966-02-12
+!file Swift_Burton.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-13
+ 
+#202102_051 Swift, Burton Pershing [Lefty]
+birth 1918-05-26 @ US/IA/Akron
+death 2008-05-09 @ US/IA/Sioux City
+highschool Akron HS @ US/IA/Akron
+military US Army @ World War II
+burial Riverside Cemetery @ US/IA/Akron
+
+---
+
+!citation Busch Funeral and Crematory Services @ 2021-02-14
+!url https://buschfuneral.tributes.com/obituary/show/Dale-F.-Davidson-108509927
+!file Davidson_Dale.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-14
+
+#202102_052 Davidson, Dale F.
+birth 1931-06-12
+death 2021-02-05
+
+---
+
+!citation Herald And News @ 2021-02-14
+!url https://www.legacy.com/obituaries/heraldandnews/obituary.aspx?n=ernie-lopez&pid=197766821
+!file Lopez_Ernie.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-14
+
+#202102_053 Lopez, Ernie
+birth 1943-09-06 @ US/CA/Riverside
+death 2021-02-09 @ US/OR/Klamath Falls
+highschool Phoenix Union HS @ US/AZ/Phoenix
+military US Army @ Vietnam War
+
+---
+
+!citation Duffy & Snowdon Funeral Homes @ 2021-02-14
+!url https://www.duffyandsnowdon.com/obituaries/Stanley-Francis-Palys--?obId=19968985#/obituaryInfo
+!file Palys_Stanley.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-14
+
+#202102_054 Palys, Stanley Francis
+birth @ US/PA/Blakely
+death 2021-02-08 @ US/FL/Jupiter
+military US Army @ Korean War
+burial St. Catherine's Cemetery @ US/PA/Moscow
+
+---
+
+!citation Times Record News @ 2021-02-12
+!url https://www.legacy.com/obituaries/timesrecordnews/obituary.aspx?n=david-w-brasier&pid=197756300&fhid=30006
+!file Brasier_David.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-14
+
+#202102_055 Brasier, David W.
+birth 1948-03-10 @ US/TX/Nocona
+death 2021-02-11
+highschool Hirschi HS @ US/TX/Wichita Falls
+
+---
+
+!citation Treasures of Life Funeral Home @ 2021-02-15
+!url https://www.treasurefunerals.com/memorials/joseph-mills/4529896/obituary.php
+!file Mills_Jap.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-15
+
+#202102_056 Mills, Joseph Robert [Jap]
+birth 1942-03-11 @ US/LA/New Orleans
+death 2021-02-09 @ US/LA/Jefferson
+highschool Fifth Ward HS @ US/LA/Reserve
+college Southern University and A&M College
+burial St. Peter Catholic Church Cemetery @ US/LA/Reserve
+
+---
+
+!citation Buonfiglio Funeral Home @ 2021-02-15
+!url https://www.buonfiglio.com/obituaries/William-Conigliaro/#!/Obituary
+!file Conigliaro_Billy.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-15
+
+#202102_057 Conigliaro, William M. [Billy]
+birth 1947-08-15 @ US/MA/Revere
+death 2021-02-10
+highschool Swampscott HS @ US/MA/Swampscott
+military US Army
+
+---
+
+!citation Smith Family Funeral Homes @ 2021-02-15
+!url https://www.tributearchive.com/obituaries/19973830/Vernon-Gene-Bill-Hirschman
+!file Hirschman_Bill.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-15
+
+#202102_058 Hirschman, Vernon Gene [Bill]
+birth 1929-07-26 @ US/MI/Bay City
+death 2021-02-14 @ US/MI/Alma
+highschool Ithaca HS @ US/MI/Ithaca
+burial Ithaca Cemetery @ US/MI/Ithaca
+
+---
+ 
+!citation William Sullivan & Son Funeral Home @ 2021-02-15
+!url https://www.sullivanfuneraldirectors.com/obituaries/David-Mike-Fournier-44884/#!/Obituary
+!file Fournier_Mike.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-15
+
+#202102_059 Fournier, David [Mike]
+birth 1929-03-04 @ US/MI/Sault Ste. Marie
+death 2010—07-19 @ US/MI/Farmington Hills
+
+---
+ 
+!citation The Tennessean @ 1997-01-28
+!file Caldwell_Neil.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-15
+ 
+#202102_060 Caldwell, W. Neil
+death 1997-01-26 @ US/TN/Nashville
+burial Williamson Memorial Gardens @ US/TN/Franklin
+
+---
+ 
+!citation Boston Globe @ 1978-04-02
+!file Fallon_Charles.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-15
+ 
+#202102_061 Fallon, Charles G.
+death 1978-03-31 @ US/MA/Quincy
+military US Marines @ World War II
+burial Milton Cemetery @ US/MA/Milton
+
+---
+ 
+!citation Toledo Blade @ 2001-03-02
+!url https://www.toledoblade.com/sports/high-school/2001/03/02/Local-coach-referee-Kies-dies-at-age-90/stories/200103020044
+!file Kies_Norman.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-15
+
+#202102_062 Kies, Norman C.
+birth 1910-12-10 
+death 2001-02-28 @ US/OH/Perrysburg
+military US Army @ World War II
+
+---
+
+!citation Akron Beacon Journal @ 2000-03-16
+!file Koneff_John.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-15
+ 
+#202102_063 Koneff, John
+birth @ US/IL
+death 2000-03-14
+burial Holy Cross Cemetery @ US/OH/Akron
+
+---
+ 
+!citation Gaffney Ledger @ 1974-08-09
+!file Ramsey_Mendel.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-15
+ 
+#202102_064 Ramsey, Mendel L.
+death 1974-08-08 @ US/GA/Augusta
+highschool Gaffney HS @ US/SC/Gaffney
+military US @ World War II
+burial Frederick Memorial Gardens @ US/SC/Gaffney
+
+---
+
+!citation Elmira Star-Gazette @ 1993-04-02
+!file Smith_Paul (2).pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-15
+ 
+#202102_065 Smith, Paul J.
+birth 1910-11-22 @ US/MA/Watertown
+death 1993-03-31
+military US @ World War II
+burial Woodlawn Cemetery @ US/NY/Elmira
+
+---
+
+!citation Mobile Register @ 2021-02-16
+!url https://obits.al.com/obituaries/mobile/obituary.aspx?n=frank-marsh-lefty&pid=197776776&fhid=23877#_ga=2.17271664.874491215.1611061363-635627066.1552232407
+!file Marsh_Frank.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-16
+
+#202102_066 Marsh, Frank, Jr. "Lefty"
+death 2021-02-09
+
+---
+
+!citation Whitney & Murphy Funeral Home @ 2021-02-17
+!url https://www.whitneymurphyfuneralhome.com/woods-john/
+!file Woods_John.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-17
+
+#202102_067 Woods, John
+birth 1973-05-13 @ US/AZ/Phoenix
+death 2021
+highschool Brophy College Preparatory @ US/AZ/Phoenix
+umpire 1995 Northern
+umpire 1996 Texas-Louisiana
+note Also in affiliated leagues post-1996; suffered serious auto accident in 2004
+
+---
+
+!citation Coble Funeral & Cremation Service @ 2021-02-17
+!url https://www.dignitymemorial.com/obituaries/wilmington-nc/charles-smiley-10044705
+!file Smiley_Charlie.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-17
+
+#202102_068 Smiley, Charles Albert, Jr. [Charlie]
+birth 1935-11-01 @ US/VA/Danville
+death 2021-02-06
+military US Army
+
+---
+
+!citation Fresno Bee @ 2021-02-17
+!url https://www.legacy.com/obituaries/fresnobee/obituary.aspx?n=walter-c-jones-bear&pid=197778948&fhid=20269
+!file Jones_Walter.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-17
+
+#202102_069 Jones, Walter C., Jr. “Bear”
+birth 1937-02-21
+death 2021-01-29 
+highschool Edison HS @ US/CA/Fresno
+military US Marines
+burial Belmont Memorial Park @ US/CA/Fresno
+
+---
+
+!citation Werry Funeral Homes @ 2021-02-18
+!url https://www.werryfuneralhomes.com/obituaries/Earl-Pete-Hamman/#!/Obituary
+!file Hamman_Pete.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-18
+
+#202102_070 Hamman, Earl Duane [Pete]
+birth 1930-06-25 @ US/KS/Independence
+death 2021-02-15 @ US/IN/Poseyville
+highschool Griffin HS @ US/IN/Griffin
+military US Army @ Korean War
+burial St. Francis Xavier Catholic Cemetery @ US/IN/Poseyville
+
+---
+
+!citation Weatherford Mortuary @ 2021-02-19
+!url https://www.weatherfordmortuary.com/obituaries/James-Steve-Luethke?obId=20010885#/obituaryInfo
+!file Luethke_Steve.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-19
+
+#202102_071 Luethke, James Steven [Steve]
+birth 1944-10-09
+death 2021-02-17
+highschool Fulton HS @ US/TN/Knoxville
+burial Happy Valley Memorial Park @ US/TN/Elizabethton
+
+---
+
+!citation Parklawn Funerals @ 2021-02-19
+!url https://parklawnfunerals.com/obituaries/krausse-jr-lewis-b/
+!file Krausse_Lew.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-19
+
+#202102_072 Krausse, Lewis B., Jr. [Lew]
+birth 1943-04-25 @ US/PA/Media
+death 2021-02-16
+burial Resurrection Cemetery @ US/MO/Kansas City

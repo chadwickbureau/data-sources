@@ -134,4 +134,213 @@ birth 1915-05-31 @ US/AL/Phenix City
 #202102_016 Mueller, Theodore Henry
 birth 1914-04-02 @ US/MO/Jefferson City
 
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-13
+ 
+#202102_017 Pelton, Marvin William
+birth 1912-04-30 @ US/IL/Gillespie
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-13
+ 
+#202102_018 Persons, James Thornell
+birth 1913-12-23 @ US/AL/Sylacauga
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-13
+ 
+#202102_019 Pitman, A. J.
+birth 1912-11-02 @ US/TX/Bell
+
+---
+ 
+!citation US Department of Veterans Affairs BIRLS Death File, 1850-2010
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-13
+ 
+#202102_020 Pitman, A.
+sameas ssn:464-01-4095
+birth 1912-11-02
+death 1983-04-25
+military US Navy @ World War II
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-13
+ 
+#202102_021 Swift, Burton Pershing
+birth 1918-05-26 @ US/IA/Akron
+
+---
+ 
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-13
+ 
+#202102_022 Van Fleet, Dwight Murnice
+birth 1907-06-24 @ US/IA/Lebanon
+
+---
+
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-15
+ 
+#202102_023 Fournier, David H.
+sameas ssn:367-24-9808
+birth 1929-03-04
+death 2010-07-19
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-15
+ 
+#202102_024 Blackstock, Harold
+birth 1918-03-11 @ US/GA/Atlanta
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-15
+ 
+#202102_025 Caldwell, William Neil
+birth 1904-07-16 @ US/TN/Nashville
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-15
+ 
+#202102_026 Fallon, Charles Grover
+birth 1914-10-16 @ US/MA/Quincy
+
+---
+ 
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-15
+ 
+#202102_027 Fallon, Charles, Sr.
+sameas ssn:229-05-7489
+birth 1914-10-16
+death 1978-03
+
+---
+ 
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-15
+ 
+#202102_028 Hubbell, John Martin
+birth 1915-08-05 @ US/OK/Stroud
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-15
+ 
+#202102_029 Johnson, Harvey Lester
+birth 1918-06-04 @ US/AL/Dekalb County
+ 
+---
+ 
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-15
+ 
+#202102_030 Johnson, Harvey Lester
+sameas ssn:259-01-9619
+birth 1918-06-04 @ US/AL/Mentone
+death 1996-02-21
+
+---
+
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-15
+ 
+#202102_031 Kies, Norman C.
+sameas ssn:414-16-6192
+birth 1910-12-10
+death 2001-02-28
+
+---
+ 
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-15
+ 
+#202102_032 Koneff, John
+sameas ssn:268-12-6063
+birth 1913-12-18
+death 2000-03-14
+ 
+---
+ 
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-15
+ 
+#202102_033 Koneff, John
+birth 1913-12-18 @ US/IL/Madison
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-15
+ 
+#202102_034 Mallory, Garman
+birth 1918-07-23 @ US/MO/Everton
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-15
+ 
+#202102_035 Ramsey, Mendel Lewis
+birth 1915-03-05 @ US/SC/Gaffney
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-15
+ 
+#202102_036 Schroeder, Wilmer Bryan
+birth 1908-12-12 @ US/NE/Omaha
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-15
+ 
+#202102_037 Sheehan, Francis Kenneth
+birth 1913-11-07 @ US/CA/Oakland
+ 
+---
+ 
+!citation California Death Index, 1940-1997
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-15
+ 
+#202102_038 Sheehan, Francis Kenneth
+sameas ssn:547-07-2684
+birth 1913-11-07 @ US/CA
+death 1982-03-06 @ US/CA/Alameda County
+
+---
+ 
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-15
+ 
+#202102_039 Smith, Paul Joseph
+birth 1910-11-22 @ US/MA/Charlestown
+
+---
+
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-19
+ 
+#202102_040 Beck, Robert Fairly, Sr.
+sameas ssn:237-46-6186
+birth 1932-10-05 @ US/NC/Red Springs
+death 2006-11-25
+
 
