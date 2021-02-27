@@ -343,4 +343,63 @@ sameas ssn:237-46-6186
 birth 1932-10-05 @ US/NC/Red Springs
 death 2006-11-25
 
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-20
+ 
+#202102_041 Meketi, John Donald
+birth 1916-04-23 @ US/PA/Erie
+
+---
+ 
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-20
+ 
+#202102_042 Monahan, Joseph Patrick
+birth 1918-03-03 @ US/MO/St. Louis
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-22
+ 
+#202102_043 Head, Woodie Elmer
+birth 1917-11-21 @ US/AL/Prichard
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-23
+ 
+#202102_044 Miller, John Howard
+birth 1914-04-21 @ US/MA/Holyoke
+ 
+---
+ 
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-23
+ 
+#202102_045 Miller, John Howard
+sameas ssn:014-18-0791
+birth 1914-04-21 @ US/MA/Holyoke
+death 1979-03
+
+---
+
+!citation US WWI Draft Registration Cards, 1917-1918
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-24
+ 
+#202102_046 Sorey, Lexington
+birth 1891-10-17 @ US/MS/Corinth
+
+---
+
+!citation California Death Index, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-25
+ 
+#202102_047 Firebaugh, Russell Morris
+sameas ssn:564-01-0439
+birth 1907-09-22 @ US/CA
+death 1978-05-26 @ US/CA/Stanislaus County
 

@@ -5231,3 +5231,76 @@ birth 1932
 death 2006
 burial Richmond County Memorial Park @ US/NC/Rockingham
 
+---
+
+!citation findagrave.com @ 2021-02-20
+!url https://www.findagrave.com/memorial/44405126/gino-marionetti
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-20
+ 
+#426 Marionetti, Gino
+sameas findagrave:44405126
+birth 1918
+death 1995
+burial Italian Cemetery @ US/CA/Colma
+
+---
+
+!citation findagrave.com @ 2021-02-20
+!url https://www.findagrave.com/memorial/51620957/joseph-p-monahan
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-20
+ 
+#427 Monahan, Joseph Patrick
+sameas findagrave:51620957
+birth 1918-03-03
+death 1973-08-30
+burial Calvary Cemetery and Mausoleum @ US/MO/St. Louis
+
+---
+
+!citation findagrave.com @ 2021-02-22
+!url https://www.findagrave.com/memorial/14749413/woddie-e-head
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-22
+ 
+#428 Head, Woodie E.
+sameas findagrave:14749413
+birth 1917-11-21
+death 1988-11-16
+burial Mimosa-Pines South Cemetery @ US/LA/Carlyss
+
+---
+
+!citation findagrave.com @ 2021-02-22
+!url https://www.findagrave.com/memorial/55054899/ralph-snow-king
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-22
+ 
+#429 King, Ralph Snow
+sameas findagrave:55054899
+birth 1892-08-28 @ US/TN/Sullivan County
+death 1966-01-28 @ US/FL/Putnam County
+burial East Hill Cemetery @ US/TN/Bristol
+
+---
+ 
+!citation findagrave.com @ 2021-02-24
+!url https://www.findagrave.com/memorial/19557233/lexford-sorey
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-24
+ 
+#430 Sorey, Lexford
+sameas findagrave:19557233
+birth 1892-10-17 @ US/MS
+death 1972-01-22
+military US Army @ World War I
+burial Oak Hill Cemetery @ US/NE/Plattsmouth
+
+---
+
+!citation findagrave.com @ 2021-02-25
+!url https://www.findagrave.com/memorial/74502592/robert-a-havern
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-25
+ 
+#431 Havern, Robert A., Jr.
+sameas findagrave:74502592
+birth 1926-04-19
+death 2011-08-04
+military US Marines @ World War II
+burial Mount Pleasant Cemetery @ US/MA/Arlington

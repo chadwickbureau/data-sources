@@ -1,0 +1,84 @@
+!citation Chattanooga Daily Times @ 1927-07-02; page 10
+
+#20210225_001 Chesterfield, Roy
+player 1927 Chattanooga (Southern Association); @P TR
+
+---
+
+!citation Rocky Mount Telegram @ 1916-07-07; page 2
+
+#20210225_002 Carroll
+player 1916 Rocky Mount (Virginia)
+player 1916 (Texas)
+
+---
+
+!citation Ft. Worth Star-Telegram @ 1916-05-21; page 34
+
+#20210225_003 Carroll, C.
+player 1916 Beaumont (Texas)
+
+---
+
+!citation Ft. Worth Star-Telegram @ 1916-05-15; page 8
+
+#20210225_004 Carroll
+player 1916 Beaumont (Texas)
+player 1915 Birmingham (Southern Association)
+
+---
+
+!citation Ft. Worth Star-Telegram @ 1916-06-18; page 38
+
+#20210225_005 Carroll
+player 1916 Beaumont (Texas)
+player 1916 Dallas (Texas)
+
+---
+
+!citation Newport News Daily Press @ 1916-05-30; page 5
+
+#20210225_006 Kelly, George
+manager 1916 Petersburg (Virginia)
+
+---
+
+!citation Newport News Daily Press @ 1916-08-15; page 5
+
+#20210225_007 Emery
+manager 1916 Petersburg (Virginia)
+
+#20210225_008 Bowen
+manager 1916 Petersburg (Virginia)
+notes Bowen, third baseman, succeeded Emery
+
+---
+
+!citation Newport News Daily Press @ 1916-06-10; page 5
+
+#20210225_009 Teague
+player 1916 Rocky Mount (Virginia); TL
+
+---
+
+!citation Newport News Daily Press @ 1916-06-16; page 5
+
+#20210225_010 Paxon, Danny
+player 1916 Newport News (Virginia)
+
+---
+
+!citation Newport News Daily Press @ 1916-07-05; page 5
+
+#20210225_011 Richmond, Clive
+player 1916 Hopewell (Virginia)
+
+---
+
+!citation R. J. Lesch oral presentation on 1911-1913 NY Giants @ 2021-02
+!URL https://www.youtube.com/watch?v=n7mzYuv0AsE
+
+#20210225_012 Andrews, Ray
+player 1917 LaCrosse (Central Association)
+
+

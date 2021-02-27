@@ -902,3 +902,315 @@ burial Happy Valley Memorial Park @ US/TN/Elizabethton
 birth 1943-04-25 @ US/PA/Media
 death 2021-02-16
 burial Resurrection Cemetery @ US/MO/Kansas City
+
+---
+
+!citation Heieck-Pelc Funeral Home @ 2021-02-20
+!url https://www.heieckpelcfuneralhome.com/obituary/Ronald-Netti
+!file Netti_Ron.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-20
+
+#202102_073 Netti, Ronald P. [Ron]
+birth 1941-04-29 @ US/NY/Auburn
+death 2021-02-17 @ US/NY/Auburn
+
+---
+
+!citation Lake Lawn Metairie Funeral Home @ 2021-02-20
+!url https://www.dignitymemorial.com/obituaries/new-orleans-la/harold-blaum-6410608
+!file Blaum_Hal.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-20
+
+#202102_074 Blaum, Harold Sidney [Hal]
+birth 1923-05-02 @ US/LA/New Orleans
+death 2015-04-20
+highschool Fortier HS @ US/LA/New Orleans
+military US Army @ World War II
+burial Metairie Cemetery @ US/LA/New Orleans
+
+---
+
+!citation Los Angeles Times @ 1972-05-08
+!file Mallory_Rabbit.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-20
+ 
+#202102_075 Mallory, Elmer E.
+death 1972-05-06 @ US/CA/Corona del Mar
+
+---
+ 
+!citation Chicago Daily News @ 1961-08-14
+!file Meketi_John.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-20
+ 
+#202102_076 Meketi, John, Sr.
+death 1961-08-12 @ US/IL/Aurora
+burial St. Joseph Cemetery @ US/IL/Aurora
+
+---
+
+!citation Flanner Buchanan Funeral Home @ 2021-02-21
+!url https://flannerbuchanan.com/obit/john-allen-williams/
+!file Williams_John.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-21
+
+#202102_077 Williams, John Allen
+birth 1938-10-15 @ US/MI/Jackson
+death 2021-02-16 @ US/IN/Indianapolis
+highschool Jackson HS @ US/MI/Jackson
+military US Air Force
+
+---
+
+!citation Cumby Family Funeral Service @ 2021-02-21
+!url https://www.cumbyfuneral.com/tributes/DrRichard-Tester
+!file Tester_Dean.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-21
+
+#202102_078 Tester, Richard Dean [Dean]
+birth 1932-12-17 @ US/VA/Pulaski
+death 2021-02-19 @ US/NC/High Point
+highschool Pulaski HS @ US/VA/Pulaski
+college Hampden-Sydney College
+burial Deep River Friends Meeting Cemetery @ US/NC/High Point
+
+---
+
+!citation Reno Journal-Gazette @ 2015-04-15
+!url https://www.legacy.com/obituaries/rgj/obituary.aspx?n=leonard-mormando&pid=174633180&eid=sp_ommatch
+!file Mormando_Lenny.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-21
+
+#202102_079 Mormando, Leonard [Lenny]
+birth 1923-08-31 @ US/NY/Brooklyn
+death 2015-04-07
+military US Navy @ World War II
+
+---
+
+!citation Davis-Smith Funeral Home @ 2021-02-22
+!url https://www.davis-smith.com/obituaries/Jack-L-Bales-Sr?obId=20020184
+!file Bales_Jack.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-22
+
+#202102_080 Bales, Jack L., Sr.
+birth 1930-05-25 @ US/AR/Hot Springs
+death 2021-02-16 
+highschool Hot Springs HS @ US/AR/Hot Springs
+burial Lowe Cemetery @ US/AR/Royal
+
+---
+
+!citation Brown Funeral Home @ 2021-02-22
+!url https://www.brownfuneralhomeswv.com/memorials/anthony-cordell/4536834/obituary.php
+!file Cordell_Tony.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-22
+
+#202102_081 Cordell, Anthony [Tony]
+birth 1926-03-25 @ US/PA/Bessemer
+death 2021-02-12 @ US/WV/Kearneysville
+highschool Hagerstown HS @ US/MD/Hagerstown
+military US Navy @ World War II
+burial Old Norbourne Cemetery @ US/WV/Martinsburg
+
+---
+
+!citation The Eagle @ 2021-02-19
+!url https://theeagle.com/sports/former-texas-a-m-baseball-player-navasota-coach-bear-bratsen-dies-at-68/article_072d3552-733e-11eb-b52a-db81c34d6f3c.html
+!file Bratsen_Jim.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-22
+
+#202102_082 Bratsen, Jim "Bear"
+death 2021-02-18
+college Texas A&M University
+
+---
+
+!citation Selma Times @ 2021-02-19
+!url https://www.selmatimesjournal.com/2021/02/19/farewell-to-a-selma-high-baseball-football-legend/
+!file Thompson_Anthony.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-22
+
+#202102_083 Thompson, Anthony "Big A"
+death 2021-02-08
+highschool Selma HS @ US/AL/Selma
+burial Lorenzo Harrison Memorial Gardens @ US/AL/Selma
+
+---
+
+!citation Randall Miller Funeral Service @ 2021-02-22
+!url https://www.randallmillerfuneralservice.com/obituary/mr-anthony-thompson
+!file Thompson_Anthony_2.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-22
+
+#202102_084 Thompson, Anthony M. "Big A"
+birth 1968-07-08
+death 2021-02-08 @ US/AL/Selma
+burial Lorenzo Harrison Memorial Gardens @ US/AL/Selma
+
+---
+ 
+!citation Kingsport Times-News @ 1966-01-30
+!file King_Ralph.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-22
+ 
+#202102_085 King, Ralph Snow
+death 1966-01-27 @ US/FL/Georgetown
+burial East Hill Cemetery @ US/TN/Bristol
+
+---
+
+!citation Lancaster Online @ 2021-02-21
+!url https://lancasteronline.com/sports/baseball/mlb/stan-williams-fearsome-pitcher-for-la-dodgers-dies-at-84/article_b930358d-e4b5-5759-a902-3f46d833e591.html
+!file Williams_Stan.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-22
+
+#202102_086 Williams, Stan
+death 2021-02-20 @ US/NV/Laughlin
+
+---
+ 
+!citation Springfield (MA) Union @ 1979-03-30
+!file Miller_Howard.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-23
+ 
+#202102_087 Miller, J. Howard [Howie]
+death 1979-03-28 @ US/MA/Agawam
+burial St. Stainislaus Cemetery @ US/MA/Chicopee
+
+---
+
+!citation O'Guinn Family Funeral Homes @ 2021-02-23
+!url https://www.oguinnfh.com/obituaries/Walter-E-Head?obId=20009247
+!file Head_Walt.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-23
+
+#202102_088 Head, Walter E. [Walt]
+birth 1944-05-04 @ US/MI/Flint
+death 2021-02-17 @ US/MI/Grand Blanc Township
+highschool Ainsworth HS @ US/MI/Flint
+
+---
+
+!citation Johnson Funeral Home @ 2021-02-24
+!url https://www.johnsonfuneralhome.net/obituary/justin-demary
+!file Demary_Justin.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-24
+
+#202102_089 Demary, Justin Daniel
+birth 1995-05-10 @ US/LA/Lake Charles
+death 2021-02-22
+highschool Iowa HS @ US/LA/Iowa
+college Pearl River Community College
+college Minot State University
+burial Sallier Cemetery @ US/LA/Lake Charles
+
+---
+
+!citation Luddy & Peterson's Funeral Home @ 2021-02-24
+!url https://www.luddyandpetersonfh.com/obituary/Michael-Mauro
+!file Mauro_Mousy.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-24
+
+#202102_090 Mauro, Michael "Mousy"
+birth 1934-07-03 @ US/CT/Southington
+death 2021-02-15 @ US/CT/Southington
+highschool Southington HS @ US/CT/Southington
+military US Army
+
+---
+ 
+!citation Plattsmouth (NE) Journal @ 1972-01-24
+!file Sorey_Lex.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-24
+ 
+#202102_091 Sorey, Lexford
+birth 1892-10-17 @ US/MS/Greenville
+death 1972-01-22 @ US/NE/Plattsmouth
+military US @ World War I
+burial Oak Hill Cemetery @ US/NE/Plattsmouth
+
+---
+
+!citation Brenna Cellini Funeral Homes @ 2021-02-25
+!url https://brennacellinifuneralhomes.com/book-of-memories/4541108/Braconi-Richard/index.php
+!file Braconi_Richard.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-25
+
+#202102_092 Braconi, Richard Peter, Sr.
+birth 1937-03-15 @ US/NJ/Trenton
+death 2021-02-22 @ US/NJ/Hamilton
+burial Holy Sepulchre Cemetery @ US/NJ/Hamilton
+
+---
+
+!citation Bizub Funeral Home @ 2021-02-25
+!url https://www.bizubquinlan.com/obituary/George-Poydinecz
+!file Poydinecz_George.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-25
+
+#202102_093 Poydinecz, George
+birth 1928-04-04 @ US/NJ/Clifton
+death 2021-02-12
+highschool Clifton HS @ US/NJ/Clifton
+burial St. Michael's Cemetery @ US/NJ/South Hackensack
+
+---
+ 
+!citation Boston Globe @ 2011-08-06
+!file Havern_Robert.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-25
+ 
+#202102_094 Havern, Robert A.
+death 2011-08-04
+burial Mount Pleasant Cemetery @ US/MA/Arlington
+
+---
+
+!citation Lexington Herald-Leader @ 2021-02-26
+!url https://www.legacy.com/obituaries/kentucky/obituary.aspx?n=albert-lynn-stone&pid=197880438&fhid=4756
+!file Stone_Albert.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-26
+
+#202102_095 Stone, Albert Lynn [Lynn]
+birth 1925-10-18 @ US/LA/New Orleans
+death 2021-02-22 @ US/KY/Lexington
+military US Coast Guard @ World War II
+burial Camp Nelson National Cemetery @ US/KY/Nicholasville
+
+---
+
+!citation The Citizen @ 2021-02-26
+!url https://www.legacy.com/us/obituaries/auburnpub/name/james-atkinson-obituary?pid=197886986
+!file Atkinson_James.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-26
+
+#202102_096 Atkinson, James E.
+birth 1931-09-14 @ US/NY/Auburn
+death 2021-02-20 @ US/FL/Deerfield Beach
+highschool Auburn HS @ US/NY/Auburn
+military US Coast Guard
+
+---
+
+!citation Lowell Sun @ 2021-02-27
+!url https://www.legacy.com/obituaries/lowellsun/obituary.aspx?n=ronald-a-gendreau&pid=197888704
+!file Gendreau_Ron.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-26
+
+#202102_097 Gendreau, Ronald A. [Ron]
+birth 1928-07-15 @ US/MA/Lowell
+death 2021-02-19
+military US Army
+
+---
+
+!citation Gainesville Sun @ 2021-02-26
+!url https://www.legacy.com/obituaries/gainesville/obituary.aspx?n=william-edward-statter-carr-bill&pid=197887932&fhid=12938
+!file Carr_Bill.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-26
+
+#202102_098 Carr, William Edward Statter [Bill]
+birth 1935-10-06 @ US/FL/New Smyrna Beach
+death 2021-01-29 @ US/FL/St. Augustine
+college University of Alabama
