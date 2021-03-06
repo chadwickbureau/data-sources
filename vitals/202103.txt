@@ -1,0 +1,121 @@
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-01
+ 
+#202103_001 Alto, Karl Emil
+birth 1916-12-14 @ US/IL/Waukegan
+ 
+---
+ 
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-01
+ 
+#202103_002 Alto, Karl Emil
+sameas ssn:331-09-8818
+birth 1916-12-14 @ US/IL/Waukegan
+death 1993-06-12
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-01
+ 
+#202103_003 DeJarnett, Marion Marcellus, Jr.
+birth 1915-03-06 @ US/NE/Lincoln
+ 
+---
+ 
+!citation US Dept. of Veterans Affairs BIRLS Death File, 1850-2010
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-01
+ 
+#202103_004 Dejarnett, Marion
+sameas ssn:506-07-7581
+birth 1915-03-06
+death 1992-05-12
+
+---
+
+!citation US WWI Draft Registration Cards, 1917-1918
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-02
+ 
+#202103_005 Teague, Clarence F.
+birth 1890-07-04 @ US/IL/New Columbia
+
+---
+ 
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-03
+ 
+#202103_006 Mosley, McKinley
+sameas ssn:407-32-8771
+birth 1929-03-24 @ US/KY/Hyden
+death 1998-01-29
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-03
+ 
+#202103_007 Cianciolo, Lawrence Joseph
+birth 1926-08-21 @ US/WI/Milwaukee
+resides 337 North Jackson Street @ US/WI/Milwaukee
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-03
+ 
+#202103_008 Honeycutt, Herschel Ray
+birth 1914-05-22 @ US/OK/Meeker
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-03
+ 
+#202103_009 Roxbury, Joseph
+birth 1913-06-18 @ US/MI/Hopkins
+
+---
+ 
+!citation US WWII Draft Cards Young Men, 1940=1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-03
+ 
+#202103_010 Corley, Pearce
+birth 1914-03-14 @ US/SC/Graniteville
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-03
+ 
+#202103_011 Twardy, Leo Bernard
+birth 1914-05-20 @ US/PA/Mollenauer
+
+---
+
+!citation US Department of Veterans Affairs BIRLS Death File, 1850-2010
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-05
+ 
+#202103_012 Anderson, Frank
+sameas ssn:466-10-9418
+birth 1915-03-04
+death 1970-04-17
+military US Army @ World War II
+ 
+---
+ 
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-05
+ 
+#202103_013 Anderson, Frank Martin
+birth 1915-03-04 @ US/AL/Tarrant
+ 
+---
+ 
+!citation Alabama Deaths and Burials Index, 1881-1974
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-05
+ 
+#202103_014 Anderson, Frank Martin
+death 1970-04-17 @ US/AL/Birmingham
+
+ 

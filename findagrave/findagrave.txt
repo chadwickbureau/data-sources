@@ -5304,3 +5304,209 @@ birth 1926-04-19
 death 2011-08-04
 military US Marines @ World War II
 burial Mount Pleasant Cemetery @ US/MA/Arlington
+
+---
+
+!citation findagrave.com @ 2021-02-27
+!url https://www.findagrave.com/memorial/204913796/joseph-p.-polaha
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-27
+ 
+#432 Polaha, Joseph P.
+sameas findagrave:204913796
+birth 1928
+death 2019-11-21
+military US Navy
+burial St. John the Baptist Slovak Catholic Cemetery @ US/PA/Allentown
+ 
+---
+ 
+!citation findagrave.com @ 2021-02-27
+!url https://www.findagrave.com/memorial/98853097/jerome-gutt
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-27
+ 
+#433 Gutt, Jerome
+sameas findagrave:98853097
+death 1989-02-23
+burial Mount Lebanon Cemetery @ US/NY/Glendale
+
+---
+
+!citation findagrave.com @ 2021-02-27
+!url https://www.findagrave.com/memorial/66912616/justin-ivan-ray
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-27
+ 
+#434 Ray, Justin Ivan
+sameas findagrave:66912616
+birth 1908-08-08 @ US/KY/Kuttawa
+death 1989-12-21 @ US/WI/Poplar
+burial Greenwood Cemetery @ US/WI/Superior
+
+---
+
+!citation findagrave.com @ 2021-02-28
+!url https://www.findagrave.com/memorial/18287807/ralph-e.-blinn
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-28
+ 
+#435 Blinn, Ralph E.
+sameas findagrave:18287807
+birth 1932-06-26 @ US/MI
+death 1990-05-31 @ US/TN/Farragut
+burial Berry Highland Memorial Cemetery @ US/TN/Knoxville
+
+---
+
+!citation findagrave.com @ 2021-03-01
+!url https://www.findagrave.com/memorial/141455066/frank-hershel-stasey
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-01
+ 
+#436 Stasey, Frank Hershel [Pat]
+sameas findagrave:141455066
+birth 1917-03-11 @ US/TX/Stephenville
+death 2005-03-29 @ US/TX/San Angelo
+burial Lawnhaven Memorial Gardens @ US/TX/San Angelo
+
+---
+
+!citation findagrave.com @ 2021-03-01
+!url https://www.findagrave.com/memorial/49751934/paul-k-debruhl
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-01
+ 
+#437 DeBruhl, Paul K.
+sameas findagrave:49751934
+birth 1918-08-26
+death 1994-01-21
+burial Pilgrims Rest Cemetery @ US/MI/Maple Ridge
+
+---
+
+!citation findagrave.com @ 2021-03-01
+!url https://www.findagrave.com/memorial/120439858/onville-richard-boothby
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-01
+ 
+#438 Boothby, Onville Richard
+sameas findagrave:120439858
+birth 1888-07-18 @ US/MA
+death 1948-01-21 @ US/CA/Los Angeles County
+burial Roosevelt Memorial Park @ US/CA/Gardena
+
+---
+ 
+!citation findagrave.com @ 2021-03-02
+!url https://www.findagrave.com/memorial/13452673/clarence-teague
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-02
+ 
+#439 Teague, Clarence
+sameas findagrave:13452673
+birth 1890
+death 1964
+burial Hicks Cemetery @ US/MI/Pennfield
+
+---
+
+!citation findagrave.com @ 2021-03-03
+!url https://www.findagrave.com/memorial/140734446/mckinley-mosley
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-03
+ 
+#440 Mosley, McKinley
+sameas findagrave:140734446
+birth 1929-03-24
+death 1998-01-29
+burial Morgan-Begley Cemetery @ US/KY/Hyden
+
+---
+ 
+!citation findagrave.com @ 2021-03-03
+!url https://www.findagrave.com/memorial/26127232/hershel-raymond-honeycutt
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-03
+ 
+#441 Honeycutt, Hershel Raymond [Ray]
+sameas findagrave:26127232
+birth 1914 @ US/OK/Meeker
+death 1964 @ US/OK/Shawnee
+burial New Hope Cemetery @ US/OK/Meeker
+
+---
+ 
+!citation findagrave.com @ 2021-03-03
+!url https://www.findagrave.com/memorial/106728386/joseph-f-roxbury
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-03
+ 
+#442 Roxbury, Joseph F.
+sameas findagrave:106728386
+birth 1913-06-18 @ US/MI/Hopkins
+death 1975-03-14 @ US/MI/Allegan
+burial Maplewood Cemetery @ US/MI/Hopkins
+
+---
+
+!citation findagrave.com @ 2021-03-03
+!url https://www.findagrave.com/memorial/66145950/frank-veverka
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-03
+ 
+#443 Veverka, Frank
+sameas findagrave:66145950
+birth 1916-04-01 @ US/IL/Chicago
+death 1992-09-23 @ US/IL/Elgin
+burial Union Cemetery @ US/IL/St. Charles
+
+---
+
+!citation findagrave.com @ 2021-03-03
+!url https://www.findagrave.com/memorial/124635828/pearce-edward-corley
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-03
+ 
+#444 Corley, Pearce Edward
+sameas findagrave:124635828
+birth 1914-03-14 @ US/SC
+death 1966-02-07 @ US/SC/Graniteville
+military US Army @ World War II
+burial Graniteville Cemetery @ US/SC/Graniteville
+
+---
+
+!citation findagrave.com @ 2021-03-03
+!url https://www.findagrave.com/memorial/935530/bernard-joseph-lutz
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-03
+ 
+#445 Lutz, Bernard Joseph
+sameas findagrave:935530
+birth 1915-08-20 @ US/PA/Lucinda
+death 1966-07-11 @ US/NY/Geneva
+military US Navy @ World War II
+burial Woodlawn National Cemetery @ US/NY/Elmira
+
+---
+ 
+!citation findagrave.com @ 2021-03-03
+!url https://www.findagrave.com/memorial/164219738/leo-b.-twardy
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-03
+ 
+#446 Twardy, Leo B.
+sameas findagrave:164219738
+birth 1914-05-20
+death 1980-03-08
+burial Pineview Memory Gardens @ US/AL/Valley Grande
+
+---
+
+!citation findagrave.com @ 2021-03-05
+!url https://www.findagrave.com/memorial/58678236/alex-coleman
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-05
+ 
+#447 Coleman, Alex
+sameas findagrave:58678236
+birth 1913
+death 2006
+burial Memorial Park Cemetery @ US/OK/Oklahoma City
+
+---
+
+!citation findagrave.com @ 2021-03-06
+!url https://www.findagrave.com/memorial/42741617/glenn-castle-wilhide
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-06
+ 
+#448 Wilhide, Glenn Castle
+sameas findagrave:42741617
+birth 1898-06-30
+death 1983-05-06 @ US/PA/Newtown Square
+burial Mount Olivet Cemetery @ US/MD/Frederick

@@ -403,3 +403,28 @@ sameas ssn:564-01-0439
 birth 1907-09-22 @ US/CA
 death 1978-05-26 @ US/CA/Stanislaus County
 
+---
+ 
+!citation Pennsylvania Veteran Compensation Application Files, WWII, 1950-1966
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-27
+ 
+#202102_048 Polaha, Joseph P.
+birth 1927-12-16 @ US/PA/Allentown
+
+---
+
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-27
+ 
+#202102_049 Gutt, Jerome
+sameas ssn:088-12-7268
+birth 1922-07-23 @ US/NY/Brooklyn
+death 1989-02-23
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-27
+ 
+#202102_050 O'Laughlin, Thomas Connor
+birth 1917-01-03 @ US/CA/Los Angeles

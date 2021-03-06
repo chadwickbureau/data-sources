@@ -1214,3 +1214,43 @@ military US Army
 birth 1935-10-06 @ US/FL/New Smyrna Beach
 death 2021-01-29 @ US/FL/St. Augustine
 college University of Alabama
+
+---
+
+!citation Morning Call @ 2021-02-28
+!url https://www.legacy.com/obituaries/mcall/obituary.aspx?n=john-anthony-stehlin&pid=197889393
+!file Stehlin_Jack.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-27
+
+#202102_099 Stehlin, John Anthony, Jr. [Jack]
+birth 1929-01-07 @ US/PA/Allentown
+death 2021-02-02
+highschool Allentown Central Catholic HS @ US/PA/Allentown
+military US Air Force @ Korean War
+
+---
+
+!citation Observer & Eccentric Newspapers @ 2021-02-27
+!url https://www.legacy.com/obituaries/hometownlife/obituary.aspx?n=raymond-john-wiacek&pid=197889561
+!file Wiacek_Ray.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-27
+
+#202102_100 Wiacek, Raymond John [Ray]
+birth 1930-10-13
+death 2021-02-22
+highschool Fordson HS @ US/MI/Dearborn
+burial St. Hedwig Cemetery @ US/MI/Dearborn Heights
+
+---
+
+!citation Afterword.co @ 2021-02-28
+!url https://afterword.co/stories/roger-miller
+!file Miller_Roger.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-02-28
+
+#202102_101 Miller, Roger Wayne
+birth 1929-03-06 @ US/WI/Kenosha
+death 2020-02-11
+college Illinois Wesleyan University
+military US Army @ Korean War
+
