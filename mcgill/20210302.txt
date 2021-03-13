@@ -1,0 +1,150 @@
+!citation Asheville Citizen-Times @ 1904-08-05; page 6
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20210302_001 Gilland
+player 1904 Brevard (Carolina Interstate)
+player 1904 Knoxville (Tennessee-Alabama)
+college University of South Carolina
+note: This is almost certainly Dess Gilland
+
+---
+
+!citation The Fort Worth Record and Register @ 1905-07-16; page 7
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20210302_002 Clarke, Ed
+umpire 1905 Texas
+
+#20210302_003 Mulkey, Cy
+umpire 1905 Texas
+player 1905 Temple (Texas)
+
+---
+
+!citation The Fort Worth Record and Register @ 1905-07-19; page 3
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20210302_004 Poindexter
+player 1905 Fort Worth (Texas)
+released 1905-07-18 by Fort Worth (Texas) to Temple (Texas)
+
+---
+
+!citation The Fort Worth Record and Register @ 1905-07-20; page 3
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20210302_005 Aiken, Roy
+player 1905 Temple (Texas)
+player 1905 Galveston (South Texas)
+
+---
+
+!citation Knoxville Sentinel @ 1913-03-07; page 20
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20210302_006 Wallace, Jack
+describe H70 W165; age 23
+resides 1913 @ US/LA/Winfield
+player 1912 Knoxville (Appalachian)
+player 1913 Knoxville (Appalachian)
+
+#20210302_007 Nelsen, Ed
+describe H74.5 W185; age 21
+resides 1913 @ US/TN/Knoxville
+player 1912 Knoxville (Appalachian)
+player 1913 Knoxville (Appalachian)
+
+#20210302_008 Wendt, J. A.
+describe H71 W178; age 23
+resides 1913 @ US/MI/Detroit
+player 1912 Oklahoma City (Oklahoma State)
+
+#20210302_009 Bullock, Harry B.
+describe H72 W192; age 23
+player 1911 Knoxville (Appalachian)
+player 1913 Knoxville (Appalachian)
+
+#20210302_010 Wynne, William H.
+describe H71 W172; age 28
+resides 1913 @ US/NC/Raleigh
+player 1912 Knoxville (Appalachian)
+player 1913 Knoxville (Appalachian)
+
+#20210302_011 Watson, A. C.
+describe H70 W175; age 23
+resides 1913 @ US/SC/Camden
+player 1912 Knoxville (Appalachian)
+player 1913 Knoxville (Appalachian)
+
+#20210302_012 Burke, M. F.
+describe H73 W185; age 22
+resides 1913 @ US/TN/Nashville
+player 1912 Knoxville (Appalachian)
+player 1913 Knoxville (Appalachian)
+
+#20210302_013 Knox, W. D.
+describe H68 W160; age 27
+resides 1913 @ US/TN/Knoxville
+player 1912 Knoxville (Appalachian)
+player 1913 Knoxville (Appalachian)
+
+---
+
+!citation The Montgomery Times @ 1910-04-02; page 8
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20210302_014 Miller, Charley
+describe H71 W196 BR TR; age 23
+resides 1910 @ US/PA/Williamsport
+player 1910 Montgomery (Southern Association)
+
+#20210302_015 Vickery, O. T.
+describe H68 W168 BR TL; age 20
+resides 1910 @ US/GA/Hartford
+player 1910 Montgomery (Southern Association)
+player 1909 Enid (Western Association)
+
+#20210302_016 Smith, Manning
+describe H69 W165 BR TR; age 22
+resides 1910 @ US/AL/Red Level
+college University of Alabama
+player 1910 Montgomery (Southern Association)
+
+#20210302_017 Nolly, Rufus
+describe H68 W155 BR TR; age 27
+player 1910 Montgomery (Southern Association)
+player 1910 Wheeling (Central)
+
+#20210302_018 Pepe, Joe
+describe H66 W175 BR TR; age 22
+resides 1910 @ US/NY/New York City
+player 1910 Montgomery (Southern Association)
+player 1909 Macon (South Atlantic)
+
+#20210302_019 Phillips, Joe
+describe H69 W165 BR TR; age 26
+player 1910 Montgomery (Southern Association)
+player 1909 Uniontown (Pennsylvania-West Virginia)
+
+---
+
+!citation The Dayton Herald
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20210302_020 Bensen, Elmer
+describe H58 W145 BR TR
+plyaer 1912 Dayton (Central)
+player 1911 Dayton (Central)
+player 1909 Columbus (South Atlantic)
+
+---
+
+!citation The Fort Worth Record and Register @ 1905-08-24; page 6
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20210302_021 Bridges
+player 1905 Dallas (Texas)
+released 1905-08-23 by Dallas (Texas)
+
+---
+

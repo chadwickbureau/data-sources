@@ -118,4 +118,75 @@ birth 1915-03-04 @ US/AL/Tarrant
 #202103_014 Anderson, Frank Martin
 death 1970-04-17 @ US/AL/Birmingham
 
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-08
  
+#202103_015 Lastres, Danilo Barbus
+birth 1925-12-04 @ US/FL/Key West
+
+---
+
+!citation US WWII Draft Registration Cards, 1942
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-11
+ 
+#202103_016 Swan, Oscar Kinloch
+birth 1885-10-29 @ US/TX/Tyler
+ 
+---
+ 
+!citation US WWI Draft Registration Cards, 1917-1918
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-11
+ 
+#202103_017 Swan, Oscar Kinloch
+birth 1879-10-29
+
+---
+
+!citation US WWI Draft Registration Cars, 1917-1918
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-11
+ 
+#202103_018 Carson, Thomas James
+birth 1875-04-03
+
+---
+ 
+!citation US WWI Draft Registration Cards, 1917-1918
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-12
+ 
+#202103_019 Burmeister, Clarence Edward
+birth 1890-03-25 @ US/MI/Kingston
+
+---
+
+!citation US WWI Draft Registration Cards, 1917-1918
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-12
+ 
+#202103_020 Hille, William Oscar
+birth 1882-01-18
+
+---
+ 
+!citation US WWII Draft Registration Cards, 1942
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-12
+ 
+#202103_021 Hille, William Oscar
+birth 1882-01-18 @ US/MN/Minneapolis
+
+---
+
+!citation Iowa Death Records, 1920-1967
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-13
+ 
+#202103_022 Benson, Elmer Martin
+birth 1884-09-11 @ US/ND/Jamestown
+death 1945-12-08 @ US/IA/Lincoln Township
+ 
+---
+ 
+!citation US WWI Draft Registration Cards, 1917-1918
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-13
+ 
+#202103_023 Bensen, Elmer Martin
+birth 1884-09-11

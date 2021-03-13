@@ -5510,3 +5510,111 @@ sameas findagrave:42741617
 birth 1898-06-30
 death 1983-05-06 @ US/PA/Newtown Square
 burial Mount Olivet Cemetery @ US/MD/Frederick
+
+---
+
+!citation findagrave.com @ 2021-03-08
+!url https://www.findagrave.com/memorial/6362369/albert-c.-cornelius
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-08
+ 
+#449 Cornelius, Albert C.
+sameas findagrave:6362369
+birth 1883-08-26 @ US/PA
+death 1932-11-19 @ US/OH/Zanesville
+burial Woodlawn Cemetery @ US/OH/Zanesville
+
+---
+
+!citation findagrave.com @ 2021-03-08
+!url https://www.findagrave.com/memorial/149007510/michael-aloysius-cavanaugh
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-08
+ 
+#450 Cavanaugh, Michael Aloysius
+sameas findagrave:149007510
+birth 1882-06-11 @ US/IA/New Hampton
+death 1957-12-28 @ US/WI/Janesville
+burial Calvary Cemetery @ US/WI/Beloit
+
+---
+
+!citation findagrave.com @ 2021-03-09
+!url https://www.findagrave.com/memorial/117921871/albert-s-kennedy
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-09
+ 
+#451 Kennedy, Albert S. [Snapper]
+sameas findagrave:117921871
+birth 1868-09 @ US/KY/Newport
+death 1934-12 @ US/CO/Denver
+burial Riverside Cemetery @ US/CO/Denver
+
+---
+ 
+!citation findagrave.com @ 2021-03-11
+!url https://www.findagrave.com/memorial/47656034/oscar-k-swan
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-11
+ 
+#452 Swan, Oscar K.
+sameas findagrave:47656034
+birth 1885-10-29
+death 1958-07-19
+burial Oak Bluff Memorial Park @ US/TX/Port Neches
+
+---
+
+!citation findagrave.com @ 2021-03-11
+!url https://www.findagrave.com/memorial/31493688/chester-collins-bobo
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-11
+ 
+#453 Bobo, Chester Collins
+sameas findagrave:31493688
+birth 1892-08-30 @ US/TX/Georgetown
+death 1945-05-12 @ US/TX/San Antonio
+burial Giddings City Cemetery @ US/TX/Giddings
+
+---
+
+!citation findagrave.com @ 2021-03-11
+!url https://www.findagrave.com/memorial/221499805/grover-cleveland-brant
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-11
+ 
+#454 Brant, Grover Cleveland
+sameas findagrave:221499805
+birth 1890-11-05 @ US/IL
+death 1963-07-16 @ US/CA/Fresno
+burial Odd Fellows Cemetery @ US/CA/Fresno
+
+---
+ 
+!citation findagrave.com @ 2021-03-11
+!url https://www.findagrave.com/memorial/115410517/thomas-james-carson
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-11
+ 
+#455 Carson, Thomas James
+sameas findagrave:115410517
+birth 1875-04-03 @ US/OH
+death 1963-02-18 @ US/TX/Waco
+burial Oakwood Cemetery @ US/TX/Waco
+
+---
+
+!citation findagrave.com @ 2021-03-12
+!url https://www.findagrave.com/memorial/24966750/clarence-e-burmeister
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-12
+ 
+#456 Burmeister, Clarence E.
+sameas findagrave:24966750
+birth 1890-03-25
+death 1918-07-22
+burial St. John's Cemetery @ US/FL/Pensacola
+
+---
+ 
+!citation findagrave.com @ 2021-03-12
+!url https://www.findagrave.com/memorial/135066059/william-o.-hille
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-12
+ 
+#457 Hille, William O.
+sameas findagrave:135066059
+birth 1882
+death 1953-02-15
+burial Lakewood Cemetery @ US/MN/Minneapolis

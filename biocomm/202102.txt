@@ -1,0 +1,180 @@
+!citation SABR Biographical Committee Newsletter @ 2021-02
+
+#202102_001 Aaron, Henry Louis
+describe ; mlbplayed=1954/
+death 2021-01-22 @ US/GA/Atlanta
+burial Southview Cemetery @ US/GA/Atlanta
+
+#202102_002 Acker, Thomas James
+describe ; mlbplayed=1956/
+death 2021-01-04 @ US/PA/Narvon
+
+#202102_003 Altobelli, Joseph Salvatore
+describe ; mlbplayed=1955/
+death 2021-03-03 @ US/NY/Rochester
+
+#202102_004 Baumann, Frank Matt
+describe ; mlbplayed=1955/
+death 2020-12-13 @ US/MO/St. Louis
+burial Jefferson Barracks National Cemetery @ US/MO/St. Louis
+
+#202102_005 Brown, Oscar Lee
+describe ; mlbplayed=1969/
+burial Forest Hills Memorial Park @ US/CA/Cypress
+
+#202102_006 Cohen, Hyman
+describe ; mlbplayed=1955/
+death 2021-02-04 @ US/CA/Rancho Mirage
+burial Mount Sinai Cemetery @ US/CA/Simi Valley
+
+#202102_007 Conigliaro, William Michael
+describe ; mlbplayed=1969/
+death 2021-02-10 @ US/MA/Beverly
+
+#202102_008 Cormier, Rheal Paul
+describe ; mlbplayed=1991/
+death 2021-03-08 @ CA/NB/Cap-Pele
+
+#202102_009 Fournier, John Frank
+describe ; mlbplayed=1892/
+birth 1892-09-28
+
+#202102_010 Foytack, Paul Eugene
+describe ; mlbplayed=1953/
+death 2021-01-23 @ US/TN/Spring Hill
+
+#202102_011 Gonzalez (Olivares), Pedro
+describe ; mlbplayed=1963/
+death 2021-01-10 @ DO/San Pedro de Macoris/San Pedro de Macoris
+
+#202102_012 Hamilton, Jack Edwin
+describe ; mlbplayed=1962/
+burial Fairview Cemetery @ US/IA/Newport
+
+#202102_013 Hawkins, Wynn Firth
+describe ; mlbplayed=1960/
+death 2021-02-11 @ US/OH/Canfield
+
+#202102_014 Hunter, Willard Mitchell
+describe ; mlbplayed=1962/
+death 2021-02-03 @ US/NE/Omaha
+
+#202102_015 Jackson, Grant Dwight
+describe ; mlbplayed=1965/
+death 2021-02-02 @ US/PA/Canonsburg
+
+#202102_016 Johnson, Ronald David
+describe ; mlbplayed=1982/
+death 2021-01-26 @ US/TN/Murfreesboro
+burial Cremated
+
+#202102_017 Kane, Jeremiah Joseph
+describe ; mlbplayed=1890/
+birth 1865-10-11 @ US/IL/East St. Louis
+death 1948-10-25 @ US/IL/East St. Louis
+burial Mount Carmel Cemetery @ US/IL/Belleville
+
+#202102_018 Krausse, Lewis Bernard, Jr.
+describe ; mlbplayed=1961/
+death 2021-02-16 @ US/MO/Holt
+burial Resurrection North Cemetery @ US/MO/Kansas City
+
+#202102_019 Laboy (Guilbe), Jose Alberto
+describe ; mlbplayed=1969/
+birth 1940-07-04
+
+#202102_020 LaRose, Henry John
+describe ; mlbplayed=1978/
+death 2021-01-14 @ US/RI/Cumberland
+
+#202102_021 Lasorda, Thomas Charles
+describe ; mlbplayed=1954/
+burial Rose Hills Memorial Park @ US/CA/Whittier
+
+#202102_022 Leppert, Donald Eugene
+describe ; mlbplayed=1955/
+death 2021-01-05 @ US/MS/Olive Branch
+burial Memorial Park Cemetery @ US/TN/Memphis
+
+#202102_023 Mangual (Guilbe), Angel Luis
+describe ; mlbplayed=1969/
+death 2021-02-16 @ PR//Ponce
+
+#202102_024 Naples, Aloysius Francis
+describe ; mlbplayed=1949/
+death 2021-02-26 @ US/MA/Orleans
+burial Orleans Cemetery @ US/MA/East Orleans
+
+#202102_025 Netzel, Miles Albion
+describe ; mlbplayed=1909/; TR
+birth 1887-05-12
+
+#202102_026 Palys, Stanley Francis
+describe ; mlbplayed=1953/
+death 2021-02-08 @ US/FL/Jupiter
+burial St. Catherine's Cemetery @ US/PA/Moscow
+
+#202102_027 Pitler, Jacob Albert
+describe ; mlbplayed=1917/
+burial Temple Israel Riverside Cemetery @ US/NY/Conklin
+
+#202102_028 Pizarro (Cordova), Juan Roman
+describe ; mlbplayed=1957/
+death 2021-02-18 @ PR//Carolina
+burial Del Pilar Cemetery @ PR//Canovanas
+
+#202102_029 Ryan, James Edward
+describe ; mlbplayed=1885/
+
+#202102_030 Ryan, John Budd
+describe ; mlbplayed=1912/
+birth @ US/KS/Plainville
+
+#202102_031 Sadek, Michael George
+describe ; mlbplayed=1973/
+death 2021-01-20 @ US/CA/San Andreas
+
+#202102_032 Samford, Ronald Edward
+describe ; mlbplayed=1954/
+death 2021-01-14 @ US/TX/Dallas
+burial Laurel Land Memorial Park @ US/TX/Dallas
+
+#202102_033 Sherry, Norman Burt
+describe ; mlbplayed=1959/
+death 2021-03-08 @ US/CA/San Juan Capistrano
+
+#202102_034 Shifflett, Garland Jesse
+describe ; mlbplayed=1957/
+death 2020-05-13 @ US/CO/Lakewood
+
+#202102_035 Simpson, Thomas Leo
+describe ; mlbplayed=1953/
+death 2021-02-07 @ US/CA/Folsom
+
+#202102_036 Smith, Richard Harrison
+describe ; mlbplayed=1951/
+birth 1926-07-21
+death 2021-01-25 @ US/PA/Boalsburg
+burial Centre County Memorial Park @ US/PA/State College
+
+#202102_037 Sutton, Donald Howard
+describe ; mlbplayed=1966/
+death 2021-01-18 @ US/CA/Rancho Mirage
+
+#202102_038 Terwilliger, Willard Wayne
+describe ; mlbplayed=1949/
+death 2021-02-03 @ US/TX/Weatherford
+
+#202102_039 Watkins, William Harton Thomas
+describe ; mlbplayed=1884/
+
+#202102_040 Werley, George William
+describe ; mlbplayed=1956/
+burial Valhalla Cemetery @ US/MO/St. Louis
+
+#202102_041 Williams, Stanley Wilson
+describe ; mlbplayed=1958/
+death 2021-02-20 @ US/NV/Laughlin
+
+#202102_042 Wynne, William Avera [Will]
+describe ; mlbplayed=1894/

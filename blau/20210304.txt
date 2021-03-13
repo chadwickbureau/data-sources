@@ -1,0 +1,114 @@
+!citation Philadelphia Inquirer @ 1917-03-18; page 21
+
+#20210304_001 Carmichael, Forest
+player 1916 Paris (Western Association); TR H 72.5 W 178
+
+#20210304_002 Craig, Oral
+player 1916 Wichita (Western); TL H 71.75 W 182
+
+---
+
+!citation Columbia Evening Missourian @ 1916-08-07; page 1
+
+#20210304_003 Hogg, Bobby
+player 1916 Fort Smith (Western Association)
+college University of Missouri
+
+---
+
+!citation Fort Scott (KS) Republican @ 1916-06-15; page 7
+
+#20210304_004 Wright, Will
+player 1916 Paris (Western Association)
+acquired 1916-06-14 by McAlester (Western Association)
+resides 1916@US/KS/Fort Scott
+
+---
+
+!citation Muskogee Times-Democrat @ 1916-03-01; page 11
+
+#20210304_005 Williams, Smokey Joe
+player 1914 Muskogee (Western Association)
+player 1915 Muskogee (Western Association)
+
+---
+
+!citation Muskogee Times-Democrat @ 1916-04-05; page 11
+
+#20210304_006 Williams, Smokey Joe
+player 1916 Muskogee (Western Association)
+
+---
+
+!citation Muskogee Times-Democrat @ 1916-05-20; page 15
+
+#20210304_007 Williams, Smokey Joe
+player 1916 Muskogee (Western Association); GP 8
+released <1916-05-20 by Muskogee (Western Association)
+
+---
+
+!citation Muskogee Times-Democrat @ 1916-06-05; page 7
+
+#20210304_008 Williamson
+player 1916 Muskoge (Western Association); @RF
+player 1916 Oklahoma City (Western Association)
+
+---
+
+!citation Muskogee Times-Democrat @ 1916-05-04; page 9
+
+#20210304_009 Williamson, Colie
+player 1916 Oklahoma City (Western Association)
+
+---
+
+!citation Tulsa Democrat @ 1916-06-19; page 6
+
+#20210304_010 Brandom, Chick
+player 1916 Oklahoma City (Western Association)
+
+---
+
+!citation Daily Oklahoman @ 1916-07-18; page 8
+
+#20210304_011 Chellette, Henry
+player 1916 Oklahoma City (Western Association)
+player 1916 (Central Texas)
+player 1915 Paris (Western Association)
+
+---
+
+!citation Muskogee Times-Democrat @ 1916-06-02; page 11
+
+#20210304_012 Cook
+player 1916 Muskogee (Western Association)
+player 1916 Paris (Western Association)
+
+---
+
+!citation Muskogee Times-Democrat @ 1916-04-12; page 11
+
+#20210304_013 Cook
+player 1916 Muskogee (Western Association)
+college University of Arkansas
+
+---
+
+!citation Pittsburgh Press @ 1945-08-31; page 30
+
+#20210304_014 Henry, Clark
+player 1945 Albany (Eastern); BL TL H 74 W 180
+birth 1918-02-26@US/?/Lincoln Heights
+resides 1945@US/PA/Greensburg
+
+#20210304_015 Mahew, Jack
+player 1945 Albany (Eastern); BL TL
+birth 1922-05-10@US/MI/Detroit
+
+---
+
+!citation Tulsa Morning Daily World @ 1916-08-09; page 6
+
+#20210304_016 White, Bob
+player 1916 Tulsa (Western Association); @SS

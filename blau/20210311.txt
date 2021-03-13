@@ -1,0 +1,129 @@
+!citation Pittsburgh Post-Gazette @ 1935-08-03; page 12
+
+#20210311_001 Cobb, Bernard
+player 1935 Fort Wayne (I-I-I); TR
+
+---
+
+!citation McAlester News-Capital @ 1916-08-17; page 7
+
+#20210311_002 Wren, Clyde
+player 1916 (Central Texas)
+player 1916 Sherman (Western Association)
+resides 1916@US/OK/McAlester
+
+---
+
+!citation Washington Evening Star @ 1918-03-25; page 14
+
+#20210311_003 Cass, June
+player 1917 Des Moines (Western); BL TR
+
+---
+
+!citation Appleton Post-Crescent @ 1949-07-22; page 13
+
+#20210311_004 Grove, Bob
+player 1949 Sheboygan (Wisconsin State); TR
+notes has photograph
+
+---
+
+!citation Lincoln Star @ 1916-05-27; page 13
+
+#20210311_005 Holmes, Ducky
+player 1916 Lincoln (Western)
+manager 1916 Lincoln (Western)
+
+---
+
+!citation Lincoln Star @ 1916-05-27; page 7
+
+#20210311_006 Willett, Edgar
+player 1916 Lincoln (Western)
+player <1916 Detroit (American)
+
+---
+
+!citation Nebraska State Journal @ 1916-09-10; page 4
+
+#20210311_007 Yearl, Ralph
+player 1916 Lincoln (Western)
+resides 1916@US/NE/Ravenna
+
+---
+
+!citation Omaha Daily Bee @ 1916-02-13; page 3
+
+#20210311_008 Allison, Mack
+player 1916 Omaha (Western)
+purchased 1916-02-12 by Omaha (Western) from Kansas City (American Association)
+
+---
+
+!citation Lincoln Daily News @ 1916-08-15; page 7
+
+#20210311_009 Burge, Wallace
+player 1916 St. Joseph (Western)
+player 1916 Portsmouth (Ohio State); TR
+
+---
+
+!citation St. Joseph Gazette @ 1916-04-02; page 10
+
+#20210311_010 Butler, Willis
+player 1916 St. Joseph (Western)
+player 1915 (Northwestern)
+
+---
+
+!citation Topeka State Journal @ 1916-08-07; page 8
+
+#20210311_011 Dunn, Ernie
+player 1916 Topeka (Western)
+released 1916-08-06 by Topeka (Western)
+
+---
+
+!citation Sporting News @ 1939-03-09; page 5
+
+#20210311_012 Conner, John
+player 1938 Fargo-Moorhead (Northern)
+birth 1916-12-14@US/IL/Ashland
+
+---
+
+!citation Canton Evening Repository @ 1928-04-10; page 13
+
+#20210311_013 Corl, Ray
+player 1928 Canton (Central)
+
+---
+
+!citation Wichita Eagle @ 1916-07-27; page 7
+
+#20210311_014 Hannah, Chuck
+player 1916 Wichita (Western)
+
+---
+
+!citation Wichita Eagle @ 1916-08-08; page 7
+
+#20210311_015 Jones, Verne
+player 1916 Wichita (Western); @P
+resides 1916@US/KS/Emporia
+
+---
+
+!citation Wichita Eagle @ 1916-06-15; page 7
+
+#20210311_016 Klein, Eddie
+player 1916 Wichita (Western); TL
+
+---
+
+!citation St. Joseph Gazette @ 1916-08-27; page 12
+
+#20210311_017 Kennard, Bus
+player 1916 St. Joseph (Western); @P
+notes local semi-pro
