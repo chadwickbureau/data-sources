@@ -1,0 +1,194 @@
+!citation Long Branch (NJ) Daily Record @ 1953-07-10; page 15
+
+#20210318_001 Ferguson, George
+player 1953 Batavia (PONY); TR
+
+---
+
+!citation Chambersburg Public Opinion @ 1916-05-20; page 18
+
+#20210318_002 Snyder, Bugs
+player 1916 Chambersburg (Blue Ridge); TL
+
+---
+
+!citation Chambersburg Public Opinion @ 1916-05-05; page 8
+
+#20210318_003 Port
+player 1916 Chambersburg (Blue Ridge)
+college University of Pennsylvania
+
+---
+
+!citation Chambersburg Public Opinion @ 1916-07-06; page 6
+
+#20210318_004 Stricker
+player 1916 Chambersburg (Blue Ridge); TL
+
+---
+
+!citation Chambersburg Public Opinion @ 1916-06-26; page 6
+
+#20210318_005 Port, Edward
+player 1916 Chambersburg (Blue Ridge)
+released 1916-06-24 by Chambersburg (Blue Ridge)
+
+---
+
+!citation Baltimore Sun @ 1912-06-10; page 10
+
+#20210318_006 Port
+player 1912 Reading (United States)
+player 1912 York (Tri-State)
+
+---
+
+!citation Gettysburg Times @ 1916-05-15; page 3
+
+#20210318_007 Myers, Roy
+player 1916 Gettysburg (Blue Ridge); @P
+
+---
+
+!citation Gettysburg Times @ 1916-06-26; page 3
+
+#20210318_008 Howe, Oscar
+player 1916 Martinsburg (Blue Ridge)
+resides 1916@US/PA/York Springs
+
+---
+
+!citation Frederick News @ 1916-05-26; page 3
+
+#20210318_009 Lewellyn, Harry
+player 1916 Frederick (Blue Ridge); @P
+
+#20210318_010 Lewellyn, Harry
+player 1916 Gettysburg (Blue Ridge)
+released 1916-05-23 by Gettysburg (Blue Ridge)
+
+#20210318_011 Hoffecker, Frank
+player 1916 Gettysburg (Blue Ridge); @P
+
+---
+
+!citation Chambersburg Public Opinion @ 1916-05-24; page 6
+
+#20210318_012 Hoffecker, Frank
+player 1915 Martinsburg (Blue Ridge)
+released 1916-05-20 by Martinsburg (Blue Ridge)
+
+---
+
+!citation Chambersburg Public Opinion @ 1916-05-26; page 6
+
+#20210318_013 Longacre, Herb
+player 1916 Gettysburg (Blue Ridge); @P
+
+---
+
+!citation Gettysburg Times @ 1916-05-27; page 3
+
+#20210318_014 Howe, Oscar
+player 1916 Martinsburg (Blue Ridge)
+
+---
+
+!citation Gettysburg Times @ 1916-05-27; page 1
+
+#20210318_015 Ranahan
+player 1916 Gettysburg (Blue Ridge); TR
+player 1916 Shamokin (Pennsylvania State)
+
+---
+
+!citation Frederick News @ 1916-05-30; page 3
+
+#20210318_016 Myers, Roy
+player 1916 Gettysburg (Blue Ridge)
+released <=1916-05-30 by Gettysburg (Blue Ridge)
+
+---
+
+!citation Hanover Evening Sun @ 1916-06-15; page 3
+
+#20210318_017 Worden, Fred
+player 1916 Hanover (Blue Ridge)
+player 1914 Philadelphia (American)
+player <=1916 (Oklahoma)
+player <=1916 Norfolk (Virginia)
+
+#20210318_018 Peck, Roger
+player 1916 Hanover (Blue Ridge)
+player <=1916 Frederick (Blue Ridge)
+college Baltimore City College
+
+---
+
+!citation Hanover Evening Sun @ 1916-06-16; page 3
+
+#20210318_019 Copeland, Eddie
+player 1916 Gettysburg (Blue Ridge)
+player 1916 Martinsburg (Blue Ridge)
+
+---
+
+!citation Washington Evening Star @ 1916-05-22 page 12
+
+#20210318_020 Rawlings, Robert [Shag]
+player 1916 Martinsburg (Blue Ridge)
+resides 1916@US/DC/Washington
+
+---
+
+!citation Chambersburg Public Opinion @ 1916-07-06; page 6
+
+#20210318_021 Rasmussen, Dummy
+player 1916 Chambersburg (Blue Ridge)
+college Gaulladet College
+released <=1916-07-06 by Chambersburg (Blue Ridge)
+
+---
+
+!citation Gettysburg Times @ 1916-05-18; page 3
+
+#20210318_022 Jamison
+player 1916 Gettysburg (Blue Ridge); @P
+
+---
+
+!citation Hanover Evening Sun @ 1916-05-25; page 3
+
+#20210318_023 Jamison, Bill
+player 1916 Gettysburg (Blue Ridge)
+released <=1925-05-25 by Gettysburg (Blue Ridge)
+
+---
+
+!citation Gettysburg Times @ 1916-05-25; page 3
+
+#20210318_024 Robinson
+player 1916 Gettysburg (Blue Ridge); @P
+
+---
+
+!citation Frederick News @ 1916-05-30; page 3
+
+#20210318_025 Robinson, Norman
+player 1916 Gettysburg (Blue Ridge)
+released <=1925-05-30 by Gettysburg (Blue Ridge)
+
+---
+
+!citation Hanover Evening Sun @ 1916-08-21; page 3
+
+#20210318_026 Small, Fritz
+player 1916 Hanover (Blue Ridge)
+
+---
+
+!citation Hanover Evening Sun @ 1916-08-30; page 3
+
+#20210318_027 Lied
+player 1916 Hagerstown (Blue Ridge)
+player 1915 (Colonial)

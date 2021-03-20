@@ -5618,3 +5618,88 @@ sameas findagrave:135066059
 birth 1882
 death 1953-02-15
 burial Lakewood Cemetery @ US/MN/Minneapolis
+
+---
+
+!citation findagrave.com @ 2021-03-15
+!url https://www.findagrave.com/memorial/138244933/robert-f-essex
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-15
+ 
+#458 Essex, Robert F.
+sameas findagrave:138244933
+birth 1917-09-05
+death 1978-04-12
+burial Quincy Cemetery @ US/WI/Friendship
+
+---
+
+!citation findagrave.com @ 2021-03-17
+!url https://www.findagrave.com/memorial/92990449/william-birch-douglass
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-17
+ 
+#459 Douglass, William Birch, Jr. [Birch]
+sameas findagrave:92990449
+birth 1914-06-19
+death 1994-06-29
+burial Hollywood Cemetery @ US/VA/Richmond
+
+---
+
+!citation findagrave.com @ 2021-03-18
+!url https://www.findagrave.com/memorial/127650144/thomas-edward-toland
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-18
+ 
+#460 Toland, Thomas Edward [Tom]
+sameas findagrave:127650144
+birth 1894-10-18 @ US/AR/Mineral Springs
+death 1937-04-18 @ US/AR
+burial Ashdown Cemetery @ US/AR/Ashdown
+
+---
+
+!citation findagrave.com @ 2021-03-18
+!url https://www.findagrave.com/memorial/37738077/robert-lee-durham
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-18
+ 
+#461 Durham, Robert Lee
+sameas findagrave:37738077
+birth 1907-05-16 @ US/NC/Greensboro
+death 1986-11-26 @ US/NC/Greensboro
+burial Alamance Presbyterian Church Cemetery @ US/NC/Greensboro
+
+---
+
+!citation findagrave.com @ 2021-03-19
+!url https://www.findagrave.com/memorial/127952282/edward-samuel-havel
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-19
+ 
+#462 Havel, Edward Samuel [Sam]
+sameas findagrave:127952282
+birth 1881-04-18 @ US/OH/Cleveland
+death 1961-02-17 @ US/OH/Cleveland
+burial Woodland Cemetery @ US/OH/Cleveland
+
+---
+ 
+!citation findagrave.com @ 2021-03-19
+!url https://www.findagrave.com/memorial/73588246/einar-gunnar-hoisve
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-19
+ 
+#463 Hoisve, Einar Gunnar
+sameas findagrave:73588246
+birth 1914-09-02 @ US/MN/Minneapolis
+death 1984-05-09 @ US/MN/Hennepin County
+military US Army @ World War II
+burial Fort Snelling National Cemetery @ US/MN/Minneapolis
+
+---
+
+!citation findagrave.com @ 2021-03-19
+!url https://www.findagrave.com/memorial/100040782/ardys-b-keller
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-19
+ 
+#464 Keller, Ardys B. [Art]
+sameas findagrave:100040782
+birth 1916-07-28 @ US/NE/Octavia
+death 1944-09-29
+burial Edholm Valley Cemetery @ US/NE/Edholm

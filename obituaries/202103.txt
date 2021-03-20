@@ -696,3 +696,320 @@ burial Mount Sharon Cumberland Presbyterian Cemetery @ US/TN/Greenbrier
 #202103_055 Sahargun, John Martin [Jack]
 birth 1933-04-21
 death 2021-02-24 @ US/CA/Sacramento
+
+---
+
+!citation Brickman Brothers Funeral Home @ 2021-03-13
+!url https://www.brickmanbros.com/obituaries/LEO-A-BROWN-JR?obId=444618#/celebrationWall
+!file Brown_Leo.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-13
+
+#202103_056 Brown, Leo A., Jr.
+birth 1921-08-15
+death 2015-03-12
+highschool Glenville HS @ US/OH/Cleveland
+burial All Souls Cemetery @ US/OH/Chardon
+
+---
+
+!citation Des Moines Register @ 2021-03-12
+!url https://www.legacy.com/obituaries/desmoinesregister/obituary.aspx?n=Bill-Graney&pid=174370142
+!file Graney_Bill.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-13
+
+#202103_057 Graney, Kenneth William [Bill]
+birth 1924-06-09 @ US/IA/Perry
+death 2015-03-09
+highschool St. Patrick's HS @ US/IA/Perry
+military US Navy @ World War II
+burial Violet Hill Cemetery @ US/IA/Perry
+
+---
+
+!citation Twin City Cremations and Funeral Services @ 2021-03-14
+!url https://www.twincitycremations.com/obituary/Charles-SchaffernothSr
+!file Schaffernoth_Charley.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-14
+
+#202103_058 Schaffernoth, Charles Joseph, Sr. [Charley]
+birth 1934 @ US/NJ/Ringoes
+death 2021-03-01 @ US/NC/Clemmons
+highschool Jonathan Dayton HS @ US/NJ/Springfield
+military US Army
+burial Holy Family Catholic Church Cemetery @ US/NC/Winston-Salem
+
+---
+
+!citation Daily Breeze @ 2021-03-14
+!url https://www.legacy.com/obituaries/dailybreeze/obituary.aspx?n=ray-william-allen&pid=198040497
+!file Allen_Ray.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-14
+
+#202103_059 Allen, Ray William
+birth 1947-02-08 @ US/CA/Inglewood
+death 2021-01-12
+highschool South HS @ US/CA/Torrance
+college El Camino College
+
+---
+
+!citation Pasadena Star-News @ 2021-03-14
+!url https://www.legacy.com/obituaries/pasadenastarnews/obituary.aspx?n=robert-l-hertel&pid=198040472
+!file Hertel_Bob_2.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-14
+
+#202103_060 Hertel, Robert L. [Bob]
+birth 1929-07-22 @ US/CA/La Canada
+death 2021-02-25
+highschool John Muir HS @ US/CA/Pasadena
+college University of Southern California
+military US Army @ Korean War
+
+---
+
+!citation Campbell Ennis Klotzbach Funeral Home @ 2021-03-14
+!url https://www.klotzbachfuneralhomes.com/obituaries/Melvin-Thomason-36535/#!/Obituary
+!file Thomason_Melvin.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-14
+
+#202103_061 Thomason, Melvin R.
+birth 1933-06-22
+death 2010-06-02 @ US/PA/Phoenixville
+
+---
+
+!citation Kearney Funeral Home @ 2021-03-15
+!url https://kearneyfuneralhome.com/obituaries/j-gaynor-cawley/3101/
+!file Cawley_Gaynor.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-15
+
+#202103_062 Cawley, J. Gaynor [Gaynor]
+birth 1941-06-19 @ US/PA/Scranton
+death 2021-03-12
+highschool St. Patrick's HS @ US/PA/Scranton
+college University of Scranton
+burial Cathedral Cemetery @ US/PA/Scranton
+
+---
+
+!citation Cozean Memorial Chapel & Crematory @ 2021-03-15
+!url https://www.cozeanfuneralhome.com/obituary/robert-mcleod
+!file McLeod_Bob.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-15
+
+#202103_063 McLeod, Robert Lynn [Bob]
+birth 1936-08-23 @ US/MO/Doe Run
+death 2021-03-11 @ US/MO/St. Louis
+
+---
+
+!citation Blount & Curry Funeral Home @ 2021-03-15
+!url https://www.dignitymemorial.com/obituaries/tampa-fl/james-snyder-10091081
+!file Snyder_Jim.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-15
+
+#202103_064 Snyder, James Robert [Jim]
+birth 1932-08-15 @ US/MI/Dearborn
+death 2021-03-09 @ US/FL/Lutz
+highschool Fordson HS @ US/MI/Dearborn
+college Eastern Michigan University
+
+---
+ 
+!citation Chicago Tribune @ 1997-01-16
+!file Billows_Ralph.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-15
+ 
+#202103_065 Billows, Ralph M. "Stormy"
+death 1997-01
+
+---
+
+!citation Colvin Funeral Home @ 2021-03-16
+!url https://www.colvinfuneralhome.com/obituary/Jeffrey-Goldbach
+!file Goldbach_Jeff.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-16
+
+#202103_066 Goldbach, Jeffrey Michael [Jeff]
+birth 1979-12-20
+death 2021-03-07 @ US/NC/Greensboro
+highschool Princeton Community HS @ US/IN/Princeton
+burial St. Joseph Catholic Cemetery @ US/IN/Princeton
+
+---
+
+!citation Macon Memorial Park Funeral Home @ 2021-03-16
+!url https://www.dignitymemorial.com/obituaries/macon-ga/inman-coot-veal-10106009
+!file Veal_Coot.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-16
+
+#202103_067 Veal, Inman [Coot]
+birth 1932-07-09 @ US/GA/Deepstep
+death 2021-03-14
+college Auburn University
+
+---
+
+!citation Norris Funeral Service @ 2021-03-16
+!url https://www.norrisfuneral.com/obituaries/Jack-D-Bryant?obId=20294138#/celebrationWall
+!file Bryant_Jack.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-16
+
+#202103_068 Bryant, Jack D.
+birth 1934-02-17 @ US/VA/Gretna
+death 2021-03-14 @ US/VA/Dry Fork
+college Wake Forest University
+military US Army
+burial Danville Memorial Gardens @ US/VA/Danville
+
+---
+
+!citation Worcester Telegram & Gazette @ 2021-03-17
+!url https://www.legacy.com/us/obituaries/telegram/name/william-kasper-obituary?n=william-kasper&pid=198065178&fhid=20771
+!file Kasper_Bill.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-17
+
+#202103_069 Kasper, William George [Bill]
+birth @ US/MA/Worcester
+death 2021-03-15
+highschool St. John's HS @ US/MA/Worcester
+college Villanova University
+military US Navy
+burial St. John's Cemetery @ US/MA/Worcester
+
+---
+
+!citation O'Brien Funeral Home @ 2021-03-17
+!url https://www.obrienfuneralhome.com/memorials/douglas-blake/4561276/index.php
+!file Blake_Doug.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-17
+
+#202103_070 Blake, Douglas Andrew [Doug]
+birth 1950-06-18 @ US/NJ/Hackettstown
+death 2021-03-12
+highschool Hackettstown HS @ US/NJ/Hackettstown
+college Princeton University
+
+---
+
+!citation legacy.com @ 2021-03-17
+!url https://www.legacy.com/us/obituaries/godanriver/name/charlie-a-smiley-obituary?n=charlie-a-smiley&pid=198066744
+!file Smiley_Charlie_2.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-17
+
+#202103_071 Smiley, Charles Albert, Jr. [Charlie]
+birth 1935-11-01 @ US/VA/Danville
+death 2021-02-06
+highschool George Washington HS @ US/VA/Danville
+military US Army
+burial Highland Burial Park @ US/VA/Danville
+
+---
+ 
+!citation Richmond Times-Dispatch @ 1994-07-01
+!file Douglass_Birch.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-17
+ 
+#202103_072 Douglass, W. Birch, Jr. [Birch]
+birth @ US/NC/Kinston
+death 1994-06-29 @ US/VA/Richmond
+college Hampden-Sydney College
+
+---
+ 
+!citation Chattanooga Daily Times @ 1937-04-19
+!file Toland_Tom.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-18
+ 
+#202103_073 Toland, Tom E.
+death 1937-04-18 @ US/MS/Greenwood
+
+---
+
+!citation Seal Beach Sun @ 2021-03-18
+!url https://www.legacy.com/obituaries/sunnews/obituary.aspx?n=ronald-chi-kredell&pid=198075360
+!file Kredell_Chi.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-18
+
+#202103_074 Kredell, Ronald [Chi]
+birth 1933-05-13 @ US/IL/Chicago
+death 2021-03-01
+military US Navy @ Korean War
+
+---
+
+!citation Max A. Sass & Sons Funeral and Cremation Service @ 2021-03-18
+!url https://www.maxsass.com/obituaries/Gilbert-Gil-M-Murawski?obId=20351556#/obituaryInfo
+!file Murawski_Gil.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-18
+
+#202103_075 Murawski, Gilbert M. [Gil]
+birth 1937-03-20
+death 2021-03-16 
+military US Marines
+burial St. Adalbert Cemetery @ US/WI/Milwaukee
+
+---
+
+!citation Osborn Funeral Home @ 2021-03-18
+!url https://www.osbornfuneralhome.net/obituary/7393034
+!file Rice_Ron.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-18
+
+#202103_076 Rice, Ronald Maburn [Ron]
+birth 1933-01-31 @ US/TX/Waco
+death 2021-03-15
+highschool Fair Park HS @ US/LA/Shreveport
+college Centenary College of Louisiana
+burial Forest Park East Cemetery @ US/LA/Shreveport
+
+---
+
+!citation Woodfin Funeral Chapel @ 2021-03-19
+!url https://www.woodfinchapel.com/obituary/billy-joe-bill-matthews
+!file Matthews_Bill.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-19
+
+#202103_077 Matthews, Billy Joe [Bill]
+birth 1952-02-07 @ US/FL/Panama City
+death 2021-03-16
+
+---
+
+!citation Damiano Funeral Home @ 2021-03-19
+!url https://www.damianofhinc.com/obituary/Andrew-Seroka
+!file Seroka_Andrew.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-19
+
+#202103_078 Seroka, Andrew Basil
+birth 1949-04-16 @ US/PA/Hazleton
+death 2021-03-18 @ US/PA/New Ringgold
+military US Army @ Vietnam War
+burial Sts. Peter and Paul Byzantine Catholic Cemetery @ US/PA/Beaver Meadows
+
+---
+
+!citation Rivet Funeral Home @ 2021-03-19
+!url https://www.rivetfuneralhome.com/obituary/charles-cathcart
+!file Cathcart_Charlie.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-19
+
+#202103_079 Cathcart, Charles Joseph [Charlie]
+birth 1927-12-14 @ US/MA/Woburn
+death 2021-03-18 @ US/ME/Yarmouth
+highschool McGaw Institute @ US/NH/Merrimack
+military US Army
+burial Last Rest Cemetery @ US/NH/Merrimack
+
+---
+ 
+!citation South Florida Sun Sentinel @ 1997-04-05
+!file Gunter_Paul.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-19
+ 
+#202103_080 Gunter, Paul B.
+birth @ US/AR/Fort Smith
+death 1997-04-03
+college Arkansas Tech University
+military US Navy @ World War II
+

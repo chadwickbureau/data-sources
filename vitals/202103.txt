@@ -190,3 +190,81 @@ death 1945-12-08 @ US/IA/Lincoln Township
  
 #202103_023 Bensen, Elmer Martin
 birth 1884-09-11
+
+---
+
+!citation US WWII Draft Registration Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-15
+ 
+#202103_024 Billows, Ralph Miller
+birth 1913-10-24 @ US/MN/St. Paul
+ 
+---
+ 
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-15
+ 
+#202103_025 Billows, Ralph Miller
+sameas ssn:352-03-0668
+birth 1913-10-24 @ US/MN/St. Paul
+death 1997-01-13
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-15
+ 
+#202103_026 Essex, Robert Franklin
+birth 1917-09-05 @ US/WI/Dalton
+
+---
+
+!citation US WWI Draft Registration Cards, 1917-1918
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-17
+ 
+#202103_027 Lied, Frederick Johnson
+birth 1894-02-24 @ US/NJ/South Orange
+ 
+---
+ 
+!citation New Jersey Death Index, 1901-2017
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-17
+ 
+#202103_028 Lied, Frederick J.
+birth 1969-02-18 @ US/NJ/Elizabeth
+
+---
+ 
+!citation US WWII Draft Cards Young  Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-19
+ 
+#202103_029 Goldak, John Charles
+birth 1916-11-18 @ US/MO/St. Francis County
+ 
+---
+ 
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-19
+ 
+#202103_030 Goldak, John C.
+sameas ssn:347-10-6989
+birth 1916-11-18 @ US/MO/St. Francis County
+death 1991-04-15
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-19
+ 
+#202103_031 Hoisve, Einar Gunnard
+birth 1914-09-02 @ US/MN/Minneapolis
+
+---
+
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-19
+ 
+#202103_032 Gunter, Paul Brough
+sameas ssn:407-01-4710
+birth 1917-04-14 @ US/AR/Dardanelle
+death 1997-04-03
