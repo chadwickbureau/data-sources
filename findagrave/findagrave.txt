@@ -5703,3 +5703,210 @@ sameas findagrave:100040782
 birth 1916-07-28 @ US/NE/Octavia
 death 1944-09-29
 burial Edholm Valley Cemetery @ US/NE/Edholm
+
+---
+ 
+!citation findagrave.com @ 2021-03-20
+!url https://www.findagrave.com/memorial/73614060/william-lambert
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-20
+ 
+#465 Lambert, William [Babe]
+sameas findagrave:73614060
+birth 1911-10-12
+death 1979-04-03
+burial Crown Hill Cemetery @ US/IN/New Washington
+
+---
+
+!citation findagrave.com @ 2021-03-20
+!url https://www.findagrave.com/memorial/6372435/john-duke-wells
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-20
+ 
+#466 Wells, John Duke
+sameas findagrave:6372435
+birth 1914
+death 1989
+burial Rest Haven Memorial Gardens @ US/AR/Arkadelphia
+
+---
+
+!citation findagrave.com @ 2021-03-23
+!url https://www.findagrave.com/memorial/16205726/john-f.-steadman
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-23
+ 
+#467 Steadman, John F., Jr.
+sameas findagrave:16205726
+birth 1927
+death 2001-01-01
+burial New Cathedral Cemetery @ US/MD/Baltimore
+
+---
+
+!citation findagrave.com @ 2021-03-23
+!url https://www.findagrave.com/memorial/701906/dennis-jeremiah-gleason
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-23
+ 
+#468 Gleason, Dennis Jeremiah
+sameas findagrave:701906
+birth 1915-12-03
+death 1959-03-03
+military US Navy @ World War II
+burial Fort Snelling National Cemetery @ US/MN/Minneapolis
+
+---
+
+!citation findagrave.com @ 2021-03-23
+!url https://www.findagrave.com/memorial/101983507/robert-lee-ludwig
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-23
+ 
+#469 Ludwig, Robert Lee
+sameas findagrave:101983507
+birth 1913-08-08 @ US/CO/Colorado Springs
+death 1976-12-15 @ US/TX/Lakeview
+burial Greenlawn Memorial Park @ US/TX/Groves
+
+---
+
+!citation findagrave.com @ 2021-03-24
+!url https://www.findagrave.com/memorial/160498000/real-st._germain
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-24
+ 
+#470 St. Germain, Real [Chuck]
+sameas findagrave:160498000
+birth 1928-01-31 @ US/MA
+death 1977-08-28 @ US/CT/Waterbury
+burial St. Joseph Cemetery New @ US/CT/Waterbury
+
+---
+
+!citation findagrave.com @ 2021-03-24
+!url https://www.findagrave.com/memorial/108005061/michael-j.-martynik
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-24
+ 
+#471 Martynik, Michael J., Sr.
+sameas findagrave:108005061
+birth 1912-02-23
+death 2006-04-15
+military US Navy @ World War II
+burial Ukrainian American Cemetery @ US/MA/Bellingham
+
+---
+
+!citation findagrave.com @ 2021-03-24
+!url https://www.findagrave.com/memorial/127132777/alfred-dean-sherer
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-24
+ 
+#472 Sherer, Alfred Dean
+sameas findagrave:127132777
+birth 1914-07-28 @ US/IL/Quincy
+death 1986-09-16 @ US/IL/Bloomington
+burial Funks Grove Cemetery @ US/IL/McLean
+
+---
+
+!citation findagrave.com @ 2021-03-24
+!url https://www.findagrave.com/memorial/194632391/kenneth-seaver-carter
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-24
+ 
+#473 Carter, Kenneth Seaver [Steve]
+sameas findagrave:194632391
+birth 1916-07-07 @ US/MO/Osceola
+death 1993-12-03 @ US/TX/Houston
+military US Navy @ World War II
+burial Forest Park Cemetery @ US/TX/Houston
+
+---
+ 
+!citation findagrave.com @ 2021-03-24
+!url https://www.findagrave.com/memorial/48973396/richard-j.-korte
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-24
+ 
+#474 Korte, Richard J., Sr.
+sameas findagrave:48973396
+birth 1916-01-25
+death 1995-03-27
+burial Pinecrest Memorial Park and Garden Mausoleum @ US/AR/Alexander
+
+---
+ 
+!citation findagrave.com @ 2021-03-25
+!url https://www.findagrave.com/memorial/93325719/walter-vaught
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-25
+ 
+#475 Vaught, Walter W.
+sameas findagrave:93325719
+birth 1905
+death 1948
+burial Tylertown Cemetery @ US/MS/Tylertown
+
+---
+ 
+!citation findagrave.com @ 2021-03-25
+!url https://www.findagrave.com/memorial/146471429/shedrick-green
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-25
+ 
+#476 Green, Shedrick, Jr. [B. B.]
+sameas findagrave:146471429
+birth 1932-01-17
+death 2015-02-22
+burial Edgewood Cemetery @ US/FL/Jacksonville
+
+---
+
+!citation findagrave.com @ 2021-03-25
+!url https://www.findagrave.com/memorial/145894197/george-samuel-sturdivant
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-25
+ 
+#477 Sturdivant, George Samuel
+sameas findagrave:145894197
+birth 1914-08-11
+death 1966-06-22
+burial Dawson County Cemetery @ US/TX/Lamesa
+
+---
+
+!citation findagrave.com @ 2021-03-25
+!url https://www.findagrave.com/memorial/38175039/albert-linder-vincent
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-25
+ 
+#478 Vincent, Albert Linder
+sameas findagrave:38175039
+birth 1906-12-23 @ US/AL/Birmingham
+death 2000-12-14 @ US/TX/Beaumont
+burial Magnolia Cemetery @ US/TX/Beaumont
+
+---
+ 
+!citation findagrave.com @ 2021-03-25
+!url https://www.findagrave.com/memorial/112408301/benjamin-franklin-masters
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-25
+ 
+#479 Masters, Benjamin Franklin
+sameas findagrave:112408301
+birth 1920-09-15 @ US/FL/Immokalee
+death 1983-08-09 @ US/FL/Bradenton
+burial Manasota Memorial Park @ US/FL/Bradenton
+
+---
+
+!citation findagrave.com @ 2021-03-28
+!url https://www.findagrave.com/memorial/35511528/norman-stanley-rynard
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-28
+ 
+#480 Rynard, Norman Stanley
+sameas findagrave:35511528
+birth 1930-02-10 @ US/MN/St. Paul
+death 2002-01-28 @ US/MN/Crosby
+burial Bennettville Cemetery @ US/MN/Aitkin County
+
+---
+ 
+!citation findagrave.com @ 2021-03-28
+!url https://www.findagrave.com/memorial/70701730/chester-frank-hargrove
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-28
+ 
+#481 Hargrove, C. F. [Frank]
+sameas findagrave:70701730
+birth 1916-05-13 @ US/TX
+death 1991-05-18 @ US/TX/Bexar County
+burial Lost Prairie Cemetery @ US/TX/Groesbeck

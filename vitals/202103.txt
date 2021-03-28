@@ -268,3 +268,157 @@ birth 1914-09-02 @ US/MN/Minneapolis
 sameas ssn:407-01-4710
 birth 1917-04-14 @ US/AR/Dardanelle
 death 1997-04-03
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-20
+ 
+#202103_033 Lambert, William Barnett
+birth 1911-10-12 @ US/IN/Howard Park
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-23
+ 
+#202103_034 Pemberton, Clifford Red
+birth 1920-05-16 @ US/TX/Fort Worth
+ 
+---
+ 
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-23
+ 
+#202103_035 Pemberton, Clifford Eugene
+sameas ssn:446-10-1423
+birth 1920-05-16 @ US/TX/Fort Worth
+death 2000-09-04
+
+---
+ 
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-23
+ 
+#202103_036 Steadman, John Francis
+birth 1927-02-14 @ US/MD/Baltimore
+
+---
+ 
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-23
+ 
+#202103_037 Gleason, Dennis Jeremiah
+birth 1915-12-03 @ US/MN/Minneapolis
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-23
+ 
+#202103_038 Ludwig, Robert Lee
+birth 1913-08-08 @ US/CO/Colorado Springs
+
+---
+ 
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-24
+ 
+#202103_039 St. Germain, Real Marcel
+birth 1928-01-31 @ US/MA/Graniteville
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-24
+ 
+#202103_040 Van Slate, Rolland Henry
+birth 1912-10-18 @ US/WI/Merrill
+
+---
+
+!citation US WWII Draft Cards Young Men, 19401-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-24
+ 
+#202103_041 Hirshon, Hal Hugh
+birth 1916-01-11 @ US/NY/New York
+ 
+---
+ 
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-24
+ 
+#202103_042 Hirshon, Harold Hugh
+sameas ssn:547-12-9683
+birth 1916-01-11 @ US/NY/New York
+death 1979-12
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-24
+ 
+#202103_043 Korte, Richard Joseph
+birth 1916-01-25 @ US/AR/Batesville
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-25
+ 
+#202103_044 Vaught, Walter William
+birth 1905-10-01 @ US/MS/Magnolia
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-25
+ 
+#202103_045 Masters, Benjamin Franklin
+birth 1921-09-15 @ US/FL/Moore Haven
+ 
+---
+ 
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-25
+ 
+#202103_046 Masters, Benjamin
+sameas ssn:431-18-8858
+birth 1920-09-15
+death 1983-08
+
+---
+ 
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-25
+ 
+#202103_047 Wessing, Joseph Charles
+birth 1918-06-04 @ US/LA/New Orleans
+
+---
+ 
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-28
+ 
+#202103_048 Moyer, Robert Raymond
+sameas ssn:202-20-7826
+birth 1925-07-03 @ US/PA/New Ringgold
+death 1997-04-10
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-28
+ 
+#202103_049 Hargrove, Chester Franklin
+birth 1916-05-13 @ US/AR/Lincoln
+
+---
+ 
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-28
+ 
+#202103_050 Hargrove, Chester Franklin
+sameas ssn:555-07-6770
+birth 1916-05-13 @ US/AR/Lincoln
+death 1991-05-18

@@ -1013,3 +1013,325 @@ death 1997-04-03
 college Arkansas Tech University
 military US Navy @ World War II
 
+---
+
+!citation Johnson-Hughes Funeral Home @ 2021-03-20
+!url https://hughesfuneralhomes.com/2021/richard-gordon-lambert/
+!file Lambert_Gordon.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-20
+
+#202103_081 Lambert, Richard Gordon [Gordon]
+birth 1935-03-09 @ US/IL/Marion
+death 2021-03-18 @ US/IL/Marion
+highschool Marion HS @ US/IL/Marion
+college Southern Illinois University
+military US Army
+burial Cana Cemetery @ US/IL/Goreville
+
+---
+ 
+!citation Baxter (AR) Bulletin @ 1989-11-30
+!file Wells_Duke.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-20
+ 
+#202103_082 Wells, John Duke, Sr. [Duke]
+birth @ US/AR/Casco
+death 1989-11-28
+highschool Gurdon HS @ US/AR/Gurdon
+burial Rest Haven Memorial Gardens @ US/AR/Arkadelphia
+
+---
+
+!citation Chico Enterprise-Record @ 2021-03-21
+!url https://www.legacy.com/obituaries/chicoer/obituary.aspx?n=edward-ray-brown&pid=198111792&fhid=7005
+!file Brown_Ed.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-21
+
+#202103_083 Brown, Edward Ray [Ed]
+birth 1954-01-20 @ US/CA/Red Bluff
+death 2021-03-12
+highschool Pleasant Valley HS @ US/CA/Chico
+college Butte College
+
+---
+
+!citation Amigone Funeral Home @ 2021-03-21
+!url https://www.amigone.com/obituaries/Victor-F-Baron?obId=20377073#/obituaryInfo
+!file Baron_Victor.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-21
+
+#202103_084 Baron, Victor F.
+birth 1939-03-12
+death 2021-03-18
+burial Mount Olivet Cemetery @ US/NY/Tonawanda
+
+---
+
+!citation Adonizio Funeral Home @ 2021-03-22
+!url https://www.adoniziofuneralhome.com/post/michael-l-lieback-sr
+!file Lieback_Mike.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-22
+
+#202103_085 Lieback, Michael L., Sr. [Mike]
+birth 1936-09-27 @ US/PA/Pittston
+death 2021-03-18 @ US/PA/Jenkins Township
+highschool Jenkins Township HS @ US/PA/Jenkins Township
+
+---
+
+!citation Westchester Funeral Home @ 2021-03-22
+!url https://www.westchesterfuneralhome.com/memorials/salvatore-chiaramonte/4563895/obituary.php
+!file Chiaramonte_Sal.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-22
+
+#202103_086 Chiaramonte, Salvatore S. [Sal]
+birth 1930-08-19 @ US/NY/Bronx
+death 2021-03-16
+college Fordham University
+military US Air Force @ Korean War
+burial Mount Hope Cemetery @ US/NY/Hastings on Hudson
+
+---
+
+!citation TributeArchive.com @ 2021-03-22
+!url https://www.tributearchive.com/obituaries/20337755/J-Thomas-Webb/Dayton/Ohio/H-H-Roberts-Mortuary-Inc
+!file Webb_Tom.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-22
+
+#202103_087 Webb, John Thomas [Tom]
+birth 1934 @ US/AL/Birmingham
+death 2021-03-13 @ US/OH/Dayton
+highschool Carver HS @ US/AL/Gadsden
+college Alabama A&M University
+
+---
+
+!citation Strode Funeral Home @ 2021-03-22
+!url https://strodefh.com/book-of-memories/4554089/Gile-Donald/index.php
+!file Gile_Don.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-22
+
+#202103_088 Gile, Donald Loren [Don]
+birth 1935-04-19 @ US/CA/Modesto
+death 2021-03-05
+highschool San Mateo HS @ US/CA/San Mateo
+college University of Arizona
+
+---
+
+!citation Fletcher Funeral Home @ 2021-03-22
+!url https://www.fletcherfuneralhome.net/obituary/Vincent-DiLorenzo
+!file DiLorenzo_Vince.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-22
+
+#202103_089 DiLorenzo, Vincent John [Vince]
+birth 1927-04-01
+death 2021-03-20 @ US/MD/Westminster
+highschool Bergenfield HS @ US/NJ/Bergenfield
+college University of North Carolina at Chapel Hill
+
+---
+
+!citation Finger Lakes Times @ 2021-03-24
+!url https://www.legacy.com/obituaries/fltimes/obituary.aspx?n=charles-r-hutchinson&pid=198120574
+!file Hutchinson_Charles.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-23
+
+#202103_090 Hutchinson, Charles R., Sr.
+death 2021-03-19
+military US Army @ Korean War
+burial Greensprings Natural Cemetery Preserve @ US/NY/Newfield
+
+---
+
+!citation R.M. Edgerly & Son @ 2021-03-24
+!url https://www.edgerlyfh.com/obituary/gene-remick
+!file Remick_Gene.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-24
+
+#202103_091 Remick, Gene H.
+birth 1926-12-15 @ US/MA/Newburyport
+death 2021-03-22 @ US/NH/Concord
+military US Navy @ World War II
+
+---
+
+!citation Fey Funeral Home @ 2021-03-24
+!url https://www.feyfuneralhome.com/obituary/Charles-Calcaterra
+!file Calcaterra_Charles.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-24
+
+#202103_092 Calcaterra, Charles A.
+death 2015-03-09
+burial Resurrection Cemetery @ US/MO/St. Louis
+
+---
+
+!citation Selma Funeral Home @ 2021-03-24
+!url https://www.selmafuneralhome.com/obituaries/John-Rhodes-Jr/#!/Obituary
+!file Rhodes_John.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-24
+
+#202103_093 Rhodes, John Oliver, Jr.
+birth 1932-07-11
+death 2015-03-06
+military US Air Force
+burial Pineview Memory Gardens @ US/AL/Valley Grande
+
+---
+ 
+!citation Asbury Park Press @ 1972-09-01
+!file Van Slate_Roland.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-24
+ 
+#202103_094 Van Slate, Roland H.
+birth @ US/WI/Merrill
+death 1972-08-31 @ US/NJ/Neptune
+
+---
+ 
+!citation Los Angeles Times @ 1979-12-25
+!file Hirshon_Hal.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-24
+ 
+#202103_095 Hirshon, Hal
+death 1979-12-24 @ US/CA/Marina del Rey
+college University of California, Los Angeles
+military US Marines @ World War II
+
+---
+
+!citation Wise Funeral Home @ 2021-03-25
+!url https://www.meaningfulfunerals.net/?action=obituaries.obit_view&o_id=2976110&fh_id=12965
+!file Vaught_Harold.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-25
+
+#202103_096 Vaught, William Harold
+birth 1922-06-15 @ US/TX/Fannin County
+death 2015-02-22 @ US/TX/Bonham
+highschool Ladonia HS @ US/TX/Ladonia
+military US Army @ World War II
+burial Willow Wild Cemetery @ US/TX/Bonham
+
+---
+
+!citation Florida Times-Union @ 2015-02-26
+!url https://www.legacy.com/obituaries/timesunion/obituary.aspx?n=Shedrick-Green&pid=174258697
+!file Green_Shedrick.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-25
+
+#202103_097 Green, Shedrick, Jr.
+death 2015-02-22
+military US Army @ Korean War
+burial Edgewood Cemetery @ US/FL/Jacksonville
+
+---
+
+!citation Pittsburgh Post-Gazette @ 2015-02-25
+!url https://www.legacy.com/obituaries/postgazette/obituary.aspx?n=thomas-g-walsh&pid=174248076&fhid=9661&eid=sp_ommatch
+!file Walsh_Tom.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-25
+
+#202103_098 Walsh, Thomas G. [Tom]
+death 2015-02-22
+military US Army @ Korean War
+
+---
+
+!citation Houston Chronicle @ 2015-02-25
+!url https://www.legacy.com/obituaries/houstonchronicle/obituary.aspx?n=Vincent-Clay&pid=174229787
+!file Clay_Russ.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-25
+
+#202103_099 Clay, Vincent Russell
+birth 1924-11-24 @ US/TX/Port Arthur
+death 2015-02-10
+military US Marines @ World War II
+burial Houston National Cemetery @ US/TX/Houston
+
+---
+
+!citation Chiefland Citizen @ 2015-02-23
+!url https://www.legacy.com/obituaries/chieflandcitizen/obituary.aspx?n=Johnny-W-Tallent&pid=174226482
+!file Tallent_Johnny.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-25
+
+#202103_100 Tallent, Johnny W.
+birth 1920-05-18 @ US/NC/Concord
+death 2015-02-22
+military US Navy @ World War II
+
+---
+
+!citation New Orleans Times-Picayune @ 2008-06-07
+!file Wessing_Joseph.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-25
+ 
+#202103_101 Wessing, Joseph Charles
+death 2008-06-04 @ US/LA/Metairie
+highschool Peters HS @ US/LA/New Orleans
+military US Navy @ World War II
+burial Lake Lawn Park Cemetery and Mausoleum @ US/LA/New Orleans
+
+---
+
+!citation Thompson Funeral Homes @ 2021-03-28
+!url https://thompsonsfuneral.com/tribute/details/210302/John-Criminger/obituary.html#tribute-start
+!file Criminger_John.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-28
+
+#202103_102 Criminger, John Stephen
+birth 1969
+death 2021-03-22
+highschool Lancaster HS @ US/SC/Lancaster
+college Newberry College
+college University of South Carolina Aiken
+
+---
+
+!citation Clifford-Shoemaker Funeral Home @ 2021-03-28
+!url https://www.cliffordshoemaker.com/obituary/Richard-Hasler
+!file Hasler_Dick.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-28
+
+#202103_103 Hasler, Richard A. [Dick]
+birth 1929-10-10 @ US/OH/Akron
+death 2021-03-15
+
+---
+
+!citation Detroit Free Press @ 1997-04-13
+!file Moyer_Robert.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-28
+ 
+#202103_104 Moyer, Robert R.
+death 1997-04-10
+
+---
+
+!citation Wichita Eagle @ 2021-03-26
+!url https://www.legacy.com/obituaries/kansas/obituary.aspx?n=richard-sanders-dick&pid=198154561&fhid=4889
+!file Sanders_Dick.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-28
+
+#202103_105 Sanders, Richard [Dick]
+birth 1931-08-17 @ US/KS/Wichita
+death 2021-03-20 @ US/KS/Wichita
+highschool North HS @ US/KS/Wichita
+college Wichita State University
+
+---
+
+!citation Chippewa Valley Cremation Services @ 2021-03-28
+!url https://www.chippewavalleycremation.com/obituaries/Douglas-Doug-Smith?obId=20398644#/celebrationWall
+!file Smith_Doug.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-28
+
+#202103_106 Smith, Douglas H. [Doug]
+birth 1934-03-30 @ US/MA/Lynn
+death 2021-03-21 @ US/WI/Eau Claire
+highschool Classical HS @ US/MA/Lynn
+highschool Manlius Military Academy @ US/NY/Manlius
+college Rutgers University
+military US Army 
+
