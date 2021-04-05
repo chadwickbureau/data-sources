@@ -422,3 +422,102 @@ birth 1916-05-13 @ US/AR/Lincoln
 sameas ssn:555-07-6770
 birth 1916-05-13 @ US/AR/Lincoln
 death 1991-05-18
+
+---
+ 
+!citation Pennsylvania Death Certificates, 1906-1967
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-29
+
+#202103_051 Gaffney, Thomas V., Jr.
+birth 1897-04-10 @ US/PA/Philadelphia
+death 1941-10-23 @ US/PA/Philadelphia
+ 
+---
+ 
+!citation US Veterans Administration Master Index, 1917-1940
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-29
+ 
+#202103_052 Gaffney, Thomas Vincent
+birth 1897-04-10
+death 1941-10-23
+
+---
+ 
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-29
+ 
+#202103_053 Lee, Harold George
+birth 1911-10-07 @ US/MN/Thief River Falls
+ 
+---
+ 
+!citation Minnesota Birth Index, 1900-1934
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-29
+ 
+#202103_054 Lee, Harold George
+birth 1910-10-07 @ US/MN/Red Lake County
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-29
+ 
+#202103_055 Rigby, Lloyd Lester
+birth 1915-03-12 @ US/TX/Centerville
+
+---
+
+!citation New Jersey Death Index, 1901-2017
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-30
+ 
+#202103_056 Brown, James A.
+birth 1929-08-13 @ US/NJ/Parkertown
+death 2015-02-06 @ US/NJ
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-31
+ 
+#202103_057 Savino, George
+birth 1909-07-21 @ US/NJ/Newark
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-31
+ 
+#202103_058 Smith, Charles Vincent
+birth 1916-08-06 @ US/AL/Mobile
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-31
+ 
+#202103_059 Trent, Cecil Alvie
+birth 1911-11-27 @ US/MO/Prosperity
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-31
+ 
+#202103_060 Wieland, Alois James
+birth 1912-04-20 @ US/IA/Des Moines
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-31
+ 
+#202103_061 Hanisko, Alois Michael
+birth 1909-07-25 @ US/IL/Witt
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-31
+ 
+#202103_062 Yelovich, John George
+birth 1908-07-13 @ US/WV/Clarksburg

@@ -1,0 +1,144 @@
+!citation Greene Funeral Home @ 2021-04-01
+!url https://www.greenefuneralhome.net/obituary/billy-gene-hodges/
+!file Hodges_Billy.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-01
+
+#202104_001 Hodges, Billy Gene
+birth 1929-11-02 @ US/OK/Wayne
+death 2021-03-27 @ US/SC/Rock Hill
+highschool Purcell HS @ US/OK/Purcell
+
+---
+
+!citation Johnson Funeral Home @ 2021-04-01
+!url https://www.johnsonfuneralhomeandcrematory.com/obituaries/Charles-W-McGhee?obId=20526615#/obituaryInfo
+!file McGhee_Charles.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-01
+
+#202104_002 McGhee, Charles W.
+death 2021-03-26 @ US/VA/Chancellor
+military US Army @ Korean War
+burial Laurel Hill Memorial Park and Funeral Home @ US/VA/Chancellorsville
+
+---
+ 
+!citation Fort Worth Star-Telegram @ 2001-08-15
+!file Hill_Eldon.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-01
+ 
+#202104_003 Hill, Eldon Dale
+birth 1922-01-20 @ US/TX/Fort Worth
+death 2001-08-12 @ US/TX/Keller
+highschool Northside HS @ US/TX/Fort Worth
+military US Navy @ World War II
+burial Mount Olivet Cemetery @ US/TX/Fort Worth
+
+---
+
+!citation Cumberland Chapels @ 2021-04-02
+!url https://memorials.cumberlandchapels.com/joseph-locallo/4574308/obituary.php?_ga=2.181144943.93895958.1617371595-1109981329.1617371595
+!file Locallo_Joe.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-02
+
+#202104_004 Locallo, Joseph F., Sr. [Joe] "Lefty"
+birth 1924-05-02
+death 2021-03-30 
+highschool Waller HS @ US/IL/Chicago
+burial St. Joseph Cemetery @ US/IL/River Grove
+
+---
+
+!citation Knoxville News Sentinel @ 2021-04-02
+!url https://www.legacy.com/obituaries/knoxnews/obituary.aspx?n=harold-payne-herky&pid=198226427
+!file Payne_Herky.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-02
+
+#202104_005 Payne, Harold [Herky]
+sameas sr-cfb: herky-payne-1
+birth 1929-02-11 @ US/FL/Pensacola
+death 2021-03-30 @ US/TN/Knoxville
+highschool Pensacola HS @ US/FL/Pensacola
+college University of Tennessee
+military US Army @ Korean War
+
+---
+
+!citation Airsman-Hires Funeral Homes @ 2021-04-03
+!url https://www.airsman-hires.com/obituaries/James-R-ODonnell?obId=20597430#/obituaryInfo
+!file ODonnell_Jim.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-03
+
+#202104_006 O'Donnell, James R. [Jim]
+birth 1936-05-26 
+death 2021-04-01 @ US/MO/Branson
+highschool Winchester HS @ US/IL/Winchester
+burial St. Mark's Cemetery @ US/IL/Winchester
+
+---
+
+!citation LastingMemories.com @ 2021-04-03
+!url https://www.lastingmemories.com/memorial/peter-j-schober-jr?obituaries
+!file Schober_Pete.pdf 
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-03
+
+#202104_007 Schober, Peter J., Jr. [Pete]
+birth 1930-09-12 @ US/CA/San Mateo
+death 2021-03-15 
+highschool Richmond HS @ US/CA/Richmond
+military US @ Korean War
+
+---
+
+!citation Caughman-Harman Funeral Home @ 2021-04-03
+!url https://www.dignitymemorial.com/obituaries/lexington-sc/ronald-kasper-10134114
+!file Kasper_Ronald.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-03
+
+#202104_008 Kasper, Ronald J.
+birth 1941-07-23 @ US/PA/Peckville
+death 2021-04-01 @ US/SC/Lexington
+highschool Central HS @ US/PA/Scranton
+burial St. Joseph’s Cemetery @ US/PA/Scott Township
+
+---
+
+!citation Hilliard-Rospert Funeral Home @ 2021-04-04
+!url https://hilliardrospert.com/obituaries/3983/
+!file Fletcher_Dick.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-04
+
+#202104_009 Fletcher, Richard William [Dick]
+birth 1931-12-18 @ US/OH/Canal Fulton
+death 2021-03-24 @ US/FL
+highschool Barberton HS @ US/OH/Barberton
+military US Army
+burial Ohio Western Reserve National Cemetery @ US/OH/Rittman
+
+---
+
+!citation Hansen-Spear Funeral Home @ 2021-04-04
+!url https://www.hansenspear.com/obituary/578547/richard-dick-heitholt/
+!file Heitholt_Dick.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-04
+
+#202104_010 Heitholt, Richard [Dick]
+birth 1927-03-17 @ US/MO/Hannibal
+death 2021-03-30 @ US/IL/Yorkville
+highschool Quincy HS @ US/IL/Quincy
+college Quincy University
+military US Navy @ World War II
+burial Quincy Memorial Park @ US/IL/Quincy
+
+---
+
+!citation Dunkum Funeral Home @ 2021-04-05
+!url https://www.dunkumfuneralhome.com/obituary/Edward-BlandSr
+!file Bland_Dick.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-05
+
+#202104_011 Bland, Edward Bernard, Sr. [Dick]
+birth 1925-10-17 @ US/VA/Varina
+death 2021-03-26 @ US/VA/Buckingham
+military US Navy @ World War II
+burial Buckingham Community Cemetery @ US/VA/Buckingham
+

@@ -5910,3 +5910,233 @@ sameas findagrave:70701730
 birth 1916-05-13 @ US/TX
 death 1991-05-18 @ US/TX/Bexar County
 burial Lost Prairie Cemetery @ US/TX/Groesbeck
+
+---
+
+!citation findagrave.com @ 2021-03-29
+!url https://www.findagrave.com/memorial/208817636/thomas-vincent-gaffney
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-29
+ 
+#482 Gaffney, Thomas Vincent, Jr. [Shanty]
+sameas findagrave:208817636
+birth 1901-04-10 @ US/PA
+death 1941-10-23 @ US/PA/Philadelphia
+burial Holy Sepulchre Cemetery @ US/PA/Cheltenham
+
+---
+
+!citation findagrave.com @ 2021-03-29
+!url https://www.findagrave.com/memorial/43746032/harold-g-lee
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-29
+ 
+#483 Lee, Harold G.
+sameas findagrave:43746032
+birth 1910-10-07 @ US/MN
+death 1977-10-15 @ US/WA/Bremerton
+burial Ivy Green Cemetery @ US/WA/Bremerton
+
+---
+
+!citation findagrave.com @ 2021-03-29
+!url https://www.findagrave.com/memorial/73986479/roy-louis-mort
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-29
+ 
+#484 Mort, Roy Louis
+sameas findagrave:73986479
+birth 1914-10-14
+death 1994-03-07
+military US Army @ World War II
+burial Golden Gate National Cemetery @ US/CA/San Bruno
+
+---
+
+!citation findagrave.com @ 2021-03-29
+!url https://www.findagrave.com/memorial/106119404/john-pintar
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-29
+ 
+#485 Pintar, John
+sameas findagrave:106119404
+birth 1913-08-06
+death 2002-10-29
+burial Our Mother of Sorrows Cemetery @ US/NV/Reno
+
+---
+ 
+!citation findagrave.com @ 2021-03-29
+!url https://www.findagrave.com/memorial/30039826/lloyd-l.-rigby
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-29
+ 
+#486 Rigby, Lloyd L., Jr.
+sameas findagrave:30039826
+birth 1915-03-12
+death 1998-06-21
+burial Trinity Cemetery @ US/TX/Wilmer
+
+---
+ 
+!citation findagrave.com @ 2021-03-30
+!url https://www.findagrave.com/memorial/159477645/james-a-brown
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-30
+ 
+#487 Brown, James A.
+sameas findagrave:159477645
+birth 1929 @ US/NJ/Parkertown
+death 2015-02-06 @ US/NJ/Parkertown
+burial Barnegat Memorial Cemetery @ US/NJ/Barnegat
+
+---
+ 
+!citation findagrave.com @ 2021-03-31
+!url https://www.findagrave.com/memorial/116075140/charles-v-smith
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-31
+ 
+#488 Smith, Charles V., Sr.
+sameas findagrave:116075140
+birth 1916-08-06 @ US/AL/Mobile County
+death 2005-06-15 @ US/AL/Mobile
+burial Magnolia Cemetery @ US/AL/Mobile
+
+---
+ 
+!citation findagrave.com @ 2021-03-31
+!url https://www.findagrave.com/memorial/107274221/cecil-a-trent
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-31
+ 
+#489 Trent, Cecil A.
+sameas findagrave:107274221
+birth 1911-11-27
+death 1978-06-12 @ US/MO/Carthage
+burial Park Cemetery @ US/MO/Carthage
+
+---
+ 
+!citation findagrave.com @ 2021-03-31
+!url https://www.findagrave.com/memorial/36122690/alois-j-wieland
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-31
+ 
+#490 Wieland, Alois J.
+sameas findagrave:36122690
+birth 1912-04-20 @ US/IA/Des Moines
+death 1988-02-05 @ US/CO
+burial Fort Logan National Cemetery @ US/CO/Denver
+
+---
+ 
+!citation findagrave.com @ 2021-03-31
+!url https://www.findagrave.com/memorial/95133186/alios-m.-hanisko
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-31
+ 
+#491 Hanisko, Alios M.
+sameas findagrave:95133186
+birth 1909-07-25
+death 1976-09-06
+burial St. Barbara Cemetery @ US/IL/Witt
+
+---
+ 
+!citation findagrave.com @ 2021-03-31
+!url https://www.findagrave.com/memorial/72158057/john-yelovich
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-31
+ 
+#492 Yelovich, John
+sameas findagrave:72158057
+birth 1908-07-13
+death 1994-02-24
+burial Green Hills Memorial Park @ US/CA/Rancho Palos Verdes
+
+---
+
+!citation findagrave.com @ 2021-04-01
+!url https://www.findagrave.com/memorial/73230422/loy-lindsey-bobo
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-01
+ 
+#493 Bobo, Loy Lindsey
+sameas findagrave:73230422
+birth 1902-05-28 @ US/AL/Hodges
+death 1966-06-16 @ US/TN/Lawrence County
+military US Navy @ World War II
+burial Skelton Cemetery @ US/TN/Lewis County
+
+---
+
+!citation findagrave.com @ 2021-04-01
+!url https://www.findagrave.com/memorial/111146890/edward-richard-greer
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-01
+ 
+#494 Greer, Edward Richard [Ed] "Bear Tracks"
+sameas findagrave:111146890
+birth 1901-04-04 @ US/VA/Grant
+death 1955-04-11 @ US/CO/Pueblo
+burial Roselawn Cemetery @ US/CO/Pueblo
+
+---
+ 
+!citation findagrave.com @ 2021-04-01
+!url https://www.findagrave.com/memorial/163472371/wilburn-ward-hightower
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-01
+ 
+#495 Hightower, Wilburn Ward
+sameas findagrave:163472371
+birth 1915-12-28 @ US/TX/Millsap
+death 1979-04-06 @ US/TX/Houston
+burial Cedar Lawn Haven of Rest @ US/TX/West Columbia
+
+---
+
+!citation findagrave.com @ 2021-04-01
+!url https://www.findagrave.com/memorial/112005099/eldon-dale-hill
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-01
+ 
+#496 Hill, Eldon Dale
+sameas findagrave:112005099
+birth 1922-01-20
+death 2001-08-12
+burial Mount Olivet Cemetery @ US/TX/Fort Worth
+
+---
+
+!citation findagrave.com @ 2021-04-01
+!url https://www.findagrave.com/memorial/31449908/harold-ashley-hillin
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-01
+ 
+#497 Hillin, Harold Ashley
+sameas findagrave:31449908
+birth 1902-09-07 @ US/TX/Mount Calm
+death 1978-07-02 @ US/TX/Hubbard
+burial Mount Calm Cemetery @ US/TX/Mount Calm
+
+---
+
+!citation findagrave.com @ 2021-04-01
+!url https://www.findagrave.com/memorial/137913739/wyman-w-hunnicutt
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-01
+ 
+#498 Hunnicutt, Wyman W., Jr.
+sameas findagrave:137913739
+birth 1920
+death 1973
+burial Greenwood Memorial Park and Mausoleum @ US/TX/Fort Worth
+
+---
+
+!citation findagrave.com @ 2021-04-01
+!url https://www.findagrave.com/memorial/54308937/carl-julius-kott
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-01
+ 
+#499 Kott, Carl Julius
+sameas findagrave:54308937
+birth 1908-01-24 @ US/TX
+death 1962-09-05 @ US/TX/Fredericksburg
+burial Greenwood Cemetery @ US/TX/Fredericksburg
+
+---
+
+!citation findagrave.com @ 2021-04-03
+!url https://www.findagrave.com/memorial/114609154/raymond-garfield-corl
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-03
+ 
+#500 Corl, Raymond Garfield
+sameas findagrave:114609154
+birth 1906-12-10 @ US/WV/Parkersburg
+death 1973-06-18 @ US/IL/Edwardsville
+burial Woodlawn Cemetery @ US/IL/Edwardsville

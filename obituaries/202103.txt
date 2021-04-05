@@ -1335,3 +1335,123 @@ highschool Manlius Military Academy @ US/NY/Manlius
 college Rutgers University
 military US Army 
 
+---
+
+!citation Brown Funeral Home @ 2021-03-29
+!url https://www.brownfuneralhomeswv.com/memorials/gilbert-miller/4569127/obituary.php
+!file Miller_Gib.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-29
+
+#202103_107 Miller, Gilbert Benton, Sr. [Gib]
+birth 1926-06-14 @ US/WV/Kearneysville
+death 2021-03-24 @ US/WV/Martinsburg
+college Shepherd College
+
+---
+
+!citation Yazoo Herald @ 2021-03-22
+!url https://www.yazooherald.net/most-recent-obituaries/david-waters#sthash.msd0agrY.dpbs
+!file Waters_Dave.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-29
+
+#202103_108 Waters, David A. [Dave]
+death 2021-03-19
+highschool Benton HS @ US/MS/Benton
+military US Army @ Korean War
+burial Bethlehem Baptist Church Cemetery @ US/MS/Benton
+
+---
+
+!citation Coxe & Graziano Funeral Home @ 2021-03-29
+!url https://www.tributearchive.com/obituaries/20477751/John-A-Squillace
+!file Squillace_John.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-29
+
+#202103_109 Squillace, John A.
+birth 1931-06-23 @ US/CT/Greenwich
+death 2021-03-25
+highschool Greenwich HS @ US/CT/Greenwich
+military US Navy @ Korean War
+burial St. Mary's Cemetery @ US/CT/Greenwich
+
+---
+
+!citation Record/Herald News @ 2015-02-21
+!url https://www.legacy.com/obituaries/northjersey/obituary.aspx?n=Albert-Day&pid=174210091
+!file Day_Albert.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-29
+
+#202103_110 Day, Albert Theo
+birth 1928-05-06 @ US/NJ/Paterson
+death 2015-02-15
+military US Navy
+
+---
+
+!citation Bittles & Hurt Funeral Home @ 2021-03-29
+!url https://www.dignitymemorial.com/obituaries/greencastle-in/walter-nash-6325745
+!file Nash_Gene.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-29
+
+#202103_111 Nash, Walter Gene
+birth 1932-02-15
+death 2015-02-14 @ US/IN/Danville
+highschool Arsenal Technical HS @ US/IN/Indianapolis
+military US Navy @ Korean War
+
+---
+ 
+!citation Seattle Daily Times @ 1977-10-18
+!file Lee_Hal.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-29
+ 
+#202103_112 Lee, Hal
+death 1977-10-15 @ US/WA/Bremerton
+college University of Washington
+
+---
+
+!citation Citizens Voice @ 2021-03-30
+!url https://www.legacy.com/us/obituaries/citizensvoice/name/john-j-blattner-obituary?n=john-j-blattner&pid=198176484&fhid=16538
+!file Blattner_John.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-30
+
+#202103_113 Blattner, John J.
+birth 1936-12-30 @ US/PA/Dupont
+death 2021-03-25 @ US/PA/Wilkes-Barre
+highschool Central Catholic HS @ US/PA/Pittston
+military US Army
+burial St. Rocco's Cemetery @ US/PA/Pittston
+
+---
+ 
+!citation Beach Haven Times @ 2015-02-12
+!file https://www.legacy.com/obituaries/app/obituary.aspx?n=james-a-brown&pid=174112610&fhid=31272
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-30
+ 
+#202103_114 Brown, James A.
+birth @ US/NJ/Parkertown
+death 2015-02-06 @ US/NJ/Barnegat
+
+---
+
+!citation Ortmann Funeral Home @ 2021-03-31
+!url https://www.osfuneralhomes.com/obituary/joseph-cunningham-jr
+!file Cunningham_Joe.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-31
+
+#202103_115 Cunningham, Joseph R., Jr. [Joe]
+birth 1931-08-27
+death 2021-03-25
+military US Army @ Korean War
+burial Jefferson Barracks National Cemetery @ US/MO/Lemay
+
+---
+ 
+!citation Passaic (NJ) Herald-News @ 1968-08-12
+!file Savino_George.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-31
+ 
+#202103_116 Savino, George
+birth @ US/NJ/Newark
+death 1968-08-10 @ US/NJ/Nutley

@@ -1,6 +1,14 @@
-!citation St. Louis Globe-Democrat 1940-09-05; page 30
+!citation St. Louis Globe-Democrat @ 1940-09-05; page 30
  
 #202103_001 Goldak, Johnny
 highschool McKinley HS @ US/MO/St. Louis
 college Northwestern University
 player 1940 Springfield (Illinois-Indiana-Iowa); @P
+
+---
+
+!citation Detroit Free Press @ 1979-04-04; page 15
+!file Moyer_Bob.pdf
+
+#202103_002 Moyer, Bobby
+umpire 1979 American
