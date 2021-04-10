@@ -142,3 +142,190 @@ death 2021-03-26 @ US/VA/Buckingham
 military US Navy @ World War II
 burial Buckingham Community Cemetery @ US/VA/Buckingham
 
+---
+
+!citation Donohue Funeral Home @ 2021-04-05
+!url https://www.donohuefuneralhome.com/obituary/Charles-Schilling
+!file Schilling_Chuck.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-05
+
+#202104_012 Schilling, Charles Thomas [Chuck]
+birth 1937-10-25 @ US/NY/Brooklyn
+death 2021-03-30
+highschool St. Mary's HS @ US/NY/Manhasset
+college Manhattan College
+burial St. Francis-in-the-Fields Episcopal Cemetery @ US/PA/Sugartown
+
+---
+
+!citation Daily Republic @ 2021-04-05
+!url https://www.dailyrepublic.com/all-dr-news/obituaries/edward-biggs-sr/
+!file Biggs_Ed.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-05
+
+#202104_013 Biggs, Edward F., Sr. [Ed]
+birth 1930-11-29 @ US/AR/Greenbrier
+death 2021-03-08 @ US/CA/Fairfield
+highschool El Cerrito HS @ US/CA/El Cerrito
+
+---
+
+!citation Dayton Herald @ 1944-05-11
+!file Frost_Jack.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-05
+ 
+#202104_014 Frost, James R. [Jack]
+birth @ US/OH/Peebles
+death 1944-05-10 @ US/OH/Dayton
+burial Green Lawn Cemetery @ US/OH/Columbus
+
+---
+
+!citation Chapel Hill Funeral Home @ 2021-04-06
+!url https://www.dignitymemorial.com/obituaries/kansas-city-ks/albert-l-rolls-6298305
+!file Rolls_Albert.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-06
+
+#202104_015 Rolls, Albert Lamont
+birth 1942-11-24 @ US/OH/Youngstown
+death 2015-01-27 @ US/MO/Kansas City
+military US Army @ Vietnam War
+burial Leavenworth National Cemetery @ US/KS/Leavenworth
+
+---
+ 
+!citation Boston Globe @ 1947-07-01
+!file Fleming_Frank.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-06
+ 
+#202104_016 Fleming, Francis F.
+death 1947-07-05 @ US/MA/Cochituate
+burial St. Joseph Cemetery @ US/MA/West Roxbury
+
+---
+
+!citation Sacramento Bee @ 1998-04-27
+!file Allison_George.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-06
+ 
+#202104_017 Allison, George "Cowboy"
+birth 1917-11-11 @ US/OR/Baker
+death 1998-04-25 @ US/CA/Sacramento
+highschool Sacramento HS @ US/CA/Sacramento
+military US Army @ World War II
+
+---
+ 
+!citation Honolulu Star-Bulletin @ 2009-01-08
+!file Azevedo_William.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-06
+ 
+#202104_018 Azevedo, William Bettencourt
+birth @ US/HI/Honolulu
+death 2008-12-29 @ US/HI/Honolulu
+burial Hawaiian Memorial Park @ US/HI/Kaneohe
+
+---
+ 
+!citation Jersey Journal @ 1981-02-16
+!file Babich_George_M.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-06
+ 
+#202104_019 Babich, George
+death 1981-02-14 @ US/NJ/Bayonne
+highschool Bayonne HS @ US/NJ/Bayonne
+college Fordham University
+military US Navy @ World War II
+burial Heart of Jesus Cemetery @ US/NY/Graniteville
+
+---
+
+!citation South Bend Tribune @ 2021-04-07
+!url https://www.legacy.com/obituaries/southbendtribune/obituary.aspx?n=ronald-g-sissel&pid=198275399&fhid=8854
+!file Sissel_Ron.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-07
+
+#202104_020 Sissel, Ronald G. [Ron]
+birth 1964-01-18 @ US/IN/Plymouth
+death 2021-04-03 @ US/IN/Plymouth
+highschool Plymouth HS @ US/IN/Plymouth
+college Taft College
+college Anderson University @ US/IN/Anderson
+
+---
+
+!citation Nordgren Memorial Chapel @ 2021-04-07
+!url https://nordgrenmemorialchapel.com/Obituaries.html
+!file McLaughlin_James.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-07
+
+#202104_021 McLaughlin, James T., Jr. [Jim]
+birth @ US/MA/Clinton
+death 2015-01-25 @ US/MA/Worcester
+highschool Clinton HS @ US/MA/Clinton
+military US Navy
+burial Worcester County Memorial Park @ US/MA/Paxton
+
+---
+
+!citation DignityMemorial.Com @ 2021-04-07
+!url http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Robert-Johnson&lc=9900&pid=173966231&uuid=f4fbcfe8-6190-435b-b354-d3daf9bd877a&eid=sp_ommatch
+!file Johnson_Robert.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-07
+
+#202104_022 Johnson, Robert Paul [Bob]
+birth 1917-09-06 @ US/WV/Diamond
+death 2015-01-23
+military US Navy @ World War II
+burial Cunningham Memorial Park @ US/WV/St. Albans
+
+---
+
+!citation Villages-News.com @ 2015-01-19
+!url https://www.villages-news.com/2015/01/19/edward-thayer-blackie-bellis-ii/
+!file Bellis_Blackie.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-07
+
+#202104_023 Bellis, Edward Thayer, Jr. [Blackie]
+birth @ US/AL/Tishabee
+death 2015-01-17
+college University of Alabama
+military US Navy @ World War II
+
+---
+
+!citation Behm Funeral Homes @ 2021-04-08
+!url https://www.dignitymemorial.com/obituaries/jefferson-pa/stanley-majesky-10140571
+!file Majesky_Stan.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-08
+
+#202104_024 Majesky, Stanley W. [Stan]
+birth 1939-02-21 @ US/PA/Beallsville
+death 2021-04-06 @ US/PA/Upper St. Clair
+college Waynesburg University
+military US Army
+
+---
+
+!citation Seark Today @ 2014-09-10
+!url https://searktoday.com/jesse-harrison/
+!file Harrison_Jesse.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-08
+
+#202104_025 Harrison, Jesse
+birth 1919-12-04 @ US/AR/Fordyce
+death 2014-09-10
+highschool Crossett HS @ US/AR/Crossett
+military US Navy @ World War II
+burial Pinewood Memorial Park @ US/AR/Crossett
+
+---
+
+!citation Smits Funeral Home @ 2021-04-09
+!url https://www.smitsfh.com/obituary/william-bryk
+!file Bryk_Bill.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-09
+
+#202104_026 Bryk, William E. [Bill]
+birth 1951-01-18
+death 2021-04-06

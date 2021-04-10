@@ -29,3 +29,132 @@ death 1973-01-05 @ US/TX/Fort Worth
 #202104_004 Hunnicutt, Wyman Walkup, Jr.
 birth 1920-09-02 @ US/TX/Fort Worth
 
+---
+ 
+!citation US WWII Draft Registration Cards, 1942
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-05
+ 
+#202104_005 Frost, James Ray
+birth 1891-04-05 @ US/OH/Peebles
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-06
+ 
+#202104_006 Fleming, Francis Fredrick
+birth 1911-05-01 @ US/MA/Brookline
+ 
+---
+ 
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-06
+ 
+#202104_007 Balser, Leon Joseph
+birth 1918-08-21 @ US/PA/Ehrenfeld
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-06
+ 
+#202104_008 Andersen, Arnold Emanuel
+birth 1906-03-27 @ US/IL/Chicago
+ 
+---
+ 
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-06
+ 
+#202104_009 Andersen, Arnold E.
+sameas ssn:342-07-6308
+birth 1906-03-27
+death 1989-02
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-06
+ 
+#202104_010 Azevedo, William Bettencourt
+birth 1920-01-23 @ US/HI/Honolulu
+address 3272 Lincoln Avenue @ US/HI/Honolulu
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-06
+ 
+#202104_011 Babich, George Michael
+birth 1920-12-03 @ US/NJ/Bayonne
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-06
+ 
+#202104_012 Babich, George Anthony
+birth 1923-12-11 @ US/CA/Sacramento
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-07
+ 
+#202104_013 Baker, Orville Fred
+birth 1910-12-15 @ US/IL/Libertyville
+ 
+---
+ 
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-07
+ 
+#202104_014 Baker, Orville F.
+sameas ssn:331-10-4457
+birth 1910-12-15
+death 1990-03-15
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-07
+ 
+#202104_015 Beilke, Carl Francis
+birth 1912-05-30 @ US/IL/Chicago
+ 
+---
+ 
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-07
+ 
+#202104_016 Beilke, Carl F.
+sameas ssn:291-10-8162
+birth 1912-05-30
+death 2006-04-05
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-07
+ 
+#202104_017 Ramsey, Zack Cleve
+birth 1922-10-05 @ US/AR/Biggers
+ 
+---
+ 
+!citation US Dept of Veterans Affairs BIRLS Death File, 1850-2010
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-07
+ 
+#202104_018 Ramsey, Zack
+sameas ssn:538-05-7375
+birth 1922-10-05
+death 1979-04-13
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-09
+ 
+#202104_019 Pacotti, John Batista
+birth 1916-03-14 @ US/IL/Virden
+ 

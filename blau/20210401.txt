@@ -1,0 +1,117 @@
+!citation Macon Telegraph @ 1920-05-07; page 5
+
+#20210401_001 Knight, Charlie
+player 1916 Macon (South Atlantic)
+signed <=1916-05-07 by Quitman (Dixie)
+
+---
+
+!citation Moultrie Daily Oberserver @ 1916-05-27; page 3
+
+#20210401_002 Gardner, Joe
+player 1916 Moultrie (Dixie)
+
+---
+
+!citation Moultrie Daily Oberserver @ 1916-07-17; page 3
+
+#20210401_003 Williamson
+player 1916 Quitman (Dixie)
+player 1916 Eufaula (Dixie)
+
+---
+
+!citation Moultrie Daily Oberserver @ 1916-06-14; page 3
+
+#20210401_004 Schuyler, Bob
+manager 1916 Moultrie (Dixie)
+notes hired 1916-06-14
+
+#20210401_005 Wienges
+manager 1916 Moultrie (Dixie)
+notes resigned 1916-06-13
+
+---
+
+!citation Moultrie Daily Oberserver @ 1916-05-17; page 3
+
+#20210401_006 Moore, Q.
+player 1916 Quitman (Dixie)
+
+---
+
+!citation Moultrie Daily Oberserver @ 1916-06-22; page 3
+
+#20210401_007 Wheeler, C.
+player 1916 Moultrie (Dixie)
+player 1916 Bainbridge (Dixie)
+released <=1916-06-22 by Moultrie (Dixie) to Bainbridge (Dixie)
+
+---
+
+!citation Moultrie Daily Oberserver @ 1916-07-12; page 3
+
+#20210401_008 Cashion, K.
+player 1916 Moultrie (Dixie); @P TL
+
+#20210401_009 Williamson, Bud
+player 1916 Quitman (Dixie)
+
+---
+
+!citation Houston Post @ 1916-06-11; page 19
+
+#20210401_010 Cherry, Tom
+manager 1916 Nacogdoches (East Texas)
+
+---
+
+!citation Palestine Daily Herald @ 1916-07-14; page 5
+
+#20210401_011 Eggleston, Smokey
+player 1916 Palestine (East Texas); BS
+
+
+---
+
+!citation Jackson Daily News @ 1921-08-08; page 2
+
+#20210401_012 Cheney, Larry
+player 1921 Jackson (Mississippi State)
+player 1921 Terre Haute (I-I-I)
+player <1921 (Cotton States)
+player <1921 (South Atlantic)
+
+---
+
+!citation Tampa Tribune @ 1921-04-03; page 12
+
+#20210401_013 Cheney, Larry
+player 1921 Tampa (Florida State)
+notes former major league pitcher
+
+---
+
+!citation Tampa Tribune @ 1921-05-18; page 12
+
+#20210401_014 Cheney, Larry
+player 1921 Tampa (Florida State)
+player 1921 Charleston (South Atlantic)
+obtained 1921-05-17 by Charleston (South Atlantic) from Tampa (Florida State) for Teske and
+two players to be named later
+
+#20210401_015 Teske
+player 1921 Tampa (Florida State)
+player 1921 Charleston (South Atlantic)
+player 1920 Sanford (Florida State)
+player 1920 Bartow (Florida State)
+
+---
+
+!citation Tampa Tribune @ 1921-05-20; page 12
+
+#20210401_016 Ammons, [Bud]
+player 1921 Tampa (Florida State)
+player 1921 Charleston (South Atlantic)
+obtained 1921-05-17 by Tampa (Florida State) with Teske from Charleston (South Atlantic) 
+for Larry Cheney

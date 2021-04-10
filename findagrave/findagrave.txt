@@ -6140,3 +6140,125 @@ sameas findagrave:114609154
 birth 1906-12-10 @ US/WV/Parkersburg
 death 1973-06-18 @ US/IL/Edwardsville
 burial Woodlawn Cemetery @ US/IL/Edwardsville
+
+---
+
+!citation findagrave.com @ 2021-04-05
+!url https://www.findagrave.com/memorial/14562233/j-r-frost
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-05
+ 
+#501 Frost, J. R. [Jack]
+sameas findagrave:14562233
+birth 1891
+death 1944
+burial Green Lawn Cemetery @ US/OH/Columbus
+
+---
+ 
+!citation findagrave.com @ 2021-04-06
+!url https://www.findagrave.com/memorial/171956740/francis-f.-fleming
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-06
+ 
+#502 Fleming, Francis F.
+sameas findagrave:171956740
+birth 1911
+death 1947
+burial St. Joseph Cemetery @ US/MA/West Roxbury
+
+---
+
+!citation findagrave.com @ 2021-04-06
+!url https://www.findagrave.com/memorial/163415482/leon-j-balser
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-06
+ 
+#503 Balser, Leon J.
+sameas findagrave:163415482
+death 1947-01-11
+burial Calvary Cemetery @ US/OH/Cleveland
+
+---
+ 
+!citation findagrave.com @ 2021-04-06
+!url https://www.findagrave.com/memorial/58967379/george-allison
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-06
+ 
+#504 Allison, George
+sameas findagrave:58967379
+birth 1917-11-11
+death 1998-04-25
+burial East Lawn Memorial Park @ US/CA/Sacramento
+
+---
+ 
+!citation findagrave.com @ 2021-04-06
+!url https://www.findagrave.com/memorial/110188997/george-anthony-babich
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-06
+ 
+#505 Babich, George Anthony
+sameas findagrave:110188997
+birth 1923-12-11
+death 2002-11-29 @ US/CA/Sacramento County
+military US Army @ World War II
+burial St. Mary's Catholic Cemetery and Mausoleum @ US/CA/Sacramento
+
+---
+
+!citation findagrave.com @ 2021-04-07
+!url https://www.findagrave.com/memorial/42687831/emmett-john-altenburg
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-07
+ 
+#506 Altenburg, Emmett John
+sameas findagrave:42687831
+birth 1912-06-02 @ US/IL/Barrington
+death 1990-11-29 @ US/IL/Arlington Heights
+military US @ World War II
+burial Evergreen Cemetery @ US/IL/Barrington
+
+---
+ 
+!citation findagrave.com @ 2021-04-07
+!url https://www.findagrave.com/memorial/197506497/edward-thayer-bellis
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-07
+ 
+#507 Bellis, Edward Thayer, Jr. [Blackie]
+sameas findagrave:197506497
+birth 1923-04-01 @ US/AL/Tishabee
+death 2015-01-17
+burial St. George Episcopal Church Memorial Gardens @ US/FL/Lady Lake
+
+---
+
+!citation findagrave.com @ 2021-04-07
+!url https://www.findagrave.com/memorial/185417379/ray-gilbert-thomas
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-07
+ 
+#508 Thomas, Ray Gilbert, Jr.
+sameas findagrave:185417379
+birth 1932-10-26
+death 2016-04-29
+military US Army @ Korean War
+burial Cape Canaveral National Cemetery @ US/FL/Mims
+
+---
+ 
+!citation findagrave.com @ 2021-04-08
+!url https://www.findagrave.com/memorial/135750824/jesse-harrison
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-08
+ 
+#509 Harrison, Jesse
+sameas findagrave:135750824
+birth 1919-12-04 @ US/AR/Fordyce
+death 2014-09-10 @ US/MO/Wentzville
+burial Pinewood Memorial Park @ US/AR/Crossett
+
+---
+ 
+!citation findagrave.com @ 2021-04-09
+!url https://www.findagrave.com/memorial/35518975/john-b-pacotti
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-09
+ 
+#510 Pacotti, John B.
+sameas findagrave:35518975
+birth 1916-03-14
+death 1992-09-18
+burial Oak Ridge Cemetery @ US/IL/Springfield

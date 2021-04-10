@@ -1,0 +1,92 @@
+!citation Shreveport Journal @ 1916-05-17; page 8
+
+#20210408_001 Love
+player 1915 Talladega (Georgia-Alabama)
+player 1916 Talladega (Georgia-Alabama)
+
+---
+
+!citation Anniston Star @ 1915-05-16; page 8
+
+#20210408_002 Love, Bernie
+player 1915 Talladega (Georgia-Alabama)
+resides 1915@US/AL/Birmingham
+notes broke leg 1915-05-14
+
+---
+
+!citation Anniston Star @ 1916-05-25; page 2
+
+#20210408_003 Sigmon
+player 1916 Anniston (Georgia-Alabama); TL
+
+---
+
+!citation Anniston Star @ 1916-07-06; page 2
+
+#20210408_004 Nunnally, John
+player 1916 Anniston (Georgia-Alabama); @RF
+resides 1916@US/AL/Anniston
+
+---
+
+!citation Anniston Star @ 1916-06-07; page 2
+
+#20210408_005 Cunningham
+player 1916 Anniston (Georgia-Alabama); @P
+player 1914 Selma (Georgia-Alabama)
+
+---
+
+!citation Anniston Star @ 1916-06-21; page 2
+
+#20210408_006 Hawkins
+player 1916 Anniston (Georgia-Alabama); TL
+player 1914 Opelika (Georgia-Alabama)
+
+---
+
+!citation Anniston Star @ 1916-07-23; page 3
+
+#20210408_007 Donaldson, Earl
+player 1916 Rome (Georgia-Alabama)
+
+---
+
+!citation Atlanta Constituion @ 1916-07-06; page 10
+
+#20210408_008 Juul
+player 1916 Newnan (Georgia-Alabama); @P
+player 1916 Mobile (Southern Association)
+
+---
+
+!citation Rome Tribune-News @ 1916-04-25; page 7
+
+#20210408_009 Wiley
+player 1916 Rome (Georgia-Alabama); BR TR
+
+---
+
+!citation Rome Tribune-News @ 1916-05-05; page 5
+
+#20210408_010 Forrest
+player 1916 Rome (Georgia-Alabama); BL TL
+resides 1916@US/OH
+
+---
+
+!citation Rome Tribune-News @ 1916-05-16; page 3
+
+#20210408_011 Werner, George
+player 1916 Rome (Georgia-Alabama)
+
+
+---
+
+!citation Rome Tribune-News @ 1916-05-18; page 5
+
+#20210408_012 South
+player 1916 Rome (Georgia-Alabama); TR
+player 1916 Meridian (Cotton States)
+

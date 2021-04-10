@@ -1,0 +1,811 @@
+!citation The (Scranton) Tribune @ 1925-04-07; page 18
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20210401_001 Daniel, Pete
+describe H71 W175 BR TR
+birth 1901-02-01
+player 1925 Scranton (New York-Pennsylvania)
+player 1924 Marshall (East Texas)
+
+#20210401_002 Drake, H. Leon
+describe H72.5 W175 BL TL
+birth 1902-06-08
+player 1925 Scranton (New York-Pennsylvania)
+player 1924 Scranton (New York-Pennsylvania)
+
+#20210401_003 Duryea, William N.
+describe H71 W175 BL TL
+birth 1902-02-12
+player 1925 Scranton (New York-Pennsylvania)
+player 1924 Scranton (New York-Pennsylvania)
+
+#20210401_004 Humphreys, Charles
+describe H74 W180 BL TR
+birth 1897-04-07
+player 1925 Scranton (New York-Pennsylvania)
+player 1924 Scranton (New York-Pennsylvania)
+
+#20210401_005 Jacoby, Louis
+describe H74 W195 BR TR
+birth 1902-03-26
+player 1925 Scranton (New York-Pennsylvania)
+
+#20210401_006 Morris, Fred
+describe H72 W180 BL TR
+birth 1901-04-05
+player 1925 Scranton (New York-Pennsylvania)
+player 1924 Scranton (New York-Pennsylvania)
+
+#20210401_007 Nolan, James J.
+describe H67 W155 BR TR
+birth 1904-12-24
+player 1925 Scranton (New York-Pennsylvania)
+player 1924 Rochester (International)
+
+#20210401_008 Reece, Bobby
+describe H70 W155 BL TR
+birth 1900-07-22
+player 1925 Scranton (New York-Pennsylvania)
+player 1924 Scranton (New York-Pennsylvania)
+
+#20210401_009 Sullivan, Arthur
+describe H67 W160 BR TR
+birth 1903-02-02
+player 1925 Scranton (New York-Pennsylvania)
+player 1924 Dover (Eastern Shore)
+
+#20210401_010 Thompson, A. W.
+describe H68 W165 BR TR
+birth 1899-03-12
+player 1925 Scranton (New York-Pennsylvania)
+player 1924 Wilson (Virginia)
+
+#20210401_011 Tickey, Edwin P.
+describe H70 W185 BR TR
+birth 1901-01-21
+player 1925 Scranton (New York-Pennsylvania)
+player 1924 Scranton (New York-Pennsylvania)
+
+#20210401_012 Victor, Joe
+describe H71 W185 BR TR
+birth 1898-01-26
+player 1925 Scranton (New York-Pennsylvania)
+player 1924 Oneonta (New York-Pennsylvania)
+
+#20210401_013 Wilson, Herbert E.
+describe H71 W140 BR TR
+birth 1897-07-02
+player 1925 Scranton (New York-Pennsylvania)
+player 1924 Scranton (New York-Pennsylvania)
+
+---
+
+!citation The (Moline) Dispatch @ 1947-05-03; page 10
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20210401_014 Lenzi, Richard
+describe BR TR
+resides 1947 @ US/PA/Norristown
+player 1947 Moline (Central Association)
+
+#20210401_015 Matzer, Ralph
+describe BR TR
+resides 1947 @ US/PA/Wilkes-Barre
+player 1947 Moline (Central Association)
+
+#20210401_016 Peterson, Leonard
+describe BR TR
+resides 1947 @ US/IL/Chicago
+player 1947 Moline (Central Association)
+
+#20210401_017 Zelinsky, Mat
+describe BR TR
+resides 1947 @ US/PA/Curtisville
+player 1947 Moline (Central Association)
+
+---
+
+!citation The Lincoln Star @ 1948-04-18; page 15
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20210401_018 Peloe, Keith
+describe H69 W170 BL TL; age 22
+resides 1948 @ US/OH/Youngstown
+player 1948 Lincoln (Western League)
+player 1947 Niagra Falls (Middle Atlantic)
+
+#20210401_019 Suder, George
+describe H70 W160 BR TR; age 21
+resides 1948 @ US/PA/Aliquippa
+player 1948 Lincoln (Western League)
+player 1947 Federalsburg (Eastern Shore)
+
+---
+
+!citation Asheville Citizen-Times @ 1954-04-18; page 35
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20210401_020 Alberts, Henry DuBois
+describe H70 W180 BR TR; age 24
+resides 1954 @ US/NY/New York City
+player 1954 Asheville (Tri-State)
+player 1953 Hornell (Pennsylvania-Ontario-New York)
+
+#20210401_021 Ballestrini, Richard
+describe H73 W185 BR TR; age 24
+resides 1954 @ US/CT/New London
+player 1954 Asheville (Tri-State)
+player 1953 Newport News (Piedmont)
+
+#20210401_022 Elkins, Bobby Uriah
+describe H72 W180 BL TR; age 20
+resides 1954 @ US/LA/Lillie
+player 1954 Asheville (Tri-State)
+player 1953 Thomasville (Georgia-Florida)
+
+#20210401_023 Klingery, John Anthony
+describe H74 W195 BR TR; age 22
+resides 1954 @ US/NY/New York
+player 1954 Asheville (Tri-State)
+
+#20210401_024 Lopez, Eleuterio [Terry]
+describe H70 W 165 BR TR; age 19
+resides 1954 @ PR/Santurce
+player 1954 Asheville (Tri-State)
+player 1953 Miami (Florida International)
+
+#20210401_025 Marinkovich, Frank Fred
+describe H70 W170 BL TL; age 22
+resides 1954 @ US/CA/San Pedro
+player 1954 Asheville (Tri-State)
+player 1953 Sheboygan (Wisconsin State)
+
+#20210401_026 Shifflett, Harry
+describe H72 W175 BR TR; age 22
+resides 1954 @ US/VA/Harrisonburg
+player 1954 Asheville (Tri-State)
+player 1953 Asheville (Tri-State)
+
+#20210401_027 Sierra, Oscar Ponciano
+describe H72 W182 BR TR; age 27
+resides 1954 @ Cuba/Havana
+player 1954 Asheville (Tri-State)
+player 1953 Miami (Florida International)
+
+#20210401_028 Spears, Jasper Lee
+describe H71 W165 BR TR; age 24
+resides 1954 @ US/SC/Cheraw
+player 1954 Asheville (Tri-State)
+player 1953 Asheville (Tri-State)
+
+#20210401_029 Toole, Robert
+describe H74 W175 BL TL; age 24
+resides 1954 @ US/CA/Pacific Grove
+player 1954 Asheville (Tri-State)
+
+---
+
+!citation The Knoxville Journal @ 1926-04-22; page 8
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20210401_030 Burke, Mike
+describe H74 W185 BR TR; age 32
+player 1926 Knoxville (South Atlantic)
+player 1925 Chattanooga (Southern Association)
+
+#20210401_031 DeLoof, [Dee]
+describe H69 W160 BL TR; age 22
+player 1926 Knoxville (South Atlantic)
+player 1925 Kitchener (Michigan-Ontario)
+
+#20210401_032 Hartline, [Harty]
+describe H70 W165 BR TR; age 28
+player 1926 Knoxville (South Atlantic)
+
+#20210401_033 Henderson, [Hack]
+describe H69 W160 BR TR; age 25
+player 1926 Knoxville (South Atlantic)
+player 1925 Knoxville (South Atlantic)
+
+#20210401_034 Miller, [Lefty]
+describe H73 W180 BL TL; age 20 @P
+player 1926 Knoxville (South Atlantic)
+
+#20210401_035 Sawyer, Phil
+describe H71 W175 BL TR; age 24
+player 1926 Knoxville (South Atlantic)
+player 1925 Knoxville (South Atlantic)
+
+#20210401_036 Walker, [Red]
+describe H67 W175 BL TR; age 24 @P
+player 1926 Knoxville (South Atlantic)
+player 1925 Knoxville (South Atlantic)
+
+#20210401_037 Werber, [Fritz]
+describe H72 W160 BL TR; age 21
+player 1926 Knoxville (South Atlantic)
+player 1925 Dyersburg (Tri-State)
+
+#20210401_038 Turner, [Topsy]
+describe H69 W170 BL TR; age 24 @2B
+player 1926 Knoxville (South Atlantic)
+player 1925 Jackson (Cotton States)
+
+#20210401_039 Hodge, [Shovel]
+describe H69 W175 BR TR; age 23 @P
+player 1926 Knoxville (South Atlantic)
+player 1925 Knoxville (South Atlantic)
+
+#20210401_040 Hensick, Sid
+describe H71 W165 BR TR; age 23 @P
+player 1926 Knoxville (South Atlantic)
+player 1925 Dyersburg (Tri-State)
+player 1925 Memphis (Southern Association)
+
+#20210401_041 Manning, Jim
+describe H73 W170 BR TR; age 23 @P
+player 1926 Knoxville (South Atlantic)
+player 1925 Knoxville (South Atlantic)
+player 1925 Spartanburg (South Atlantic)
+
+---
+
+!citation (Buffalo) Sunday Truth @ 1888-02-05; page 8
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20210401_042 Walsh, M.F.
+describe H67.5 W152
+player 1888 Buffalo (International Association)
+
+#20210401_043 Gibbs, Charles
+describe H68 W147
+player 1888 Buffalo (International Association)
+
+---
+
+!citation The Tennessean @ 1894-03-25; page 2
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20210401_044 Collopy
+describe H59 W162
+player 1894 Nashville (Southern Association)
+
+#20210401_045 Webster
+describe H66 W135
+birth 1870 @ US/MA/Boston
+player 1894 Nashville (Southern Association)
+player 1893 Portland (New England)
+player 1888 Nashua (New England Interstate)
+
+#20210401_046 Lookabaugh
+describe H68 W155
+player 1894 Nashville (Southern Association)
+player 1893 Stockton (California)
+player 1892 San Jose (California)
+player 1891 San Jose (California)
+
+---
+
+!citation The Knoxville Journal @ 1933-03-30; page 7
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20210401_047 Tangeman, Dick
+describe H70.5 W160 BL TL; age 29
+resides 1933 @ US/OH/Dayton
+player 1933 Knoxville (Southern Association)
+player 1932 Memphis (Southern Association)
+player 1932 Williamsport (New York-Pennsylvania)
+player 1932 Binghamton (New York-Pennsylvania)
+player 1931 Williamsport (New York-Pennsylvania)
+player 1930 Bloomington (Illinois-Indiana-Iowa)
+player 1929 Pensacola (Southeastern)
+player 1928 Pensacola (Southeastern)
+player 1927 Pensacola (Southeastern)
+player 1927 Memphis (Southern Association)
+player 1926 Knoxville (South Atlantic)
+player 1925 Knoxville (South Atlantic)
+player 1925 Greeneville (Appalachian)
+
+#20210401_048 Thomas, Sam
+describe H68 W165 BL TR; age 24
+resides 1933 @ US/PA/Port Kennedy
+college University of Pennsylvania
+player 1933 Knoxville (Southern Association)
+player 1932 Johnstown (Middle Atlantic)
+player 1931 Hartford (Eastern)
+player 1931 Johnstown (Middle Atlantic)
+player 1930 Johnstown (Middle Atlantic)
+player 1929 Johnstown (Middle Atlantic)
+player 1928 Johnstown (Middle Atlantic)
+
+---
+
+!citation (Jackson) Clarion-Ledger @ 1925-03-26; page 9
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20210401_049 Patterson
+describe TR; @P
+college Mississippi A&M
+player 1925 Hattiesburg (Cotton States)
+player 1924 (Florida State)
+player 1923 (Florida State)
+player 1922 Laurel (Cotton States)
+
+#20210401_050 Austin, Kinard
+college Mississippi A&M
+player 1925 Hattiesburg (Cotton States)
+player 1924 Hattiesburg (Cotton States)
+
+---
+
+!citation Cumberland Evening Times @ 1931-04-17; page 11
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20210401_051 Temple, William
+resides 1931 @ US/TN/Knoxville
+player 1931 Cumberland (Middle Atlantic)
+
+---
+
+!citation The (Sunbury) Daily Item @ 1950-12-22; page 17
+!contributor Chuck McGill
+
+#20210401_052 Greco, Joe
+describe H72 W170 TL @P
+player 1950 Ogdensburg (Border)
+
+---
+
+!citation Great Falls Tribune @ 1951-04-23; page 11
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20210401_053 Lopez, Richardo
+describe H70 W160 BR TR; age 18 @P
+resides 1951 @ Cuba/Havana
+player 1951 Billings (Pioneer)
+player 1950 Valdosta (Georgia-Florida); P_W 2 P_L 0
+
+#20210401_054 Barbieri, Fernando
+describe BR TR
+resides 1951 @ US/CA/San Francisco
+player 1951 Billings (Pioneer)
+player 1950 Bisbee-Douglas (Arizona-Texas)
+
+#20210401_055 MacKinnon, Bob
+describe H72 W175 BR TR; age 22
+resides 1951 @ US/NY/Buffalo
+player 1951 Billings (Pioneer)
+player 1950 Trois-Rivieres (Canadian-American)
+
+#20210401_056 Austin, Jack
+describe H71 W185 BR TR; age 24
+resides 1951 @ US/NY/Buffalo
+player 1951 Billings (Pioneer)
+player 1950 Trois-Rivieres (Canadian-American)
+
+#20210401_057 Johnson, Eugene
+describe BR TR
+player 1951 Billings (Pioneer)
+player 1950 Trois-Rivieres (Canadian-American)
+
+---
+
+!citation (Binghamton) Press and Sun-Bulletin @ 1944-05-02; page 17
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20210401_058 Detz, Joseph
+describe H70 W197 BR TR; age 23
+resides 1944 @ US/NY/New York City
+player 1944 Binghamton (Eastern)
+
+#20210401_059 Greenwald, John
+describe BL TL; age 24
+player 1944 Binghamton (Eastern)
+player 1943 Lancaster (Interstate)
+
+#20210401_060 Lukasiuk, Matthew
+describe BR TR; age 17
+player 1944 Binghamton (Eastern)
+
+#20210401_061 Males, Victor
+describe BR TR; age 26
+player 1944 Binghamton (Eastern)
+player 1943 Lancaster (Interstate)
+
+#20210401_062 McQuillen, Joseph
+describe BR TR; age 24
+player 1944 Binghamton (Eastern)
+player 1943 Lancaster (Interstate)
+
+#20210401_063 Pace, Peter
+describe BR TR; age 20
+player 1944 Binghamton (Eastern)
+
+#20210401_064 Pfenning, Theodore
+describe BB TL; age 28
+player 1944 Binghamton (Eastern)
+player 1943 Wellsville (Pennsylvania-Ontario-New York)
+
+#20210401_065 Porter, Harvey
+describe BR TR; age 21
+player 1944 Binghamton (Eastern)
+player 1943 Binghamton (Eastern)
+
+---
+
+!citation The Decatur Daily Review @ 1955-05-01; page 17
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20210401_066 Childers, Keith
+describe H70 W140 BR TR; age 21
+resides 1955 @ US/MO/St. Genevieve
+player 1955 Decatur (Mississippi Valley)
+
+#20210401_067 Herman, Jim
+describe H70 W190 BR TR; age 19
+resides 1955 @ US/NE/Nebraska City
+player 1955 Decatur (Mississippi Valley)
+
+#20210401_068 Capasso, Joe
+describe H69 W160 BR TR; age 19
+resides 1955 @ US/NY/Brooklyn
+player 1955 Decatur (Mississippi Valley)
+
+#20210401_069 Giavedoni, Frank
+describe H70 W140 BR TR; age 18
+resides 1955 @ CA/ON/Hamilton
+player 1955 Decatur (Mississippi Valley)
+
+#20210401_070 Hood, Jerry
+describe H71 W170 BL TR; age 22
+resides 1955 @ US/DC/Washington
+player 1955 Decatur (Mississippi Valley)
+
+#20210401_071 Jones, Edward
+describe H72 W160 BR TR; age 24
+resides 1955 @ US/PA/Wilkes Barre
+player 1955 Decatur (Mississippi Valley)
+
+#20210401_072 Markle, Louis
+describe H71 W168 BL TR; age 23
+resides 1955 @ US/OH/Smithville
+player 1955 Decatur (Mississippi Valley)
+
+#20210401_073 Phelps, Ray
+describe H74 W192 BR TR; age 20
+resides 1955 @ US/OH/Plain City
+player 1955 Decatur (Mississippi Valley)
+
+#20210401_074 Shannon, John
+describe H69 W155 BL TR; age 22
+resides 1955 @ US/MA/Cambridge
+player 1955 Decatur (Mississippi Valley)
+
+#20210401_075 Skemp, William
+describe H76 W195 BR TR; age 19
+resides 1955 @ US/WI/La Crosse
+player 1955 Decatur (Mississippi Valley)
+
+---
+
+!citation St. Joseph News-Press @ 1947-04-13; page 18
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20210401_076 McNulty, Pat
+describe H71 W175; age 21
+resides 1947 @ US/MI/Detroit
+player 1947 St. Joseph (Western Association)
+
+#20210401_077 Struharik, Bill
+describe H74 W190; age 22
+resides 1947 @ US/MO/St. Louis
+player 1947 St. Joseph (Western Association)
+
+---
+
+!citation Sioux City Journal @ 1938-09-07; page 12
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20210401_078 Cominsky, Frank
+describe H68 W140 BR TR; age 19
+resides 1938 @ US/IL/Chicago
+player 1938 Sioux City (Nebraska State)
+
+#20210401_079 Fellin, Ralph
+describe H69.5 W155 BL TR; age 20
+resides 1938 @ US/IL/Gillespie
+player 1938 Sioux City (Nebraska State)
+
+#20210401_080 McCarron, Bob
+describe H69.5 W160 BR TR; age 20
+resides 1938 @ US/MO/St. Louis
+player 1938 Sioux City (Nebraska State)
+
+#20210401_081 Monahan, Pete
+describe H70.5 W175 BL TL; age 34
+resides 1938 @ US/OH/Cincinnati
+player 1938 Sioux City (Nebraska State)
+
+#20210401_082 Meyer, Kenneth
+describe H71 W155 BR TR; age 19
+resides 1938 @ US/KS/Leavenworth
+player 1938 Sioux City (Nebraska State)
+
+#20210401_083 Russell, Jay
+describe H67 W150 BR TR; age 20
+resides 1938 @ US/WA/Tacoma
+player 1938 Sioux City (Nebraska State)
+
+#20210401_084 Schinski, Johnny
+describe H65 W165 BL TL; age 31
+resides 1938 @ US/CA/San Francisco
+player 1938 Sioux City (Nebraska State)
+
+#20210401_085 White, Doug
+describe H68 W158 BR TR; age 23
+resides 1938 @ US/AR/Fayetteville
+player 1938 Sioux City (Nebraska State)
+
+#20210401_086 Anderson, Floyd
+describe H69.5 W170 BR TR; age 21
+resides 1938 @ US/IA/Fort Dodge
+player 1938 Sioux City (Nebraska State)
+
+#20210401_087 Gibb, Eddie
+describe H72 W180 BR TR; age 19
+resides 1938 @ US/CA/Gardenia
+player 1938 Norfolk (Nebraska State)
+
+#20210401_088 Jacobsen, O.
+describe H74 W185 BR TR; age 22
+resides 1938 @ US/NE/St. Paul
+player 1938 Norfolk (Nebraska State)
+
+#20210401_089 Jacobsen, K.
+describe H74.5 W190 BR TR; age 20
+resides 1938 @ US/NE/St. Paul
+player 1938 Norfolk (Nebraska State)
+
+#20210401_090 Whelan, Fred
+describe H71 W170 BR TR; age 19
+resides 1938 @ US/NE/Stanton
+player 1938 Norfolk (Nebraska State)
+
+#20210401_091 Boyd, Jimmy
+describe H69.5 W170 BL TL; age 18
+resides 1938 @ US/MN/Collegeville
+player 1938 Norfolk (Nebraska State)
+
+#20210401_092 Finders, Wendell
+describe H68 W155 BB TR; age 22
+resides 1938 @ US/IA/Ferguson
+player 1938 Norfolk (Nebraska State)
+
+#20210401_093 Kreevich, John
+describe H70 W165 BR TR; age 20
+resides 1938 @ US/IL/Mount Olive
+player 1938 Norfolk (Nebraska State)
+
+#20210401_094 Sams, Tony
+describe H70.5 W168 BR TR; age 21
+resides 1938 @ US/PA/Washington
+player 1938 Norfolk (Nebraska State)
+
+#20210401_095 Tighe, Ned
+describe H70.5 W165 BL TL; age 19
+resides 1938 @ US/NE/Bancroft
+player 1938 Norfolk (Nebraska State)
+
+#20210401_096 Morgan, William
+describe H70 W170 BR TR; age 19
+resides 1938 @ US/MO/Kansas City
+player 1938 Norfolk (Nebraska State)
+
+---
+
+!citation Elizabethton Star @ 1948-04-11; page 2
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20210401_097 Floro, Elisha L.
+describe H70 W160 BR TR; age 20
+player 1948 Elizabethton (Appalachian)
+
+#20210401_098 Wilkins, William L.
+describe H74 W205 BR TR; age 24
+player 1948 Elizabethton (Appalachian)
+player 1947 Elizabethton (Appalachian)
+
+#20210401_099 Nelson, Charles
+describe H73 W160 BR TR; age 18
+player 1948 Elizabethton (Appalachian)
+
+#20210401_100 Proveromo, Bruno
+describe H69 W160 BR TR; age 20
+player 1948 Elizabethton (Appalachian)
+
+#20210401_101 O'Donnell, John F.
+describe H70 W145 BB TR; age 19
+player 1948 Elizabethton (Appalachian)
+player 1947 Elizabethton (Appalachian)
+
+#20210401_102 Taylor, William N.
+describe H73 W180 BR TR; age 21
+player 1948 Elizabethton (Appalachian)
+player 1947 Elizabethton (Appalachian)
+
+#20210401_103 Kules, Stanley
+describe H71 W180 BR TR; age 23
+player 1948 Elizabethton (Appalachian)
+player 1947 Elizabethton (Appalachian)
+
+#20210401_104 Ruffer, Leonard
+describe H70 W180 BL TL; age 18
+player 1948 Elizabethton (Appalachian)
+
+---
+
+!citation The Jackson Sun @ 1937-05-11; page 8
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20210401_105 Silvers, Charlie
+describe H72 W160 TR; age 22
+resides 1937 @ US/TN/Chattanooga
+player 1937 Jackson (Kentucky-Indiana-Tennessee)
+
+#20210401_106 Smith, Haywood
+describe H71 W165 TR; age 24
+resides 1937 @ US/TN/Memphis
+player 1937 Jackson (Kentucky-Indiana-Tennessee)
+
+#20210401_107 Colyer, Rueall
+describe H75 W175 TR; age 22
+resides 1937 @ US/MO/Bloomfield
+player 1937 Jackson (Kentucky-Indiana-Tennessee)
+
+#20210401_108 Vinson, Woodson
+describe H71 W175 TR; age 18
+resides 1937 @ US/TN/Memphis
+player 1937 Jackson (Kentucky-Indiana-Tennessee)
+
+#20210401_109 Gordon, [Sonny]
+describe H68 W155 TR; age 22
+resides 1937 @ US/AR/Monticello
+player 1937 Jackson (Kentucky-Indiana-Tennessee)
+
+---
+
+!citation The Ogden Standard-Examiner @ 1950-04-26; page 14
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20210401_110 Scheffell, Cecil
+describe H70 W185 BR TR; age 30
+player 1950 Ogden (Pioneer)
+player 1949 Lockport (Pennsylvania-Ontario-New York)
+
+#20210401_111 Hemmel, Larry
+describe H74 W197 BR TR; age 20
+player 1950 (Pioneer)
+player 1949 Las Vegas (Sunset)
+note: age on Las Vegas page says 46. I think the birth year was mistakenly put in as 1903 instead of 1930
+
+#20210401_112 Strader, Bob
+describe H70 W170 BR TR; age 21
+player 1950 Ogden (Pioneer)
+player 1949 Las Vegas (Sunset)
+
+#20210401_113 Padgett, Howard
+describe H73 W170 BR TR; age 19
+player 1950 Ogden (Pioneer)
+player 1949 Lockport (Pennsylvania-Ontario-New York)
+
+#20210401_114 Ralston, Edward
+describe H75 W190 BR TR; age 20
+player 1950 Ogden (Pioneer)
+player 1949 Muncie (Ohio-Indiana)
+
+#20210401_115 Hatton, Eugene
+describe H72 W175 BR TR; age 20
+player 1950 Ogden (Pioneer)
+
+#20210401_116 Melgaard, Ronald
+describe H69 W170 BR TR; age 19
+player 1950 Ogden (Pioneer)
+player 1949 Muncie (Ohio-Indiana)
+
+#20210401_117 Harrison, Ronald
+describe H74 W195 BR TR; age 18
+player 1950 Ogden (Pioneer)
+player 1949 Tyler (East Texas)
+
+#20210401_118 Foster, Lloyd
+describe H72 W190 BR TR; age 22
+player 1950 Ogden (Pioneer)
+player 1949 Rockford (Central Association)
+
+---
+
+!citation The Ogden Standard-Examiner @ 1950-04-15; page 30
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20210401_119 Ius, Herman
+describe H73 W180 BR TR; age 20
+player 1950 idaho Falls (Pioneer)
+
+#20210401_120 McNamara, Jim
+describe H69 W165 BR TR; age 20
+player 1950 Idaho Falls (Pioneer)
+
+---
+
+!citation The Montgomery Advertiser @ 1950-04-20; page 30
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20210401_121 McWorter, Mack
+describe H73 W160 BR TR; age 28
+resides 1950 @ US/AL/Montgomery
+player 1950 Montgomery (Southeastern)
+player 1949 Pensacola (Southeastern)
+
+---
+
+!citation The Oshkosh Northwestern @ 1942-05-13; page 17
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20210401_122 Prpish, Paul
+describe H68 W160 BL TR
+birth 1923-10-19
+player 1942 Oshkosh (Wosconsin State)
+player 1941 Janesville (Wisconsin State)
+
+#20210401_123 Erickson, Vernon
+describe H68 W158 BL TR
+player 1942 Oshkosh (Wisconsin State)
+player 1941 Oshkosh (Wisconsin State)
+
+#20210401_124 Johnson, Del
+describe H68 W170 BR TR
+player 1942 Oshkosh (Wisconsin State)
+player 1941 Oshkosh (Wisconsin State)
+
+#20210401_125 Walterm Roland
+describe H71 W180 BR TR
+player 1942 Oshkosh (Wisconsin State)
+
+#20210401_126 Higgins, Thomas
+describe H72 W170 BL TR
+birth 1921-06-01
+player 1942 Oshkosh (Wisconsin State)
+player 1941 Flint (Michigan State)
+
+#20210401_127 Curtis, Elwood
+describe H70.5 W164 BR TR
+birth 1921-02-12
+player 1942 Oshkosh (Wisconsin State)
+
+#20210401_128 McGreal, James D.
+describe H70 W170 BR TR
+player 1942 Oshkosh (Wisconsin State)
+
+#20210401_129 Kraus, George C.
+describe H73.5 W185 BR TR
+birth 1921-04-11
+player 1942 Oshkosh (Wisconsin State)
+player 1941 Findlay (Ohio State)
+
+#20210401_130 Schuhart, William H.
+describe H72 W185 BL TL
+birth 1918-09-04
+player 1942 Oshkosh (Wisconsin State)
+
+---
+
+!citation The Times Dispatch @ 1947-08-18; page 13
+!contributor Chuck McGill <cmcgill.vt@gmail.com>
+
+#20210401_131 Donovan, William
+college University of North Carolina
+player 1947 Amsterdam (Canadian-American)
+player 1947 Sunbury (Interstate)
+player 1947 Norfolk (Piedmont)
+player 1947 Binghamton (Eastern)
+

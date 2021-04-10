@@ -1,0 +1,76 @@
+!citation Orlando Sentinel @ 1920-04-28; page 10
+
+#20210325_001 Black, Jim
+player 1920 Orlando (Florida State); TR
+manager 1920 Orlando (Florida State)
+
+#20210325_002 Sweetering, Herman
+player 1920 Orlando (Florida State); TR
+
+#20210325_003 Nichols, Claude
+player 1920 Orlando (Florida State); TR
+
+#20210325_004 Strenk
+player 1920 Orlando (Florida State); TR
+
+#20210325_005 Fletcher
+player 1920 Orlando (Florida State); TR
+
+---
+
+!citation Montgomery Advertiser @ 1916-05-17; page 11
+
+#20210325_006 Cordell, Al
+player 1916 Bainbridge (Dixie)
+resides 1916@US/GA/Bainbridge
+
+---
+
+!citation Atlanta Constitution @ 1916-05-24; page 14
+
+#20210325_007 Rose, Lefty
+player 1916 Bainbridge (Dixie); TL
+
+---
+
+!citation Montgomery Advertiser @ 1916-05-23; page 11
+
+#20210325_008 Sandifer, Blondie
+player 1916 Bainbridge (Dixie)
+
+---
+
+!citation Dothan Eagle @ 1917-05-04; page 1
+
+#20210325_009 Bonifay
+player 1917 Dothan (Dixie); TL
+
+---
+
+!citation Montgomery Advertiser @ 1916-06-03; page 7
+
+#20210325_010 Vaughan, Jimmy
+player 1916 Montgomery (South Atlantic)
+released 1916-06-02 by Montgomery (South Atlantic)
+
+---
+
+!citation Dothan Eagle @ 1916-05-04; page 1
+
+#20210325_011 Kuhlman, W. F.
+manager 1916 Valdosta (Dixie)
+
+---
+
+!citation Brunswick News @ 1916-06-25; page 14
+
+#20210325_012 Levison, Milton
+player 1916 Quitman (Dixie)
+
+---
+
+!citation Sporting News @ 1916-09-28; page 4
+
+#20210325_013 Rose, Frank
+player 1916 Bainbridge (Dixie)
+player 1916 Albany (South Atlantic)
