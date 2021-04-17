@@ -3,8 +3,7 @@
 !file McCormick_Joe.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-03-10
 
-#profile McCormick, Joseph E. [Joe]
-key 200304_McCormick
+#200304_001 McCormick, Joseph E. [Joe]
 birth 1934-05-08 @ US/IL/Cairo
 death 2003-04-18 @ US/IL/Springfield
 military US Army

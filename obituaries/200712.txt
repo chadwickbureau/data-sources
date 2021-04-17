@@ -3,8 +3,7 @@
 !file Rennicke_John.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-03-13
 
-#profile Rennicke, John William
-key 200712_Rennicke
+#200712_001 Rennicke, John William
 sameas sr_nba:rennijo01
 birth 1929-08-11 @ US/IL/Aurora
 death 2007-12-09 @ US/MN/Perham

@@ -3,8 +3,7 @@
 !file Davis_Hank.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-03-10
 
-#profile Davis, Henry Clark [Hank]
-key 200208_Davis
+#200208_001 Davis, Henry Clark [Hank]
 birth 1924-02-20 @ US/NC/Greenville 
 death 2002-08-13
 highschool Charles L. Coon HS @ US/NC/Wilson

@@ -3,8 +3,7 @@
 !file Wiley_Gary.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-07-20
 
-#profile Wiley, Gary R.
-key 200402_Wiley
+#200402_001 Wiley, Gary R.
 birth 1936-02-20 @ US/IA/Louisa County
 death 2004-02-18 @ US/IL/Peoria
 highschool Morning Sun HS @ US/IA/Morning Sun

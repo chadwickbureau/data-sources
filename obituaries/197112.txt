@@ -2,6 +2,5 @@
 !file Jack_Zelman.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-11-30
 
-#profile Jack, Zelman
-key 197112_Jack
+#197112_001 Jack, Zelman
 death 1971-12-23 @ MX/Sinaloa/Guasave

@@ -3,8 +3,7 @@
 !file McLeod_Gar.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-11-30
 
-#profile McLeod, Garland Earl [Gar]
-key 200502_McLeod
+#200502_001 McLeod, Garland Earl [Gar]
 birth 1935-05-07 @ US/MI/Lake Odessa
 death 2005-02-19
 military US Army 

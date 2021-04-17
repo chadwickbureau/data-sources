@@ -3,7 +3,6 @@
 !file Tassin_Irvin.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-11-30
 
-#profile Tassin, Irvin William
-key 200012_Tassin
+#200012_001 Tassin, Irvin William
 death 2000-12-01
 burial St. Francis de Sales Cemetery No. 2 @ US/LA/Houma

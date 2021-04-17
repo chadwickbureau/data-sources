@@ -6262,3 +6262,150 @@ sameas findagrave:35518975
 birth 1916-03-14
 death 1992-09-18
 burial Oak Ridge Cemetery @ US/IL/Springfield
+
+---
+
+!citation findagrave.com @ 2021-04-12
+!url https://www.findagrave.com/memorial/106130284/gorman-andrew-stalder
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-12
+ 
+#511 Stalder, Gorman Andrew
+sameas findagrave:106130284
+birth 1919-07-08 @ US/NE
+death 1997-06-20 @ US/CA/Visalia
+military US Marines @ World War II
+burial Visalia Public Cemetery @ US/CA/Visalia
+
+---
+ 
+!citation findagrave.com @ 2021-04-12
+!url https://www.findagrave.com/memorial/200835032/benjamin-james-sheldon
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-12
+ 
+#512 Sheldon, Benjamin James [Pop]
+sameas findagrave:200835032
+birth 1916-11-17 @ US/MD/Baltimore
+death 1976-05-06 @ US/MD/Brooklyn
+burial Glen Haven Memorial Park @ US/MD/Glen Burnie
+
+---
+
+!citation findagrave.com @ 2021-04-12
+!url https://www.findagrave.com/memorial/160237961/fred-thomas-stroble
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-12
+ 
+#513 Stroble, Fred Thomas
+sameas findagrave:160237961
+birth 1916-09-04
+death 2002-11-23
+burial St. Patrick Catholic Cemetery @ US/MS/Meridian
+
+---
+
+!citation findagrave.com @ 2021-04-13
+!url https://www.findagrave.com/memorial/85866890/joseph-chilton-dobbins
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-13
+ 
+#514 Dobbins, Joseph Chilton
+sameas findagrave:85866890
+birth 1910-05-11
+death 1983-01-15
+burial Forest Lawn Memorial Park @ US/CA/Los Angeles
+
+---
+ 
+!citation findagrave.com @ 2021-04-14
+!url https://www.findagrave.com/memorial/129711785/stephen-j-kuk
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-14
+ 
+#515 Kuk, Stephen J.
+sameas findagrave:129711785
+birth 1911
+death 1999
+burial Serenity Gardens Memorial Park @ US/FL/Largo
+
+---
+
+!citation findagrave.com @ 2021-04-14
+!url https://www.findagrave.com/memorial/91041764/gottlieb-a-lipelt
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-14
+ 
+#516 Liepelt, Gottlieb A.
+sameas findagrave:91041764
+birth 1914-09-14 @ US/SD/Freeman
+death 1971-11-06 @ US/SD/Lake Andes
+military US Coast Guard @ World War II
+burial Grace Hill Cemetery @ US/SD/Tripp
+
+---
+ 
+!citation findagrave.com @ 2021-04-14
+!url https://www.findagrave.com/memorial/144687229/don-looney
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-14
+ 
+#517 Looney, Don
+sameas findagrave:144687229
+birth 1916-09-02 @ US/TX/Saltillo
+death 2015-04-05 @ US/TX/Fort Worth
+burial Greenwood Memorial Park and Mausoleum @ US/TX/Fort Worth
+
+---
+ 
+!citation findagrave.com @ 2021-04-15
+!url https://www.findagrave.com/memorial/50982389/henry-c-broome
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-15
+ 
+#518 Broome, Henry C.
+sameas findagrave:50982389
+birth 1918-08-12
+death 1994-09-26
+burial Cleveland Memorial Park @ US/NC/Shelby
+
+---
+
+!citation findagrave.com @ 2021-04-15
+!url https://www.findagrave.com/memorial/225180408/rafael-caballero
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-15
+ 
+#519 Caballero, Rafael
+sameas findagrave:225180408
+birth 1914-02-21
+death 2004-03-07
+burial Greenwood Memorial Terrace @ US/WA/Spokane
+
+---
+
+!citation findagrave.com @ 2021-04-15
+!url https://www.findagrave.com/memorial/209550965/fred-chumley
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-15
+ 
+#520 Chumley, Fred
+sameas findagrave:209550965
+birth 1915-12-25
+death 1994-05-25
+burial Woodlawn Cemetery @ US/TX/Houston
+
+---
+ 
+!citation findagrave.com @ 2021-04-15
+!url https://www.findagrave.com/memorial/125938661/jack-cecil-clifton
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-15
+ 
+#521 Clifton, Jack Cecil
+sameas findagrave:125938661
+birth 1924-02-19
+death 1993-07-28
+military US Army @ World War II
+burial Grove Hill Cemetery @ US/SC/Darlington
+
+---
+ 
+!citation findagrave.com @ 2021-04-16
+!url https://www.findagrave.com/memorial/188272178/elliot-l.-puckett
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-16
+ 
+#522 Puckett, Elliott L.
+sameas findagrave:188272178
+birth 1917-08-18
+death 1980-02-22
+burial Maplewood Cemetery @ US/NC/Durham

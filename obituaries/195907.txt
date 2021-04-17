@@ -2,8 +2,7 @@
 !file Query_Wray.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-03
 
-#profile Query, Wray
-key 195907_Query
+#195907_001 Query, Wray
 death 1959-07-07 @ US/TX/Temple
 military US @ World War I
 burial Waco Memorial Park @ US/TX/Waco

@@ -3,8 +3,7 @@
 !file Stilwell_John.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-07-20
 
-#profile Stilwell, John H.
-key 200803_Stilwell
+#200803_001 Stilwell, John H.
 birth 1919-07-01 @ US/MO/Doniphan
 death 2008-03-02 @ US/MO/Doniphan
 burial Doniphan City Cemetery @ US/MO/Doniphan

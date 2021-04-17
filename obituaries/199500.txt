@@ -3,8 +3,7 @@
 !file Hill_David.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-08-19
 
-#profile Hill, David W. [Dave]
-key 199500_Hill
+#199500_001 Hill, David W. [Dave]
 death 1995
 highschool Southwest HS @ US/MO/St. Louis
 college Washington University

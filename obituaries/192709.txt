@@ -2,6 +2,5 @@
 !file Brannon_Frank.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-05-29
 
-#profile Brannon, Frank "Dutch"
-key 192709_Brannon
+#192709_001 Brannon, Frank "Dutch"
 death 1927-09-20 @ US/PA/Wilkes-Barre

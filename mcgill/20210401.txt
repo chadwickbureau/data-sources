@@ -112,7 +112,7 @@ player 1947 Moline (Central Association)
 describe H69 W170 BL TL; age 22
 resides 1948 @ US/OH/Youngstown
 player 1948 Lincoln (Western League)
-player 1947 Niagra Falls (Middle Atlantic)
+player 1947 Niagara Falls (Middle Atlantic)
 
 #20210401_019 Suder, George
 describe H70 W160 BR TR; age 21
@@ -127,7 +127,7 @@ player 1947 Federalsburg (Eastern Shore)
 
 #20210401_020 Alberts, Henry DuBois
 describe H70 W180 BR TR; age 24
-resides 1954 @ US/NY/New York City
+resides 1954 @ US/NY/New York
 player 1954 Asheville (Tri-State)
 player 1953 Hornell (Pennsylvania-Ontario-New York)
 
@@ -149,7 +149,7 @@ resides 1954 @ US/NY/New York
 player 1954 Asheville (Tri-State)
 
 #20210401_024 Lopez, Eleuterio [Terry]
-describe H70 W 165 BR TR; age 19
+describe H70 W165 BR TR; age 19
 resides 1954 @ PR/Santurce
 player 1954 Asheville (Tri-State)
 player 1953 Miami (Florida International)

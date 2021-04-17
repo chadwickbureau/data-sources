@@ -2,8 +2,7 @@
 !file Russo_Elio.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-05-12
 
-#profile Russo, Elio B.
-key 199807_Russo
+#199807_001 Russo, Elio B.
 birth @ US/NY/Queens
 death 1998-07-16 @ US/NJ/Point Pleasant
 military US Marines @ World War II

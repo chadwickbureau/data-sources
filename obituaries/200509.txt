@@ -3,8 +3,7 @@
 !file Mick_Bunny.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-03-03
 
-#profile Mick, M. F. [Bunny]
-key 200509_Mick
+#200509_001 Mick, M. F. [Bunny]
 death 2005-09-14
 highschool Henry B. Plant HS @ US/FL/Tampa
 college University of Tampa

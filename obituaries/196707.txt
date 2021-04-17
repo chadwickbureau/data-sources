@@ -2,7 +2,6 @@
 !file Shestak_George.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-12-12
 
-#profile Shestak, George W.
-key 196707_Shestak
+#196707_001 Shestak, George W.
 death 1967-07-29 @ US/NE/Lincoln
 military US Army @ World War I

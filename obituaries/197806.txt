@@ -2,7 +2,6 @@
 !file Tanner_Buck.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-11-18
 
-#profile Tanner, William [Buck]
-key 197806_Tanner
+#197806_001 Tanner, William [Buck]
 death 1978-06-06
 highschool Jefferson HS @ US/FL/Tampa

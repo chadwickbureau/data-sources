@@ -2,7 +2,6 @@
 !file Manlove_Abraham.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-01-29
 
-#profile Manlove, Abraham L.
-key 194900_Manlove
+#194900_001 Manlove, Abraham L.
 birth 1865-09-26 @ US/PA/Philadelphia
 death 1949

@@ -2,8 +2,7 @@
 !file Bowa_Frank.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-09-03
 
-#profile Bowa, Frank
-key 197903_Bowa
+#197903_001 Bowa, Frank
 death 1979-03-07 @ US/CA/Sacramento
 burial St. Mary's Catholic Cemetery and Mausoleum @ US/CA/Sacramento
 uncle of Bowa, Larry

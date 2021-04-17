@@ -3,8 +3,7 @@
 !file Hutchinson_James.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-03-10
 
-#profile Hutchinson, James C. 
-key 200204_Hutchinson
+#200204_001 Hutchinson, James C. 
 birth 1927-02-14 @ US/MA/Springfield
 death 2002-04-05 @ US/NH/Manchester
 burial Mount Calvary Cemetery @ US/NH/Manchester

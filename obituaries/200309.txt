@@ -3,7 +3,6 @@
 !file Dunahue_Gary.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-10-03
 
-#profile Dunahue, Gary
-key 200309_Dunahue
+#200309_001 Dunahue, Gary
 birth 1956-02-07
 death 2003-09-30

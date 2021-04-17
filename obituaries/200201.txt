@@ -3,8 +3,7 @@
 !file Ketcher_James.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-11-14
 
-#profile Ketcher, Simeon Balleu [James]
-key 200201_Ketcher
+#200201_001 Ketcher, Simeon Balleu [James]
 birth 1913-07-03 @ US/OK/Cherokee County
 death 2002-01-25
 burial Valley View Memorial Park @ US/UT/West Valley City

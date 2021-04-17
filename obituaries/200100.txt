@@ -3,7 +3,6 @@
 !file Vesely_Edwin_1.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-12-10
 
-#profile Vesely, Edwin
-key 200100_Vesely
+#200100_001 Vesely, Edwin
 death 2001
 player 1948 Visalia (California)

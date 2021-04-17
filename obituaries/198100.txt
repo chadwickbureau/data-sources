@@ -2,8 +2,7 @@
 !file McDowell_JL
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-03-08
 
-#profile McDowell, James L., Sr. [J. L.]
-key 198100_McDowell
+#198100_001 McDowell, James L., Sr. [J. L.]
 death 1981
 military US @ World War II
 burial Rose Hill Cemetery @ US/MS/Brookhaven

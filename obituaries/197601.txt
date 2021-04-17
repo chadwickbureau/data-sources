@@ -3,8 +3,7 @@
 !file Flynn_Tom.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-04-04
 
-#profile Flynn, Thomas B. 
-key 197601_Flynn
+#197601_001 Flynn, Thomas B. 
 birth 1906-04-23 @ US/CA/San Francisco 
 death 1976-01-15
 describe ; TL

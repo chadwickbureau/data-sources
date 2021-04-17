@@ -2,7 +2,6 @@
 !file Nolley_Rufus.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-01-15
 
-#profile Nolley, Rufus L.
-key 193711_Nolley
+#193711_001 Nolley, Rufus L.
 death 1937-11-13 @ US/AL/Montgomery
 burial McGehee Cemetery @ US/AL/Hope Hull

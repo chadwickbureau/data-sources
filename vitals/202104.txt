@@ -158,3 +158,107 @@ death 1979-04-13
 #202104_019 Pacotti, John Batista
 birth 1916-03-14 @ US/IL/Virden
  
+---
+
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-12
+ 
+#202104_020 Scott, William John
+sameas ssn:287-05-0345
+birth 1917-10-26 @ US/OH/Dayton
+death 1991-02-07
+ 
+---
+ 
+!citation Ohio Death Records, 1908-1932, 1938-2018
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-12
+ 
+#202104_021 Scott, William J.
+birth 1917-10-26 @ US/OH
+death 1991-02-07 @ US/OH/Toledo
+
+---
+ 
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-12
+ 
+#202104_022 Stalder, Gorman Andrew
+birth 1919-07-08 @ US/NE/Humboldt
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-12
+ 
+#202104_023 Sheldon, Benjamin James
+birth 1916-11-17 @ US/MD/Baltimore
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-12
+ 
+#202104_024 Woodruff, Thomas Joseph
+birth 1919-11-30 @ US/MO/St. Louis
+
+---
+ 
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-14
+ 
+#202104_025 Kuk, Stephen John
+birth 1911-05-06 @ US/NY/Amsterdam
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-15
+ 
+#202104_026 Broome, Henry Cecil
+birth 1918-08-12 @ US/NC/Norwood
+
+---
+ 
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-15
+ 
+#202104_027 Chumley, Fred
+sameas ssn:452-09-6567
+birth 1914-12-25 @ US/TX/Houston
+death 1994-05-25
+
+---
+
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-15
+ 
+#202104_028 Clifton, Jack Cecil
+sameas ssn:243-28-3527
+birth 1924-02-19 @ US/SC/Darlington
+death 1993-07-28
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-15
+ 
+#202104_029 Duarte, Albert Francis
+birth 1915-08-20 @ US/HI/Honolulu
+ 
+---
+ 
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-15
+ 
+#202104_030 Duarte, Albert Francis
+sameas ssn:576-01-5090
+birth 1915-08-20 @ US/HI/Honolulu
+death 1999-12-09
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-16
+ 
+#202104_031 Puckett, Elliott Lijah
+birth 1917-08-18 @ US/NC/Henderson

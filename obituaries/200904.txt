@@ -3,8 +3,7 @@
 !file Houck_Buck.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-03-10
 
-#profile Houck, Ira Marvin [Buck]
-key 200904_Houck 
+#200904_001 Houck, Ira Marvin [Buck]
 birth 1924-12-08 @ US/MD/Woodsboro
 death 2009-04-19
 highschool Walkersville HS @ US/MD/Walkersville

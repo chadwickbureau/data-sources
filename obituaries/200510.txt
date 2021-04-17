@@ -3,8 +3,7 @@
 !file Stromecki_Eugene.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-11-30
 
-#profile Stromecki, Eugene R.
-key 200510_Stromecki
+#200510_001 Stromecki, Eugene R.
 death 2005-10-10
 highschool Bishop Ryan HS @ US/NY/Buffalo
 military US Army @ Korean War

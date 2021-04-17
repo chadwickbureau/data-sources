@@ -1,0 +1,20 @@
+!citation Rome Tribune-News @ 1916-05-18; page 5
+
+#20210415_001 Raburn
+player 1916 Rome (Georgia-Alabama); @P
+
+---
+
+!citation Rome Tribune-News @ 1916-07-16; page 4
+
+#20210415_002 Raburn
+player 1916 Rome (Georgia-Alabama)
+player 1916 Talladega (Georgia-Alabama); @P
+
+---
+
+!citation Rome Tribune-News @ 1916-07-18; page 3
+
+#20210415_003 Shaw, Pop
+player 1916 Rome (Georgia-Alabama)
+notes will probably play in Virginia League next

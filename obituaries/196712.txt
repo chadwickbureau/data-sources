@@ -2,8 +2,7 @@
 !file Dilger_Fred.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-02-17
 
-#profile Dilger, Fred C.
-key 196712_Dilger
+#196712_001 Dilger, Fred C.
 death 1967-12-19 @ US/IN/Indianapolis
 military US @ World War I
 burial Calvary Cemetery @ US/IN/Indianapolis
@@ -14,7 +13,6 @@ burial Calvary Cemetery @ US/IN/Indianapolis
 !file ODell_Alfred.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-03-11
 
-#profile O'Dell, Alfred Thomas
-key 196712_ODell
+#196712_002 O'Dell, Alfred Thomas
 birth @ US/NJ/Paterson
 death 1967-12-18 @ US/CT/Bridgeport

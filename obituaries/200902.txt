@@ -3,8 +3,7 @@
 !file Spruill_Jake.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-03-22
 
-#profile Spruill, J. W. [Jake]
-key 200902_Spruill
+#200902_001 Spruill, J. W. [Jake]
 birth 1926-07-13 @ US/GA/DeKalb County
 death 2009-02-05
 highschool Chamblee HS @ US/GA/Chamblee

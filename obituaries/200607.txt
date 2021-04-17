@@ -2,9 +2,8 @@
 !file Kimber_Ray.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-01-27
 
-#profile Kimber, Raymond [Ray]
-key 200607_Kimber
+#200607_001 Kimber, Raymond [Ray]
 birth @ US/NJ/Milltown
 death 2006-07-04 @ US/NJ/New Brunswick
 military US Army @ Korean War
-burial St. Mary’s Cemetery @ US/NJ/East Brunswick
+burial St. Mary's Cemetery @ US/NJ/East Brunswick

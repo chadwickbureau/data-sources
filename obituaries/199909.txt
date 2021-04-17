@@ -2,7 +2,6 @@
 !file Vicital_Arthur.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-12-11
 
-#profile Vicital, Arthur P.
-key 199909_Vicital
+#199909_001 Vicital, Arthur P.
 birth  @ US/NY/Bronx
 death 1999-09-08 @ US/NJ/Denville

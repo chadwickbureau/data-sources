@@ -2,8 +2,7 @@
 !file Champlin_Harry.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-02-26
  
-#profile Champlin, Harry J. "Happy"
-key 194909_Champlin
+#194909_001 Champlin, Harry J. "Happy"
 birth @ US/OH/Elmwood Place
 death 1949-09-11 @ US/OH/Cincinnati
 burial Vine Street Hill Cemetery @ US/OH/Cincinnati

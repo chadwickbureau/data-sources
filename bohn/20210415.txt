@@ -1,0 +1,371 @@
+!citation Devils Lake Inter-Ocean @ 1902-05-16
+!contributor Terry Bohn <bohn_terry@yahoo.com>
+
+
+#20210415_001 Lynch, Joe
+player 1902 Devils Lake (Northern)
+
+#20210415_002 Mann, Pete
+player 1902 Devils Lake (Northern)
+
+---
+
+!citation Devils Lake Inter-Ocean @ 1902-05-09
+!contributor Terry Bohn <bohn_terry@yahoo.com>
+
+
+#20210415_003 Murray, Tom
+player 1902 Devils Lake (Northern)
+player 1902 Cavalier (Northern)
+
+
+#20210415_004 Ware, Frank
+player 1902 Devils Lake (Northern)
+player 1902 Fargo (Northern)
+
+---
+
+!citation Grand Forks Daily Herald @ 1905-06-06
+!contributor Terry Bohn <bohn_terry@yahoo.com>
+
+
+#20210415_005 Shannon, Mel
+player 1905 Grand Forks (Northern)
+
+---
+
+!citation Grand Forks Daily Herald @ 1905-06-25
+!contributor Terry Bohn <bohn_terry@yahoo.com>
+
+
+#20210415_006 Maloney, Charles
+player 1905 Grand Forks (Northern)
+
+---
+
+!citation Grand Forks Daily Herald @ 1902-07-03
+!contributor Terry Bohn <bohn_terry@yahoo.com>
+
+
+#20210415_007 Odegard, Tony
+player 1902 Grand Forks (Northern)
+
+---
+
+!citation Duluth News Tribune @ 1903-06-23
+!contributor Terry Bohn <bohn_terry@yahoo.com>
+
+
+#20210415_008 Freeman, Louis
+player 1903 Duluth (Northern)
+
+---
+
+!citation Duluth News Tribune @ 1903-05-04
+!contributor Terry Bohn <bohn_terry@yahoo.com>
+
+
+#20210415_009 Davis, Clinton
+player 1903 Superior (Northern)
+
+---
+
+!citation Grand Forks Daily Herald @ 1904-09-08
+!contributor Terry Bohn <bohn_terry@yahoo.com>
+
+
+#20210415_010 Scharnweber, Henry
+player 1904 Grand Forks (Northern)
+
+---
+
+!citation Duluth News Tribune @ 1904-05-22
+!contributor Terry Bohn <bohn_terry@yahoo.com>
+
+
+#20210415_011 Hughes, Jimmie
+player 1904 Duluth (Northern)
+
+---
+
+!citation Duluth News Tribune @ 1904-08-07
+!contributor Terry Bohn <bohn_terry@yahoo.com>
+
+
+#20210415_012 Bennett, Si
+player 1904 Superior (Northern)
+
+---
+
+!citation Grand Forks Daily Herald @ 1902-05-06
+!contributor Terry Bohn <bohn_terry@yahoo.com>
+
+
+#20210415_013 Roenesch, Jerry
+player 1902 Cavalier (Northern)
+
+
+---
+
+!citation Minneapolis Journal @ 1904-09-08
+!contributor Terry Bohn <bohn_terry@yahoo.com>
+
+
+#20210415_014 Mohr, Manfred
+player 1904 Fargo (Northern)
+
+---
+
+!citation Devils Lake Inter-Ocean @ 1902-09-20
+!contributor Terry Bohn <bohn_terry@yahoo.com>
+
+
+#20210415_015 Higgins, Dan
+player 1902 Fargo (Northern)
+
+---
+
+!citation Daily Deadwood Pioneer-Times @ 1892-06-10
+!contributor Terry Bohn <bohn_terry@yahoo.com>
+
+
+#20210415_016 Collier, Leon
+player 1892 Lead City (Black Hills)
+
+---
+
+!citation Black Hills Daily Times @ 1892-06-28
+!contributor Terry Bohn <bohn_terry@yahoo.com>
+
+
+#20210415_017 Purcell, Dick
+player 1892 Lead City (Black Hills)
+
+---
+
+!citation Sioux City Journal @ 1903-05-08
+!contributor Terry Bohn <bohn_terry@yahoo.com>
+
+
+#20210415_018 Gale, Fred
+player 1903 Sioux City (Iowa-South Dakota)
+
+---
+
+!citation Rock Rapids Reporter @ 1902-05-22
+!contributor Terry Bohn <bohn_terry@yahoo.com>
+
+
+#20210415_019 Agan, Joe
+player 1902 Rock Rapids (Iowa-South Dakota)
+
+---
+
+!citation Rock Rapids Reporter @ 1902-08-07
+!contributor Terry Bohn <bohn_terry@yahoo.com>
+
+
+#20210415_020 Duncan, Will
+player 1902 Rock Rapids (Iowa-South Dakota)
+
+---
+
+!citation LeMars Globe-Post @ 1903-07-01
+!contributor Terry Bohn <bohn_terry@yahoo.com>
+
+
+#20210415_021 Whitney, Claud
+player 1903 LeMars (Iowa-South Dakota)
+
+---
+
+!citation Grand Forks Daily Herald @ 1897-05-02
+!contributor Terry Bohn <bohn_terry@yahoo.com>
+
+
+#20210415_022 Mullaney, Pike
+player 1897 Moorhead (Red River Valley)
+
+---
+
+!citation Grand Forks Daily Herald @ 1897-07-01
+!contributor Terry Bohn <bohn_terry@yahoo.com>
+
+
+#20210415_023 Green, Reilly
+player 1897 Fargo (Red River Valley)
+
+#20210415_024 Reilly, Josh
+player 1897 Fargo (Red River Valley)
+---
+
+!citation Grand Forks Daily Herald @ 1897-06-19
+!contributor Terry Bohn <bohn_terry@yahoo.com>
+
+
+#20210415_025 Porter, Andy
+player 1897 Grand Forks (Red River Valley)
+
+---
+
+!citation Winnipeg Tribune @ 1904-07-15
+!contributor Terry Bohn <bohn_terry@yahoo.com>
+
+
+#20210415_026 Benson
+player 1904 Winnipeg (Northern)
+player 1904 Superior (Northern)
+
+---
+
+!citation Aberdeen Weekly News @ 1934-08-13
+!contributor Terry Bohn <bohn_terry@yahoo.com>
+
+
+#20210415_027 Lucas, Archie
+player 1903 Grand Forks (Northern)
+
+---
+
+!citation Grand Forks Daily Herald @ 1904-05-13
+!contributor Terry Bohn <bohn_terry@yahoo.com>
+
+
+#20210415_028 O'Brien, Will
+player 1904 Grand Forks (Northern)
+
+---
+
+!citation Grand Forks Daily Herald @ 1905-04-14
+!contributor Terry Bohn <bohn_terry@yahoo.com>
+
+
+#20210415_029 Burke, James
+player 1905 Crookston (Northern)
+
+---
+
+!citation Winnipeg Tribune @ 1905-06-02
+!contributor Terry Bohn <bohn_terry@yahoo.com>
+
+
+#20210415_030 Whitman, Con
+player 1905 Winnipeg (Northern)
+
+---
+
+!citation Winnipeg Free Press @ 1905-09-09
+!contributor Terry Bohn <bohn_terry@yahoo.com>
+
+
+#20210415_031 Mueller, Walter
+player 1905 Winnipeg (Northern)
+player 1905 Toronto (Eastern)
+
+---
+
+!citation Winnipeg Free Press @ 1905-09-02
+!contributor Terry Bohn <bohn_terry@yahoo.com>
+
+
+#20210415_032 Johnston, Charley
+player 1905 Winnipeg (Northern)
+
+---
+
+!citation St. Paul Globe @ 1903-05-22
+!contributor Terry Bohn <bohn_terry@yahoo.com>
+
+
+#20210415_033 Davis, William
+player 1903 Duluth (Northern)
+player 1903 St. Paul (American Association)
+
+---
+
+!citation Grand Forks Daily Herald @ 1903-05-24
+!contributor Terry Bohn <bohn_terry@yahoo.com>
+
+
+#20210415_034 McCarthy, Charles
+player 1903 Grand Forks (Northern)
+
+---
+
+!citation Duluth News Tribune @ 1903-05-03
+!contributor Terry Bohn <bohn_terry@yahoo.com>
+
+
+#20210415_035 Daniels, Charles
+player 1903 Superior (Northern)
+
+---
+
+!citation Black Hills Daily Times @ 1892-07-11
+!contributor Terry Bohn <bohn_terry@yahoo.com>
+
+
+#20210415_036 Garretson, Al
+player 1892 Lead City (Black Hills)
+
+---
+
+!citation Black Hills Daily Times @ 1892-07-24
+!contributor Terry Bohn <bohn_terry@yahoo.com>
+
+
+#20210415_037 Moran, Jack
+player 1892 Lead City (Black Hills)
+
+---
+
+!citation Black Hills Daily Times @ 1892-07-02
+!contributor Terry Bohn <bohn_terry@yahoo.com>
+
+
+#20210415_038 Purcell, Richard
+player 1892 Lead City (Black Hills)
+
+---
+
+!citation Black Hills Daily Times @ 1892-07-21
+!contributor Terry Bohn <bohn_terry@yahoo.com>
+
+
+#20210415_039 Walters, George
+player 1892 Lead City (Black Hills)
+
+---
+
+!citation Black Hills Daily Times @ 1893-04-15
+!contributor Terry Bohn <bohn_terry@yahoo.com>
+
+
+#20210415_040 Charleton, Ed
+player 1892 Deadwood (Black Hills)
+
+#20210415_041 Bailey, George
+player 1892 Lead City (Black Hills)
+
+#20210415_042 McPheely, William
+player 1892 Lead City (Black Hills)
+
+---
+
+!citation Daily Deadwood Pioneer-Times @ 1892-08-18
+!contributor Terry Bohn <bohn_terry@yahoo.com>
+
+
+#20210415_043 Beam, Ernest
+player 1892 Lead City (Black Hills)
+player 1892 Terre Haute (Illinois-Iowa)
+
+
+---
+
+!citation Daily Deadwood Pioneer-Times @ 1892-06-10
+!contributor Terry Bohn <bohn_terry@yahoo.com>
+
+
+#20210415_044 Collier, Leon
+player 1892 Lead City (Black Hills)

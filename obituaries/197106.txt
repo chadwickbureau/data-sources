@@ -2,7 +2,6 @@
 !file John_T_Maloney_death_notice.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-05-10
 
-#profile Maloney, John T.
-key 197106_Maloney
+#197106_001 Maloney, John T.
 death 1971-06-24 @ US/MA/North Cambridge
 note Husband of Claire (Gervais) Maloney

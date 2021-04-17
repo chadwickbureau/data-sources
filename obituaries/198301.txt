@@ -2,8 +2,7 @@
 !file Ahtipis_Dan.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-07
 
-#profile Ahtipis, Dan S.
-key 198301_Ahtipis
+#198301_001 Ahtipis, Dan S.
 birth 1930-04-24 @ US/CA/Sacramento
 death 1983-01-12
 military US Army

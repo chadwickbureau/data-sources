@@ -3,8 +3,7 @@
 !file Jones_JP.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-08-01
 
-#profile Jones, John Paul [JP]
-key 200701_Jones_1
+#200701_001 Jones, John Paul [JP]
 player ? Little Rock (Southern Association)
 player ? Macon (South Atlantic)
 player ? Shreveport (Texas)
@@ -15,8 +14,7 @@ player ? Shreveport (Texas)
 !file Jones_JP_2.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-08-01
 
-#profile Jones, John P. 
-key 200701_Jones_2
+#200701_002 Jones, John P. 
 birth 1927-10-05 @ US/TX/Talco
 death 2007-01-30
 burial Memory Gardens of the Valley @ US/NM/Santa Teresa
