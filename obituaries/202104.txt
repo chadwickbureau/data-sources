@@ -633,3 +633,273 @@ birth @ US/PA/Reading
 death 2021-03-31 @ US/PA/West Reading
 highschool Reading HS @ US/PA/Reading
 military US Army @ Korean War
+
+---
+
+!citation Lutz Funeral Home @ 2021-04-17
+!url https://lutzfuneralhome.com/book-of-memories/4584648/Jones-Paul/index.php
+!file Jones_Cooter.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-17
+
+#202104_051 Jones, Paul E. [Cooter]
+birth 1930-07-17 @ US/NC/Hickory
+death 2021-04-15 @ US/PA/Exeter Township
+highschool Claremont HS @ US/NC/Hickory
+college Lenoir-Rhyne University
+
+---
+
+!citation Atlanta Journal-Constitution @ 2021-04-18
+!url https://www.legacy.com/obituaries/atlanta/obituary.aspx?n=jack-smith&pid=198371863
+!file Smith_Jack.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-18
+
+#202104_052 Smith, Jack Hatfield
+birth 1935-11-15 @ US/KY/Pikeville
+death 2021-04-07 @ US/GA/Conyers
+
+---
+
+!citation Belleville News-Democrat @ 2021-04-18
+!url https://www.legacy.com/obituaries/belleville/obituary.aspx?n=gary-f-groce&pid=198367672&fhid=27960
+!file Groce_Gary.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-18
+
+#202104_053 Groce, Gary F.
+birth 1936-04-27 @ US/IL/East St. Louis
+death 2021-04-02
+highschool Cahokia HS @ US/IL/Cahokia
+military US Army
+burial Willamette National Cemetery @ US/OR/Portland
+
+---
+
+!citation Wages Funeral Home @ 2021-04-18
+!url https://www.wagesfuneralhome.com/obituaries/Lyle-Robinson-2/#!/Obituary
+!file Robinson_Lyle.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-18
+
+#202104_054 Robinson, Lyle L.
+birth 1935-02-24 @ US/IN/Evansville
+death 2021-04-16
+highschool Haubstadt HS @ US/IN/Haubstadt
+military US Army
+
+---
+
+!citation Powles Staton Funeral Home @ 2021-04-18
+!url https://www.powlesfuneralhome.com/obituaries/William-Bill-Leroy-Earnhardt?obId=20795871#/obituaryInfo
+!file Earnhardt_Bill.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-18
+
+#202104_055 Earnhardt, William Leroy [Bill]
+birth 1935-09-17 @ US/NC/Gold Hill
+death 2021-04-13
+highschool Rockwell HS @ US/NC/Rockwell
+burial Gold Hill Wesleyan Church Cemetery @ US/NC/Gold Hill
+
+---
+
+!citation Peninsula Funeral Home @ 2021-04-18
+!url https://peninsulafuneralhome.com/obituary/stanley-ross-baker/
+!file Baker_Stan.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-18
+
+#202104_056 Baker, Stanley Ross [Stan]
+birth 1948-06-13
+death 2021-04-07 @ US/VA/York County
+military US Navy
+
+---
+
+!citation Sintesis @ 2021-01-16
+!url https://sintesis.com.mx/2021/01/16/fallece-william-berzunza-beisbol/
+!file Berzunza_William.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-18
+
+#202104_057 Berzunza, William
+death 2021-01-16 @ MX/Yucatan/Merida
+
+---
+
+!citation TopHoy @ 2020-12-20
+!url https://www.tophoy.com/fallece-nelson-jorge-campver-el-expelotero-cubano-mas-longevo/?fbclid=IwAR0XZQmoDHUgRzC-PQM7SQaOGVZI20yiW5vTtWjvvuPvTnfp12FJxZ_OfmI
+!file Campver_Nelson.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-18
+
+#202104_058 Campver, Nelson Jorge
+death 2020-12-18 @ CU//Havana
+
+---
+
+!citation Meganoticias @ 2020-09-25
+!url https://www.meganoticias.mx/puebla/noticia/fallece-gonzalo-chalo-meza-icono-del-deporte-sanluisino/183310
+!file Meza_Gonzalo.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-18
+
+#202104_059 Meza (Limón), Gonzalo Humberto "Chalo"
+death 2020-09-23
+
+---
+
+!citation Citizens Voice @ 2021-04-20
+!url https://www.legacy.com/us/obituaries/citizensvoice/name/joseph-j-drach-obituary?n=joseph-j-drach&pid=198383164&fhid=22971
+!file Drach_Joe.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-20
+
+#202104_060 Drach, Joseph J., Sr. [Joe]
+birth 1930-10-22 @ US/PA/Luzerne
+death 2021-04-18
+highschool Luzerne HS @ US/PA/Luzerne
+military US Army
+burial St. Mary's Cemetery @ US/PA/Hanover Township
+
+---
+
+!citation Allentown (PA) Morning Call @ 1979-07-07
+!file Funk_Edward.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-20
+ 
+#202104_061 Funk, Edward C.
+birth @ US/PA/Richland Township
+death 1979-07-05 @ US/PA/Pike Township
+military US Air Force @ World War II
+
+---
+ 
+!citation The Charlotte Observer @ 1966-02-13
+!file Hitchner_Tracy.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-21
+ 
+#202104_062 Hitchner, Tracy Davis
+birth 1909-07-04 @ US/NJ/Elmer
+death 1999-05-22 @ US/NC/Hickory
+burial Catawba Memorial Park @ US/NC/Hickory
+
+---
+
+!citation Honolulu Star-Bulletin @ 1994-03-22
+!file Kasparovitch_Len.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-21
+ 
+#202104_063 Kasparovitch, Leonard L., Sr. "Kaspy"
+birth 1919-07-21 @ US/HI/Honolulu
+death 1994-03-15 @ US/HI/Honolulu
+
+---
+
+!citation The Blade @ 2021-04-22
+!url https://www.legacy.com/obituaries/toledoblade/obituary.aspx?n=buddy-e-young&pid=198399782
+!file Young_Buddy.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-22
+
+#202104_064 Young, Buddy E.
+birth 1932-02-29 @ US/OH/Toledo
+death 2021-04-11
+highschool Scott HS @ US/OH/Toledo
+
+---
+
+!citation Dougherty Brothers Funeral Home @ 2021-04-22
+!url https://www.doughertybrosfuneralhome.com/obituaries/Leonard-L-Langlois?obId=802129#/obituaryInfo
+!file Langlois_Lenny.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-22
+
+#202104_065 Langlois, Leonard L. [Lenny]
+birth 1959-11-07 @ US/CT/Norwich
+death 2015-01-12
+highschool Plainfield HS @ US/CT/Plainfield
+burial St. John Cemetery @ US/CT/Plainfield
+
+---
+
+!citation Worcester Telegram & Gazette @ 2015-01-05
+!url https://www.legacy.com/us/obituaries/telegram/name/joseph-miskiewicz-obituary?pid=173735926
+!file Miskiewicz_Joseph.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-22
+
+#202104_066 Miskiewicz, Joseph C.
+birth @ US/MA/Dudley
+death 2015-01-04 @ US/MA/Dudley 
+highschool Bartlett HS @ US/MA/Webster
+military US Marines @ Korean War
+burial St. Joseph's Cemetery @ US/MA/Webster
+
+---
+
+!citation Oakdale Mortuary @ 2021-04-23
+!url https://www.dignitymemorial.com/obituaries/glendora-ca/henry-chott-jr-9960159
+!file Chott_Henry.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-23
+
+#202104_067 Chott, Henry, Jr.
+birth 1931-09-09
+death 2020-12-17
+
+---
+
+!citation Girrbach Funeral Home @ 2021-04-23
+!url https://www.girrbachfuneralhome.net/?action=obituaries.obit_view&o_id=2889187&fh_id=13757
+!file Swift_Darwin.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-23
+
+#202104_068 Swift, Darwin
+birth 1923-02-22 @ US/MI/Maple Grove Township
+death 2014-12-31 @ US/MI/Bellevue
+highschool Hastings HS @ US/MI/Hastings
+
+---
+
+!citation Hartford Courant @ 1966-05-27
+!file Halstein_John.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-23
+ 
+#202104_069 Halstein, John D.
+birth @ US/NY/Kingston
+death 1966-05-26 @ US/CT/Meriden
+college University of Vermont
+burial Sacred Heart Cemetery @ US/CT/Meriden
+
+---
+ 
+!citation Munster Times @ 2000-01-16
+!file Pearson_Thomas.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-23
+ 
+#202104_070 Pearson, Thomas III
+death 2000-01-01 @ US/FL/Boynton Beach
+
+---
+ 
+!citation Santa Rosa Press Democrat @ 1981-02-06
+!file Costa_Jack.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-23
+ 
+#202104_071 Costa, John B. [Jack]
+birth @ US/CA/Sacramento
+death 1981-02-05 @ US/CA/Santa Rosa
+military US Navy @ World War II
+
+---
+
+!citation Snell-Zorning Funeral Home @ 2021-04-23
+!url https://www.snellzornig.com/obituaries/Thomas-Hilgendorf/#!/Obituary
+!file Hilgendorf_Tom.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-23
+
+#202104_072 Hilgendorf, Thomas Eugene [Tom]
+birth 1942-03-10 @ US/IA/Clinton
+death 2021-03-25 @ US/IA/Iowa City
+highschool St. Mary's HS @ US/IA/Clinton
+
+---
+
+!citation Peter Rossi & Son Memorial Chapel @ 2021-04-23
+!url https://www.peterrossiandsonfh.com/obituary/Robert-Funge
+!file Funge_Bob.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-23
+
+#202104_073 Funge, Robert H. [Bob]
+birth 1940-01-31 @ US/OH/Warren
+death 2021-04-04
+highschool Harding HS @ US/OH/Warren

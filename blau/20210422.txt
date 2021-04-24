@@ -1,0 +1,103 @@
+!citation Portsmouth Daily Times @ 1916-04-22; page 24
+
+#20210422_001 Duffield
+player 1916 Charleston (Ohio State)
+player 1915 Charleston (Ohio State)
+
+#20210422_002 Hoffman
+player 1916 Charleston (Ohio State)
+player 1915 Charleston (Ohio State)
+
+---
+
+!citation Baltimore Sun @ 1916-07-12; page 8
+
+#20210422_003 McKittrick, John L.
+player 1916 (Ohio State)
+player 1916 Evansville (Central)
+
+---
+
+!citation Chicago Tribune @ 1916-04-10; page 6
+
+#20210422_004 Caress
+player 1916 Frankfort (Ohio State)
+acquired <=1916-04-10 by Frankfort (Ohio State) from Terre Haute (Central)
+
+---
+
+!citation Portsmouth Daily Times @ 1916-04-14; page 18
+
+#20210422_005 Crist, [Shorty]
+player 1916 Huntington (Ohio State)
+college Ohio State University
+notes semipro in 1915
+
+---
+
+!citation Portsmouth Daily Times @ 1916-06-06; page 10
+
+#20210422_006 Keller, Orlando
+player 1916 Huntington (Ohio State)
+
+---
+
+!citation Portsmouth Daily Times @ 1916-06-14; page 18
+
+#20210422_007 Rafferty
+player 1916 Huntington (Ohio State)
+notes baseball coach at Washington and Lee College
+
+---
+
+!citation Washington and Lee University Generals Athletics Baseball Coaching History
+!URL https://generalssports.com/sports/2019/10/14/baseball-coaching-history.aspx?id=2826
+
+#20210422_008 Rafferty, W. C.
+
+---
+
+!citation Lexington Leader @ 1916-03-09; page 2
+
+#20210422_009 Moran, A. M.
+player 1916 Lexington (Ohio State)
+resides 1916@US/OH/Cincinnati
+
+---
+
+!citation Maysville Public Ledger @ 1916-05-02; page 4
+
+#20210422_010 Kelly
+player 1916 Maysville (Ohio State)
+player 1915 Maysville (Ohio State)
+
+---
+
+!citation Maysville Public Ledger @ 1916-06-09; page 4
+
+#20210422_011 Reed, Plack
+player 1916 Maysville (Ohio State)
+notes caught on June 5, otherwise plays for local semi-pro club, Augusta
+
+---
+
+!citation Maysville Public Ledger @ 1916-05-24; page 4
+
+#20210422_012 Few, Harry
+player 1916 Maysville (Ohio State)
+
+---
+
+!citation Portsmouth Daily Times @ 1916-05-12; page 18
+
+#20210422_013 Singleton, John
+player 1916 Portsmouth (Ohio State)
+
+---
+
+!citation Portsmouth Daily Times @ 1916-04-17; page 10
+
+#20210422_014 Fisher, Dunham
+player 1916 Portsmouth (Ohio State)
+resides 1916@US/OH/Cincinnati
+

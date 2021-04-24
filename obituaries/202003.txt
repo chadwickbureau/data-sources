@@ -3,8 +3,7 @@
 !file Travis_Ken.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-03-05
 
-#profile Travis, Kenneth L. [Ken]
-key 202003_Travis
+#202003_001 Travis, Kenneth L. [Ken]
 death 2020-03-03
 military US Army
 burial St. Michael the Archangel Catholic Cemetery @ US/IL/Palatine
@@ -16,8 +15,7 @@ burial St. Michael the Archangel Catholic Cemetery @ US/IL/Palatine
 !file Futrelle_Duncan.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-03-05
 
-#profile Futrelle, Duncan Lacy, Jr.
-key 202003_Futrelle
+#202003_002 Futrelle, Duncan Lacy, Jr.
 birth 1929-02-12 @ US/NC/Wilmington
 death 2020-03-03 @ US/SC/Rock Hill
 highschool New Hanover HS @ US/NC/Wilmington
@@ -30,8 +28,7 @@ burial @ US/NC/Wilmington
 !file Kring_Steve.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-03-05
 
-#profile Kring, Steven H. [Steve]
-key 202003_Kring
+#202003_003 Kring, Steven H. [Steve]
 birth 1947-11-09
 death 2020-03-01 @ US/OH/Dayton
 burial Silvercreek Cemetery @ US/OH/Jamestown
@@ -43,8 +40,7 @@ burial Silvercreek Cemetery @ US/OH/Jamestown
 !file Janssen_Mitchell.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-03-06
 
-#profile Janssen, Mitchell W.
-key 202003_Janssen
+#202003_004 Janssen, Mitchell W.
 birth 1997-08-11 @ US/IL/Peoria
 death 2020-03-02 @ US/IL/Logan County
 highschool Princeville HS @ US/IL/Princeville 
@@ -57,8 +53,7 @@ college Bradley University
 !file Pavletich_Don.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-03-08
 
-#profile Pavletich, Donald S. [Don]
-key 202003_Pavletich
+#202003_005 Pavletich, Donald S. [Don]
 birth 1938-07-13 @ US/WI/West Allis
 death 2020-03-05
 military US Army
@@ -71,8 +66,7 @@ burial Wisconsin Memorial Park @ US/WI/Brookfield
 !file Goodell_John.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-03-08
 
-#profile Goodell, John W., Jr.
-key 202003_Goodell
+#202003_006 Goodell, John W., Jr.
 birth 1930-05-18 @ US/OK/Muskogee
 death 2020-03-04
 military US Army
@@ -84,8 +78,7 @@ military US Army
 !file King_Rowland.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-03-09
 
-#profile King, Rowland Edwin
-key 202003_King
+#202003_007 King, Rowland Edwin
 death 2020-03-05
 highschool Mount St. Joseph HS @ US/MD/Baltimore
 college Johns Hopkins University
@@ -97,8 +90,7 @@ college Johns Hopkins University
 !file Burns_Regis.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-03-09
 
-#profile Burns, Regis Daniel
-key 202003_Burns
+#202003_008 Burns, Regis Daniel
 birth 1931-12-26 @ US/PA/New Salem
 death 2020-03-01 @ US/OH/Jefferson
 military US Army @ Korean War
@@ -111,8 +103,7 @@ burial Oakdale Cemetery @ US/OH/Jefferson
 !file Albright_David.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-03-10
 
-#profile Albright, David Keith
-key 202003_Albright
+#202003_009 Albright, David Keith
 birth 1956-12-12 @ US/MO/Excelsior Springs
 death 2020-03-07 @ US/MO/Liberty
 highschool Liberty HS @ US/MO/Liberty
@@ -125,8 +116,7 @@ college William Jewell College
 !file Hammett_Miles.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-03-10
 
-#profile Hammett, Miles Wood
-key 202003_Hammett
+#202003_010 Hammett, Miles Wood
 birth 1925-07-15 @ US/SC/Gaffney
 death 2020-03-07
 military US Navy @ World War II
@@ -138,8 +128,7 @@ military US Navy @ World War II
 !file Fenster_Aaron.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-03-10
 
-#profile Fenster, Aaron David
-key 202003_Fenster
+#202003_011 Fenster, Aaron David
 birth 1933-01-10
 death 2020-03-08
 military US Army @ Korean War
@@ -152,8 +141,7 @@ burial Chesed Shel Emeth Cemetery @ US/MO/University City
 !file Dunlap_Ken.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-03-10
 
-#profile Dunlap, Kenneth Joe [Ken]
-key 202003_Dunlap
+#202003_012 Dunlap, Kenneth Joe [Ken]
 birth 1931-01-26 @ US/AR/Hardy
 death 2020-03-07 @ US/OK/Bartlesville
 highschool College HS @ US/OK/Bartlesville
@@ -166,8 +154,7 @@ college Oklahoma State University
 !file Howard_Roger.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-03-11
 
-#profile Howard, Roger Earl
-key 202003_Howard
+#202003_013 Howard, Roger Earl
 birth 1931-08-03 @ US/PA/Johnstown
 death 2020-03-06
 highschool Ferndale HS @ US/MI/Ferndale
@@ -181,8 +168,7 @@ military US Army @ Korean War
 !file Marinko_Mike.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-03-11
 
-#profile Marinko, Michael G.
-key 202003_Marinko
+#202003_014 Marinko, Michael G.
 birth 1932-02-22 @ US/CT/Bridgeport
 death 2020-03-08 @ US/CT/West Haven
 military US Army @ Korean War
@@ -194,8 +180,7 @@ military US Army @ Korean War
 !file Cox_Ted.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-03-12
 
-#profile Cox, William Ted [Ted]
-key 202003_Cox
+#202003_015 Cox, William Ted [Ted]
 birth 1955-01-24 @ US/OK/Oklahoma City
 death 2020-03-11
 highschool Midwest City HS @ US/OK/Oklahoma City
@@ -207,8 +192,7 @@ highschool Midwest City HS @ US/OK/Oklahoma City
 !file Jordan_Jared.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-03-12
 
-#profile Jordan, Jared Brandon
-key 202003_Jordan
+#202003_016 Jordan, Jared Brandon
 birth 1987-12-20 
 death 2020-03-01 @ US/CA/Riverside County
 highschool Canyon Spring HS @ US/CA/Moreno Valley
@@ -223,8 +207,7 @@ college New Mexico State University
 !file DeArment_Travis.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-03-13
 
-#profile DeArment, Travis James
-key 202003_DeArment
+#202003_017 DeArment, Travis James
 birth 1997-01-24 @ US/OH/Canton
 death 2020-03-11
 highschool Perry HS @ US/OH/Perry
@@ -237,8 +220,7 @@ college Ohio Wesleyan University
 !file Hamet_Bob.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-03-15
 
-#profile Hamet, Robert Philip [Bob]
-key 202003_Hamet
+#202003_018 Hamet, Robert Philip [Bob]
 birth 1939-06-28 @ US/OH/Wauseon
 death 2020-03-11
 highschool Bryan HS @ US/OH/Bryan
@@ -252,8 +234,7 @@ burial Cremated
 !file Golczewski_Matt.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-03-15
 
-#profile Golczewski, Matthew G. [Matt]
-key 202003_Golczewski
+#202003_019 Golczewski, Matthew G. [Matt]
 birth 1994-05-02 @ US/MD/Towson
 death 2020-03-10 @ US/MD/Bel Air
 highschool Patterson Mill HS @ US/MD/Bel Air
@@ -266,8 +247,7 @@ college Towson University
 !file Orlando_Dick.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-03-16
 
-#profile Orlando, Angelo Richard [Dick]
-key 202003_Orlando
+#202003_020 Orlando, Angelo Richard [Dick]
 birth 1932-07-09 @ US/PA/New Castle
 death 2020-03-11 
 highschool New Castle HS @ US/PA/New Castle
@@ -280,8 +260,7 @@ military US Army @ Korean War
 !file Tinney_Roy.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-03-16
 
-#profile Tinney, Roy Lee, Jr.
-key 202003_Tinney
+#202003_021 Tinney, Roy Lee, Jr.
 birth 1932-05-22 @ US/OK/Altus
 death 2020-03-13
 highschool Brinkman HS @ US/OK/Brinkman
@@ -296,8 +275,7 @@ burial Roselawn Cemetery @ US/OK/Mangum
 !file Eldridge_Bob.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-03-16
 
-#profile Eldridge, Robert Wayne [Bob] "Hop"
-key 202003_Eldridge
+#202003_022 Eldridge, Robert Wayne [Bob] "Hop"
 birth 1948-02-20 @ US/IN/La Porte
 death 2020-03-12 @ US/IN/La Porte
 highschool La Porte HS @ US/IN/La Porte
@@ -312,8 +290,7 @@ college Southern Illinois University
 !file Patterson_Jarrod.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-03-16
 
-#profile Patterson, Jarrod Zane
-key 202003_Patterson
+#202003_023 Patterson, Jarrod Zane
 birth 1973-09-07 @ US/AL/Montgomery
 death 2020-03-11
 highschool Chilton County HS @ US/AL/Clanton
@@ -327,8 +304,7 @@ burial Martin Memorial Cemetery @ US/AL/Clanton
 !file Orton_Tom.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-03-16
 
-#profile Orton, Thomas Hamilton [Tom]
-key 202003_Orton
+#202003_024 Orton, Thomas Hamilton [Tom]
 birth 1938-07-04 @ US/MI/Detroit
 death 2020-03-15 @ US/TX/Georgetown
 college Valparaiso University
@@ -340,8 +316,7 @@ college Valparaiso University
 !file Hofmann_Tom.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-03-16
 
-#profile Hofmann, Tom
-key 202003_Hofmann
+#202003_025 Hofmann, Tom
 death 2020-03-10
 highschool Catholic Central HS @ US/MI/Grand Rapids
 college Aquinas College @ US/MI/Grand Rapids
@@ -353,8 +328,7 @@ college Aquinas College @ US/MI/Grand Rapids
 !file Howe_Jerry.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-03-16
 
-#profile Howe, Jerry R.
-key 202003_Howe
+#202003_026 Howe, Jerry R.
 birth 1931-03-27 @ US/IN/Winamac
 death 2020-03-10 @ US/IN/Winamac
 highschool Winamac HS @ US/IN/Winamac
@@ -368,8 +342,7 @@ burial Winamac Cemetery @ US/IN/Winamac
 !file Shroat_Bob.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-03-12
 
-#profile Shroat, Robert Albon [Bob]
-key 202003_Shroat
+#202003_027 Shroat, Robert Albon [Bob]
 birth 1922-09-18 @ US/NC/Asheville
 death 2020-03-10 @ US/NC/Asheville
 highschool Biltmore HS @ US/NC/Asheville
@@ -383,8 +356,7 @@ burial Green Hills Cemetery @ US/NC/Asheville
 !file Garabedian_Hoover.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-03-11
 
-#profile Garabedian, H. Hoover [Hoover]
-key 202003_Garabedian
+#202003_028 Garabedian, H. Hoover [Hoover]
 birth 1928-11-05 @ US/MA/Worcester
 death 2020-03-01 @ US/MA/Worcester
 highschool Northbridge HS @ US/MA/Northbridge
@@ -398,8 +370,7 @@ burial Pine Grove Cemetery @ US/MA/Northbridge
 !file Webb_Clyde.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-03-09
 
-#profile Webb, Clyde M. "Sonny"
-key 202003_Webb
+#202003_029 Webb, Clyde M. "Sonny"
 birth 1929-01-19 @ US/LA/West Monroe
 death 2020-03-06
 military US Coast Guard @ Korean War
@@ -411,8 +382,7 @@ military US Coast Guard @ Korean War
 !file Hinds_John.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-03-09
 
-#profile Hinds, John Lewis
-key 202003_Hinds
+#202003_030 Hinds, John Lewis
 birth 1942-04-06 @ US/OH/Flushing
 death 2020-03-06
 
@@ -423,8 +393,7 @@ death 2020-03-06
 !file Niemiec_Bob.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-03-08
 
-#profile Niemiec, Robert J. [Bob]
-key 202003_Niemiec
+#202003_031 Niemiec, Robert J. [Bob]
 birth @ US/MA/Chicopee
 death 2020-03-06
 highschool Chicopee HS @ US/MA/Chicopee
@@ -438,8 +407,7 @@ military US Navy
 !file Jacek_Barney.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-03-07
 
-#profile Jacek, Bernard [Barney] "Dave"
-key 202003_Jacek
+#202003_032 Jacek, Bernard [Barney] "Dave"
 birth 1924-08-06 @ US/PA/Avoca
 death 2020-03-04 @ US/PA/Pittston
 highschool Avoca HS @ US/PA/Avoca

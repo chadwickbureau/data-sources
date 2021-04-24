@@ -1,0 +1,393 @@
+!citation Des Moines Register 1915-3-04; page 6
+
+#20210421_001 Melter, Steve
+player 1915 Chattanooga (Southern Association)
+player 1914 Denver (Western)
+resides 1915 @ US/IA/Marcus
+
+---
+
+!citation Tulsa Democrat 1915-03-15; page 6
+
+#20210421_002 Black, H. M.
+player 1915 Waco (Texas); @P
+player 1915 Paris (Western Association)
+
+#20210421_003 Watson
+player 1915 Waco (Texas); @P
+player 1915 Bartlett (Middle Texas)
+
+---
+
+!citation Tulsa Democrat 1915-03-17; page 6
+
+#20210421_004 Clemons, Robert
+describe ; TL
+player 1914 Wichita (Western); @P 
+player 1914 Louisville (American Association)
+resides 1915 @ US/IA/Dows
+
+#20210421_005 Donalds, Eddie
+player 1915 Waco (Texas); @P
+player 1915 Brooklyn (National)
+
+--- 
+
+!citation Tulsa Democrat 1915-03-23; page 6
+
+#20210421_006 Clements, Steam
+player 1915 Tulsa (Western Association); @P 
+resides 1915 @ US/TX/Austin
+
+#20210421_007 Glass
+player 1915 Tulsa (Western Association); @C 
+resides 1915 @ US/TX/Austin
+
+#20210421_008 Mickey, Floyd
+player 1915 McAlester (Western Association) 
+player 1914 McAlester (Western Association)
+resides 1915 @ US/OK/Hastings
+
+#20210421_009 Long, Webber
+player 1915 McAlester (Western Association) 
+player 1914 McAlester (Western Association)
+resides 1915 @ US/OK/Davenport
+
+#20210421_010 Turpin, R. R.
+player 1915 McAlester (Western Association) 
+player 1914 McAlester (Western Association)
+resides 1915 @ US/MO/Monet
+
+#20210421_011 Warden, F. B.
+player 1915 McAlester (Western Association) 
+resides 1915 @ US/MO/St. Louis
+
+#20210421_012 Shinn, Arthur
+player 1915 McAlester (Western Association) 
+resides 1915 @ US/IL/La Harpe
+
+#20210421_013 Fowler, C. E.
+player 1915 McAlester (Western Association) 
+resides 1915 @ US/MO/St. Louis
+
+#20210421_014 Thomas, Frank
+player 1915 McAlester (Western Association); @C
+resides 1915 @ US/OK/Cordell
+
+#20210421_015 Wade, Babe
+player 1915 McAlester (Western Association); @1B
+resides 1915 @ US/TN, Memphis
+
+#20210421_016 Kling, Rudy
+player 1915 McAlester (Western Association) 
+resides 1915 @ US/MO/St. Louis
+
+#20210421_017 Lawrence, James
+player 1915 McAlester (Western Association) 
+resides 1915 @ US/OK/Krebs
+
+#20210421_018 Shelton, Arch
+player 1915 McAlester (Western Association)
+player 1914 McAlester (Western Association)
+resides 1915 @ US/TX/Bowie
+
+#20210421_019 Bauer, Herman
+player 1915 McAlester (Western Association); @SS
+resides 1915 @ US/IN/Anderson
+
+#20210421_020 Tierney, John
+player 1915 McAlester (Western Association) 
+player 1914 McAlester (Western Association)
+resides 1915 @ US/MO/Kansas City
+
+#20210421_021 Stout, Rodney
+player 1915 McAlester (Western Association) 
+resides 1915 @ US/AR/Rogers
+
+#20210421_022 Nickell, Al
+player 1915 McAlester (Western Association) 
+resides 1915 @ US/OK/Mountain Park
+
+#20210421_023 Raftery, Sylvester
+player 1915 McAlester (Western Association) 
+resides 1915 @ US/MO/St. Louis
+
+#20210421_024 Heatley, Alf
+player 1915 McAlester (Western Association) 
+player 1914 McAlester (Western Association)
+resides 1915 @ US/OK/Mangum
+
+--- 
+
+!citation Tulsa Democrat 1915-04-07; page 6
+
+#20210421_025 Scott, Guiton 
+player 1915 Wichita (Western); @P 
+player 1914 Wichita (Western); @P 
+player 1910 Sapulpa (Western Association)
+
+---
+
+!citation Dallas Morning News 1915-06-18; page 8
+
+#20210421_026 Corzine, Bert
+player 1915 Sherman (Western Association); @P TL
+note: married Mary Cash in Bonham on June 17, 1915
+
+---
+
+!citation Dallas Morning News 1915-06-19; page 11
+
+#20210421_027 Corzine 
+player 1915 Sherman (Western Association); @P TL
+
+#20210421_028 Robertson
+player 1915 Fort Smith (Western Association); @P TL
+
+#20210421_029 Kinney
+player 1915 Denison (Western Association); @P TL
+
+---
+
+!citation Dallas Morning News 1915-06-20; page 5
+
+#20210421_030 Davis, Red 
+player 1915 Houston (Texas); @OF
+player 1915 Shreveport (Texas)
+
+#20210421_031 Wainwright
+player 1915 Houston (Texas); @P
+player 1915 Shreveport (Texas)
+player 1914 Austin (Texas)
+player <=1915 Tulane; caliber=college
+
+---
+
+!citation Shreveport Times 1915-06-04; page 8
+
+#20210421_032 Wainwright, Jimmy
+player 1915 Shreveport (Texas); @P TR
+
+---
+
+!citation Tulsa Democrat 1915-06-21; page 7
+
+#20210421_033 Ryan
+player 1915 Tulsa (Western Association); @P 
+player 1914 (Western Canada) 
+
+#20210421_034 Newton, Dock
+player 1915 Tulsa (Western Association)
+player 1915 Shreveport (Texas); @2B
+
+---
+
+!citation Shreveport Times 1915-04-13; page 9
+
+#20210421_035 Newton, Doc
+player 1915 Shreveport (Texas)
+player 1915 Fort Worth (Texas)
+player 1914 (Virginia) 
+
+#20210421_036 Tally, Virgil
+player 1915 Shreveport (Texas)
+player 1915 Winston-Salem (North Carolina State)
+
+#20210421_037 Bogus
+player 1915 Shreveport (Texas)
+player 1915 Winston-Salem (North Carolina State)
+
+---
+
+!citation Dallas Morning News 1915-06-23; page 8
+
+#20210421_038 Billings
+player 1915 Ennis (Central Texas); @P
+player 1915 Bartlett (Middle Texas)
+
+#20210421_039 Gaines
+player 1915 Ennis (Central Texas)
+player 1915 Belton (Middle Texas)
+
+#20210421_040 Morrison, H. W.
+player 1915 Paris (Western Association); @P
+resides 1915 @ US/GA/Rome
+
+#20210421_041 Huey
+player 1915 Muskogee (Western Association); @P TL
+
+---
+
+!citation Dallas Morning News 1915-06-25; page 9
+
+#20210421_042 Ennis, Huber D.
+player 1915 Mexia (Central Texas)
+player 1915 Temple (Middle Texas)
+
+#20210421_043 Kizziar, L.
+player 1915 Mexia (Central Texas)
+player 1915 Belton (Middle Texas)
+
+---
+
+!citation Shreveport Times 1915-06-27; page 10
+
+#20210421_044 Hayes, Gerald
+umpire Texas 
+
+---
+
+!citation Dallas Morning News 1915-06-27; page 4
+
+#20210421_045 Chandler, Lane
+player 1915 Memphis (Southern Association); @P
+player <1915 University of Mississippi; caliber=college
+
+#20210421_046 Renfer, Earl
+player 1915 Memphis (Southern Association); @P
+player 1915 Dallas (Texas)
+
+#20210421_047 McCabe, Tom
+player 1915 Nashville (Southern Association); @OF
+player 1915 San Antonio (Texas)
+
+---
+
+!citation Knoxville Journal & Tribune 1915-05-22; page 4
+
+#20210421_048 Goulait, Ted
+player 1915 Memphis (Southern Association)
+player 1915 Dallas (Texas)
+
+---
+
+!citation Daily Oklahoman 1915-06-28; page 5
+
+#20210421_049 Chellette, Henry
+player 1915 Paris (Western Association); @P
+
+---
+
+!citation Muskogee Times-Democrat 1915-07-02; page 9
+
+#20210421_050 Setley, Bill
+umpire 1915 Western Association
+
+#20210421_051 Hendley, John
+umpire 1915 Western Association
+
+---
+
+!citation Dallas Morning News 1915-07-04; page 6
+
+#20210421_052 Nichols
+player 1915 Dallas (Texas); @P
+player <=1915 Purdue University; caliber=college
+
+#20210421_053 Renfer
+player 1915 Memphis (Southern Association); @P
+player 1915 Dallas (Texas)
+
+#20210421_054 Younkman, John
+player 1915 Paris (Western Association)
+resides 1915 @ US/KS
+
+---
+
+!citation Dallas Morning News 1915-07-06; page 9
+
+#20210421_055 Wainwright
+player 1915 Houston (Texas); @P
+player 1915 Sherman (Western Association)
+
+---
+
+!citation Dallas Morning News 1915-07-06; page 9
+
+#20210421_056 Henderson, Tony
+player 1915 Muskogee (Western Association)
+
+#20210421_057 Morgan, Cy
+player 1915 Muskogee (Western Association)
+player 1915 McAlester (Western Association)
+
+---
+
+!citation Dallas Morning News 1915-07-08; page 9
+
+#20210421_058 Gardner, Steve
+player 1915 Sherman (Western Association); @IF
+player 1915 Paris (Western Association)
+
+#20210421_059 Younkman
+player 1915 Sherman (Western Association); @P
+player 1915 Paris (Western Association)
+
+---
+
+!citation Fort Worth Star-Telegram 1915-01-29; page 12
+
+#20210421_060 Gardner 
+player 1915 Sherman (Western Association); @IF
+player 1914 Texarkana (Western Association)
+
+#20210421_061 St. John
+player 1915 Sherman (Western Association); @OF
+player 1914 Texarkana (Western Association)
+
+#20210421_062 Fullenwieder
+player 1915 Sherman (Western Association); @P
+player 1914 Texarkana (Western Association)
+
+#20210421_063 Billings
+player 1915 Sherman (Western Association); @P
+player 1914 Texarkana (Western Association)
+
+#20210421_064 Johnson
+player 1915 Sherman (Western Association); @P
+player 1914 Durant (Western Association)
+
+#20210421_065 Francis
+player 1915 Sherman (Western Association); @P
+player 1914 Durant (Western Association)
+
+---
+
+!citation Dallas Morning News 1915-07-16; page 9
+
+#20210421_066 Sewell
+player 1915 Corsicana (Central Texas); @P
+player 1915 (Texas)
+
+---
+
+!citation Dallas Morning News 1915-07-16; page 9
+
+#20210421_067 Hayes, Gerald
+umpire 1915 Texas
+
+---
+
+!citation Shreveport Times 1915-07-30; page 9
+
+#20210421_068 Moran, Charlie
+umpire 1915 Texas
+player 1914 Austin (Texas)
+
+---
+
+!citation Dallas Morning News 1915-07-30; page 8
+
+#20210421_069 Wright, Pat
+umpire 1915 Texas
+
+---
+
+!citation Fort Worth Star-Telegram 1915-07-30; page 12
+
+#20210421_070 Miller, George
+umpire 1915 Texas
+
+#20210421_071 Matthews, Wilson
+umpire 1915 Texas
+

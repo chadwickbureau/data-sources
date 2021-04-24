@@ -3,8 +3,7 @@
 !file Nelon_Cecil.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-01-03
 
-#profile Nelon, Cecil Eugene
-key 202001_Nelon
+#202001_001 Nelon, Cecil Eugene
 birth 1917-08-17 @ US/OK/Morris
 death 2020-01-01
 describe ; TR
@@ -18,8 +17,7 @@ burial Resthaven Memorial Park @ US/OK/Shawnee
 !file Bosse_Lou.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-01-06
 
-#profile Bosse, Louis T., III [Lou]
-key 202001_Bosse
+#202001_002 Bosse, Louis T., III [Lou]
 birth 1934-12-06 @ US/MD/Baltimore
 death 2020-01-03 @ US/MD/Westminster
 highschool Baltimore City College HS @ US/MD/Baltimore
@@ -32,8 +30,7 @@ military US Army
 !file Larsen_Don.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-01-06
 
-#profile Larsen, Donald James [Don]
-key 202001_Larsen
+#202001_003 Larsen, Donald James [Don]
 death 2020-01-01
 
 ---
@@ -43,8 +40,7 @@ death 2020-01-01
 !file Jensen_Gerald.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-01-08
 
-#profile Jensen, Gerald Lee, Sr.
-key 202001_Jensen
+#202001_004 Jensen, Gerald Lee, Sr.
 birth 1926-05-23 @ US/TX/Dallas
 death 2020-01-02 @ US/TX/Dallas
 highschool Woodrow Wilson HS @ US/TX/Dallas
@@ -59,8 +55,7 @@ burial Restland Cemetery @ US/TX/Dallas
 !file Harris_Shea.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-01-12
 
-#profile Harris, Shea Matthew
-key 202001_Harris_Shea
+#202001_005 Harris, Shea Matthew
 birth 1984-08-28
 death 2020-01-06
 highschool Washington Township HS @ US/NJ/Sewell
@@ -74,8 +69,7 @@ burial Eglington Cemetery @ US/NJ/Clarksboro
 !file Nunes_Mel.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-01-12
 
-#profile Nunes, Melvin E. [Mel]
-key 202001_Nunes
+#202001_006 Nunes, Melvin E. [Mel]
 birth 1925-01-13
 death 2020-01-08
 highschool Washington HS @ US/CA/Fremont
@@ -88,8 +82,7 @@ military US Army
 !file Mezzanotte_Don.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-01-12
 
-#profile Mezzanotte, Donato Joseph [Don]
-key 202001_Mezzanotte
+#202001_007 Mezzanotte, Donato Joseph [Don]
 birth @ US/RI/Providence
 death 2020-01-09
 highschool La Salle Academy @ US/RI/Providence
@@ -103,8 +96,7 @@ burial Pawtuxet Memorial Park @ US/RI/Warwick
 !file Smith_Hal.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-01-12
 
-#profile Smith, Harold Wayne [Hal]
-key 202001_Smith_Hal
+#202001_008 Smith, Harold Wayne [Hal]
 birth 1930-12-07 @ US/IL/West Frankfort
 death 2020-01-09 @ US/TX/Columbus
 
@@ -115,8 +107,7 @@ death 2020-01-09 @ US/TX/Columbus
 !file Luers_Paul.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-01-12
 
-#profile Luers, Paul A.
-key 202001_Luers
+#202001_009 Luers, Paul A.
 birth 1932-08-18
 death 2020-01-09
 
@@ -127,8 +118,7 @@ death 2020-01-09
 !file Segura_Fausto.pdf 
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-01-13
 
-#profile Segura, Fausto
-key 202001_Segura
+#202001_010 Segura, Fausto
 death 2020-01-11 @ DO//Barahona
 
 ---
@@ -138,8 +128,7 @@ death 2020-01-11 @ DO//Barahona
 !file Rose_George.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-01-13
 
-#profile Rose, George Alvin, Sr. "Porky"
-key 202001_Rose
+#202001_011 Rose, George Alvin, Sr. "Porky"
 birth 1930-07-16 @ US/NC/Monroe
 death 2020-01-10
 burial Lakeland Memorial Park @ US/NC/Monroe
@@ -151,8 +140,7 @@ burial Lakeland Memorial Park @ US/NC/Monroe
 !file Rullmann_Edward.docx
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-01-13
 
-#profile Rullmann, Edward R.
-key 202001_Rullmann
+#202001_012 Rullmann, Edward R.
 birth 1925-09-25 @ US/WI/Milwaukee
 death 2020-01-03
 military US Army @ World War II
@@ -164,8 +152,7 @@ military US Army @ World War II
 !file Cargill_Hayes.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-01-14
 
-#profile Cargill, Hayes, Jr.
-key 202001_Cargill
+#202001_013 Cargill, Hayes, Jr.
 death 2020-01-12
 military US Army @ World War II
 burial Bowne Center Cemetery @ US/MI/Bowne Center
@@ -177,8 +164,7 @@ burial Bowne Center Cemetery @ US/MI/Bowne Center
 !file Dunn_Bill.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-01-15
 
-#profile Dunn, William James [Bill]
-key 202001_Dunn
+#202001_014 Dunn, William James [Bill]
 birth 1972-03-25 @ US/DC/Washington
 death 2020-01-04
 highschool Mount St. Joseph HS @ US/MD/Baltimore
@@ -192,8 +178,7 @@ burial Resurrection Cemetery @ US/MD/Clinton
 !file Roberson_Joe.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-01-15
 
-#profile Roberson, Marvin Joseph [Joe]
-key 202001_Roberson
+#202001_015 Roberson, Marvin Joseph [Joe]
 birth 1935-09-22 @ US/MI/Flint
 death 2020-01-13
 highschool Flint Northern HS @ US/MI/Flint
@@ -205,8 +190,7 @@ highschool Flint Northern HS @ US/MI/Flint
 !file Castiglione_Gene.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-01-16
 
-#profile Castiglione, Eugene [Gene] "Deke"
-key 202001_Castiglione
+#202001_016 Castiglione, Eugene [Gene] "Deke"
 birth 1928-06-30 @ US/IL/Chicago
 death 2020-01-07 @ US/IL/Springfield
 highschool Benld HS @ US/IL/Benld
@@ -219,8 +203,7 @@ military US Army @ Korean War
 !file Smith_David.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-01-16
 
-#profile Smith, David Carl
-key 202001_Smith_David
+#202001_017 Smith, David Carl
 birth 1946-11-18 @ US/VT/Burlington
 death 2020-01-14 @ US/NY/East Greenbush
 highschool Hoosic Valley HS @ US/NY/Schaghticoke
@@ -233,8 +216,7 @@ burial @ US/MA/Winchendon
 !file Takagi_Morimichi.jpg
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-01-18
 
-#profile Takagi, Morimichi
-key 202001_Takagi
+#202001_018 Takagi, Morimichi
 death 2020-01-17
 
 ---
@@ -244,8 +226,7 @@ death 2020-01-17
 !file Benedetto_Art.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-01-19
 
-#profile Benedetto, Arthur [Art]
-key 202001_Benedetto
+#202001_019 Benedetto, Arthur [Art]
 birth 1933-09-15 @ US/IL/Chicago 
 death 2020-01-17 @ US/MI/Jackson
 
@@ -256,8 +237,7 @@ death 2020-01-17 @ US/MI/Jackson
 !file Pelati_George.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-01-19
 
-#profile Pelati, George P.
-key 202001_Pelati
+#202001_020 Pelati, George P.
 birth 1921 @ US/MA/Bridgewater
 death 2020-01-14
 military US Army @ World War II
@@ -270,8 +250,7 @@ burial St. Thomas Aquinas Cemetery @ US/MA/Bridgewater
 !file Talbott_Danny.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-01-20
 
-#profile Talbott, Danny
-key 202001_Talbott
+#202001_021 Talbott, Danny
 sameas sr_cfb:danny-talbott-1
 death 2020-01-19 @ US/NC/Rocky Mount
 highschool Rocky Mount HS @ US/NC/Rocky Mount
@@ -284,8 +263,7 @@ college University of North Carolina
 !file Hallgren_Arnie.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-01-20
 
-#profile Hallgren, Arnold Robert [Arnie]
-key 202001_Hallgren
+#202001_022 Hallgren, Arnold Robert [Arnie]
 death 2020-01-14 @ CA/BC/Vancouver
 highschool King Edward HS @ CA/BC/Vancouver
 burial Buck Creek Community Cemetery @ CA/AB/Buck Creek
@@ -297,8 +275,7 @@ burial Buck Creek Community Cemetery @ CA/AB/Buck Creek
 !file Davis_Hazen.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-01-20
 
-#profile Davis, Hazen E.
-key 202001_Davis
+#202001_023 Davis, Hazen E.
 birth 1935-07-23 @ US/OH/Mercer County
 death 2020-01-12 @ US/OH/Celina
 highschool Celina HS @ US/OH/Celina
@@ -311,8 +288,7 @@ burial Swamp College Cemetery @ US/OH/Celina
 !file Larsen_Don_2.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-01-22
 
-#profile Larsen, Don James
-key 202001_Larsen_2
+#202001_024 Larsen, Don James
 birth 1929-08-07 @ US/IN/Michigan City
 death 2020-01-01 @ US/ID/Coeur d'Alene
 highschool Point Loma HS @ US/CA/San Diego
@@ -325,8 +301,7 @@ military US Army @ Korean War
 !file Elble_Joe.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-01-23
 
-#profile Elble, Joseph B., Sr.
-key 202001_Elble
+#202001_025 Elble, Joseph B., Sr.
 birth 1932-04-16 @ US/IL/Alton
 death 2020-01-18 @ US/IL/Bloomington
 military US Army
@@ -338,8 +313,7 @@ military US Army
 !file Hankins_Jay.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-01-24
 
-#profile Hankins, Jay N.
-key 202001_Hankins
+#202001_026 Hankins, Jay N.
 birth 1935-11-07
 death 2020-01-20
 highschool Ritenour HS @ US/MO/Breckenridge Hills
@@ -353,8 +327,7 @@ burial Park Lawn Cemetery @ US/MO/St. Louis
 !file Sams_Bill.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-01-25
 
-#profile Sams, William [Bill]
-key 202001_Sams
+#202001_027 Sams, William [Bill]
 birth 1923-07-18 @ US/PA/Washington
 death 2020-01-08 @ US/PA/York
 highschool Trinity HS @ US/PA/Washington
@@ -368,8 +341,7 @@ burial Queen of Heaven Catholic Cemetery @ US/PA/McMurray
 !file Hall_Don.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-01-25
 
-#profile Hall, Donald Earl [Don]
-key 202001_Hall
+#202001_028 Hall, Donald Earl [Don]
 birth @ US/MD/Baltimore
 death 2020-01-14 @ US/MD/Windsor Mill
 highschool Southern HS @ US/MD/Baltimore
@@ -382,8 +354,7 @@ military US Army @ Vietnam War
 !file Semke_Jay.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-01-26
 
-#profile Semke, Jay Andrew
-key 202001_Semke
+#202001_029 Semke, Jay Andrew
 birth 1966-12-25 @ US/OH/Youngstown
 death 2020-01-19
 college Ohio State University
@@ -395,8 +366,7 @@ college Ohio State University
 !file Altobelli_John.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-01-27
 
-#profile Altobelli, John
-key 202001_Altobelli
+#202001_030 Altobelli, John
 death 2020-01-26 @ US/CA/Calabasas
 
 ---
@@ -406,8 +376,7 @@ death 2020-01-26 @ US/CA/Calabasas
 !file Lott_George.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-01-27
 
-#profile Lott, George A., Jr.
-key 202001_Lott
+#202001_031 Lott, George A., Jr.
 birth 1943-10-31 @ US/MS/McComb
 death 2020-01-23
 highschool McComb HS @ US/MS/McComb
@@ -419,8 +388,7 @@ highschool McComb HS @ US/MS/McComb
 !file Garvey_Bob.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-01-27
 
-#profile Garvey, Robert E. [Bob]
-key 202001_Garvey
+#202001_032 Garvey, Robert E. [Bob]
 birth 1932-06-06 @ US/DE/Wilmington
 death 2020-01-21 @ US/DE/Millsboro
 highschool Henry C. Conrad HS @ US/DE/Wilmington
@@ -434,8 +402,7 @@ burial Delaware Veterans Memorial Cemetery @ US/DE/Millsboro
 !file Broughton_Virg.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-01-27
 
-#profile Broughton, Virgil Park [Virg]
-key 202001_Broughton
+#202001_033 Broughton, Virgil Park [Virg]
 birth 1938-11-24 @ US/WV/Elkins
 death 2020-01-19 @ US/WV/Elkins
 highschool Beverly HS @ US/WV/Beverly
@@ -449,8 +416,7 @@ burial Little Arlington Cemetery @ US/WV/Elkins
 !file Castro_Jack.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-01-31
 
-#profile Castro, John Edward [Jack]
-key 202001_Castro
+#202001_034 Castro, John Edward [Jack]
 birth 1927-11-28
 death 2020-01-26
 highschool Western HS @ US/DC/Washington
@@ -462,8 +428,7 @@ highschool Western HS @ US/DC/Washington
 !file Sowers_Walter.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-01-31
 
-#profile Sowers, Walter Russell
-key 202001_Sowers
+#202001_035 Sowers, Walter Russell
 birth 1926-07-04 @ US/PA/Slatington
 death 2020-01-24
 highschool Wyomissing HS @ US/PA/Wyomissing 
@@ -476,8 +441,7 @@ military US Army @ World War II
 !file Metcalf_Jack.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-01-31
 
-#profile Metcalf, Jack William
-key 202001_Metcalf
+#202001_036 Metcalf, Jack William
 birth 1935-08-20
 death 2020-01-25 @ US/NC/Forest City
 military US Navy
@@ -489,8 +453,7 @@ military US Navy
 !file Mastroianni_Sylvio.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-01-31
 
-#profile Mastroianni, Sylvio Sergio
-key 202001_Mastroianni
+#202001_037 Mastroianni, Sylvio Sergio
 birth @ US/NY/Bronx
 death 2020-01-24 @ US/NY/Stony Point
 military US Army @ Korean War
@@ -502,8 +465,7 @@ military US Army @ Korean War
 !file Harris_Rudolph.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-01-31
 
-#profile Harris, Donald Rudolph [Rudolph]
-key 202001_Harris_Rudolph
+#202001_038 Harris, Donald Rudolph [Rudolph]
 birth 1935-12-03 @ US/KY/Uniontown
 death 2020-01-21
 highschool Blessed Martin HS @ US/KY/Waverly
@@ -516,8 +478,7 @@ burial Evergreen Memorial Park @ US/IN/Hobart
 !file Caudill_Charles.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-01-31
 
-#profile Caudill, Charles Dudley
-key 202001_Caudill
+#202001_039 Caudill, Charles Dudley
 birth 1937-03-29 @ US/KY/Morehead
 death 2020-01-16 @ US/OH/Urbana
 highschool Breckinridge Training School @ US/KY/Morehead
@@ -532,8 +493,7 @@ burial Greenwood Cemetery @ US/OH/De Graff
 !file Elvira_Narciso.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-01-31
 
-#profile Elvira, Narciso
-key 202001_Elvira
+#202001_040 Elvira, Narciso
 death 2020-01-28 @ MX/Veracruz/Medellín de Bravo
 
 ---
@@ -543,8 +503,7 @@ death 2020-01-28 @ MX/Veracruz/Medellín de Bravo
 !file Yearick_Al.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-01-31
 
-#profile Yearick, Allen H. [Al]
-key 202001_Yearick
+#202001_041 Yearick, Allen H. [Al]
 birth 1928-08-28 @ US/PA/Williamsport
 death 2020-01-27 @ US/PA/Lewisburg
 highschool Williamsport HS @ US/PA/Williamsport
@@ -558,8 +517,7 @@ military US Army @ World War II
 !file Formento_Steve.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-01-31
 
-#profile Formento, Stephen P. [Steve]
-key 202001_Formento
+#202001_042 Formento, Stephen P. [Steve]
 birth 1931-03-08
 death 2020-01-27 
 college Indiana University of Pennsylvania
@@ -573,8 +531,7 @@ burial Deer Creek Cemetery @ US/PA/Cheswick
 !file Kovarik_James.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-01-31
 
-#profile Kovarik, James Casper 
-key 202001_Kovarik
+#202001_043 Kovarik, James Casper 
 birth 1932-03-10 @ US/MO/St. Louis
 death 2020-01-05
 highschool St. Mary's HS @ US/MO/St. Louis
@@ -587,8 +544,7 @@ burial Resurrection Cemetery @ US/MO/Affton
 !file Hasenmayer_Don.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-02-02
 
-#profile Hasenmayer, Donald I. [Don]
-key 202001_Hasenmayer
+#202001_044 Hasenmayer, Donald I. [Don]
 birth 1927-04-04
 death 2020-01-28
 highschool Abington HS @ US/PA/Abington
@@ -602,8 +558,7 @@ burial Forest Hills Cemetery @ US/PA/Philadelphia
 !file Dulmage_Tom.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-02-02
 
-#profile Dulmage, Thomas A. [Tom]
-key 202001_Dulmage
+#202001_045 Dulmage, Thomas A. [Tom]
 birth 1927-03-16 @ US/NY/Watertown
 death 2020-01-26
 highschool Watertown HS @ US/NY/Watertown
@@ -617,8 +572,7 @@ military US Navy @ World War II
 !file Bakkelund_Donald.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-02-03
 
-#profile Bakkelund, Donald
-key 202001_Bakkelund
+#202001_046 Bakkelund, Donald
 birth 1920-11-24 @ US/IL/Rockford
 death 2020-01-29 @ US/IL/Rockford
 military US Army @ World War II
@@ -631,8 +585,7 @@ burial Sunset Memorial Gardens @ US/IL/Machesney Park
 !file West_Dwaine.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-02-03
 
-#profile West, Cecil Dwaine [Dwaine]
-key 202001_West
+#202001_047 West, Cecil Dwaine [Dwaine]
 birth 1936-11-03 @ US/OK/Harmon
 death 2020-01-28 @ US/OK/Woodward
 military US Army
@@ -644,8 +597,7 @@ military US Army
 !file McQuarrie_Bob.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-02-03
 
-#profile McQuarrie, Robert Gordon [Bob]
-key 202001_McQuarrie
+#202001_048 McQuarrie, Robert Gordon [Bob]
 birth 1929-06-02 @ US/CT/Waterbury
 death 2020-01-29 @ US/CT/Thomaston
 highschool Thomaston HS @ US/CT/Thomaston
@@ -658,8 +610,7 @@ military US @ Korean War
 !file Aviles_Ramon.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-02-03
 
-#profile Aviles, Ramon
-key 202001_Aviles
+#202001_049 Aviles, Ramon
 death 2020-01-27 @ PR//Manati
 
 ---
@@ -669,8 +620,7 @@ death 2020-01-27 @ PR//Manati
 !file Nicholson_Harvey.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-02-09
 
-#profile Nicholson, Harvey
-key 202001_Nicholson
+#202001_050 Nicholson, Harvey
 death 2020-01-31 @ CA/ON/Chatham-Kent
 
 ---
@@ -680,8 +630,7 @@ death 2020-01-31 @ CA/ON/Chatham-Kent
 !file Tomasovich_Ted.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-02-07
 
-#profile Tomasovich, Ted
-key 202001_Tomasovich
+#202001_051 Tomasovich, Ted
 birth 1946-12-10
 death 2020-01-26 @ US/WA/Washougal
 highschool Weir HS @ US/WV/Weirton

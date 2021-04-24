@@ -262,3 +262,87 @@ death 1999-12-09
  
 #202104_031 Puckett, Elliott Lijah
 birth 1917-08-18 @ US/NC/Henderson
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-18
+ 
+#202104_032 Bahurinsky, Amil
+birth 1918-09-09 @ US/PA/Meadville
+ 
+---
+ 
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-18
+ 
+#202104_033 Bahurinsky, Amil
+alias Brinsky, Amil
+sameas ssn:177-03-5166
+birth 1918-09-09 @ US/PA/Meadville
+death 2004-05-11
+
+---
+ 
+!citation US Dept. of Veterans Affairs BIRLS Death File, 1850-2010
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-20
+ 
+#202104_034 Funk, Edward C.
+sameas ssn:203-09-8253
+birth 1918-11-09
+death 1979-07-05
+military US Air Force @ World War II
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-21
+ 
+#202104_035 Haas, Robert Jay
+birth 1919-03-28 @ US/IA/Waterloo
+ 
+---
+ 
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-21
+ 
+#202104_036 Haas, Robert Jay
+sameas ssn:501-09-7972
+birth 1919-03-28 @ US/IA/Waterloo
+death 2003-01-07
+
+---
+
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-21
+ 
+#202104_037 Hecklinger, Frank Thomas
+sameas ssn:079-16-0366
+birth 1921-04-28
+death 2009-08-29
+
+---
+ 
+!citation US WWII Draft Registration Cards, 1942
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-23
+ 
+#202104_038 Halstein, John Decene
+birth 1889-05-20 @ US/NY/St. Remy
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-23
+ 
+#202104_039 Pearson, Thomas Albert, III
+birth 1928-07-25 @ US/IN/Gary
+ 
+---
+ 
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-23
+ 
+#202104_040 Pearson, Thomas Albert
+sameas ssn:311-26-3237
+birth 1928-07-25 @ US/IN/Gary
+death 2000-01-01

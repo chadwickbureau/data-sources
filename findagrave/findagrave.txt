@@ -6409,3 +6409,135 @@ sameas findagrave:188272178
 birth 1917-08-18
 death 1980-02-22
 burial Maplewood Cemetery @ US/NC/Durham
+
+---
+
+!citation findagrave.com @ 2021-04-18
+!url https://www.findagrave.com/memorial/3716223/william-heerdt
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-18
+ 
+#523 Heerdt, William
+sameas findagrave:3716223
+birth 1931-07-03
+death 1982-11-26
+burial Los Angeles National Cemetery @ US/CA/Los Angeles
+
+---
+
+!citation findagrave.com @ 2021-04-20
+!url https://www.findagrave.com/memorial/202486492/henry-ross-feimster
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-20
+ 
+#524 Feimster, Henry Ross
+sameas findagrave:202486492
+birth 1919-11-07 @ US/NC/Scotts
+death 1999-12-19 @ US/NC/Black Mountain
+burial New Amity ARP Cemetery @ US/NC/Statesville
+
+---
+
+!citation findagrave.com @ 2021-04-20
+!url https://www.findagrave.com/memorial/105377091/stanley-w.-ferek
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-20
+ 
+#525 Ferek, Stanley W., Jr.
+sameas findagrave:105377091
+birth 1921-12-05 @ US/PA/Keisterville
+death 1977-12-30 @ US/PA/Carmichaels
+burial Greene County Memorial Park @ US/PA/Waynesburg
+
+---
+ 
+!citation findagrave.com @ 2021-04-20
+!url https://www.findagrave.com/memorial/123114498/edward-c.-funk
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-20
+ 
+#526 Funk, Edward C.
+sameas findagrave:123114498
+birth 1918
+death 1979
+burial Zion Evangelical Lutheran Church Cemetery @ US/PA/Zionhill
+
+---
+
+!citation findagrave.com @ 2021-04-21
+!url https://www.findagrave.com/memorial/52072036/tracy-davis-hitchner
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-21
+ 
+#527 Hitchner, Tracy Davis
+sameas findagrave:52072036
+birth 1909-07-04 @ US/NJ/Elmer
+death 1999-05-22 @ US/NC/Hickory
+burial Catawba Memorial Park @ US/NC/Hickory
+
+---
+
+!citation findagrave.com @ 2021-04-21
+!url https://www.findagrave.com/memorial/214587798/nathaniel_j-jeffries
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-21
+ 
+#528 Jeffries, Nathaniel J.
+sameas findagrave:214587798
+birth 1914-08-05
+death 1995-04-17
+burial Riverside Cemetery @ US/NY/Rochester
+
+---
+ 
+!citation findagrave.com @ 2021-04-21
+!url https://www.findagrave.com/memorial/71791217/leonard-leonide-kasparovitch
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-21
+ 
+#529 Kasparovitch, Leonard Leonide, Sr.
+sameas findagrave:71791217
+birth 1919-07-21 @ US/HI/Honolulu
+death 1994-03-15 @ US/HI/Honolulu
+burial Diamond Head Memorial Park @ US/HI/Honolulu
+
+---
+
+!citation findagrave.com @ 2021-04-22
+!url https://www.findagrave.com/memorial/62602101/charles-gray-horne
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-22
+ 
+#530 Horne, Charles Gray, Sr.
+sameas findagrave:62602101
+birth 1911-05-31 @ US/VA
+death 1992-03-16 @ US/NC/Charlotte
+burial Sharon Memorial Park @ US/NC/Charlotte
+
+---
+
+!citation findagrave.com @ 2021-04-23
+!url https://www.findagrave.com/memorial/81906049/wilburn-paul-linch
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-23
+ 
+#531 Linch, Wilburn Paul
+sameas findagrave:81906049
+birth 1913-09-22
+death 1958-07-02
+burial Roselawn Memorial Garden @ US/AR/Pine Bluff
+
+---
+ 
+!citation findagrave.com @ 2021-04-23
+!url https://www.findagrave.com/memorial/31059913/hal
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-23
+ 
+#532 Halstein, John D.
+sameas findagrave:31059913
+birth 1889
+death 1966-05-26 @ US/CT/Meriden
+burial Sacred Heart Cemetery @ US/CT/Meriden
+
+---
+
+!citation findagrave.com @ 2021-04-23
+!url https://www.findagrave.com/memorial/76896824/john-bernard-costa
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-23
+ 
+#533 Costa, John Bernard [Jack]
+sameas findagrave:76896824
+birth 1907-07-29 @ US/CA
+death 1981-02-05 @ US/CA/Sonoma County
+burial Sebastopol Memorial Lawn Cemetery @ US/CA/Sebastopol
