@@ -1,0 +1,126 @@
+!citation Maysville Public Ledger @ 1916-05-17; page 4
+
+#20210429_001 Frey
+player 1916 Maysville (Ohio State)
+player 1916 Huntington (Ohio State)
+
+---
+
+!citation Maysville Public Ledger @ 1916-06-06; page 1
+
+#20210429_002 Asbury
+player 1916 Maysville (Ohio State); @P
+
+---
+
+!citation Maysville Public Ledger @ 1916-05-31; page 1
+
+#20210429_003 Asbury, Tom
+player 1916 Maysville (Ohio State)
+
+---
+
+!citation Charleston (WV) Daily Mail @ 1916-05-10; page 8
+
+#20210429_004 Hoffman, Lawrence
+player 1916 Charleston (Ohio State)
+
+---
+
+!citation Charleston (WV) Daily Mail @ 1916-06-17; page 10
+
+#20210429_005 King
+player 1916 Huntington (Ohio State); TL
+
+---
+
+!citation Charleston (WV) Daily Mail @ 1916-05-11; page 8
+
+#20210429_006 Emmett
+player 1916 Huntington (Ohio State); TL
+
+---
+
+!citation Baltimore Sun @ 1916-06-18; page 29
+
+#20210429_007 Kelly, Joseph
+player 1916 Cumberland (Potomac)
+
+#20210429_008 Williams
+player 1916 Cumberland (Potomac); TR
+resides 1916@US/OH/Marietta
+
+#20210429_009 Grayce
+player 1916 Cumberland (Potomac)
+player 1916 Hagerstown (Blue Ridge)
+
+---
+
+!citation Baltimore Sun @ 1916-07-02; page 25
+
+#20210429_010 Dye, Charley
+player 1916 Cumberland (Potomac)
+player 1916 Bridgeport (Eastern)
+resides 1916@US/MD/Barton
+
+---
+
+!citation Frederick News @ 1916-04-20; page 3
+
+#20210429_011 Stair
+player 1916 Frostburg (Potomac)
+player 1915 (Blue Ridge)
+
+---
+
+!citation Hanover Evening Star @ 1916-05-25; page 3
+
+#20210429_012 Jamison, Bill
+player 1916 Lonaconing (Potomac)
+
+#20210429_013 Kane, Paddy
+player 1916 Lonaconing (Potomac)
+player 1915 Gettysburg (Blue Ridge)
+
+
+---
+
+!citation Baltimore Sun @ 1916-06-04; page 30
+
+#20210429_014 Robinson
+player 1916 Cumberland (Potomac)
+player 1916 Gettysburg (Blue Ridge)
+notes pitched for Cumberland on June 1
+
+---
+
+!citation Baltimore Sun @ 1916-05-08; page 8
+
+#20210429_015 Harris, B.
+player 1916 Piedmont (Potomac); @2B
+
+---
+
+!citation Baltimore Sun @ 1916-04-30; page 31
+
+#20210429_016 Harris, Barnard
+player 1916 Piedmont (Potomac)
+
+#20210429_017 Tobey
+player 1915 Brockton (Colonial)
+player 1916 Hagerstown (Blue Ridge)
+
+---
+
+!citation Hanover Evening Star @ 1916-05-13; page 3
+
+#20210429_018 Tobey
+player 1916 Hagerstown (Blue Ridge); @P
+
+---
+
+!citation Frederick News @ 1916-05-24; page 3
+
+#20210429_019 Tobey
+player 1916 Lonaconing (Potomac)
+player 1916 Hagerstown (Blue Ridge)
