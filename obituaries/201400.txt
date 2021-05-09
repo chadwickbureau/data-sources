@@ -3,8 +3,7 @@
 !file Tuma_Hal.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-10-07
 
-#profile Tuma, Harold Edward [Hal]
-key 201400_Tuma
+#201400_001 Tuma, Harold Edward [Hal]
 birth 1923-03-15 @ US/NE/Cotesfield
 death 2014 @ US/WY/Casper
 highschool Glenrock HS @ US/WY/Glenrock
@@ -17,8 +16,7 @@ military US Marines @ World War II
 !file Berka_Mel.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-08-03
 
-#profile Berka, Melvin A. [Mel]
-key 201400_Berka
+#201400_002 Berka, Melvin A. [Mel]
 birth 1931-02-18 @ US/IA/Charter Oak
 death 2014
 burial Fairview Cemetery @ US/NE/Lincoln
@@ -30,8 +28,7 @@ burial Fairview Cemetery @ US/NE/Lincoln
 !file Theodore_Harry.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-04-30
 
-#profile Theodore, Harry G.
-key 201400_Theodore
+#201400_003 Theodore, Harry G.
 birth 1920-11-10 @ US/MA/Boston
 death 2014
 burial Forest Hills Cemetery @ US/MA/Boston
@@ -43,8 +40,7 @@ burial Forest Hills Cemetery @ US/MA/Boston
 !file Sinovic_Dick.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-12-11
 
-#profile Sinovic, Richard [Dick]
-key 201400_Sinovic
+#201400_004 Sinovic, Richard [Dick]
 birth @ US/OR/Portland
 death 2014
 highschool Commerce HS @ US/OR/Portland

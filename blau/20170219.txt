@@ -1,13 +1,11 @@
 !citation TSN @ 1933-01-05; page 6
 
-#profile Meek, Herman
-key 20170219_001
+#20170219_001 Meek, Herman
 player 1907 Birmingham (Southern Association)
 
 ---
 
-#profile O'Hara, John
-key 20170219_002
+#20170219_002 O'Hara, John
 player 1907 Utica (New York State)
 player 1908 Utica (New York State)
 
@@ -15,8 +13,7 @@ player 1908 Utica (New York State)
 
 !citation TSN @ 1933-01-05; page 6
 
-#profile Sparger, Bill
-key 20170219_003
+#20170219_003 Sparger, Bill
 death 1932-08 @ US/OK/Durant
 player 1902 Dallas (Texas)
 
@@ -24,8 +21,7 @@ player 1902 Dallas (Texas)
 
 !citation TSN @ 1933-01-05; page 6
 
-#profile Sprague, Cliff
-key 20170219_004
+#20170219_004 Sprague, Cliff
 death 1932-07-10
 player 1932 Davenport (Missouri Valley)
 
@@ -33,8 +29,7 @@ player 1932 Davenport (Missouri Valley)
 
 !citation TSN @ 1933-01-05; page 6
 
-#profile Stickney, William
-key 20170219_005
+#20170219_005 Stickney, William
 death 1932-12-16 @ US/GA/Atlanta
 player 1888 Jackson (Tri-State)
 
@@ -42,8 +37,7 @@ player 1888 Jackson (Tri-State)
 
 !citation TSN @ 1933-01-05; page 6
 
-#profile Sullinger, Wilford
-key 20170219_006
+#20170219_006 Sullinger, Wilford
 death 1932
 player 1905 Jopiln (Western Association)
 
@@ -51,8 +45,7 @@ player 1905 Jopiln (Western Association)
 
 !citation TSN @ 1933-01-05; page 6
 
-#profile Walsh, Vince
-key 20170219_007
+#20170219_007 Walsh, Vince
 death 1932-07-30 @ US/MO/St. Louis
 player 1922 Augusta (South Atlantic)
 
@@ -60,8 +53,7 @@ player 1922 Augusta (South Atlantic)
 
 !citation San Antonio Light @ 1927-08-08; page 6
 
-#profile Arzatti, Pete
-key 20170219_008
+#20170219_008 Arzatti, Pete
 player 1927 Laredo (Texas Valley)
 player 1927 San Antonio (Texas)
 
@@ -69,8 +61,7 @@ player 1927 San Antonio (Texas)
 
 !contributor Davis Barker
 
-#profile Lord, Carlton
-key 20170219_009
+#20170219_009 Lord, Carlton
 player 1921 Rock Island (Illinois-Indiana-Iowa)
 player 1923 Philadelphia (National)
 
@@ -79,8 +70,7 @@ player 1923 Philadelphia (National)
 !citation Springfield (MO) Republican @ 1923-07-25; page 7
 !citation Springfield (MO) Republican @ 1924-05-08; page 2
 
-#profile Austin, Jimmy
-key 20170219_010
+#20170219_010 Austin, Jimmy
 player 1923 Springfield (Western Association)
 player 1924 Tulsa (Western)
 
@@ -89,8 +79,7 @@ player 1924 Tulsa (Western)
 !citation Springfield (MO) Republican @ 1924-05-08; page 2
 !citation Springfield (MO) Leader @ 1923-11-22; page 13
 
-#profile Roche, Jack
-key 20170219_011
+#20170219_011 Roche, Jack
 player 1923 Enid (Western Association)
 player 1924 Denver (Western)
 
@@ -100,8 +89,7 @@ player 1924 Denver (Western)
 !citation Hutchinson News @ 1923-09-17; page 10
 !citation Springfield (MO) Republican @ 1924-05-08; page 2
 
-#profile Kahdot, Ike
-key 20170219_012
+#20170219_012 Kahdot, Ike
 player 1922 Coffeyville (Southwestern)
 player 1923 Coffeyville (Southwestern)
 
@@ -109,8 +97,7 @@ player 1923 Coffeyville (Southwestern)
 
 !citation Des Moines Register @ 1928-04-02; page 6
 
-#profile Smith, Marvin
-key 20170219_013
+#20170219_013 Smith, Marvin
 player 1926 Portland (Pacific Coast)
 player 1928 Wichita (Western)
 
@@ -118,8 +105,7 @@ player 1928 Wichita (Western)
 
 !citation Des Moines Register @ 1928-04-02; page 6
 
-#profile Roberts, Red
-key 20170219_014
+#20170219_014 Roberts, Red
 player 1927 Omaha (Western)
 player 1928 Wichita (Western); TR
 
@@ -128,8 +114,7 @@ player 1928 Wichita (Western); TR
 !citation Des Moines Register @ 1928-08-23; page 19
 !citation Eugene Guard @ 1928-02-02; page 8
 
-#profile Baker, Loris
-key 20170219_015
+#20170219_015 Baker, Loris
 player 1927 Peoria (Illinois-Indiana-Iowa)
 player 1928 San Francisco (Pacific Coast)
 player 1928 Des Moines (Western)
@@ -139,8 +124,7 @@ player 1928 Des Moines (Western)
 !citation TSN @ 1911-04-22; page 9
 !citation Chicago Inter Ocean @ 1911-02-28; page 4
 
-#profile Ball, Harry
-key 20170219_016
+#20170219_016 Ball, Harry
 player 1910 Adrian (Southern Michigan)
 player 1911 Danville (Illinois-Indiana-Iowa)
 
@@ -148,8 +132,7 @@ player 1911 Danville (Illinois-Indiana-Iowa)
 
 !contributor Davis Barker
 
-#profile Murphy, J. Franklin [Frank]
-key 20170219_017
+#20170219_017 Murphy, J. Franklin [Frank]
 player 1915 Ottawa (Bi-State)
 player 1921 Rock Island (Illinois-Indiana-Iowa)
 resides 1921 @ US/MO/Joliet
@@ -157,8 +140,7 @@ resides 1921 @ US/MO/Joliet
 
 ---
 
-#profile Pember, Herbert Lee [Herb]
-key 20170219_018
+#20170219_018 Pember, Herbert Lee [Herb]
 birth 1906-04-19 @ US/VT/Westminster
 death 1932-11-11
 player 1930 Springfield (Illinois-Indiana-Iowa)
@@ -168,8 +150,7 @@ player 1932 Pueblo (Western); BL TR H68.5 W175
 
 !citation Sporting Life @ 1915-05-17; page 11
 
-#profile Barger, Everett
-key 20170219_019
+#20170219_019 Barger, Everett
 player 1914 Traverse City (Michigan State)
 player 1915 Saginaw (Southern Michigan)
 
@@ -179,8 +160,7 @@ player 1915 Saginaw (Southern Michigan)
 !citation Boston Globe @ 1928-03-14; page 27
 !citation Boston Globe @ 1928-03-17; page 9
 
-#profile Barciewicz, Frankie
-key 20170219_029
+#20170219_020 Barciewicz, Frankie
 player 1928 Portland (New England)
 resides 1928 @ US/MA/Danvers
 player 1929 Greensboro (Piedmont)
@@ -192,8 +172,7 @@ player 1929 Greensboro (Piedmont)
 !citation Pittsburgh Press @ 1922-03-28; page 25
 !citation Indianapolis Star @ 1924-07-25; page 13
 
-#profile Barnes, William [Bill]
-key 20170219_030
+#20170219_021 Barnes, William [Bill]
 player 1922 Syracuse (International); BR TR
 player 1922 Houston (Texas)
 player 1922 Fort Smith (Western Association)
@@ -204,24 +183,21 @@ player 1924 Danville (Illinois-Indiana-Iowa)
 
 !citation Pittsburgh Press @ 1922-03-28; page 25
 
-#profile Pierotti, Adolph
-key 20170219_031
+#20170219_022 Pierotti, Adolph
 player 1921 Houston (Texas); BR TR
 
 ---
 
 !citation Pittsburgh Press @ 1922-03-28; page 25
 
-#profile Wimer, Irving
-key 20170219_032
+#20170219_023 Wimer, Irving
 player 1921 Lansing (Central); BR TR
 
 ---
 
 !citation Shamokin News-Dispatch @ 1925-06-27; page 2
 
-#profile Barney, Ed
-key 20170219_033
+#20170219_024 Barney, Ed
 player 1925 Elmira (New York-Pennsylvania)
 manager 1925 Elmira (New York-Pennsylvania)
 
@@ -234,8 +210,7 @@ manager 1925 Elmira (New York-Pennsylvania)
 !citation Alexandria Town Talk @ 1927-08-05; page 10
 !citation Corsicana Daily Sun @ 1927-06-02; page 17
 
-#profile Barrett, Steve "Son"
-key 20170219_034
+#20170219_025 Barrett, Steve "Son"
 player 1924 Corsicana (Texas Association)
 player 1925 Alexandria (Cotton States)
 player 1925 Hattiesburg (Cotton States)
@@ -247,8 +222,7 @@ player 1927 Texarkana (Lone Star)
 
 !citation Altoona Tribune @ 1925-08-06; page 10
 
-#profile Barron, Red
-key 20170219_035
+#20170219_026 Barron, Red
 player 1925 Charlotte (South Atlantic)
 player 1926 Providence (Eastern)
 
@@ -256,12 +230,10 @@ player 1926 Providence (Eastern)
 
 !contributor Davis Barker
 
-#profile Belz, Johnny
-key 20170219_036
+#20170219_027 Belz, Johnny
 player 1922 Rock Island (Mississippi Valley)
 
-#profile Campbell, Clifford
-key 20170219_037
+#20170219_028 Campbell, Clifford
 player 1922 Rock Island (Mississippi Valley)
 
 ---
@@ -277,8 +249,7 @@ player 1922 Rock Island (Mississippi Valley)
 !citation Bloomington Pantagraph @ 1923-04-20; page 10
 !contributor Davis Barker
 
-#profile Cardner, Irwin
-key 20170219_038
+#20170219_029 Cardner, Irwin
 player 1920 Springfield (Western Association); H78 W185
 player 1921 Bloomington (Illinois-Indiana-Iowa)
 player 1921 Evansville (Illinois-Indiana-Iowa)
@@ -293,39 +264,31 @@ player 1924 Albany (Eastern)
 
 !contributor Davis Barker
 
-#profile Craig, Milo
-key 20170219_039
+#20170219_030 Craig, Milo
 player 1922 Rock Island (Mississippi Valley)
 
-#profile Dempsey, Mike
-key 20170219_040
+#20170219_031 Dempsey, Mike
 player 1922 Rock Island (Mississippi Valley)
 
-#profile Holden, Sam
-key 20170219_041
+#20170219_032 Holden, Sam
 player 1922 Rock Island (Mississippi Valley)
 
-#profile Friedl, Charlie
-key 20170219_042
+#20170219_033 Friedl, Charlie
 player 1922 Rock Island (Mississippi Valley)
 
-#profile Hoeft, Emil
-key 20170219_043
+#20170219_034 Hoeft, Emil
 player 1922 Rock Island (Mississippi Valley); TL
 
-#profile Lowe, Russell G.
-key 20170219_044
+#20170219_035 Lowe, Russell G.
 player 1922 Rock Island (Mississippi Valley)
 
 
-#profile Wilson, Paul
-key 20170219_045
+#20170219_036 Wilson, Paul
 player 1921 Rock Island (Mississippi Valley)
 player 1922 Rock Island (Mississippi Valley)
 resides 1922 @ US/IL/Milan
 
-#profile Downey, Al L.
-key 20170219_046
+#20170219_037 Downey, Al L.
 player 1922 Rock Island (Mississippi Valley)
 resides 1922 @ US/MO/Macon
 
@@ -333,16 +296,14 @@ resides 1922 @ US/MO/Macon
 
 !citation Bloomington Pantagraph @ 1921-09-10; page 10
 
-#profile Elliott, Jumbo
-key 20170219_047
+#20170219_038 Elliott, Jumbo
 player 1921 Rockford (Illinois-Indiana-Iowa)
 
 ---
 
 !citation Lincoln Star @ 1926-06-10; page 14
 
-#profile Cardner
-key 20170219_048
+#20170219_039 Cardner
 player 1926 Okmulgee (Western Association)
 player 1926 Lincoln (Western)
 
@@ -351,8 +312,7 @@ player 1926 Lincoln (Western)
 !citation Rochester Democrat and Chronicle @ 1925-03-30; page 26
 !citation Reading Times @ 1925-05-28; page 9
 
-#profile Batch, William George "Heinie"
-key 20170219_049
+#20170219_040 Batch, William George "Heinie"
 player 1923 York (New York-Pennsylvania)
 player 1924 York (New York-Pennsylvania)
 player 1925 Bridgeport (Eastern)
@@ -362,8 +322,7 @@ resides 1925 @ US/NY/Brooklyn
 
 !citation Lincoln Evening Journal @ 1924-08-01; page 9
 
-#profile Beall, Roger
-key 20170219_050
+#20170219_041 Beall, Roger
 player 1924 Wichita (Western)
 
 ---
@@ -371,8 +330,7 @@ player 1924 Wichita (Western)
 !citation Rock Island Argus @ 1920-04-09
 !contributor Davis Barker
 
-#profile Jones, Howie
-key 20170219_051
+#20170219_042 Jones, Howie
 player 1920 Moline (Illinois-Indiana-Iowa)
 player 1920 Rock Island (Illinois-Indiana-Iowa)
 resides 1920 @ US/PA/Erwin
@@ -381,67 +339,56 @@ resides 1920 @ US/PA/Erwin
 
 !contributor Davis Barker
 
-#profile Purpura, Gus
-key 20170219_052
+#20170219_043 Purpura, Gus
 player 1920 Rock Island (Illinois-Indiana-Iowa)
 player 1920 Moline (Illinois-Indiana-Iowa)
 
 
-#profile Bowman, Fred
-key 20170219_053
+#20170219_044 Bowman, Fred
 player 1920 Moline (Illinois-Indiana-Iowa)
 player 1920 Peoria (Illinois-Indiana-Iowa)
 
 
-#profile Griffin, Wes
-key 20170219_054
+#20170219_045 Griffin, Wes
 player 1920 Rock Island (Illinois-Indiana-Iowa)
 player 1920 Des Moines (Western)
 player 1920 Wichita (Western)
 
 
-#profile Westphal, Floyd
-key 20170219_055
+#20170219_046 Westphal, Floyd
 player 1920 Rock Island (Illinois-Indiana-Iowa)
 
 
-#profile McGuire, Gordon
-key 20170219_056
+#20170219_047 McGuire, Gordon
 player 1920 Rock Island (Illinois-Indiana-Iowa)
 
 
-#profile Carisch, Fred
-key 20170219_057
+#20170219_048 Carisch, Fred
 player 1920 Sioux Falls (South Dakota)
 manager 1920 Sioux Falls (South Dakota)
 
 
-#profile Hayes, Johnny
-key 20170219_058
+#20170219_049 Hayes, Johnny
 player 1920 Sioux Falls (South Dakota)
 
 
-#profile Miller, Clayton "Doc"
-key 20170219_059
+#20170219_050 Miller, Clayton "Doc"
 player 1913 Peoria (Illinois-Indiana-Iowa)
 player 1920 Rock Island (Illinois-Indiana-Iowa)
 
 
-#profile Smith, Cam
-key 20170219_060
+#20170219_051 Smith, Cam
 player 1920 Rock Island (Illinois-Indiana-Iowa); TL
 
 
-#profile Dougherty, Jack
-key 20170219_061
+#20170219_052 Dougherty, Jack
 player 1920 Rock Island (Illinois-Indiana-Iowa); TR
 
 ---
 
 !citation Bloomington Pantagraph @ 1922-07-26; page 9
 
-#profile Dougherty, Jack
-key 20170219_062
+#20170219_053 Dougherty, Jack
 player 1922 Evansville (Illinois-Indiana-Iowa)
 player 1922 Paducah (Kentucky-Illinois-Tennessee); TR
 
@@ -449,16 +396,14 @@ player 1922 Paducah (Kentucky-Illinois-Tennessee); TR
 
 !contributor Davis Barker
 
-#profile Stewart, Sid
-key 20170219_063
+#20170219_054 Stewart, Sid
 player 1920 Rock Island (Illinois-Indiana-Iowa); H74
 
 ---
 
 !citation Bloomington Pantagraph @ 1922-07-26; page 9
 
-#profile Hewitt
-key 20170219_064
+#20170219_055 Hewitt
 player 1922 Evansville (Illinois-Indiana-Iowa)
 player 1922 Paducah (Kentucky-Illinois-Tennessee)
 
@@ -466,8 +411,7 @@ player 1922 Paducah (Kentucky-Illinois-Tennessee)
 
 !contributor Davis Barker
 
-#profile O'Connor, Patrick [Pat]
-key 20170219_065
+#20170219_056 O'Connor, Patrick [Pat]
 player 1919 Moline (Illinois-Indiana-Iowa)
 player 1920 Rock Island (Illinois-Indiana-Iowa)
 player 1922 Fairbury (Nebraska State)
@@ -478,8 +422,7 @@ player 1922 Fairbury (Nebraska State)
 !citation Sporting News @ 1921-10-06; page 8
 !citation Joplin Globe @ 1922-09-16; page 7
 
-#profile Bogart, John
-key 20170219_066
+#20170219_057 Bogart, John
 player 1920 Detroit (American)
 player 1921 Bloomington (Illinois-Indiana-Iowa)
 player 1921 New Haven (Eastern)
@@ -492,8 +435,7 @@ player 1922 McAlester (Western Association)
 !citation Des Moines Register @ 1920-04-28; page 8
 !citation Daily Arkansas Gazette @ 1922-05-13; page 11
 
-#profile O'Connor, Dick
-key 20170219_067
+#20170219_058 O'Connor, Dick
 player 1919 Portland (New England)
 resides 1919 @ US/NY/Buffalo
 player 1920 Des Moines (Western)
@@ -506,8 +448,7 @@ player 1922 Memphis (Southern Association)
 !citation Asheville Citizen-Times @ 1924-07-30; page 17
 !citation Durham Sun @ 1925-05-17; page 7
 
-#profile Treon, Walter
-key 20170219_068
+#20170219_059 Treon, Walter
 player 1922 Greenville (Cotton States)
 player 1923 Memphis (Southern Association)
 player 1924 Asheville (South Atlantic)
@@ -519,8 +460,7 @@ resides 1925 @ US/NE/Rockville
 
 !citation Des Moines Register @ 1924-08-05; page 9
 
-#profile Wilson, Tex
-key 20170219_069
+#20170219_060 Wilson, Tex
 player 1924 Des Moines (Western)
 player 1924 Brooklyn (National)
 
@@ -528,8 +468,7 @@ player 1924 Brooklyn (National)
 
 !citation Port Huron Times Herald @ 1925-08-06; page 11
 
-#profile Beall, Roger
-key 20170219_070
+#20170219_061 Beall, Roger
 player 1925 Springfield (Illinois-Indiana-Iowa)
 player 1925 Des Moines (Western)
 
@@ -537,8 +476,7 @@ player 1925 Des Moines (Western)
 
 !citation Palm Beach Post @ 1924-04-18; page 9
 
-#profile Snowden, Dick
-key 20170219_071
+#20170219_062 Snowden, Dick
 player 1924 St. Petersburg (Florida State)
 
 ---
@@ -547,8 +485,7 @@ player 1924 St. Petersburg (Florida State)
 !citation Palm Beach Post @ 1928-05-05; page 8
 !citation Palm Beach Post @ 1928-07-04; page 6
 
-#profile Beasley, Gus
-key 20170219_072
+#20170219_063 Beasley, Gus
 player 1924 Lakeland (Florida State); BR TR
 resides 1924 @ US/FL/Tampa
 player 1928 West Palm Beach (Florida State)
@@ -558,8 +495,7 @@ college Army
 
 !citation Palm Beach Post @ 1928-05-05; page 8
 
-#profile Butler, Lefty
-key 20170219_073
+#20170219_064 Butler, Lefty
 player 1928 West Palm Beach (Florida State)
 player 1928 Daytona Beach (Florida State); TL
 
@@ -568,8 +504,7 @@ player 1928 Daytona Beach (Florida State); TL
 !citation Palm Beach Post @ 1928-05-05; page 8
 !citation Palm Beach Post @ 1928-05-18; page 6
 
-#profile Burns, Jimmie
-key 20170219_074
+#20170219_065 Burns, Jimmie
 player 1928 West Palm Beach (Florida State); BR TR
 
 ---
@@ -578,8 +513,7 @@ player 1928 West Palm Beach (Florida State); BR TR
 !citation Orlando Sentinel @ 1928-01-20; page 6
 !citation Pittsburgh Press @ 1928-09-09; page 47
 
-#profile Beasley, Hoke Smith
-key 20170219_075
+#20170219_066 Beasley, Hoke Smith
 player 1926 Sanford (Florida State)
 player 1927 Sanford (Florida State)
 player 1928 Erie (Central)
@@ -588,63 +522,53 @@ player 1928 Erie (Central)
 
 !citation Durham Sun @ 1925-05-17; page 7
 
-#profile Sessions, E. E.
-key 20170219_076
+#20170219_067 Sessions, E. E.
 player 1925 Durham (Piedmont); BR TR
 birth @ US/NC/Durham
 
-#profile Hayworth, Orvie
-key 20170219_077
+#20170219_068 Hayworth, Orvie
 player 1924 Durham (Piedmont)
 player 1925 Durham (Piedmont); BR TR
 resides 1925 @ US/NC/High Point
 
 
-#profile Maltby, Clyde
-key 20170219_078
+#20170219_069 Maltby, Clyde
 player 1925 Durham (Piedmont); BR TR
 resides 1925 @ US/FL/St. Petersburg
 
 
-#profile Lennox, Robert [Bob]
-key 20170219_079
+#20170219_070 Lennox, Robert [Bob]
 player 1925 Durham (Piedmont); BR TR
 resides 1925 @ US/NJ/Camden
 
 
-#profile Smith, Harry
-key 20170219_080
+#20170219_071 Smith, Harry
 player 1925 Durham (Piedmont); BR TR; age=27
 resides 1925 @ US/NC/Charlotte
 
 
-#profile Mallonee, Jule
-key 20170219_081
+#20170219_072 Mallonee, Jule
 player 1923 Durham (Piedmont)
 player 1925 Durham (Piedmont)
 
 
-#profile Hazen, Eddie
-key 20170219_082
+#20170219_073 Hazen, Eddie
 player 1919 Omaha (Western)
 player 1922 Springfield (Western Association)
 player 1925 Durham (Piedmont); BL TL
 resides 1925 @ US/NE/Omaha
 
-#profile Caviness, Joe
-key 20170219_084
+#20170219_074 Caviness, Joe
 player 1925 Durham (Piedmont); BR TR
 resides 1925 @ US/NC/Lillington
 
 
-#profile Jones, Buck
-key 20170219_085
+#20170219_075 Jones, Buck
 player 1925 Durham (Piedmont)
 resides 1925 @ US/AL/Mobile
 
 
-#profile Cherry, Bud
-key 20170219_086
+#20170219_076 Cherry, Bud
 player 1925 Durham (Piedmont); BR TR
 resides 1925 @ US/NC/Durham
 
@@ -654,8 +578,7 @@ resides 1925 @ US/NC/Durham
 !citation Durham Sun @ 1925-05-17; page 7
 !citation Charlotte Observer @ 1920-07-14; page 7
 
-#profile Masters, Orion
-key 20170219_083
+#20170219_077 Masters, Orion
 player 1920 Little Rock (Southern Association)
 player 1920 Augusta (South Atlantic)
 player 1925 Durham (Piedmont); BL TL
@@ -665,35 +588,29 @@ resides 1925 @ US/OK/Watonga
 
 !contributor Davis Barker
 
-#profile Ball, Neil
-key 20170219_087
+#20170219_078 Ball, Neil
 player 1916 Bridgeport (Eastern)
 manager 1916 Bridgeport (Eastern)
 
-#profile Thompson, Bob
-key 20170219_088
+#20170219_079 Thompson, Bob
 player 1916 Bridgeport (Eastern)
 
-#profile Gaudette, Joseph [Joe]
-key 20170219_090
+#20170219_080 Gaudette, Joseph [Joe]
 player 1914 Woonsocket (Colonial)
 player 1916 Bridgeport (Eastern)
 
 
-#profile Martin, William [Bill]
-key 20170219_091
+#20170219_081 Martin, William [Bill]
 player 1916 Bridgeport (Eastern)
 
-#profile Manning, Steve
-key 20170219_092
+#20170219_082 Manning, Steve
 player 1916 Bridgeport (Eastern)
 
 ---
 
 !citation Bridgeport Evening Farmer @ 1916-05-13
 
-#profile Hoffman, Danny
-key 20170219_089
+#20170219_083 Hoffman, Danny
 player 1907 New York (American)
 player 1916 Bridgeport (Eastern)
 
@@ -703,8 +620,7 @@ player 1916 Bridgeport (Eastern)
 !citation Springfield (MO) Leader @ 1930-04-28; page 7
 
 
-#profile Beatty, Ray
-key 20170219_093
+#20170219_084 Beatty, Ray
 player 1929 Muskogee (Western Association)
 player 1930 Independence (Western Association)
 
@@ -712,8 +628,7 @@ player 1930 Independence (Western Association)
 
 !citation SABR biography
 
-#profile Beck, Clyde
-key 20170219_094
+#20170219_085 Beck, Clyde
 player 1922 Los Angeles (Pacific Coast)
 player 1923 Wichita (Western)
 
@@ -723,19 +638,16 @@ player 1923 Wichita (Western)
 !citation Port Huron Times Herald @ 1922-06-05; page 9
 
 
-#profile Watson, Leon
-key 20170219_095
+#20170219_086 Watson, Leon
 player 1922 Port Huron-Sarnia (Michigan-Ontario)
 player 1922 London (Michigan-Ontario)
 
-#profile Brown, B.
-key 20170219_096
+#20170219_087 Brown, B.
 player 1922 Port Huron-Sarnia (Michigan-Ontario)
 player 1922 London (Michigan-Ontario)
 
 
-#profile Fisher, Dunham
-key 20170219_097
+#20170219_088 Fisher, Dunham
 player 1922 Port Huron-Sarnia (Michigan-Ontario)
 player 1922 London (Michigan-Ontario)
 
@@ -743,16 +655,14 @@ player 1922 London (Michigan-Ontario)
 
 !citation Port Huron Times Herald @ 1922-05-26; page 17
 
-#profile Lyons, Mike
-key 20170219_098
+#20170219_089 Lyons, Mike
 player 1922 Port Huron-Sarnia (Michigan-Ontario)
 
 ---
 
 !citation Port Huron Times Herald @ 1922-05-24; page 11
 
-#profile Beecher, Oscar
-key 20170219_099
+#20170219_090 Beecher, Oscar
 player 1921 Brantford (Michigan-Ontario)
 player 1922 Brantford (Michigan-Ontario)
 player 1922 London (Michigan-Ontario)
@@ -761,8 +671,7 @@ player 1922 London (Michigan-Ontario)
 
 !citation Decatur Herald @ 1911-06-03; page 3
 
-#profile Bell, Lynn
-key 20170219_100
+#20170219_091 Bell, Lynn
 player 1910 Springfield (Illinois-Indiana-Iowa)
 player 1911 Decatur (Illinois-Indiana-Iowa)
 
@@ -771,8 +680,7 @@ player 1911 Decatur (Illinois-Indiana-Iowa)
 !citation Ottawa Journal @ 1922-08-23; page 15
 !citation Sporting News @ 1923-05-03; page 5
 
-#profile Benard, William "Benny"
-key 20170219_101
+#20170219_092 Benard, William "Benny"
 player 1922 Three Rivers (Eastern Canada)
 player 1923 Springfield (Eastern)
 
@@ -781,8 +689,7 @@ player 1923 Springfield (Eastern)
 !citation Springfield (MO) Republican @ 1920-07-15; page 5
 !citation Springfield (MO) Leader @ 1921-09-13; page 4
 
-#profile Bennett, Herschel
-key 20170219_102
+#20170219_093 Bennett, Herschel
 player 1920 Springfield (Western Association)
 player 1921 Tulsa (Western)
 player 1921 Muskogee (Southwestern)
@@ -791,22 +698,19 @@ player 1921 Muskogee (Southwestern)
 
 !citation Abilene Reporter @ 1929-06-16; page 4
 
-#profile Williamson, Elmer
-key 20170219_103
+#20170219_094 Williamson, Elmer
 player 1929 Texarkana (Lone Star)
 player 1929 San Angelo (West Texas)
 
 
-#profile Jackson, Bus
-key 20170219_104
+#20170219_095 Jackson, Bus
 player 1929 Abilene (West Texas)
 
 ---
 
 !citation Alexandria Town Talk @ 1927-04-02; page 8
 
-#profile Biggerstaff, George
-key 20170219_105
+#20170219_096 Biggerstaff, George
 player 1926 Laurel (Cotton States)
 player 1927 Alexandria (Cotton States)
 
@@ -815,8 +719,7 @@ player 1927 Alexandria (Cotton States)
 !citation Springfield (MO) Leader @ 1929-07-24; page 11
 !citation Des Moines Register @ 1932-04-03; page 18
 
-#profile Binder, George
-key 20170219_106
+#20170219_097 Binder, George
 player 1928 Topeka (Western Association)
 player 1929 Danville (Illinois-Indiana-Iowa)
 player 1929 Scottdale (Middle Atlantic)
@@ -830,8 +733,7 @@ player 1932 Denver (Western)
 !citation Sporting News @ 1926-04-22; page 2
 !citation Danville Bee @ 1924-06-21; page 8
 
-#profile Black, Art
-key 20170219_107
+#20170219_098 Black, Art
 player 1922 Greenville (South Atlantic)
 resides 1922 @ US/CA/San Francisco
 player 1922 Augusta (South Atlantic)
@@ -843,18 +745,15 @@ player 1926 Idaho Falls (Utah-Idaho)
 
 !citation Charlotte News @ 1922-03-22; page 14
 
-#profile Hanley, Ed
-key 20170219_108
+#20170219_099 Hanley, Ed
 player 1922 Greenville (South Atlantic)
 resides 1922 @ US/MO/St. Louis
 
-#profile Bankhead, Toots
-key 20170219_109
+#20170219_100 Bankhead, Toots
 player 1922 Greenville (South Atlantic)
 
 
-#profile Surratt, Clyde
-key 20170219_110
+#20170219_101 Surratt, Clyde
 player 1922 Greenville (South Atlantic); TL
 resides @ US//Connestee
 
@@ -862,8 +761,7 @@ resides @ US//Connestee
 
 !contributor Davis Barker
 
-#profile Ripperton, Lyman A. "Pep"
-key 20170219_111
+#20170219_102 Ripperton, Lyman A. "Pep"
 player 1927 Palestine (Lone Star)
 manager 1927 Palestine (Lone Star)
 
@@ -871,77 +769,64 @@ manager 1927 Palestine (Lone Star)
 
 !citation Sporting News @ 1926-04-22; page 2
 
-#profile Cronin, Leo
-key 20170219_112
+#20170219_103 Cronin, Leo
 player 1925 Vernon (Pacific Coast)
 player 1926 Idaho Falls (Utah-Idaho); TL
 
-#profile Hurst, Ralph
-key 20170219_113
+#20170219_104 Hurst, Ralph
 player 1925 Lincoln (Western)
 player 1926 Idaho Falls (Utah-Idaho)
 
-#profile Boyer, Dave
-key 20170219_114
+#20170219_105 Boyer, Dave
 player 1926 Pocatello (Utah-Idaho)
 
 
-#profile Zienke, Clarence
-key 20170219_115
+#20170219_106 Zienke, Clarence
 player 1926 Pocatello (Utah-Idaho)
 
 
-#profile Gardner, Del
-key 20170219_116
+#20170219_107 Gardner, Del
 player 1926 Salt Lake City (Utah-Idaho)
 
 ---
 
 !citation Richmond Item @ 1930-05-01; page 13
 
-#profile Blair, Earl [Hap]
-key 20170219_117
+#20170219_108 Blair, Earl [Hap]
 player 1929 Akron (Central)
 player 1929 Erie (Central)
 player 1930 Richmond (Central); BR TR H73
 birth 1907 @ US/TN/Nashville
 resides 1930 @ US/TN/Nashville
 
-#profile Moss, Kenneth
-key 20170219_118
+#20170219_109 Moss, Kenneth
 player 1930 Richmond (Central); BR TR H70 W170
 
 
-#profile Pierce, Del
-key 20170219_119
+#20170219_110 Pierce, Del
 player 1928 Hagerstown (Blue Ridge)
 player 1930 Richmond (Central); BL TR
 
 
-#profile Gray, Roy
-key 20170219_120
+#20170219_111 Gray, Roy
 player 1930 Richmond (Central); BR TR
 
 
-#profile Thompson, Brodie "Tommy"
-key 20170219_121
+#20170219_112 Thompson, Brodie "Tommy"
 player 1930 Richmond (Central); BL TR
 
 
-#profile Gibson, Bob "Gibby"
-key 20170219_122
+#20170219_113 Gibson, Bob "Gibby"
 player 1929 Akron (Central)
 player 1930 Richmond (Central); BR TR
 
 
-#profile Davis, Lester
-key 20170219_123
+#20170219_114 Davis, Lester
 player 1930 Richmond (Central); BR TR H74
 resides 1930 @ US/IN/Richmond
 
 
-#profile Beeler, Myles
-key 20170219_124
+#20170219_115 Beeler, Myles
 player 1930 Richmond (Central); BL TL H69 W170
 college Wooster College
 
@@ -949,8 +834,7 @@ college Wooster College
 
 !citation Sporting Life @ 1911-03-25; page 3
 
-#profile Sapp, Charley
-key 20170219_125
+#20170219_116 Sapp, Charley
 player 1910 Lancaster (Ohio State)
 alias Blake, Otto; dates=1910/1910; type=alias
 
@@ -959,8 +843,7 @@ alias Blake, Otto; dates=1910/1910; type=alias
 !citation Louisville Courier-Journal @ 1905-03-16; page 12
 !citation Sporting Life @ 1906-10-06; page 18
 
-#profile Blake, Frank William [Bill]
-key 20170219_126
+#20170219_117 Blake, Frank William [Bill]
 player 1904 Macon (South Atlantic)
 player 1905 Little Rock (Southern Association)
 player 1906 New Orleans (Southern Association)
@@ -969,8 +852,7 @@ player 1906 New Orleans (Southern Association)
 
 !citation Harrisburg Evening News @ 1928-09-10; page 21
 
-#profile Blessing, Robert
-key 20170219_127
+#20170219_118 Blessing, Robert
 player 1927 Williamsport (New York-Pennsylvania)
 player 1928 Binghamton (New York-Pennsylvania)
 
@@ -978,8 +860,7 @@ player 1928 Binghamton (New York-Pennsylvania)
 
 !citation Lincoln Star @ 1925-11-21; page 8
 
-#profile Bliss, George
-key 20170219_128
+#20170219_119 Bliss, George
 player 1923 Houston (Texas)
 player 1925 St. Joseph (Western)
 resides 1925 @ US/NE/Fairbury
@@ -989,8 +870,7 @@ resides 1925 @ US/NE/Fairbury
 !citation Lincoln Star @ 1928-06-09; page 8
 !citation 1920 U. S. Census
 
-#profile Bolen, Charles F. [Charlie]
-key 20170219_129
+#20170219_120 Bolen, Charles F. [Charlie]
 player 1928 York (Nebraska State)
 brother of Bolen, Jarvis
 
@@ -999,8 +879,7 @@ brother of Bolen, Jarvis
 !citation Lincoln Star @ 1928-10-29; page 14
 !citation 1920 U. S. Census
 
-#profile Bolen, Jarvis M.
-key 20170219_130
+#20170219_121 Bolen, Jarvis M.
 player 1928 York (Nebraska State)
 brother of Bolen, Charlie
 
@@ -1012,8 +891,7 @@ brother of Bolen, Charlie
 !citation Anniston Star @ 1933-04-01; page 4
 !citation Nashville Tennessean @ 1933-05-03; page 7
 
-#profile Bolton, C. Glenn [Glenn]
-key 20170219_131
+#20170219_122 Bolton, C. Glenn [Glenn]
 player 1927 Terre Haute (Illinois-Indiana-Iowa)
 player 1928 Terre Haute (Illinois-Indiana-Iowa)
 player 1930 Topeka (Western)
@@ -1028,8 +906,7 @@ college Mississippi State
 !citation Akron Beacon Journal @ 1928-08-24; page 30
 !citation Sporting News @ 1929-11-28; page 8
 
-#profile Bosco, Mike
-key 20170219_132
+#20170219_123 Bosco, Mike
 player 1929 Akron (Central)
 player 1929 Providence (Eastern)
 
@@ -1038,8 +915,7 @@ player 1929 Providence (Eastern)
 !citation diamondsinthedusk.com
 !url http://www.diamondsinthedusk.com/uploads/articles/286-RUMPLE_Shine.pdf
 
-#profile Rumple, Eugene "Shine"
-key 20170219_133
+#20170219_124 Rumple, Eugene "Shine"
 player 1931 Greensboro (Piedmont)
 player 1932 Greensboro (Piedmont)
 death 1942-09-27 @ US/TX/Odessa
@@ -1049,64 +925,53 @@ death 1942-09-27 @ US/TX/Odessa
 !citation Bridgeport Farmer
 !contributor Davis Barker
 
-#profile Aubrey, Harry "Chub"
-key 20170219_134
+#20170219_125 Aubrey, Harry "Chub"
 player 1903 Boston (National)
 player 1914 Bridgeport (Eastern Association)
 
 
-#profile McClintock, Slim
-key 20170219_135
+#20170219_126 McClintock, Slim
 player 1914 Bridgeport (Eastern Association)
 
-#profile Mulvey, Jim
-key 20170219_136
+#20170219_127 Mulvey, Jim
 player 1914 Bridgeport (Eastern Association)
 player 1914 York (Nebraska State)
 
 
-#profile Rapp, Frank
-key 20170219_137
+#20170219_128 Rapp, Frank
 player 1913 Bridgeport (Eastern Association); TL
 
 
-#profile Monahan, Joseph W. [Joe]
-key 20170219_138
+#20170219_129 Monahan, Joseph W. [Joe]
 player 1913 Bridgeport (Eastern Association)
 player 1913 Lowell (New England)
 
 
-#profile Adams, Quincy
-key 20170219_139
+#20170219_130 Adams, Quincy
 player 1913 Bridgeport (Eastern Association)
 player 1913 Raleigh (North Carolina State)
 
 
-#profile Burns, Eddie
-key 20170219_140
+#20170219_131 Burns, Eddie
 player 1913 Bridgeport (Eastern Association)
 
 
-#profile Shea, Timothy "One Hoss"
-key 20170219_141
+#20170219_132 Shea, Timothy "One Hoss"
 player 1913 Bridgeport (Eastern Association)
 
 
-#profile Flanagan, Steamer
-key 20170219_142
+#20170219_133 Flanagan, Steamer
 player 1905 Pittsburgh (National)
 player 1913 Bridgeport (Eastern Association)
 player 1913 Troy (New York State)
 
 
-#profile Norris, Pep "Shorty"
-key 20170219_143
+#20170219_134 Norris, Pep "Shorty"
 player 1912 Bridgeport (Connecticut State)
 resides 1912 @ US/MA/Boston
 
 
-#profile Miller, Cy
-key 20170219_144
+#20170219_135 Miller, Cy
 player 1912 Bridgeport (Connecticut State)
 
 ---
@@ -1114,8 +979,7 @@ player 1912 Bridgeport (Connecticut State)
 !citation Atlanta Constitution @ 1922-08-22; page 10
 !citation Louisville Courier-Journal @ 1924-03-16; page 69
 
-#profile Bougeno, William "Wild Bill"
-key 20170219_145
+#20170219_136 Bougeno, William "Wild Bill"
 player 1922 Meridian (Cotton States)
 resides 1922 @ US/KY/Paducah
 player 1923 (Cotton States)
@@ -1127,8 +991,7 @@ player 1924 Dyersburg (Kentucky-Illinois-Tennessee)
 !citation Hagerstown Morning Herald @ 1929-09-05; page 11
 !citation Harrisburg Evening News @ 1930-09-04
 
-#profile Bowman, Norwood "Whitey"
-key 20170219_146
+#20170219_137 Bowman, Norwood "Whitey"
 player 1928 Chambersburg (Blue Ridge)
 player 1929 Jersey City (International)
 player 1929 Manchester (New England)
@@ -1139,8 +1002,7 @@ player 1930 Harrisburg (New York-Pennsylvania)
 
 !citation Hagerstown Morning Herald @ 1929-09-05; page 11
 
-#profile Oliver, Dick
-key 20170219_147
+#20170219_138 Oliver, Dick
 player 1929 Chambersburg (Blue Ridge)
 player 1929 Jersey City (International)
 
@@ -1148,8 +1010,7 @@ player 1929 Jersey City (International)
 
 !citation Port Huron Times-Herald @ 1922-01-20; page 11
 
-#profile Boyle, George "Buck"
-key 20170219_148
+#20170219_139 Boyle, George "Buck"
 player 1921 Port Huron (Michigan-Ontario)
 player 1921 Hamilton (Michigan-Ontario)
 player 1922 London (Michigan-Ontario)
@@ -1160,8 +1021,7 @@ player 1922 London (Michigan-Ontario)
 !citation Joplin Globe @ 1924-03-23; page 6
 !citation Greenwood Index-Journal @ 1929-11-13; page 6
 
-#profile Branch, Loyd
-key 20170219_149
+#20170219_140 Branch, Loyd
 player 1924 Joplin/Bartlesville (Western Association)
 resides 1924 @ US/TX/McAdoo
 player 1925 Cushing (Southwestern)
@@ -1172,8 +1032,7 @@ player 1929 Salisbury (Piedmont)
 
 !citation Thomasville Times Enterprise @ 1927-07-05; page 6
 
-#profile Mills, W.
-key 20170219_150
+#20170219_141 Mills, W.
 player 1927 Savannah (Southwestern)
 player 1928 Atlanta (Southern Association)
 
@@ -1181,13 +1040,11 @@ player 1928 Atlanta (Southern Association)
 
 !citation Binghamton Press @ 1923-05-09; page 23 
 
-#profile Duryea, William
-key 20170219_151
+#20170219_142 Duryea, William
 player 1923 Binghamton (New York-Pennsylvania); BL TL H73.5 W175
 
 
-#profile Branch, William [Bill]
-key 20170219_152
+#20170219_143 Branch, William [Bill]
 player 1923 Binghamton (New York-Pennsylvania); BR TR H69 W150
 resides 1923 @ US/NC/Selma
 
@@ -1195,8 +1052,7 @@ resides 1923 @ US/NC/Selma
 
 !citation Dothan Eagle @ 1946-06-30; page 15
 
-#profile Brasher, Al
-key 20170219_153
+#20170219_144 Brasher, Al
 player 1946 Dothan (Alabama State)
 
 ---
@@ -1204,8 +1060,7 @@ player 1946 Dothan (Alabama State)
 !citation Winnipeg Tribune @ 1919-04-04; page 18
 !citation Winnipeg Free Press @ 1919-05-27; page 3
 
-#profile Brautigan, Frank
-key 20170219_154
+#20170219_145 Brautigan, Frank
 manager 1916 Superior (Northern)
 player 1919 Saskatoon (Western Canada)
 manager 1916 Saskatoon (Western Canada)
@@ -1214,8 +1069,7 @@ manager 1916 Saskatoon (Western Canada)
 
 !citation Winnipeg Free Press @ 1919-05-26; page 6
 
-#profile Donovan, Gus "Red"
-key 20170219_155
+#20170219_146 Donovan, Gus "Red"
 player 1916 Winnipeg (Northern)
 player 1919 Saskatoon (Western Canada)
 
@@ -1223,23 +1077,19 @@ player 1919 Saskatoon (Western Canada)
 
 !citation Nashville Tennessean @ 1924-04-13; page 26
 
-#profile Bates, Roy
-key 20170219_156
+#20170219_147 Bates, Roy
 player 1924 Birmingham (Southern Association); TR
 
-#profile Bennett, Paul
-key 20170219_157
+#20170219_148 Bennett, Paul
 player 1924 Birmingham (Southern Association); TR
 
 
-#profile Gray, William Elmer [Elmer]
-key 20170219_158
+#20170219_149 Gray, William Elmer [Elmer]
 player 1923 Decatur (Illinois-Indiana-Iowa)
 player 1924 Birmingham (Southern Association)
 
 
-#profile Brenner, Herbert [Herb]
-key 20170219_159
+#20170219_150 Brenner, Herbert [Herb]
 player 1923 Decatur (Illinois-Indiana-Iowa)
 player 1924 Birmingham (Southern Association)
 
@@ -1251,8 +1101,7 @@ player 1924 Birmingham (Southern Association)
 !citation Detroit Free Press @ 1921-09-05; page 8
 
 
-#profile Oakes, Fred "Rabbit"
-key 20170219_160
+#20170219_151 Oakes, Fred "Rabbit"
 player 1916 Albany/Reading (New York State)
 player 1918 Binghamton (International)
 player 1918 New London (Eastern)
@@ -1265,18 +1114,14 @@ player 1921 London (Michigan-Ontario)
 
 !citation Lafayette (IN) Journal and Courier @ 1921-04-20; page 8
 
-#profile McDonald, Larry
-key 20170219_161
+#20170219_152 McDonald, Larry
 player 1921 Flint (Michigan-Ontario)
 
-#profile Cooper, Joe
-key 20170219_162
+#20170219_153 Cooper, Joe
 player 1921 Flint (Michigan-Ontario)
 
-#profile Kelly, Frank
-key 20170219_163
+#20170219_154 Kelly, Frank
 player 1921 Flint (Michigan-Ontario)
 
-#profile Hayford, Bill
-key 20170219_164
+#20170219_155 Hayford, Bill
 player 1920 Flint (Michigan-Ontario)

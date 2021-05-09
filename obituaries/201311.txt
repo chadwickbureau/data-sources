@@ -3,8 +3,7 @@
 !file Walukevich_Edmund.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-12-12
 
-#profile Walukevich, Edmund Leo
-key 201311_001
+#201311_001 Walukevich, Edmund Leo
 birth 1924-12-23 @ US/MA/East Walpole
 death 2013-11-01 @ US/MA/Brockton
 highschool Walpole HS @ US/MA/Walpole
@@ -18,8 +17,7 @@ burial Highland Cemetery @ US/MA/Norwood
 !file Kull_Henry.docx
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-12-12
 
-#profile Kull, Henry E.
-key 201311_002
+#201311_002 Kull, Henry E.
 birth 1926-03-06 @ US/PA/Minooka
 death 2013-11-11 @ US/PA/Dunmore
 highschool St. Mary Of The Assumption HS @ US/PA/Scranton
@@ -33,8 +31,7 @@ burial St. Mary Magdalene Cemetery @ US/PA/Honesdale
 !file Kammien_Bob.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-12-13
 
-#profile Kammien, Robert [Bob]
-key 201311_003
+#201311_003 Kammien, Robert [Bob]
 birth 1932-12-28
 death 2013-11-11
 military US Army
@@ -46,8 +43,7 @@ military US Army
 !file Geffe_John.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-12-13
 
-#profile Geffe, John Henry
-key 201311_004
+#201311_004 Geffe, John Henry
 birth 1928-12-08 @ US/WA/Wapato
 death 2013-11-11 @ US/WA/Vancouver
 highschool Wapato HS @ US/WA/Wapato
@@ -59,8 +55,7 @@ highschool Wapato HS @ US/WA/Wapato
 !file Haggerty_Richard.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-12-13
 
-#profile Haggerty, Richard W., Jr.
-key 201311_005
+#201311_005 Haggerty, Richard W., Jr.
 birth 1930-08-25 @ US/NY/Mount Vernon
 death 2013-11-18 @ US/CT/Stamford
 military US Air Force @ Korean War
@@ -73,8 +68,7 @@ burial St. John Cemetery @ US/CT/Darien
 !file Schulz_Larry.pdf 
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-12-13
 
-#profile Schulz, Larry Allen "Shag"
-key 201311_006
+#201311_006 Schulz, Larry Allen "Shag"
 birth 1936-09-30 @ US/MT/Sheridan
 death 2013-11-17 @ US/MT/Sheridan
 highschool Sheridan HS @ US/MT/Sheridan
@@ -87,8 +81,7 @@ college University of Montana
 !file Lipchik_Joe.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-12-13
 
-#profile Lipchik, Joseph [Joe]
-key 201311_007
+#201311_007 Lipchik, Joseph [Joe]
 death 2013-11-22
 highschool Taylor Allerdice HS @ US/PA/Pittsburgh
 military US Army @ Korean War
@@ -100,8 +93,7 @@ military US Army @ Korean War
 !file Van Syckel_Al.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-12-14
 
-#profile Van Syckel, Albert L. [Al]
-key 201311_008
+#201311_008 Van Syckel, Albert L. [Al]
 death 2013-11-13
 military US Army @ Korean War
 
@@ -112,8 +104,7 @@ military US Army @ Korean War
 !file Millsap_Warren.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-12-14
 
-#profile Millsap, Warren H.
-key 201311_009
+#201311_009 Millsap, Warren H.
 birth 1926-02-05 @ US/AR/Mulberry
 death 2013-11-07
 military US Marines @ World War II
@@ -125,8 +116,7 @@ military US Marines @ World War II
 !file Wescott_Dean.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-12-14
 
-#profile Wescott, D. Dean [Dean]
-key 201311_010
+#201311_010 Wescott, D. Dean [Dean]
 birth 1937-10-30 @ US/VA/Singers Glen
 death 2013-11-25
 highschool Harrisonburg HS @ US/VA/Harrisonburg
@@ -139,8 +129,7 @@ burial Singers Glen Cemetery @ US/VA/Singers Glen
 !file Rogers_Carl.pdf
 !contributor Rod Nelson <rodericnelson@gmail.com> @ 2013-12-12
 
-#profile Rogers, Lawrence Carl [Carl]
-key 201311_011
+#201311_011 Rogers, Lawrence Carl [Carl]
 birth 1933-08-27 @ US/SC/Saluda County
 death 2013-11-30 @ US/FL/Jacksonville
 highschool Batesburg-Leesville High School @ US/SC/Batesburg-Leesville

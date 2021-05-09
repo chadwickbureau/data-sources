@@ -3,8 +3,7 @@
 !file Figueroa_Rudy.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-03-17
 
-#profile Figueroa, Rodolfo Frank [Rudy] 
-key 201803_Figueroa
+#201803_001 Figueroa, Rodolfo Frank [Rudy] 
 birth 1935-09-20 @ US/AZ
 death 2018-03-17 @ US/HI/Hilo
 college Stanford University
@@ -18,8 +17,7 @@ burial Alae Cemetery @ US/HI/Hilo
 !file Napoli_Mike.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-07-17
 
-#profile Napoli, Michael Angelo [Mike]
-key 201803_Napoli
+#201803_002 Napoli, Michael Angelo [Mike]
 birth 1932-03-06
 death 2018-03-25 @ US/TX/Fort Worth
 military US Army 

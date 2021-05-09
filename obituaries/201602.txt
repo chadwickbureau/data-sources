@@ -3,7 +3,6 @@
 !file Scargle_John.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-24
 
-#profile Scargle, John Gordon
-key 201602_Scargle
+#201602_001 Scargle, John Gordon
 birth 1932-10-02
 death 2016-02-05

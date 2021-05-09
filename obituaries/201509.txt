@@ -3,8 +3,7 @@
 !file Manning_Norm.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-11-18
 
-#profile Manning, Norman S. [Norm]
-key 201509_Manning
+#201509_001 Manning, Norman S. [Norm]
 birth 1937-11-13 @ US/OH/Youngstown
 death 2015-09-12 
 highschool South HS @ US/OH/Youngstown

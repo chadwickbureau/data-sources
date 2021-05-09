@@ -3,8 +3,7 @@
 !file Haydel_Harold.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-02-05
 
-#profile Haydel, John Harold [Harold] 
-key 201809_Haydel
+#201809_001 Haydel, John Harold [Harold] 
 birth 1944-07-09 
 death 2018-09-12
 highschool St. Francis de Sales HS @ US/LA/Houma
@@ -17,8 +16,7 @@ burial St. Francis de Sales Cemetery #2 @ US/LA/Houma
 !file Olson_Bob.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-05-28
 
-#profile Olson, Robert Louis [Bob]
-key 201809_Olson
+#201809_002 Olson, Robert Louis [Bob]
 birth 1941-01-17 @ US/OR/Portland
 death 2018-09-21
 
@@ -29,8 +27,7 @@ death 2018-09-21
 !file Akins_Jack.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-12-10
 
-#profile Akins, Harvey Jackson, Jr. [Jack]
-key 201809_Akins
+#201809_003 Akins, Harvey Jackson, Jr. [Jack]
 birth 1936-11-04
 death 2018-09-11
 highschool Lakeland HS @ US/FL/Lakeland
@@ -43,8 +40,7 @@ military US Army
 !file Serrett_Rudolph.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-11-27
 
-#profile Serrett, Rudolph W.
-key 201809_Serrett
+#201809_004 Serrett, Rudolph W.
 birth 1939
 death 2018-09-08
 
@@ -55,8 +51,7 @@ death 2018-09-08
 !file Domikaitis_Stan.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-11-04
 
-#profile Domikaitis, Stanley E., Jr. [Stan]
-key 201809_Domikaitis
+#201809_005 Domikaitis, Stanley E., Jr. [Stan]
 birth 1934-03-20
 death 2018-09-24 @ US/FL/Orlando
 military US Army @ Korean War
@@ -68,8 +63,7 @@ military US Army @ Korean War
 !file Pinckard_Bill.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-10-21
 
-#profile Pinckard, William Peyton [Bill]
-key 201809_Pinckard
+#201809_006 Pinckard, William Peyton [Bill]
 birth 1929-01-18 @ US/IL/Rockford
 death 2018-09-19 @ US/CA/Citrus Heights
 military US Army
@@ -81,8 +75,7 @@ military US Army
 !file McDonald_Hank.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-10-07
 
-#profile McDonald, Henry R. [Hank]
-key 201809_McDonald
+#201809_007 McDonald, Henry R. [Hank]
 birth 1924-09-13
 death 2018-09-06
 college University of Tennessee
@@ -95,8 +88,7 @@ military US Army @ World War II
 !file Craig_Charles.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-10-05
 
-#profile Craig, Charles Spurgeon "Spud"
-key 201809_Craig
+#201809_008 Craig, Charles Spurgeon "Spud"
 birth 1931-10-18 @ US/NC/Durham
 death 2018-09-19 @ US/LA/New Orleans
 burial Maplewood Cemetery @ US/NC/Durham
@@ -108,8 +100,7 @@ burial Maplewood Cemetery @ US/NC/Durham
 !file Davins_James.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-10-05
 
-#profile Davins, James Robert
-key 201809_Davins
+#201809_009 Davins, James Robert
 birth 1933-09-28 @ US/CT/New Haven
 death 2018-09-17
 highschool Hillhouse HS @ US/CT/New Haven
@@ -123,8 +114,7 @@ military US @ Korean War
 !file Bentley_Billy.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-10-05
 
-#profile Bentley, Billy Ray
-key 201809_Bentley
+#201809_010 Bentley, Billy Ray
 birth 1934-08-29 @ US/AL/Madison County
 death 2018-09-25
 highschool Hazel Green HS @ US/AL/Hazel Green
@@ -138,8 +128,7 @@ burial Valhalla Memorial Gardens @ US/AL/Huntsville
 !file Welke_Don.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-10-05
 
-#profile Welke, Don
-key 201809_Welke
+#201809_011 Welke, Don
 death 2018-09-19 @ US/CA/La Jolla
 highschool Harvard HS @ US/IL/Harvard
 college Carthage College
@@ -152,8 +141,7 @@ burial Mount Auburn Cemetery @ US/IL/Harvard
 !file Stange_Lee.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-10-05
 
-#profile Stange, Lee
-key 201809_Stange
+#201809_012 Stange, Lee
 death 2018-09-21
 
 ---
@@ -163,8 +151,7 @@ death 2018-09-21
 !file Curran_Ed.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-10-05
 
-#profile Curran, Edmund J. [Ed]
-key 201809_Curran
+#201809_013 Curran, Edmund J. [Ed]
 birth 1948-09-16
 death 2018-09-19
 highschool St. Louis University HS @ US/MO/St. Louis
@@ -176,8 +163,7 @@ highschool St. Louis University HS @ US/MO/St. Louis
 !file Cassell_Dean.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-10-05
 
-#profile Cassell, Lewis Dean [Dean]
-key 201809_Cassell
+#201809_014 Cassell, Lewis Dean [Dean]
 birth 1928-03-29 @ US/NJ/Jersey City
 death 2018-09-05 @ US/MA/Dartmouth
 college University of North Carolina
@@ -190,8 +176,7 @@ military US Navy
 !file Wells_Jack.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-10-05
 
-#profile Wells, Jack L.
-key 201809_Wells
+#201809_015 Wells, Jack L.
 birth 1936-02-17
 death 2018-09-20
 
@@ -202,8 +187,7 @@ death 2018-09-20
 !file Dobberstein_Chuck.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-10-05
 
-#profile Dobberstein, Charles E. [Chuck]
-key 201809_Dobberstein
+#201809_016 Dobberstein, Charles E. [Chuck]
 birth 1936-02-10
 death 2018-09-22 @ US/MI/Muskegon
 highschool Muskegon HS @ US/MI/Muskegon
@@ -217,8 +201,7 @@ burial St. Paul's Episcopal Church Columbarium @ US/MI/Muskegon
 !file Sullivan_Joseph.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-10-05
 
-#profile Sullivan, Joseph W.
-key 201809_Sullivan
+#201809_017 Sullivan, Joseph W.
 death 2018-09-15
 military US Navy @ World War II
 
@@ -229,8 +212,7 @@ military US Navy @ World War II
 !file Coville_Ron.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-10-05
 
-#profile Coville, Ronald Marvin [Ron]
-key 201809_Coville
+#201809_018 Coville, Ronald Marvin [Ron]
 birth 1937-01-13 @ US/MI/Lansing
 death 2018-09-21 @ US/MI/Traverse City
 highschool Nashville HS @ US/MI/Nashville
@@ -244,8 +226,7 @@ military US Air Force
 !file Walz_Buck.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-10-05
 
-#profile Walz, Howard L. [Buck]
-key 201809_Walz
+#201809_019 Walz, Howard L. [Buck]
 birth 1928-06-13 @ US/MO/Jefferson City
 death 2018-09-11 @ US/MO/Jefferson City
 highschool Jefferson City HS @ US/MO/Jefferson City
@@ -259,8 +240,7 @@ burial Hawthorn Memorial Gardens @ US/MO/Jefferson City
 !file Rose_Jack.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-10-04
 
-#profile Rose, Kenneth M. [Jack]
-key 201809_Rose
+#201809_020 Rose, Kenneth M. [Jack]
 birth 1926-07-04 @ US/KY/Louisville
 death 2018-09-15
 highschool Male HS @ US/KY/Louisville
@@ -274,8 +254,7 @@ military US Navy @ World War II
 !file Martel_Ed.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-10-04
 
-#profile Martel, Edward Joseph, III [Ed]
-key 201809_Martel
+#201809_021 Martel, Edward Joseph, III [Ed]
 birth 1969-03-02
 death 2018-09-29
 highschool De La Salle Collegiate HS @ US/MI/Warren
@@ -288,8 +267,7 @@ burial Resurrection Cemetery @ US/MI/Clinton Township
 !file Perko_Raymond.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-10-04
 
-#profile Perko, Raymond Edward
-key 201809_Perko
+#201809_022 Perko, Raymond Edward
 birth 1930-10-18 @ US/PA/Santiago
 death 2018-09-24 @ US/WV/Rivesville
 highschool West Allegheny HS @ US/PA/Imperial
@@ -302,8 +280,7 @@ military US Army @ Korean War
 !file Clark_Philip.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-10-04
 
-#profile Charl, Philip James, III
-key 201809_Charl
+#201809_023 Charl, Philip James, III
 birth 1931-10-03 @ US/GA/Albany
 death 2018-09-14
 highschool Albany HS @ US/GA/Albany
@@ -317,8 +294,7 @@ burial Crown Hill Cemetery @ US/GA/Albany
 !file Gilman_Teddy.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-10-03
 
-#profile Gilman, Richard Theodore [Teddy]
-key 201809_Gilman
+#201809_024 Gilman, Richard Theodore [Teddy]
 birth 1950-08-03 @ US/GA/Atlanta
 death 2018-09-22
 highschool Lamar HS @ US/TX/Houston
@@ -330,8 +306,7 @@ highschool Lamar HS @ US/TX/Houston
 !file Wedeking_Bill.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-10-03
 
-#profile Wedeking, Charles William [Bill]
-key 201809_Wedeking
+#201809_025 Wedeking, Charles William [Bill]
 birth 1930-07-17 @ US/IN/Huntingburg
 death 2018-09-24 @ US/SC/Greenwood
 college Indiana University
@@ -345,8 +320,7 @@ burial @ US/IN
 !file Gilmore_John.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-10-03
 
-#profile Gilmore, John William, Jr.
-key 201809_Gilmore
+#201809_026 Gilmore, John William, Jr.
 birth 1934-07-12 @ US/OH/Covington
 death 2018-09-26 @ US/OH/Washington Court House
 highschool Troy HS @ US/OH/Troy
@@ -360,8 +334,7 @@ burial Fletcher Cemetery @ US/OH/Fletcher
 !file Carlson_Vance.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-10-03
 
-#profile Carlson, Walter Vance [Vance]
-key 201809_Carlson
+#201809_027 Carlson, Walter Vance [Vance]
 birth 1925-11-14 @ US/KS/Falun
 death 2018-09-17 @ US/KS/Ellis
 highschool McPherson HS @ US/KS/McPherson
@@ -375,8 +348,7 @@ burial McPherson Cemetery @ US/KS/McPherson
 !file Hartung_Arthur.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-10-03
 
-#profile Hartung, Arthur Albert
-key 201809_Hartung
+#201809_028 Hartung, Arthur Albert
 birth 1933-04-17 @ US/NY
 death 2018-09-26 @ US/MA/Bedford
 highschool Brighton HS @ US/MA/Brighton
@@ -389,8 +361,7 @@ military US Army @ Korean War
 !file Hanson_Don.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-10-03
 
-#profile Hanson, Donald C. [Don]
-key 201809_Hanson
+#201809_029 Hanson, Donald C. [Don]
 birth 1942-03-10 @ US/ND/Sherwood
 death 2018-09-17 @ US/ND/Bismarck
 highschool Sherwood HS @ US/ND/Sherwood
@@ -404,8 +375,7 @@ burial Mandan Union Cemetery @ US/ND/Mandan
 !file Rancourt_Larry.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-10-03
 
-#profile Rancourt, Lawrence [Larry]
-key 201809_Rancourt
+#201809_030 Rancourt, Lawrence [Larry]
 birth 1936-10-20 @ US/VT/Readsboro
 death 2018-09-25
 describe ; BL
@@ -420,8 +390,7 @@ college College of the Holy Cross
 !file Fodrea_Don.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-10-03
 
-#profile Fodrea, Donald James [Don]
-key 201809_Fodrea
+#201809_031 Fodrea, Donald James [Don]
 birth 1925-12-06 @ US/ID/Lewiston
 death 2018-09-28 @ US/ID/Boise
 highschool Boise HS @ US/ID/Boise
@@ -437,8 +406,7 @@ burial Alpha Cemetery @ US/ID/Alpha
 !file Walters_Ray.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-09-20
 
-#profile Walters, Raymond Randolph [Ray]
-key 201809_Walters
+#201809_032 Walters, Raymond Randolph [Ray]
 birth 1936-08-30
 death 2018-09-10
 highschool Port Richmond HS @ US/NY/Staten Island
@@ -450,8 +418,7 @@ highschool Port Richmond HS @ US/NY/Staten Island
 !file Hunnicutt_Dewey.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-09-20
 
-#profile Hunnicutt, Charles Dewey [Dewey]
-key 201809_Hunnicutt
+#201809_033 Hunnicutt, Charles Dewey [Dewey]
 birth @ US/NC/Henderson County
 death 2018-09-14
 military US Navy @ World War II
@@ -464,8 +431,7 @@ burial Shepherd Memorial Park @ US/NC/Naples
 !file Fleming_John.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-09-20
 
-#profile Fleming, John Marvin
-key 201809_Fleming
+#201809_034 Fleming, John Marvin
 birth 1934-02-13
 death 2018-09-17 @ US/KY/Louisville
 highschool duPont Manual HS @ US/KY/Louisville
@@ -479,8 +445,7 @@ burial Louisville Memorial Garden East @ US/KY/Louisville
 !file Carty_Ricardo.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-09-18
 
-#profile Carty, Ricardo, Jr.
-key 201809_Carty
+#201809_035 Carty, Ricardo, Jr.
 death 2018-09-01 @ US/GA/Atlanta
 
 ---
@@ -490,8 +455,7 @@ death 2018-09-01 @ US/GA/Atlanta
 !file Williams_Andy.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-09-18
 
-#profile Williams, Antoine Henry, III [Andy]
-key 201809_Williams
+#201809_036 Williams, Antoine Henry, III [Andy]
 birth 1950-04-09 @ US/TX/Fort Hood
 death 2018-09-13
 highschool Jesuit HS @ US/LA/New Orleans
@@ -504,8 +468,7 @@ burial Metairie Cemetery @ US/LA/New Orleans
 !file Miller_Hoot.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-09-18
 
-#profile Miller, William Frederick [Hoot]
-key 201809_Miller
+#201809_037 Miller, William Frederick [Hoot]
 birth 1931-10-16 @ US/AL/Wilsonville
 death 2018-09-14
 college Jones County Junior College
@@ -519,8 +482,7 @@ burial Wilsonville City Cemetery @ US/AL/Wilsonville
 !file ODell_Billy.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-09-17
 
-#profile O'Dell, William [Billy] "Digger"
-key 201809_ODell
+#201809_038 O'Dell, William [Billy] "Digger"
 birth 1932-02-19 @ US/SC/Whitmire
 death 2018-09-12 @ US/SC/Newberry
 highschool Newberry HS @ US/SC/Newberry
@@ -534,8 +496,7 @@ burial Newberry Memorial Gardens @ US/SC/Newberry
 !file Eraca_Frank.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-09-17
 
-#profile Eraca, Francis Joseph [Frank]
-key 201809_Eraca
+#201809_039 Eraca, Francis Joseph [Frank]
 birth 1929-05-16
 death 2018-09-11 @ US/NY/Fishkill
 burial Fishkill Rural Cemetery @ US/NY/Fishkill
@@ -547,8 +508,7 @@ burial Fishkill Rural Cemetery @ US/NY/Fishkill
 !file Huwer_Chuck.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-09-17
 
-#profile Huwer, Charles E. [Chuck]
-key 201809_Huwer
+#201809_040 Huwer, Charles E. [Chuck]
 birth 1928-04-01 @ US/OH/St. Marys
 death 2018-09-14 @ US/OH/St. Marys
 highschool St. Marys Memorial HS @ US/OH/St. Marys
@@ -562,8 +522,7 @@ burial Gethsemane Catholic Cemetery @ US/OH/St. Marys
 !file Centineo_Phil.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-09-14
 
-#profile Centineo, Philip A. [Phil]
-key 201809_Centineo
+#201809_041 Centineo, Philip A. [Phil]
 birth 1934 @ US/NY/Brooklyn
 death 2018-09-03 @ US/NJ/Galloway Township
 highschool Lafayette HS @ US/NY/Brooklyn
@@ -576,8 +535,7 @@ college Brooklyn College
 !file Stuffel_Paul.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-09-11
 
-#profile Stuffel, Paul H.
-key 201809_Stuffel
+#201809_042 Stuffel, Paul H.
 birth 1927-03-22 @ US/OH/Canton
 death 2018-09-09
 highschool Lincoln HS @ US/OH/Canton
@@ -590,8 +548,7 @@ military US Army @ World War II
 !file Bott_Glenn.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-09-11
 
-#profile Bott, Glenn Shawn
-key 201809_Bott
+#201809_043 Bott, Glenn Shawn
 birth @ US/LA/Lafayette
 death 2018-09-02 @ CA/MB/St. Anne
 
@@ -602,8 +559,7 @@ death 2018-09-02 @ CA/MB/St. Anne
 !file Behrends_Chuck.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-09-11
 
-#profile Behrends, Charles R. [Chuck]
-key 201809_Behrends
+#201809_044 Behrends, Charles R. [Chuck]
 birth 1936-07-29 @ US/IL/Brownstown
 death 2018-09-06
 highschool Decatur HS @ US/IL/Decatur
@@ -617,8 +573,7 @@ burial Sunset Memorial Gardens @ US/IL/Machesney Park
 !file Letteri_Laurence.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-09-08
 
-#profile Letteri, Laurence F.
-key 201809_Letteri
+#201809_045 Letteri, Laurence F.
 birth 1919-11-19
 death 2018-09-06 @ US/MA/Cambridge
 military US Army @ World War II
@@ -631,8 +586,7 @@ burial Mount Auburn Cemetery @ US/MA/Cambridge
 !file Firestone_Leon.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-09-05
 
-#profile Firestone, Leon C.
-key 201809_Firestone
+#201809_046 Firestone, Leon C.
 birth 1927-04-07 @ US/PA/York
 death 2018-09-02
 highschool York HS @ US/PA/York

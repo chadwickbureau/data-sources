@@ -3,8 +3,7 @@
 !file Reiss_Terry.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-05-15
 
-#profile Reiss, Frank T. [Terry]
-key 201404_Reiss
+#201404_001 Reiss, Frank T. [Terry]
 birth 1939 @ US/NJ
 death 2014-04-30 @ US/CO/Larkspur
 military US Army 
@@ -17,8 +16,7 @@ burial Fort Logan National Cemetery @ US/CO/Denver
 !file Proulx_Pat.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-05-14
 
-#profile Proulx, Patrick Roland [Pat]
-key 201404_Proulx
+#201404_002 Proulx, Patrick Roland [Pat]
 birth 1926-03-26 @ US/ME/Waterville
 death 2014-04-06 @ US/ME/Portland
 military US Navy @ World War II
@@ -31,8 +29,7 @@ burial St. Francis Catholic Cemetery @ US/ME/Waterville
 !file Fallon_Bill.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-05-14
 
-#profile Fallon, William Robert, Sr. [Bill]
-key 201405_Fallon
+#201404_003 Fallon, William Robert, Sr. [Bill]
 birth 1927-12-12
 death 2014-05-09
 highschool Holy Cross School @ US/LA/New Orleans
@@ -46,8 +43,7 @@ burial Lake Lawn Park Cemetery and Mausoleum @ US/LA/New Orleans
 !file Bushman_Henry.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-05-05
 
-#profile Bushman, Henry Alfred [Hank]
-key 201404_Bushman
+#201404_004 Bushman, Henry Alfred [Hank]
 birth 1918-08-29 @ US/WA/Omak
 death 2014-04-04
 describe ; TR
@@ -62,8 +58,7 @@ military US Army @ World War II
 !file Hemmerly_Hank.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-05-04
 
-#profile Hemmerly, Henry Ohlin [Hank]
-key 201404_Hemmerly
+#201404_005 Hemmerly, Henry Ohlin [Hank]
 birth 1935-02-14 @ US/OH/Wyandot County
 death 2014-04-26 @ US/OH/Forest
 describe ; TL
@@ -76,8 +71,7 @@ highschool Forest HS @ US/OH/Forest
 !file Parker_Harry.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-05-04
 
-#profile Parker, Harry L.
-key 201404_Parker
+#201404_006 Parker, Harry L.
 birth 1925-03-20 @ US/IL/East Alton
 death 2014-04-20 @ US/TX/Columbus
 military US Navy @ World War II
@@ -90,8 +84,7 @@ burial Odd Fellows Rest Cemetery @ US/TX/Columbus
 !file Massefski_Walt.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-05-04
 
-#profile Massefski, Walter W. [Walt]
-key 201404_Massefski
+#201404_007 Massefski, Walter W. [Walt]
 birth 1934-07-22 @ US/NJ/Newark
 death 2014-04-27
 highschool East Side HS @ US/NJ/Newark
@@ -103,8 +96,7 @@ highschool East Side HS @ US/NJ/Newark
 !file Kamenski_Bernard.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-04-30
 
-#profile Kamenski, Bernard P.
-key 201404_Kamenski
+#201404_008 Kamenski, Bernard P.
 birth 1933
 death 2014-04-28
 military US Air Force 
@@ -117,8 +109,7 @@ burial National Cemetery of the Alleghenies @ US/PA/Bridgeville
 !file Hunt_Timothy.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-04-30
 
-#profile Hunt, Timothy Michael
-key 201404_Hunt
+#201404_009 Hunt, Timothy Michael
 death 2014-04-26 @ US/CA/San Bernardino County
 college Fullerton College @ US/CA/Fullerton
 college Briar Cliff University @ US/IA/Sioux City
@@ -130,8 +121,7 @@ college Briar Cliff University @ US/IA/Sioux City
 !file Matthews_Walt.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-04-30
 
-#profile Matthews, Walter Ray [Walt]
-key 201404_Matthews
+#201404_010 Matthews, Walter Ray [Walt]
 birth 1934-10-19 @ US/AR/Ashdown
 death 2014-04-28 @ US/AR
 burial Ashdown Memorial Gardens Cemetery @ US/AR/Ashdown
@@ -143,8 +133,7 @@ burial Ashdown Memorial Gardens Cemetery @ US/AR/Ashdown
 !file Nordberg_Al.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-04-30
 
-#profile Nordberg, Alan G. [Al]
-key 201404_Nordberg
+#201404_011 Nordberg, Alan G. [Al]
 birth 1944-03-05 @ US/MA/Worcester
 death 2014-04-27 @ US/MA/Worcester
 highschool North HS @ US/MA/Worcester
@@ -158,8 +147,7 @@ burial Old Dominion Memorial Gardens @ US/VA/Roanoke
 !file Powell_Bob.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-04-30
 
-#profile Powell, Robert L. [Bob]
-key 201404_Powell
+#201404_012 Powell, Robert L. [Bob]
 death 2014-04-26
 military US Army 
 burial Knights of Pythias Cemetery @ US/AL/Russellville
@@ -171,8 +159,7 @@ burial Knights of Pythias Cemetery @ US/AL/Russellville
 !file Paul_Jack.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-04-28
 
-#profile Paul, John W. [Jack]
-key 201404_Paul
+#201404_013 Paul, John W. [Jack]
 birth 1924-01-20 @ US/OK/Catoosa
 death 2014-04-23
 highschool Central HS @ US/OK/Tulsa
@@ -186,8 +173,7 @@ military US Army @ World War II
 !file Kegg_James.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-04-28
 
-#profile Kegg, James F., Jr.
-key 201404_Kegg
+#201404_014 Kegg, James F., Jr.
 birth 1927 @ US/PA/Johnstown
 death 2014-04-27 @ US/PA/Bethlehem
 highschool Johnstown Central HS @ US/PA/Johnstown

@@ -3,8 +3,7 @@
 !file Streeter_Jerry.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-07-06
 
-#profile Streeter, Gerald Monroe [Jerry]
-key 201907_Streeter_1
+#201907_001 Streeter, Gerald Monroe [Jerry]
 birth 1931-09-19
 death 2019-07-05 @ US/CA/Hughson
 highschool Modesto HS @ US/CA/Modesto
@@ -18,8 +17,7 @@ college University of the Pacific
 !file Streeter_Jerry_2.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-07-06
 
-#profile Streeter, Gerald Monroe [Jerry]
-key 201907_Streeter_2
+#201907_002 Streeter, Gerald Monroe [Jerry]
 birth 1931-09-19 @ US/CA/Modesto
 death 2019-07-05
 
@@ -30,8 +28,7 @@ death 2019-07-05
 !file Aldama_Leonel.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-07-06
 
-#profile Aldama (Rossel), Leonel "El Coronel"
-key 201907_Aldama
+#201907_003 Aldama (Rossel), Leonel "El Coronel"
 death 2019-07-01 @ MX//Merida
 
 ---
@@ -41,8 +38,7 @@ death 2019-07-01 @ MX//Merida
 !file Skaggs_Tyler.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-07-06
 
-#profile Skaggs, Tyler
-key 201907_Skaggs
+#201907_004 Skaggs, Tyler
 birth @ US/CA/Woodland Hills
 death 2019-07-01 @ US/TX/Southlake
 
@@ -53,8 +49,7 @@ death 2019-07-01 @ US/TX/Southlake
 !file Christy_Dom.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-07-07
 
-#profile Christy, Dominick, Jr.
-key 201907_Christy
+#201907_005 Christy, Dominick, Jr.
 birth 1930-04-05 @ US/PA/Orient
 death 2019-07-04 @ US/PA/Uniontown
 highschool Cumberland Township HS @ US/PA/Carmichaels
@@ -68,8 +63,7 @@ military US Army
 !file Mickens_Glenn.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-07-13
 
-#profile Mickens, Glenn "Mick"
-key 201907_Mickens
+#201907_006 Mickens, Glenn "Mick"
 birth 1930-07-26
 death 2019-07-09
 
@@ -80,8 +74,7 @@ death 2019-07-09
 !file Bouton_Jim.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-07-13
 
-#profile Bouton, James Alan [Jim]
-key 201907_Bouton
+#201907_007 Bouton, James Alan [Jim]
 birth 1939-03-08 @ US/NJ/Newark
 death 2019-07-10 @ US/MA
 highschool Bloom HS @ US/IL/Chicago Heights
@@ -94,8 +87,7 @@ college Western Michigan University
 !file Grzenda_Joe.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-07-14
 
-#profile Grzenda, Joe
-key 201907_Grzenda_1
+#201907_008 Grzenda, Joe
 death 2019-07-12 @ US/PA/Covington Township
 highschool Moosic HS @ US/PA/Moosic
 
@@ -106,8 +98,7 @@ highschool Moosic HS @ US/PA/Moosic
 !file Grzenda_Joe_2.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-07-17
 
-#profile Grzenda, Joseph C. 
-key 201907_Grzenda_2
+#201907_009 Grzenda, Joseph C. 
 birth 1937-06-08 @ US/PA/Scranton
 death 2019-07-12 @ US/PA/Covington Township
 highschool Moosic HS @ US/PA/Moosic
@@ -121,8 +112,7 @@ burial St. Catherine's Cemetery @ US/PA/Moscow
 !file Daughty_Ken.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-07-17
 
-#profile Daughty, Kenneth Ray, Sr. [Ken]
-key 201907_Daughty
+#201907_010 Daughty, Kenneth Ray, Sr. [Ken]
 birth 1952-07-30
 death 2019-07-01
 highschool McLoud HS @ US/OK/McLoud
@@ -135,8 +125,7 @@ college Lamar Community College
 !file Koonce_Don.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-07-17
 
-#profile Koonce, Donald Clayton [Don]
-key 201907_Koonce
+#201907_011 Koonce, Donald Clayton [Don]
 death 2019-07-15
 highschool Hope Mills HS @ US/NC/Hope Mills
 brother of Koonce, Cal
@@ -148,8 +137,7 @@ brother of Koonce, Cal
 !file Harris_Dick.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-07-17
 
-#profile Harris, Richard L. [Dick]
-key 201907_Harris
+#201907_012 Harris, Richard L. [Dick]
 birth 1923-08-20 @ US/FL/West Palm Beach
 death 2019-07-13 @ US/MA/Dalton
 highschool Palm Beach HS @ US/FL/Palm Beach
@@ -163,8 +151,7 @@ burial St. Joseph's Cemetery @ US/MA/Pittsfield
 !file Grable_Robert.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-07-19
 
-#profile Grable, Robert
-key 201907_Grable
+#201907_013 Grable, Robert
 death 2019-07-19
 highschool Connetquot HS @ US/NY/Bohemia
 college St. John's University
@@ -176,8 +163,7 @@ college St. John's University
 !file Rechichar_Bert.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-07-22
 
-#profile Rechichar, Albert D. [Bert]
-key 201907_Rechichar
+#201907_014 Rechichar, Albert D. [Bert]
 birth 1930-07-16 @ US/PA/Rostraver Township
 death 2019-07-19 
 highschool Rostraver HS @ US/PA/Belle Vernon
@@ -191,8 +177,7 @@ burial Olive Branch Cemetery @ US/PA/North Belle Vernon
 !file Nelson_Gerry.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-07-22
 
-#profile Nelson, Gerald [Gerry]
-key 201907_Nelson
+#201907_015 Nelson, Gerald [Gerry]
 birth 1927-10-01 @ US/WA/Winlock
 death 2019-07-11
 
@@ -203,8 +188,7 @@ death 2019-07-11
 !file Cromartie_Hendrick.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-07-22
 
-#profile Cromartie, Hendrick Lafayette, Jr.
-key 201907_Cromartie
+#201907_016 Cromartie, Hendrick Lafayette, Jr.
 birth 1928-02-05 @ US/GA/Albany
 death 2019-07-13
 highschool Leesburg HS @ US/GA/Leesburg
@@ -220,8 +204,7 @@ burial Sunset Hills Memorial Gardens Cemetery @ US/GA/Rome
 !file Stone_Ted.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-07-22
 
-#profile Stone, Edward Davis [Ted]
-key 201907_Stone
+#201907_017 Stone, Edward Davis [Ted]
 birth 1932-12-26
 death 2019-07-16 @ CA/ON/Orillia
 
@@ -232,8 +215,7 @@ death 2019-07-16 @ CA/ON/Orillia
 !file Newman_Bob.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-07-22
 
-#profile Newman, Robert David [Bob]
-key 201907_Newman
+#201907_018 Newman, Robert David [Bob]
 birth 1937-10-20
 death 2019-07-13
 burial St. Peter's Catholic Cemetery @ US/CA/Fresno
@@ -245,8 +227,7 @@ burial St. Peter's Catholic Cemetery @ US/CA/Fresno
 !file Maguire_Frank.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-07-22
 
-#profile Maguire, Francis Joseph [Frank]
-key 201907_Maguire
+#201907_019 Maguire, Francis Joseph [Frank]
 birth 1926-03-30
 death 2019-07-16
 
@@ -257,8 +238,7 @@ death 2019-07-16
 !file Dyer_Lee.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-07-23
 
-#profile Dyer, LeRoy Eugene [Lee]
-key 201907_Dyer
+#201907_020 Dyer, LeRoy Eugene [Lee]
 birth 1934-02-21 @ US/ME/Bar Harbor
 death 2019-07-19 @ US/CT/Middletown
 college Bowdoin College
@@ -272,8 +252,7 @@ burial Ledgelawn Cemetery @ US/ME/Bar Harbor
 !file Christl_Mike.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-07-26
 
-#profile Christl, Michael Ryan [Mike]
-key 201907_Christl
+#201907_021 Christl, Michael Ryan [Mike]
 birth 1984-09-02
 death 2019-07-21 @ US/WI
 college Bradley University
@@ -285,8 +264,7 @@ college Bradley University
 !file Mossi_Don.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-07-26
 
-#profile Mossi, Donald Louis [Don] "The Sphinx"
-key 201907_Mossi
+#201907_022 Mossi, Donald Louis [Don] "The Sphinx"
 birth 1929-01-29 @ US/CA/St. Helena
 death 2019-07-19 @ US/ID/Nampa
 highschool Jefferson HS @ US/CA/Daly City
@@ -298,8 +276,7 @@ highschool Jefferson HS @ US/CA/Daly City
 !file Zavattaro_Joe.pdf 
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-07-26
 
-#profile Zavattaro, Joseph [Joe]
-key 201907_Zavattaro
+#201907_023 Zavattaro, Joseph [Joe]
 death 2019-07-23 @ US/FL/Naples
 highschool Pittsfield HS @ US/MA/Pittsfield
 
@@ -310,8 +287,7 @@ highschool Pittsfield HS @ US/MA/Pittsfield
 !file McKever_Bill.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-07-26
 
-#profile McKever, William D. [Bill]
-key 201907_McKever
+#201907_024 McKever, William D. [Bill]
 birth 1928-02-10 @ US/NY/Albany
 death 2019-07-23
 college St. Lawrence University
@@ -324,8 +300,7 @@ burial Nassau-Schodack Cemetery @ US/NY/Nassau
 !file Knupp_Edward.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-07-26
 
-#profile Knupp, Edward E.
-key 201907_Knupp
+#201907_025 Knupp, Edward E.
 birth 1934-05-12 @ US/PA/Ligonier
 death 2019-07-23 @ US/PA/Ligonier
 military US Army
@@ -338,8 +313,7 @@ burial West Fairfield Cemetery @ US/PA/West Fairfield
 !file Costner_George.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-07-26
 
-#profile Costner, George Henry, III
-key 201907_Costner
+#201907_026 Costner, George Henry, III
 birth 1939-11-08 @ US/GA/Atlanta
 death 2019-07-20 @ US/GA/Woodstock
 highschool Brown HS @ US/GA/Atlanta
@@ -353,8 +327,7 @@ burial Georgia Memorial Park @ US/GA/Marietta
 !file Lee_Bob.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-07-29
 
-#profile Lee, Robert E. [Bob]
-key 201907_Lee
+#201907_027 Lee, Robert E. [Bob]
 birth 1926-01-29 @ US/KS/Topeka
 death 2019-07-22
 highschool Topeka HS @ US/KS/Topeka
@@ -367,8 +340,7 @@ military US Marines @ World War II
 !file Pounds_Roy.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-07-29
 
-#profile Pounds, Roy B.
-key 201907_Pounds
+#201907_028 Pounds, Roy B.
 birth 1927-11-10 @ US/NE/Lyons
 death 2019-07-14 @ US/NE/Pender
 highschool Lyons HS @ US/NE/Lyons
@@ -382,8 +354,7 @@ burial Lyons Cemetery @ US/NE/Lyons
 !file Roarke_Mike.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-07-29
 
-#profile Roarke, Michael Thomas [Mike]
-key 201907_Roarke
+#201907_029 Roarke, Michael Thomas [Mike]
 birth 1930-11-08 @ US/RI/West Warwick
 death 2019-07-27
 highschool West Warwick HS @ US/RI/West Warwick
@@ -397,8 +368,7 @@ military US Army @ Korean War
 !file Van_Mil_Loek.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-08-01
 
-#profile van Mil, Loek
-key 201907_vanMil
+#201907_030 van Mil, Loek
 death 2019-07-28
 
 ---
@@ -408,8 +378,7 @@ death 2019-07-28
 !file Burris_Bill.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-08-04
 
-#profile Burris, William C. [Bill]
-key 201907_Burris
+#201907_031 Burris, William C. [Bill]
 birth 1936-05-11 @ US/IN/Richmond
 death 2019-07-30 @ US/IN/Richmond
 highschool Centerville HS @ US/IN/Centerville
@@ -423,8 +392,7 @@ burial Bryan Cemetery @ US/IN/Centerville
 !file Jones_David.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-08-04
 
-#profile Jones, David John, Sr.
-key 201907_Jones
+#201907_032 Jones, David John, Sr.
 birth 1940-10-25
 death 2019-07-29
 highschool Calvert Hall College HS @ US/MD/Baltimore
@@ -438,8 +406,7 @@ burial Cedar Hill Cemetery @ US/MD/Brooklyn Park
 !file Canfield_Mike.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-08-04
 
-#profile Canfield, Michael Duane [Mike]
-key 201907_Canfield
+#201907_033 Canfield, Michael Duane [Mike]
 birth 1945-03-09
 death 2019-07-31 @ US/KS/Kansas City
 highschool Wyandotte HS @ US/KS/Kansas City
@@ -451,8 +418,7 @@ highschool Wyandotte HS @ US/KS/Kansas City
 !file Caye_Billy.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-08-04
 
-#profile Caye, William F. [Billy]
-key 201907_Caye
+#201907_034 Caye, William F. [Billy]
 birth 1931-05-02
 death 2019-07-30
 highschool Central Catholic HS @ US/PA/Pittsburgh
@@ -466,8 +432,7 @@ burial National Cemetery of the Alleghenies @ US/PA/Bridgeville
 !file Grimes_Bart.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-08-05
 
-#profile Grimes, Barden B. [Bart]
-key 201907_Grimes
+#201907_035 Grimes, Barden B. [Bart]
 death 2019-07-27
 military US Army
 
@@ -478,8 +443,7 @@ military US Army
 !file Masonis_Ed.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-08-05
 
-#profile Masonis, Edward R. [Ed]
-key 201907_Masonis
+#201907_036 Masonis, Edward R. [Ed]
 birth 1930-06-17 @ US/OH/Elyria
 death 2019-07-31 @ US/OH/Medina
 highschool St. Joseph HS @ US/PA/DuBois
@@ -492,8 +456,7 @@ burial Salem Cemetery @ US/PA/DuBois
 !file Kiesman_Bob.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-08-11
 
-#profile Kiesman, Robert [Bob]
-key 201907_Kiesman
+#201907_037 Kiesman, Robert [Bob]
 birth 1939-01-24 @ US/ME/Fryeburg
 death 2019-07-27 @ US/CA/Santa Rosa
 highschool Fryeburg Academy @ US/ME/Fryeburg
@@ -505,8 +468,7 @@ highschool Fryeburg Academy @ US/ME/Fryeburg
 !file DeLay_Henry.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-08-20
 
-#profile DeLay, Henry C. [Lefty]
-key 201907_DeLay
+#201907_038 DeLay, Henry C. [Lefty]
 birth 1928-11-16
 death 2019-07-08
 highschool Rossville HS @ US/GA/Rossville
@@ -520,8 +482,7 @@ burial Burning Bush Cemetery @ US/GA/Ringgold
 !file Reckelberg_Herman.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-12-11
 
-#profile Reckelberg, Herman J. 
-key 201907_Reckelberg
+#201907_039 Reckelberg, Herman J. 
 birth 1927-10-24 @ US/WI/Green Bay
 death 2019-07-19
 highschool Green Bay East HS @ US/WI/Green Bay
@@ -534,8 +495,7 @@ military US Army @ Korean War
 !file Anderson_Andy.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-01-01
 
-#profile Anderson, Clyde [Andy]
-key 201907_Anderson
+#201907_040 Anderson, Clyde [Andy]
 birth 1926-07-31 @ US/NE/Minatare
 death 2019-07-16 @ US/NE/Chadron
 highschool Minatare HS @ US/NE/Minatare
@@ -549,8 +509,7 @@ burial Gering West Lawn Cemetery @ US/NE/Gering
 !file Steinmann_Charles.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-01-01
 
-#profile Steinmann, Charles H.
-key 201907_Steinmann
+#201907_041 Steinmann, Charles H.
 birth 1935-07-12 @ US/NJ/Mount Holly
 death 2019-07-24 @ US/NJ/Medford
 highschool Burlington City HS @ US/NJ/Burlington
@@ -563,8 +522,7 @@ burial Odd Fellows Cemetery & Mausoleum @ US/NJ/Burlington
 !file Barry_Tom.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-01-01
 
-#profile Barry, Thomas J. [Tom]
-key 201907_Barry
+#201907_042 Barry, Thomas J. [Tom]
 birth @ US/PA/Jenkintown
 death 2019-07-18 @ US/PA/Spring City
 highschool Jenkintown HS @ US/PA/Jenkintown
@@ -578,8 +536,7 @@ burial Washington Crossing National Cemetery @ US/PA/Newtown
 !file Kirby_Gerald.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-01-01
 
-#profile Kirby, Gerald Ray
-key 201907_Kirby
+#201907_043 Kirby, Gerald Ray
 birth 1937-10-19 @ US/GA/Albany
 death 2019-07-18
 college Florida State University
@@ -591,8 +548,7 @@ college Florida State University
 !file Moon_Eric.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2020-01-03
 
-#profile Moon, Eric Virgil
-key 201907_Moon
+#201907_044 Moon, Eric Virgil
 birth 1943-06-18
 death 2019-07-14
 military US Army

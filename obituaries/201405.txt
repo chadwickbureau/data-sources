@@ -3,8 +3,7 @@
 !file Olsen_Andy.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-08-18
 
-#profile Olsen, Andy
-key 201405_Olsen
+#201405_001 Olsen, Andy
 death 2014-05-23
 
 ---
@@ -14,8 +13,7 @@ death 2014-05-23
 !file Floyd_Amos.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-06-22
 
-#profile Floyd, Amos Morgan
-key 201405_Floyd
+#201405_002 Floyd, Amos Morgan
 birth 1923-09-18 @ US/TX/Boxelder
 death 2014-05-12 @ US/TX/Fredericksburg
 highschool Avery HS @ US/TX/Avery
@@ -30,8 +28,7 @@ burial Greenwood Cemetery @ US/TX/Fredericksburg
 !file Kanagy_Warren.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-06-15
 
-#profile Kanagy, Warren H.
-key 201405_Kanagy
+#201405_003 Kanagy, Warren H.
 birth 1921-05-14 @ US/CA/Hemet
 death 2014-05-21
 describe ; TL
@@ -46,8 +43,7 @@ military US Navy @ World War II
 !file Bracchitta_Joe.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-06-08
 
-#profile Bracchitta, Joseph Anthony [Joe]
-key 201405_Bracchitta
+#201405_004 Bracchitta, Joseph Anthony [Joe]
 birth 1928-04-20 @ US/NJ/Hackensack
 death 2014-05-18
 military US Army @ Korean War
@@ -60,8 +56,7 @@ burial St. Joseph's Cemetery @ US/NJ/Hackensack
 !file Tench_Gordie.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-06-08
 
-#profile Tench, Gordon Gregory [Gordie]
-key 201405_Tench
+#201405_005 Tench, Gordon Gregory [Gordie]
 birth 1931-08-10 @ CA/BC/Trail
 death 2014-05-18 @ CA/BC/Castlegar
 highschool Trail HS @ CA/BC/Trail
@@ -73,8 +68,7 @@ highschool Trail HS @ CA/BC/Trail
 !file Miller_Jim.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-06-08
 
-#profile Miller, James W. [Jim]
-key 201405_Miller
+#201405_006 Miller, James W. [Jim]
 birth 1928 @ US/PA/Doylestown
 death 2014-05-31
 military US Army 
@@ -86,8 +80,7 @@ military US Army
 !file Senger_Charlie.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-06-08
 
-#profile Senger, Charles G., Jr. [Charlie]
-key 201405_Senger
+#201405_007 Senger, Charles G., Jr. [Charlie]
 birth 1931 @ US/NY/Brooklyn
 death 2014-05-27
 highschool La Salle Military Academy @ US/NY/Oakdale
@@ -100,8 +93,7 @@ college Florida Southern College @ US/FL/Lakeland
 !file Hall_Pete.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-06-03
 
-#profile Hall, Peter W. [Pete]
-key 201405_Hall
+#201405_008 Hall, Peter W. [Pete]
 birth 1940-03-11 @ US/NJ/Somerville
 death 2014-05-29 @ US/NJ/Basking Ridge
 highschool Bound Brook HS @ US/NJ/Bound Brook
@@ -114,8 +106,7 @@ college Rutgers University
 !file Thompson_Darrell.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-06-03
 
-#profile Thompson, Darrell C.
-key 201405_Thompson
+#201405_009 Thompson, Darrell C.
 birth 1931-08-07 @ US/IL/Belleville
 death 2014-05-29
 college Southern Illinois University Carbondale
@@ -128,8 +119,7 @@ military US Air Force @ Korean War
 !file Parkin_Clair.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-06-03
 
-#profile Parkin, Clair Gordon
-key 201405_Parkin
+#201405_010 Parkin, Clair Gordon
 birth 1931-04-07 @ US/SD/Wall
 death 2014-05-31
 highschool Lodi HS @ US/CA/Lodi
@@ -143,8 +133,7 @@ burial Cherokee Memorial Cemetery @ US/CA/Lodi
 !file Leaf_Dick.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-06-02
 
-#profile Leaf, Gust Richard [Dick]
-key 201405_Leaf
+#201405_011 Leaf, Gust Richard [Dick]
 death 2014-05-29
 highschool North HS @ US/MN/Minneapolis
 burial Lakewood Cemetery @ US/MN/Minneapolis
@@ -156,8 +145,7 @@ burial Lakewood Cemetery @ US/MN/Minneapolis
 !file Dittmer_Jack.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-06-02
 
-#profile Dittmer, John D. [Jack]
-key 201405_Dittmer
+#201405_012 Dittmer, John D. [Jack]
 birth 1928-01-10 @ US/IA/Elkader
 death 2014-05-31 @ US/IA/Strawberry Point
 highschool Elkader HS @ US/IA/Elkader
@@ -171,8 +159,7 @@ burial St. Joseph Catholic Cemetery @ US/IA/Elkader
 !file McCrary_James.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-06-02
 
-#profile McCrary, James Earnest "Grampy"
-key 201405_McCrary
+#201405_013 McCrary, James Earnest "Grampy"
 birth 1929-10-15 @ US/NC/Lexington
 death 2014-05-25 @ US/NC/Lexington
 highschool Lexington HS @ US/NC/Lexington
@@ -185,8 +172,7 @@ military US Navy @ Korean War
 !file Foxworth_Jim.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-06-01
 
-#profile Foxworth, James Melton, Sr. [Jim]
-key 201405_Foxworth
+#201405_014 Foxworth, James Melton, Sr. [Jim]
 birth 1925-03-03 @ US/SC/Johnsonville
 death 2014-05-23
 college High Point University
@@ -199,8 +185,7 @@ military US Army @ World War II
 !file Karakul_Edward.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-06-01
 
-#profile Karakul, Edward
-key 201405_Karakul
+#201405_015 Karakul, Edward
 birth 1926-03-20 @ US/OH/Cleveland
 death 2014-05-23 @ US/FL/Palm Beach
 military US Army 
@@ -212,8 +197,7 @@ military US Army
 !file Lewis_Don.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-06-01
 
-#profile Lewis, Donald A. [Don]
-key 201405_Lewis
+#201405_016 Lewis, Donald A. [Don]
 birth 1929-06-06 @ US/MI/Saginaw
 death 2014-05-31 @ US/MI/Saginaw
 highschool Saginaw HS @ US/MI/Saginaw
@@ -227,8 +211,7 @@ burial Mount Olivet Cemetery @ US/MI/Saginaw
 !file Werner_Gene.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-06-01
 
-#profile Werner, W. Eugene [Gene]
-key 201405_Werner
+#201405_017 Werner, W. Eugene [Gene]
 birth 1931-05-07 @ US/KS/Paxico
 death 2014-05-30
 highschool Paxico HS @ US/KS/Paxico
@@ -242,8 +225,7 @@ burial Sacred Heart Cemetery @ US/KS/Newbury
 !file Ladatto_Sammy.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-06-01
 
-#profile Ladatto, Sammy Anthony
-key 201405_Ladatto
+#201405_018 Ladatto, Sammy Anthony
 birth 1941-07-09 @ US/LA/Shreveport
 death 2014-05-25 @ US/LA/Shreveport
 describe ; TL
@@ -258,8 +240,7 @@ burial Forest Park Cemetery @ US/LA/Shreveport
 !file Vargas_Roberto.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-06-01
 
-#profile Vargas, Roberto
-key 201405_Vargas
+#201405_019 Vargas, Roberto
 birth 1929-05-29
 death 2014-05-27
 burial Cementerio Borinquen Memorial Park @ PR//Caguas
@@ -271,8 +252,7 @@ burial Cementerio Borinquen Memorial Park @ PR//Caguas
 !file Jack_Bobby.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-06-01
 
-#profile Jack, Robert Dean [Bobby]
-key 201405_Jack
+#201405_020 Jack, Robert Dean [Bobby]
 birth 1950-10-20 @ US/OK/Ponca City
 death 2014-05-23
 highschool Ponca City HS @ US/OK/Ponca City
@@ -285,8 +265,7 @@ college University of Oklahoma
 !file Bragan_Lionel.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-05-28
 
-#profile Bragan, Lionel Linwood
-key 201405_Bragan
+#201405_021 Bragan, Lionel Linwood
 birth 1922-02-02 @ US/AL/Birmingham
 death 2014-05-27
 highschool Phillips HS @ US/AL/Birmingham
@@ -299,8 +278,7 @@ military US Navy @ World War II
 !file Smith_Jackie.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-05-28
 
-#profile Smith, Jackie Wayne
-key 201405_Smith
+#201405_022 Smith, Jackie Wayne
 birth 1955-02-06
 death 2014-05-19
 highschool Sarasota HS @ US/FL/Sarasota
@@ -313,8 +291,7 @@ college Florida State University
 !file Chiappetta_Charlie.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-05-28
 
-#profile Chiappetta, Charles C. [Charlie]
-key 201405_Chiappetta
+#201405_023 Chiappetta, Charles C. [Charlie]
 birth 1932-07-17 @ US/CT/Greenwich
 death 2014-05-26
 highschool Greenwich HS @ US/CT/Greenwich
@@ -328,8 +305,7 @@ burial St. Mary's Cemetery @ US/CT/Greenwich
 !file Gordon_Mike.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-05-28
 
-#profile Gordon, Michael W. [Mike]
-key 201405_Gordon
+#201405_024 Gordon, Michael W. [Mike]
 birth 1953-09-11 @ US/MA/Leominster
 death 2014-05-26 @ US/MA/Boston
 highschool Brockton HS @ US/MA/Brockton
@@ -342,8 +318,7 @@ burial Pine Hill Cemetery @ US/MA/West Bridgewater
 !file Gray_Johnny.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-05-28
 
-#profile Gray, John L. [Johnny]
-key 201405_Gray
+#201405_025 Gray, John L. [Johnny]
 birth 1926-12-11 @ US/FL/West Palm Beach
 death 2014-05-21 @ US/FL/Boca Raton
 highschool West Palm Beach HS @ US/FL/West Palm Beach
@@ -358,8 +333,7 @@ burial South Florida National Cemetery @ US/FL/Lake Worth
 !file Esrang_Ron.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-05-27
 
-#profile Esrang, Ronald Miller [Ron]
-key 201405_Esrang
+#201405_026 Esrang, Ronald Miller [Ron]
 birth 1931
 death 2014-05-26 @ US/PA/Lehighton
 highschool Mauch Chunk HS @ US/PA/Mauch Chunk
@@ -373,8 +347,7 @@ burial Evergreen Cemetery @ US/PA/Jim Thorpe
 !file Dunsmore_Fred.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-05-26
 
-#profile Dunsmore, Fredrick Roy [Fred]
-key 201405_Dunsmore
+#201405_027 Dunsmore, Fredrick Roy [Fred]
 birth 1929-03-30 @ CA/MB/Winnipeg
 death 2014-05-13 @ CA/MB/Winnipeg
 highschool Daniel McIntyre Collegiate Institute @ CA/MB/Winnipeg
@@ -386,8 +359,7 @@ highschool Daniel McIntyre Collegiate Institute @ CA/MB/Winnipeg
 !file Edwards_Bill.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-05-26
 
-#profile Edwards, William L., Jr. [Bill]
-key 201405_Edwards
+#201405_028 Edwards, William L., Jr. [Bill]
 birth 1927-01-04 @ US/NY/Lawtons
 death 2014-05-13 @ US/NY/Gowanda
 highschool Gowanda HS @ US/NY/Gowanda
@@ -400,8 +372,7 @@ military US Army @ World War II
 !file Ward_Walter.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-05-26
 
-#profile Ward, Walter Howard
-key 201405_Ward
+#201405_029 Ward, Walter Howard
 birth 1920-02-10
 death 2014-05-21 @ US/TN/Union City
 military US Army @ World War II
@@ -414,8 +385,7 @@ burial Cayce Methodist Church Cemetery @ US/KY/Cayce
 !file Roy_Roland.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-05-26
 
-#profile Roy, Roland J.
-key 201405_Roy
+#201405_030 Roy, Roland J.
 birth 1926-11-15 @ US/MA/Lowell
 death 2014-05-22
 highschool Lowell HS @ US/MA/Lowell
@@ -429,8 +399,7 @@ burial St. Joseph's Cemetery @ US/MA/Chelmsford
 !file Zmudosky_Tom.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-05-23
 
-#profile Zmudosky, Thomas Paul, Sr. [Tom]
-key 201405_Zmudosky
+#201405_031 Zmudosky, Thomas Paul, Sr. [Tom]
 birth 1960-01-24 @ US/NY/Rome
 death 2014-05-22 @ US/NY/Rome
 highschool Rome Free Academy @ US/NY/Rome
@@ -446,8 +415,7 @@ burial Rome Cemetery @ US/NY/Rome
 !file Moore_Harold.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-05-23
 
-#profile Moore, Harold Hooks, Sr.
-key 201405_Moore
+#201405_032 Moore, Harold Hooks, Sr.
 birth 1934-12-13
 death 2014-05-22 @ US/NC/Asheville
 college Wake Forest University
@@ -459,8 +427,7 @@ college Wake Forest University
 !file Hollowell_Bud.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-05-20
 
-#profile Hollowell, Bud
-key 201405_Hollowell
+#201405_033 Hollowell, Bud
 birth 1943-01-01 @ US/CA/Long Beach
 death 2014-05-16
 college University of Southern California
@@ -472,8 +439,7 @@ college University of Southern California
 !file Bracchitta_Joe_2.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-05-20
 
-#profile Bracchitta, Joseph Anthony [Joe]
-key 201405_Bracchitta_2
+#201405_034 Bracchitta, Joseph Anthony [Joe]
 birth 1927
 death 2014-05-18
 military US Army @ Korean War
@@ -486,8 +452,7 @@ burial St. Joseph's Cemetery @ US/NJ/Hackensack
 !file Hunt_Chester.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-05-22
 
-#profile Hunt, Chester R.
-key 201405_Hunt
+#201405_035 Hunt, Chester R.
 birth 1921-09-03 @ US/TX/Pine Hill
 death 2014-05-19 @ US/TX/Dallas
 military US Navy @ World War II
@@ -500,8 +465,7 @@ burial Grove Hill Memorial Park @ US/TX/Dallas
 !file Herrera_Rick.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-05-20
 
-#profile Herrera, Henry [Rick]
-key 201405_Herrera
+#201405_036 Herrera, Henry [Rick]
 birth 1934-08-10 @ US/CA/Oakland
 death 2014-05-13
 highschool Oakland Technical HS @ US/CA/Oakland
@@ -514,8 +478,7 @@ military US Army
 !file Stilwill_Matt.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-05-20
 
-#profile Stilwill, Matt W.
-key 201405_Stilwill
+#201405_037 Stilwill, Matt W.
 birth 1958-05-10 @ US/OR/Klamath Falls
 death 2014-05-16
 highschool Hermiston HS @ US/OR/Hermiston
@@ -528,8 +491,7 @@ college Linn-Benton Community College @ US/OR/Albany
 !file Crawford_Jim.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-05-19
 
-#profile Crawford, James B. [Jim]
-key 201405_Crawford
+#201405_038 Crawford, James B. [Jim]
 birth 1933-09-01 @ US/IL/Springfield
 death 2014-05-17 @ US/IL/Springfield
 military US Army @ Korean War
@@ -542,8 +504,7 @@ burial Camp Butler National Cemetery @ US/IL/Clear Lake
 !file Boyce_Burl.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-05-19
 
-#profile Boyce, Burl Leroy
-key 201405_Boyce
+#201405_039 Boyce, Burl Leroy
 birth 1927-03-28 @ US/OK/Shawnee
 death 2014-05-14 @ US/MO/St. Joseph
 college Oklahoma State University
@@ -557,8 +518,7 @@ burial St. Joseph Memorial Park Mausoleum @ US/MO/St. Joseph
 !file Fiore_Carl.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-05-18
 
-#profile Fiore, Carl Joseph
-key 201405_Fiore
+#201405_040 Fiore, Carl Joseph
 birth 1920-03-14 @ US/NJ/Newark
 death 2014-05-04
 highschool McKinley HS @ US/OH/Canton
@@ -572,8 +532,7 @@ burial North Shore Memory Garden @ US/MI/Coloma
 !file Montgomery_Jim.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-05-18
 
-#profile Montgomery, James [Jim]
-key 201405_Montgomery
+#201405_041 Montgomery, James [Jim]
 birth 1934-11-09 @ US/CA/Bakersfield
 death 2014-05-15
 highschool Arvin HS @ US/CA/Arvin
@@ -585,8 +544,7 @@ highschool Arvin HS @ US/CA/Arvin
 !file Pounds_Ed.docx
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-05-17
 
-#profile Pounds, Ed "Bo"
-key 201405_Pounds
+#201405_042 Pounds, Ed "Bo"
 birth 1936-05-10
 death 2014-05-16
 highschool Academy of Richmond County HS @ US/GA/Augusta
@@ -600,8 +558,7 @@ burial Kennesaw Memorial Park @ US/GA/Marietta
 !file Harrington_Ronnie.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-05-14
 
-#profile Harrington, Ronnie
-key 201405_Harrington
+#201405_043 Harrington, Ronnie
 birth 1954-12-28
 death 2014-05-09 @ US/TX/Houston
 highschool Petal HS @ US/MS/Petal
@@ -615,8 +572,7 @@ burial Highland Cemetery @ US/MS/Hattiesburg
 !file Priest_Jesse.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-05-14
 
-#profile Priest, Jesse J., Jr.
-key 201405_Priest
+#201405_044 Priest, Jesse J., Jr.
 birth 1929-09-18 @ US/TX/Briggs
 death 2014-05-10 @ US/TX/Midland
 highschool Bertram HS @ US/TX/Bertram
@@ -630,8 +586,7 @@ burial Post Mountain Cemetery @ US/TX/Burnet
 !file Morton_Guy.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-05-14
 
-#profile Morton, Guy, Jr.
-key 201405_Morton
+#201405_045 Morton, Guy, Jr.
 birth 1930-11-04 @ US/AL/Tuscaloosa
 death 2014-05-11 @ US/OH/Lorain
 college University of Alabama
@@ -645,8 +600,7 @@ burial Maple Grove Cemetery @ US/OH/Vermilion
 !file Welteroth_Dick.pdf
 !contributor Rod Nelson <rodericnelson@gmail.com> @ 2014-05-13
 
-#profile Welteroth, Richard [Dick]
-key 201405_Welteroth
+#201405_046 Welteroth, Richard [Dick]
 birth 1927-08-03 @ US/PA/Williamsport
 death 2014-05-07
 highschool St. Mary's HS @ US/PA/Williamsport
@@ -658,8 +612,7 @@ highschool St. Mary's HS @ US/PA/Williamsport
 !file Fetzer_Ed.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-05-13
 
-#profile Fetzer, Edward Vaughan [Ed]
-key 201405_Fetzer
+#201405_047 Fetzer, Edward Vaughan [Ed]
 birth 1929-07-03 @ US/LA/Shreveport
 death 2014-05-11
 highschool Catholic HS @ US/LA/Baton Rouge
@@ -673,8 +626,7 @@ burial Greenoaks Memorial Park @ US/LA/Baton Rouge
 !file Raley_Bob.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-05-12
 
-#profile Raley, Robert Leon [Bob]
-key 201405_Raley
+#201405_048 Raley, Robert Leon [Bob]
 birth 1927-02-03 @ US/MO/Festus
 death 2014-05-05 @ US/MO/St. Louis
 military US Army @ World War II
@@ -687,8 +639,7 @@ burial Jefferson Barracks National Cemetery @ US/MO/St. Louis
 !file Harrell_Billy.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-05-10
 
-#profile Harrell, William [Billy]
-key 201405_Harrell
+#201405_049 Harrell, William [Billy]
 birth 1928-07-18 @ US/PA/Norristown
 death 2014-05-06
 college Siena College @ US/NY/Loudonville
@@ -701,8 +652,7 @@ burial Oakwood Cemetery @ US/NY/Troy
 !file Marentette_Leo.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-05-10
 
-#profile Marentette, Leo John, Jr.
-key 201405_Marentette
+#201405_050 Marentette, Leo John, Jr.
 birth 1941-02-18 @ US/MI/Detroit
 death 2014-05-08 @ US/MI/Lambertville
 highschool Wayne HS @ US/MI/Wayne
@@ -715,8 +665,7 @@ burial East Swanton Cemetery @ US/OH/Swanton
 !file Curl_Kedy.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-05-07
 
-#profile Curl, Kedy A.
-key 201405_Curl
+#201405_051 Curl, Kedy A.
 birth 1934-09-07 @ US/AL/Garden City
 death 2014-05-05 @ US/TN/Jackson
 burial Ridgecrest Cemetery @ US/TN/Jackson
@@ -728,8 +677,7 @@ burial Ridgecrest Cemetery @ US/TN/Jackson
 !file Kaess_Dick.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-05-07
 
-#profile Kaess, Richard Joseph [Dick]
-key 201405_Kaess
+#201405_052 Kaess, Richard Joseph [Dick]
 birth 1925-04-05 @ US/MN/St. Paul
 death 2014-05-02 @ US/WI/Lake Dalton
 highschool Washington HS @ US/MN/St. Paul
@@ -743,8 +691,7 @@ burial Resurrection Cemetery @ US/MN/Mendota Heights
 !file Wilson_Jack.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-05-07
 
-#profile Wilson, Jack E.
-key 201405_Wilson
+#201405_053 Wilson, Jack E.
 birth 1927-07-01 @ US/OH/Columbus
 death 2014-05-03 @ US/MI/Lexington
 highschool East Detroit HS @ US/MI/Eastpointe
@@ -757,8 +704,7 @@ military US Army
 !file McCullough_Wilber.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-05-05
 
-#profile McCullough, Wilber Seth, Jr.
-key 201405_McCullough
+#201405_054 McCullough, Wilber Seth, Jr.
 birth  @ US/FL/Jacksonville
 death 2014-05-02
 highschool Robert E. Lee HS @ US/FL/Jacksonville
@@ -772,8 +718,7 @@ burial Riverside Memorial Park @ US/FL/Jacksonville
 !file Digby_George.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-05-04
 
-#profile Digby, George J.
-key 201405_Digby
+#201405_055 Digby, George J.
 birth 1917-08-31
 death 2014-05-02
 burial Crestview Memory Gardens @ US/TN/Gallatin
@@ -785,8 +730,7 @@ burial Crestview Memory Gardens @ US/TN/Gallatin
 !file Cale_Bill.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-05-04
 
-#profile Cale, William Russell [Bill]
-key 201405_Cale
+#201405_056 Cale, William Russell [Bill]
 birth 1931
 death 2014-05-02 @ US/AL/Birmingham
 military US @ Korean War

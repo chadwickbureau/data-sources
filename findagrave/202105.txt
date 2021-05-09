@@ -1,0 +1,59 @@
+!citation findagrave.com @ 2021-05-02
+!url https://www.findagrave.com/memorial/101505869/elmer-a.-stepanovsky
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-02
+ 
+#202105_001 Stepanovsky, Elmer A.
+sameas findagrave:101505869
+birth 1927-05-10
+death 1972-01-13
+burial Calvary Cemetery @ US/NY/Johnson City
+
+---
+
+!citation findagrave.com @ 2021-05-02
+!url https://www.findagrave.com/memorial/14512484/andrew-dary-strong
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-02
+ 
+#202105_002 Strong, Andrew Dary
+sameas findagrave:14512484
+birth 1925-10-15 @ US/LA/Webster Parish
+death 1951-06-16 @ US/LA/Alexandria
+burial Doyline Cemetery @ US/LA/Doyline
+
+---
+
+!citation findagrave.com @ 2021-05-03
+!url https://www.findagrave.com/memorial/171940879/thomas-roy-gregory
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-03
+ 
+#202105_003 Gregory, Thomas Roy, Sr. [Tommy]
+sameas findagrave:171940879
+birth 1922-01-23 @ US/MS/Greenwood
+death 2010-05-15 @ US/MS/Greenwood
+highschool Greenwood HS @ US/MS/Greenwood
+military US Navy @ World War II
+burial IOOF Cemetery @ US/MS/Greenwood
+
+---
+ 
+!citation findagrave.com @ 2021-05-05
+!url https://www.findagrave.com/memorial/56285696/daniel-w-snell
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-05
+ 
+#202105_004 Snell, Daniel W.
+sameas findagrave:56285696
+birth 1913-07-19 @ US/PA/Erie
+death 1945-03-11 @ DE// Bad Neuenahr-Ahrweiler
+burial Henri-Chapelle American Cemetery and Memorial @ FR//Henri-Chapelle
+
+---
+ 
+!citation findagrave.com @ 2021-05-05
+!url https://www.findagrave.com/memorial/200096692/salvatore-b.-recca
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-05
+ 
+#202105_005 Recca, Salvatore B. [Sal]
+sameas findagrave:200096692
+birth 1921-11-08 @ US/NY/Brooklyn
+death 2019-05-06 @ US/HI/Kailua
+burial Hawaii State Veterans Cemetery @ US/HI/Kaneohe

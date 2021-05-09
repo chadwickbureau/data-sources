@@ -1,0 +1,9 @@
+!citation Olympedia @ 2021-05-08
+!url http://www.olympedia.org/athletes/1469
+!file Hinton_Steve.jpg
+!contributor Alex Bonilla ab@sports-reference.com @ 2021-05-07
+
+#202105_001 Hinton, Steven Leslie
+player 1994 Duluth-Superior (Northern)
+birth 1971-08-05 @ AU/Queensland/Ipswich
+describe H67 W165

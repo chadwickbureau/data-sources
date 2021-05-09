@@ -3,8 +3,7 @@
 !file Kowalski_Edwin.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-12-11
 
-#profile Kowalski, Edwin C.
-key 201207_Kowalski
+#201207_001 Kowalski, Edwin C.
 birth 1923-12-05 @ US/MI/Saginaw
 death 2012-07-16 @ US/MI/Bridgeport
 highschool Arthur Hill HS @ US/MI/Saginaw

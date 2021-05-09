@@ -6541,3 +6541,174 @@ sameas findagrave:76896824
 birth 1907-07-29 @ US/CA
 death 1981-02-05 @ US/CA/Sonoma County
 burial Sebastopol Memorial Lawn Cemetery @ US/CA/Sebastopol
+
+---
+
+!citation findagrave.com @ 2021-04-26
+!url https://www.findagrave.com/memorial/9983205/homer-cain
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-26
+ 
+#534 Cain, Homer
+sameas findagrave:9983205
+birth 1889
+death 1964
+burial Chandlersville Cemetery @ US/OH/Chandlersville
+
+---
+ 
+!citation findagrave.com @ 2021-04-26
+!url https://www.findagrave.com/memorial/71741839/lavis-cleon-york
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-26
+ 
+#535 York, Lavis Cleon [Lou]
+sameas findagrave:71741839
+birth 1921-09-12 @ US/GA/Bartow County
+death 1987-10-12 @ US/GA/Rome
+burial East View Cemetery @ US/GA/Rome
+
+---
+ 
+!citation findagrave.com @ 2021-04-27
+!url https://www.findagrave.com/memorial/35880601/james-howard-blake
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-27
+ 
+#536 Blake, James Howard
+sameas findagrave:35880601
+birth 1928 @ US/SC/Spartanburg County
+death 1987 @ US/SC/Spartanburg County
+burial Fort Prince Memorial Gardens @ US/SC/Wellford
+
+---
+
+!citation findagrave.com @ 2021-04-27
+!url https://www.findagrave.com/memorial/196904937/edward-a-miller
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-27
+ 
+#537 Miller, Edward A.
+sameas findagrave:196904937
+birth 1933-09-14
+death 2013-12-04
+burial Gate of Heaven Cemetery @ US/OH/Montgomery
+
+---
+
+!citation findagrave.com @ 2021-04-28
+!url https://www.findagrave.com/memorial/3601158/alfred-woodrow-lien
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-28
+ 
+#538 Lien, Alfred Woodrow
+sameas findagrave:3601158
+birth 1915-02-02 @ US/OR/Canby
+death 1967-06-27 @ US/CA/San Mateo County
+burial Golden Gate National Cemetery @ US/CA/San Bruno
+
+---
+
+!citation findagrave.com @ 2021-04-28
+!url
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-28
+ 
+#539 McCorkle, Robert Lee
+sameas findagrave:53763905
+birth 1922-02-02
+death 1996-09-11
+burial Lando Cemetery @ US/SC/Lando
+
+---
+
+!citation findagrave.com @ 2021-04-28
+!url https://www.findagrave.com/memorial/52800160/russell-harold-messerly
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-28
+ 
+#540 Messerly, Russell Harold
+sameas findagrave:52800160
+birth 1916-07-11
+death 1989-09-29
+burial North Lawn Cemetery @ US/IA/Fort Dodge
+
+---
+ 
+!citation findagrave.com @ 2021-04-28
+!url https://www.findagrave.com/memorial/148518537/max-henry-molberg
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-28
+ 
+#541 Molberg, Max Henry
+sameas findagrave:148518537
+birth 1919-12-21 @ US/TX/Gillespie County
+death 1982-11-09 @ US/TX/Pampa
+burial Memory Gardens of Pampa @ US/TX/Pampa
+
+---
+
+!citation findagrave.com @ 2021-04-28
+!url https://www.findagrave.com/memorial/76361545/maurice-j.-mozzali
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-28
+ 
+#542 Mozzali, Maurice J.
+sameas findagrave:76361545
+birth 1921-12-12 @ US/KY/Louisville
+death 1987-03-02 @ US/FL/Polk County
+burial St. Michael Cemetery @ US/KY/Louisville
+
+---
+
+!citation findagrave.com @ 2021-04-28
+!url https://www.findagrave.com/memorial/10794/max-patkin
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-28
+ 
+#543 Patkin, Max "Clown Prince of Baseball"
+sameas findagrave:10794
+birth 1920-01-10 @ US/PA/Philadelphia
+death 1999-10-30 @ US/PA/Paoli
+burial Mount Lebanon Cemetery @ US/PA/Collingdale
+
+---
+ 
+!citation findagrave.com @ 2021-04-29
+!url https://www.findagrave.com/memorial/88893640/john-a-turner
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-29
+ 
+#544 Turner, John A.
+sameas findagrave:88893640
+birth 1919-06-16
+death 2000-12-01
+burial O'Fallon City Cemetery @ US/IL/O'Fallon
+
+---
+ 
+!citation findagrave.com @ 2021-04-30
+!url https://www.findagrave.com/memorial/78029104/richard-howard-dyer
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-30
+ 
+#545 Dyer, Richard Howard [Huck]
+sameas findagrave:78029104
+birth 1926-12-05 @ US/UT/Provo
+death 1994-12-21
+military US Navy @ World War II
+burial Forest Rose Cemetery @ US/OH/Lancaster
+
+---
+
+!citation findagrave.com @ 2021-05-01
+!url https://www.findagrave.com/memorial/94667352/john-alvin-fiscalini
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-01
+ 
+#546 Fiscalini, John Alvin
+sameas findagrave:94667352
+birth 1925-02-25 @ US/CA/San Bernardino
+death 1982-12-17 @ US/CA/San Bernardino
+burial Mountain View Cemetery @ US/CA/San Bernardino
+
+---
+
+!citation findagrave.com @ 2021-05-01
+!url https://www.findagrave.com/memorial/13918746/gordon-thomas-bradshaw
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-01
+ 
+#547 Bradshaw, Gordon Thomas
+sameas findagrave:13918746
+birth 1916-08-01
+death 2003-08-28
+military US Marines @ World War II
+military US Marines @ Korean War
+burial Missouri Veterans Cemetery at Springfield @ US/MO/Springfield

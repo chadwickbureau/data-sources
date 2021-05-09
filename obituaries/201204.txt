@@ -3,8 +3,7 @@
 !file Cluley_Ken.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-12-11
 
-#profile Cluley, Kenneth Riebel [Ken]
-key 201204_Cluley
+#201204_001 Cluley, Kenneth Riebel [Ken]
 birth 1928-07-22 @ US/MI/Rosebush
 death 2012-04-04
 highschool Mount Pleasant HS @ US/MI/Mount Pleasant

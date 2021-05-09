@@ -231,7 +231,7 @@ birth 1894-02-24 @ US/NJ/South Orange
 !contributor Jack Morris <jackmo77@comcast.net> @ 2021-03-17
  
 #202103_028 Lied, Frederick J.
-birth 1969-02-18 @ US/NJ/Elizabeth
+death 1969-02-18 @ US/NJ/Elizabeth
 
 ---
  

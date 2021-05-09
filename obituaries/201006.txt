@@ -3,8 +3,7 @@
 !file Gowey_Jeremiah.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-11-30
 
-#profile Gowey, Jeremiah James H. C.
-key 201006_Gowey
+#201006_001 Gowey, Jeremiah James H. C.
 birth 1982-08-20 @ US/WI/Madison
 death 2010-06-28
 highschool Logan HS @ US/WI/La Crosse

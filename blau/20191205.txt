@@ -1,13 +1,11 @@
 !citation Knoxville Journal and Tribune @ 1915-08-28; page 3
 
 
-#profile Bales, Bill
-key 20191205_001
+#20191205_001 Bales, Bill
 player 1915 Valdosta (Florida-Alabama-Georgia)
 player <=1915 (Appalachian)
 
-#profile Anderson, Vic
-key 20191215_002
+#20191205_002 Anderson, Vic
 player 1913 Knoxville (Appalachian); TL
 player 1915 (Florida-Alabama-Georgia)
 
@@ -16,8 +14,7 @@ player 1915 (Florida-Alabama-Georgia)
 !citation Montgomery Advertiser @ 1916-03-27; page 7
 
 
-#profile Antley
-key 20191215_003
+#20191205_003 Antley
 player 1915 Waycross (Florida-Alabama-Georgia); H68 W155
 resides 1916 @ US/MS/Gulfport
 
@@ -25,16 +22,14 @@ resides 1916 @ US/MS/Gulfport
 
 !citation Montgomery Advertiser @ 1916-04-13; page 8
 
-#profile Edny
-key 20191215_004
+#20191205_004 Edny
 player 1916 Montgomery (South Atlantic); TL
 
 ---
 
 !citation Washington Times @ 1913-05-04; page 18
 
-#profile Williams, Rebel
-key 20191215_005
+#20191205_005 Williams, Rebel
 player 1913 New Orleans (Southern Association)
 player 1913 Atlanta (Southern Association)
 
@@ -42,8 +37,7 @@ player 1913 Atlanta (Southern Association)
 
 !citation Raleigh News and Observer @ 1915-07-27; page 3
 
-#profile Turner, Sam
-key 20191215_006
+#20191205_006 Turner, Sam
 player 1915 Dothan (Florida-Alabama-Georgia)
 player 1915 Greensboro (North Carolina State); @RF
 player 1913 Raleigh (North Carolina State)
@@ -52,8 +46,7 @@ player 1913 Raleigh (North Carolina State)
 
 !citation Winston-Salem Twin-City Daily Sentinel @ 1915-05-08; page 12
 
-#profile Bartels
-key 20191215_007
+#20191205_007 Bartels
 player 1914 Manistee (Michigan State)
 player 1915 Winston-Salem (North Carolina State)
 
@@ -61,6 +54,5 @@ player 1915 Winston-Salem (North Carolina State)
 
 !citation Winston-Salem Journal @ 1915-05-06; page 6
 
-#profile Bartels
-key 20191215_008
+#20191205_008 Bartels
 player 1915 Winston-Salem (North Carolina State); TR

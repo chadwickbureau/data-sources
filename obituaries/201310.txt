@@ -3,8 +3,7 @@
 !file Markley_Duane.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-12-12
 
-#profile Markley, Duane
-key 201310_Markey
+#201310_001 Markley, Duane
 birth 1929-05-01 @ US/IN/Richmond
 death 2013-10-11 @ US/IN/Richmond
 highschool Richmond HS @ US/IN/Richmond
@@ -17,8 +16,7 @@ military US Navy @ Korean War
 !file Nolan_David.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-12-12
 
-#profile Nolan, David Pinckney, III
-key 201310_Nolan
+#201310_002 Nolan, David Pinckney, III
 birth 1915-06-02 @ US/GA/Savannah
 death 2013-10-25
 burial Live Oak Memorial Gardens @ US/SC/Charleston
@@ -30,8 +28,7 @@ burial Live Oak Memorial Gardens @ US/SC/Charleston
 !file Stremecki_Alex.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-12-12
 
-#profile Stremecki, Alex
-key 201310_Stremecki
+#201310_003 Stremecki, Alex
 death 2013-10-26
 
 ---
@@ -41,8 +38,7 @@ death 2013-10-26
 !file Dirmann_Henry.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-12-12
 
-#profile Dirmann, Henry Isadore, Jr. "Puppy"
-key 201310_Dirmann
+#201310_004 Dirmann, Henry Isadore, Jr. "Puppy"
 death 2013-10-30
 highschool Holy Cross School @ US/LA/New Orleans
 burial St. Bernard Memorial Gardens @ US/LA/Chalmette
@@ -54,8 +50,7 @@ burial St. Bernard Memorial Gardens @ US/LA/Chalmette
 !file Foster_Harry.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-12-13
 
-#profile Foster, Charles Harry
-key 201310_Foster
+#201310_005 Foster, Charles Harry
 birth 1927-07-01
 death 2013-10-30 @ US/LA/Downsville
 burial Mount Ararat Cemetery @ US/LA/Point
@@ -67,8 +62,7 @@ burial Mount Ararat Cemetery @ US/LA/Point
 !file Stelma_Mike.pdf
 !contributor John Hall <j03.john@gmail.com> @ 2013-12-10
 
-#profile Stelma, Michael [Mike] "Cactus"
-key 201310_Stelma
+#201310_006 Stelma, Michael [Mike] "Cactus"
 birth  @ US/PA/Swoyersville
 death 2013-10-03 @ US/PA/Larksville
 highschool Swoyersville HS @ US/PA/Swoyersville
@@ -82,8 +76,7 @@ burial St. Mary's Cemetery @ US/PA/Swoyersville
 !file Perrin_Paul.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2013-12-14
 
-#profile Perrin, Paul S.
-key 201310_Perrin
+#201310_007 Perrin, Paul S.
 birth 1925
 death 2013-10-14 @ US/OK/Tulsa
 highschool Wetumka HS @ US/OK/Wetumka
@@ -97,6 +90,5 @@ burial Wetumka Cemetery @ US/OK/Wetumka
 !file Robles_Julio.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2013-12-14
 
-#profile Robles, Julio
-key 201310_Robles
+#201310_008 Robles, Julio
 death 2013-10 @ US/MA/Boston

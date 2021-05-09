@@ -1,8 +1,7 @@
 !citation Warren Evening Times @ 1915-08-19; page 7
 
 
-#profile Moran, Frank
-key 20200220_001
+#20200220_001 Moran, Frank
 player 1915 Warren (Interstate)
 resides 1915 @ US/WV
 
@@ -11,12 +10,10 @@ resides 1915 @ US/WV
 !citation Wellsville Daily Reporter @ 1915-06-18; page 6
 
 
-#profile Rychtner, Emil
-key 20200220_002
+#20200220_002 Rychtner, Emil
 player 1915 Warren (Interstate)
 
-#profile Davie, Ralph [Pop]
-key 20200220_003
+#20200220_003 Davie, Ralph [Pop]
 player 1915 Warren (Interstate)
 
 ---
@@ -24,8 +21,7 @@ player 1915 Warren (Interstate)
 !citation Bradford Era @ 1915-06-03; page 2
 
 
-#profile Murray
-key 20200220_004
+#20200220_004 Murray
 player 1915 Bradford (Interstate)
 player 1914 Jamestown (Interstate)
 
@@ -34,8 +30,7 @@ player 1914 Jamestown (Interstate)
 !citation Wellsville Allegany County Reporter @ 1914-07-24; page 5
 
 
-#profile Sheridan
-key 20200220_005
+#20200220_005 Sheridan
 player 1914 Bradford (Interstate); TL
 
 ---
@@ -43,8 +38,7 @@ player 1914 Bradford (Interstate); TL
 !citation Warren Evening Times @ 1915-05-21; page 7
 
 
-#profile Wright, Bill
-key 20200220_006
+#20200220_006 Wright, Bill
 player 1915 Warren (Interstate)
 resides 1915 @ US/PA/Pittsburgh
 
@@ -53,8 +47,7 @@ resides 1915 @ US/PA/Pittsburgh
 !citation Warren Evening Times @ 1915-07-22; page 7
 
 
-#profile Wright, Pikey
-key 20200220_007
+#20200220_007 Wright, Pikey
 player 1915 Hornell (Interstate)
 resides 1915 @ US/PA/Warren County
 
@@ -63,8 +56,7 @@ resides 1915 @ US/PA/Warren County
 !citation Warren Evening Mirror @ 1916-04-09; page 4
 
 
-#profile Wright, Wallace [Pikey]
-key 20200220_008
+#20200220_008 Wright, Wallace [Pikey]
 player 1915 Hornell (Interstate)
 
 ---
@@ -72,8 +64,7 @@ player 1915 Hornell (Interstate)
 !citation Warren Evening Times @ 1915-08-04; page 9
 
 
-#profile Stewart
-key 20200220_009
+#20200220_009 Stewart
 player 1915 Warren (Interstate); @C
 resides 1915 @ US/NC/Lenoir
 
@@ -82,8 +73,7 @@ resides 1915 @ US/NC/Lenoir
 !citation Wellsville Daily Reporter @ 1915-08-17; page 3
 
 
-#profile Cronin
-key 20200220_010
+#20200220_010 Cronin
 player 1915 Warren (Interstate)
 player 1914 (Michigan State)
 
@@ -92,8 +82,7 @@ player 1914 (Michigan State)
 !citation Warren Evening Mirror @ 1916-03-09; page 3
 
 
-#profile Kelley, Frank [Speed]
-key 20200220_011
+#20200220_011 Kelley, Frank [Speed]
 player 1916 St. Marys (Interstate)
 player 1915 Youngstown (Central)
 
@@ -102,13 +91,11 @@ player 1915 Youngstown (Central)
 !citation Wilkes-Barre Times-Leader @ 1915-06-19; page 10
 
 
-#profile Artman
-key 20200220_012
+#20200220_012 Artman
 player 1915 Olean (Interstate); @P
 player <=1915 Binghamton (New York State)
 
-#profile Bradley
-key 20200220_013
+#20200220_013 Bradley
 player 1915 Bradford (Interstate); @P
 player 1914 Binghamton (New York State)
 
@@ -118,8 +105,7 @@ player 1914 Binghamton (New York State)
 !citation Wellsville Daily Reporter @ 1915-06-12; page 6
 
 
-#profile Rawley
-key 20200220_014
+#20200220_014 Rawley
 player 1915 Hornell (Interstate)
 obtained <=1915-06-12; join=Hornell (Interstate); leave=Syracuse (New York State)
 
@@ -129,8 +115,7 @@ obtained <=1915-06-12; join=Hornell (Interstate); leave=Syracuse (New York State
 !citation Wellsville Daily Reporter @ 1915-07-29; page 6
 
 
-#profile Kelly, Harry
-key 20200220_015
+#20200220_015 Kelly, Harry
 player 1915 Wellsville (Interstate)
 player 1915 St. Thomas (Canadian)
 released 1915-07-28; leave=Wellsville (Interstate)

@@ -65,3 +65,187 @@ college San Francisco State University; dates=2017
 college Georgia College; dates=2015
 college Monterey Peninsula College; dates=2013/2014
 highschool Cardinal Newman HS @ US/CA/Santa Rosa
+
+---
+
+!citation Collegiate Baseball Scouting Network Website piece on Andrews @ 2018-05-14
+
+#2018_007 Andrews, Clayton Davis
+player 2018 Long Beach State; @P-CF
+player 2016/2017 Cabrillo College; @P
+resides 2018 @ US/CA/Rohnert Park
+birth 1997-01-04
+
+---
+
+!citation Montreal Gazette @ 1932-06-29; p. 14
+!citation AP via Jersey Journal @ 1932-06-29; p. 10
+
+#2018_008 Collingwood, Sumner Bradford
+player 1932 Williamsport (New York-Pennsylvania); @P
+player 1931 Montreal (International); @P
+player 1932 Montreal (International); @P
+resides 1978 @ US/PA/Lancaster
+birth 1909-05-01
+death 1978-10
+
+---
+
+!citation Pacific Coast Athletic Conference press release 20180403
+!citation Palomar College Athletics official Website (palomar.prestosports.com)
+!citation Palomar College Athletics press release 20171122
+!citation Muskogee Phoenix Web site piece 20130725
+!citation Muskogee Phoenix Web site piece 20180228 from Cronkite News
+
+#2018_009 Hill, Tim
+highschool Granada Hills Charter HS
+player 2010 Palomar College; @P
+player 2013/2014 Bacone College; @P
+player 2013 Florence (Coastal Plain) @P
+
+---
+
+!citation 20080305 piece published on TulaneGreenWave.com Website, official Website of Tulane Athletics
+!citation 2009 Tulane Green Wave baseball roster/Honeck bio
+!citation 2010 New York Mets Media Guide/Honeck bio
+!citation Baseball America Ultimate Draft book/2009 draft
+!citation Baseball America 2010 Almanac, p. 514
+
+#2018_010 Honeck, Samuel Niles [Sam]
+player 2008/2009 Tulane University; @1B
+player 2006/2007 Grayson County College
+resides 2009 @ US/TX/Austin
+birth 1987-06-19 @ US/TX/San Antonio
+
+---
+
+!citation University of Missouri Website/2010 baseball bios
+
+#2018_011 Liberto, Michael
+player 2009/2010 University of Missouri-Columbia
+player 2007/2008 Delgado Community College
+resides 2010 @ US/LA/Hanrahan
+birth @ US/LA/New Orleans
+
+---
+
+!citation Mississippi State Official Website
+
+#2018_012 Lowe, Nathaniel
+player 2014 Mercer University; @DH
+player 2015 St. Johns River State College
+player 2015 Vienna (Cal Ripken)
+player 2016 Mississippi State University; @1B
+
+---
+
+!citation Baseball America Ultimate Draft Book
+!citation St. Petersburg College 2017 Baseball roster
+!citation St. Petersburg College Athletics official Website bio
+
+#2018_013 Ricciardi, Dante
+drafted 2015 by Seattle (American)
+player 2017 St. Petersburg College; @IF
+player 2016 Georgetown University
+highschool Worcester Academy @ US/MA/Worcester
+
+---
+
+!citation ASA College official athletics website
+
+#2018_014 Reyes, Jesus
+player 2018 Cincinnati (National); @P
+college ASA College @ US/NY/New York; dates=2014
+
+---
+
+!citation William & Mary official athletics website
+
+#2018_015 Lindemuth, Ryan B.
+college William & Mary; dates=2011/2014
+highschool Lake Braddock Secondary School @ US/VA/Burke; dates=/2010
+resides 2014 @ US/VA/Burke
+
+---
+
+!citation Florida Death Index, 1877-1998
+
+#2018_016 Sangalli, Ubaldo Frank
+birth 1924-11-25
+
+---
+
+!citation VirginiaSports.com
+
+#2018_017 Towns, Kenny
+college University of Virginia; dates=2012/2015
+highschool Lake Braddock Secondary School @ US/VA/Burke; dates=2008/2011
+
+---
+
+!citation New York Yankees 2018 media guide
+!citation Oakland Athletics 2017 media guide
+
+#2018_018 Gray, Sonny
+player 2018 New York (American)
+college Vanderbilt University; dates=2009/2011
+highschool Smyrna HS @ US/TN/Smyrna; dates=/2008
+
+---
+
+!citation Washington Nationals 2018 media guide
+
+#2018_019 Rendon, Anthony
+player 2018 Washington (National)
+highschool Lamar HS @ US/TX/Houston; dates=/2008
+
+---
+
+!citation Social Security Death Index
+
+#2018_020 Rustin, Theodore W.
+player 1954 Douglas (Georgia State); @P
+resides 1996 @ US/NY/Nassau
+birth 1933-09-17 @ US/WA
+death 1996-09-21
+
+---
+
+!citation Social Security Death Index
+
+#2018_021 Wilkins, Dewey
+birth 1920-07-17 @ US/VA
+death 1975-11
+
+---
+
+!citation 2017 Central Michigan University baseball roster
+!citation 2018 Rockies media guide
+
+#2018_022 Jipping, Daniel
+highschool Plymouth Christian Academy @ US/MI/Canton; dates=/2014
+
+---
+
+!citation PerfectGame.org webpage for Tyrus Greene
+
+#2018_023 Greene, Tyrus Raymond
+highschool St. Augustine HS @ US/CA/San Diego; dates=2013/2015
+resides 2014 @ US/CA/La Jolla
+
+---
+
+!citation Valley Roadrunner newspaper piece 20130801
+!citation MaxPreps.com web page for Matt Hartman
+
+#2018_024 Hartman, Matt
+highschool Calvary Christian School @ US/CA/Vista; dates=2013/2014
+
+---
+
+!citation Sports Illustrated profile of Hammaker 19830704
+!citation Berry College official athletics Website 20120313 piece about daughter Alesa Hammaker
+
+#2018_025 Hammaker, Atlee
+highschool Mount Vernon HS @ US/VA/Alexandria; dates=1976
+

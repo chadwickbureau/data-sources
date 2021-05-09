@@ -1,7 +1,6 @@
 !citation Atlanta Constitution @ 1915-04-18; page 5
 
-#profile Hill
-key 20191226_001
+#20191226_001 Hill
 player 1915 Waycross (Florida-Alabama-Georgia); TR
 resides 1915 @ US/TN/Chattanooga
 
@@ -9,16 +8,14 @@ resides 1915 @ US/TN/Chattanooga
 
 !citation Charlotte Observer @ 1911-03-09; page 2
 
-#profile McFarlin, J. F.
-key 20191226_002
+#20191226_002 McFarlin, J. F.
 player 1911 Augusta (South Atlantic); H71 W165
 
 ---
 
 !citation Morristown Republican @ 1911-04-14; page 1
 
-#profile McFarlin, J. F.
-key 20191226_003
+#20191226_003 McFarlin, J. F.
 manager 1911 Morristown (Appalachian)
 released <=1911-04-14; leave=Augusta (South Atlantic)
 
@@ -26,8 +23,7 @@ released <=1911-04-14; leave=Augusta (South Atlantic)
 
 !citation Greenville Daily News @ 1912-07-14; page 2
 
-#profile McFarlin
-key 20191226_004
+#20191226_004 McFarlin
 player 1912 Greenville (Carolina Association)
 resides 1912 @ US/AL/Jacksonville
 note quitting baseball
@@ -36,16 +32,14 @@ note quitting baseball
 
 !citation Charlotte Observer @ 1911-07-04; page 3
 
-#profile Stouch, Tom
-key 20191226_005
+#20191226_005 Stouch, Tom
 manager 1911 Augusta (South Atlantic)
 
 ---
 
 !citation Atlanta Constitution @ 1932-06-11; page 9
 
-#profile Stewart, Stuffy
-key 20191226_006
+#20191226_006 Stewart, Stuffy
 player 1932 Knoxville (Southern Association)
 player 1932 Oklahoma City (Western)
 
@@ -53,8 +47,7 @@ player 1932 Oklahoma City (Western)
 
 !citation Tyler Daily Courier-Times-Telegraph @ 1932-06-26; page 12
 
-#profile Stewart, Stuffy
-key 20191226_007
+#20191226_007 Stewart, Stuffy
 player 1932 Tyler (Texas)
 player 1932 Oklahoma City (Western)
 obtained <=1932-06-26; join=Tyler (Texas); leave=Oklahoma City (Western)
@@ -64,8 +57,7 @@ obtained <=1932-06-26; join=Tyler (Texas); leave=Oklahoma City (Western)
 !citation Frank Stewart biography
 !url SABR bio-https://sabr.org/bioproj/person/1963578b#_edn3
 
-#profile Stewart, Frank
-key 20191226_008
+#20191226_008 Stewart, Frank
 player 1928 Springfield (Illinois-Indiana-Iowa)
 player 1929 Springfield (Illinois-Indiana-Iowa)
 player 1930 Terre Haute (Illinois-Indiana-Iowa)
@@ -75,8 +67,7 @@ player 1932 Fort Wayne (Central)
 
 !citation Thomasville Times Enterprise @ 1915-06-29; page 7
 
-#profile Ansley
-key 20191226_009
+#20191226_009 Ansley
 player 1915 Brunswick (Florida-Alabama-Georgia)
 resides 1915 @ US/GA/Thomasville
 
@@ -84,6 +75,5 @@ resides 1915 @ US/GA/Thomasville
 
 !citation Thomasville Times Enterprise @ 1915-07-02; page 7
 
-#profile Cooper, Ty
-key 20191226_010
+#20191226_010 Cooper, Ty
 player 1915 Brunswick (Florida-Alabama-Georgia)

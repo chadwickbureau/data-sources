@@ -3,8 +3,7 @@
 !file Ketcher_Michael
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-11-14
 
-#profile Ketcher, Michael
-key 201309_001
+#201309_001 Ketcher, Michael
 birth 1948-09-20 @ US/OK/Tahlequah
 death 2013-09-06
 highschool Stilwell HS @ US/OK/Stilwell

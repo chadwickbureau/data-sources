@@ -3,8 +3,7 @@
 !file Hathaway_Robert.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-24
 
-#profile Hathaway, Robert B.
-key 201105_Hathaway
+#201105_001 Hathaway, Robert B.
 birth 1932-04-21 @ US/WV/Anmoore
 death 2011-05-23 @ US/WV/Bridgeport
 highschool Bridgeport HS @ US/WV/Bridgeport
@@ -18,8 +17,7 @@ burial Bridgeport Cemetery @ US/WV/Bridgeport
 !file Black_GC.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-07-20
 
-#profile Black, Gerome Cloyd [G. C.]
-key 201105_Black
+#201105_002 Black, Gerome Cloyd [G. C.]
 birth 1931-06-29 @ US/TX/Merkel
 death 2011-05-21 @ US/TX/Nolan County
 military US Army @ Korean War

@@ -1,0 +1,85 @@
+!citation Cumberland Evening Times @ 1916-06-12; page 8
+
+#20210506_001 Edwards, George
+player 1916 Cumberland (Potomac)
+
+---
+
+!citation Cumberland Evening Times @ 1916-04-08; page 6
+
+#20210506_002 Price, Eddie
+player 1916 Cumberland (Potomac)
+
+---
+
+!citation Cumberland Evening Times @ 1916-06-03; page 6
+
+#20210506_003 Price
+player 1916 Cumberland (Potomac); TR
+
+---
+
+!citation Cumberland Evening Times @ 1916-05-13; page 12
+
+#20210506_004 Williams, Elmer
+player 1916 Lonaconing (Potomac)
+
+---
+
+!citation Cumberland Evening Times @ 1916-05-24; page 7
+
+#20210506_005 Miller, William
+player 1916 Piedmont (Potomac)
+acquired <=1916-05-24 by Piedmont (Potomac) from Frederick (Blue Ridge)
+
+---
+
+!citation Cumberland Evening Times @ 1916-05-05; page 10
+
+#20210506_006 Dye, Charley
+player 1916 Toronto (International); TL
+
+---
+
+!citation Cumberland Evening Times @ 1916-07-25; page 9
+
+#20210506_007 Howe, Oscar
+player 1916 Cumberland (Potomac)
+
+---
+
+!citation Cumberland Evening Times @ 1916-07-29; page 9
+
+#20210506_008 Herbert
+player 1916 Frostburg (Potomac); TL
+
+#20210506_009 Schafer
+player 1916 Cumberland (Potomac); BR
+
+#20210506_010 Jones
+player 1916 Cumberland (Potomac); BL
+
+---
+
+!citation Cumberland Evening Times @ 1916-08-02; page 9
+
+#20210506_011 Kane, Dutch
+player 1916 Lonaconing (Potomac)
+player 1916 Piedmont (Potomac)
+
+#20210506_012 Kelly, Joe
+player 1916 Cumberland (Potomac)
+player 1916 Frostburg (Potomac)
+
+---
+
+!citation Cumberland Evening Times @ 1916-08-05; page 10
+
+#20210506_013 Freeney, Sam
+player 1916 Frostburg (Potomac); TL
+
+#20210506_014 Harris, Owen
+player 1916 Piedmont (Potomac); TL
+
+#20210506_015 Deal, Harry
+player 1916 Cumberland (Potomac); TL

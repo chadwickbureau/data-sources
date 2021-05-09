@@ -3,8 +3,7 @@
 !file Stangvik_Perry.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2013-12-10
 
-#profile Stangvik, Perry Grendahl
-key 201300_Stangvik
+#201300_001 Stangvik, Perry Grendahl
 birth 1930-02-05 @ US/WA/Seattle
 death 2013
 highschool Ballard HS @ US/WA/Seattle

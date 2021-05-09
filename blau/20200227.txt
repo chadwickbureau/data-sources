@@ -2,8 +2,7 @@
 !contributor Cliff Blau <cliff@cliffblau.com>
 
 
-#profile Lewan, Stanley
-key 20200227_001
+#20200227_001 Lewan, Stanley
 player 1924 Winston-Salem (Piedmont)
 player 1922 St. Joseph (Western)
 
@@ -13,8 +12,7 @@ player 1922 St. Joseph (Western)
 !contributor Terry Bohn <bohn_terry@yahoo.com>
 
 
-#profile McGrath, Matt
-key 20200227_002
+#20200227_002 McGrath, Matt
 player 1921 Mitchell (Dakota)
 manager 1920 Wessington Springs (South Dakota)
 
@@ -24,8 +22,7 @@ manager 1920 Wessington Springs (South Dakota)
 !contributor Cliff Blau <cliff@cliffblau.com>
 
 
-#profile Birkenstock, Roy
-key 20200227_003
+#20200227_003 Birkenstock, Roy
 player 1921 Redfield (Dakota)
 player 1921 Minneapolis (American Association)
 purchased <=1921-09-14; join=Minneapolis (American Association); leave=Redfield (Dakota)
@@ -36,8 +33,7 @@ purchased <=1921-09-14; join=Minneapolis (American Association); leave=Redfield 
 !contributor Cliff Blau <cliff@cliffblau.com>
 
 
-#profile Birkenstock, Roy
-key 20200227_004
+#20200227_004 Birkenstock, Roy
 player 1922 Jamestown (Dakota)
 player 1921 Minneapolis (American Association)
 purchased <=1922-05-02; join=Jamestown (Dakota); leave=Minneapolis (American Association)
@@ -48,8 +44,7 @@ purchased <=1922-05-02; join=Jamestown (Dakota); leave=Minneapolis (American Ass
 !contributor Cliff Blau <cliff@cliffblau.com>
 
 
-#profile Birkenstock, Roy
-key 20200227_005
+#20200227_005 Birkenstock, Roy
 player 1923 St. Joseph (Western)
 
 ---
@@ -58,8 +53,7 @@ player 1923 St. Joseph (Western)
 !contributor Cliff Blau <cliff@cliffblau.com>
 
 
-#profile Birkenstock, Roy
-key 20200227_006
+#20200227_006 Birkenstock, Roy
 player 1923 St. Joseph (Western)
 player 1923 Moline (Illinois-Indiana-Iowa)
 
@@ -69,8 +63,7 @@ player 1923 Moline (Illinois-Indiana-Iowa)
 !contributor Cliff Blau <cliff@cliffblau.com>
 
 
-#profile Birkenstock, Roy
-key 20200227_007
+#20200227_007 Birkenstock, Roy
 player 1924 St. Joseph (Western); @P
 
 ---
@@ -79,8 +72,7 @@ player 1924 St. Joseph (Western); @P
 !contributor Cliff Blau <cliff@cliffblau.com>
 
 
-#profile Birkenstock, Roy
-key 20200227_008
+#20200227_008 Birkenstock, Roy
 player 1924 St. Joseph (Western)
 player 1924 Peoria (Illinois-Indiana-Iowa); TR
 
@@ -90,8 +82,7 @@ player 1924 Peoria (Illinois-Indiana-Iowa); TR
 !contributor Cliff Blau <cliff@cliffblau.com>
 
 
-#profile Birkenstock, Roy
-key 20200227_009
+#20200227_009 Birkenstock, Roy
 player 1928 Burlington (Mississippi Valley)
 
 ---
@@ -100,8 +91,7 @@ player 1928 Burlington (Mississippi Valley)
 !contributor Cliff Blau <cliff@cliffblau.com>
 
 
-#profile Stevenson
-key 20200227_010
+#20200227_010 Stevenson
 player 1913 New Orleans (Southern Association)
 obtained ; join=New Orleans (Southern Association); leave=Philadelphia (American)
 
@@ -111,8 +101,7 @@ obtained ; join=New Orleans (Southern Association); leave=Philadelphia (American
 !contributor Cliff Blau <cliff@cliffblau.com>
 
 
-#profile Stevenson, Robert
-key 20200227_011
+#20200227_011 Stevenson, Robert
 player 1913 New Orleans (Southern Association); @OF
 resides 1914 @ US/MN/Albert Lea
 
@@ -122,7 +111,6 @@ resides 1914 @ US/MN/Albert Lea
 !contributor Cliff Blau <cliff@cliffblau.com>
 
 
-#profile Stevenson, Lester
-key 20200227_012
+#20200227_012 Stevenson, Lester
 player 1913 New Orleans (Southern Association); @P
 player 1913 Toledo (American Association)

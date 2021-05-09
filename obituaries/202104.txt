@@ -903,3 +903,280 @@ highschool St. Mary's HS @ US/IA/Clinton
 birth 1940-01-31 @ US/OH/Warren
 death 2021-04-04
 highschool Harding HS @ US/OH/Warren
+
+---
+ 
+!citation Alton Evening Telegraph @ 1953-03-04
+!file Ogle_Guy.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-25
+ 
+#202104_074 Ogle, William Guy “Rusty”
+birth @ US/MO/Desoto
+death 1953-03-03 @ US/IL/Granite City
+burial Sunset Hill Cemetery @ US/IL/Glen Carbon
+
+---
+
+!citation Adonizio Funeral Home @ 2021-04-26
+!url https://www.adoniziofuneralhome.com/post/samuel-michael-granteed
+!file Granteed_Sam.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-26
+
+#202104_075 Granteed, Samuel Michael [Sam]
+birth 1934-03-05 @ US/PA/Hughestown
+death 2021-04-24 @ US/PA/Wilkes-Barre
+highschool Hughestown HS @ US/PA/Hughestown
+
+---
+
+!citation White-Sanvidge Funeral Home @ 2021-04-26
+!url https://whitesanvidgefuneralhome.com/tribute/details/1346/Edward-Knapp/obituary.html
+!file Knapp_Edward.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-26
+
+#202104_076 Knapp, Edward D.
+birth 1933 @ US/NY/Amsterdam
+death 2021-04-22
+highschool St. Mary's Institute @ US/NY/Amsterdam
+military US Army
+burial St. Anthony Cemetery @ US/NY/Glenville
+
+---
+
+!citation Bekavac Funeral Home @ 2021-04-26
+!url https://www.bekavacfuneralhome.com/obituary/RobertRobbie-Nystrom
+!file Nystrom_Robbie.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-26
+
+#202104_077 Nystrom, Robert J. [Robbie]
+birth 1965-07-07 @ US/PA/McKeesport
+death 2021-04-24 @ US/PA/Clairton
+highschool Serra Catholic HS @ US/PA/McKeesport
+college Thiel College
+
+---
+
+!citation Cleburne Times-Review @ 2021-04-21
+!url https://www.cleburnetimesreview.com/texas/sports/former-big-league-player-coach-tom-robson-dead-at-age-75/article_7ab88e1e-a07d-5547-be87-1c36135d9b8e.html
+!file Robson_Tom.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-26
+
+#202104_078 Robson, Tom
+death 2021-04-20 @ US/AZ/Chandler
+
+---
+
+!citation Salmon Funeral Home @ 2021-04-26
+!url https://www.salmonfh.com/obituaries/Coach-Gary-York?obId=20811103#/obituaryInfo
+!file York_Gary.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-26
+
+#202104_079 York, Lavis Gary [Gary]
+birth 1944-07-07 @ US/GA/Cartersville
+death 2021-04-16 @ US/GA/Rome
+highschool Darlington School @ US/GA/Rome
+college University of West Georgia
+
+---
+
+!citation Sacramento Bee @ 2021-04-25
+!url https://www.legacy.com/obituaries/sacbee/obituary.aspx?n=robert-stoffle&pid=198420045
+!file Stoffle_Bobby.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-26
+
+#202104_080 Stoffle, Robert [Bobby]
+birth 1956-08-23 @ US/CA/Newport Beach
+death 2021-04-14
+
+---
+
+!citation Harrell Funeral Home @ 2021-04-27
+!url https://www.harrellfuneralhomes.com/obituary/582220/henry-adrian-smokey-garrett/
+!file Garrett_Adrian.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-27
+
+#202104_081 Garrett, Henry Adrian [Adrian] "Smokey"
+birth 1943-01-03 @ US/FL/Brooksville
+death 2021-04-22
+highschool Sarasota HS @ US/FL/Sarasota
+burial Austin Memorial Park Cemetery @ US/TX/Austin
+
+---
+
+!citation Erie Times-News @ 2021-04-27
+!url https://www.legacy.com/obituaries/erietimesnews/obituary.aspx?n=gerard-t-jerry-uht&pid=198441906
+!file Uht_Jerry.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-27
+
+#202104_082 Uht, Gerard T., Sr. [Jerry]
+birth 1929-09-22
+death 2021-04-25
+highschool Strong Vincent HS @ US/PA/Erie
+
+---
+
+!citation Pantagraph @ 2021-04-26
+!url https://www.legacy.com/us/obituaries/pantagraph/name/michael-brown-obituary?pid=198435875
+!file Brown_Michael.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-27
+
+#202104_083 Brown, Michael Royal
+birth 1970-03-07 @ US/IL/Normal
+death 2021-04-21 @ US/IL/Bloomington
+highschool Lexington HS @ US/IL/Lexington
+college Illinois Wesleyan University
+burial Lexington Cemetery @ US/IL/Lexington
+
+---
+
+!citation Wood Funeral Home @ 2021-04-27
+!url https://www.woodfuneralhome.com/obituary/Jim-Howard
+!file Howard_Jim.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-27
+
+#202104_084 Howard, James Crawford [Jim]
+birth 1933-08-28 @ US/ID/Idaho Falls
+death 2021-04-23 @ US/ID/Idaho Falls
+highschool Idaho Falls HS @ US/ID/Idaho Falls
+college University of Idaho
+military US Army
+
+---
+ 
+!citation Baltimore Sun @ 1986-01-30
+!file Goldbeck_Gilbert.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-27
+ 
+#202104_085 Goldbeck, Gilbert G.
+birth @ US/MD/Baltimore
+death 1986-01-27 @ UD/MD/Hyattsville
+highschool Mount St. Joseph's HS @ US/MD/Baltimore
+
+---
+
+!citation Schrader Funeral Home @ 2021-04-28
+!url https://www.schrader.com/obituary/jasper-jay-bono
+!file Bono_Jay.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-28
+
+#202104_086 Bono, Jasper [Jay]
+birth 1924-03-15 @ US/MO/St. Louis
+death 2021-04-20 @ US/KS/Shawnee
+highschool Beaumont HS @ US/MO/St. Louis
+military US Army @ World War II
+burial Bethel Cemetery @ US/MO/Wildwood
+
+---
+
+!citation Casey McCallum Rice South Shore Funeral Home @ 2021-04-28
+!url https://www.dignitymemorial.com/obituaries/staten-island-ny/paul-figgiani-10167937
+!file Figgiani_Paul.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-28
+
+#202104_087 Figgiani, Paul A. "Sonny"
+birth 1932-10-16 @ US/NY/Manhattan
+death 2021-04-26 @ US/NY/Staten Island
+burial Ocean View Cemetery @ US/NY/Staten Island
+
+---
+
+!citation Heffner Care @ 2021-04-28
+!url https://www.heffnercare.com/obituaries/Eugene-S-Suereth?obId=564583#/obituaryInfo
+!file Suereth_Herb.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-28
+
+#202104_088 Suereth, Eugene S. [Herb]
+birth 1927-05-23 @ US/PA/York
+death 2014-12-22
+highschool North York HS @ US/PA/North York
+military US Army @ World War II
+
+---
+ 
+!citation Charlotte Observer @ 1996-09-13
+!file McCorkle_Lee.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-28
+ 
+#202104_089 McCorkle, Robert Lee
+birth 1922-02-02 @ US/SC/Chester
+death 1996-09-11 @ US/SC/Chester
+highschool Oakley Hall HS @ US/SC/Chester
+military US Navy @ World War II
+
+---
+
+!citation Kurtz Memorial Chapel @ 2021-04-29
+!url https://www.kurtzmemorialchapel.com/obituaries/Michael-Mike-James-Derrig?obId=20922717#/obituaryInfo
+!file Derrig_Mike.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-29
+
+#202104_090 Derrig, Michael James [Mike]
+birth 1949-08-29 @ US/IL/Chicago
+death 2021-04-26 @ US/IL/New Lenox
+highschool Lincoln-Way HS @ US/IL/Mokena
+military US Army
+burial Pleasant Hill Cemetery @ US/IL/Frankfort
+
+---
+
+!citation Lehman Family Funeral Service @ 2021-04-29
+!url https://www.lehmanfuneralhome.com/obituary/ZACHARY-KOLLAR
+!file Kollar_Zach.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-29
+
+#202104_091 Kollar, Zachary A. [Zach]
+birth @ US/PA/Wilkes-Barre
+death 2021-04-22
+highschool Hanover Area HS @ US/PA/Wilkes-Barre
+college Pennsylvania College of Technology
+burial St. Mary's Cemetery @ US/PA/Hanover Township
+
+---
+
+!citation Palmer Bush & Jensen Family Funeral Home @ 2021-04-30
+!url https://www.palmerbush.com/obituary/joseph-wojda-jr
+!file Wojda_Joe.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-30
+
+#202104_092 Wojda, Joseph Peter, Jr. [Joe]
+birth 1964-08-04 @ US/MI/Alpena
+death 2021-04-24 @ US/MI/Lansing
+highschool Alpena HS @ US/MI/Alpena
+college Central Michigan University
+
+---
+
+!citation Northside Chapel @ 2021-04-30
+!url https://www.northsidechapel.com/obituaries/James-Bagwell-4/#!/Obituary
+!file Bagwell_James.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-30
+
+#202104_093 Bagwell, James R.
+birth 1929-07-18 @ US/GA/Alpharetta
+death 2021-04-28 @ US/GA/Alpharetta
+highschool Milton HS @ US/GA/Alpharetta
+college University of Georgia
+burial Green Lawn Cemetery @ US/GA/Roswell
+
+---
+
+!citation Orlando Sentinel @ 2021-04-30
+!url https://www.legacy.com/us/obituaries/orlandosentinel/name/sue-dyer-obituary?pid=198499482
+!file Dyer_Huck_Wife.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-30
+
+#202104_094 Dyer, Richard [Huck]
+death 1994
+
+---
+
+!citation Hicks Home @ 2021-04-30
+!url https://www.hickshomeforfunerals.com/obituary/lewis-shellender
+!file Shellender_Lewis.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-30
+
+#202104_095 Shellender, Lewis Miller
+birth 1924-12-07 @ US/MD/Elkton
+death 2021-04-28
+military US Army @ World War II
+burial Cherry Hill United Methodist Church Cemetery @ US/MD/Cherry Hill

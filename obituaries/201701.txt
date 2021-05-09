@@ -3,8 +3,7 @@
 !file Morgan_Chester.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2017-12-29
 
-#profile Morgan, Chester Collins, Jr.
-key 201701_Morgan
+#201701_001 Morgan, Chester Collins, Jr.
 birth 1932-03-26
 death 2017-01-08
 
@@ -15,8 +14,7 @@ death 2017-01-08
 !file Barberich_Joseph.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-07-20
 
-#profile Barberich, Joseph P.
-key 201701_Barberich
+#201701_002 Barberich, Joseph P.
 birth 1935-10-22 @ US/PA/Brenizer
 death 2017-01-15 @ US/PA/Latrobe
 military US Army 

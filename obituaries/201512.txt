@@ -3,7 +3,6 @@
 !file Taylor_Fred.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-12-12
 
-#profile Taylor, Glenn Fred [Fred]
-key 201512_Taylor
+#201512_001 Taylor, Glenn Fred [Fred]
 death 2015-12-29 @ US/OH/Lima
 burial Walnut Hill Cemetery @ US/OH/New Hampshire

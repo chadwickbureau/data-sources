@@ -3,8 +3,7 @@
 !file Pendarvis_Embry.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-06-04
 
-#profile Pendarvis, Embry "T-Won"
-key 201304_Pendarvis
+#201304_001 Pendarvis, Embry "T-Won"
 birth 1952-04-24 @ US/OK/Anadarko
 death 2013-04-18
 highschool Northeast HS @ US/OK/Oklahoma City

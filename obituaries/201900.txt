@@ -3,8 +3,7 @@
 !file Hetki_John.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-01-12
 
-#profile Hetki, John E. 
-key 201900_Hetki
+#201900_001 Hetki, John E. 
 death 2019
 military US Army @ World War II
 burial Holy Cross Cemetery @ US/OH/Brook Park
@@ -16,8 +15,7 @@ burial Holy Cross Cemetery @ US/OH/Brook Park
 !file Carlson_Marty.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-01-21
 
-#profile Carlson, Marshall Vernon [Marty] 
-key 201900_Carlson
+#201900_002 Carlson, Marshall Vernon [Marty] 
 birth @ US/IL/Chicago
 death 2019
 highschool East HS @ US/IA/Des Moines
@@ -30,8 +28,7 @@ college Drake University
 !file Krsnich_Rocky.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-02-16
 
-#profile Krsnich, Rocky 
-key 201900_Krsnich
+#201900_003 Krsnich, Rocky 
 birth 1927-08-05 @ US/WI/Milwaukee
 death 2019
 
@@ -42,8 +39,7 @@ death 2019
 !file Turpen_Wally.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-03-13
 
-#profile Turpen, Wallace R. [Wally] 
-key 201900_Turpen
+#201900_004 Turpen, Wallace R. [Wally] 
 death 2019
 military US Army @ World War II
 
@@ -54,8 +50,7 @@ military US Army @ World War II
 !file Romano_John.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-03-06
 
-#profile Romano, John 
-key 201900_Romano
+#201900_005 Romano, John 
 birth @ US/NJ/Hoboken
 death 2019
 
@@ -66,8 +61,7 @@ death 2019
 !file Tiedemann_Pat.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-02-24
 
-#profile Tiedemann, William Patrick Martin [Pat] 
-key 201900_Tiedemann
+#201900_006 Tiedemann, William Patrick Martin [Pat] 
 birth 1954-05-02 @ US/CA/Fresno 
 death 2019
 highschool Vacaville HS @ US/CA/Vacaville
@@ -80,8 +74,7 @@ college University of Nevada, Las Vegas
 !file Roley_Eugene.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-04-30
 
-#profile Roley, Eugene, Jr.
-key 201900_Roley
+#201900_007 Roley, Eugene, Jr.
 birth 1929-01-16
 death 2019
 
@@ -92,8 +85,7 @@ death 2019
 !file Neufeldt_Jim.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-06-03
 
-#profile Neufeldt, James Henry [Jim]
-key 201900_Neufeldt
+#201900_008 Neufeldt, James Henry [Jim]
 death 2019 @ US/FL/Fort Myers
 highschool Marshall Metropolitan HS @ US/IL/Chicago
 college University of Illinois at Urbana-Champaign
@@ -106,8 +98,7 @@ military US Army
 !file Hecht_Marvin.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-08-04
 
-#profile Hecht, Marvin
-key 201900_Hecht
+#201900_009 Hecht, Marvin
 death 2019
 college Northwestern University
 college Northern Illinois University
@@ -121,8 +112,7 @@ burial Memorial Park Cemetery @ US/IL/Skokie
 !file Hensley_Mike.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-14
 
-#profile Hensley, William Michael [Mike]
-key 201900_Hensley
+#201900_010 Hensley, William Michael [Mike]
 birth 1946-12-09 @ US/OK/Oklahoma City
 death 2019
 highschool Del City HS @ US/OK/Del City
@@ -134,8 +124,7 @@ highschool Del City HS @ US/OK/Del City
 !file Lindner_Bill.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-11-06
 
-#profile Lindner, William Robert [Bill]
-key 201900_Lindner
+#201900_011 Lindner, William Robert [Bill]
 birth 1941-03-20 @ US/AZ/Phoenix
 death 2019
 highschool West Phoenix HS @ US/AZ/Phoenix
@@ -147,8 +136,7 @@ highschool West Phoenix HS @ US/AZ/Phoenix
 !file Edwards_Glenn.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-12-10
 
-#profile Edwards, Glenn Arthur
-key 201900_Edwards
+#201900_012 Edwards, Glenn Arthur
 birth 1923-11-22 @ US/CA/Tulare
 death 2019
 college University of Southern California

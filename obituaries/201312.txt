@@ -3,8 +3,7 @@
 !file Byham_Smith.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-12-14
 
-#profile Byham, Smith, Jr.
-key 201312_001
+#201312_001 Byham, Smith, Jr.
 death 2013-12-02
 military US Army @ Korean War
 
@@ -15,8 +14,7 @@ military US Army @ Korean War
 !file Rajkowski_Bernard.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-12-14
 
-#profile Rajkowski, Bernard V.
-key 201312_002
+#201312_002 Rajkowski, Bernard V.
 birth 1915-09-16 @ US/IL/Chicago 
 death 2013-12-04 @ US/IL/Libertyville
 military US Army @ World War II
@@ -29,8 +27,7 @@ burial St. Adalbert Catholic Cemetery @ US/IL/Niles
 !file Damme_Arlyn.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-05-18
 
-#profile Damme, Arlyn Earl
-key 201312_003
+#201312_003 Damme, Arlyn Earl
 birth 1926-05-23 @ US/WI/Remington
 death 2013-12-14 @ US/WA/Olympia
 military US Army @ World War II
@@ -43,8 +40,7 @@ burial Claquato Cemetery @ US/WA/Chehalis
 !file Lund_Don.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2013-12-10
 
-#profile Lund, Don
-key 201312_004
+#201312_004 Lund, Don
 birth 1923-05-18 @ US/MI/Detroit
 death 2013-12-10
 highschool Southeastern HS @ US/MI/Detroit
@@ -57,8 +53,7 @@ college Michigan
 !file Luquette_AJ.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2013-12-10
 
-#profile Luquette, Aurelian Joseph, Jr. [A. J.]
-key 201312_005
+#201312_005 Luquette, Aurelian Joseph, Jr. [A. J.]
 birth 1926-04-29 @ US/TX/Beaumont
 death 2013-12-05
 highschool St. Anthony's HS @ US/TX/Beaumont
@@ -73,8 +68,7 @@ military US Army @ World War II
 !file Murphy_Greg.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2013-12-10
 
-#profile Murphy, Greg J.
-key 201312_006
+#201312_006 Murphy, Greg J.
 birth 1954-10-15 @ US/OH/Springfield
 death 2013-12-07 @ US/OH/Columbus
 highschool Springfield North HS @ US/OH/Springfield
@@ -88,8 +82,7 @@ college Wittenberg @ US/OH/Springfield
 !file Renninger_Bob.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2013-12-10
 
-#profile Renninger, Robert [Bob]
-key 201312_007
+#201312_007 Renninger, Robert [Bob]
 birth 1949-05-04 @ US/OH/Elyria
 death 2013-12-01 @ US/OH/Cleveland
 highschool Keystone HS @ US/OH/La Grange
@@ -102,8 +95,7 @@ military US Army
 !file Trude_Jack.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2013-12-10
 
-#profile Trude, Jack R.
-key 201312_008
+#201312_008 Trude, Jack R.
 birth 1924-07-23 @ US/PA/Flinton
 death 2013-12-03 @ US/PA/Clearfield
 military US Army @ World War II
@@ -115,8 +107,7 @@ military US Army @ World War II
 !file Tucker_Bobby.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2013-12-10
 
-#profile Tucker, Bobby Lloyd
-key 201312_009
+#201312_009 Tucker, Bobby Lloyd
 birth 1951-04-22
 death 2013-12-07 @ US/TN/Cordova
 college Tennessee
@@ -128,8 +119,7 @@ college Tennessee
 !file Turner_Darrell.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2013-12-10
 
-#profile Turner, Darrell
-key 201312_010
+#201312_010 Turner, Darrell
 birth 1955-03-30 @ US/FL/Winter Garden
 death 2013-12-06
 highschool Ocoee HS @ US/FL/Ocoee
@@ -141,8 +131,7 @@ highschool Ocoee HS @ US/FL/Ocoee
 !file Jones_Maurice.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2013-12-13
 
-#profile Jones, Maurice Dempsey
-key 201312_011
+#201312_011 Jones, Maurice Dempsey
 birth 1926-07-19 @ US/TX/White Oak
 death 2013-12-09
 highschool Hallsville HS @ US/TX/Hallsville
@@ -156,8 +145,7 @@ burial Hallsville Cemetery @ US/TX/Hallsville
 !file Lichtenstein_Al.pdf
 !contributor Rod Nelson <rodericnelson@gmail.com> @ 2013-12-13
 
-#profile Lichtenstein, Alvin Edwin [Al]
-key 201312_012
+#201312_012 Lichtenstein, Alvin Edwin [Al]
 birth 1930-09-01
 death 2013-12-06
 highschool St. Aloysius HS @ US/LA/New Orleans
@@ -169,8 +157,7 @@ highschool St. Aloysius HS @ US/LA/New Orleans
 !file Cary_Lindsay.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2013-12-13
 
-#profile Cary, Lindsay E., Jr.
-key 201312_013
+#201312_013 Cary, Lindsay E., Jr.
 birth 1923-08-31 @ US/TX/Houston
 death 2013-12-09 @ US/TX/Tyler
 military US Navy @ World War II
@@ -182,8 +169,7 @@ burial New Harmony Cemetery @ US/TX/Tyler
 !file Clifton_Lloyd.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2013-12-14
 
-#profile Clifton, Lloyd M., Sr.
-key 201312_014
+#201312_014 Clifton, Lloyd M., Sr.
 birth 1924-08-08
 death 2013-12-10
 college Stetson
@@ -195,8 +181,7 @@ college Stetson
 !file Naton_Pete.pdf
 !contributor Rod Nelson <rodericnelson@gmail.com> @ 2013-12-15
 
-#profile Naton, Peter A. [Pete]
-key 201312_015
+#201312_015 Naton, Peter A. [Pete]
 birth  @ US/NY/Flushing
 death 2013-12-10 @ US/MA/Springfield
 highschool Bishop Loughlin HS @ US/NY/Brooklyn
@@ -209,8 +194,7 @@ college Holy Cross
 !file Hyde_Billy.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2013-12-16
 
-#profile Hyde, Billy Ray
-key 201312_016
+#201312_016 Hyde, Billy Ray
 birth 1930-03-09 @ US/AR/Van Buren
 death 2013-12-10
 highschool Porterville HS @ US/CA/Porterville
@@ -222,8 +206,7 @@ highschool Porterville HS @ US/CA/Porterville
 !file Tuttle_Larry.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2013-12-16
 
-#profile Tuttle, Larry D.
-key 201312_017
+#201312_017 Tuttle, Larry D.
 birth 1928-03-14 @ US/IL/Decatur
 death 2013-12-09
 highschool Decatur HS @ US/IL/Decatur
@@ -237,8 +220,7 @@ military US Air Force
 !file Willis_Blake.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2013-12-16
 
-#profile Willis, William Blake, Sr. [Blake]
-key 201312_018
+#201312_018 Willis, William Blake, Sr. [Blake]
 birth 1929-07-07 @ US/TX/Paducah
 death 2013-12-08
 highschool Phoenix Union HS @ US/AZ/Phoenix
@@ -253,8 +235,7 @@ burial National Memorial Cemetery of Arizona @ US/AZ/Phoenix
 !file Griffin_Danny.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2013-12-16
 
-#profile Griffin, Daniel Andrew [Danny]
-key 201312_019
+#201312_019 Griffin, Daniel Andrew [Danny]
 birth 1962-10-01 @ US/AL/Atmore
 death 2013-12-14 @ US/FL/Niceville
 highschool Niceville HS @ US/FL/Niceville
@@ -269,8 +250,7 @@ burial Sunset Cemetery @ US/FL/Valparaiso
 !file Bierly_Joe.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2013-12-16
 
-#profile Bierly, Joseph W., Jr. [Joe]
-key 201312_020
+#201312_020 Bierly, Joseph W., Jr. [Joe]
 birth 1934 @ US/PA/Glen Rock
 death 2013-12-05
 highschool Susquehannock HS @ US/PA/Glen Rock
@@ -284,8 +264,7 @@ military US Army
 !file Cavlovic_Steve.pdf
 !contributor John Hall <j03.john@gmail.com> @ 2013-12-18
 
-#profile Cavlovic, Steve
-key 201312_021
+#201312_021 Cavlovic, Steve
 birth 1931
 death 2013-12-17
 burial Calvary Cemetery @ US/NE/Omaha
@@ -297,8 +276,7 @@ burial Calvary Cemetery @ US/NE/Omaha
 !file Persell_Ted.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2013-12-18
 
-#profile Persell, Theodore Eugene [Ted]
-key 201312_022
+#201312_022 Persell, Theodore Eugene [Ted]
 death 2013-12-13 @ US/CA/Rancho Cucamonga
 
 ---
@@ -308,8 +286,7 @@ death 2013-12-13 @ US/CA/Rancho Cucamonga
 !file Delaune_Martin.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2013-12-20
 
-#profile Delaune, Martin J., Sr.
-key 201312_023
+#201312_023 Delaune, Martin J., Sr.
 birth 1935-10-26 @ US/LA/New Iberia
 death 2013-12-18 @ US/LA/Lafayette
 military US National Guard 
@@ -321,8 +298,7 @@ military US National Guard
 !file Cook_George.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2013-12-20
 
-#profile Cook, George Edwin, Jr.
-key 201312_024
+#201312_024 Cook, George Edwin, Jr.
 birth 1927-03-21 @ US/NJ/Rahway
 death 2013-12-19
 military US Army @ World War II
@@ -335,8 +311,7 @@ burial Baldwin Memorial Gardens @ US/GA/Milledgeville
 !file Murray_Michael.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2013-12-21
 
-#profile Murray, Michael J.
-key 201312_025
+#201312_025 Murray, Michael J.
 birth 1962 @ US/NY/Queens
 death 2013-12-18
 college Kean
@@ -349,8 +324,7 @@ burial Fairview Cemetery @ US/NJ/Westfield
 !file Wright_Dick.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2013-12-23
 
-#profile Wright, Richard W. [Dick]
-key 201312_026
+#201312_026 Wright, Richard W. [Dick]
 birth 1932-06-12
 death 2013-12-16
 military US Army @ Korean War
@@ -363,8 +337,7 @@ burial Bethlehem Campground United Methodist Cemetery @ US/AL/Graham
 !file Hurst_Leon.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2013-12-25
 
-#profile Hurst, Leon Eldon
-key 201312_027
+#201312_027 Hurst, Leon Eldon
 birth 1937-07-03 @ US/IL/Peoria
 death 2013-12-22 @ US/IN/Fort Wayne
 highschool Peoria Central HS @ US/IL/Peoria
@@ -376,8 +349,7 @@ highschool Peoria Central HS @ US/IL/Peoria
 !file Hegan_Mike.pdf
 !contributor Rod Nelson <rodericnelson@gmail.com> @ 2013-12-25
 
-#profile Hegan, James Michael [Mike]
-key 201312_028
+#201312_028 Hegan, James Michael [Mike]
 death 2013-12-25 @ US/SC/Hilton Head
 highschool St. Ignatius High School @ US/OH/Cleveland
 college Holy Cross
@@ -389,8 +361,7 @@ college Holy Cross
 !file Haas_Elmer.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2013-12-28
 
-#profile Haas, Elmer Joseph, Jr.
-key 201312_029
+#201312_029 Haas, Elmer Joseph, Jr.
 birth  @ US/IL/East St. Louis
 death 2013-12-24 @ US/IL/Smithton
 highschool Central Catholic HS @ US/IL/East St. Louis
@@ -404,8 +375,7 @@ burial St. John the Baptist Catholic Cemetery @ US/IL/Smithton
 !file Barisano_Gene.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2013-12-25
 
-#profile Barisano, Eugene [Gene]
-key 201312_030
+#201312_030 Barisano, Eugene [Gene]
 birth 1947-01-08 @ US/NY/Manhattan
 death 2013-12-25 @ US/NJ/New Brunswick
 burial Holy Cross Burial Park @ US/NJ/East Brunswick

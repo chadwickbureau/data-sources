@@ -3,8 +3,7 @@
 !file Shubert-20130610.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @
 
-#profile Shubert, James R.
-key 201306_Shubert
+#201306_001 Shubert, James R.
 birth 1927-10-20 @ US/PA/Monarch
 death 2013-06-10 @ US/PA/Connellsville
 military US Army @ World War II
@@ -17,8 +16,7 @@ burial Green Ridge Memorial Park @ US/PA/Connellsville
 !file Kincaid_Tyler.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-06-20
 
-#profile Kincaid, Zachary Tyler [Tyler]
-key 201306_Kincaid
+#201306_002 Kincaid, Zachary Tyler [Tyler]
 birth 1992-09-25
 death 2013-06-23
 highschool Winfield HS @ US/WV/Winfield

@@ -1,0 +1,39 @@
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-01
+ 
+#202105_001 Coatar, Joseph James
+birth 1918-04-19 @ US/IL/Chicago
+ 
+---
+ 
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-01
+ 
+#202105_002 Coatar, Joseph James
+sameas ssn:354-09-6716
+birth 1918-04-19 @ US/IL/Chicago
+death 2002-11-10
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-02
+ 
+#202105_003 Stepanovsky, Elmer Augustin
+birth 1927-05-10 @ US/NY/Queens
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-05
+ 
+#202105_004 Snell, Daniel William
+birth 1913-07-19 @ US/PA/Erie
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-05
+ 
+#202105_005 Recca, Salvatore Bernard
+birth 1921-11-08 @ US/NY/Brooklyn

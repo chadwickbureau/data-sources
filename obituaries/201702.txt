@@ -3,7 +3,6 @@
 !file Grose_John.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-24
 
-#profile Grose, John
-key 201702_Grose
+#201702_001 Grose, John
 death 2017-02-26
 military US Air Force

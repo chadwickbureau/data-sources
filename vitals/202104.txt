@@ -346,3 +346,142 @@ birth 1928-07-25 @ US/IN/Gary
 sameas ssn:311-26-3237
 birth 1928-07-25 @ US/IN/Gary
 death 2000-01-01
+
+---
+
+!citation US WWII Draft Registration Cards, 1942
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-25
+ 
+#202104_041 Ogle, William Guy
+birth 1890-03-03 @ US/MO/DeSoto
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-26
+ 
+#202104_042 York, Lavis Cleon
+birth 1921-09-12 @ US/GA/Aragon
+
+---
+ 
+!citation US Dept of Veterans Affairs BIRLS Death File, 1850-2010
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-26
+ 
+#202104_043 York, Lavis C.
+sameas ssn:337-18-6987
+birth 1921-09-12
+death 1987-10-12
+military US Navy @ World War II
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-27
+ 
+#202104_044 Goldbeck, Gilbert George
+birth 1926-12-14 @ US/MD/Baltimore
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-27
+ 
+#202104_045 Blake, James Howard
+birth 1928-04-07 @ US/SC/Converse
+
+---
+ 
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-27
+ 
+#202104_046 Blake, James Howard
+sameas ssn:248-38-4387
+birth 1928-04-07 @ US/SC/Converse
+death 1987-11-15
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-28
+ 
+#202104_047 Lewinski, Edmund Barney
+birth 1918-09-10 @ US/IL/Chicago
+ 
+---
+ 
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-28
+ 
+#202104_048 Lewinski, Edmund
+sameas ssn:323-01-1581
+birth 1918-09-10
+death 1962-04
+ 
+---
+ 
+!citation Cook County, IL Death Index, 1908-1988
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-28
+ 
+#202104_049 Lewinski, Edmund B.
+death 1962-04-15 @ US/IL/Cook County
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-28
+ 
+#202104_050 McCorkle, Robert Lee
+birth 1922-02-02 @ US/SC/Chester
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-28
+ 
+#202104_051 Messerly, Russell Harold
+birth 1916-07-11 @ US/IA/Webster County
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-28
+ 
+#202104_052 Molberg, Max Henry
+birth 1919-12-21 @ US/TX/Fredericksburg
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-29
+ 
+#202104_053 Turner, John A.
+birth 1919-06-16 @ US/MO/St. Louis
+ 
+---
+ 
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-29
+ 
+#202104_054 Turner, John Allen
+sameas ssn:498-05-0645
+birth 1919-01-16 @ US/MO/St. Louis
+death 2000-12-01
+ 
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-30
+ 
+#202104_055 Winkler, Bernard John
+birth 1921-11-14 @ US/PA/Carnegie
+ 
+---
+ 
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-04-30
+ 
+#202104_056 Winkler, Bernard John, Jr.
+sameas ssn:176-12-5550
+birth 1920-11-14 @ US/PA/Carnegie
+death 2000-02-10

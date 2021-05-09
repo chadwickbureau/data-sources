@@ -3,8 +3,7 @@
 !file White_Billy.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-12-10
 
-#profile White, Billy Ray "B. R."
-key 201010_White
+#201010_001 White, Billy Ray "B. R."
 death 2010-10-01
 highschool Winder-Barrow HS @ US/GA/Winder
 college Mercer University

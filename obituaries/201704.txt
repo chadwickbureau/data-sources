@@ -3,8 +3,7 @@
 !file Conley_Donald.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-12-10
 
-#profile Conley, Donald Arthur
-key 201704_Conley
+#201704_001 Conley, Donald Arthur
 birth 1918-07-30 @ US/WA/Cheney
 death 2017-04-01
 highschool Cheney HS @ US/WA/Cheney
@@ -16,8 +15,7 @@ highschool Cheney HS @ US/WA/Cheney
 !file Rosenbohm_Jim.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-11-30
 
-#profile Rosenbohm, James R. [Jim]
-key 201704_Rosenbohm
+#201704_002 Rosenbohm, James R. [Jim]
 birth 1973-09-19
 death 2017-04-17
 
@@ -27,7 +25,6 @@ death 2017-04-17
 !file Nichols_George.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-11-17
 
-#profile Nichols, George Morrill
-key 201704_Nichols
+#201704_003 Nichols, George Morrill
 birth 1928-07-17
 death 2017-04-19

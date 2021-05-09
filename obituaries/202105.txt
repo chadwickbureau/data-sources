@@ -1,0 +1,168 @@
+!citation San Bernardino County Sun @ 1982-12-20
+!file Fiscalini_John.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-01
+ 
+#202105_001 Fiscalini, John A.
+death 1982-12-17
+highschool San Bernardino HS @ US/CA/San Bernardino
+college University of California, Berkeley
+military US Army @ World War II
+
+---
+
+!citation Chicago Tribune @ 2002-11-12
+!file Coatar_Joseph.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-01
+ 
+#202105_002 Coatar, Joseph J.
+birth 1918
+highschool Tilden Technical HS @ US/IL/Chicago
+burial Holy Sepulchre Cemetery @ US/AL/Alsip
+
+---
+ 
+!citation Binghamton Press and Sun-Bulletin @ 1972-01-15
+!file Stepanovsky_Elmer.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-02
+ 
+#202105_003 Stepanovsky, Elmer A.
+death 1972-01-13 @ US/PA/Endicott
+military US Army @ Korean War
+burial Calvary Cemetery @ US/NY/Johnson City
+
+---
+
+!citation KRIS.TV @ 2021-05-03
+!url https://www.kristv.com/news/local-news/legendary-local-baseball-coach-hector-salinas-passes-away?fbclid=IwAR1BiBAAKYNcF2HCwKnN2pJGb9kwPNwerGJ3EtOSAmWcsDgBAro5yNerPfQ
+!file Salinas_Hector.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-03
+
+#202105_004 Salinas, Hector
+death 2021-04-30
+highschool Carroll HS @ US/TX/Corpus Christi
+college University of Texas Pan American
+
+---
+
+!citation News & Observer @ 2004-04-21
+!url https://www.legacy.com/obituaries/newsobserver/obituary.aspx?n=john-w-collier&pid=85828700
+!file Collier_John.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-03
+
+#202105_005 Collier, John W.
+death 2004-04-12 @ US/NC/Pine Knoll Shores
+
+---
+
+!citation Hile-Best Funeral Home @ 2021-05-03
+!url https://www.hilebest.com/obituary/RichardDick-Clark
+!file Clark_Dick.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-03
+
+#202105_006 Clark, Richard D. [Dick]
+birth 1931-11-26 @ US/PA/Seneca
+death 2021-04-28 @ US/PA/Oil City
+highschool Cranberry HS @ US/PA/Seneca
+military US Army @ Korean War
+burial Sunset Hill Memorial Park @ US/PA/Cranberry
+
+---
+
+!citation Fidler-Orme-Bachman Mortuary @ 2021-05-03
+!url https://www.fidlerormebachmanmortuary.com/obituary/richard-rich-knott
+!file Knott_Rich.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-03
+
+#202105_007 Knott, Richard G. [Rich]
+birth 1931-04-05
+death 2021-04-25 @ US/KS/Fowler
+
+---
+
+!citation ArrobaDeportes.com @ 2017-04-02
+!url https://www.arrobadeportes.com/?p=41962
+!file Garcia_Ernesto.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-03
+
+#202105_008 García, Ernesto [Natas]
+birth 1932-11-07 @ MX//Nogales
+death 2017-04-01 @ US/AZ/Tucson
+
+---
+
+!citation Mastapeter Memorial Home @ 2021-05-03
+!url https://www.mastapetermemorialhome.com/obituary/Robert-Babiak
+!file Babiak_Robert.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-03
+
+#202105_009 Babiak, Robert Victor
+birth 1937-10-10 @ US/NJ/Bayonne
+death 2021-04-28
+highschool Bayonne HS @ US/NJ/Bayonne
+military US Army
+burial Brigadier General William C. Doyle Veterans Memorial Cemetery @ US/NJ/Arneytown
+
+---
+
+!citation The Progress @ 2021-05-04
+!url https://www.legacy.com/obituaries/theprogressnews/obituary.aspx?n=victor-f-baron&pid=198533691&fhid=5120
+!file Baron_Victor_2.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-04
+
+#202105_010 Baron, Victor F.
+birth @ US/PA/Madera
+death 2021-03-18 @ US/NY/Buffalo
+highschool Madera HS @ US/PA/Madera
+burial Mount Olivet Cemetery @ US/NY/Tonawanda
+
+---
+
+!citation John E. Roberts Funeral Home @ 2021-05-04
+!url https://jerfh.com/tribute/details/1931/Robert-Hoepfinger/obituary.html#tribute-start
+!file Hoepfinger_Bob.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-04
+
+#202105_011 Hoepfinger, Robert P. [Bob]
+death 2021-04-24
+highschool Bishop Timon HS @ US/NY/Buffalo
+college Marietta College
+
+---
+
+!citation Matthysse Kuiper DeGraff Funeral Home @ 2021-05-05
+!url https://www.mkdfuneralhome.com/obituaries/alexander-disla-garcia
+!file Disla-Garci_Alexander.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-05
+
+#202105_012 Disla-Garcia, Alexander [Alex]
+birth 1979-04-14
+death 2021-04-28
+burial Georgetown Township Cemetery @ US/MI/Hudsonville
+
+---
+
+!citation Edwards Funeral Home @ 2021-05-05
+!url https://www.dignitymemorial.com/obituaries/fort-smith-ar/ray-spence-10178472
+!file Spence_Ray.pdf 
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-05
+
+#202105_013 Spence, Ray Loren
+birth 1932-11-10 @ US/AR/Paragould
+death 2021-05-01 @ US/AR/Fayetteville
+college Arkansas State University
+military US Army @ Korean War
+military US Army @ Vietnam War
+burial Fort Smith National Cemetery @ US/AR/Fort Smith
+
+---
+
+!citation Nicholson Funeral Home @ 2021-05-06
+!url https://www.nicholsonfunerals.com/obituaries/Lexyie-Pope/#!/Obituary
+!file Pope_Lexyie.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-06
+
+#202105_014 Pope, Lexyie Allen
+birth 1946-08-18 @ US/NC/Iredell County
+death 2021-05-03
+military US Army
+

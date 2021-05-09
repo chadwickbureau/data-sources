@@ -3,8 +3,7 @@
 !file Balciulis_Charlie.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-12-11
 
-#profile Balciulis, Charles A. [Charlie]
-key 201703_Balciulis
+#201703_001 Balciulis, Charles A. [Charlie]
 birth 1930-01-29 @ US/IL/Chicago
 death 2017-03-04
 highschool Calumet HS @ US/IL/Chicago

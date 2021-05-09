@@ -1,8 +1,7 @@
 !citation Valley City (ND) Weekly Times-Record @ 1922-06-29; page 4
 
 
-#profile Brinzda, F. M.
-key 20200305_001
+#20200305_001 Brinzda, F. M.
 player 1922 (Western International)
 player 1922 Valley City (Dakota); TR
 
@@ -11,8 +10,7 @@ player 1922 Valley City (Dakota); TR
 !citation Salem (OR) Stateman Journal @ 1923-07-21; page 2
 
 
-#profile Brinzda, Frank
-key 20200305_002
+#20200305_002 Brinzda, Frank
 player 1923 Aberden (South Dakota)
 player 1923 Minneapolis (American Association)
 
@@ -20,8 +18,7 @@ player 1923 Minneapolis (American Association)
 
 !citation Austin American @ 1915-05-02; page 24
 
-#profile Hutto, Burnice
-key 20200305_003
+#20200305_003 Hutto, Burnice
 player 1915 (Middle Texas)
 
 ---
@@ -29,8 +26,7 @@ player 1915 (Middle Texas)
 !citation Austin American @ 1915-02-28; page 6
 
 
-#profile Reinecke
-key 20200305_004
+#20200305_004 Reinecke
 player 1913 Gadsden (Georgia-Alabama)
 player 1915 Austin (Middle Texas)
 
@@ -38,96 +34,76 @@ player 1915 Austin (Middle Texas)
 
 !citation Bryan (TX) Weekly Eagle @ 1915-05-27; page 5
 
-#profile Spell, Joe
-key 20200305_005
+#20200305_005 Spell, Joe
 player 1915 Taylor (Middle Texas)
 
 ---
 
 !citation San Antonio Light @ 1925-04-15
 
-#profile Brovold, George
-key 20200305_006
+#20200305_006 Brovold, George
 player 1925 San Antonio (Texas); BR TR
 
-#profile Washburn, Royce
-key 20200305_007
+#20200305_007 Washburn, Royce
 player 1925 San Antonio (Texas); BR TR
 
-#profile Nason, Lyman
-key 20200305_008
+#20200305_008 Nason, Lyman
 player 1925 San Antonio (Texas); BR TR
 
-#profile Allen, Roy
-key 20200305_009
+#20200305_009 Allen, Roy
 player 1925 San Antonio (Texas); BR TR
 
-#profile Jennings, Kelsey
-key 20200305_010
+#20200305_010 Jennings, Kelsey
 player 1925 San Antonio (Texas); BR TR
 
-#profile Porter, Josh
-key 20200305_011
+#20200305_011 Porter, Josh
 player 1924 Tyler (East Texas); BR TR
 
-#profile Collins, Mike
-key 20200305_012
+#20200305_012 Collins, Mike
 player 1925 San Antonio (Texas); BR TR
 
-#profile Winters, Clarence
-key 20200305_013
+#20200305_013 Winters, Clarence
 player 1925 San Antonio (Texas); BR TR
 
-#profile Reider, John
-key 20200305_014
+#20200305_014 Reider, John
 player 1925 Waco (Texas); BL TL
 
-#profile Bondurant, Bill
-key 20200305_015
+#20200305_015 Bondurant, Bill
 player 1925 Waco (Texas); BR TR
 
-#profile Morrow, Bob
-key 20200305_016
+#20200305_016 Morrow, Bob
 player 1925 Waco (Texas); BR TR
 
-#profile Mueller, Art
-key 20200305_017
+#20200305_017 Mueller, Art
 player 1925 Waco (Texas); BR TR
 
-#profile Vick, Jess
-key 20200305_018
+#20200305_018 Vick, Jess
 player 1925 Waco (Texas); BR TR
 
-#profile Darrough, Rabbit
-key 20200305_019
+#20200305_019 Darrough, Rabbit
 player 1925 Waco (Texas); BR TR
 
-#profile Glasler, Burke
-key 20200305_020
+#20200305_020 Glasler, Burke
 player 1925 Waco (Texas); BR TR
 
-#profile Crumpler, Roy
-key 20200305_021
+#20200305_021 Crumpler, Roy
 player 1925 Waco (Texas); BL TL
 
-#profile Lyle, Dewey
-key 20200305_022
+#20200305_022 Lyle, Dewey
 player 1925 Waco (Texas); BL TL
 
 ---
 
 !citation Wichita Beacon @ 1915-01-16; page 7
 
-#profile Smith, Bob
-key 20200305_023
+#20200305_023 Smith, Bob
 player 1914 Georgetown (Middle Texas)
 
 ---
 
 !citation Corsicana Daily Sun @ 1915-05-27; page 8
 
-#profile Enloe
-key 20200305_024
+#20200305_024 Enloe
 player 1915 Taylor (Middle Texas)
 player 1915 Corsicana (Central Texas)
 
@@ -135,6 +111,5 @@ player 1915 Corsicana (Central Texas)
 
 !citation Waco Morning News @ 1915-03-01; page 2
 
-#profile Angel, Frank
-key 20200305_025
+#20200305_025 Angel, Frank
 player 1915 Temple (Middle Texas)

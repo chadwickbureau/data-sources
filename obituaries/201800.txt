@@ -3,8 +3,7 @@
 !file Altobelli_Mike_2.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-05-27
 
-#profile Altobelli, Michael Adam
-key 201800_Altobelli
+#201800_001 Altobelli, Michael Adam
 death 2018
 
 ---
@@ -14,8 +13,7 @@ death 2018
 !file Bayno_Joe.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-12-09
 
-#profile Bayno, Joseph F. [Joe]
-key 201800_Bayno
+#201800_002 Bayno, Joseph F. [Joe]
 birth 1934-10-10 @ US/NY/Florida
 death 2018 @ US/NY/Middletown
 describe ; TL
@@ -29,8 +27,7 @@ burial St. Joseph's Cemetery @ US/NY/Florida
 !file Thornton_David.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-11-04
 
-#profile Thornton, David W., Jr.
-key 201800_Thornton
+#201800_003 Thornton, David W., Jr.
 birth 1949-11-27 @ US/CA/Los Angeles
 death 2018
 highschool Grant Union HS @ US/CA/Sacramento
@@ -43,8 +40,7 @@ military US Army
 !file Finley_Frank_1.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-10-21
 
-#profile Finley, Frank H., II
-key 201800_Finley
+#201800_004 Finley, Frank H., II
 birth 1945-03-28 @ US/CA/Fresno
 death 2018
 highschool Rooseevelt HS @ US/CA/Fresno
@@ -56,8 +52,7 @@ highschool Rooseevelt HS @ US/CA/Fresno
 !file Perrotta_Joe.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-09-20
 
-#profile Perrotta, Joseph [Joe]
-key 201800_Perrotta
+#201800_005 Perrotta, Joseph [Joe]
 birth 1930
 death 2018
 describe ; TL
@@ -71,8 +66,7 @@ military US Army
 !file Stepp_Tom.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-07-20
 
-#profile Stepp, Thomas E. [Tom]
-key 201800_Stepp
+#201800_006 Stepp, Thomas E. [Tom]
 birth 1940-08-15 @ US/WV/Welch
 death 2018 @ US/CA/San Ramon
 college West Virginia University
@@ -84,8 +78,7 @@ college West Virginia University
 !file Jeffcoat_Larry.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-07-15
 
-#profile Jeffcoat, Larry Leroy
-key 201800_Jeffcoat
+#201800_007 Jeffcoat, Larry Leroy
 birth 1952-09-15 @ US/SC/Union
 death 2018
 highschool Union HS @ US/SC/Union

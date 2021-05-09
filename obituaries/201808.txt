@@ -3,8 +3,7 @@
 !file Hall_Bucky.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-09-25
 
-#profile Hall, John William [Bucky]
-key 201808_Hall
+#201808_001 Hall, John William [Bucky]
 birth 1926-10-25 @ CR//Cartago
 death 2018-08-24 @ US/FL/Sarasota
 highschool Cristobal HS @ PA//Cristobal
@@ -18,8 +17,7 @@ burial Sacred Heart Cemetery @ US/PA/Laporte
 !file Abreu_Fariro.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-10-05
 
-#profile Abreu, Fariro
-key 201808_Abreu
+#201808_002 Abreu, Fariro
 death 2018-08-08 @ DO/Sanchez Ramirez/Cotui
 describe ; TL
 
@@ -30,8 +28,7 @@ describe ; TL
 !file Migaiolo_Tony.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-10-05
 
-#profile Migaiolo, Tony Ralph
-key 201808_Migaiolo
+#201808_003 Migaiolo, Tony Ralph
 birth 1935-09-27 @ US/WV/Fairmont
 death 2018-08-31 @ US/CA/Vista
 highschool Barrackville HS @ US/WV/Barrackville
@@ -45,8 +42,7 @@ burial Mission San Luis Rey Cemetery @ US/CA/Oceanside
 !file Gindele_Albert.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-09-14
 
-#profile Gindele, Albert J.
-key 201808_Gindele
+#201808_004 Gindele, Albert J.
 birth 1924-12-18 @ US/NJ/Newark
 death 2018-08-16 @ US/IN/Terre Haute
 military US Army @ World War II
@@ -58,8 +54,7 @@ military US Army @ World War II
 !file McKnight_Ira.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-09-14
 
-#profile McKnight, Ira
-key 201808_McKnight
+#201808_005 McKnight, Ira
 birth 1935-08-05 @ US/TN/Trenton
 death 2018-08-28
 
@@ -70,8 +65,7 @@ death 2018-08-28
 !file Matzen_Charlie.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-09-05
 
-#profile Matzen, Charles Augustus, Jr. [Charlie]
-key 201808_Matzen
+#201808_006 Matzen, Charles Augustus, Jr. [Charlie]
 birth 1933-10-15 @ US/CA/San Francisco
 death 2018-08-16 @ US/AZ/Anthem
 highschool Lincoln HS @ US/CA/San Francisco
@@ -84,8 +78,7 @@ military US Army
 !file Lynk_Dan.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-09-03
 
-#profile Lynk, Daniel James [Dan]
-key 201808_Lynk
+#201808_007 Lynk, Daniel James [Dan]
 birth 1933-11-25 @ US/NY/New York
 death 2018-08-26 @ US/NC/High Point
 highschool St. John's Preparatory HS @ US/NY/Queens
@@ -98,8 +91,7 @@ burial Immaculate Heart of Mary Catholic Church Cemetery @ US/NC/High Point
 !file Smith_Pete.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-09-03
 
-#profile Smith, Peter J. [Pete]
-key 201808_Smith_Pete
+#201808_008 Smith, Peter J. [Pete]
 birth 1933-03-03 @ US/NY/Bronx
 death 2018-08-27 @ US/NY/Nyack
 highschool Rice HS @ US/NY/New York
@@ -114,8 +106,7 @@ burial St. Anthony's Church Cemetery @ US/NY/Nanuet
 !file Spasoff_Peter.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-09-03
 
-#profile Spasoff, Peter [Peter]
-key 201808_Spasoff
+#201808_009 Spasoff, Peter [Peter]
 birth 1933-02-12 @ US/MI/Battle Creek
 death 2018-08-30
 military US Army
@@ -127,8 +118,7 @@ military US Army
 !file Boyer_Don.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-09-03
 
-#profile Boyer, Donald Blaine [Don]
-key 201808_Boyer
+#201808_010 Boyer, Donald Blaine [Don]
 birth 1934-07-08 @ US/OH/Ironton
 death 2018-08-19
 highschool Ironton HS @ US/OH/Ironton
@@ -141,8 +131,7 @@ college Eastern Kentucky University
 !file White_Myron.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-09-03
 
-#profile White, Myron
-key 201808_White
+#201808_011 White, Myron
 death 2018-08-04
 highschool Santa Ana Valley HS @ US/CA/Santa Ana
 
@@ -153,8 +142,7 @@ highschool Santa Ana Valley HS @ US/CA/Santa Ana
 !file Cunic_Connie.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-09-03
 
-#profile Cunic, Conrad [Connie]
-key 201808_Cunic
+#201808_012 Cunic, Conrad [Connie]
 birth 1929-11-26 @ US/PA/Pittsburgh
 death 2018-08-25 @ US/FL/Cocoa Beach
 military US Army 
@@ -167,8 +155,7 @@ burial Cape Canaveral National Cemetery @ US/FL/Mims
 !file Jackson_Sonny.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-09-03
 
-#profile Jackson, J. B., Jr. [Sonny]
-key 201808_Jackson
+#201808_013 Jackson, J. B., Jr. [Sonny]
 birth 1947-09-10 @ US/TX/Paris
 death 2018-08-30 @ US/TN/Germantown
 highschool Roxton HS @ US/TX/Roxton
@@ -180,8 +167,7 @@ highschool Roxton HS @ US/TX/Roxton
 !file Keller_Buzzy.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-09-03
 
-#profile Keller, Carlton [Buzzy]
-key 201808_Keller
+#201808_014 Keller, Carlton [Buzzy]
 birth 1933-09-03 @ US/TX/Loyal Valley
 death 2018-08-27
 highschool Mason HS @ US/TX/Mason
@@ -196,8 +182,7 @@ military US Army
 !file Halford_Dewey.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-08-28
 
-#profile Halford, Dewey Dean
-key 201808_Halford
+#201808_015 Halford, Dewey Dean
 birth 1928-09-01 @ US/SC/Duncan
 death 2018-08-26 @ US/SC/Spartanburg
 military US Navy 
@@ -210,8 +195,7 @@ burial Greenlawn Memorial Gardens @ US/SC/Spartanburg
 !file Boynton_Lloyd.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-08-27
 
-#profile Boynton, Lloyd Russell
-key 201808_Boynton
+#201808_016 Boynton, Lloyd Russell
 birth 1925-03-26 @ US/ME/Portland
 death 2018-08-04 @ CA/QC/Sherbrooke
 highschool Portland HS @ US/ME/Portland
@@ -224,8 +208,7 @@ military US Navy @ World War II
 !file Rogers_Bob.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-08-27
 
-#profile Rogers, Robert Morgan [Bob]
-key 201808_Rogers
+#201808_017 Rogers, Robert Morgan [Bob]
 birth 1934-11-30 @ US/WA/Lewiston
 death 2018-08-16 @ US/WA/Clarkston
 highschool Lewiston HS @ US/WA/Lewiston
@@ -238,8 +221,7 @@ burial Vineland Cemetery @ US/WA/Clarkston
 !file Christie_Frank.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-08-24
 
-#profile Christie, Frank Edward
-key 201808_Christie
+#201808_018 Christie, Frank Edward
 birth 1922-08-08 @ US/GA/Dawson
 death 2018-08-19 @ US/FL/Tallahassee
 college Middle Georgia State University
@@ -254,8 +236,7 @@ burial Tallahassee National Cemetery @ US/FL/Tallahassee
 !file Bauernfeind_Bill.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-08-24
 
-#profile Bauernfeind, William S. [Bill]
-key 201808_Bauernfeind
+#201808_019 Bauernfeind, William S. [Bill]
 birth 1932-02-05 @ US/WI/Green Bay
 death 2018-08-21 @ US/MI/Stevensville
 highschool Niles HS @ US/MI/Niles
@@ -269,8 +250,7 @@ burial Calvary Cemetery @ US/MI/Niles
 !file Elliott_Kent.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-08-24
 
-#profile Elliott, Kent
-key 201808_Elliott
+#201808_020 Elliott, Kent
 birth 1936-02-25 @ US/CO/Golden
 death 2018-08-09
 military US Marines 
@@ -282,8 +262,7 @@ military US Marines
 !file Pote_Phil.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-08-24
 
-#profile Pote, Phillip M. [Phil]
-key 201808_Pote
+#201808_021 Pote, Phillip M. [Phil]
 birth 1933
 death 2018-08-19
 
@@ -294,8 +273,7 @@ death 2018-08-19
 !file Landrum_Joe.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-08-21
 
-#profile Landrum, Joe
-key 201808_Landrum
+#201808_022 Landrum, Joe
 death 2018-08-19 @ US/SC/Columbia
 highschool Columbia HS @ US/SC/Columbia
 college Clemson University
@@ -308,8 +286,7 @@ military US Army
 !file Guerra_Manny.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-08-21
 
-#profile Guerra, Manuel Richard [Manny]
-key 201808_Guerra
+#201808_023 Guerra, Manuel Richard [Manny]
 birth 1930-04-23 @ US/MN/Crookston
 death 2018-08-01 @ US/NV/Las Vegas
 military US Air Force 
@@ -321,8 +298,7 @@ military US Air Force
 !file Edwards_Doc.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-08-21
 
-#profile Edwards, Howard Rodney [Doc]
-key 201808_Edwards
+#201808_024 Edwards, Howard Rodney [Doc]
 death 2018-08-20
 military US Navy 
 
@@ -333,8 +309,7 @@ military US Navy
 !file VanBrabant_Ozzie.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-08-21
 
-#profile VanBrabant, Camille O. [Ozzie] "Cam"
-key 201808_VanBrabant
+#201808_025 VanBrabant, Camille O. [Ozzie] "Cam"
 birth 1926-09-28 @ CA/ON/Kingsville
 death 2018-08-18 @ US/CA/La Jolla
 highschool Cooley HS @ US/MI/Detroit
@@ -348,8 +323,7 @@ burial Forester Township Cemetery @ US/MI/Carsonville
 !file Husted_Ed.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-08-21
 
-#profile Husted, Edward F. [Ed]
-key 201808_Husted
+#201808_026 Husted, Edward F. [Ed]
 birth 1931-05-28 @ US/NY/Hughsonville
 death 2018-08-18 @ US/NY/Poughkeepsie
 college State University of New York at Potsdam
@@ -362,8 +336,7 @@ military US Army
 !file Moore_Bill_2.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-08-21
 
-#profile Moore, William Kellogg [Bill]
-key 201808_Moore_2
+#201808_027 Moore, William Kellogg [Bill]
 birth 1941-02-11
 death 2018-08-14
 
@@ -374,8 +347,7 @@ death 2018-08-14
 !file Moore_Bill_1.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-08-21
 
-#profile Moore, William K. [Bill]
-key 201808_Moore
+#201808_028 Moore, William K. [Bill]
 birth 1941-02-11
 death 2018-08-14 @ US/OR/Portland
 college Willamette University
@@ -387,8 +359,7 @@ college Willamette University
 !file Helminski_Ed.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-08-20
 
-#profile Helminski, Edward F., Jr. [Ed]
-key 201808_Helminski
+#201808_029 Helminski, Edward F., Jr. [Ed]
 birth 1938-07-18 @ US/WV/Fairmont
 death 2018-08-03 @ US/CT/Ridgefield
 highschool Barrackville Hs @ US/WV/Barrackville
@@ -403,8 +374,7 @@ military US Army
 !file Robinson_Charlie.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-08-20
 
-#profile Robinson, Charles Francis [Charlie]
-key 201808_Robinson
+#201808_030 Robinson, Charles Francis [Charlie]
 birth 1945-03-13 @ US/CA/Hanford
 death 2018-08-02 @ US/CA/Hanford
 highschool Hanford HS @ US/CA/Hanford
@@ -417,8 +387,7 @@ burial Kings River Cemetery @ US/CA/Hanford
 !file Godpodinoff_George.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-08-19
 
-#profile Gospodinoff, George Dimiter
-key 201808_Gospodinoff
+#201808_031 Gospodinoff, George Dimiter
 birth 1954-07-13 @ US/WV/Bluefield
 death 2018-08-08
 describe ; BL TL
@@ -431,8 +400,7 @@ college Loyola Marymount University
 !file Castillo_Enrique.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-08-18
 
-#profile Castillo (Tello), Enrique "El Bombero"
-key 201808_Castillo
+#201808_032 Castillo (Tello), Enrique "El Bombero"
 death 2018-08-07
 
 ---
@@ -442,8 +410,7 @@ death 2018-08-07
 !file Cox_Aaron_2.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-08-17
 
-#profile Cox, Aaron Joseph
-key 201808_Cox_2
+#201808_033 Cox, Aaron Joseph
 birth 1994-08-05 @ US/NJ/Vineland
 death 2018-08-15 @ US/NJ/Atlantic City
 highschool Millville HS @ US/NJ/Millville
@@ -456,8 +423,7 @@ college Gannon University
 !file Kennedy_John.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-08-17
 
-#profile Kennedy, John E. "Super Sub"
-key 201808_Kennedy
+#201808_034 Kennedy, John E. "Super Sub"
 birth 1941-05-29 @ US/IL/Chicago
 death 2018-08-09 @ US/MA/Peabody
 highschool Harper HS @ US/IL/Chicago
@@ -469,8 +435,7 @@ highschool Harper HS @ US/IL/Chicago
 !file Cox_Aaron_1.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-08-17
 
-#profile Cox, Aaron
-key 201808_Cox
+#201808_035 Cox, Aaron
 death 2018-08-15
 highschool Millville HS @ US/NJ/Millville
 college Gannon University
@@ -482,8 +447,7 @@ college Gannon University
 !file Campione_Jack.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-08-17
 
-#profile Campione, Jack Anthony
-key 201808_Campione
+#201808_036 Campione, Jack Anthony
 birth 1932-02-13 @ US/LA/New Orleans
 death 2018-08-15 @ US/LA/Lafayette
 highschool Jesuit HS @ US/LA/New Orleans
@@ -497,8 +461,7 @@ military US Air Force
 !file Benda_Bobby.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-08-14
 
-#profile Benda, Robert James [Bobby]
-key 201808_Benda
+#201808_037 Benda, Robert James [Bobby]
 birth 1956 @ US/IL/Villa Park
 death 2018-08-08 @ US/FL/Jupiter
 highschool Palm Beach Gardens Community HS @ US/FL/Palm Beach Gardens
@@ -512,8 +475,7 @@ college Florida State University
 !file Minaldi_Larry.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-08-14
 
-#profile Minaldi, Larry Joe
-key 201808_Minaldi
+#201808_038 Minaldi, Larry Joe
 birth 1936-06-26 @ US/TX/Nederland
 death 2018-08-08 @ US/TX/Nederland
 highschool Nederland HS @ US/TX/Nederland
@@ -526,8 +488,7 @@ burial Oak Bluff Memorial Park @ US/TX/Port Neches
 !file Sheffield_Billy.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-08-14
 
-#profile Sheffield, William Francis [Billy]
-key 201808_Sheffield
+#201808_039 Sheffield, William Francis [Billy]
 birth 1936-11-26 @ US/VA/Petersburg
 death 2018-08-06
 
@@ -538,8 +499,7 @@ death 2018-08-06
 !file Amoroso_Dante.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-08-14
 
-#profile Amoroso, Dante J.
-key 201808_Amoroso
+#201808_040 Amoroso, Dante J.
 birth 1924-03-04 @ US/NJ/Paterson
 death 2018-08-04
 military US Army @ World War II
@@ -551,8 +511,7 @@ military US Army @ World War II
 !file Mikeman_Keith.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-08-14
 
-#profile Mikeman, Keith Duane
-key 201808_Mikeman
+#201808_041 Mikeman, Keith Duane
 birth 1957-09-13 @ US/OK/Wewoka
 death 2018-08-10
 highschool U. S. Grant HS @ US/OK/Oklahoma City
@@ -565,8 +524,7 @@ college Rose State College
 !file Freeman_Gus.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-08-12
 
-#profile Freeman, Guerney [Gus]
-key 201808_Freeman
+#201808_042 Freeman, Guerney [Gus]
 birth 1923-07-15
 death 2018-08-06 @ US/TN/Knoxville
 highschool Dobyns-Bennett HS @ US/TN/Kingsport
@@ -581,8 +539,7 @@ burial Zion United Methodist Church Cemetery @ US/TN/Baileyton
 !file Smith_Mark.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-08-12
 
-#profile Smith, Mark Welsh
-key 201808_Smith_Mark
+#201808_043 Smith, Mark Welsh
 death 2018-08-07
 highschool Lipscomb Academy @ US/TN/Nashville
 college Middle Tennessee State University
@@ -593,8 +550,7 @@ college Middle Tennessee State University
 !url http://www.baltimoresun.com/news/obituaries/bs-md-ob-joseph-borowy-20180806-story.html
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-08-08
 
-#profile Borowy, Joseph L.
-key 201808_Borowy
+#201808_044 Borowy, Joseph L.
 birth  @ US/MD/Baltimore
 death 2018-08-04 @ US/MD/Towson
 highschool Patterson HS @ US/MD/Baltimore
@@ -607,8 +563,7 @@ military US Army @ Vietnam War
 !file Velarde_Lee.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-08-07
 
-#profile Velarde, Elias Q., Jr. [Lee] "El Caballon; Mali"
-key 201808_Velarde
+#201808_045 Velarde, Elias Q., Jr. [Lee] "El Caballon; Mali"
 birth 1933-05-09 @ US/TX/Midland
 death 2018-08-04
 burial Resthaven Memorial Park @ US/TX/Midland
@@ -620,8 +575,7 @@ burial Resthaven Memorial Park @ US/TX/Midland
 !file Hoffert_Lenny.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-08-07
 
-#profile Hoffert, Leonard Howard [Lenny]
-key 201808_Hoffert
+#201808_046 Hoffert, Leonard Howard [Lenny]
 birth 1932-01-24 @ US/PA/Reading
 death 2018-08-06 @ US/PA/West Lawn
 military US Marines @ Korean War
@@ -633,8 +587,7 @@ military US Marines @ Korean War
 !file Griesheimer_Scotty.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-08-07
 
-#profile Griesheimer, Raymond Scott [Scotty]
-key 201808_Griesheimer
+#201808_047 Griesheimer, Raymond Scott [Scotty]
 birth 1933-05-30 @ US/NC/Henderson
 death 2018-08-05 @ US/OH/Chillicothe
 highschool Chillicothe HS @ US/OH/Chillicothe
@@ -649,8 +602,7 @@ burial St. Margaret Cemetery @ US/OH/Chillicothe
 !file Lanier_LF.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-08-06
 
-#profile Lanier, Lafayette F. [L. F.]
-key 201808_Lanier
+#201808_048 Lanier, Lafayette F. [L. F.]
 birth 1934-10-12 @ US/AL/Chambers County
 death 2018-08-02 @ US/AL/Valley
 highschool Valley @ US/AL/Valley
@@ -663,8 +615,7 @@ college Auburn University
 !file Boenker_Don.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-08-05
 
-#profile Boenker, Donald E. [Don]
-key 201808_Boenker
+#201808_049 Boenker, Donald E. [Don]
 birth 1931-05-02 @ US/MO/Robertson
 death 2018-08-03 @ US/IA/Iowa City
 highschool Normandy HS @ US/MO/Wellston
@@ -679,8 +630,7 @@ burial Memory Gardens Cemetery @ US/IA/Iowa City
 !file Pawenski_Stan.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-08-05
 
-#profile Pawenski, Stanley [Stan] "Squeezer"
-key 201808_Pawenski
+#201808_050 Pawenski, Stanley [Stan] "Squeezer"
 birth 1929-12-24
 death 2018-08-04
 military US Air Force @ Korean War
@@ -693,8 +643,7 @@ burial Chapel Lawn Memorial Gardens @ US/IN/Schererville
 !file Ferguson_Jimmy.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-08-04
 
-#profile Ferguson, James William [Jimmy]
-key 201808_Ferguson
+#201808_051 Ferguson, James William [Jimmy]
 birth 1964-12-22 @ US/CT/New Haven
 death 2018-08-02 @ US/CT/Middletown
 highschool Notre Dame HS @ US/CT/West Haven

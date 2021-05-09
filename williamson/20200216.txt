@@ -1,91 +1,74 @@
 !citation Memphis Commercial Appeal @ 1910-02-07; page 12
 
-#profile Cranston, Billy
-key 20200216_001
+#20200216_001 Cranston, Billy
 player 1908 Memphis (Southern Association); @2B
 player 1909 Memphis (Southern Association); @2B
 player 1910 New York (American)
 player 1910 Kansas City (American Association)
 
-#profile Welch
-key 20200216_002
+#20200216_002 Welch
 coach Woodland College; caliber=college
 
 ---
 
 !citation Memphis Commercial Appeal @ 1910-02-08; page 11
 
-#profile McTigue
-key 20200216_003
+#20200216_003 McTigue
 player 1910 Birmingham (Southern Association); @P TL
 
-#profile DeFrates
-key 20200216_004
+#20200216_004 DeFrates
 player 1910 Jacksonville (South Atlantic); @OF
 resides 1910 @ US/LA/New Orleans
 
-#profile Bremmerhoff
-key 20200216_005
+#20200216_005 Bremmerhoff
 player 1910 Jacksonville (South Atlantic); @OF
 resides 1910 @ US/LA/New Orleans
 
-#profile Vogel
-key 20200216_006
+#20200216_006 Vogel
 player 1910 San Antonio (Texas); @P
 resides 1910 @ US/LA/New Orleans
 
-#profile Gilbert
-key 20200216_007
+#20200216_007 Gilbert
 player 1910 San Antonio (Texas); @P
 resides 1910 @ US/LA/New Orleans
 
-#profile Stratton, Milo
-key 20200216_008
+#20200216_008 Stratton, Milo
 resides 1910 @ US/IL/Chicago
 
-#profile Conahan, E. J.
-key 20200216_009
+#20200216_009 Conahan, E. J.
 umpire 1909 American Association
 umpire 1910 American Association
 
-#profile Chappelle, Bill
-key 20200216_010
+#20200216_010 Chappelle, Bill
 player 1910 Rochester (Eastern)
 
 ---
 
 !citation Memphis Commercial Appeal @ 1910-02-09; page 11
 
-#profile Kommers, Cy
-key 20200216_011
+#20200216_011 Kommers, Cy
 player 1910 New York (National); @OF
 player 1909 Beardstown (Illinois-Missouri); @OF
 
-#profile Clunn, F. B.
-key 20200216_012
+#20200216_012 Clunn, F. B.
 player 1910 New York (American); @P
 player 1909 Portsmouth (Virginia); @P TL
 
-#profile O'Guin, John
-key 20200216_013
+#20200216_013 O'Guin, John
 player 1910 Jonesboro (Northeast Arkansas)
 resides 1910 @ US/TN/Denver
 
-#profile Moore, Eddie
-key 20200216_014
+#20200216_014 Moore, Eddie
 player 1910 Jonesboro (Northeast Arkansas); H69 W160; age=20
 resides 1910 @ US/KY/Louisville
 
-#profile Doherty, James E.
-key 20200216_015
+#20200216_015 Doherty, James E.
 executive 1910 Northeast Arkansas League; title=Vice President
 
-#profile Sullivan, Al
-key 20200216_016
+#20200216_016 Sullivan, Al
 executive 1910 Northeast Arkansas League; title=Secretary
 
-#profile Cutting, Ralph
-key 20200216_017
+#20200216_017 Cutting, Ralph
 player 1910 Pittsburgh (National)
 player 1909 Brockton (New England)
 
@@ -93,24 +76,20 @@ player 1909 Brockton (New England)
 
 !citation Memphis Commercial Appeal @ 1910-02-10; page 10
 
-#profile Coleman, Frank P.
-key 20200216_018
+#20200216_018 Coleman, Frank P.
 executive 1910 Southern Association; title=President and Treasurer
 
-#profile Collins, John J.
-key 20200216_019
+#20200216_019 Collins, John J.
 executive 1910 Memphis (Southern Association); title=Vice President
 
-#profile Body, H. R.
-key 20200216_020
+#20200216_020 Body, H. R.
 executive 1910 Memphis (Southern Association); title=Secretary
 
 ---
 
 !citation Memphis Commercial Appeal @ 1910-02-10; page 11
 
-#profile Cefalu
-key 20200216_021
+#20200216_021 Cefalu
 player 1909 New Orleans (Southern Association)
 player 1909 (Ohio-Pennsylvania)
 player 1910 New Orleans (Southern Association)
@@ -119,70 +98,58 @@ player 1910 New Orleans (Southern Association)
 
 !citation Memphis Commercial Appeal @ 1910-02-11; page 10
 
-#profile Cross
-key 20200216_022
+#20200216_022 Cross
 player 1910 Memphis (Southern Association); H76.5 W220
 resides 1910 @ US/NY/White Plains
 
-#profile Allen
-key 20200216_023
+#20200216_023 Allen
 player 1909 Seattle (Northwestern); @P
 player 1910 Memphis (Southern Association); @P
 
-#profile Steele
-key 20200216_024
+#20200216_024 Steele
 player 1909 Madison (Wisconsin-Illinois); @P
 player 1910 Memphis (Southern Association); @P
 
-#profile Peters
-key 20200216_025
+#20200216_025 Peters
 player 1909 Dallas (Texas); @P
 player 1910 Memphis (Southern Association); @P
 
-#profile Rementer
-key 20200216_026
+#20200216_026 Rementer
 player 1909 Lancaster (Tri-State); @P
 player 1910 Memphis (Southern Association); @C
 
-#profile Dudley
-key 20200216_027
+#20200216_027 Dudley
 player 1909 Corinth; location=US/MS/Corinth
 player 1910 Memphis (Southern Association); @C
 
-#profile Lafitte
-key 20200216_028
+#20200216_028 Lafitte
 player 1909 Cincinnati (National); @C
 player 1909 Macon (South Atlantic); @C
 player 1910 Memphis (Southern Association); @C
 
-#profile Draper, Hamp
-key 20200216_029
+#20200216_029 Draper, Hamp
 manager 1910 Oxford; location=US/AL/Oxford
 
-#profile Gunter, C. G.
-key 20200216_030
+#20200216_030 Gunter, C. G.
 manager 1910 Rome; location=US/GA/Rome
 
 ---
 
 !citation Memphis Commercial Appeal @ 1910-02-11; page 11
 
-#profile Butler, Willie
-key 20200216_031
+#20200216_031 Butler, Willie
 player 1909 Nashville (Southern Association); @SS
 player 1910 Cleveland (American); @SS
 player 1910 Toledo (American Association); @SS
 
-#profile Rossman, Claude
-key 20200216_032
+#20200216_032 Rossman, Claude
 player 1910 Columbus (American Association); @1B
 
 ---
 
 !citation Memphis Commercial Appeal @ 1910-02-12; page 11
 
-#profile Vickery
-key 20200216_033
+#20200216_033 Vickery
 player 1909 Enid (Western Association); @P TL
 player 1910 Montgomery (Southern Association); @P
 
@@ -190,8 +157,7 @@ player 1910 Montgomery (Southern Association); @P
 
 !citation Memphis Commercial Appeal @ 1910-02-13; page 19
 
-#profile Cross, Edwin J.
-key 20200216_034
+#20200216_034 Cross, Edwin J.
 player 1910 Memphis (Southern Association); @P
 resides 1910 @ US/NY/White Plains
 
@@ -199,12 +165,10 @@ resides 1910 @ US/NY/White Plains
 
 !citation Memphis Commercial Appeal @ 1910-02-13; page 20
 
-#profile Isbell, Frank
-key 20200216_035
+#20200216_035 Isbell, Frank
 executive 1910 Wichita (Western); title=Owner
 
-#profile Zinn
-key 20200216_036
+#20200216_036 Zinn
 player 1909 (Pennsylvania-West Virginia); @OF
 player 1910 Memphis (Southern Association); @OF
 
@@ -212,120 +176,97 @@ player 1910 Memphis (Southern Association); @OF
 
 !citation Memphis Commercial Appeal @ 1910-02-14; page 12
 
-#profile Foster, Edward
-key 20200216_037
+#20200216_037 Foster, Edward
 player 1910 New Orleans (Southern Association); @P
 
-#profile Ostrom, Walter
-key 20200216_038
+#20200216_038 Ostrom, Walter
 player 1909 Longview; location=US/TX/Longview; @P
 player 1910 New Orleans (Southern Association); @P
 
-#profile Manush, Frank
-key 20200216_039
+#20200216_039 Manush, Frank
 player 1910 New Orleans (Southern Association); @3B
 resides 1910 @ US/AL
 
-#profile Reagan, Ed
-key 20200216_040
+#20200216_040 Reagan, Ed
 player 1910 New Orleans (Southern Association); @UT
 
-#profile Ward, Mike
-key 20200216_041
+#20200216_041 Ward, Mike
 player 1910 New Orleans (Southern Association); @OF
 note Was an amateur in 1909
 resides 1909 @ US/PA/Pittsburgh
 resides 1910 @ US/PA/Pittsburgh
 
-#profile Ritter, P. G.
-key 20200216_042
+#20200216_042 Ritter, P. G.
 executive 1910 Paragould (Northeast Arkansas); title=President
 
 ---
 
 !citation Memphis Commercial Appeal @ 1910-02-15; page 15
 
-#profile McGraw, Leo
-key 20200216_043
+#20200216_043 McGraw, Leo
 player 1910 Memphis (Southern Association); @C; H72; age=19
 resides 1910 @ US/OH
 
-#profile Ellis, Elbert
-key 20200216_044
+#20200216_044 Ellis, Elbert
 player 1909 Jonesboro (Northeast Arkansas); @P
 player 1910 Wichita (Western); @P H72 W165; age=20
 resides 1910 @ US/AR/Piggott
 
-#profile Brennan, William
-key 20200216_045
+#20200216_045 Brennan, William
 umpire 1909 Wisconsin-Illinois League
 umpire 1910 National League
 
-#profile Moran, August
-key 20200216_046
+#20200216_046 Moran, August
 umpire 1909 Southern Association
 umpire 1910 National League
 
-#profile Mayre, W. S.
-key 20200216_047
+#20200216_047 Mayre, W. S.
 executive 1910 Greenwood; location=US/MS/Greenwood; title=President
 
-#profile Wilson, Robert
-key 20200216_048
+#20200216_048 Wilson, Robert
 executive 1910 Greenwood; location=US/MS/Greenwood; title=Treasurer
 
-#profile Harwood, L. M.
-key 20200216_049
+#20200216_049 Harwood, L. M.
 executive 1910 Greenwood; location=US/MS/Greenwood; title=Secretary
 
-#profile Welch, Con
-key 20200216_050
+#20200216_050 Welch, Con
 manager 1910 Greenwood; location=US/MS/Greenwood
 
 ---
 
 !citation Memphis Commercial Appeal @ 1910-02-16; page 11
 
-#profile Woodward, A. H.
-key 20200216_051
+#20200216_051 Woodward, A. H.
 executive 1910 Montgomery (Southern Association); title=Majority shareholder
 
-#profile Baugh, R. H.
-key 20200216_052
+#20200216_052 Baugh, R. H.
 executive 1910 Montgomery (Southern Association); title=President
 
-#profile Molesworth, Carlton
-key 20200216_053
+#20200216_053 Molesworth, Carlton
 manager 1910 Montgomery (Southern Association)
 
-#profile Temple, Will
-key 20200216_054
+#20200216_054 Temple, Will
 player 1909 Norfolk (Virginia)
 player 1910 New York (National)
 college North Carolina A&M
 
-#profile Doherty, J. E.
-key 20200216_055
+#20200216_055 Doherty, J. E.
 executive 1910 Northeast Arkansas League; title=President
 resides 1910 @ US/AR/Newport
 
-#profile Bertig, Joe A.
-key 20200216_056
+#20200216_056 Bertig, Joe A.
 executive 1910 Northeast Arkansas League; title=Vice President
 resides 1910 @ US/AR/Paragould
 
-#profile Sullivan, Al
-key 20200216_057
+#20200216_057 Sullivan, Al
 executive 1910 Northeast Arkansas League; title=Secretary
 resides 1910 @ US/AR/Jonesboro
 
-#profile Plummer, John A.
-key 20200216_058
+#20200216_058 Plummer, John A.
 executive 1910 Northeast Arkansas League; title=Treasurer
 resides 1910 @ US/AR/Marianna
 
-#profile Russell, Jack
-key 20200216_059
+#20200216_059 Russell, Jack
 player 1910 Paragould (Northeast Arkansas)
 purchased <=1910-02-16; join=Paragould (Northeast Arkansas); leave=Jonesboro (Northeast Arkansas)
 
@@ -333,39 +274,32 @@ purchased <=1910-02-16; join=Paragould (Northeast Arkansas); leave=Jonesboro (No
 
 !citation Memphis Commercial Appeal @ 1910-02-17; page 10
 
-#profile Swacina, Eddie
-key 20200216_060
+#20200216_060 Swacina, Eddie
 player 1909 Rock Island (Illinois-Indiana-Iowa)
 player 1910 Mobile (Southern Association)
 
-#profile Berger
-key 20200216_061
+#20200216_061 Berger
 player 1909 Rock Island (Illinois-Indiana-Iowa)
 player 1910 Mobile (Southern Association)
 
-#profile Derringer
-key 20200216_062
+#20200216_062 Derringer
 player 1909 Dubuque (Illinois-Indiana-Iowa)
 player 1910 Mobile (Southern Association)
 
-#profile Cote, Leonard
-key 20200216_063
+#20200216_063 Cote, Leonard
 player 1909 Mobile (Southern Association)
 player 1909 Decatur (Illinois-Indiana-Iowa)
 player 1910 Mobile (Southern Association)
 
-#profile Dunn
-key 20200216_064
+#20200216_064 Dunn
 player 1909 Brooklyn (National)
 player 1910 Mobile (Southern Association)
 
-#profile Neal
-key 20200216_065
+#20200216_065 Neal
 player 1909 Rock Island (Illinois-Indiana-Iowa)
 player 1910 Mobile (Southern Association)
 
-#profile Wilder
-key 20200216_066
+#20200216_066 Wilder
 player 1909 Dubuque (Illinois-Indiana-Iowa)
 player 1910 Mobile (Southern Association)
 
@@ -373,14 +307,12 @@ player 1910 Mobile (Southern Association)
 
 !citation Memphis Commercial Appeal @ 1910-02-17; page 11
 
-#profile Cote
-key 20200216_067
+#20200216_067 Cote
 describe ; ancestry=Native American
 player 1910 Mobile (Southern Association); @P
 resides 1910 @ US/NE
 
-#profile Bronkie, Herman
-key 20200216_068
+#20200216_068 Bronkie, Herman
 player 1909 (Connecticut State); @3B
 player 1910 Nashville (Southern Association); @3B
 
@@ -388,73 +320,59 @@ player 1910 Nashville (Southern Association); @3B
 
 !citation Memphis Commercial Appeal @ 1910-02-18; page 10
 
-#profile Rementer
-key 20200216_069
+#20200216_069 Rementer
 player 1909 Lancaster (Tri-State); @C
 player 1910 Memphis (Southern Association); @C
 
-#profile Lafitte
-key 20200216_070
+#20200216_070 Lafitte
 player 1910 Macon (South Atlantic); @C
 player 1910 Memphis (Southern Association); @C
 
-#profile Carson
-key 20200216_071
+#20200216_071 Carson
 player 1909 Augusta (South Atlantic); @C
 player 1910 Memphis (Southern Association); @C
 
-#profile Allen
-key 20200216_072
+#20200216_072 Allen
 player 1909 Seattle (Northwestern); @P
 player 1910 Memphis (Southern Association); @P
 
-#profile Peters
-key 20200216_073
+#20200216_073 Peters
 player 1909 Dallas (Texas); @P
 player 1910 Memphis (Southern Association); @P
 
-#profile Steele
-key 20200216_074
+#20200216_074 Steele
 player 1909 Madison (Wisconsin-Illinois); @P
 player 1910 Memphis (Southern Association); @P
 
-#profile Whitney
-key 20200216_075
+#20200216_075 Whitney
 player 1909 Harrisburg (Tri-State); @1B
 player 1910 Memphis (Southern Association); @1B
 
-#profile Wanner
-key 20200216_076
+#20200216_076 Wanner
 player 1909 Hartford (Connecticut State); @2B
 player 1910 Memphis (Southern Association); @2B
 
-#profile Altman
-key 20200216_077
+#20200216_077 Altman
 player 1909 Spokane (Northwestern); @3B
 player 1910 Memphis (Southern Association); @3B
 
-#profile Zinn
-key 20200216_078
+#20200216_078 Zinn
 player 1909 Grafton (Pennsylvania-West Virginia); @OF
 player 1910 Memphis (Southern Association); @OF
 
-#profile Channell
-key 20200216_079
+#20200216_079 Channell
 player 1909 Fort Wayne (Central); @OF
 player 1910 Memphis (Southern Association); @OF
 
-#profile Farrell
-key 20200216_080
+#20200216_080 Farrell
 player 1909 Marion (Ohio State); @OF
 player 1910 Memphis (Southern Association); @OF
 
-#profile Smith
-key 20200216_081
+#20200216_081 Smith
 player 1909 Mansfield (Ohio State); @OF
 player 1910 Cleveland (American); @OF
 
-#profile Allen, Frank
-key 20200216_082
+#20200216_082 Allen, Frank
 player 1909 Little Rock (Southern Association); @P
 player 1910 Little Rock (Southern Association); @P
 player 1910 Mobile (Southern Association); @P TL
@@ -463,8 +381,7 @@ player 1910 Mobile (Southern Association); @P TL
 
 !citation Memphis Commercial Appeal @ 1910-02-18; page 10
 
-#profile Scanlon, Jimmy
-key 20200216_083
+#20200216_083 Scanlon, Jimmy
 player 1909 Beardstown (Illinois-Missouri); @IF
 player 1910 Memphis (Southern Association); @IF
 
@@ -472,33 +389,26 @@ player 1910 Memphis (Southern Association); @IF
 
 !citation Memphis Commercial Appeal @ 1910-02-20; page 19
 
-#profile Arnoult, Herb
-key 20200216_084
+#20200216_084 Arnoult, Herb
 executive 1910 Memphis Commercial League; title=President
 
-#profile O'Hare, W. J.
-key 20200216_085
+#20200216_085 O'Hare, W. J.
 executive 1910 Memphis Commercial League; title=Vice President
 
-#profile Flannigan, R. P.
-key 20200216_086
+#20200216_086 Flannigan, R. P.
 executive 1910 Memphis Commercial League; title=Treasurer
 
-#profile Sawrie, Paul
-key 20200216_087
+#20200216_087 Sawrie, Paul
 executive 1910 Memphis Commercial League; title=Secretary
 
-#profile Winters, George
-key 20200216_088
+#20200216_088 Winters, George
 player 1910 Columbus (South Atlantic)
 
-#profile Collins, Cuckoo
-key 20200216_089
+#20200216_089 Collins, Cuckoo
 player 1908 Santa Cruz (California); @UT
 player 1910 Memphis (Southern Association); @UT
 
-#profile Scanlon, Jimmy
-key 20200216_090
+#20200216_090 Scanlon, Jimmy
 player 1910 Memphis (Southern Association)
 resides 1910 @ US/IN
 college Notre Dame
@@ -507,24 +417,20 @@ college Notre Dame
 
 !citation Memphis Commercial Appeal @ 1910-02-20; page 21
 
-#profile Seigel, Johnny
-key 20200216_091
+#20200216_091 Seigel, Johnny
 player 1909 Nashville (Southern Association); @OF
 player 1910 Nashville (Southern Association); @OF
 resides 1910 @ US/OH/Urbana
 
-#profile Bronkie
-key 20200216_092
+#20200216_092 Bronkie
 player 1909 Waterbury (Connecticut State); @3B
 player 1910 Nashville (Southern Association); @3B
 
-#profile Moran, Ray
-key 20200216_093
+#20200216_093 Moran, Ray
 player 1909 Atlanta (Southern Association); @LF
 player 1910 Atlanta (Southern Association); @LF
 
-#profile Theilman, Jacob
-key 20200216_094
+#20200216_094 Theilman, Jacob
 player 1906 Indianapolis (American Association); @P
 player 1909 Louisville (American Association); @P
 player 1910 Indianapolis (American Association); @P
@@ -533,26 +439,21 @@ player 1910 Indianapolis (American Association); @P
 
 !citation Memphis Commercial Appeal @ 1910-02-21; page 12
 
-#profile Wormser, Mose
-key 20200216_095
+#20200216_095 Wormser, Mose
 executive 1910 Southern Association; title=Secretary
 
-#profile Nicholls, Simon
-key 20200216_096
+#20200216_096 Nicholls, Simon
 player 1906 Memphis (Southern Association); @SS
 player 1910 Cleveland (American); @SS
 
-#profile Ritter, Peck
-key 20200216_097
+#20200216_097 Ritter, Peck
 executive 1910 Paragould (Northeast Arkansas); title=President
 
-#profile Jolly, Abe
-key 20200216_098
+#20200216_098 Jolly, Abe
 player 1909 Jonesboro (Northeast Arkansas); @OF
 player 1910 Fort Worth (Texas); @OF
 
-#profile Schlensker, Shorty
-key 20200216_099
+#20200216_099 Schlensker, Shorty
 player 1909 Jonesboro (Northeast Arkansas); @OF
 player 1910 Springfield (Illinois-Indiana-Iowa); @OF
 
@@ -560,16 +461,13 @@ player 1910 Springfield (Illinois-Indiana-Iowa); @OF
 
 !citation Memphis Commercial Appeal @ 1910-02-23; page 9
 
-#profile Beville, Monte
-key 20200216_100
+#20200216_100 Beville, Monte
 player 1910 Chattanooga (Southern Association); @C
 
-#profile Law, John
-key 20200216_101
+#20200216_101 Law, John
 umpire 1910 Virginia League
 
-#profile Robertson
-key 20200216_102
+#20200216_102 Robertson
 player 1910 New Orleans (Southern Association); @C
 resides 1910 @ US/LA/Leesville
 
@@ -577,16 +475,14 @@ resides 1910 @ US/LA/Leesville
 
 !citation Memphis Commercial Appeal @ 1910-02-24; page 10
 
-#profile Andrews, Jay
-key 20200216_103
+#20200216_103 Andrews, Jay
 manager 1910 Oklahoma City (Texas)
 
 ---
 
 !citation Memphis Commercial Appeal @ 1910-02-24; page 10
 
-#profile Peaster, Harry
-key 20200216_104
+#20200216_104 Peaster, Harry
 player 1907 Vicksburg (Cotton States); @P
 player 1908 Meridian (Cotton States); @P
 player 1909 Water Valley; location=US/MS/Water Valley; @P
@@ -596,17 +492,14 @@ player 1910 Richmond (Virginia); @P
 
 !citation Memphis Commercial Appeal @ 1910-02-24; page 11
 
-#profile Farrell, Red
-key 20200216_105
+#20200216_105 Farrell, Red
 player 1910 Memphis (Southern Association); @OF
 
-#profile Channel, Lester
-key 20200216_106
+#20200216_106 Channel, Lester
 player 1910 Memphis (Southern Association); @OF
 resides 1910 @ US/IN/Fort Wayne
 
-#profile Rogers
-key 20200216_107
+#20200216_107 Rogers
 player 1910 New Orleans (Southern Association); @P
 resides 1910 @ US/TX
 
@@ -614,66 +507,54 @@ resides 1910 @ US/TX
 
 !citation Memphis Commercial Appeal @ 1910-02-25; page 10
 
-#profile Joseph, E. B.
-key 20200216_108
+#20200216_108 Joseph, E. B.
 executive Montgomery (Southern Association); title=President
 
-#profile Greminger, Ed
-key 20200216_109
+#20200216_109 Greminger, Ed
 manager Montgomery (Southern Association)
 
-#profile Hosp, Franz
-key 20200216_110
+#20200216_110 Hosp, Franz
 player 1909 Los Angeles (Pacific Coast); @P
 player 1910 Cincinnati (National); @P
 
-#profile Reed, George M.
-key 20200216_111
+#20200216_111 Reed, George M.
 manager 1904 Pine Bluff (Cotton States)
 manager 1910 Mobile (Southern Association)
 
-#profile Sample, Guy
-key 20200216_112
+#20200216_112 Sample, Guy
 player 1904 Pine Bluff (Cotton States)
 
-#profile Huelsman, Frank
-key 20200216_113
+#20200216_113 Huelsman, Frank
 player 1910 Mobile (Southern Association)
 
 ---
 
 !citation Memphis Commercial Appeal @ 1910-02-26; page 9
 
-#profile Bay, Harry
-key 20200216_114
+#20200216_114 Bay, Harry
 player 1909 Nashville (Southern Association)
 player 1910 Nashville (Southern Association)
 
-#profile Flood, Tim
-key 20200216_115
+#20200216_115 Flood, Tim
 player 1909 Little Rock (Southern Association); @2B
 player 1910 Chattanooga (Southern Association); @2B
 player 1910 Waterbury (Connecticut); @2B
 player 1910 Nashville (Southern Association); @2B
 
-#profile Murch
-key 20200216_116
+#20200216_116 Murch
 player 1909 Savannah (South Atlantic); @2B
 player 1910 Nashville (Southern Association); @2B
 
-#profile Cranston, Billy
-key 20200216_117
+#20200216_117 Cranston, Billy
 player 1909 Memphis (Southern Association); @2B
 player 1910 Kansas City (American Association); @2B
 
-#profile Wanner, Johnny
-key 20200216_118
+#20200216_118 Wanner, Johnny
 player 1909 Hartford (Connecticut); @2B
 player 1910 Memphis (Southern Association); @2B
 resides 1910 @ US/IL/Geneseo
 
-#profile Ellis, Rube
-key 20200216_119
+#20200216_119 Ellis, Rube
 player 1909 Jonesboro (Northeast Arkansas); @P
 player 1910 Wichita (Western); @P
 
@@ -681,205 +562,165 @@ player 1910 Wichita (Western); @P
 
 !citation Memphis Commercial Appeal @ 1910-02-27; page 20
 
-#profile Dobbs, Johnny
-key 20200216_120
+#20200216_120 Dobbs, Johnny
 manager 1910 Chattanooga (Southern Association)
 
 ---
 
 !citation Memphis Commercial Appeal @ 1910-02-27; page 21
 
-#profile Johnson
-key 20200216_121
+#20200216_121 Johnson
 player 1910 Buffalo (Eastern)
 resides 1910 @ US/TN/Chattanooga
 
-#profile McCrone
-key 20200216_122
+#20200216_122 McCrone
 player 1909 Duluth (Minnesota-Wisconsin); @1B
 player 1910 Chattanooga (Southern Association); @1B
 
-#profile Jordan, Otto
-key 20200216_123
+#20200216_123 Jordan, Otto
 manager 1910 Atlanta (Southern Association)
 
-#profile Seitz, Charlie
-key 20200216_124
+#20200216_124 Seitz, Charlie
 player 1910 Atlanta (Southern Association); @OF
 
-#profile Matthews, Harry
-key 20200216_125
+#20200216_125 Matthews, Harry
 player 1910 Atlanta (Southern Association)
 
-#profile Sentell, Paul
-key 20200216_126
+#20200216_126 Sentell, Paul
 player 1908 Mobile (Southern Association)
 player 1909 Mobile (Southern Association)
 player 1910 Brooklyn (National)
 
-#profile McKee, Eddie
-key 20200216_127
+#20200216_127 McKee, Eddie
 player 1908 Y. M. I. (Memphis City); @OF
 player 1909 Princesas (Memphis City); @OF
 
-#profile Pratt
-key 20200216_128
+#20200216_128 Pratt
 player 1910 Montgomery (Southern Association); @3B
 college Alabama
 
-#profile Miller
-key 20200216_129
+#20200216_129 Miller
 player 1909 Mobile (Southern Association)
 player 1910 Montgomery (Southern Association)
 
-#profile Cribben
-key 20200216_130
+#20200216_130 Cribben
 player 1909 (Ohio-Pennsylvania)
 player 1910 Montgomery (Southern Association)
 
-#profile Nolly
-key 20200216_131
+#20200216_131 Nolly
 player 1909 Wheeling (Central); @P
 player 1910 Montgomery (Southern Association); @P
 resides 1910 @ US/AL/Montgomery
 
-#profile Dugbleby
-key 20200216_132
+#20200216_132 Dugbleby
 player 1909 (Eastern); @P
 player 1910 Montgomery (Southern Association); @P
 
-#profile Torrey
-key 20200216_133
+#20200216_133 Torrey
 player 1909 Mobile (Southern Association); @P
 player 1910 Montgomery (Southern Association); @P
 
-#profile Phillips
-key 20200216_134
+#20200216_134 Phillips
 player 1909 (Ohio-Pennsylvania); @OF
 player 1910 Montgomery (Southern Association); @OF
 
-#profile Burnett
-key 20200216_135
+#20200216_135 Burnett
 player 1909 Spokane (Northwestern); @OF
 player 1910 Montgomery (Southern Association); @OF
 
-#profile Kerwin
-key 20200216_136
+#20200216_136 Kerwin
 player 1909 Montgomery (Southern Association); @OF
 player 1910 Mobile (Southern Association); @OF
 
-#profile Bliss
-key 20200216_137
+#20200216_137 Bliss
 player 1909 Montgomery (Southern Association); @P
 player 1910 Mobile (Southern Association); @P
 
-#profile Rockenfield
-key 20200216_138
+#20200216_138 Rockenfield
 player 1909 Montgomery (Southern Association)
 player 1910 Spokane (Northwestern)
 
-#profile Carson
-key 20200216_139
+#20200216_139 Carson
 player 1909 Augusta (South Atlantic); @C
 player 1910 Chattanooga (Southern Association); @C
 
-#profile Beville
-key 20200216_140
+#20200216_140 Beville
 player 1909 Rochester (International); @C
 player 1910 Chattanooga (Southern Association); @C
 
-#profile Patterson
-key 20200216_141
+#20200216_141 Patterson
 player 1909 Pittsburgh (National); @IF
 player 1910 Chattanooga (Southern Association); @IF
 
-#profile McCrone
-key 20200216_142
+#20200216_142 McCrone
 player 1909 Duluth (Minnesota-Wisconsin); @IF
 player 1910 Chattanooga (Southern Association); @IF
 
-#profile Yerkes
-key 20200216_143
+#20200216_143 Yerkes
 player 1909 Worcester (New England); @IF
 player 1910 Chattanooga (Southern Association); @IF
 
-#profile Perry
-key 20200216_144
+#20200216_144 Perry
 player 1909 Little Rock (Southern Association); @IF
 player 1910 Chattanooga (Southern Association); @IF
 
-#profile McLaurin
-key 20200216_145
+#20200216_145 McLaurin
 player 1909 Augusta (South Atlantic); @OF
 player 1910 Chattanooga (Southern Association); @OF
 
-#profile Sentz
-key 20200216_146
+#20200216_146 Sentz
 player 1909 Little Rock (Southern Association); @OF
 player 1910 Chattanooga (Southern Association); @OF
 
-#profile Collins
-key 20200216_147
+#20200216_147 Collins
 player 1909 Little Rock (Southern Association); @OF
 player 1910 Chattanooga (Southern Association); @OF
 
-#profile Helm
-key 20200216_148
+#20200216_148 Helm
 player 1909 Columbus (South Atlantic); @P
 player 1910 Chattanooga (Southern Association); @P
 
-#profile Miller
-key 20200216_149
+#20200216_149 Miller
 player 1909 Columbia (South Atlantic); @P
 player 1910 Chattanooga (Southern Association); @P
 
-#profile Pope
-key 20200216_150
+#20200216_150 Pope
 player 1909 Raleigh (Eastern Carolina); @P
 player 1910 Chattanooga (Southern Association); @P
 
-#profile Schlitzer
-key 20200216_151
+#20200216_151 Schlitzer
 player 1909 Boston (American); @P
 player 1910 Chattanooga (Southern Association); @P
 
-#profile Keith
-key 20200216_152
+#20200216_152 Keith
 player 1909 Little Rock (Southern Association); @P
 player 1910 Chattanooga (Southern Association); @P
 
-#profile Fulenwider
-key 20200216_153
+#20200216_153 Fulenwider
 player 1909 Little Rock (Southern Association); @P
 player 1910 Chattanooga (Southern Association); @P
 
-#profile Toren
-key 20200216_154
+#20200216_154 Toren
 player 1909 Little Rock (Southern Association); @P
 player 1910 Chattanooga (Southern Association); @P
 
-#profile Rhodes
-key 20200216_155
+#20200216_155 Rhodes
 player 1909 Little Rock (Southern Association); @P
 player 1910 Chattanooga (Southern Association); @P
 
-#profile Hart
-key 20200216_156
+#20200216_156 Hart
 player 1909 Little Rock (Southern Association); @P
 player 1910 Chattanooga (Southern Association); @P
 
-#profile Buchanan
-key 20200216_157
+#20200216_157 Buchanan
 player 1909 Little Rock (Southern Association); @P
 player 1910 Chattanooga (Southern Association); @P
 
-#profile Burton, Charlie
-key 20200216_158
+#20200216_158 Burton, Charlie
 player 1910 Fort Worth (Texas); @P
 resides 1910 @ US/AR/Jonesboro
 
-#profile Fuhs, Harry C.
-key 20200216_159
+#20200216_159 Fuhs, Harry C.
 player 1910 Memphis (Southern Association); H72 W180 @IF
 resides 1910 @ US/PA
 college Carnegie Tech
@@ -888,22 +729,18 @@ college Carnegie Tech
 
 !citation Memphis Commercial Appeal @ 1910-02-28; page 12
 
-#profile Robinson, Mack
-key 20200216_160
+#20200216_160 Robinson, Mack
 player 1910 Birmingham (Southern Association); @P
 
-#profile Baskette, Jim
-key 20200216_161
+#20200216_161 Baskette, Jim
 player 1910 Toledo (American Association); @P
 
-#profile Savidge, Ralph
-key 20200216_162
+#20200216_162 Savidge, Ralph
 player 1908 Memphis (Southern Association); @P
 player 1909 Montreal (Eastern); @P
 player 1910 Detroit (American); @P
 
-#profile Hornhorst
-key 20200216_163
+#20200216_163 Hornhorst
 player 1909 Augusta (South Atlantic); @1B
 player 1910 Atlanta (Southern Association); @1B TL
 

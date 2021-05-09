@@ -1,7 +1,6 @@
 !citation Scranton Republican @ 1917-03-26; page 10
 
-#profile Parker, Clarence
-key 20191219_001
+#20191219_001 Parker, Clarence
 player 1917 Scranton (New York State); @P
 resides 1917 @ US/NJ/Beach Haven
 
@@ -9,22 +8,19 @@ resides 1917 @ US/NJ/Beach Haven
 
 !citation Scranton Republican @ 1917-05-01; page 10
 
-#profile Parker, Clarence
-key 20191219_002
+#20191219_002 Parker, Clarence
 player 1917 Chambersburg (Blue Ridge)
 
 ---
 
 !citation Atlanta Constitution @ 1915-05-19; page 10
 
-#profile Jordan, Otto
-key 20191219_003
+#20191219_003 Jordan, Otto
 manager 1915 Valdosta (Florida-Alabama-Georgia)
 
 ---
 
 !citation Atlanta Constitution @ 1915-07-22; page 8
 
-#profile Jordan, O.
-key 20191219_004
+#20191219_004 Jordan, O.
 player 1915 Valdosta (Florida-Alabama-Georgia)

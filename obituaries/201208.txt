@@ -3,8 +3,7 @@
 !file Holding_Ralph.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-11-18
 
-#profile Holding, Ralph O., Sr.
-key 201208_Holding
+#201208_001 Holding, Ralph O., Sr.
 birth 1936-10-30
 death 2012-08-24 @ US/MO/Joplin
 college Stanford University

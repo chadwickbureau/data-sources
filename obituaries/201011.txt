@@ -3,7 +3,6 @@
 !file Castleberry_Gael.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-12-11
 
-#profile Castleberry, Gael B.
-key 201011_Castleberry
+#201011_001 Castleberry, Gael B.
 birth 1919
 death 2010-11-01

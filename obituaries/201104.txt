@@ -3,7 +3,6 @@
 !file Barens_Craig.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-10-07
 
-#profile Barnes, Craig Kevin
-key 201104_Barnes
+#201104_001 Barnes, Craig Kevin
 birth 1951-10-26
 death 2011-04-25

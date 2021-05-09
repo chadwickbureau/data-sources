@@ -1,8 +1,7 @@
 !citation Davenport Democrat and Leader @ 1915-08-10; page 9
 
 
-#profile Wolgamot
-key 20200130_001
+#20200130_001 Wolgamot
 player 1915 Rockford (Illinois-Indiana-Iowa); @C
 college Upper Iowa University
 
@@ -11,8 +10,7 @@ college Upper Iowa University
 !citation Waterloo Courier @ 1915-09-08; page 9
 
 
-#profile Wolgamot, Earle
-key 20200130_002
+#20200130_002 Wolgamot, Earle
 player 1915 Rockford (Illinois-Indiana-Iowa)
 
 ---
@@ -20,8 +18,7 @@ player 1915 Rockford (Illinois-Indiana-Iowa)
 !citation South Bend Tribune @ 1915-07-31; page 14
 
 
-#profile Wheeler, Eddie
-key 20200130_003
+#20200130_003 Wheeler, Eddie
 manager 1910 South Bend (Central)
 player 1915 Rockford (Illinois-Indiana-Iowa)
 player 1915 South Bend (Southern Michigan)
@@ -32,8 +29,7 @@ player 1915 South Bend (Southern Michigan)
 !citation Davenport Democrat and Leader @ 1915-07-27; page 8
 
 
-#profile Wheeler, Eddie
-key 20200130_004
+#20200130_004 Wheeler, Eddie
 player 1915 Rockford (Illinois-Indiana-Iowa); @2B
 
 ---
@@ -41,8 +37,7 @@ player 1915 Rockford (Illinois-Indiana-Iowa); @2B
 !citation Streator Times @ 1914-08-10; page 3
 
 
-#profile McIntyre, Steve "Big Steve"
-key 20200130_005
+#20200130_005 McIntyre, Steve "Big Steve"
 player 1914 Ottawa (Illinois-Missouri)
 resides 1914 @ US/IL/Marseilles
 
@@ -51,8 +46,7 @@ resides 1914 @ US/IL/Marseilles
 !citation Decatur Herald @ 1915-06-16; page 4
 
 
-#profile Powers, Bill
-key 20200130_006
+#20200130_006 Powers, Bill
 player 1915 Decatur (Illinois-Indiana-Iowa)
 
 ---
@@ -60,8 +54,7 @@ player 1915 Decatur (Illinois-Indiana-Iowa)
 !citation Decatur Herald @ 1915-07-13; page 4
 
 
-#profile Powers, Bill
-key 20200130_007
+#20200130_007 Powers, Bill
 player 1915 Decatur (Illinois-Indiana-Iowa)
 player <=1915 (Eastern Association)
 
@@ -70,8 +63,7 @@ player <=1915 (Eastern Association)
 !citation Hartford Courant @ 1915-04-28; page 18
 
 
-#profile Powers, Bill
-key 20200130_008
+#20200130_008 Powers, Bill
 player 1915 Binghamton (New York State); TR
 player 1914 Hartford (Eastern Association)
 
@@ -80,8 +72,7 @@ player 1914 Hartford (Eastern Association)
 !citation Boston Globe @ 1915-06-04; page 7
 
 
-#profile Powers, Bill
-key 20200130_009
+#20200130_009 Powers, Bill
 player 1915 Lowell (New England)
 player <=1915 New London (Eastern Association)
 released <=1915-06-04; leave=Lowell (New England)
@@ -91,8 +82,7 @@ released <=1915-06-04; leave=Lowell (New England)
 !citation Bridgeport Farmer @ 1912-01-15; page 7
 
 
-#profile Powers, Bill
-key 20200130_010
+#20200130_010 Powers, Bill
 player 1911 Hartford (Connecticut State)
 player 1912 Kewanee (Central Association)
 awarded <=1912-01-15; join=Kewanee (Central Association)
@@ -102,8 +92,7 @@ awarded <=1912-01-15; join=Kewanee (Central Association)
 !citation Bridgeport Farmer @ 1912-02-19; page 7
 
 
-#profile Powers, Bill
-key 20200130_011
+#20200130_011 Powers, Bill
 player 1911 Hartford (Connecticut State)
 player 1911 Holyoke (Connecticut State)
 player 1912 Mobile (Southern Association)
@@ -115,8 +104,7 @@ traded <=1912-02-19; leave=Mobile (Southern Association); join=Kewanee (Central 
 !citation Decatur Herald @ 1915-07-03; page 4
 
 
-#profile Clark, Jeff
-key 20200130_012
+#20200130_012 Clark, Jeff
 player 1915 Rockford (Illinois-Indiana-Iowa)
 
 ---
@@ -124,8 +112,7 @@ player 1915 Rockford (Illinois-Indiana-Iowa)
 !citation Decatur Herald @ 1915-03-20; page 4
 
 
-#profile Smith, Franklin
-key 20200130_013
+#20200130_013 Smith, Franklin
 playing 1912 Traverse City (Michigan State); P_W=19; P_L=3
 player 1913 Scranton (New York State)
 player 1914 Binghamton (New York State)
@@ -136,8 +123,7 @@ note had arm trouble in 1914
 !citation Waterloo Courier @ 1924-06-06; page 17
 
 
-#profile Barrett, Basil [Mutt]
-key 20200130_014
+#20200130_014 Barrett, Basil [Mutt]
 player 1924 Cedar Rapids (Mississippi Valley)
 college University of Iowa
 
@@ -146,8 +132,7 @@ college University of Iowa
 !citation Decatur Herald @ 1915-05-23; page 7
 
 
-#profile Smith
-key 20200130_015
+#20200130_015 Smith
 player 1914 Appleton (Wisconsin-Illinois)
 player 1915 Atlanta (Southern Association)
 player 1915 Decatur (Illinois-Indiana-Iowa)
@@ -157,8 +142,7 @@ player 1915 Decatur (Illinois-Indiana-Iowa)
 !citation Arkansas Democrat @ 1911-02-02; page 6
 
 
-#profile Smith, Harry
-key 20200130_016
+#20200130_016 Smith, Harry
 player 1910 Jonesboro (Northeast Arkansas)
 player 1911 Waco (Texas)
 resides 1911 @US/AR/Little Rock
@@ -169,8 +153,7 @@ drafted <1911-02-02; join=Waco (Texas); leave=Jonesboro (Northeast Arkansas)
 !citation Lincoln Star @ 1916-07-16; page 29
 
 
-#profile Smith, Harry
-key 20200130_017
+#20200130_017 Smith, Harry
 player 1912 Lincoln (Western)
 player 1916 Lincoln (Western)
 
@@ -179,8 +162,7 @@ player 1916 Lincoln (Western)
 !citation Beloit Daily Call @ 1922-09-16; page 4
 
 
-#profile Smith, Harry
-key 20200130_018
+#20200130_018 Smith, Harry
 player 1922 Lincoln (Nebraska State)
 player 1922 Hastings (Nebraska State)
 note former big leaguer
@@ -190,8 +172,7 @@ note former big leaguer
 !citation Beatrice Daily Express @ 1923-07-20; page 5
 
 
-#profile Smith, Harry
-key 20200130_019
+#20200130_019 Smith, Harry
 player 1922 Lincoln (Nebraska State)
 player 1923 Hastings (Nebraska State)
 
@@ -200,8 +181,7 @@ player 1923 Hastings (Nebraska State)
 !citation Wichita Daily Eagle @ 1911-05-23; page 7
 
 
-#profile Smith, Harry
-key 20200130_020
+#20200130_020 Smith, Harry
 player 1911 Lincoln (Western)
 player 1911 Fremont (Nebraska State)
 purchased <1911-01-01; join=Lincoln (Western); leave=Fremont (Nebraska State)
@@ -211,8 +191,7 @@ purchased <1911-01-01; join=Lincoln (Western); leave=Fremont (Nebraska State)
 !citation York Daily Record @ 1924-09-17; page 8
 
 
-#profile Brown, George
-key 20200130_021
+#20200130_021 Brown, George
 player 1924 Hagerstown (Blue Ridge)
 
 ---
@@ -220,8 +199,7 @@ player 1924 Hagerstown (Blue Ridge)
 !citation Chambersburg Public Opinion @ 1923-06-18; page 4
 
 
-#profile Smith, Fats
-key 20200130_022
+#20200130_022 Smith, Fats
 player 1923 Chambersburg (Blue Ridge)
 resides 1923 @ US/PA/Shippensburg
 highschool Shippensburg High School; dates=/1923; degree=graduated
@@ -231,8 +209,7 @@ highschool Shippensburg High School; dates=/1923; degree=graduated
 !citation Spokane Spokesman-Review @ 1913-07-02; page 15
 
 
-#profile Smith, Fats
-key 20200130_023
+#20200130_023 Smith, Fats
 player 1913 Victoria (Northwestern)
 player 1913 Spokane (Northwestern)
 acquired <=1913-07-02; join=Spokane (Northwestern); leave=Victoria (Northwestern); for=Toner, Red
@@ -242,8 +219,7 @@ acquired <=1913-07-02; join=Spokane (Northwestern); leave=Victoria (Northwestern
 !citation Beatrice Daily Express @ 1912-06-21; page 3
 
 
-#profile Smith, Walter
-key 20200130_024
+#20200130_024 Smith, Walter
 player 1912 Beatrice (Missouri-Iowa-Nebraska-Kansas)
 player 1912 Superior (Northern)
 acquired <=1912-06-21; join=Superior (Northern); leave=Beatrice (Missouri-Iowa-Nebraska-Kansas); for=Hodges
@@ -254,8 +230,7 @@ resides 1912 @ US/WA/Spokane
 !citation Louisville Courier-Journal @ 1911-02-26; page 36
 
 
-#profile Smith, Walter Willard
-key 20200130_025
+#20200130_025 Smith, Walter Willard
 player 1911 Detroit (American); H76
 
 ---
@@ -263,8 +238,7 @@ player 1911 Detroit (American); H76
 !citation Fort Wayne Standard @ 1911-06-02; page 8
 
 
-#profile Smith, Walter
-key 20200130_026
+#20200130_026 Smith, Walter
 player 1911 Fort Wayne (Central); @P
 note pitched so well manager changed his mind about sending him to Southern Michigan League
 
@@ -273,8 +247,7 @@ note pitched so well manager changed his mind about sending him to Southern Mich
 !citation Detroit Free Press @ 1911-08-04; page 10
 
 
-#profile Smith, Walter
-key 20200130_027
+#20200130_027 Smith, Walter
 player 1911 Saginaw (Southern Michigan)
 player <=1911 Detroit (American)
 

@@ -3,6 +3,5 @@
 !file Sagano_Noboru.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-11-30
 
-#profile Sagano, Noboru
-key 201001_Sagano
+#201001_001 Sagano, Noboru
 death 2010-01-31

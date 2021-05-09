@@ -3,8 +3,7 @@
 !file Kauppi_Donald.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-01-13
 
-#profile Kauppi, Donald Keith
-key 201802_Kauppi 
+#201802_001 Kauppi, Donald Keith
 birth @ US/MA/Gardner
 death 2018-02-26
 military US Navy @ World War II
@@ -16,8 +15,7 @@ military US Navy @ World War II
 !file Mason_Fred.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-10-04
 
-#profile Mason, Frederick A. [Fred]
-key 201802_Mason
+#201802_002 Mason, Frederick A. [Fred]
 birth 1936-02-06 @ US/DE/Wilmington
 death 2018-02-20 @ US/DE/Wilmington
 highschool Howard HS @ US/DE/Wilmington
@@ -30,8 +28,7 @@ military US Army
 !file Taneda_Hiroshi.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-09-14
 
-#profile Taneda, Hiroshi
-key 201802_Taneda
+#201802_003 Taneda, Hiroshi
 death 2018-02-12
 
 ---
@@ -41,8 +38,7 @@ death 2018-02-12
 !file Takakura_Teruyuki.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-09-14
 
-#profile Takakura, Terayuki
-key 201802_Takakura
+#201802_004 Takakura, Terayuki
 death 2018-02-12 @ JP//Fukuoka
 
 ---
@@ -52,8 +48,7 @@ death 2018-02-12 @ JP//Fukuoka
 !file Skrzypczak_Ray.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-07-20
 
-#profile Skrzypczak, Raymond Francis [Ray]
-key 201802_Skrzypczak
+#201802_005 Skrzypczak, Raymond Francis [Ray]
 birth 1929-10-13 @ US/NY/Buffalo
 death 2018-02-13 @ US/OK/Tulsa
 military US Army @ Korean War
@@ -65,8 +60,7 @@ military US Army @ Korean War
 !file Mitsuyoshi_Ben.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-07-17
 
-#profile Mitsuyoshi, Ben
-key 201802_Mitsuyoshi
+#201802_006 Mitsuyoshi, Ben
 birth 1928-05-21 @ US/CA/Armona
 death 2018-02-01 @ US/CA/Santa Rosa
 military US Army @ Korean War
@@ -79,6 +73,5 @@ burial Hanford Cemetery @ US/CA/Hanford
 !file Jimenez_Ronald.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-06-09
 
-#profile Jiménez (Martinez), Ronald Adrián "El Ronita"
-key 201802_Jimenez
+#201802_007 Jiménez (Martinez), Ronald Adrián "El Ronita"
 death 2018-02-21 @ VE/Vargas/Caracas

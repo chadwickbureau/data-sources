@@ -3,8 +3,7 @@
 !file Huff_Jim.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-05-14
 
-#profile Huff, James R. [Jim]
-key 201403_Huff
+#201403_001 Huff, James R. [Jim]
 birth 1950-06-14 @ US/CA/Berkeley
 death 2014-03-28 @ US/CA/Stockton
 highschool Del Valle HS @ US/CA/Walnut Creek
@@ -17,6 +16,5 @@ college University of California, Berkeley
 !file McCabe_Don.pdf
 !contributor John Hall <j03.john@gmail.com> @ 2014-05-05
 
-#profile McCabe, Donald G. [Don]
-key 201403_McCabe
+#201403_002 McCabe, Donald G. [Don]
 death 2014-03-20

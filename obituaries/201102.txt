@@ -3,8 +3,7 @@
 !file Lorman_Doug.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-02-17
 
-#profile Lorman, Douglas George [Doug] 
-key 201102_Lorman
+#201102_001 Lorman, Douglas George [Doug] 
 birth 1922-03-25 @ US/IL/Chicago
 death 2011-02-05 @ US/NC/Lumberton
 highschool Schurz HS @ US/IL/Chicago

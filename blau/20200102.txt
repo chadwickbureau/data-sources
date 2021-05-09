@@ -1,7 +1,6 @@
 !citation Thomasville Daily Times Enterprise @ 1915-04-29; page 5
 
-#profile Mosely
-key 20200102_001
+#20200102_001 Mosely
 player 1915 Americus (Florida-Alabama-Georgia); @P TL
 
 ---
@@ -9,8 +8,7 @@ player 1915 Americus (Florida-Alabama-Georgia); @P TL
 !citation Anadarko Tribune @ 1920-08-05; page 8
 
 
-#profile Moseley, Conde
-key 20200102_002
+#20200102_002 Moseley, Conde
 player 1920 Pawhuska (Western Association)
 player 1920 Oklahoma City (Western)
 obtained <=1920-08-05; join=Pawhuska (Western Association); leave=Oklahoma City (Western)
@@ -19,8 +17,7 @@ obtained <=1920-08-05; join=Pawhuska (Western Association); leave=Oklahoma City 
 
 !citation El Paso Herald @ 1920-06-29; page 9
 
-#profile Moseley, Conde
-key 20200102_003
+#20200102_003 Moseley, Conde
 player 1920 Oklahoma City (Western)
 note out of pro ball for several years, has been coaching at Baylor Univ.
 
@@ -28,28 +25,24 @@ note out of pro ball for several years, has been coaching at Baylor Univ.
 
 !citation Thomasville Daily Times Enterprise @ 1915-05-25; page 5
 
-#profile Pearson
-key 20200102_004
+#20200102_004 Pearson
 player 1915 Thomasville (Florida-Alabama-Georgia); TR
 
 ---
 
 !citation Thomasville Daily Times Enterprise @ 1915-06-11; page 7
 
-#profile Cooper, Ty
-key 20200102_005
+#20200102_005 Cooper, Ty
 player 1915 Thomasville (Florida-Alabama-Georgia); @P
 
-#profile Pittman, Walter
-key 20200102_006
+#20200102_006 Pittman, Walter
 player 1915 Thomasville (Florida-Alabama-Georgia)
 
 ---
 
 !citation Brunswick (GA) News @ 1915-06-20; page 6
 
-#profile Reagan, Rip
-key 20200102_007
+#20200102_007 Reagan, Rip
 player 1915 Griffin (Georgia-Alabama)
 manager 1915 Griffin (Georgia-Alabama)
 
@@ -57,8 +50,7 @@ manager 1915 Griffin (Georgia-Alabama)
 
 !citation Charlotte News @ 1919-05-20; page 16
 
-#profile Kirk, Bob
-key 20200102_008
+#20200102_008 Kirk, Bob
 player 1919 Charlotte (South Atlantic)
 player <1919 (North Carolina State)
 note borrowed from Spencer semi-pro team
@@ -67,8 +59,7 @@ note borrowed from Spencer semi-pro team
 
 !citation Charlotte Observer @ 1920-09-01; page 8
 
-#profile Kirke, Bob
-key 20200102_009
+#20200102_009 Kirke, Bob
 player 1919 Charlotte (South Atlantic); TR
 birth @ US/NC/China Grove
 

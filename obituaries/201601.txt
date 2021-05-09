@@ -3,8 +3,7 @@
 !file Sautter_Jack.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-07-20
 
-#profile Sautter, Jack
-key 201601_Sautter
+#201601_001 Sautter, Jack
 birth 1930-04-06 @ US/MT/Piedmont
 death 2016-01-23
 highschool Broadwater HS @ US/MT/Townsend

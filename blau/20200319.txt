@@ -1,8 +1,7 @@
 !citation Philadelphia Times @ 1898-05-29; page 15
 
 
-#profile Culver, Charles
-key 20200319_001
+#20200319_001 Culver, Charles
 player 1898 Allentown (Atlantic)
 player 1898 Derby (Connecticut State)
 
@@ -11,8 +10,7 @@ player 1898 Derby (Connecticut State)
 !citation Reading Times @ 1907-09-07; page 1
 
 
-#profile Culver, Charles
-key 20200319_002
+#20200319_002 Culver, Charles
 player 1898 Reading (Atlantic)
 player 1907 Tamaqua (Atlantic)
 player 1901 Birmingham (Southern Association)
@@ -22,8 +20,7 @@ player 1901 Birmingham (Southern Association)
 !citation Waco Morning News @ 1915-03-14; page 3
 
 
-#profile Shaffer
-key 20200319_003
+#20200319_003 Shaffer
 player 1915 Temple (Middle Texas)
 player 1914 Waxahachie (Central Texas)
 purchased <=1915-03-14; join=Temple (Middle Texas); leave=Waxahachie (Central Texas); withconsideration=$350
@@ -33,12 +30,10 @@ purchased <=1915-03-14; join=Temple (Middle Texas); leave=Waxahachie (Central Te
 !citation Boston Globe @ 1915-01-01; page 7
 
 
-#profile Scott, Chas. W.
-key 20200319_004
+#20200319_004 Scott, Chas. W.
 player 1914 Saginaw (Southern Michigan); BR TR H70 W172
 
-#profile Ostergren, Fred V.
-key 20200319_005
+#20200319_005 Ostergren, Fred V.
 player 1914 Manchester (New England); BR TR H71 W185
 
 
@@ -47,8 +42,7 @@ player 1914 Manchester (New England); BR TR H71 W185
 !citation Brenham Daily Banner-Press @ 1915-06-07; page 1
 
 
-#profile Mack
-key 20200319_006
+#20200319_006 Mack
 player 1915 Brenham (Middle Texas)
 player 1914 Georgetown (Middle Texas)
 
@@ -57,13 +51,11 @@ player 1914 Georgetown (Middle Texas)
 !citation Brenham Daily Banner-Press @ 1915-03-17; page 1
 
 
-#profile Craig, Oral
-key 20200319_007
+#20200319_007 Craig, Oral
 player 1915 Brenham (Middle Texas); TL
 resides 1915 @ US/TX/Sugarland 
 
-#profile Hightower, L. V.
-key 20200319_008
+#20200319_008 Hightower, L. V.
 player 1915 Brenham (Middle Texas)
 resides 1915 @ US/TX/Cleveland 
 
@@ -72,8 +64,7 @@ resides 1915 @ US/TX/Cleveland
 !citation Brenham Daily Banner-Press @ 1915-06-03; page 4
 
 
-#profile Gordon, Bill
-key 20200319_009
+#20200319_009 Gordon, Bill
 manager 1915 Temple (Middle Texas)
 player 1912 Durant (Texas-Oklahoma)
 player 1914 (Middle Texas)
@@ -83,8 +74,7 @@ player 1914 (Middle Texas)
 !citation Brenham Daily Banner-Press @ 1915-05-18; page 1
 
 
-#profile Cole
-key 20200319_020
+#20200319_010 Cole
 player 1915 Brenham (Middle Texas); TL
 
 ---
@@ -92,8 +82,7 @@ player 1915 Brenham (Middle Texas); TL
 !citation Brenham Daily Banner-Press @ 1915-05-18; page 3
 
 
-#profile Angel, Jim
-key 20200319_021
+#20200319_011 Angel, Jim
 player 1915 Temple (Middle Texas)
 
 ---
@@ -101,8 +90,7 @@ player 1915 Temple (Middle Texas)
 !citation Brenham Daily Banner-Press @ 1915-05-18; page 6
 
 
-#profile Fuller, John
-key 20200319_022
+#20200319_012 Fuller, John
 player 1915 Brenham (Middle Texas)
 manager 1915 Brenham (Middle Texas)
 player 1915 Shreveport (Texas); @2B
@@ -112,8 +100,7 @@ player 1915 Shreveport (Texas); @2B
 !citation Shreveport Journal @ 1915-08-26; page 7
 
 
-#profile Fuller
-key 20200319_023
+#20200319_013 Fuller
 player 1919 Shreveport (Texas); @P
 obtained <=1919-08-26; join=Shreveport (Texas); leave=Washington (American)
 
@@ -122,8 +109,7 @@ obtained <=1919-08-26; join=Shreveport (Texas); leave=Washington (American)
 !citation San Antonio Evening News @ 1919-05-17; page 11
 
 
-#profile Fuller, Frank
-key 20200319_024
+#20200319_014 Fuller, Frank
 player 1919 San Antonio (Texas)
 
 ---
@@ -131,8 +117,7 @@ player 1919 San Antonio (Texas)
 !citation Brenham Daily Banner-Press @ 1915-04-22; page 6
 
 
-#profile Schmid, Mike
-key 20200319_025
+#20200319_015 Schmid, Mike
 player 1915 Brenham (Middle Texas)
 resides 1915 @ US/TX/Brenham
 
@@ -141,12 +126,10 @@ resides 1915 @ US/TX/Brenham
 !citation Brenham Daily Banner-Press @ 1915-06-16; page 4
 
 
-#profile Darnaby
-key 20200319_026
+#20200319_016 Darnaby
 player 1915 Temple (Middle Texas); BL
 
-#profile Trammell
-key 20200319_027
+#20200319_017 Trammell
 player 1915 Temple (Middle Texas); BL
 
 

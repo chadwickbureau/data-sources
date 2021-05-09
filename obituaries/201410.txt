@@ -3,8 +3,7 @@
 !file Segovia_Larry.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-10-08
 
-#profile Segovia, Laurence, Jr. [Larry]
-key 201410_Segovia
+#201410_001 Segovia, Laurence, Jr. [Larry]
 birth 1932-11-29 @ US/CA/Monterey
 death 2014-10-02 @ US/CA/Pacific Grove
 burial Monterey City Cemetery @ US/CA/Monterey
@@ -16,8 +15,7 @@ burial Monterey City Cemetery @ US/CA/Monterey
 !file Rathje_Larry.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-10-08
 
-#profile Rathje, Larry Gilbert
-key 201410_Rathje
+#201410_002 Rathje, Larry Gilbert
 birth 1945-08-02 @ US/IA/Davenport
 death 2014-10-05 @ US/IA/Davenport
 highschool Davenport Central HS @ US/IA/Davenport
@@ -30,8 +28,7 @@ college University of Iowa
 !file Peck_Bob.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-10-07
 
-#profile Peck, Robert Paul [Bob]
-key 201410_Peck
+#201410_003 Peck, Robert Paul [Bob]
 birth 1933-12-19 @ US/OK/Cement
 death 2014-10-03
 highschool Cement HS @ US/OK/Cement
@@ -44,8 +41,7 @@ burial Cement Cemetery @ US/OK/Cement
 !file Hitt_Ray.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-10-07
 
-#profile Hitt, Ray C.
-key 201410_Hitt
+#201410_004 Hitt, Ray C.
 birth 1925-08-25
 death 2014-10-04
 military US Army @ World War II
@@ -58,8 +54,7 @@ burial Pineview Memorial Gardens @ US/SC/North Augusta
 !file Hayes_Greg.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-10-06
 
-#profile Hayes, Gregory T. [Greg]
-key 201410_Hayes
+#201410_005 Hayes, Gregory T. [Greg]
 birth 1924-11-18 @ CA/NL/Brigus
 death 2014-10-02
 highschool Camden HS @ US/NJ/Camden
@@ -72,8 +67,7 @@ burial Calvary Cemetery @ US/NJ/Cherry Hill
 !file McNamara_John.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2014-10-02
 
-#profile McNamara, John J.
-key 201410_McNamara
+#201410_006 McNamara, John J.
 birth 1923-02-03 @ US/MA/Millville
 death 2014-10-01 @ US/MA/Millville
 highschool St. Mary's HS @ US/MA/Milford

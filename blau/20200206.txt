@@ -1,8 +1,7 @@
 !citation Davenport Daily Times @ 1915-01-11; page 13
 
 
-#profile Dunphy
-key 20200206_001
+#20200206_001 Dunphy
 player 1915 Dubuque (Illinois-Indiana-Iowa); TL
 player 1914 Austin
 
@@ -11,8 +10,7 @@ player 1914 Austin
 !citation Cedar Rapids Gazette @ 1915-06-23; page 8
 
 
-#profile McGill
-key 20200206_002
+#20200206_002 McGill
 player 1915 Mobile (Southern Association)
 player 1915 Cedar Rapids (Central Association)
 player 1915 Dubuque (Illinois-Indiana-Iowa)
@@ -23,8 +21,7 @@ notes released by Cedar Rapids due to ineligibility, signed by Dubuque
 !citation Nashville Banner @ 1913-03-17; page 8
 
 
-#profile McGill, Billy
-key 20200206_003
+#20200206_003 McGill, Billy
 player 1913 Mobile (Southern Association)
 player <=1913 Newark; location=US/NJ/Newark; caliber=semipro
 
@@ -33,8 +30,7 @@ player <=1913 Newark; location=US/NJ/Newark; caliber=semipro
 !citation Chicago Inter Ocean @ 1914-04-14; page 14
 
 
-#profile McGuff, Michael
-key 20200206_004
+#20200206_004 McGuff, Michael
 player 1914 Fort Wayne (Central); H74
 
 ---
@@ -42,8 +38,7 @@ player 1914 Fort Wayne (Central); H74
 !citation Davenport Daily Times @ 1915-06-11; page 18
 
 
-#profile Thomas, Turkey
-key 20200206_005
+#20200206_005 Thomas, Turkey
 player 1915 Dubuque (Illinois-Indiana-Iowa)
 college University of Alabama
 
@@ -52,8 +47,7 @@ college University of Alabama
 !citation Davenport Democrat and Leader @ 1916-04-13; page 8
 
 
-#profile Thomas, Dave
-key 20200206_006
+#20200206_006 Thomas, Dave
 player 1915 Freeport (Illinois-Indiana-Iowa)
 player 1916 Hannibal (Illinois-Indiana-Iowa)
 
@@ -62,8 +56,7 @@ player 1916 Hannibal (Illinois-Indiana-Iowa)
 !citation Moline Dispatch @ 1915-08-02; page 6
 
 
-#profile Meyer, Lee
-key 20200206_007
+#20200206_007 Meyer, Lee
 player <=1915 Trenton
 player 1915 Rockford (Illinois-Indiana-Iowa)
 
@@ -73,8 +66,7 @@ player 1915 Rockford (Illinois-Indiana-Iowa)
 !citation Sporting News @ 1931-02-19; page 4
 
 
-#profile Haley, Raymond
-key 20200206_008
+#20200206_008 Haley, Raymond
 player 1913 Kewanee (Central Association)
 player 1928 Terre Haute (Illinois-Indiana-Iowa)
 player 1910 Columbus (Nebraska State)
@@ -87,8 +79,7 @@ player 1909 Battle Creek (Southern Michigan)
 !url https://sabr.org/bioproj/person/8d32e75f
 
 
-#profile Haley, Raymond
-key 20200206_009
+#20200206_009 Haley, Raymond
 player 1915 Providence (International)
 player 1930 Raleigh (Piedmont)
 
@@ -97,7 +88,6 @@ player 1930 Raleigh (Piedmont)
 !citation Washington Times @ 1915-02-25; page 12
 
 
-#profile Snow, Graeme
-key 20200206_010
+#20200206_010 Snow, Graeme
 player 1914 Oshkosh (Wisconsin-Illinois)
 player 1915 Newark (International)

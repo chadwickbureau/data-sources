@@ -3,8 +3,7 @@
 !file Clark_Glen.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2019-01-07
 
-#profile Clark, Glen
-key 201801_Clark
+#201801_001 Clark, Glen
 birth 1940-03-10
 death 2018-01-25
 
@@ -15,8 +14,7 @@ death 2018-01-25
 !file Gonzalez_Wenceslao.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-10-05
 
-#profile Gonzalez (Limon), Wenceslao "Chalayo"
-key 201801_Gonzalez
+#201801_002 Gonzalez (Limon), Wenceslao "Chalayo"
 death 2018-01-12 @ MX/Coahuila/Sabinas
 
 ---
@@ -26,8 +24,7 @@ death 2018-01-12 @ MX/Coahuila/Sabinas
 !file Betz_Robert.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-10-04
 
-#profile Betz, Robert Joseph
-key 201801_Betz
+#201801_003 Betz, Robert Joseph
 birth 1924-09-18 @ US/IA/Sioux City
 death 2018-01-11
 highschool Trinity HS @ US/IA/Sioux City
@@ -41,8 +38,7 @@ burial Arlington National Cemetery @ US/VA/Arlington
 !file Savage_Hank.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-10-03
 
-#profile Savage, William Henry [Hank]
-key 201801_Savage
+#201801_004 Savage, William Henry [Hank]
 birth 1926-10-12
 death 2018-01-03
 
@@ -53,8 +49,7 @@ death 2018-01-03
 !file Avant_Willie.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-09-11
 
-#profile Avant, William Ray [Willie]
-key 201801_Avant
+#201801_005 Avant, William Ray [Willie]
 birth 1932-09-22 @ US/AR/Hampton
 death 2018-01-31
 describe ; TL
@@ -66,8 +61,7 @@ describe ; TL
 !file Katahira_Shinsaku.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-09-11
 
-#profile Katahira, Shinsaku
-key 201801_Katahira
+#201801_006 Katahira, Shinsaku
 death 2018-01-22
 
 ---
@@ -77,8 +71,7 @@ death 2018-01-22
 !file Dobrino_Thomas.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-07-20
 
-#profile Dobrino, Thomas Michael
-key 201801_Dobrino
+#201801_007 Dobrino, Thomas Michael
 birth 1931-05-12 @ US/IL/Mount Olive
 death 2018-01-16 @ US/CA/Escondido
 highschool Mount Olive HS @ US/IL/Mount Olive
@@ -92,8 +85,7 @@ burial Calvary Cemetery @ US/IL/Mount Olive
 !file Bellino_Raymond.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-07-17
 
-#profile Bellino, Raymond A.
-key 201801_Bellino
+#201801_008 Bellino, Raymond A.
 birth 1932 @ US/NJ/Jersey City
 death 2018-01-14 @ US/NJ/Edison
 military US Army 
@@ -106,8 +98,7 @@ burial Brigadier General William C. Doyle Memorial Cemetery @ US/NJ/Wrightstown
 !file Venditto_Al.pdf
 !contributor Jack Morris <jackmo77@comcast.net> @ 2018-07-17
 
-#profile Venditto, Alfred Stephen [Al]
-key 201801_Venditto
+#201801_009 Venditto, Alfred Stephen [Al]
 birth 1925-12-26 @ US/RI/Cranston
 death 2018-01-28 @ US/NC/Newport
 highschool La Salle Academy @ US/RI/Providence
