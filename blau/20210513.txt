@@ -1,0 +1,97 @@
+!citation George Chalmers Biography
+!url https://sabr.org/bioproj/person/george-chalmers/
+
+#20210513_001 Chalmers, George
+player 1917 Kansas City (American Association)
+player 1915 Philadelphia (National)
+
+---
+
+!citation Rochester Democrat and Chronicle @ 1917-12-25; page 13
+
+#20210513_002 Blackburn, Earl
+player 1917 Columbus (American Association)
+player 1917 Chicago (National)
+player 1917 Providence (International)
+
+---
+
+!citation Elmira Star-Gazette @ 1925-03-11; page 8
+
+#20210513_003 Gardner, Osborne
+player 1925 New York (American); TL
+player 1924 Bellingham (Northwest Washington)
+college Washington University
+
+---
+
+!citation Chambersburg Public Opinion @ 1917-06-06; page 5
+
+#20210513_004 Corbett
+player 1917 Scranton (New York State)
+player 1917 Chambersburg (Blue Ridge)
+
+---
+
+!citation Scranton Tribune @ 1917-05-23; page 12
+
+#20210513_005 Corbett
+player 1917 Scranton (New York State)
+resides 1917@US/NY/New York
+
+---
+
+!citation Chambersburg Public Opinion @ 1917-05-11; page 1
+
+#20210513_006 Johnson, Stuffy
+player 1917 Chambersburg (Blue Ridge)
+
+---
+
+!citation Chambersburg Public Opinion @ 1917-04-30; page 5
+
+#20210513_007 Johnson, Stuffy
+player 1916 Martinsburg (Blue Ridge)
+
+---
+
+!citation Chambersburg Public Opinion @ 1917-05-22; page 5
+
+#20210513_008 Heinsius
+player 1917 Chambersburg (Blue Ridge); @LF
+player 1917 Gettysburg (Blue Ridge)
+acquired <=1917-05-21 by Chambersburg (Blue Ridge) from Gettysburg (Blue Ridge)
+
+#20210513_009 Lyons, Louie
+player 1917 Chambersburg (Blue Ridge); @P
+acquired <=1917-05-21 by Chambersburg (Blue Ridge) from Baltimore (International)
+
+---
+
+!citation Chambersburg Public Opinion @ 1917-07-07; page 5
+
+#20210513_010 Lyons
+player 1917 Chambersburg (Blue Ridge)
+player 1917 Martinsburg (Blue Ridge)
+
+---
+
+!citation Harrisburgh Telegram @ 1917-07-13; page 16
+
+#20210513_011 Garverich, Lester
+player 1917 Hagerstown (Blue Ridge)
+
+---
+
+!citation Harrisburgh Telegram @ 1917-08-11; page 2
+
+#20210513_012 Sykes, Bill
+player 1917 Gettysburg (Blue Ridge)
+
+---
+
+!citation Gettysburg Times @ 1917-05-14; page 3
+
+#20210513_013 Kelly, Leo
+player 1917 Gettysburg (Blue Ridge)
+player 1917 Reading (New York State)

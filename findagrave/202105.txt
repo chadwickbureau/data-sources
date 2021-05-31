@@ -57,3 +57,53 @@ sameas findagrave:200096692
 birth 1921-11-08 @ US/NY/Brooklyn
 death 2019-05-06 @ US/HI/Kailua
 burial Hawaii State Veterans Cemetery @ US/HI/Kaneohe
+
+---
+ 
+!citation findagrave.com @ 2021-05-09
+!url https://www.findagrave.com/memorial/206024387/daniel-dankel-oberholzer
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-09
+ 
+#202105_006 Oberholzer, Daniel Dankel
+sameas findagrave:206024387
+birth 1905-10-15 @ US/PA/Macungie
+death 1972-06-09 @ US/CA/Santa Cruz
+burial Oakwood Memorial Park @ US/CA/Santa Cruz
+
+---
+ 
+!citation findagrave.com @ 2021-05-09
+!url https://www.findagrave.com/memorial/196464448/eddie-d.-jacome
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-09
+ 
+#202105_007 Jacome, Eddie D.
+sameas findagrave:196464448
+birth 1929-05
+death 1972-08
+burial South Lawn Memorial Cemetery @ US/AZ/Tucson
+
+---
+ 
+!citation findagrave.com @ 2021-05-10
+!url https://www.findagrave.com/memorial/181243542/neil-alexander-richardson
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-10
+ 
+#202105_008 Richardson, Neil Alexander
+sameas findagrave:181243542
+birth 1927-12-14 @ US/OR/Hugo
+death 2014
+burial West Lawn Memorial Park @ US/OR/Eugene
+
+---
+ 
+!citation findagrave.com @ 2021-05-11
+!url https://www.findagrave.com/memorial/104015541/osborne-gardner
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-11
+ 
+#202105_009 Gardner, Osborne
+sameas findagrave:104015541
+birth 1901-07-14
+death 1978-06-16
+military US Army @ World War II
+burial Masonic Memorial Park @ US/WA/Tumwater
+

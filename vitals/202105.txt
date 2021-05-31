@@ -37,3 +37,29 @@ birth 1913-07-19 @ US/PA/Erie
  
 #202105_005 Recca, Salvatore Bernard
 birth 1921-11-08 @ US/NY/Brooklyn
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-09
+ 
+#202105_006 Oberholzer, Daniel Dankel
+birth 1905-10-08 @ US/PA/Macungie
+
+---
+
+!citation Arizona Birth Certificate, 1880-1935
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-09
+ 
+#202105_007 Jacome (Duarte), Eddieberto
+birth 1929-05-08 @ US/AZ/Tucson
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-11
+ 
+#202105_008 Gardner, Osborne
+birth 1901-07-14 @ US/WA/Tacoma
+address @ US/WA/Nisqually
+
