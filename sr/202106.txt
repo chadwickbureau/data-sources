@@ -1,0 +1,228 @@
+!citation The Saint Paul Globe @ 1902-08-03; page 10
+!url https://www.newspapers.com/image/84112649/ 
+!file Daugherty_T.png
+!contributor Charlotte Eisenberg ce@sports-reference.com @ 2021-05-19
+
+#202106_001 Daugherty, T.
+player 1902 Crookston (Northern League)
+player 1902 St. Paul (American Association)
+
+#202106_002 Phyle, William
+player 1902 Minneapolis (American Association)
+player 1902 San Francisco (California)
+
+---
+
+!citation The Sporting News @ 1922-11-09; page 3
+!url https://paperofrecord.hypernet.ca/paper_view.asp?PaperId=834&RecordId=1&PageId=7775314&iZyNetId=%7B94FC30CB-3620-4D7F-A585-B2160D294F6C%7D&iOrder=2&iOrderDir=0&iCurrentBlock=1
+!file Drafts1922.png
+!contributor Charlotte Eisenberg ce@sports-reference.com @ 2021-05-24
+
+#202106_003 Trefry, A. H.
+drafted 1922-11 by Birmingham from Charlotte
+
+#202106_004 Hindt, Charles
+drafted 1922-11 by Chattanooga from Kitchner
+
+#202106_005 Wendell, Lew
+drafted 1922-11 by Galveston from Charlotte
+
+#202106_006 Clarkson, William
+drafted 1922-11 by Galveston from Columbia
+
+#202106_007 Kearns, E. J.
+drafted 1922-11 by Galveston from Columbia
+
+#202106_008 Smythe, W. H.
+drafted 1922-11 by Augusta from Lakeland
+
+#202106_009 Powell, J. G.
+drafted 1922-11 by Atlanta from High Point
+
+#202106_010 Lundgren, Delmar
+drafted 1922-11 by Flint from Salina
+
+#202106_011 Whitnell, A. E.
+drafted 1922-11 by Joplin from Fulton
+
+#202106_012 Leroy, Jack
+drafted 1922-11 by Danville VA from Greenville TN
+
+#202106_013 Valentine, George
+drafted 1922-11 by Raleigh from Cedar Rapids
+
+---
+
+!citation The Boston Globe @ 1927-05-20; page 26
+!url https://www.newspapers.com/image/431064796/?terms=bennett&match=1 
+!file Bennett.png
+!contributor Charlotte Eisenberg ce@sports-reference.com @ 2021-05-21
+
+#202106_014 Bennett, Francis
+playing 1927 Portland (New England)
+
+#202106_015 Doughan, Johnny
+playing 1927 Nashua (New England)
+
+---
+
+!citation Artistic Sports Complex @ 2021-05-27
+!url https://www.artisticstitchsportscomplex.com/oreste_marrero.php
+!file Marrero.png
+!contributor Charlotte Eisenberg ce@sports-reference.com @ 2021-05-27
+
+#202106_016 Marrero, Oreste
+highschool Agustin Stahl HS @ PR//Bayamon
+
+---
+
+!citation The Waco News-Tribune @ 1921-07-09; page 9
+!url https://www.newspapers.com/clip/57351700/untitled/
+!file Fulghum.png
+!contributor Charlotte Eisenberg ce@sports-reference.com @ 2021-05-27
+
+#202106_017 Fulghum, Dot
+player 1921 Augusta (South Atlantic League)
+
+---
+
+!citation The Orlando Sentinel @ 1961-05-09; page 20
+!url https://www.newspapers.com/image/223845591/?terms=%22Jack%20Billingham%22%20baseball%20winter%20park&match=1
+!file Billingham.png
+!contributor Charlotte Eisenberg ce@sports-reference.com @ 2021-06-03
+
+#202106_018 Billingham, Jack
+highschool Winter Park High School @ US/FL/Winter Park
+
+---
+
+!citation The Orlando Sentinel @ 1988-03-29; page 9
+!url https://www.newspapers.com/image/229865253/?terms=%22john%20zuber%22%20campolindo&match=2
+!file Zuber.png
+!contributor Charlotte Eisenberg ce@sports-reference.com @ 2021-06-08
+
+#202106_019 Zuber, John
+highschool Campolindo High School @ US/CA/Moraga
+
+---
+
+!citation Hamilton Evening Journal @ 1909-09-23; page 7
+!url https://www.newspapers.com/image/16393539/?terms=%22ernie%20diehl%20making%20good%22&match=1
+!file Diehl.jpeg
+!contributor Charlotte Eisenberg ce@sports-reference.com @ 2021-06-03
+
+#202106_020 Diehl, Ernie
+playing 1909 Louisville (American Association)
+
+---
+
+!citation Messenger-Inquirer @ 1976-10-03; page 13
+!url https://www.newspapers.com/image/379418729/?terms=%22dave%20watkins%22%20owensboro&match=1
+!file Watkins.png
+!contributor Charlotte Eisenberg ce@sports-reference.com @ 2021-06-08
+
+#202106_021 Watkins, Dave
+highschool Owensboro High School @ US/KY/Owensboro
+
+---
+
+!citation The Boston Globe @ 1910-04-28; page 6
+!url https://www.newspapers.com/clip/27354390/the-boston-globe/
+!file Cook1910.png
+!contributor Charlotte Eisenberg ce@sports-reference.com @ 2021-06-11
+
+#202106_022 Cook, Fred
+player 1909 Cleveland (American League)
+player 1910 Grand Rapids (Central League)
+player 1910 Columbus (American Association)
+
+---
+
+!citation The Windsor Star @ 1916-06-21; page 8
+!url https://www.newspapers.com/clip/27358017/the-windsor-star/
+!file Cook1916.png
+!contributor Charlotte Eisenberg ce@sports-reference.com @ 2021-06-11
+
+#202106_023 Cook, Fred
+player 1916 Toronto (International League)
+
+---
+
+!citation The Times @ 1910-07-23; page 5
+!url https://www.newspapers.com/image/543324457/?terms=%22pitcher%20recalled%22%20higgins&match=1
+!file Higgins.png
+!contributor Charlotte Eisenberg ce@sports-reference.com @ 2021-06-11
+
+#202106_024 Higgins, Edward
+resides 1910 @ US/IL/Dwight
+player 1910 Bloomington (Illinois-Indiana-Iowa League)
+player 1910 St. Louis (National League)
+
+---
+
+!citation Las Vegas Sun @ 2011-06-06
+!url https://lasvegassun.com/news/2011/jun/06/spring-valley-high-grad-tyler-anderson-expected/
+!contributor Charlotte Eisenberg ce@sports-reference.com @ 2021-06-10
+
+#202106_025 Anderson, Tyler
+highschool Spring Valley High School @ US/NV/Las Vegas
+
+---
+
+!citation WBEZ Chicago @ 2012-05-08
+!url https://www.wbez.org/stories/the-path-to-major-league-baseball-has-more-than-one-road/d92cfc2c-5e49-4bbe-bd63-fb9fc3070102
+!contributor Charlotte Eisenberg ce@sports-reference.com @ 2021-06-21
+
+#202106_026 Kunkel, Jeff
+highschool Oak Forest High School @ US/IL/Oak Forest
+college University of Michigan
+
+---
+
+!citation The Miami Herald @ 1974-06-20; page 139
+!file Gill.png
+!contributor Charlotte Eisenberg ce@sports-reference.com @ 2021-06-22
+
+#202106_027 Gill, Sheldon
+describe ; BL TL H70 W175 @C
+birth 1955-08-29 @ US/CA/Lynwood
+resides @ US/CA/North Long Beach
+player 1973 Johnson City (Appalachian)
+
+#202106_028 Boettcher, Lee
+describe ; BR TR H74 W190 @P
+birth 1950-06-29 @ US/MN/Austin
+resides @ US/MN/Stewartville
+player 1973 Johnson City (Appalachian)
+
+---
+
+!citation milb.com @ 2017-07-05
+!url https://www.milb.com/news/the-youngest-blue-jay-jimy-kelly-240617980
+!contributor Charlotte Eisenberg ce@sports-reference.com @ 2021-06-10
+
+#202106_029 Kelly, Jimy
+signed 1985 by Toronto (American)
+
+---
+
+!citation The Mercury News @ 2011-09-19
+!url https://www.mercurynews.com/2011/09/19/east-bay-actor-was-born-to-play-this-role-in-moneyball/
+!contributor Charlotte Eisenberg ce@sports-reference.com @ 2021-06-07
+
+#202106_030 Bishop, Stephen
+highschool Campolindo High School @ US/CA/Moraga
+school UC Riverside @ US/CA/Riverside
+
+---
+
+!citation The Burlington Free Press @ 1995-07-13; page 26
+!url https://www.newspapers.com/image/202561152/?terms=%22pitcher%20ready%20to%20contribute%22
+!file Morris.jpeg
+!contributor Charlotte Eisenberg ce@sports-reference.com @ 2021-05-24
+
+#202106_031 Morris, Chad
+describe ; H75 W192
+resides @ US/SC/Florence
+player 1995 Vermont (New York-Pennsylvania League)
+player 1995 Florence (Atlantic Coast League)

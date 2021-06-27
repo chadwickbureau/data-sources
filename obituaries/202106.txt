@@ -472,3 +472,458 @@ birth 1937-11-22 @ US/WI/Milwaukee
 death 2004-10-23 @ US/WI/Sheboygan
 college University of Montana
 burial Highland Memorial Park @ US/WI/New Berlin
+
+---
+
+!citation Fellows, Heflenbein @ Newnam Funeral Home @ 2021-06-13
+!url https://www.fhnfuneralhome.com/obituaries/Maynard-Norris/#!/Obituary
+!file Norris_Mike.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-13
+
+#202106_038 Norris, Maynard Irving [Mike]
+birth 1932-05-13 @ US/MD/Carney
+death 2021-06-08
+highschool Towson HS @ US/MD/Towson
+military US Army
+burial Dulaney Valley Memorial Gardens @ US/MD/Timonium
+
+---
+
+!citation Fox & Weeks Funeral Directors @ 2021-06-13
+!url https://foxandweeks.com/obituaries/o/8284/David-Charles-Hollingsworth
+!file Hollingsworth_David.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-13
+
+#202106_039 Hollingsworth, David Charles
+birth 1971-08-14 @ US/GA/Savannah
+death 2021-06-10 @ US/GA/Savannah
+highschool Memorial Day School @ US/GA/Savannah
+college Middle Georgia State University
+burial Forest Lawn Memory Gardens @ US/GA/Savannah
+
+---
+
+!citation Los Angeles Times @ 2021-06-13
+!url https://www.legacy.com/obituaries/latimes/obituary.aspx?n=donald-yeates&pid=199026114
+!file Yeates_Don.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-13
+
+#202106_040 Yeates, Donald [Don]
+birth @ US/CA/Los Angeles
+death 2021-06-03 @ US/CA/Sonoma
+military US Army
+
+---
+
+!citation Vaschak-Kirila Funeral Home @ 2021-06-14
+!url https://www.vaschak-kirilafh.com/obituary/George-Svatosky
+!file Svatosky_George.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-14
+
+#202106_041 Svatosky, George T.
+birth 1931-06-16 @ US/PA/Blainsburg
+death 2021-06-04 @ US/OH/Youngstown
+highschool Memorial HS @ US/OH/Campbell
+military US Army @ Korean War
+burial Calvary Cemetery @ US/OH/Youngstown
+
+---
+
+!citation Thompson Funeral Home @ 2021-06-14
+!url https://www.tributearchive.com/obituaries/21396263/John-Wally-Geske
+!file Geske_Wally.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-14
+
+#202106_042 Geske, John W. [Wally]
+birth 1931-04-02 @ US/WI/Merrillan
+death 2021-06-11 @ US/WI/Altoona
+highschool Eau Claire HS @ US/WI/Eau Claire
+burial Lincoln Cemetery @ US/WI/Whitehall
+
+---
+
+!citation Norton Funeral Home @ 2021-06-14
+!url https://www.nortonfh.net/obituary/BobbyLynn-Cook
+!file Cook_Bobby.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-14
+
+#202106_043 Cook, Bobby Lynn
+birth 1951-07-25  
+death 2021-06-08 @ US/SC/Florence
+
+---
+
+!citation Richmond Times-Dispatch @ 2021-06-11
+!url https://richmond.com/sports/high-school/legendary-george-wythe-baseball-coach-paul-susce-guided-countless-on-field-in-classroom/article_f41d9e52-fc06-551f-bf7e-42ed6adab96f.html
+!file Susce_Paul.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-14
+
+#202106_044 Susce, Paul
+death 2021-05
+father of Susce, Steve Paul
+brother of Susce, George Daniel
+son of Susce, George Cyril Methodius
+college Auburn University
+
+---
+
+!citation Naples Daily News @ 2021-05-14
+!url https://www.legacy.com/obituaries/naplesnews/obituary.aspx?n=paul-f-susce&pid=198662283&fhid=6126
+!file Susce_Paul.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-14
+
+#202106_045 Susce, Paul F.
+death 2021-05-13
+
+---
+
+!citation Asbury Park Press @ 2021-06-12
+!url https://www.app.com/story/sports/2021/06/12/neptune-legend-ken-odonnell-dies-71-coached-boys-girls-baskeball-state-titles/7668517002/
+!file ODonnell_Ken.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-14
+
+#202106_046 O'Donnell, Ken
+death 2021-06-12
+highschool Neptune HS @ US/NJ/Neptune
+
+---
+
+!citation Contra Costa Times @ 2007-02-07
+!url https://www.legacy.com/obituaries/eastbaytimes/obituary.aspx?n=jeffrey-phillip-peterson&pid=86354468
+!file Peterson_Jeff.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-14
+
+#202106_047 Peterson, Jeffrey Phillip [Jeff]
+birth 1961-06-04
+death 2007-01-03
+highschool Campolindo HS @ US/CA/Moraga
+college St. Mary's College of California
+
+---
+
+!citation Asbury Park Press @ 2021-06-15
+!url https://www.legacy.com/obituaries/app/obituary.aspx?n=kenneth-f-odonnell&pid=199048355&fhid=27016
+!file ODonnell_Ken_2.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-15
+
+#202106_048 O'Donnell, Kenneth F. [Ken]
+birth @ US/NJ/Neptune
+death 2021-06-12 @ US/NJ/Brielle
+
+---
+
+!citation Reno Journal-Gazette @ 2021-06-15
+!url https://www.legacy.com/obituaries/rgj/obituary.aspx?n=alfred-charles-neuenswander&pid=199047586
+!file Neuenswander_Alfred.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-15
+
+#202106_049 Neuenswander, Alfred Charles
+birth 1930-01-16 @ US/ID/Boise
+death 2021-06-04 @ US/NV/Reno
+military US Army @ Korean War
+
+---
+
+!citation Pensacola Memorial Gardens @ 2021-06-15
+!url https://pmgfuneralhome.com/obits/kenneth-rudolph-parker-sr/
+!file Parker_Ken.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-15
+
+#202106_050 Parker, Kenneth Rudolph, Sr. [Ken] "Squeaky"
+death 2021-05-02
+
+---
+
+!citation Lake Lawn Metairie Funeral Home @ 2021-06-16
+!url https://www.dignitymemorial.com/obituaries/new-orleans-la/john-morreale-10232557
+!file Morreale_John.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-16
+
+#202106_051 Morreale, John F., Jr. "Junior; Chuchie"
+birth 1941-03-23 @ US/LA/New Orleans
+death 2021-06-13 @ US/LA/New Orleans
+highschool De La Salle HS @ US/LA/New Orleans
+burial Metairie Cemetery @ US/LA/New Orleans
+
+---
+
+!citation Myers Funeral Home @ 2021-06-16
+!url https://www.myersfh.com/obituary/marvin-dutt
+!file Dutt_Marv.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-16
+
+#202106_052 Dutt, Marvin Alvin [Marv]
+birth 1939-10-12 @ US/ND/Bismarck
+death 2021-06-10 @ US/AZ/Mesa
+college Bismarck State College
+college University of Arizona
+
+---
+
+!citation Goldfinch Funeral Home @ 2021-06-18
+!url https://www.goldfinchfuneralhome.com/obituaries/Arthur-Art-Ditmar/#!/Obituary
+!file Ditmar_Art.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-18
+
+#202106_053 Ditmar, Arthur [Art]
+death 2021-06-11
+
+---
+
+!citation Searby Funeral Homes @ 2021-06-18
+!url https://www.searbyfuneralhomes.com/obituary/3721806
+!file Spiller_John.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-18
+
+#202106_054 Spiller, John Richard
+birth 1934-10-15 @ US/IL/Hallidayboro
+death 2014-09-15 @ US/IL/Mount Vernon
+highschool Elkville HS @ US/IL/Elkville
+military US Army
+burial Murdale Gardens of Memory @ US/IL/Murphysboro
+
+---
+
+!citation Holloway Funeral Home @ 2021-06-18
+!url https://www.hollowayfh.com/obituaries/Sang-Ho-Baek?obId=21422981
+!file Baek_Sang_Ho.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-18
+
+#202106_055 Baek, Sang Ho
+birth 2001-01-31 @ KR//Seoul
+death 2021-06-12 @ US/MD/Salisbury
+highschool Bennett HS @ US/MD/Salisbury
+college George Mason University
+
+---
+
+!citation Dallas Morning News @ 2021-06-19
+!url https://obits.dallasnews.com/obituaries/dallasmorningnews/obituary.aspx?n=james-mayfield&pid=199115865#_ga=2.30755642.424628406.1623762373-635627066.1552232407
+!file Mayfield_Jim.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-19
+
+#202106_056 Mayfield, James Fredrick [Jim]
+birth 1934-04-14 @ US/TX/Fort Worth
+death 2021-06-03 @ US/TX/Garland
+college Texas Christian University
+military US Army
+
+---
+
+!citation Hornell Evening Tribune @ 2021-06-19
+!url https://www.legacy.com/obituaries/eveningtribune/obituary.aspx?n=dennis-r-pierce-curly&pid=199114986&fhid=22294
+!file Pierce_Dennis.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-19
+
+#202106_057 Pierce, Dennis R. "Curly"
+birth 1945-10-30 @ US/NY/Nunda
+death 2021-06-15
+highschool Canaseraga HS @ US/NY/Swain
+military US Marines
+
+---
+
+!citation Hallett Funeral Home @ 2021-06-20
+!url http://www.hallettfuneralhome.com/obits/obits.php?id=978&p=&search=
+!file Hedin_Al.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-20
+
+#202106_058 Hedin, Alan R. [Al]
+birth @ US/MA/Springfield
+death 2021-06-07 @ US/MA/Orleans
+highschool Cathedral HS @ US/MA/Springfield
+
+---
+
+!citation Spokesman-Review @ 2021-06-20
+!url https://www.legacy.com/obituaries/spokesman/obituary.aspx?n=walter-weekly-max&pid=199121819
+!file Weekly_Max.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-20
+
+#202106_059 Weekly, Walter Maxwell [Max]
+birth 1934-06-24 @ US/CA/Exeter
+death 2021-03-08 @ US/ID/Coeur d'Alene
+highschool Exeter Union HS @ US/CA/Exeter
+college Washington State University
+college College of the Sequoias
+military US Army
+
+---
+
+!citation Rausch Funeral Home @ 2021-06-21
+!url https://rauschfuneralhomes.com/service/terrence-george-terry-parks/
+!file Parks_Terry.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-21
+
+#202106_060 Parks, Terrence George [Terry]
+birth 1947-11-28 @ US/CA/San Diego
+death 2021-06-04 @ US/MD/Prince Frederick
+highschool Fremont HS @ US/CA/Sunnyvale
+
+---
+
+!citation Braman Mortuary & Cremation Services @ 2021-06-22
+!url https://www.bramanmortuary.com/obituaries/Dwight-Siebler/#!/Obituary
+!file Siebler_Dwight.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-22
+
+#202106_061 Siebler, Dwight LeRoy
+birth 1937-08-05
+death 2021-06-16
+military US Army
+
+---
+
+!citation Daily Herald @ 2021-06-22
+!url https://www.legacy.com/obituaries/dailyherald/obituary.aspx?n=raymond-m-haley-ray&pid=199135025&fhid=14634
+!file Haley_Ray.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-22
+
+#202106_062 Haley, Raymond M. [Ray]
+birth 1928-12-24 @ US/MO/Jefferson Barracks
+death 2021-06-18
+military US Army @ Korean War
+
+---
+
+!citation Weber Funeral Homes @ 2021-06-23
+!url https://www.weberfuneralhomes.com/obituary/fred-fritz-baranek
+!file Baranek_Fred.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-23
+
+#202106_063 Baranek, Fred M. "Fritz"
+birth 1934-09-03 @ US/PA/Allentown
+death 2021-06-20
+highschool Allentown HS @ US/PA/Allentown
+military US Army
+burial Grandview Cemetery @ US/PA/Allentown
+ 
+---
+
+!citation Kutis Funeral Home @ 2021-06-23
+!url https://www.kutisfuneralhomes.com/politte-clifford-e/
+!file Politte_Cliff.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-23
+
+#202106_064 Politte, Clifford E. [Cliff]
+death 2021-06-21
+burial Jefferson Barracks National Cemetery @ US/MO/St. Louis
+
+---
+
+!citation Oelwein Daily Register @ 2021-06-23
+!url https://www.legacy.com/obituaries/oelweindailyregister/obituary.aspx?n=terry-richard-stevens-steve&pid=199146050
+!file Stevens_Terry.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-23
+
+#202106_065 Stevens, Terry Richard "Steve"
+birth 1936-01-16
+death 2021-06-12 @ US/AZ/Lake Havasu City
+highschool Fayette HS @ US/IA/Fayette
+college Upper Iowa University
+
+---
+
+!citation Short-Cunningham Funeral Homes @ 2021-06-23
+!url https://www.short-cunninghamfh.com/obituary/Ralph-Raber
+!file Raber_Ralph.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-23
+
+#202106_066 Raber, Ralph F.
+birth 1930-09-21 @ US/IN/Evansville
+death 2021-06-21 @ US/IN/Evansville
+highschool Mount Carmel HS @ US/IL/Mount Carmel
+military US Army
+burial Highland Memorial Cemetery @ US/IL/Mount Carmel
+
+---
+
+!citation Rigby, Harting & Hagan Funeral Home @ 2021-06-23
+!url https://www.haganfuneralhome.com/obituary/stephen-ryan
+!file Ryan_Bogey.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-23
+
+#202106_067 Ryan, Stephen Hugh [Bogey]
+birth 1955 @ US/PA/Chester
+death 2021-06-19 @ US/PA/Wallingford
+highschool Chester HS @ US/PA/Chester
+college Widener University
+
+---
+
+!citation Ahearn Funeral Home @ 2021-06-24
+!url https://www.ahernfuneralhome.com/obituaries/Richard-Paul-Bremkamp-Jr?obId=21521895#/obituaryInfo
+!file Bremkamp_Dick.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-24
+
+#202106_068 Bremkamp, Richard Paul, Jr. [Dick]
+birth 1929-03-21 @ US/OH/Canton
+death 2021-06-17 @ US/CT/Farmington
+highschool Lincoln HS @ US/OH/Canton
+military US Army @ Korean War
+burial Riverside Cemetery @ US/CT/Farmington
+
+---
+
+!citation Maiorano Funeral Home @ 2021-06-24
+!url https://www.maioranofuneralhome.com/obituary/vincent-pica
+!file Pica_Vince.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-24
+
+#202106_069 Pica, Vincent J. [Vince]
+birth 1930-10-07 @ US/CT/Waterbury
+death 2021-06-20 @ US/CT/Hartford
+highschool Crosby HS @ US/CT/Waterbury
+military US Army @ Korean War
+burial Calvary Cemetery @ US/CT/Waterbury
+
+---
+
+!citation Knoxville News Sentinel @ 2021-06-25
+!url https://www.legacy.com/us/obituaries/knoxnews/name/johnnie-fenderson-obituary?pid=199168764
+!file Fenderson_Johnnie.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-25
+
+#202106_070 Fenderson, Johnnie Lee, Sr.
+birth 1944-07-20 @ US/AL/Birmingham
+death 2021-06-19 @ US/TN/Knoxville
+military US Army
+burial New Gray Cemetery @ US/TN/Knoxville
+
+---
+
+!citation Penland Family Funeral Home @ 2021-06-25
+!url https://www.penlandfamilyfuneralhome.com/obituary/WilliamBill-Hinson
+!file Hinson_Bill.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-25
+
+#202106_071 Hinson, William Bryan [Bill]
+birth 1932-04-24 @ US/NC/Buncombe County
+death 2021-03-03
+highschool Candler HS @ US/NC/Candler
+
+---
+
+!citation Asheville Citizen-Times @ 2021-06-25
+!url https://www.legacy.com/us/obituaries/citizen-times/name/hollis-powell-obituary?pid=199162573
+!file Powell_Hollis.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-25
+
+#202106_072 Powell, Hollis R.
+birth 1932-09-18 @ US/GA/Kite
+death 2021-06-20
+college Georgia Southern University
+
+---
+
+!citation Los Angeles Times @ 2021-06-26
+!url https://www.legacy.com/us/obituaries/latimes/name/john-mcallen-obituary?pid=199192944
+!file McAllen_John.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-26
+
+#202106_073 McAllen, John Stephen
+birth 1951-04-02
+death 2021-05-18
+highschool Mark Keppel HS @ US/CA/Alhambra
+college California State University, Los Angeles
+burial Oakdale Memorial Park @ US/CA/Glendora

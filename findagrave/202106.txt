@@ -1,0 +1,97 @@
+!citation findagrave.com @ 2021-06-18
+!url https://www.findagrave.com/memorial/5170728/burwin-e.-erickson
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-18
+ 
+#202106_001 Erickson, Burwin E.
+sameas findagrave:5170728
+birth 1921-11-18 @ US/NY/Bemus Point
+death 2001-01-20 @ US/NY/Buffalo
+military US Army @ World War II
+burial Lake View Cemetery @ US/NY/Jamestown
+
+---
+
+!citation findagrave.com @ 2021-06-18
+!url https://www.findagrave.com/memorial/208808183/harold-lee-abernethy
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-18
+ 
+#202106_002 Abernethy, Harold Lee [Hal]
+sameas findagrave:208808183
+birth 1925-01-14 @ US/NC/Lincoln County
+death 2014-02-10 @ US/NC/Sherrills Ford
+burial First Presbyterian Church of Newton Columbarium @ US/NC/Newton
+
+---
+
+!citation findagrave.com @ 2021-06-16
+!url https://www.findagrave.com/memorial/211578740/stephen-girard-summerhill
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-16
+ 
+#202106_003 Summerhill, Stephen Girard, III [Steve]
+sameas findagrave:211578740
+birth 1914-10-02 @ US/PA/Scranton
+death 1980-11-12 @ US/GA/LaGrange
+burial Old Sardis Baptist Church Cemetery @ US/AL/Union Springs
+
+---
+
+!citation findagrave.com @ 2021-06-08
+!url https://www.findagrave.com/memorial/119464846/pearce-edward-corley
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-08
+ 
+#202106_004 Corley, Pearce Edward
+sameas findagrave:119464846
+birth 1935-08-06
+death 1962-01-04
+military US Marines
+burial Hillcrest Memorial Park Cemetery @ US/GA/Augusta
+
+---
+
+!citation findagrave.com @ 2021-06-07
+!url https://www.findagrave.com/memorial/39067211/alonzo-miller-young
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-07
+ 
+#202106_005 Young, Alonzo Miller [Lon]
+sameas findagrave:39067211
+birth 1870-07-23 @ US/OH/Gilmore
+death 1957-04-13 @ US/MO/Trenton
+brother of Young, Denton True [Cy]
+burial Salem Cemetery @ US/MO/Washington Township
+
+---
+
+!citation findagrave.com @ 2021-06-07
+!url https://www.findagrave.com/memorial/217574194/samuel-charles-bittle
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-07
+ 
+#202106_006 Bittle, Samuel Charles
+sameas findagrave:217574194
+birth 1865-02-17 @ CA/ON/Guelph
+death 1917-03-20 @ US/MI/Detroit
+burial Evergreen Cemetery @ US/MI/Detroit
+
+---
+
+!citation findagrave.com @ 2021-06-07
+!url https://www.findagrave.com/memorial/162355230/william-h.-lucas
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-07
+ 
+#202106_007 Lucas, William Henry
+sameas findagrave:162355230
+birth 1859-09-06 @ US/OH/Cleveland
+death 1912-09-15 @ US/MT/Missoula
+burial Greenwood Hills Cemetery @ US/OR/Portland
+
+---
+
+!citation findagrave.com @ 2021-06-02
+!url https://www.findagrave.com/memorial/149807772/ossie-e.-pickard
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-02
+ 
+#202106_008 Pickard, Ossie E. [Eddie]
+sameas findagrave:149807772
+birth 1918-08-03 @ US/NC/Greensboro
+death 2011-09-14 @ US/NC/Greensboro
+military US Army @ World War II
+burial Guilford Memorial Park @ US/NC/Greensboro

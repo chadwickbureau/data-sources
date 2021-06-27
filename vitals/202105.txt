@@ -63,3 +63,100 @@ birth 1929-05-08 @ US/AZ/Tucson
 birth 1901-07-14 @ US/WA/Tacoma
 address @ US/WA/Nisqually
 
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-20
+ 
+#202105_009 Lyons, Robert Daniel
+birth 1928-04-22 @ US/NC/Winston-Salem
+
+---
+ 
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-20
+ 
+#202105_010 Lyons, Robert Daniel
+sameas ssn:241-38-5230
+birth 1928-04-22 @ US/NC/Winston-Salem
+death 2006-02-08
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-20
+ 
+#202105_011 Nordquist, Herbert William
+birth 1920-10-05 @ US/MI/Detroit
+ 
+---
+ 
+!citation US Dept. of Veterans Affairs BIRLS Death File, 1850-2010
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-20
+ 
+#202105_012 Nordquist, Herbert William
+sameas ssn:371-12-6242
+birth 1920-10-10
+death 1994-01-13
+ 
+---
+ 
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-20
+ 
+#202105_013 Nordquist, Herbert William
+sameas ssn:371-12-6242
+birth 1920-10-05 @ US/MI/Detroit
+death 1994-01
+
+---
+
+!citation US WWI Draft Registration Cards, 1917-1918
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-24
+ 
+#202105_014 Garverich, Lester Eugene
+birth 1896-09-17 @ US/PA/Penbrook
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-24
+ 
+#202105_015 Carr, Alfred Wayne
+birth 1916-02-23 @ US/OK/Chism
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-24
+ 
+#202105_016 Decker, Jim
+birth 1917-10-14 @ US/IL/East St. Louis
+ 
+---
+ 
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-24
+ 
+#202105_017 Decker, James C.
+sameas ssn:318-14-1294
+birth 1917-10-14
+death 2008-02-16
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-24
+ 
+#202105_018 Gedzius, Joseph John
+birth 1916-01-27 @ US/IL/Cicero
+ 
+---
+ 
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-24
+ 
+#202105_019 Gedzius, Joseph J.
+sameas ssn:368-01-9359
+birth 1916-01-27
+death 2008-11-04

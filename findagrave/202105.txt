@@ -107,3 +107,90 @@ death 1978-06-16
 military US Army @ World War II
 burial Masonic Memorial Park @ US/WA/Tumwater
 
+---
+
+!citation findagrave.com @ 2021-05-18
+!url https://www.findagrave.com/memorial/146611877/james-francis-mcgloin
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-18
+ 
+#202105_010 McGloin, James Francis
+sameas findagrave:146611877
+birth 1914-02-23 @ US/NY/Astoria
+death 1980-01-26 @ US/TX/Tarrant County
+burial Greenwood Memorial Park and Mausoleum @ US/TX/Fort Worth
+
+---
+ 
+!citation findagrave.com @ 2021-05-20
+!url https://www.findagrave.com/memorial/183259982/robert-daniel-lyons
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-20
+ 
+#202105_011 Lyons, Robert Daniel
+sameas findagrave:183259982
+birth 1928-04-22
+death 2006-02-06
+burial Salem Moravian God's Acre @ US/NC/Winston-Salem
+
+---
+
+!citation findagrave.com @ 2021-05-24
+!url https://www.findagrave.com/memorial/176392223/oscar-mallrich
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-24
+ 
+#202105_012 Mallrich, Oscar John
+sameas findagrave:176392223
+birth 1922-08-29
+death 2014-11-25
+burial Green Mount Cemetery @ US/IL/New Baden
+
+---
+
+!citation findagrave.com @ 2021-05-24
+!url https://www.findagrave.com/memorial/139520223/george-lester-geesey
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-24
+ 
+#202105_013 Geesey, George Lester "Dutch"
+sameas findagrave:139520223
+birth 1923 @ US/PA/York
+death 2014-11-12 @ US/SC
+burial Mount Rose Cemetery @ US/PA/Spring Garden Township
+
+---
+ 
+!citation findagrave.com @ 2021-05-24
+!url https://www.findagrave.com/memorial/51791598/lester-e-garverich
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-24
+ 
+#202105_014 Garverich, Lester E.
+sameas findagrave:51791598
+birth 1896-09-17
+death 1975-04-15
+military US Army @ World War I
+burial Rolling Green Memorial Park @ US/PA/Camp Hill
+
+---
+
+!citation findagrave.com @ 2021-05-25
+!url https://www.findagrave.com/memorial/118144804/richard-james-allegretto
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-25
+ 
+#202105_015 Allegretto, Richard James [Rich]
+sameas findagrave:118144804
+birth 1930-02-20 @ US/NY/Elmira
+death 2010-06-28 @ US/PA/DuBois
+highschool Centennial HS @ US/PA/Ridgway
+military US Army @ Korean War
+burial St. Joseph Cemetery @ US/PA/Force
+
+---
+
+!citation findagrave.com @ 2021-05-28
+!url https://www.findagrave.com/memorial/210705541/george-vidal
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-28
+ 
+#202105_016 Vidal, George
+sameas findagrave:210705541
+birth 1926-02-06
+death 2014-10-20
+burial Southern Keys Cemetery @ US/FL/Big Coppitt Key
+
