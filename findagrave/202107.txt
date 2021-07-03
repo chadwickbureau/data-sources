@@ -1,0 +1,9 @@
+!citation findagrave.com @ 2021-07-02
+!url https://www.findagrave.com/memorial/2580099/richard-frank-mlady
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-07-02
+ 
+#202107_001 Mlady, Richard Frank
+sameas findagrave:2580099
+birth 1919-07-18 @ US/OH/Cleveland
+death 1977-01-19 @ US/PA/Harrisburg
+burial Indiantown Gap National Cemetery @ US/PA/Annville

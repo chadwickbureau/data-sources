@@ -160,3 +160,74 @@ birth 1916-01-27 @ US/IL/Cicero
 sameas ssn:368-01-9359
 birth 1916-01-27
 death 2008-11-04
+
+---
+ 
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-24
+ 
+#202105_020 Edleman, James Britton
+sameas ssn:270-18-6933
+birth 1917-11-03 @ US/PA/Englesville
+death 1978-04
+ 
+---
+ 
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-24
+ 
+#202105_021 Edleman, Britton
+birth 1917-11-03 @ US/PA/Engleville
+address 852 South Street @ US/PA/Pottstown
+
+---
+ 
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-26
+ 
+#202105_022 Boyer, Carl Elmer
+sameas ssn:350-05-8260
+birth 1917-11-24
+death 2006-03-08
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-27
+ 
+#202105_023 West, Richard Lewis
+birth 1928-04-25 @ US/FL/Palmetto
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-31
+ 
+#202105_024 Routh, Milton Edgar
+birth 1906-04-20 @ US/KS/Maize
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-31
+ 
+#202105_025 Kramer, Melvin Wilford
+birth 1917-01-28 @ US/MO/Slater
+ 
+---
+ 
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-31
+ 
+#202105_026 Kramer, Melvin W.
+sameas ssn:498-05-1379
+birth 1917-01-28 @ US/MO/Slater
+death 2001-07-12
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-31
+ 
+#202105_027 Umstead, Clyde Fries
+birth 1920-05-13 @ US/PA/Harmonyville

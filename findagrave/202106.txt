@@ -95,3 +95,128 @@ birth 1918-08-03 @ US/NC/Greensboro
 death 2011-09-14 @ US/NC/Greensboro
 military US Army @ World War II
 burial Guilford Memorial Park @ US/NC/Greensboro
+
+---
+ 
+!citation findagrave.com @ 2021-06-02
+!url https://www.findagrave.com/memorial/36081062/edward-d-mccarthy
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-02
+ 
+#202106_009 McCarthy, Edward D. [Ed]
+sameas findagrave:36081062
+birth 1921-12-15
+death 2006-02-08
+military US Marines @ World War II
+military US Marines @ Korea War
+burial Fort Logan National Cemetery @ US/CO/Denver
+
+---
+ 
+!citation findagrave.com @ 2021-06-03
+!url https://www.findagrave.com/memorial/208122013/jacob-levy%C2%A0
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-03
+ 
+#202106_010 Levy, Jacob [Jake]
+sameas findagrave:208122013
+birth 1901-02-06 @ US/AL/Birmingham
+death 1995-11-23 @ US/FL/Jacksonville
+burial Knesses Israel Cemetery @ US/AL/Birmingham
+
+---
+ 
+!citation findagrave.com @ 2021-06-07
+!url https://www.findagrave.com/memorial/47426210/frank-lee-coleman
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-07
+ 
+#202106_011 Coleman, Frank Lee
+sameas findagrave:47426210
+birth 1908-11-27
+death 1986-04-14 @ US/AL
+burial Highland Cemetery @ US/AL/Anniston
+
+---
+
+!citation findagrave.com @ 2021-06-08
+!url https://www.findagrave.com/memorial/10153774/shane-lestourgeon
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-08
+ 
+#202106_012 LeStourgeon, Shane
+sameas findagrave:10153774
+birth 1935-02-13 @ US/TX/San Antonio
+death 2004-12-17
+burial Mission Burial Park North @ US/TX/San Antonio
+
+---
+ 
+!citation findagrave.com @ 2021-06-08
+!url https://www.findagrave.com/memorial/185220311/charles-clifford-maxton
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-08
+ 
+#202106_013 Maxton, Charles Clifford
+sameas findagrave:185220311
+birth 1906-12-02 @ US/OH/South Lebanon
+death 1987-11-01 @ US/OH/Montgomery County
+burial Glen Haven Memorial Gardens @ US/OH/New Castle
+
+---
+ 
+!citation findagrave.com @ 2021-06-10
+!url https://www.findagrave.com/memorial/19139560/herman-vigerust
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-10
+ 
+#202106_014 Vigerust, Herman
+sameas findagrave:19139560
+birth 1892-05-10 @ US/WI/Menomonie
+death 1977-02-03 @ US/MN/St. Paul
+burial Evergreen Cemetery @ US/WI/Menomonie
+
+---
+ 
+!citation findagrave.com @ 2021-06-11
+!url https://www.findagrave.com/memorial/123830867/kenneth-okane
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-11
+ 
+#202106_015 O'Kane, Kenneth
+sameas findagrave:123830867
+birth 1907-05-21 @ US/NE
+death 1970-11-20 @ US/CA/Sacramento County
+burial East Lawn Memorial Park @ US/CA/Sacramento
+
+---
+ 
+!citation findagrave.com @ 2021-06-11
+!url https://www.findagrave.com/memorial/219689332/john-henry-erickson
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-11
+ 
+#202106_016 Erickson, John Henry
+sameas findagrave:219689332
+birth 1938-05-17 @ US/MN/St. Paul
+death 2020-12-05 @ US/MN
+highschool Washington HS @ US/MN/St. Paul
+burial Calvary Cemetery @ US/MN/St. Paul
+
+---
+
+!citation findagrave.com @ 2021-06-14
+!url https://www.findagrave.com/memorial/21632077/olin-e_o-haven
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-14
+ 
+#202106_017 Haven, Olin E. O. [Hi]
+sameas findagrave:21632077
+birth 1907-07-31 @ US/TX/Lone Oak
+death 1956-07-08 @ US/TX/Houston
+burial Levelland Municipal Cemetery @ US/TX/Levelland
+
+---
+
+!citation findagrave.com @ 2021-06-14
+!url https://www.findagrave.com/memorial/134406931/joseph-thornton-weeks
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-14
+ 
+#202106_018 Weeks, Joseph Thornton
+sameas findagrave:134406931
+birth 1917-07-05 @ US/ME/Cornish
+death 1978
+military US Army @ World War II
+burial Riverside Cemetery @ US/ME/Cornish
+

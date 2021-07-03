@@ -1,0 +1,74 @@
+!citation Brant Funeral Service @ 2021-07-02
+!url https://www.brantfuneralservice.com/obituary/Richard-Bays
+!file Bays_Dick.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-07-02
+
+#202107_001 Bays, Richard Gary [Dick]
+birth 1936-01-19 @ US/OH/Portsmouth
+death 2021-06-29 @ US/OH/Wheelersburg
+burial Memorial Burial Park @ US/OH/Wheelersburg
+
+---
+
+!citation Townnsend-Wood & Zinger Funeral Home @ 2021-07-02
+!url https://townsendwoodzinger.com/tribute/details/932/Michael-Kenyon/obituary.html#tribute-start
+!file Kenyon_Mike.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-07-02
+
+#202107_002 Kenyon, Michael Allan [Mike]
+birth 1945 @ US/RI/Richmond
+death 2021-06-25
+highschool Chariho Regional HS @ US/RI/Wood River Junction
+
+---
+
+!citation Oman Funeral Home @ 2021-07-02
+!url https://www.omanfh.com/obituaries/Walter-Ray-Cox?obId=21555397#/obituaryInfo
+!file Cox_Ray.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-07-02
+
+#202107_003 Cox, Walter Ray [Ray]
+birth 1937-10-11 @ US/NC
+death 2021-06-27
+highschool Cradock HS @ US/VA/Portsmouth
+college Chowan University
+military US Marines
+burial Chesapeake Memorial Gardens @ US/VA/Chesapeake
+
+---
+
+!citation Daily Breeze @ 2021-06-27
+!url https://www.legacy.com/us/obituaries/dailybreeze/name/christopher-wibberley-obituary?n=christopher-wibberley&pid=199201119
+!file Wibberley_Chris.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-07-02
+
+#202107_004 Wibberley, Christopher [Chris]
+birth 1952-11-05
+death 2021-05-16
+highschool Bishop Montgomery HS @ US/CA/Torrance
+college Loyola Marymount University
+
+---
+
+!citation Powles Staton Funeral Home @ 2021-07-02
+!url https://www.powlesfuneralhome.com/obituaries/Franklin-Frank-Dunk-Delano-Hampton?obId=21487857#/obituaryInfo
+!file Hampton_Frank.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-07-02
+
+#202107_005 Hampton, Franklin Delano [Frank] "Dunk"
+birth 1933-12-04 @ US/NC/Rowan County
+death 2021-06-16 @ US/NC/Rockwell
+
+---
+
+!citation Napa Valley Register @ 2021-06-27
+!url https://www.legacy.com/us/obituaries/napavalleyregister/name/donald-townsend-obituary?pid=199201159
+!file Townsend_Don.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-07-02
+
+#202107_006 Townsend, Donald Alfred [Don]
+birth 1930-10-29 @ US/CA/Napa
+death 2021
+highschool Napa HS @ US/CA/Napa
+college University of San Francisco
+burial Tulocay Cemetery @ US/CA/Napa

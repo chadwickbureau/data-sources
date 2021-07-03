@@ -927,3 +927,118 @@ death 2021-05-18
 highschool Mark Keppel HS @ US/CA/Alhambra
 college California State University, Los Angeles
 burial Oakdale Memorial Park @ US/CA/Glendora
+
+---
+ 
+!citation Anniston Star @ 1986-04-15
+!file Coleman_Frank.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-07
+ 
+#202106_074 Coleman, Frank L.
+death 1986-04-14 @ US/AL/Anniston
+burial Highland Cemetery @ US/AL/Anniston
+
+---
+
+!citation Scranton Times-Tribune @ 1959-03-12
+!file Rangnow_Milton.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-07
+ 
+#202106_075 Rangnow, Milton
+birth 1909-02-22 @ US/PA/Philadelphia
+death 1959-03-10 @ US/NJ/North Bergen
+burial @ US/NJ/Union City
+
+---
+
+!citation South Florida Sun Sentinel @ 1997-06-23
+!file Scalzi_Robert.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-08
+ 
+#202106_076 Scalzi, Robert Daniel
+birth @ US/CT/Stamford
+death 1997-06-20
+highschool Stamford HS @ US/CT/Stamford
+college Villanova University
+military US Army
+
+---
+ 
+!citation Mission Park Funeral Home @ 2021-06-08
+!url https://www.missionparks.com/obituaries/Shane-LeStourgeon/#!/Obituary
+!file LeStourgeon_Shane.pdf 
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-08
+
+#202106_077 LeStourgeon, Shane
+birth 1935-02-13 @ US/TX/San Antonio
+death 2004-12-17
+highschool Harlandale HS @ US/TX/San Antonio
+college Texas Lutheran University
+burial Mission Burial Park North @ US/TX/San Antonio
+
+---
+
+!citation Dayton Daily News @ 1987-11-04
+!file Maxton_Charles.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-08
+ 
+#202106_078 Maxton, Charles C.
+death 1987-11-01
+highschool Steele HS @ US/OH/Dayton
+college Purdue University
+
+---
+
+!citation Dunn County News @ 1977-02-09
+!file Vigerust_Herman.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-10
+ 
+#202106_079 Vigerust, Herman "Dutch"
+birth 1892-05-10 @ US/WI/Menomonie
+death 1977-02-03 @ US/MN/St. Paul
+military US @ World War I
+
+---
+
+!citation Joyce Funeral Home @ 2021-06-11
+!url https://joycefuneralhome.tributes.com/obituary/show/John-E.-O-Kane-101718838
+!file OKane_John.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-11
+
+#202106_080 O'Kane, John E.
+birth 1923-07-03 @ US/MA/Dorchester
+death 2014—09-22 @ US/MA/Newton
+highschool Dorchester HS @ US/MA/Dorchester
+military US Army @ World War II
+burial Massachusetts National Cemetery @ US/MA/Bourne
+
+---
+ 
+!citation Sacramento Bee @ 1966-02-13
+!file OKane_Ken.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-11
+ 
+#202106_081 O'Kane, Kenneth C.
+birth @ US/NE/Lincoln
+death 1970-11-20 @ US/CA/Sacramento
+burial East Lawn Memorial Park @ US/CA/Sacramento
+
+---
+
+!citation GopherSports.com @ 2021-06-11
+!url https://gophersports.com/news/2020/12/7/minnesota-remembers-gopher-baseball-great-john-erickson.aspx
+!file Erickson_John.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-11
+
+#202106_082 Erickson, John
+death 2020-12-05
+college University of Minnesota
+
+---
+ 
+!citation Bloomington Pantagraph @ 1971-06-09
+!file Prince_Bill.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-14
+ 
+#202106_083 Prince, Bill
+death 1971-06-08 @ US/IL/Chicago

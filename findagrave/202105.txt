@@ -194,3 +194,64 @@ birth 1926-02-06
 death 2014-10-20
 burial Southern Keys Cemetery @ US/FL/Big Coppitt Key
 
+---
+
+!citation findagrave.com @ 2021-05-25
+!url https://www.findagrave.com/memorial/141639399/earl-l.-furlow
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-25
+ 
+#202105_017 Furlow, Earl L.
+sameas findagrave:141639399
+birth 1937-06-05
+death 1993-07-07
+burial St. Joseph Cemetery @ US/WI/Appleton
+
+---
+ 
+!citation findagrave.com @ 2021-05-26
+!url https://www.findagrave.com/memorial/180164172/carl-e-boyer
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-26
+ 
+#202105_018 Boyer, Carl E.
+sameas findagrave:180164172
+birth 1917-11-24 @ US/IL/Chicago
+death 2006-03-08 @ US/CA/Sacramento
+burial St. Mary's Catholic Cemetery and Mausoleum @ US/CA/Sacramento
+
+---
+
+!citation findagrave.com @ 2021-05-27
+!url https://www.findagrave.com/memorial/25179920/richard-lewis-west
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-27
+ 
+#202105_019 West, Richard Lewis
+sameas findagrave:25179920
+birth 1928-04-25
+death 1994-01-21 @ US/FL/Manatee County
+burial Fogartyville Cemetery @ US/FL/Bradenton
+
+---
+ 
+!citation findagrave.com @ 2021-05-31
+!url https://www.findagrave.com/memorial/103480081/edgar-milton-routh
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-31
+ 
+#202105_020 Routh, Edgar Milton
+sameas findagrave:103480081
+birth 1906-04-20 @ US/KS/Sedgwick County
+death 1995-05-25 @ US/TX/Odessa
+burial Sunset Memorial Gardens @ US/TX/Odessa
+
+---
+ 
+!citation findagrave.com @ 2021-05-31
+!url https://www.findagrave.com/memorial/8305915/otto-meyers
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-31
+ 
+#202105_021 Meyers, Otto
+sameas findagrave:8305915
+birth 1914-03-01 @ US/OH/Wauseon
+death 1979-09-16 @ US/CA/Santa Cruz
+military US @ World War II
+burial Bayes Cemetery @ US/OH/Wauseon
+

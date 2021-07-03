@@ -855,3 +855,50 @@ birth 1934-08-17 @ US/PA/Harrisburg
 death 2021-05-28
 military US Army
 burial Rose Hills Memorial Park @ US/NY/Putnam
+
+---
+
+!citation Appleton Post-Crescent @ 1993-07-09
+!file Furlow_Earl.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-25
+ 
+#202105_069 Furlow, Earl L.
+birth 1937-06-05 @ US/AR/Fort Smith
+death 1993-07-07 @ US/WI/Appleton
+college Oklahoma State University
+
+---
+
+!citation Sacramento Bee @ 2006-03-11
+!file Boyer_Carl.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-26
+ 
+#202105_070 Boyer, Carl E.
+birth 1917-11-24 @ US/IL/Chicago
+death 2006-03-08
+highschool Carl Schurz HS @ US/IL/Chicago
+college Ohio State University
+military US Army @ World War II
+
+---
+ 
+!citation Pottstown Mercury @ 2016-07-20
+!file Umstead_Clyde.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-31
+ 
+#202105_071 Umstead, Clyde F. "Lefty"
+birth @ US/PA/Knauertown
+death 2016-07-19 @ US/PA/Pottstown
+highschool Pottstown HS @ US/PA/Pottstown
+military US Navy @ World War II
+
+---
+
+!citation Santa Cruz Sentinel @ 1979-09-18
+!file Meyers_Otto.pdf
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-05-31
+ 
+#202105_072 Meyers, Otto
+birth @ US/OH
+death 1979-09-16 @ US/CA/Santa Cruz
+burial Bayes Cemetery @ US/OH/Wauseon

@@ -1,0 +1,127 @@
+!citation The West Virginia Encyclopedia @ 2021-07-02
+!url https://www.wvencyclopedia.org/articles/2446
+!file Jones.png 
+!contributor Charlotte Eisenberg ce@sports-reference.com @ 2021-07-02
+
+#202107_001 Jones, Sam
+highschool Dunbar High School @ US/WV/Fairmont
+birth 1925-12-14 @ US/OH
+death 1971-11-05
+resides @ US/WV/Monongah
+cemetery Woodlawn Cemetery @ US/WV/Fairmont
+
+---
+
+!citation The Daily Times @ 1912-05-31
+!file Higgins1.png
+!contributor Charlotte Eisenberg ce@sports-reference.com @ 2021-07-01
+
+#202107_002 Higgins, E.
+player 1911 Tacoma (Northwest League)
+player 1912 Peoria (Illinois Indiana Iowa League)
+
+---
+
+!citation The Daily Register-Gazette @ 1915-07-27
+!file Higgins2.png
+!contributor Charlotte Eisenberg ce@sports-reference.com @ 2021-07-01
+
+#202107_003 Higgins
+player 1914 Streator (Illinois-Missouri League)
+player 1915 Rockford (Illinois Indiana Iowa League)
+
+---
+
+!citation The Champaign Daily News @ 1914-06-20
+!file Higgins3.png
+!contributor Charlotte Eisenberg ce@sports-reference.com @ 2021-07-01
+
+#202107_004 Higgins, Doc
+player 1914 Streator (Illinois-Missouri League)
+
+---
+
+!citation Baseball Hall of Fame Questionaire @ 1965
+!file questionnaire.pdf
+!contributor Charlotte Eisenberg ce@sports-reference.com @ 2021-06-29
+
+#202107_005 Tost, Louis Eugene "Lou; Tosty"
+birth 1911-06-01 @ US/WA/Cumberland
+death 1967-02-21 @ US/CA/Santa Clara
+burial Golden Gate National Cemetery @ US/CA/San Bruno
+resides @ US/CA/Sunnyvale
+describe ; BL TL H72 W185
+highschool Enumclaw High School @ US/WA/Enumclaw
+
+#202107_006 Dawson, Ralph Fenton "Joe"
+birth 1897-03-09 @ US/WA/Bow
+death 1978-01-04 @ US/TX/Longview
+cemetery Lakeview Memorial Gardens @ US/TX/Longview
+describe ; BR TR H71 W185
+
+#202107_007 Elder, Henry Knox "Heinie"
+birth 1890-08-23 @ US/WA/Seattle
+death 1958-11-13 @ US/CA/Long Beach
+cemetery Sawtelle Veterans @ US/CA/Los Angeles
+describe ; BL TL H74 W200
+highschool Yale School @ US/CA/Los Angeles
+college University of Minnesota @ US/MN/Minneapolis
+
+#202107_008 Mosolf, James Frederick "Jim"
+birth 1905-08-21 @ US/WA/Puyallup
+resides @ US/OR/Salem
+describe ; BL TR H71 W180
+highschool Lincoln High School @ US/WA/Tacoma
+college University of Washington @ US/WA/Seattle
+
+#202107_009 Sawyer, Carl Everett "Huck"
+birth 1891 @ US/CA/Los Angeles
+death 1957-01-17 @ US/CA/Los Angeles
+cemetery Forest Lawn @ US/CA/Glendale
+describe ; BR TR H71 W160
+
+---
+
+!citation The San Francisco Examiner @ 1983-06-15; page 122
+!url https://www.newspapers.com/image/461135201/?terms=%22chip%20hale%22%20campolindo&match=1
+!file Hale.png
+!contributor Charlotte Eisenberg ce@sports-reference.com @ 2021-06-07
+
+#202107_010 Hale, Chip
+highschool Campolindo High School @ US/CA/Moraga
+
+#202107_011 Mitchell, James
+highschool El Cerrito High School @ US/CA/El Cerrito
+
+#202107_012 Carley, Dave
+highschool Campolindo High School @ US/CA/Moraga
+
+#202107_013 Myers, Mike
+highschool San Ramon Valley High School @ US/CA/Danville
+
+#202107_014 Sanchez, Alex
+highschool Antioch High School @ US/CA/Antioch
+
+#202107_015 Nichols, Brian
+highschool El Cerrito High School @ US/CA/El Cerrito
+
+#202107_016 Faries, Paul
+highschool Campolindo High School @ US/CA/Moraga
+
+#202107_017 DeLucchi, Ron
+highschool Campolindo High School @ US/CA/Moraga
+
+#202107_018 Maas, Kevin
+highschool Bishop O'Dowd High School @ US/CA/Oakland
+
+#202107_019 Johnson, Erik
+highschool De La Salle High School @ US/CA/Concord
+
+#202107_020 Pickett, Antoine
+highschool El Cerrito High School @ US/CA/El Cerrito
+
+#202107_021 Brown, Terry
+highschool El Cerrito High School @ US/CA/El Cerrito
+
+#202107_022 Melcher, Paul
+highschool San Leandro High School @ US/CA/San Leandro

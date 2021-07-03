@@ -1,0 +1,120 @@
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-02
+ 
+#202106_001 McCarthy, Edward David
+birth 1921-12-15 @ US/MA/Boston
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-03
+ 
+#202106_002 Levy, Jacob
+birth 1901-02-06 @ US/AL/Birmingham
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-07
+ 
+#202106_003 Coleman, Frank Lee
+birth 1908-11-27 @ US/AL/Anniston
+
+---
+ 
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-07
+ 
+#202106_004 Rangnow, Milton Mayo
+birth 1908-02-24 @ US/PA/Philadelphia
+ 
+---
+ 
+!citation Pennsylvania Birth Certificates, 1906-1911
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-07
+ 
+#202106_005 Rangnow, Milton Maye
+birth 1908-02-24 @ US/PA/Philadelphia
+
+---
+ 
+!citation SSACI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-08
+ 
+#202106_006 Scalzi, Robert Daniel
+sameas ssn:088-24-4575
+birth 1935-05-09 @ US/CT/Stamford
+death 1997-06-20
+
+---
+ 
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-08
+ 
+#202106_007 Lestourgeon, Robert Shane
+sameas ssn:460-42-1596
+birth 1935-02-13 @ US/TX/San Antonio
+death 2004-12-17
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-08
+ 
+#202106_008 Winters, Lawrence William, Jr.
+birth 1907-03-29 @ US/MI/Detroit
+ 
+---
+ 
+!citation SSDI
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-08
+ 
+#202106_009 Winters, Lawrence
+sameas ssn:362-01-3440
+birth 1907-03-29
+death 1965-10
+
+---
+ 
+!citation US WWII Draft Registration Card, 1942
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-10
+ 
+#202106_010 Vigerust, Herman Oscar
+birth 1892-05-10 @ US/WI/Menomonie
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-11
+ 
+#202106_011 O'Kane, Kenneth
+birth 1907-05-21 @ US/NE/Lincoln
+
+---
+ 
+!citation Texas Death Certificates, 1903-1982
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-14
+ 
+#202106_012 Haven, Olin Eugene O'Neal
+sameas ssn:449-09-1181
+birth 1907-07-31 @ US/TX/Lone Oak
+death 1956-07-08 @ US/TX/Houston
+burial Levelland Municipal Cemetery @ US/TX/Levelland
+
+---
+
+!citation US WWII Draft Cards Young Men, 1940-1947
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-14
+ 
+#202106_013 Prince, William Joseph
+birth 1910-02-08 @ US/IL/Chicago
+
+---
+ 
+!citation US Dept of Veterans Affairs BIRLS Death File, 1850-2010
+!contributor Jack Morris <jackmo77@comcast.net> @ 2021-06-14
+ 
+#202106_014 Weeks, Joseph T.
+sameas ssn:006-10-5121
+birth 1917-07-05
+death 1978-05-25
